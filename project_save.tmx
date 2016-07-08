@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This installation manual will help you to understand the assembly and function of the equipment.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Antonio" changedate="20160708T192057Z" creationid="Antonio" creationdate="20160708T192057Z">
+        <seg>Este manual de instalación le ayudará a entender el ensamblaje y el funcionamiento del equipo.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
