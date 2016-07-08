@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>Only persons who are fully familiar with the content of this manual &lt;t0/&gt;are authorized&lt;t1/&gt; to operate and to maintain the equipment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Antonio" changedate="20160708T202508Z" creationid="Antonio" creationdate="20160708T202231Z">
-        <seg>Solo aquellas personas que ppppp completamente familiarizadas con el contenido de esta manual  &lt;t0/&gt;están autorizadas&lt;t1/&gt;  a operar el equipo y a realizar las tareas de mantenimiento.</seg>
+      <tuv lang="ES-US" changeid="paula" changedate="20160708T202545Z" creationid="Antonio" creationdate="20160708T202231Z">
+        <seg>Solo aquellas personas casa completamente familiarizadas con el contenido de esta manual  &lt;t0/&gt;están autorizadas&lt;t1/&gt;  a operar el equipo y a realizar las tareas de mantenimiento.</seg>
       </tuv>
     </tu>
     <tu>
