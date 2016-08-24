@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160824T190753Z" creationid="Pablo" creationdate="20160824T190753Z">
+        <seg>Conclusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only persons who are fully familiar with the content of this manual &lt;t0/&gt;are authorized&lt;t1/&gt; to operate and to maintain the equipment.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160708T202851Z" creationid="Antonio" creationdate="20160708T202231Z">
