@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34,6 +34,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160708T192057Z" creationid="Antonio" creationdate="20160708T192057Z">
         <seg>Este manual de instalación le ayudará a entender el ensamblaje y el funcionamiento del equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toward a harmonious society?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160824T194321Z" creationid="Pablo" creationdate="20160824T194321Z">
+        <seg>¿Hacia una sociedad en harmonía?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
