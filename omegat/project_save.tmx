@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -762,6 +762,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205648Z" creationid="Usuario" creationdate="20160902T205648Z">
         <seg>Deng Xiaoping fallece a los 92 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Xiaoping’s prestige within the Party was correspondingly diminished by Tiananmen and the disgrace of Zhao.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T153327Z" creationid="Usuario" creationdate="20160825T153247Z">
+        <seg>En la misma medida, el prestigio de Deng Xiaoping’s dentro del partido se fue desacreditando por Tiananment y la desgracia de Zhao. </seg>
       </tuv>
     </tu>
     <tu>
