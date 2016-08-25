@@ -1071,6 +1071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although damaged politically, he was hardly without resources.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T151651Z" creationid="Usuario" creationdate="20160825T151651Z">
+        <seg>A pesar de estar dañado políticamente, se encontraba casi sin recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although it was not clear at the time, a major corruption scandal in Shanghai’s Social Security Bureau was about to quickly balloon into a political imbroglio that would bring down Shanghai’s Party leader.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T223223Z" creationid="Pablo" creationdate="20160903T223223Z">
