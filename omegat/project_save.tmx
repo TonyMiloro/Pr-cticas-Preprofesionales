@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -322,6 +322,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T225119Z">
         <seg>A pesar de que la “fiebre cultural” a la que se hizo referencia con anterioridad permitió vínculos constantes entre el estado y los intelectuales, la autonomía en crecimiento de los intelectuales pronto generó un conflicto con el estado que empeoraría gradualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Among Party conservatives there was a deep sense of “we told you so.” Their warnings, they believed, had not been listened to, and Tiananmen was the fulfillment of their predictions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T145530Z" creationid="Usuario" creationdate="20160825T145205Z">
+        <seg>Entre los miembros del partido conservador, habia una gran sensación de "te lo habiamos dicho". Ellos creian que sus advertencias no habian sido escuchadas y Tianamen fue la realización de estas predicciones. </seg>
       </tuv>
     </tu>
     <tu>
