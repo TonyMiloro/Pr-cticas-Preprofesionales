@@ -76,6 +76,14 @@
         <seg>Este manual de instalación le ayudará a entender el ensamblaje y el funcionamiento del equipo.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the story most at odds with Western (particularly American) expectations of China, particularly in the first few years after Tiananmen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T225827Z" creationid="USUARIO" creationdate="20160826T225827Z">
+        <seg>This is the story most at odds with Western (particularly American) expectations of China, particularly in the first few years after Tiananmen.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
