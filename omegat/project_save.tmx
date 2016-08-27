@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T232312Z" creationid="USUARIO" creationdate="20160826T225619Z">
         <seg>La segunda área que necesita investigación es la del cambio en las posturas y las preocupaciones intelectuales en los años posteriores al Tiananmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The student demonstrations in 1989 raised such expectations that it took a long time for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160827T084646Z" creationid="USUARIO" creationdate="20160827T084646Z">
+        <seg>Las manifestaciones estudiantiles in 1989 raised such expectations that it took a long time for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
       </tuv>
     </tu>
     <tu>
