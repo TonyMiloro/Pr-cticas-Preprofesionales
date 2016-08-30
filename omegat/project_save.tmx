@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The trends in the first years of the new century are no more encouraging.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T200930Z" creationid="Juan Pablo" creationdate="20160830T200930Z">
+        <seg>No obstante, las tendencias de los primeros años del nuevo siglo tampoco son del todo alentadoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This installation manual will help you to understand the assembly and function of the equipment.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160708T192057Z" creationid="Antonio" creationdate="20160708T192057Z">
