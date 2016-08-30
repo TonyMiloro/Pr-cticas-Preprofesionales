@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t9/&gt;And&lt;t10/&gt; this critique has grown in the first years of the new century.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184403Z" creationid="Juan Pablo" creationdate="20160830T184403Z">
+        <seg>lo que generó que se siguieran desatando más críticas durante los primeros años del nuevo siglo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All information contained in this manual is important for safe and reliable operation of the equipment.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="paula" changedate="20160708T201941Z" creationid="paula" creationdate="20160708T200045Z">
         <seg>Toda la información contenida en este manual bbbbb es importante para que el equipo funcione de manera segura y confiable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As will be discussed in the chapters that follow, some intellectuals changed their minds while others emerged with new ideas.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184424Z" creationid="Juan Pablo" creationdate="20160830T184424Z">
+        <seg>Como se debatirá en los siguientes capítulos, algunos intelectuales cambiaron de parecer, mientras que otros propusieron nuevas ideas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>Indeed, it has been subjected to withering criticism by intellectuals, politicians, and popular forces &lt;t7/&gt;who&lt;t8/&gt; reject liberalism and the “neoliberal” economics they associate with it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160826T230050Z" creationid="Juan Pablo" creationdate="20160826T224943Z">
-        <seg>De hecho, (ver si se cambia porque se repite mucho arriba) el liberalismo ha sido severamente criticado por intelectuales, políticos y fuerzas populares que se oponen a esta doctrina y a sus respectivas economías “neoliberales”.</seg>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184255Z" creationid="Juan Pablo" creationdate="20160826T224943Z">
+        <seg>De hecho, (ver si se cambia porque se repite mucho arriba) el liberalismo fue objeto de duras críticas por parte de intelectuales, políticos y fuerzas populares que se oponen a esta doctrina y a sus respectivas economías “neoliberales”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +72,8 @@
       <tuv lang="EN-US">
         <seg>Ironically, even as China entered the WTO, a significant intellectual opposition to capitalism and globalization has emerged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160826T224956Z" creationid="Juan Pablo" creationdate="20160826T224956Z">
-        <seg>Irónicamente, al mismo tiempo que China ingresó al WTO, surgía una gran oposición intelectual al capitalismo y a la globalización. Esta crítica ha aumentado durante los primeros años del nuevo siglo.</seg>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184344Z" creationid="Juan Pablo" creationdate="20160826T224956Z">
+        <seg>Irónicamente, al mismo tiempo que China ingresó a la OMC, se generaba una gran oposición intelectual al capitalismo y a la globalización,</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160827T002806Z" creationid="Sofia" creationdate="20160827T002806Z">
         <seg>La interacción entre el estado y la opinión pública es compleja, sutil y a veces complicada a la vista de terceros; sin embargo, es un aspecto importante del proceso político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The political atmosphere and concerns changed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184441Z" creationid="Juan Pablo" creationdate="20160830T184441Z">
+        <seg>Además, surgieron nuevas modificaciones e inquietudes en el plano político.</seg>
       </tuv>
     </tu>
     <tu>
