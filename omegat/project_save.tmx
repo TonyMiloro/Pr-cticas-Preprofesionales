@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t13/&gt; This campaign no doubt encouraged the conservative mood, and to a certain extent the rise of nationalism redounded to the benefit of the government, restoring some of the legitimacy lost in June 1989.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191213Z" creationid="Juan Pablo" creationdate="20160830T191137Z">
+        <seg>&lt;t13/&gt; Sin duda, esta campaña  impulsaba las ideas conservadoras y, en cierta medida, el crecimiento del nacionalismo redundaba en beneficio del gobierno, así como también restablecía parte de la legitimidad que se había perdido en junio de 1989.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t3/&gt;The new mix has not extinguished liberalism; indeed, a new&lt;t4/&gt; &lt;t5/&gt;generation of liberal intellectuals is emerging to replenish the voices of the 1980s that &lt;t6/&gt;were silenced&lt;t7/&gt; by politics or exile.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185555Z" creationid="Juan Pablo" creationdate="20160830T185555Z">
@@ -152,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>The government encouraged nationalistic feelings through its campaign of patriotic education and generally discouraged writing about the “black spots” in its history&lt;t10/&gt; &lt;t11/&gt;18&lt;t12/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T190300Z" creationid="Juan Pablo" creationdate="20160830T190300Z">
-        <seg>El gobierno fomentaba el sentimiento nacionalista a través de campañas de educación patriótica y, por lo general, se oponía a que estas “manchas negras” formaran parte de su historia.&lt;t10/&gt; &lt;t11/&gt;18&lt;t12/&gt;.</seg>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191202Z" creationid="Juan Pablo" creationdate="20160830T190300Z">
+        <seg>El gobierno fomentaba el sentimiento nacionalista a través de campañas de educación patriótica y, por lo general, se oponía a que estas “manchas negras” formaran parte de su historia.&lt;t10/&gt; &lt;t11/&gt;18&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
