@@ -166,6 +166,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Of course, the burgeoning economy – contrasted with the difficulties in Russia and many other places – has helped the government make its case.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201501Z" creationid="Juan Pablo" creationdate="20160830T201501Z">
+        <seg>Claramente, la economía en crecimiento (en contraste con las dificultades que Rusia y otros países atravesaban) ayudaba a que el gobierno lograra su objetivo.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only persons who are fully familiar with the content of this manual &lt;t0/&gt;are authorized&lt;t1/&gt; to operate and to maintain the equipment.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160708T202851Z" creationid="Antonio" creationdate="20160708T202231Z">
@@ -258,6 +267,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T232624Z" creationid="USUARIO" creationdate="20160826T225827Z">
         <seg>Esta es la historia que más se aleja a las expectativas de Occidente, en especial las de Estados Unidos, respecto de China, particularmente durante los años que le siguieron al Tiananmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is most notable is that the government has become much better at “framing” issues, that is setting out an interpretation of events, whether SARS (Severe Acute Respiratory Syndrome) or China’s place in the world, and persuading people to accept at least the rough outlines of the government’s views.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201440Z" creationid="Juan Pablo" creationdate="20160830T201440Z">
+        <seg>Lo que más llama la atención es el perfeccionamiento del gobierno a la hora de “plantear” ciertas cuestiones, es decir, al presentar una interpretación de los eventos, ya sea del SRAG (síndrome respiratorio agudo grave) o de la posición de China con respecto al mundo, y al persuadir a la gente para que acepte, aunque sea a grandes rasgos, los puntos de vistas del gobierno.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
