@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By the summer, it was obvious that the goal could not be attained, and in August the NPC Standing Committee announced that inflation would be kept under 15 percent.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234106Z" creationid="Daniel-Andrea" creationdate="20160830T234106Z">
+        <seg>Cuando llega el verano,  era obvio que aquel objetivo no se había podido cumplir, y en agosto </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conclusion</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160824T190753Z" creationid="Pablo" creationdate="20160824T190753Z">
@@ -128,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>In the spring, the NPC had approved a commitment to keep inflation under 10 percent (down somewhat from the 13 percent registered in 1993).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T233840Z" creationid="Daniel-Andrea" creationdate="20160830T233840Z">
-        <seg>En la primavera, la NCP se comprometió a mantener la inflación por debajo del 10 por ciento (por debajo del 13 por ciento que se registró en 1993).</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234208Z" creationid="Daniel-Andrea" creationdate="20160830T233840Z">
+        <seg>En la primavera, la APN (Asamblea Popular Nacional) se comprometió a mantener la inflación por debajo del 10 por ciento (por debajo del 13 por ciento que se registró en 1993).</seg>
       </tuv>
     </tu>
     <tu>
