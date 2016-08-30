@@ -277,6 +277,14 @@
         <seg>Lo que más llama la atención es el perfeccionamiento del gobierno a la hora de “plantear” ciertas cuestiones, es decir, al presentar una interpretación de los eventos, ya sea del SRAG (síndrome respiratorio agudo grave) o de la posición de China con respecto al mundo, y al persuadir a la gente para que acepte, aunque sea a grandes rasgos, los puntos de vistas del gobierno.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the fourth plenum: emergence of the “third generation”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232231Z" creationid="Daniel-Andrea" creationdate="20160830T232231Z">
+        <seg>El cuarto Pleno: surgimiento de la "tercera generación"</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
