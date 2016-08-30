@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;The new mix has not extinguished liberalism; indeed, a new&lt;t4/&gt; &lt;t5/&gt;generation of liberal intellectuals is emerging to replenish the voices of the 1980s that &lt;t6/&gt;were silenced&lt;t7/&gt; by politics or exile.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185555Z" creationid="Juan Pablo" creationdate="20160830T185555Z">
+        <seg>, pero que, a su vez, no lograba opacar al liberalismo. Por el contrario, surge una nueva generación de intelectuales a favor del liberalismo para intentar reavivar las voces de la década de los ochenta que habían sido silenciadas por la política o el exilio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t9/&gt;And&lt;t10/&gt; this critique has grown in the first years of the new century.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184403Z" creationid="Juan Pablo" creationdate="20160830T184403Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160827T002806Z" creationid="Sofia" creationdate="20160827T002806Z">
         <seg>La interacción entre el estado y la opinión pública es compleja, sutil y a veces complicada a la vista de terceros; sin embargo, es un aspecto importante del proceso político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new mood of the 1990s generated a mixture of traditionalism, conservatism, utopianism, and nationalism&lt;t0/&gt; &lt;t1/&gt;17&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185434Z" creationid="Juan Pablo" creationdate="20160830T185427Z">
+        <seg>El nuevo ambiente de la época de los noventa provocó una mezcla de tradicionalismo, conservadurismo, utopismo y nacionalismo,</seg>
       </tuv>
     </tu>
     <tu>
