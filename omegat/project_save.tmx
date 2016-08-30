@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although most intellectuals remain liberal in their basic orientation, their ability to influence public discourse remains limited.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201004Z" creationid="Juan Pablo" creationdate="20160830T201004Z">
+        <seg>A pesar de que la mayoría de los intelectuales continuaron inclinándose hacia el liberalismo, su habilidad para influenciar el discurso público se veia limitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As will be discussed in the chapters that follow, some intellectuals changed their minds while others emerged with new ideas.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184424Z" creationid="Juan Pablo" creationdate="20160830T184424Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160828T210611Z" creationid="rona" creationdate="20160828T205846Z">
         <seg>CAMBIO SOCIAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The emergence of the Internet &lt;t0/&gt;has, of course, allowed&lt;t1/&gt; much broader circulation of ideas, but the government has fought back vigorously.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201201Z" creationid="Juan Pablo" creationdate="20160830T201201Z">
+        <seg>El surgimiento de internet claramente extendió la circulación de ideas; sin embargo, el gobierno oponía gran resistencia.</seg>
       </tuv>
     </tu>
     <tu>
