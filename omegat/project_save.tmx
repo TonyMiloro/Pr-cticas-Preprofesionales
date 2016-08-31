@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020229Z" creationid="Evelyn" creationdate="20160831T020229Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sin embargo, estas confirmaciones de la política de Deng no contribuyeron a la resurrección de la línea de reforma de Deng. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;thought as calling for “sustained, stable, and coordinated” economic devel-opment and “acting according to one’s capability” (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;liangli erxing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;).&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;6&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020415Z" creationid="Evelyn" creationdate="20160831T020415Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;tcomo llamar a un desarrollo económico “sustentable, estable y coordinado” y actuar de acuerdo con las posibilidades de uno” (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;liangli erxing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;).&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;6&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
