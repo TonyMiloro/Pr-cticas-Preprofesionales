@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;By late 1990, Deng seemed visibly distraught by China’s situation and his own inability to reassert his leadership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015827Z" creationid="Evelyn" creationdate="20160831T015827Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;A fines de los años 90, Deng se veía visiblemente consternado por la situación de China y por su propia incapacidad de reafirmar su liderazgo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;CHAPTER &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;2&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160830T175423Z" creationid="Evelyn" creationdate="20160830T175423Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160824T190753Z" creationid="Pablo" creationdate="20160824T190753Z">
         <seg>Conclusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng moves to revive reform</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015814Z" creationid="Evelyn" creationdate="20160831T015814Z">
+        <seg>Deng decide revivir la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -315,6 +331,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234431Z" creationid="Daniel-Andrea" creationdate="20160830T234431Z">
         <seg>El año finalizaría con una tasa de inflación anual del 21,7 por ciento.&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were moments of small progress.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015835Z" creationid="Evelyn" creationdate="20160831T015835Z">
+        <seg>Hubo momentos en los que se vieron pequeños avances.</seg>
       </tuv>
     </tu>
     <tu>
