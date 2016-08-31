@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160830T175423Z" creationid="Evelyn" creationdate="20160830T175423Z">
         <seg>&lt;f0&gt;&lt;f1&gt;CAPÍTULO&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;2&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Such verbal reaffirmations of Dengist policy, however, did not amount to a resurrection of Deng’s reform line.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020229Z" creationid="Evelyn" creationdate="20160831T020229Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sin embargo, estas confirmaciones de la política de Deng no contribuyeron a la resurrección de la línea de reforma de Deng. </seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +162,30 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184631Z" creationid="Juan Pablo" creationdate="20160830T184602Z">
         <seg>Los intelectuales de la Ilustración comenzaron a ser duramente criticados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, in November he met with Jiang Zemin and Yang Shangkun before their trip to Shenzhen to commemorate the tenth anniver-sary of the SEZs’ (Special Enterprise Zones) founding.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; This meeting no doubt accounts for Jiang’s high evaluation of the zones at the meeting later that month.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Then, on the eve of the Seventh Plenum in late December, Deng gave a short speech to several leaders emphasizing that planning and markets are not the distinguishing characteristics of socialism and capital-ism, respectively.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020109Z" creationid="Evelyn" creationdate="20160831T020109Z">
+        <seg>Por ejemplo, se reunió con Jiang Zemin y Yang Shangkun en noviembre, antes de que estos últimos viajaran a Shenzhen para conmemorar el décimo aniversario de la fundación de las ZEE (Zonas Económicas Especiales).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Sin duda, esta reunión representa la evaluación positiva que Jiang hizo de las zonas durante la reunión que tuvo lugar más tarde durante el mismo mes.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Luego, en la víspera  del séptimo Pleno a fines de diciembre, Deng dio un discurso breve a varios líderes, en el que enfatizó que la planificación y los mercados no eran las características distinctivas del socialismo y capitalismo, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, whereas the commu-nique´ adopted by the Party’s Seventh Plenum in December 1990 “highly evaluated” China’s “tremendous achievements” in reform and opening up, it nevertheless went on to stress the “integration of the planned economy with market &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulation&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;” and to repeat such staples of Chen Yun’s economic&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020343Z" creationid="Evelyn" creationdate="20160831T020343Z">
+        <seg>Por ejemplo, mientras el comunicado adoptado por el Séptimo Pleno del Partido en diciembre de 1990 “evaluó positivamente”  los “grandes logros” de China en la reforma y la apertura, enfatizó, sin embargo, la “integración de una economía planificada con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulación del mercado&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;”  y que repetir estos básicos  del pensamiento económico de Chen Yun &lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He also urged his colleagues to be bolder and to take some risks.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; These remarks evidently caused Jiang Zemin to revise his speech to the Seventh Plenum to declare that it was necessary to persist unswervingly in reform and opening up.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;4&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; One report indicates that Jiang made opening remarks to the plenum – but, if so, they have not been publicized; his closing remarks do contain a section called “firmly persist in reform and enlarge the scope of opening up.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;5&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020216Z" creationid="Evelyn" creationdate="20160831T020216Z">
+        <seg>Además, instó a sus colegas a ser más audaces y a tomar más riesgos.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Estas declaraciones evidentemente causaron que Jiang Zemin revisara su discurso durante el Séptimo Pleno para declarar que era necesario persistir sin apartarse en la reforma y apertura.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;4&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Un informe indica que Jiang dio un discurso inaugural en el pleno; pero, si lo hizo, no se hizo público. Su discurso de clausura sí contienen una sección llamada “persistir firmemente en reformar y ampliar el alcance de la apertura.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;5&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -379,6 +411,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232231Z" creationid="Daniel-Andrea" creationdate="20160830T232231Z">
         <seg>El cuarto Pleno: surgimiento de la "tercera generación"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Don’t think that engaging in a little market economy is [taking] the capitalist road; it is not like that,” Deng told his colleagues.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020128Z" creationid="Evelyn" creationdate="20160831T020128Z">
+        <seg> Deng le dijo a sus colegas: “no crean que involucrarse en la economía de mercado es [tomar] el camino capitalista; no es así.” </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
