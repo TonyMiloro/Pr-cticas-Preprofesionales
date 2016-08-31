@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;When Merle Goldman looked at the “democratic elite” in the 1980s, she inevitably turned to “&lt;t1/&gt;Hu&lt;t2/&gt; &lt;t3/&gt;Yaobang’s&lt;t4/&gt; intellectual network” because most of those who were exploring democratization of the political system were tied into this network in some fashion, trying to influence the policies of the CCP.19 Similarly, when I explored arguments over economic policy in the 1980s, the intellectuals involved were invariably tied into either the conservative network that surrounded Chen &lt;t5/&gt;Yun&lt;t6/&gt;, the senior Party leader and economic specialist, or Zhao &lt;t7/&gt;Ziyang&lt;t8/&gt;, the premier and later general secretary who led efforts to reform the economy and thus increasingly came into conflict with the policy preferences of Chen Yun.20 Intellectuals were, to an overwhelming degree, “establishment intellectuals.”&lt;t9/&gt;21</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T223026Z" creationid="Juan Pablo" creationdate="20160831T223011Z">
+        <seg>En ese entonces, podía ser a la red conservadora que rodeaba a Chen Yun,  líder principal del partido y especialista en economía o a la de Zhao Ziyang, primer ministro y posterior secretario general, quien se esforzó por reformar la economía, lo que causó que entrara cada vez más en conflicto con las preferencias políticas de Chen Yun. La mayor parte de los intelectuales eran “intelectuales del establishment”.&lt;t9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t13/&gt; This campaign no doubt encouraged the conservative mood, and to a certain extent the rise of nationalism redounded to the benefit of the government, restoring some of the legitimacy lost in June 1989.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191213Z">
@@ -473,8 +481,8 @@
       <tuv lang="EN-US">
         <seg>The government encouraged nationalistic feelings through its campaign of patriotic education and generally discouraged writing about the “black spots” in its history&lt;t10/&gt; &lt;t11/&gt;18&lt;t12/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191202Z">
-        <seg>El gobierno fomentaba el sentimiento nacionalista a través de campañas de educación patriótica y, por lo general, se oponía a que estas “manchas negras” formaran parte de su historia.&lt;t10/&gt; &lt;t11/&gt;18&lt;t12/&gt;</seg>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T223039Z">
+        <seg>El gobierno fomentaba el sentimiento nacionalista a través de campañas de educación patriótica y, por lo general, se oponía a que estas “manchas negras” formaran parte de su historia.&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
