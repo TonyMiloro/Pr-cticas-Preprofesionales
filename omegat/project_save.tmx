@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;By late 1990, Deng seemed visibly distraught by China’s situation and his own inability to reassert his leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015827Z" creationid="Evelyn" creationdate="20160831T015827Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015827Z">
         <seg>&lt;f0&gt;&lt;f1&gt;A fines de los años 90, Deng se veía visiblemente consternado por la situación de China y por su propia incapacidad de reafirmar su liderazgo. </seg>
       </tuv>
     </tu>
@@ -16,7 +16,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;CHAPTER &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;2&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160830T175423Z" creationid="Evelyn" creationdate="20160830T175423Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160830T175423Z">
         <seg>&lt;f0&gt;&lt;f1&gt;CAPÍTULO&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;2&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
@@ -24,7 +24,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Such verbal reaffirmations of Dengist policy, however, did not amount to a resurrection of Deng’s reform line.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020229Z" creationid="Evelyn" creationdate="20160831T020229Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020229Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sin embargo, estas confirmaciones de la política de Deng no contribuyeron a la resurrección de la línea de reforma de Deng. </seg>
       </tuv>
     </tu>
@@ -32,7 +32,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;thought as calling for “sustained, stable, and coordinated” economic devel-opment and “acting according to one’s capability” (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;liangli erxing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;).&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;6&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020415Z" creationid="Evelyn" creationdate="20160831T020415Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020415Z">
         <seg>&lt;f0&gt;&lt;f1&gt;tcomo llamar a un desarrollo económico “sustentable, estable y coordinado” y actuar de acuerdo con las posibilidades de uno” (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;liangli erxing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;).&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;6&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
@@ -40,7 +40,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;If inflation was disturbing, the performance of the state-owned economy was even more so.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234518Z" creationid="Daniel-Andrea" creationdate="20160830T234518Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234518Z">
         <seg>&lt;f0&gt;Si la inflación era preocupante, más lo era el desempeño de la economía de propiedad estatal.</seg>
       </tuv>
     </tu>
@@ -48,7 +48,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The Fourth Plenary Session of the Fourteenth Central Committee convened in Beijing on September 25–28, 1994.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232757Z" creationid="Daniel-Andrea" creationdate="20160830T232757Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232757Z">
         <seg>&lt;f0&gt;La cuarta sesión plenaria del décimo cuarto comité central se reunió en Pekín desde el 25 al 28 de septiembre de 1994 .</seg>
       </tuv>
     </tu>
@@ -56,7 +56,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;But&lt;t1/&gt; intellectual currents and the relationship between intellectuals and the state are also part of the broader problem of institution building.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T025154Z" creationid="Juan Pablo" creationdate="20160831T025145Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T025154Z">
         <seg>Sin embargo, las corrientes intelectuales y la relación entre los intelectuales y el estado también forman parte del problema del desarrollo institucional.</seg>
       </tuv>
     </tu>
@@ -64,7 +64,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t13/&gt; This campaign no doubt encouraged the conservative mood, and to a certain extent the rise of nationalism redounded to the benefit of the government, restoring some of the legitimacy lost in June 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191213Z" creationid="Juan Pablo" creationdate="20160830T191137Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191213Z">
         <seg>&lt;t13/&gt; Sin duda, esta campaña  impulsaba las ideas conservadoras y, en cierta medida, el crecimiento del nacionalismo redundaba en beneficio del gobierno, así como también restablecía parte de la legitimidad que se había perdido en junio de 1989.</seg>
       </tuv>
     </tu>
@@ -72,7 +72,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t14/&gt;But&lt;t15/&gt; nationalism and utopian strains of thought (which have emerged simultaneously) are clearly double-edged swords, of which the government is very much aware.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191447Z" creationid="Juan Pablo" creationdate="20160830T191447Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191447Z">
         <seg>&lt;t14/&gt;De cualquier manera,&lt;t15/&gt;el nacionalismo y los pensamientos utópicos, que surgieron simultáneamente, sin duda son armas de doble filo y el gobierno bien lo sabe.</seg>
       </tuv>
     </tu>
@@ -80,7 +80,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t145/&gt;Indeed, even as Ma was reporting these numbers, Jiang &lt;t146/&gt;Yanyong, &lt;t147/&gt;the&lt;t148/&gt; &lt;t149/&gt;retired&lt;t150/&gt; &lt;t151/&gt;head&lt;t152/&gt; &lt;t153/&gt;of&lt;t154/&gt; &lt;t155/&gt;China’s&lt;t156/&gt; &lt;t157/&gt;premier&lt;t158/&gt; &lt;t159/&gt;military&lt;t160/&gt; &lt;t161/&gt;hospital,&lt;t162/&gt; &lt;t163/&gt;Number&lt;t164/&gt; &lt;t165/&gt;301&lt;t166/&gt;,&lt;t167/&gt; &lt;t168/&gt;declared publicly&lt;t169/&gt; &lt;t170/&gt;that&lt;t171/&gt; &lt;t172/&gt;he&lt;t173/&gt; &lt;t174/&gt;knew&lt;t175/&gt; &lt;t176/&gt;of&lt;t177/&gt; &lt;t178/&gt;at&lt;t179/&gt; &lt;t180/&gt;least&lt;t181/&gt; &lt;t182/&gt;120&lt;t183/&gt; &lt;t184/&gt;cases&lt;t185/&gt; &lt;t186/&gt;of&lt;t187/&gt; &lt;t188/&gt;SARS&lt;t189/&gt; &lt;t190/&gt;at&lt;t191/&gt; &lt;t192/&gt;Number&lt;t193/&gt; &lt;t194/&gt;301&lt;t195/&gt; &lt;t196/&gt;Hospital and two other military&lt;t197/&gt; &lt;t198/&gt;hospitals.&lt;t199/&gt;42</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T155615Z" creationid="Flor" creationdate="20160831T155615Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T155615Z">
         <seg>&lt;t145/&gt;De hecho, incluso cuando Ma anunciaba estas cifras, Jiang Yanyong,&lt;t146/&gt;jefe retirado del principal hospital militar de China (Número 301), declaró publicamente que él tenía conocimiento de al menos 120 casos de SRAS en el Hospital Número 301 y otros dos hospitales militares. &lt;t147/&gt;&lt;t148/&gt; &lt;t149/&gt;&lt;t150/&gt; &lt;t151/&gt;&lt;t152/&gt; &lt;t153/&gt;&lt;t154/&gt; &lt;t155/&gt;&lt;t156/&gt; &lt;t157/&gt;&lt;t158/&gt; &lt;t159/&gt;&lt;t160/&gt; &lt;t161/&gt;&lt;t162/&gt; &lt;t163/&gt;&lt;t164/&gt; &lt;t165/&gt;&lt;t166/&gt;&lt;t167/&gt; &lt;t168/&gt;&lt;t169/&gt; &lt;t170/&gt;&lt;t171/&gt; &lt;t172/&gt;&lt;t173/&gt; &lt;t174/&gt;&lt;t175/&gt; &lt;t176/&gt;&lt;t177/&gt; &lt;t178/&gt;&lt;t179/&gt; &lt;t180/&gt;&lt;t181/&gt; &lt;t182/&gt;&lt;t183/&gt; &lt;t184/&gt;&lt;t185/&gt; &lt;t186/&gt;&lt;t187/&gt; &lt;t188/&gt;&lt;t189/&gt; &lt;t190/&gt;&lt;t191/&gt; &lt;t192/&gt;&lt;t193/&gt; &lt;t194/&gt;&lt;t195/&gt; &lt;t196/&gt;&lt;t197/&gt; &lt;t198/&gt;.&lt;t199/&gt;42</seg>
       </tuv>
     </tu>
@@ -88,7 +88,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t16/&gt;So&lt;t17/&gt; even if the decline of Enlightenment thinking has ameliorated some of the alienation between state and society that evolved in the 1990s, the new trends are hardly reassuring in the long run.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T192048Z" creationid="Juan Pablo" creationdate="20160830T192048Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T192048Z">
         <seg>&lt;t16/&gt;Por lo tanto,&lt;t17/&gt; aunque la decadencia del pensamiento ilustrado haya reducido la enemistad que evolucionó en la década de los noventa entre el estado y la sociedad, las nuevas tendencias difícilmente generarán tranquilidad a largo plazo.</seg>
       </tuv>
     </tu>
@@ -96,7 +96,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t3/&gt;The new mix has not extinguished liberalism; indeed, a new&lt;t4/&gt; &lt;t5/&gt;generation of liberal intellectuals is emerging to replenish the voices of the 1980s that &lt;t6/&gt;were silenced&lt;t7/&gt; by politics or exile.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185555Z" creationid="Juan Pablo" creationdate="20160830T185555Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185555Z">
         <seg>, pero que, a su vez, no lograba opacar al liberalismo. Por el contrario, surge una nueva generación de intelectuales a favor del liberalismo para intentar reavivar las voces de la década de los ochenta que habían sido silenciadas por la política o el exilio.</seg>
       </tuv>
     </tu>
@@ -104,7 +104,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t36/&gt;And it is clear that this was a decision, not an absence of knowledge; Guangdong health authorities had reported the new virus to B&lt;t37/&gt;eijing in &lt;t38/&gt;November, &lt;t39/&gt;and one bold Guangdong newspaper,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;had&lt;t47/&gt; &lt;t48/&gt;reported&lt;t49/&gt; &lt;t50/&gt;on&lt;t51/&gt; &lt;t52/&gt;the&lt;t53/&gt; &lt;t54/&gt;disease&lt;t55/&gt; &lt;t56/&gt;in&lt;t57/&gt; &lt;t58/&gt;December.&lt;t59/&gt; &lt;t60/&gt;It &lt;t61/&gt;was not until April &lt;t62/&gt;2&lt;t63/&gt;, &lt;t64/&gt;2003&lt;t65/&gt;, &lt;t66/&gt;however, &lt;t67/&gt;that the newly named &lt;t68/&gt;premier, &lt;t69/&gt;Wen &lt;t70/&gt;Jiabao, presided over a State Council meeting that discussed the SAR&lt;t71/&gt;S issue.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T125746Z" creationid="Flor" creationdate="20160831T125746Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T125746Z">
         <seg>&lt;t36/&gt;Y queda claro que fue una decisión y no la falta de conocimiento; Las autoridades del área de salud de Guangdong habían enviado información sobre el virus&lt;t37/&gt;a Pekín&lt;t38/&gt;en noviembre, &lt;t39/&gt;y un audaz periódico de Guangdong,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;había&lt;t47/&gt; &lt;t48/&gt;emitido&lt;t49/&gt; &lt;t50/&gt;un&lt;t51/&gt; &lt;t52/&gt;informe&lt;t53/&gt; &lt;t54/&gt;sobre&lt;t55/&gt; &lt;t56/&gt;la&lt;t57/&gt; &lt;t58/&gt;enfermedad en diciembre.&lt;t59/&gt; &lt;t60/&gt;Sin embargo, fue&lt;t61/&gt;recién el 2 de abril &lt;t62/&gt;del año&lt;t63/&gt;2003&lt;t64/&gt;que&lt;t65/&gt;Wen&lt;t66/&gt;Jiabao&lt;t67/&gt;,&lt;t68/&gt;el nuevo primer ministro&lt;t69/&gt;,&lt;t70/&gt;presidió una reunión en el Consejo de Estado para discutir el problema&lt;t71/&gt;del SRAS.</seg>
       </tuv>
     </tu>
@@ -112,7 +112,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t9/&gt;And&lt;t10/&gt; this critique has grown in the first years of the new century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184403Z" creationid="Juan Pablo" creationdate="20160830T184403Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184403Z">
         <seg>lo que generó que se siguieran desatando más críticas durante los primeros años del nuevo siglo.</seg>
       </tuv>
     </tu>
@@ -120,7 +120,7 @@
       <tuv lang="EN-US">
         <seg>All information contained in this manual is important for safe and reliable operation of the equipment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="paula" changedate="20160708T201941Z" creationid="paula" creationdate="20160708T200045Z">
+      <tuv lang="ES-US" changeid="paula" changedate="20160708T201941Z">
         <seg>Toda la información contenida en este manual bbbbb es importante para que el equipo funcione de manera segura y confiable.</seg>
       </tuv>
     </tu>
@@ -128,7 +128,7 @@
       <tuv lang="EN-US">
         <seg>Although most intellectuals remain liberal in their basic orientation, their ability to influence public discourse remains limited.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201004Z" creationid="Juan Pablo" creationdate="20160830T201004Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201004Z">
         <seg>A pesar de que la mayoría de los intelectuales continuaron inclinándose hacia el liberalismo, su habilidad para influenciar el discurso público se veia limitada.</seg>
       </tuv>
     </tu>
@@ -136,7 +136,7 @@
       <tuv lang="EN-US">
         <seg>As will be discussed in the chapters that follow, some intellectuals changed their minds while others emerged with new ideas.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184424Z" creationid="Juan Pablo" creationdate="20160830T184424Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184424Z">
         <seg>Como se debatirá en los siguientes capítulos, algunos intelectuales cambiaron de parecer, mientras que otros propusieron nuevas ideas.</seg>
       </tuv>
     </tu>
@@ -144,7 +144,7 @@
       <tuv lang="EN-US">
         <seg>At the same time, the &lt;t0/&gt;commercialization of culture challenged traditional understandings of the role of intellectuals from below.16</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184725Z" creationid="Juan Pablo" creationdate="20160830T184725Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184725Z">
         <seg> Al mismo tiempo, la comercialización de la cultura desafió el entendimiento tradicional del rol de los intelectuales.</seg>
       </tuv>
     </tu>
@@ -152,7 +152,7 @@
       <tuv lang="EN-US">
         <seg>By September, some 44 percent of SOEs were losing money, “triangular debts” had ballooned to 400 billion yuan, and about 80 percent of SOE income went to debt service.&lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;In mid-September, the State Statistical Bureau issued a report in which it said that China’s economy was on the verge of entering the “red zone,” indicating severe trouble.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T003709Z" creationid="Daniel-Andrea" creationdate="20160830T235749Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T003709Z">
         <seg>Para septiembre, un 44 por ciento de las empresas estatales (State-owned enterprise, SOE) estaban perdiendo dinero, las "deudas triangulares" habían disparado a 400 mil millones de yuanes, y alrededor del 80 por ciento del ingreso de las SOEs fue al servicio de la deuda &lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. A mediados de septiembre , la Oficina Nacional de Estadísticas publicó un informe en el que dijo que la economía china estaba a punto de entrar en la " zona roja ", lo que indica serios problemas.</seg>
       </tuv>
     </tu>
@@ -160,7 +160,7 @@
       <tuv lang="EN-US">
         <seg>By the summer, it was obvious that the goal could not be attained, and in August the NPC Standing Committee announced that inflation would be kept under 15 percent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234329Z" creationid="Daniel-Andrea" creationdate="20160830T234106Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234329Z">
         <seg>Cuando llega el verano,  era obvio que aquel objetivo no se había podido cumplir, y en agosto el comité permanente anunció que la inflación se mantendría por debajo del 15 por ciento. </seg>
       </tuv>
     </tu>
@@ -168,7 +168,7 @@
       <tuv lang="EN-US">
         <seg>City officials similarly covered up the situation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T165602Z" creationid="Flor" creationdate="20160831T165602Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T165602Z">
         <seg>Los funcionarios de la ciudad también encubrieron la situación.</seg>
       </tuv>
     </tu>
@@ -176,7 +176,7 @@
       <tuv lang="EN-US">
         <seg>Conclusion</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160824T190753Z" creationid="Pablo" creationdate="20160824T190753Z">
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160824T190753Z">
         <seg>Conclusión</seg>
       </tuv>
     </tu>
@@ -184,7 +184,7 @@
       <tuv lang="EN-US">
         <seg>Conversely, extreme alienation exacerbates political tensions, while cynicism undermines the effectiveness of nascent institutions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T045606Z" creationid="Juan Pablo" creationdate="20160831T045606Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T045606Z">
         <seg>A la inversa, la enemistad extrema empeora las tensiones políticas y el cinismo debilita la eficacia de las instituciones emergentes.</seg>
       </tuv>
     </tu>
@@ -192,7 +192,7 @@
       <tuv lang="EN-US">
         <seg>Deng moves to revive reform</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015814Z" creationid="Evelyn" creationdate="20160831T015814Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015814Z">
         <seg>Deng decide revivir la reforma.</seg>
       </tuv>
     </tu>
@@ -200,7 +200,7 @@
       <tuv lang="EN-US">
         <seg>Empresa</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Antonio" changedate="20160826T170449Z" creationid="Antonio" creationdate="20160826T170449Z">
+      <tuv lang="ES-US" changeid="Antonio" changedate="20160826T170449Z">
         <seg>Company</seg>
       </tuv>
     </tu>
@@ -208,7 +208,7 @@
       <tuv lang="EN-US">
         <seg>Enlightenment intellectuals came increasingly under fire.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184631Z" creationid="Juan Pablo" creationdate="20160830T184602Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184631Z">
         <seg>Los intelectuales de la Ilustración comenzaron a ser duramente criticados.</seg>
       </tuv>
     </tu>
@@ -216,7 +216,7 @@
       <tuv lang="EN-US">
         <seg>For instance, in November he met with Jiang Zemin and Yang Shangkun before their trip to Shenzhen to commemorate the tenth anniver-sary of the SEZs’ (Special Enterprise Zones) founding.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; This meeting no doubt accounts for Jiang’s high evaluation of the zones at the meeting later that month.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Then, on the eve of the Seventh Plenum in late December, Deng gave a short speech to several leaders emphasizing that planning and markets are not the distinguishing characteristics of socialism and capital-ism, respectively.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020109Z" creationid="Evelyn" creationdate="20160831T020109Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020109Z">
         <seg>Por ejemplo, se reunió con Jiang Zemin y Yang Shangkun en noviembre, antes de que estos últimos viajaran a Shenzhen para conmemorar el décimo aniversario de la fundación de las ZEE (Zonas Económicas Especiales).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Sin duda, esta reunión representa la evaluación positiva que Jiang hizo de las zonas durante la reunión que tuvo lugar más tarde durante el mismo mes.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Luego, en la víspera  del séptimo Pleno a fines de diciembre, Deng dio un discurso breve a varios líderes, en el que enfatizó que la planificación y los mercados no eran las características distinctivas del socialismo y capitalismo, respectivamente.</seg>
       </tuv>
     </tu>
@@ -224,7 +224,7 @@
       <tuv lang="EN-US">
         <seg>For instance, whereas the commu-nique´ adopted by the Party’s Seventh Plenum in December 1990 “highly evaluated” China’s “tremendous achievements” in reform and opening up, it nevertheless went on to stress the “integration of the planned economy with market &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulation&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;” and to repeat such staples of Chen Yun’s economic&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020343Z" creationid="Evelyn" creationdate="20160831T020343Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020343Z">
         <seg>Por ejemplo, mientras el comunicado adoptado por el Séptimo Pleno del Partido en diciembre de 1990 “evaluó positivamente”  los “grandes logros” de China en la reforma y la apertura, enfatizó, sin embargo, la “integración de una economía planificada con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulación del mercado&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;”  y que repetir estos básicos  del pensamiento económico de Chen Yun &lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
@@ -232,7 +232,7 @@
       <tuv lang="EN-US">
         <seg>Given the delicate nature of the relationship between Jiang and &lt;t0/&gt;Hu, &lt;t1/&gt;it is perhaps understandable &lt;t2/&gt;– &lt;t3/&gt;if not forgivable &lt;t4/&gt;– &lt;t5/&gt;that the leadership did not confront the new disease that had be&lt;t6/&gt;en discovered in Guangdong province the previous November and would subsequently be known to the world   as Severe Acute Respiratory Syndrome (SARS).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T124034Z" creationid="Flor" creationdate="20160831T124034Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T124034Z">
         <seg>Debido a la delicada naturaleza de la relación entre Jiang y&lt;t0/&gt;Hu, &lt;t1/&gt;es en cierto modo comprensible&lt;t2/&gt;, &lt;t3/&gt;si no excusable&lt;t4/&gt;, &lt;t5/&gt;que el liderazgo no enfrentara la nueva enfermedad que había sido descubierta en la provincia de Guangdong&lt;t6/&gt;en el mes de noviembre y sería luego conocida en todo el mundo como Síndrome Respiratorio Agudo Severo (SRAS).</seg>
       </tuv>
     </tu>
@@ -240,7 +240,7 @@
       <tuv lang="EN-US">
         <seg>He also urged his colleagues to be bolder and to take some risks.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; These remarks evidently caused Jiang Zemin to revise his speech to the Seventh Plenum to declare that it was necessary to persist unswervingly in reform and opening up.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;4&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; One report indicates that Jiang made opening remarks to the plenum – but, if so, they have not been publicized; his closing remarks do contain a section called “firmly persist in reform and enlarge the scope of opening up.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;5&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020216Z" creationid="Evelyn" creationdate="20160831T020216Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020216Z">
         <seg>Además, instó a sus colegas a ser más audaces y a tomar más riesgos.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Estas declaraciones evidentemente causaron que Jiang Zemin revisara su discurso durante el Séptimo Pleno para declarar que era necesario persistir sin apartarse en la reforma y apertura.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;4&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Un informe indica que Jiang dio un discurso inaugural en el pleno; pero, si lo hizo, no se hizo público. Su discurso de clausura sí contienen una sección llamada “persistir firmemente en reformar y ampliar el alcance de la apertura.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;5&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
     </tu>
@@ -248,7 +248,7 @@
       <tuv lang="EN-US">
         <seg>However, for much of the 1990s (except in the economic realm, where liberal ideas continued to receive a good hearing), liberal thinking was largely marginalized in public discourse.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185740Z" creationid="Juan Pablo" creationdate="20160830T185740Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185740Z">
         <seg> Sin embargo, durante la mayor parte de la década de los noventa, el pensamiento liberal fue marginado en gran medida del discurso público, exceptuando el plano económico, que seguía siendo influenciado por pensamientos liberales.</seg>
       </tuv>
     </tu>
@@ -256,7 +256,7 @@
       <tuv lang="EN-US">
         <seg>In &lt;t26/&gt;May, &lt;t27/&gt;the Xinhua News Agency reported that at least &lt;t28/&gt;120 &lt;t29/&gt;officials had been sacked for der&lt;t30/&gt;eliction of &lt;t31/&gt;duty.&lt;t32/&gt;45&lt;t33/&gt; &lt;t34/&gt;As many people have noted, there was a political dimension as well.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T170556Z" creationid="Flor" creationdate="20160831T170556Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T170556Z">
         <seg>En mayo, la Agencia de Noticias Xinhua informó que al menos 120 funcionarios habían sido despedidos por negligencia. 45. Como muchos han notado, también existía un elemento político.&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;</seg>
       </tuv>
     </tu>
@@ -264,7 +264,7 @@
       <tuv lang="EN-US">
         <seg>In any event, understanding the changes that have already occurred is the first step in thinking more clearly about China’s present and future.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054802Z" creationid="Juan Pablo" creationdate="20160831T054802Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054802Z">
         <seg>De cualquier manera, analizar los cambios que han ocurrido en el pasado es fundamental  para comprender la situación actual y futura de China.</seg>
       </tuv>
     </tu>
@@ -272,7 +272,7 @@
       <tuv lang="EN-US">
         <seg>In the spring, the NPC had approved a commitment to keep inflation under 10 percent (down somewhat from the 13 percent registered in 1993).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T001110Z" creationid="Daniel-Andrea" creationdate="20160830T233840Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T001110Z">
         <seg>En la primavera, la APN (Asamblea Popular Nacional) se comprometió a mantener la inflación por debajo del 10 por ciento (un poco menos que el 13 por ciento que se registró en 1993).</seg>
       </tuv>
     </tu>
@@ -280,7 +280,7 @@
       <tuv lang="EN-US">
         <seg>In&lt;t0/&gt; &lt;t1/&gt;sacking&lt;t2/&gt; &lt;t3/&gt;Zhang&lt;t4/&gt; &lt;t5/&gt;and&lt;t6/&gt; &lt;t7/&gt;Meng,&lt;t8/&gt; &lt;t9/&gt;Hu&lt;t10/&gt; &lt;t11/&gt;was&lt;t12/&gt; &lt;t13/&gt;clearly&lt;t14/&gt; &lt;t15/&gt;trying&lt;t16/&gt; &lt;t17/&gt;to&lt;t18/&gt; &lt;t19/&gt;make&lt;t20/&gt; &lt;t21/&gt;a&lt;t22/&gt; &lt;t23/&gt;point&lt;t24/&gt; &lt;t25/&gt;about accountability that would become one of the hallmarks of his adminis- tration.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T170131Z" creationid="Flor" creationdate="20160831T170131Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T170131Z">
         <seg>Al despedir a Zhang y Meng, Hu claramente estaba intentando demostrar algo sobre responsabilidad que se convertiría en uno de los sellos distintivos de su administración&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;.</seg>
       </tuv>
     </tu>
@@ -288,7 +288,7 @@
       <tuv lang="EN-US">
         <seg>Indeed, Zhang and Meng were not the only ones fired during     the SARS crisis.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T170215Z" creationid="Flor" creationdate="20160831T170215Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T170215Z">
         <seg>De hecho, Zhang y Meng no fueron los únicos despedidos durante la crisis del SRAS.</seg>
       </tuv>
     </tu>
@@ -296,7 +296,7 @@
       <tuv lang="EN-US">
         <seg>Indeed, it has been subjected to withering criticism by intellectuals, politicians, and popular forces &lt;t7/&gt;who&lt;t8/&gt; reject liberalism and the “neoliberal” economics they associate with it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184255Z" creationid="Juan Pablo" creationdate="20160826T224943Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184255Z">
         <seg>De hecho, (ver si se cambia porque se repite mucho arriba) el liberalismo fue objeto de duras críticas por parte de intelectuales, políticos y fuerzas populares que se oponen a esta doctrina y a sus respectivas economías “neoliberales”.</seg>
       </tuv>
     </tu>
@@ -304,7 +304,7 @@
       <tuv lang="EN-US">
         <seg>Intellectual concerns</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T231123Z" creationid="USUARIO" creationdate="20160826T225607Z">
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T231123Z">
         <seg>Preocupaciones intelectuales</seg>
       </tuv>
     </tu>
@@ -312,7 +312,7 @@
       <tuv lang="EN-US">
         <seg>Ironically, even as China entered the WTO, a significant intellectual opposition to capitalism and globalization has emerged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184344Z" creationid="Juan Pablo" creationdate="20160826T224956Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184344Z">
         <seg>Irónicamente, al mismo tiempo que China ingresó a la OMC, se generaba una gran oposición intelectual al capitalismo y a la globalización,</seg>
       </tuv>
     </tu>
@@ -320,7 +320,7 @@
       <tuv lang="EN-US">
         <seg>It &lt;t0/&gt;is thus apparent that the startling decision to remove Zhang and&lt;t1/&gt; &lt;t2/&gt;Meng from their positions was made at the last minute.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164713Z" creationid="Flor" creationdate="20160831T164713Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164713Z">
         <seg> &lt;t0/&gt;Parece ser que la sorprendente decisión de apartar de sus cargos a Zhang y Meng fue tomada a último momento.&lt;t1/&gt; &lt;t2/&gt;</seg>
       </tuv>
     </tu>
@@ -328,7 +328,7 @@
       <tuv lang="EN-US">
         <seg>It is also of some concern whether the more illiberal declarations emerging in recent &lt;t5/&gt;years could form a basis for popular mobilization – as with the demonstrations against Japan in the spring of 2005.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054654Z" creationid="Juan Pablo" creationdate="20160831T054624Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054654Z">
         <seg>También resulta de importancia comprobar si la intolerancia que se promueve en las declaraciones en los últimos años forma la base de las movilizaciones populares, como las manifestaciones contra Japón en la primavera de 2005.</seg>
       </tuv>
     </tu>
@@ -336,7 +336,7 @@
       <tuv lang="EN-US">
         <seg>It is open to question whether the turn away from the Enlightenment&lt;t4/&gt; ideals of the May Fourth Movement can continue to pressure the political system in ways that promote greater openness, accountability, and restraint.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054420Z" creationid="Juan Pablo" creationdate="20160831T054420Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054420Z">
         <seg>Asimismo, es debatible si el alejamiento de los ideales de la Ilustración que provocó el Movimiento del Cuatro de Mayo continúa influyendo en el sistema político, a través de métodos que promueven la aceptación de nuevas ideas, la responsabilidad y la compostura.</seg>
       </tuv>
     </tu>
@@ -344,7 +344,7 @@
       <tuv lang="EN-US">
         <seg>Just as important, the professionalization of the bureaucracy turned some intellectuals into technocrats; others turned to academic specializations, giving up to some extent the traditional role of social critic.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184658Z" creationid="Juan Pablo" creationdate="20160830T184658Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184658Z">
         <seg>También resulta de importancia que la profesionalización de la burocracia provocó que algunos intelectuales se convirtieran en tecnócratas, mientras que otros recurrieron a especializaciones académicas y, en cierta medida, dejaron de lado el rol tradicional de la crítica social.</seg>
       </tuv>
     </tu>
@@ -352,7 +352,7 @@
       <tuv lang="EN-US">
         <seg>Liberal writings continued to be published, though when and to what extent depended very much on the political &lt;t8/&gt;atmosphere,&lt;t9/&gt; and some liberals remained optimistic about the future – though others felt very much besieged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T190131Z" creationid="Juan Pablo" creationdate="20160830T190131Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T190131Z">
         <seg>Por otro lado, los textos con  estos ideales continuaron siendo publicados, aunque se veían seriamente limitados por el contexto político. Algunos liberales mantenían su optimismo respecto del futuro, mientras que otros permanecieron escépticos.</seg>
       </tuv>
     </tu>
@@ -360,7 +360,7 @@
       <tuv lang="EN-US">
         <seg>Mao developed his core position in the Party by leading it through the most traumatic phase of its history, bringing the Party back from the debacle in Jiangxi to become a vigorous and growing movement in the heady days of Yan’an and the Sino–Japanese War.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160828T220630Z" creationid="bluebird" creationdate="20160828T220630Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160828T220630Z">
         <seg>Mao construyó su posición fundamental en el partido al dirigirla durante la fase más traumática de su historia, al restaurar el partido de la debacle en Jiangxi a convertirse en un movimiento vigoroso y creicente movimiento durante los días emocionantes de Yan y la guerra Sino-japonesa.</seg>
       </tuv>
     </tu>
@@ -368,7 +368,7 @@
       <tuv lang="EN-US">
         <seg>Of course, the burgeoning economy – contrasted with the difficulties in Russia and many other places – has helped the government make its case.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201501Z" creationid="Juan Pablo" creationdate="20160830T201501Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201501Z">
         <seg>Claramente, la economía en crecimiento (en contraste con las dificultades que Rusia y otros países atravesaban) ayudaba a que el gobierno lograra su objetivo.
 </seg>
       </tuv>
@@ -377,7 +377,7 @@
       <tuv lang="EN-US">
         <seg>On April &lt;t106/&gt;9&lt;t107/&gt;, the Vice Minister of Health, Ma Xiaowei, declared that there had been twenty-two cases of SARS in the city and &lt;t108/&gt;four&lt;t109/&gt; &lt;t110/&gt;deaths.&lt;t111/&gt; &lt;t112/&gt;“&lt;t113/&gt;T&lt;t114/&gt;oda&lt;t115/&gt;y&lt;t116/&gt;,&lt;t117/&gt; &lt;t118/&gt;the&lt;t119/&gt; &lt;t120/&gt;numbers&lt;t121/&gt; &lt;t122/&gt;I&lt;t123/&gt; &lt;t124/&gt;r&lt;t125/&gt;epo&lt;t126/&gt;r&lt;t127/&gt;t&lt;t128/&gt; &lt;t129/&gt;a&lt;t130/&gt;r&lt;t131/&gt;e&lt;t132/&gt; &lt;t133/&gt;cor&lt;t134/&gt;r&lt;t135/&gt;ect,”&lt;t136/&gt; &lt;t137/&gt;he&lt;t138/&gt; &lt;t139/&gt;stated&lt;t140/&gt; &lt;t141/&gt;baldly&lt;t142/&gt; &lt;t143/&gt;but &lt;t144/&gt;falsely.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T155009Z" creationid="Flor" creationdate="20160831T155009Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T155009Z">
         <seg>El 9 de abril, Ma Xiaowei, el vice ministro de salud, anunció que habían existido veintidos casos de SRAS en la ciudad y cuatro muertes.&lt;t106/&gt;&lt;t107/&gt; &lt;t108/&gt;"Los números que anuncio hoy son correctos", declaró Xiaowei con audacia pero, sin embargo, con falsedad.&lt;t109/&gt; &lt;t110/&gt;&lt;t111/&gt; &lt;t112/&gt;&lt;t113/&gt;&lt;t114/&gt;&lt;t115/&gt;&lt;t116/&gt;&lt;t117/&gt; &lt;t118/&gt;&lt;t119/&gt; &lt;t120/&gt;&lt;t121/&gt; &lt;t122/&gt;&lt;t123/&gt; &lt;t124/&gt;&lt;t125/&gt;&lt;t126/&gt;&lt;t127/&gt;&lt;t128/&gt; &lt;t129/&gt;&lt;t130/&gt;&lt;t131/&gt;&lt;t132/&gt; &lt;t133/&gt;&lt;t134/&gt;&lt;t135/&gt;&lt;t136/&gt; &lt;t137/&gt;&lt;t138/&gt; &lt;t139/&gt;&lt;t140/&gt; &lt;t141/&gt;&lt;t142/&gt; &lt;t143/&gt;&lt;t144/&gt;</seg>
       </tuv>
     </tu>
@@ -385,7 +385,7 @@
       <tuv lang="EN-US">
         <seg>On the contrary, the economy took a serious turn for the worse in 1994.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T233635Z" creationid="Daniel-Andrea" creationdate="20160830T233635Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T233635Z">
         <seg>Todo lo contrario, la economía dio un giro grave y para peor en 1994.</seg>
       </tuv>
     </tu>
@@ -393,7 +393,7 @@
       <tuv lang="EN-US">
         <seg>On&lt;t0/&gt; &lt;t1/&gt;April&lt;t2/&gt; &lt;t3/&gt;17&lt;t4/&gt;,&lt;t5/&gt; &lt;t6/&gt;Hu&lt;t7/&gt; &lt;t8/&gt;Jintao&lt;t9/&gt; &lt;t10/&gt;presided&lt;t11/&gt; &lt;t12/&gt;over&lt;t13/&gt; &lt;t14/&gt;a&lt;t15/&gt; &lt;t16/&gt;PBSC&lt;t17/&gt; &lt;t18/&gt;meeting,&lt;t19/&gt; &lt;t20/&gt;the&lt;t21/&gt; &lt;t22/&gt;very&lt;t23/&gt; &lt;t24/&gt;convening of which stood in contrast to the April &lt;t25/&gt;2 &lt;t26/&gt;meeting’s declaration that the &lt;t27/&gt;wo&lt;t28/&gt;r&lt;t29/&gt;k&lt;t30/&gt; &lt;t31/&gt;of&lt;t32/&gt; &lt;t33/&gt;p&lt;t34/&gt;r&lt;t35/&gt;e&lt;t36/&gt;v&lt;t37/&gt;ention&lt;t38/&gt; &lt;t39/&gt;and&lt;t40/&gt; &lt;t41/&gt;cu&lt;t42/&gt;r&lt;t43/&gt;e&lt;t44/&gt; &lt;t45/&gt;had&lt;t46/&gt; &lt;t47/&gt;obtained&lt;t48/&gt; &lt;t49/&gt;“&lt;t50/&gt;o&lt;t51/&gt;b&lt;t52/&gt;vious&lt;t53/&gt; &lt;t54/&gt;r&lt;t55/&gt;esults.”&lt;t56/&gt; &lt;t57/&gt;This&lt;t58/&gt; &lt;t59/&gt;meeting &lt;t60/&gt;warned officials not to delay reports and not to cover up the situation.&lt;t61/&gt;43&lt;t62/&gt; &lt;t63/&gt;There was no indication at this time that a decision had been made to remove Zhang &lt;t64/&gt;Wenkang &lt;t65/&gt;or Meng Xuenong (the mayor of Beijing) from office; indeed, foreign reporters were told on the morning of April &lt;t66/&gt;20&lt;t67/&gt; &lt;t68/&gt;that</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164437Z" creationid="Flor" creationdate="20160831T161705Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164437Z">
         <seg>El 17 de abril, Ju Hintao presidió una reunión del Comité Permanente del Politburó. La realización de esta reunión contrastó con la declaración de la reunión del 2 de abril de que los trabajos de prevención y cura habían logrado "resultados obvios". Mediante esta junta se advirtió a los oficiales que no debían retrasar los informes ni encubrir la situación. 43&lt;t0/&gt;No existía en ese momento ningún indicio de que hubiera sido tomada la decisión de apartar a Zhang Wenkang o Meng Xuenong (el alcalde de Pekín) de sus cargos; de hecho, se le había comunicado a  los reporteros de países extranjeros que durante la mañana del 20 de abril Zhang y Meng darían una conferencia de prensa para informar detalles sobre la situación del SRAS. &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt; &lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;&lt;t44/&gt; &lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt;&lt;t48/&gt; &lt;t49/&gt;&lt;t50/&gt;&lt;t51/&gt;&lt;t52/&gt;&lt;t53/&gt; &lt;t54/&gt;&lt;t55/&gt;&lt;t56/&gt; &lt;t57/&gt;&lt;t58/&gt; &lt;t59/&gt; &lt;t60/&gt;&lt;t61/&gt;&lt;t62/&gt; &lt;t63/&gt;&lt;t64/&gt;&lt;t65/&gt;&lt;t66/&gt;&lt;t67/&gt; &lt;t68/&gt;</seg>
       </tuv>
     </tu>
@@ -401,7 +401,7 @@
       <tuv lang="EN-US">
         <seg>Only persons who are fully familiar with the content of this manual &lt;t0/&gt;are authorized&lt;t1/&gt; to operate and to maintain the equipment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Antonio" changedate="20160708T202851Z" creationid="Antonio" creationdate="20160708T202231Z">
+      <tuv lang="ES-US" changeid="Antonio" changedate="20160708T202851Z">
         <seg>Solo aquellas personas casas completamente familiarizadas con el contenido de esta manual  &lt;t0/&gt;están autorizadas&lt;t1/&gt;  a operar el equipo y a realizar las tareas de mantenimiento.</seg>
       </tuv>
     </tu>
@@ -409,7 +409,7 @@
       <tuv lang="EN-US">
         <seg>Probing new intellectual currents and the reasons they have emerged can tell us much about contemporary China, the social problems the state faces, the way social critics see the state, and the issues that arouse political passion and provoke engagement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T020532Z" creationid="Juan Pablo" creationdate="20160831T020532Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T020532Z">
         <seg>Investigar sobre nuevas corrientes intelectuales y las razones por las cuales surgieron puede ser de gran utilidad para comprender más de la China contemporánea: los problemas sociales que el estado enfrenta, la mirada de la crítica social respecto del estado y las cuestiones que despiertan pasión por la política y promueven el compromiso.</seg>
       </tuv>
     </tu>
@@ -417,7 +417,7 @@
       <tuv lang="EN-US">
         <seg>SOCIAL CHANGE</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160828T210611Z" creationid="rona" creationdate="20160828T205846Z">
+      <tuv lang="ES-US" changeid="rona" changedate="20160828T210611Z">
         <seg>CAMBIO SOCIAL</seg>
       </tuv>
     </tu>
@@ -425,7 +425,7 @@
       <tuv lang="EN-US">
         <seg>That alone can clear away some of the gross generalizations that have been made and so give us a more nuanced understanding of present-day China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T025122Z" creationid="Juan Pablo" creationdate="20160831T025122Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T025122Z">
         <seg>Solo eso bastaría para derrumbar algunas de las infinitas generalizaciones que se han hecho, lo cual podría brindarnos un entendimiento más claro de la China de hoy en día.</seg>
       </tuv>
     </tu>
@@ -433,7 +433,7 @@
       <tuv lang="EN-US">
         <seg>The decision may have come late, but the frustration had apparently been mounting for some time.&lt;t3/&gt; &lt;t4/&gt;According&lt;t5/&gt; &lt;t6/&gt;to&lt;t7/&gt; &lt;t8/&gt;Washington&lt;t9/&gt; &lt;t10/&gt;Post&lt;t11/&gt; &lt;t12/&gt;correspondent&lt;t13/&gt; &lt;t14/&gt;John&lt;t15/&gt; &lt;t16/&gt;Pomfret,&lt;t17/&gt; &lt;t18/&gt;as&lt;t19/&gt; &lt;t20/&gt;early as&lt;t21/&gt; &lt;t22/&gt;April&lt;t23/&gt; &lt;t24/&gt;7&lt;t25/&gt; &lt;t26/&gt;–&lt;t27/&gt; &lt;t28/&gt;two&lt;t29/&gt; &lt;t30/&gt;days&lt;t31/&gt; &lt;t32/&gt;before&lt;t33/&gt; &lt;t34/&gt;Jiang&lt;t35/&gt; &lt;t36/&gt;Yan&lt;t37/&gt;yong&lt;t38/&gt; &lt;t39/&gt;spoke&lt;t40/&gt; &lt;t41/&gt;publicly&lt;t42/&gt; &lt;t43/&gt;about&lt;t44/&gt; &lt;t45/&gt;the&lt;t46/&gt; &lt;t47/&gt;cover- up &lt;t48/&gt;–Wen &lt;t49/&gt;Jiabao visited &lt;t50/&gt;China’s &lt;t51/&gt;Center for Disease Control and talked about the failure of the military to report on the situation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T165523Z" creationid="Flor" creationdate="20160831T165523Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T165523Z">
         <seg>La decisión pudo haber sido tomada tarde pero la frustración parecía haber estado creciendo hacía un tiempo.&lt;t3/&gt;De acuerdo con John Pomfret, corresponsal del Washington Post, el 7 de abril (dos días antes de que Jiang Yanyong hablara públicamente sobre el encubrimiento) Wen Jiabao visitó el Centro de Control de Enfermedades de China y habló sobre el error de las fuerzas armadas de no informar sobre la situación. &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt; &lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;&lt;t25/&gt; &lt;t26/&gt;&lt;t27/&gt; &lt;t28/&gt;&lt;t29/&gt; &lt;t30/&gt;&lt;t31/&gt; &lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;&lt;t35/&gt; &lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt; &lt;t43/&gt;&lt;t44/&gt; &lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt;&lt;t48/&gt; &lt;t49/&gt;&lt;t50/&gt; &lt;t51/&gt;</seg>
       </tuv>
     </tu>
@@ -441,7 +441,7 @@
       <tuv lang="EN-US">
         <seg>The emergence of the Internet &lt;t0/&gt;has, of course, allowed&lt;t1/&gt; much broader circulation of ideas, but the government has fought back vigorously.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201201Z" creationid="Juan Pablo" creationdate="20160830T201201Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201201Z">
         <seg>El surgimiento de internet claramente extendió la circulación de ideas; sin embargo, el gobierno oponía gran resistencia.</seg>
       </tuv>
     </tu>
@@ -449,7 +449,7 @@
       <tuv lang="EN-US">
         <seg>The government encouraged nationalistic feelings through its campaign of patriotic education and generally discouraged writing about the “black spots” in its history&lt;t10/&gt; &lt;t11/&gt;18&lt;t12/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191202Z" creationid="Juan Pablo" creationdate="20160830T190300Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191202Z">
         <seg>El gobierno fomentaba el sentimiento nacionalista a través de campañas de educación patriótica y, por lo general, se oponía a que estas “manchas negras” formaran parte de su historia.&lt;t10/&gt; &lt;t11/&gt;18&lt;t12/&gt;</seg>
       </tuv>
     </tu>
@@ -457,7 +457,7 @@
       <tuv lang="EN-US">
         <seg>The interaction between the state and public opinion is complex, subtle, and often obscure to the outside observer; nonetheless, it is an important part of the political process.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160827T002806Z" creationid="Sofia" creationdate="20160827T002806Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160827T002806Z">
         <seg>La interacción entre el estado y la opinión pública es compleja, sutil y a veces complicada a la vista de terceros; sin embargo, es un aspecto importante del proceso político.</seg>
       </tuv>
     </tu>
@@ -465,7 +465,7 @@
       <tuv lang="EN-US">
         <seg>The meeting, based on a briefing by the Ministry of Health (no doubt presented by its minister, Zhang Wenkang), declared that SARS &lt;t72/&gt;had&lt;t73/&gt; &lt;t74/&gt;“&lt;t75/&gt;al&lt;t76/&gt;r&lt;t77/&gt;eady&lt;t78/&gt; &lt;t79/&gt;been&lt;t80/&gt; &lt;t81/&gt;b&lt;t82/&gt;r&lt;t83/&gt;ought&lt;t84/&gt; &lt;t85/&gt;under&lt;t86/&gt; &lt;t87/&gt;effecti&lt;t88/&gt;v&lt;t89/&gt;e&lt;t90/&gt; &lt;t91/&gt;cont&lt;t92/&gt;r&lt;t93/&gt;ol.”&lt;t94/&gt;41&lt;t95/&gt; &lt;t96/&gt;The&lt;t97/&gt; &lt;t98/&gt;foll&lt;t99/&gt;o&lt;t100/&gt;wing&lt;t101/&gt; &lt;t102/&gt;da&lt;t103/&gt;y&lt;t104/&gt;, &lt;t105/&gt;Zhang told a news conference that Beijing had had twelve cases of SARS and three deaths.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T130941Z" creationid="Flor" creationdate="20160831T130626Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T130941Z">
         <seg>La reunión, basada en una sesión informativa provista por el Ministerio de Salud (sin dudas presentada por su ministro Zhang Wenkang), declaró que el SRAS&lt;t72/&gt;ya&lt;t73/&gt;&lt;t74/&gt;“&lt;t75/&gt;había&lt;t76/&gt;sido&lt;t77/&gt;controlado&lt;t78/&gt; &lt;t79/&gt;con eficacia&lt;t80/&gt; &lt;t81/&gt;"&lt;t82/&gt;.&lt;t83/&gt;&lt;t84/&gt; &lt;t85/&gt;&lt;t86/&gt; &lt;t87/&gt;&lt;t88/&gt;&lt;t89/&gt;&lt;t90/&gt; &lt;t91/&gt;&lt;t92/&gt;&lt;t93/&gt;&lt;t94/&gt;41&lt;t95/&gt; &lt;t96/&gt;&lt;t97/&gt;El día siguiente,  &lt;t98/&gt;&lt;t99/&gt;&lt;t100/&gt;&lt;t101/&gt; &lt;t102/&gt;&lt;t103/&gt;&lt;t104/&gt; &lt;t105/&gt;Zhang anunció en una conferencia de prensa que Pekín había tenido doce casos de SRAS y tres muertes.</seg>
       </tuv>
     </tu>
@@ -473,7 +473,7 @@
       <tuv lang="EN-US">
         <seg>The new mood of the 1990s generated a mixture of traditionalism, conservatism, utopianism, and nationalism&lt;t0/&gt; &lt;t1/&gt;17&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185434Z" creationid="Juan Pablo" creationdate="20160830T185427Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185434Z">
         <seg>El nuevo ambiente de la época de los noventa provocó una mezcla de tradicionalismo, conservadurismo, utopismo y nacionalismo,</seg>
       </tuv>
     </tu>
@@ -481,7 +481,7 @@
       <tuv lang="EN-US">
         <seg>The political atmosphere and concerns changed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184441Z" creationid="Juan Pablo" creationdate="20160830T184441Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184441Z">
         <seg>Además, surgieron nuevas modificaciones e inquietudes en el plano político.</seg>
       </tuv>
     </tu>
@@ -489,7 +489,7 @@
       <tuv lang="EN-US">
         <seg>The second area that needs to be investigated is that of the changing intellectual attitudes and concerns in the years following Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T232312Z" creationid="USUARIO" creationdate="20160826T225619Z">
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T232312Z">
         <seg>La segunda área que necesita investigación es la del cambio en las posturas y las preocupaciones intelectuales en los años posteriores al Tiananmen.</seg>
       </tuv>
     </tu>
@@ -497,7 +497,7 @@
       <tuv lang="EN-US">
         <seg>The session was devoted to issues of Party building, particularly “democratic centralism.” Previously, the plenum had been scheduled to discuss the economy as well; however, in what may well have been his last intervention in politics, Deng suggested that economic issues be dropped from the agenda.&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;It was not that there were no economic issues worth discussing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T001028Z" creationid="Daniel-Andrea" creationdate="20160830T233428Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T001028Z">
         <seg>Esta sesión se dedicó a cuestiones de formación de partidos, principalmente "centralismo democrático". Anteriormente, el pleno había sido organizado para discutir también sobre la economía. Sin embargo, en lo que bien podría haber sido su última intervención en la política, Deng sugirió que las cuestiones económicas se excluyeran de la agenda&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. Esto no significaba que no hubiera cuestiones económicas importantes para discutir.</seg>
       </tuv>
     </tu>
@@ -505,7 +505,7 @@
       <tuv lang="EN-US">
         <seg>The state and intellectuals</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054830Z" creationid="Juan Pablo" creationdate="20160831T054830Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054830Z">
         <seg>El estado y los intelectuales</seg>
       </tuv>
     </tu>
@@ -513,7 +513,7 @@
       <tuv lang="EN-US">
         <seg>The student demonstrations in 1989 raised such expectations that it took a long time for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160827T085256Z" creationid="USUARIO" creationdate="20160827T084646Z">
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160827T085256Z">
         <seg>Las manifestaciones estudiantiles de 1989 generaron tales expectativas que les llevó un largo tiempo for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
       </tuv>
     </tu>
@@ -521,7 +521,7 @@
       <tuv lang="EN-US">
         <seg>The trends in the first years of the new century are no more encouraging.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T200930Z" creationid="Juan Pablo" creationdate="20160830T200930Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T200930Z">
         <seg>No obstante, las tendencias de los primeros años del nuevo siglo tampoco son del todo alentadoras.</seg>
       </tuv>
     </tu>
@@ -529,7 +529,7 @@
       <tuv lang="EN-US">
         <seg>The year would end with a yearly inflation rate of 21.7 percent.&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234431Z" creationid="Daniel-Andrea" creationdate="20160830T234431Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234431Z">
         <seg>El año finalizaría con una tasa de inflación anual del 21,7 por ciento.&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;</seg>
       </tuv>
     </tu>
@@ -537,7 +537,7 @@
       <tuv lang="EN-US">
         <seg>There were moments of small progress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015835Z" creationid="Evelyn" creationdate="20160831T015835Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015835Z">
         <seg>Hubo momentos en los que se vieron pequeños avances.</seg>
       </tuv>
     </tu>
@@ -545,7 +545,7 @@
       <tuv lang="EN-US">
         <seg>They never made it; they were fired instead.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164512Z" creationid="Flor" creationdate="20160831T164512Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164512Z">
         <seg>Nunca llegaron a la conferencia, por el contrario, fueron despedidos.</seg>
       </tuv>
     </tu>
@@ -553,7 +553,7 @@
       <tuv lang="EN-US">
         <seg>This installation manual will help you to understand the assembly and function of the equipment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Antonio" changedate="20160708T192057Z" creationid="Antonio" creationdate="20160708T192057Z">
+      <tuv lang="ES-US" changeid="Antonio" changedate="20160708T192057Z">
         <seg>Este manual de instalación le ayudará a entender el ensamblaje y el funcionamiento del equipo.</seg>
       </tuv>
     </tu>
@@ -561,7 +561,7 @@
       <tuv lang="EN-US">
         <seg>This is the story most at odds with Western (particularly American) expectations of China, particularly in the first few years after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T232624Z" creationid="USUARIO" creationdate="20160826T225827Z">
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T232624Z">
         <seg>Esta es la historia que más se aleja a las expectativas de Occidente, en especial las de Estados Unidos, respecto de China, particularmente durante los años que le siguieron al Tiananmen.</seg>
       </tuv>
     </tu>
@@ -569,7 +569,7 @@
       <tuv lang="EN-US">
         <seg>This was only the third time such a report had been issued; previous reports had come in the summer of 1988 and the spring of 1993.&lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T003727Z" creationid="Daniel-Andrea" creationdate="20160831T000324Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T003727Z">
         <seg>Esta fue solo la tercera vez que se emitió dicho informe; habían llegado informes anteriores en el verano de 1988 y la primavera de 1993&lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
@@ -577,7 +577,7 @@
       <tuv lang="EN-US">
         <seg>To look at the evolution of both intellectuals and the political elite is to raise questions about the relationship between these two communities and the ways in which that relationship has changed over time.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T061955Z" creationid="Juan Pablo" creationdate="20160831T061955Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T061955Z">
         <seg>Al observar la evolución de los intelectuales y la clase política, uno se pregunta sobre la relación entre estas dos comunidades y cómo ha cambiado a lo largo del tiempo.</seg>
       </tuv>
     </tu>
@@ -585,7 +585,7 @@
       <tuv lang="EN-US">
         <seg>To the extent that intellectual currents support state efforts and “public opinion” &lt;t2/&gt;is mollified&lt;t3/&gt;, the odds of repeating a Tiananmen-type situation are reduced.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T034833Z" creationid="Juan Pablo" creationdate="20160831T034807Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T034833Z">
         <seg>En la medida en que las corrientes intelectuales respalden los esfuerzos del estado y la “opinión pública” sea apaciguada, hay pocas probabilidades de que se repita una situación similar a la de Tiananmén.</seg>
       </tuv>
     </tu>
@@ -593,7 +593,7 @@
       <tuv lang="EN-US">
         <seg>What is most notable is that the government has become much better at “framing” issues, that is setting out an interpretation of events, whether SARS (Severe Acute Respiratory Syndrome) or China’s place in the world, and persuading people to accept at least the rough outlines of the government’s views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201440Z" creationid="Juan Pablo" creationdate="20160830T201440Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201440Z">
         <seg>Lo que más llama la atención es el perfeccionamiento del gobierno a la hora de “plantear” ciertas cuestiones, es decir, al presentar una interpretación de los eventos, ya sea del SRAG (síndrome respiratorio agudo grave) o de la posición de China con respecto al mundo, y al persuadir a la gente para que acepte, aunque sea a grandes rasgos, los puntos de vistas del gobierno.</seg>
       </tuv>
     </tu>
@@ -601,7 +601,7 @@
       <tuv lang="EN-US">
         <seg>Whether because of the leadership&lt;t7/&gt; &lt;t8/&gt;transition&lt;t9/&gt; &lt;t10/&gt;that&lt;t11/&gt; &lt;t12/&gt;was&lt;t13/&gt; &lt;t14/&gt;to&lt;t15/&gt; &lt;t16/&gt;take&lt;t17/&gt; &lt;t18/&gt;place&lt;t19/&gt; &lt;t20/&gt;at&lt;t21/&gt; &lt;t22/&gt;the&lt;t23/&gt; &lt;t24/&gt;NPC&lt;t25/&gt; &lt;t26/&gt;or&lt;t27/&gt; &lt;t28/&gt;the&lt;t29/&gt; &lt;t30/&gt;usual&lt;t31/&gt; &lt;t32/&gt;impulse of the CCP not to report difficulties &lt;t33/&gt;openly, &lt;t34/&gt;the leadership decided not to report the development of SARS &lt;t35/&gt;honestly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T124838Z" creationid="Flor" creationdate="20160831T124801Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T124838Z">
         <seg>Ya sea debido a la transición de liderazgo que estaba por ocurrir&lt;t7/&gt; &lt;t8/&gt;en&lt;t9/&gt;la&lt;t10/&gt;APN&lt;t11/&gt; o&lt;t12/&gt;el&lt;t13/&gt; &lt;t14/&gt;impulso&lt;t15/&gt; &lt;t16/&gt;habitual&lt;t17/&gt; &lt;t18/&gt;del&lt;t19/&gt; &lt;t20/&gt;PCCh&lt;t21/&gt; &lt;t22/&gt;de&lt;t23/&gt;no&lt;t24/&gt;comunicar&lt;t25/&gt;los &lt;t26/&gt;problemas&lt;t27/&gt; &lt;t28/&gt;abiertamente&lt;t29/&gt;, &lt;t30/&gt;el&lt;t31/&gt; &lt;t32/&gt;liderazgo&lt;t33/&gt;decidió&lt;t34/&gt;no informar con honestidad sobre el avance de SRAS&lt;t35/&gt;.</seg>
       </tuv>
     </tu>
@@ -609,7 +609,7 @@
       <tuv lang="EN-US">
         <seg>Whether the state can explain its efforts to deal with the problems society faces and secure the acceptance of intellectuals for emerging institutional arrangements are important factors in building legitimacy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T032239Z" creationid="Juan Pablo" creationdate="20160831T032239Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T032239Z">
         <seg>Para lograr legitimidad, es fundamental que el estado sea capaz de explicar su esfuerzo por ocuparse de los problemas que enfrenta la sociedad y de lograr la aceptación de las disposiciones institucionales emergentes por parte de los intelectuales.</seg>
       </tuv>
     </tu>
@@ -617,7 +617,7 @@
       <tuv lang="EN-US">
         <seg>Zhang &lt;t35/&gt;Wenkang &lt;t36/&gt;was closely aligned with Jiang Zemin, and Meng Xuenong was an ally of &lt;t37/&gt;Hu &lt;t38/&gt;Jintao.&lt;t39/&gt; &lt;t40/&gt;It&lt;t41/&gt; &lt;t42/&gt;was&lt;t43/&gt; &lt;t44/&gt;apparently&lt;t45/&gt; &lt;t46/&gt;impossible&lt;t47/&gt; &lt;t48/&gt;to&lt;t49/&gt; &lt;t50/&gt;fire&lt;t51/&gt; &lt;t52/&gt;one&lt;t53/&gt; &lt;t54/&gt;of&lt;t55/&gt; &lt;t56/&gt;Jiang’s&lt;t57/&gt; &lt;t58/&gt;supporters&lt;t59/&gt; &lt;t60/&gt;without &lt;t61/&gt;sacrificing&lt;t62/&gt; &lt;t63/&gt;one&lt;t64/&gt; &lt;t65/&gt;of&lt;t66/&gt; &lt;t67/&gt;H&lt;t68/&gt;u&lt;t69/&gt;’&lt;t70/&gt;s&lt;t71/&gt; &lt;t72/&gt;as&lt;t73/&gt; &lt;t74/&gt;w&lt;t75/&gt;ell.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T171018Z" creationid="Flor" creationdate="20160831T171018Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T171018Z">
         <seg>Zhang Wenkang era un aliado cercano a Jiang Zemin, y Meng Xuenong era un aliado de Hu Jintao&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;.&lt;t39/&gt;Era aparentemente imposible despedir a uno de los partidarios de Jiang sin sacrificar también a uno de Hu. &lt;t40/&gt;&lt;t41/&gt; &lt;t42/&gt;&lt;t43/&gt; &lt;t44/&gt;&lt;t45/&gt; &lt;t46/&gt;&lt;t47/&gt; &lt;t48/&gt;&lt;t49/&gt; &lt;t50/&gt;&lt;t51/&gt; &lt;t52/&gt;&lt;t53/&gt; &lt;t54/&gt;&lt;t55/&gt; &lt;t56/&gt;&lt;t57/&gt; &lt;t58/&gt;&lt;t59/&gt; &lt;t60/&gt;&lt;t61/&gt;&lt;t62/&gt; &lt;t63/&gt;&lt;t64/&gt; &lt;t65/&gt;&lt;t66/&gt; &lt;t67/&gt;&lt;t68/&gt;&lt;t69/&gt;&lt;t70/&gt;&lt;t71/&gt; &lt;t72/&gt;&lt;t73/&gt; &lt;t74/&gt;&lt;t75/&gt;</seg>
       </tuv>
     </tu>
@@ -625,7 +625,7 @@
       <tuv lang="EN-US">
         <seg>Zhang &lt;t52/&gt;Wenkang &lt;t53/&gt;apparently knew what wa&lt;t54/&gt;s happening, but could not control &lt;t55/&gt; &lt;t56/&gt;it.&lt;t57/&gt;44</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T165721Z" creationid="Flor" creationdate="20160831T165721Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T165721Z">
         <seg>Aparentemente, Zhang Wenkang sabía lo que estaba sucediendo pero no podía controlarlo&lt;t52/&gt; &lt;t53/&gt;&lt;t54/&gt; &lt;t55/&gt; &lt;t56/&gt;.&lt;t57/&gt;44</seg>
       </tuv>
     </tu>
@@ -633,7 +633,7 @@
       <tuv lang="EN-US">
         <seg>Zhang and Meng would be at a press conference that day to report on the SARS situation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164523Z" creationid="Flor" creationdate="20160831T164523Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164523Z">
         <seg>.</seg>
       </tuv>
     </tu>
@@ -641,7 +641,7 @@
       <tuv lang="EN-US">
         <seg>confronting sars</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T123225Z" creationid="Flor" creationdate="20160831T123225Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T123225Z">
         <seg>Enfrentando el SRAS</seg>
       </tuv>
     </tu>
@@ -649,7 +649,7 @@
       <tuv lang="EN-US">
         <seg>the fourth plenum: emergence of the “third generation”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232231Z" creationid="Daniel-Andrea" creationdate="20160830T232231Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232231Z">
         <seg>El cuarto Pleno: surgimiento de la "tercera generación"</seg>
       </tuv>
     </tu>
@@ -657,7 +657,7 @@
       <tuv lang="EN-US">
         <seg>“Don’t think that engaging in a little market economy is [taking] the capitalist road; it is not like that,” Deng told his colleagues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020128Z" creationid="Evelyn" creationdate="20160831T020128Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020128Z">
         <seg> Deng le dijo a sus colegas: “no crean que involucrarse en la economía de mercado es [tomar] el camino capitalista; no es así.” </seg>
       </tuv>
     </tu>
