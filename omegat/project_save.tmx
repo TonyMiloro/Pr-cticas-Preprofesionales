@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There may also&lt;t10/&gt; &lt;t11/&gt;have been an element of bureaucratic competition involved.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="User" changedate="20160831T212454Z" creationid="User" creationdate="20160831T212454Z">
+        <seg>Es propable que existiera&lt;t10/&gt; &lt;t11/&gt;un elemento de competencia burocrática involucrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There were moments of small progress.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015835Z">
@@ -659,6 +667,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T164523Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhu focused primarily on domestic reform,&lt;t6/&gt; &lt;t7/&gt;particularly the plight of SOEs, and seems to have worried that international&lt;t8/&gt; &lt;t9/&gt;competition would make his task harder, not easier.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="User" changedate="20160831T212344Z" creationid="User" creationdate="20160831T212344Z">
+        <seg>Zhu se enfocó principalmente en la reforma doméstica,&lt;t6/&gt; &lt;t7/&gt;en la complicada situación de las empresas estatales en particular, y parece que le preocupaba que la competencia&lt;t8/&gt; &lt;t9/&gt;internacional le haría más dificil esta tarea en vez de facilitársela.</seg>
       </tuv>
     </tu>
     <tu>
