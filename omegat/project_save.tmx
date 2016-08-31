@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It &lt;t0/&gt;is thus apparent that the startling decision to remove Zhang and&lt;t1/&gt; &lt;t2/&gt;Meng from their positions was made at the last minute.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160831T164713Z" creationid="Flor" creationdate="20160831T164713Z">
+        <seg> &lt;t0/&gt;Parece ser que la sorprendente decisión de apartar de sus cargos a Zhang y Meng fue tomada a último momento.&lt;t1/&gt; &lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is also of some concern whether the more illiberal declarations emerging in recent &lt;t5/&gt;years could form a basis for popular mobilization – as with the demonstrations against Japan in the spring of 2005.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054654Z" creationid="Juan Pablo" creationdate="20160831T054624Z">
