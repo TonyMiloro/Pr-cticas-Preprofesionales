@@ -687,6 +687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Premier Li Peng announces the lifting of</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231031Z" creationid="Usuario" creationdate="20160901T231031Z">
+        <seg>El primer ministro Li Peng anuncia que se levanta la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Probing new intellectual currents and the reasons they have emerged can tell us much about contemporary China, the social problems the state faces, the way social critics see the state, and the issues that arouse political passion and provoke engagement.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T020532Z">
@@ -707,6 +715,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023417Z" creationid="Usuario" creationdate="20160901T023417Z">
         <seg>Diagrama general del arco político en China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231048Z" creationid="Usuario" creationdate="20160901T231048Z">
+        <seg>Septiembre</seg>
       </tuv>
     </tu>
     <tu>
@@ -1037,6 +1053,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T123225Z">
         <seg>Enfrentando el SRAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>martial law in Beijing</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231042Z" creationid="Usuario" creationdate="20160901T231042Z">
+        <seg>ley marcial en Beijing</seg>
       </tuv>
     </tu>
     <tu>
