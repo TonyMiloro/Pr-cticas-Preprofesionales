@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bibliography</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165511Z" creationid="Usuario" creationdate="20160901T165511Z">
+        <seg>Bibliografíay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boston University</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023042Z" creationid="Usuario" creationdate="20160901T023042Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184631Z">
         <seg>Los intelectuales de la Ilustración comenzaron a ser duramente criticados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Epilogue: the Seventeenth Party Congress</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165503Z" creationid="Usuario" creationdate="20160901T165441Z">
+        <seg>Epílogo: el Décimoséptimo Congreso del Partido</seg>
       </tuv>
     </tu>
     <tu>
