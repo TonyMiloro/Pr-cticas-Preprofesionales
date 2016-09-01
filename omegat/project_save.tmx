@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>As Fewsmith – a highly regarded political scientist and a seasoned China-watcher – observes, China is a very different place today than it was eighteen years ago.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T021934Z" creationid="Usuario" creationdate="20160901T021934Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T022340Z" creationid="Usuario" creationdate="20160901T021934Z">
+        <seg>Como señala Fewsmith (politólogo respetado y experto en los asuntos de China), este país es un lugar muy distinto a lo que fue ochenta años atrás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +346,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T225808Z" creationid="Juan Pablo" creationdate="20160831T225808Z">
         <seg>Es cierto que el vínculo entre el estado y los intelectuales en la década de los noventa amenazaba con romperse, pero [...] both the character of the state and that of the intellectuals – not to mention the content of intellectual discussions – have changed greatly, so the relationship between the two arenas is substantially different from&lt;t0/&gt; &lt;t1/&gt;what prevailed in the 1980s.On the one hand, political leaders are themselves much better educated than any previous Chinese leadership of the twentieth century.&lt;t2/&gt; In the &lt;t3/&gt;1990s&lt;t4/&gt; CCP general secretary Jiang&lt;t5/&gt; &lt;t6/&gt;Zemin&lt;t7/&gt; was a graduate of Shanghai’s famous technical institute, &lt;t8/&gt;Jiaotong&lt;t9/&gt; University, while Premier Zhu &lt;t10/&gt;Rongji&lt;t11/&gt; was a graduate of the even better known &lt;t12/&gt;Qinghua&lt;t13/&gt; University.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the interim, it has emerged from isolation to become one of the most significant players on the world stage.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T022102Z" creationid="Usuario" creationdate="20160901T022102Z">
+        <seg>Mientras tanto, China ha salido de su aislamiento para convertirse en uno de los actores más importantes en la escena mundial.</seg>
       </tuv>
     </tu>
     <tu>
