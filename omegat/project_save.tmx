@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Economic Work Conference</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T232805Z" creationid="Usuario" creationdate="20160901T232805Z">
+        <seg>Conferencia de Trabajo Económico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elite politics in an era of globalization and nationalism197</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165124Z" creationid="Usuario" creationdate="20160901T165124Z">
@@ -602,6 +610,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160828T220630Z">
         <seg>Mao construyó su posición fundamental en el partido al dirigirla durante la fase más traumática de su historia, al restaurar el partido de la debacle en Jiangxi a convertirse en un movimiento vigoroso y creicente movimiento durante los días emocionantes de Yan y la guerra Sino-japonesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>November</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T232810Z" creationid="Usuario" creationdate="20160901T232810Z">
+        <seg>Noviembre</seg>
       </tuv>
     </tu>
     <tu>
