@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165606Z" creationid="Usuario" creationdate="20160901T165606Z">
+        <seg>Indice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intellectual concerns</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T231123Z">
@@ -514,6 +522,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165047Z" creationid="Usuario" creationdate="20160901T165047Z">
         <seg>Jiang Zemin llega al poder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>June 23–24</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165714Z" creationid="Usuario" creationdate="20160901T165714Z">
+        <seg>23–24 de junio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>June 4</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165643Z" creationid="Usuario" creationdate="20160901T165643Z">
+        <seg>4 de junio</seg>
       </tuv>
     </tu>
     <tu>
@@ -867,6 +891,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023645Z" creationid="Usuario" creationdate="20160901T023645Z">
         <seg>Tiananmen y las críticas conservadoras contra la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiananmen crackdown</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165653Z" creationid="Usuario" creationdate="20160901T165653Z">
+        <seg>Represión de Tiananmen</seg>
       </tuv>
     </tu>
     <tu>
