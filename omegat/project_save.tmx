@@ -622,6 +622,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>March 22</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T235154Z" creationid="Usuario" creationdate="20160901T235154Z">
+        <seg>22 de marzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>National Planning Conference</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T235145Z" creationid="Usuario" creationdate="20160901T235145Z">
+        <seg>Conferencia Nacional de Planeamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>November</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T232810Z" creationid="Usuario" creationdate="20160901T232810Z">
