@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHINA SINCE TIANANMEN</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T000657Z" creationid="Usuario" creationdate="20160901T000657Z">
+        <seg>CHINA DESDE TIANANMEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>City officials similarly covered up the situation.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T214551Z">
