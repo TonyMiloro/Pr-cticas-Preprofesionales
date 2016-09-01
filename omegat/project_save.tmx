@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>December</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T234802Z" creationid="Usuario" creationdate="20160901T234802Z">
+        <seg>Diciembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deng moves to revive reform</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015814Z">
@@ -1021,6 +1029,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T032239Z">
         <seg>Para lograr legitimidad, es fundamental que el estado sea capaz de explicar su esfuerzo por ocuparse de los problemas que enfrenta la sociedad y de lograr la aceptación de las disposiciones institucionales emergentes por parte de los intelectuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yearnings broadcast</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T234756Z" creationid="Usuario" creationdate="20160901T234756Z">
+        <seg>Emisión de la serie televisiva Yearnings</seg>
       </tuv>
     </tu>
     <tu>
