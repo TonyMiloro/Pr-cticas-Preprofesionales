@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chen Xitong removed as Beijing Party</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020251Z" creationid="Usuario" creationdate="20160902T020251Z">
+        <seg>Desplazamiento de Chen Xitong del cargo de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chen Yun, advocate of a planned economy,</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015820Z" creationid="Usuario" creationdate="20160902T015820Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165503Z">
         <seg>Epílogo: el Décimoséptimo Congreso del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fifth Plenary Session of the Fourteenth</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020334Z" creationid="Usuario" creationdate="20160902T020334Z">
+        <seg>Quinto pleno del Décimocuarto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1613,6 +1629,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020051Z" creationid="Usuario" creationdate="20160902T020051Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>secretary</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020317Z" creationid="Usuario" creationdate="20160902T020300Z">
+        <seg>secretario del partido en Beijing.</seg>
       </tuv>
     </tu>
     <tu>
