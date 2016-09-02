@@ -2115,8 +2115,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This was the route mapped out by the draft of the Eighth Five-Year Plan as it neared completion in the summer of 1990.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160902T221045Z" creationid="usuario" creationdate="20160902T221045Z">
-        <seg>Este era el camino trazado por el boceto del Octavo Plan Quinquenal mientras llegaba a su fin en el versano de 1990.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160902T221414Z" creationid="usuario" creationdate="20160902T221045Z">
+        <seg>Este era el camino trazado por el boceto del Octavo Plan Quinquenal mientras llegaba a su fin en el verano de 1990.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2317,6 +2317,15 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160831T214055Z">
         <seg>Zhu es claramente&lt;t12/&gt; &lt;t13/&gt;alguien muy posesivo de su poder como primer ministro, y actuaba con vigor &lt;t14/&gt; &lt;t15/&gt;para centralizar el control sobre la economía en su gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zou Jiahua, vice-premier and head of the State Planning Commission (the orga-nization with primary responsibility for drafting the plan), put it as follows: “The integration of central planning and market regulation is a basic prin-ciple” of economic policy-making, but “the two do not have equal status.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160902T221714Z" creationid="usuario" creationdate="20160902T221410Z">
+        <seg>Zou Jiahua, vice- primer ministro y jefe de la Comisión Estatal de Planificación de desarrollo (la organización mayormente responsable por la redacción del plan), lo explicó de la siguiente manera: "La integración de la planificación central y la regulación de mercado es un principio básico" de la creación de políticas económicas, pero "las dos no cuentan con el mismo estatus.
+</seg>
       </tuv>
     </tu>
     <tu>
