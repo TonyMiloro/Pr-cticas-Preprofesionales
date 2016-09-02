@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -274,6 +274,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160902T141624Z" creationid="Backup" creationdate="20160902T141624Z">
         <seg>Antes de eso, todos los estratos de la sociedad china habían mejorado desde la reforma; luego de ese momento el poder y el mercado emergieron entonces un estrato empezó a explotar al otro. Como dijo el amigo y agente literario de Wang Xu Bing, antes de 1992, Wang era un "partidario determinado y entusiasta de la reforma", pero para la primavera y el verano de ese año, "su apoyo se volvió racional y condicional. Wang no era el único que dudaba de l curso de la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beijing University celebrates its 100th</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T211020Z" creationid="Usuario" creationdate="20160902T211020Z">
+        <seg>La Universidad de Pekín celebra su aniversario número 100</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,10 +1190,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>May 4</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210952Z" creationid="Usuario" creationdate="20160902T210952Z">
+        <seg>4 de mayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NATIONALISM, ELITE POLITICS, AND THE WTO</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160901T195250Z">
         <seg>NACIONALISMO, POLÍTICA DE ÉLITE, Y LA ORGANIZACIÓN MUNDIAL DEL COMERCIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NPC meeting announces major government</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210934Z" creationid="Usuario" creationdate="20160902T210934Z">
+        <seg>Reunión de la NPC anuncia una gran reorganización del gobierno</seg>
       </tuv>
     </tu>
     <tu>
@@ -1953,6 +1977,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>anniversary</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T211111Z" creationid="Usuario" creationdate="20160902T211111Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>confronting sars</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T123225Z">
@@ -2004,6 +2036,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
         <seg>published</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020051Z" creationid="Usuario" creationdate="20160902T020051Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>restructuring</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210942Z" creationid="Usuario" creationdate="20160902T210942Z">
         <seg>.</seg>
       </tuv>
     </tu>
