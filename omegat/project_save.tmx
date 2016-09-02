@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>In 1989, Deng could use his core status to stress continuity and to dominate decisions on leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T212440Z" creationid="bluebird" creationdate="20160902T212440Z">
-        <seg>IEn 1989, Deng aprovechó su estatus para resaltar su contuinidad y dominar las decisiones del liderazgo.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T212652Z" creationid="bluebird" creationdate="20160902T212440Z">
+        <seg>En 1989, Deng aprovechó su estatus para recalcar continuidad y dominar las decisiones del liderazgo.</seg>
       </tuv>
     </tu>
     <tu>
