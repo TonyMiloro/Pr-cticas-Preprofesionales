@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2093,6 +2093,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T003727Z">
         <seg>Esta fue solo la tercera vez que se emitió dicho informe; habían llegado informes anteriores en el verano de 1988 y la primavera de 1993&lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though Deng did not always adhere to the norms of collective leadership – his position as the “core” of the Party connoting something more than simply first among equals – he nevertheless advocated it in prin-ciple.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160902T220637Z" creationid="Administrador" creationdate="20160902T220637Z">
+        <seg>Aunque Deng no siempre adhirió a las normas de liderazgo colectivo -  </seg>
       </tuv>
     </tu>
     <tu>
