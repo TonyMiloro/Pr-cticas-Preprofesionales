@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Market regulation is supple-mentary.”&lt;/f0&gt;&lt;f1&gt;78&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;This, of course, was standard conservative rhetoric.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160902T222310Z" creationid="usuario" creationdate="20160902T222310Z">
+        <seg>La regulación del mercado es suplementaria."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>May</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205154Z" creationid="Usuario" creationdate="20160902T205154Z">
