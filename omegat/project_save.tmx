@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>December 4</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225306Z" creationid="Usuario" creationdate="20160902T225306Z">
+        <seg>4 de diciembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Democratic activists Wang Youcai and Xu</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214353Z" creationid="Usuario" creationdate="20160902T214353Z">
@@ -2315,8 +2323,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>United States and China reach agreement on</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215953Z" creationid="Usuario" creationdate="20160902T215944Z">
-        <seg>Los EE. UU y China llegan acuerdan</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225600Z" creationid="Usuario" creationdate="20160902T215944Z">
+        <seg>Los EE. UU y China acuerdan</seg>
       </tuv>
     </tu>
     <tu>
@@ -2572,8 +2580,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>for questioning</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T223758Z" creationid="Usuario" creationdate="20160902T223758Z">
-        <seg>para interrogación</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225614Z" creationid="Usuario" creationdate="20160902T223758Z">
+        <seg>para su interrogación</seg>
       </tuv>
     </tu>
     <tu>
@@ -2636,8 +2644,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>relations with PRC as “special-state-to-state”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215650Z" creationid="Usuario" creationdate="20160902T215650Z">
-        <seg>relaciones con RPCh (República Popular de China) como una relación “especial de Estado a Estado”</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225542Z" creationid="Usuario" creationdate="20160902T215650Z">
+        <seg>relaciones con la RPCh (República Popular de China) como una relación “especial de Estado a Estado”</seg>
       </tuv>
     </tu>
     <tu>
