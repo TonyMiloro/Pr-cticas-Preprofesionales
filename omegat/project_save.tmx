@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fourth Plenary Session of Fifteenth Central</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215721Z" creationid="Usuario" creationdate="20160902T215721Z">
+        <seg>Cuarto pleno del Décimo quinto Comité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fourth Plenary Session of the Fourteenth</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T160317Z" creationid="Usuario" creationdate="20160902T015740Z">
@@ -1406,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>October 1</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215728Z" creationid="Usuario" creationdate="20160902T215728Z">
+        <seg>1 de octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>October 12–14</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214200Z" creationid="Usuario" creationdate="20160902T214200Z">
@@ -1651,6 +1667,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205906Z" creationid="Usuario" creationdate="20160902T205906Z">
         <seg>19 de septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 19–22</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215705Z" creationid="Usuario" creationdate="20160902T215705Z">
+        <seg>19–22 de septiembre</seg>
       </tuv>
     </tu>
     <tu>
@@ -2317,6 +2341,22 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020051Z" creationid="Usuario" creationdate="20160902T020051Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>relations</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215655Z" creationid="Usuario" creationdate="20160902T215655Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>relations with PRC as “special-state-to-state”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215650Z" creationid="Usuario" creationdate="20160902T215650Z">
+        <seg>relaciones con RPCh (República Popular de China) como una relación “especial de Estado a Estado”</seg>
       </tuv>
     </tu>
     <tu>
