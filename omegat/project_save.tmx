@@ -182,6 +182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attempted coup d’etat´ in Soviet Union</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T002603Z" creationid="Usuario" creationdate="20160902T002603Z">
+        <seg>Intento de golpe de estado en la Unión SoviéticaAttempted coup d’etat´ in Soviet Union</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>August 19–21</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T002549Z" creationid="Usuario" creationdate="20160902T002549Z">
+        <seg>19-21 de agosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bibliography</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165511Z">
@@ -610,6 +626,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T170053Z">
         <seg>10 de enero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jaunary 18–February 21</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T002615Z" creationid="Usuario" creationdate="20160902T002615Z">
+        <seg>18 de enero- 21 de febrero</seg>
       </tuv>
     </tu>
     <tu>
