@@ -352,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>Conservative theoretician Hu Qiaomu dies at</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005931Z" creationid="Usuario" creationdate="20160902T005931Z">
-        <seg>El teórico conservador Hu Qiaomu muere a los</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020035Z" creationid="Usuario" creationdate="20160902T005931Z">
+        <seg>El teórico conservador Hu Qiaomu fallece a los</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="EN-US">
         <seg>Huntington’s article, “Clash of Civilizations?”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010530Z" creationid="Usuario" creationdate="20160902T010530Z">
-        <seg>Publicación del artículo "¿Choque de civilizaciones?", escrito por</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020045Z" creationid="Usuario" creationdate="20160902T010530Z">
+        <seg>Publicación del artículo "¿Choque de civilizaciones?", escrito por Huntington</seg>
       </tuv>
     </tu>
     <tu>
@@ -840,8 +840,8 @@
       <tuv lang="EN-US">
         <seg>Looking at China through a Third Eye</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015714Z" creationid="Usuario" creationdate="20160902T015714Z">
-        <seg>Publicación del libro</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020023Z" creationid="Usuario" creationdate="20160902T015714Z">
+        <seg>Publicación del libro "Looking at China through a Third Eye"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1565,6 +1565,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231042Z" creationid="Usuario" creationdate="20160901T231042Z">
         <seg>ley marcial en Beijing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>published</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020051Z" creationid="Usuario" creationdate="20160902T020051Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
