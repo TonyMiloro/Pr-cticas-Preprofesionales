@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deng Xiaoping dies at age 92</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205648Z" creationid="Usuario" creationdate="20160902T205648Z">
+        <seg>Deng Xiaoping fallece a los 92 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deng Xiaoping’s “southern tour”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005609Z" creationid="Usuario" creationdate="20160902T005609Z">
@@ -502,10 +510,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>February 19</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205635Z" creationid="Usuario" creationdate="20160902T205635Z">
+        <seg>19 de febrero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>February 2</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205530Z" creationid="Usuario" creationdate="20160902T205530Z">
         <seg>2 de febrero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fifteenth Party Congress convenes in Beijing</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205858Z" creationid="Usuario" creationdate="20160902T205858Z">
+        <seg>El Décimo quinto Congreso del Partido se reúne en Pekín</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +594,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020343Z">
         <seg>Por ejemplo, mientras el comunicado adoptado por el Séptimo Pleno del Partido en diciembre de 1990 “evaluó positivamente”  los “grandes logros” de China en la reforma y la apertura, enfatizó, sin embargo, la “integración de una economía planificada con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulación del mercado&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;”  y que repetir estos básicos  del pensamiento económico de Chen Yun &lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Former Minister of Defense Qin Jiwei dies at</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205621Z" creationid="Usuario" creationdate="20160902T205621Z">
+        <seg>El ex ministro de defensa Qin Jiwei fallece a los</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +674,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T021705Z">
         <seg>El autor también considera las corrientes sociales y la forma en que los ciudadanos chinos empiezan a ejercer una influencia significativa en las políticas gubernamentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hong Kong is returned to China</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205811Z" creationid="Usuario" creationdate="20160902T205811Z">
+        <seg>Hong Kong es devuelta a China</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jiang Zemin speaks at Central Party School</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205751Z" creationid="Usuario" creationdate="20160902T205751Z">
+        <seg>Jiang Zemin habla en la Escuela Central del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jiang Zemin’s rise to power</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165047Z">
@@ -1058,6 +1106,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205154Z" creationid="Usuario" creationdate="20160902T205154Z">
         <seg>Mayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May 29</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205653Z" creationid="Usuario" creationdate="20160902T205653Z">
+        <seg>29 de mayo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1299,6 +1355,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231048Z" creationid="Usuario" creationdate="20160901T231048Z">
         <seg>Septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 12–18</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205818Z" creationid="Usuario" creationdate="20160902T205818Z">
+        <seg>12–18 de septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 19</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205906Z" creationid="Usuario" creationdate="20160902T205906Z">
+        <seg>19 de septiembre</seg>
       </tuv>
     </tu>
     <tu>
@@ -1789,6 +1861,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005937Z" creationid="Usuario" creationdate="20160902T005937Z">
         <seg>81 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>age 82</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205626Z" creationid="Usuario" creationdate="20160902T205626Z">
+        <seg>82 años</seg>
       </tuv>
     </tu>
     <tu>
