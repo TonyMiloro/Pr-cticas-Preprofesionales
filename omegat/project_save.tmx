@@ -408,8 +408,8 @@
       <tuv lang="EN-US">
         <seg>Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210337Z" creationid="Usuario" creationdate="20160902T210337Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210625Z" creationid="Usuario" creationdate="20160902T210337Z">
+        <seg>Central</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +442,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T045606Z">
         <seg>A la inversa, la enemistad extrema empeora las tensiones políticas y el cinismo debilita la eficacia de las instituciones emergentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crossed Swords published</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210748Z" creationid="Usuario" creationdate="20160902T210748Z">
+        <seg>Publicación de Crossed Swords</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +600,8 @@
       <tuv lang="EN-US">
         <seg>First Plenary Session of the Fifteenth Central</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210327Z" creationid="Usuario" creationdate="20160902T210327Z">
-        <seg>Primer pleno del Décimo quinto Comité Central</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210652Z" creationid="Usuario" creationdate="20160902T210327Z">
+        <seg>Primer pleno del Décimo quinto Comité</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>March 5–19</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210755Z" creationid="Usuario" creationdate="20160902T210755Z">
+        <seg>5–19 de marzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>March 5–7</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010339Z" creationid="Usuario" creationdate="20160902T010339Z">
@@ -1385,8 +1401,8 @@
       <tuv lang="EN-US">
         <seg>Second Plenary Session of Fifteenth Central</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210443Z" creationid="Usuario" creationdate="20160902T210443Z">
-        <seg>Segundo pleno del Décimo quinto Comité Central</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210619Z" creationid="Usuario" creationdate="20160902T210443Z">
+        <seg>Segundo pleno del Décimo quinto Comité</seg>
       </tuv>
     </tu>
     <tu>
