@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beijing Party Secretary Jia Qinglin are</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225124Z" creationid="Usuario" creationdate="20160902T225124Z">
+        <seg>y Jia Qinglin respectivamente, son</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beijing University celebrates its 100th</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T212426Z" creationid="Usuario" creationdate="20160902T211020Z">
@@ -496,8 +504,8 @@
       <tuv lang="EN-US">
         <seg>Chinese F-8 fighter collides with American</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224904Z" creationid="Usuario" creationdate="20160902T224511Z">
-        <seg>El avión de combate chino F-8 fighter choca contra un avión de reconocimiento</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225013Z" creationid="Usuario" creationdate="20160902T224511Z">
+        <seg>El avión de combate chino F-8 choca contra un avión de reconocimiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>November 8–14</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225157Z" creationid="Usuario" creationdate="20160902T225157Z">
+        <seg>8–14 de noviembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>October</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205405Z" creationid="Usuario" creationdate="20160902T205405Z">
@@ -1594,6 +1610,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010128Z" creationid="Usuario" creationdate="20160902T010128Z">
         <seg>19 de octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>October 22</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225029Z" creationid="Usuario" creationdate="20160902T225029Z">
+        <seg>22 de octubre</seg>
       </tuv>
     </tu>
     <tu>
@@ -1863,10 +1887,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shanghai Party Secretary Huang Ju and</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225258Z" creationid="Usuario" creationdate="20160902T225106Z">
+        <seg>Los secretarios del partido de Shanghái y Pekín, Huang Ju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similarly, although Chen Yuan sought ways to combine market economics with a stronger central government, he never developed a systematic conceptual approach.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T015150Z" creationid="Flor" creationdate="20160902T015150Z">
         <seg>De manera similar, aunque Chen Yuan buscó la manera de combinar la economía de mercado con un gobierno central más fuerte, nunca desarrolló un enfoque conceptual sistemático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sixteenth Party Congress convenes in Beijing</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225232Z" creationid="Usuario" creationdate="20160902T225232Z">
+        <seg>El Décimo sexto Congreso del Partido se reúne en Pekín</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +2662,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232231Z">
         <seg>El cuarto Pleno: surgimiento de la "tercera generación"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transferred to the center</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225151Z" creationid="Usuario" creationdate="20160902T225151Z">
+        <seg>transferidos al centro</seg>
       </tuv>
     </tu>
     <tu>
