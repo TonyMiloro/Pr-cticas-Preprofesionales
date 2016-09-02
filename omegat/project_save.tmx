@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2259,8 +2259,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This issue was inevitably linked with the question of Deng Xiaoping’s leadership, not just because Zhao’s selection first as premier and then as general secretary now seemed to reflect poorly on Deng Xiaoping’s judgment (for a second time – the ouster of Hu Yaobang in 1987 marking the first) but also because Zhao had been implementing a political cum economic line long supported by Deng.18[1] Deng was famous as the exponent of the pragmatic advice, “black cat, white cat, whichever cat catches the mouse is a good cat.” Zhao had come to Beijing in 1980 as a pragmatist known for his concentration on economic development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160902T230753Z" creationid="Nadine" creationdate="20160902T225755Z">
-        <seg>Este tema estaba sin duda alguna vinvulado a la cuestión del liderazgo de Deng Xiaoping, no solo porque la elección de Zhao primero como primer ministro y luego como secretario general ahora parecieran influenciar  de manera negativa en la opinion de Deng Xiaoping (por segunda vez – la destitución de Hu Yaobang en 1987 siendo la primera) but also because Zhao had been implementing a political cum economic line long supported by Deng.18[1] Deng was famous as the exponent of the pragmatic advice, “black cat, white cat, whichever cat catches the mouse is a good cat.” Zhao had come to Beijing in 1980 as a pragmatist known for his concentration on economic development.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160902T231000Z" creationid="Nadine" creationdate="20160902T225755Z">
+        <seg>Este tema estaba sin duda alguna vinvulado a la cuestión del liderazgo de Deng Xiaoping, no solo porque la elección de Zhao primero como primer ministro y luego como secretario general ahora parecieran influenciar  de manera negativa en la opinion de Deng Xiaoping (por segunda vez – siendo la primera la destitución de Hu Yaobang en 1987 ) pero but also because Zhao had been implementing a political cum economic line long supported by Deng.18[1] Deng was famous as the exponent of the pragmatic advice, “black cat, white cat, whichever cat catches the mouse is a good cat.” Zhao had come to Beijing in 1980 as a pragmatist known for his concentration on economic development.</seg>
       </tuv>
     </tu>
     <tu>
