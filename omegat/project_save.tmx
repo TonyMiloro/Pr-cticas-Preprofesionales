@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Committee</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210337Z" creationid="Usuario" creationdate="20160902T210337Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conclusion</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160824T190753Z">
@@ -534,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>February 25–26</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210414Z" creationid="Usuario" creationdate="20160902T210414Z">
+        <seg>25–26 de febrero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fifteenth Party Congress convenes in Beijing</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205858Z" creationid="Usuario" creationdate="20160902T205858Z">
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T000236Z" creationid="Usuario" creationdate="20160902T000236Z">
         <seg>Primer comentario de Huangfu Ping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First Plenary Session of the Fifteenth Central</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210327Z" creationid="Usuario" creationdate="20160902T210327Z">
+        <seg>Primer pleno del Décimo quinto Comité Central</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jiang Zemin arrives in Washington, D.C.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210407Z" creationid="Usuario" creationdate="20160902T210407Z">
+        <seg>Jiang Zemin llega a Washington, D.C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jiang Zemin calls for opposing “peaceful</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T003152Z" creationid="Usuario" creationdate="20160902T003152Z">
@@ -1214,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>October 28</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210345Z" creationid="Usuario" creationdate="20160902T210345Z">
+        <seg>28 de octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>October 7–10</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205522Z" creationid="Usuario" creationdate="20160902T205522Z">
@@ -1339,6 +1379,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023417Z">
         <seg>Diagrama general del arco político en China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second Plenary Session of Fifteenth Central</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210443Z" creationid="Usuario" creationdate="20160902T210443Z">
+        <seg>Segundo pleno del Décimo quinto Comité Central</seg>
       </tuv>
     </tu>
     <tu>
