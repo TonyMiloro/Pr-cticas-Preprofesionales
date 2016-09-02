@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>1982 constitution</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225840Z" creationid="Usuario" creationdate="20160902T225840Z">
+        <seg>constitución de 1982</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>43 Jiang Yihua, “Lun dongya xiandaihua jinchengzhong de xinlixing zhuyi wenhua.” P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 Neostatism and popular nationalism 153 class (xialiu); elsewhere he comments that he represents the lower ranks of officialdom.44 Born in 1952, Wang was the youngest of those known as laosanjie, the three classes (which “graduated” from high school in 1966, 1967, and 1968) who made up the Red Guard generation and were sent to the country- side when Mao had seen enough of the chaos they had generated.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160902T133142Z" creationid="Backup" creationdate="20160902T132427Z">
@@ -606,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>December 5–6</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225919Z" creationid="Usuario" creationdate="20160902T225919Z">
+        <seg>5–6 de diciembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Democratic activists Wang Youcai and Xu</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214353Z" creationid="Usuario" creationdate="20160902T214353Z">
@@ -970,6 +986,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165225Z">
         <seg>Gobierno de Hu Jintao: ¿giro a la izquierda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hu Jintao, in his first public appearance as</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225904Z" creationid="Usuario" creationdate="20160902T225721Z">
+        <seg>Durante su primera aparición pública como Secretario General, Hu Jintao</seg>
       </tuv>
     </tu>
     <tu>
@@ -2530,6 +2554,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>commemorating the 20th anniversity of the</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225911Z" creationid="Usuario" creationdate="20160902T225827Z">
+        <seg>por el vigésimo aniversario de la </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>confronting sars</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T123225Z">
@@ -2582,6 +2614,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225614Z" creationid="Usuario" creationdate="20160902T223758Z">
         <seg>para su interrogación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>general secretary, speaks at celebration</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225809Z" creationid="Usuario" creationdate="20160902T225809Z">
+        <seg>toma la palabra en la celebración de conmemoración</seg>
       </tuv>
     </tu>
     <tu>
