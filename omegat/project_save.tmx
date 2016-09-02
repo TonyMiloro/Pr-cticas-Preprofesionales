@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34,6 +34,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020415Z">
         <seg>&lt;f0&gt;&lt;f1&gt;tcomo llamar a un desarrollo económico “sustentable, estable y coordinado” y actuar de acuerdo con las posibilidades de uno” (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;liangli erxing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;).&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;6&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Although the&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;previous chapter&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;laid out the major differences between the New Left and liberals, attention was focused primarily on differences in their world views.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T014423Z" creationid="Flor" creationdate="20160902T014423Z">
+        <seg>&lt;f0&gt;A pesar de que en el&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;capítulo anterior&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;se expusieron las mayores diferencias entre la Nueva Izquierda y los liberales, el enfoque se puso en mayor parte sobre las distintas maneras que tienen de ver el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;C H A P T E R&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;5&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T014204Z" creationid="Flor" creationdate="20160902T014134Z">
+        <seg>&lt;f0&gt;CAPÍTULO&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;5&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1045,6 +1061,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T024041Z">
         <seg>El surgimiento del neoconservadurismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The emergence of neostatism and popular nationalism</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T014224Z" creationid="Flor" creationdate="20160902T014224Z">
+        <seg>El nacimiento del neoestatismo y del nacionalismo popular</seg>
       </tuv>
     </tu>
     <tu>
