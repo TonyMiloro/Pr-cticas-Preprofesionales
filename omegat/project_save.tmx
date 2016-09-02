@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>Deng did have that status within the Party, and thus replaced Hua and emerged as the core of the “second generation” of CCP leadership (as Deng put it, ignoring the fact that he was really part of the ﬁrst generation of leadership).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T211634Z" creationid="bluebird" creationdate="20160902T210056Z">
-        <seg>Deng sí tenía ese estatus .</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T212224Z" creationid="bluebird" creationdate="20160902T210056Z">
+        <seg>Deng sí tenía ese estatus dentro del Partido, por eso reemplazo a Hua y surgío como el centro de la "segunda generación" del liderazgo del PCCh (como decía Deng, dejando de lado el hecho de que él en realidad era parte de la primera generación del liderazgo.</seg>
       </tuv>
     </tu>
     <tu>
