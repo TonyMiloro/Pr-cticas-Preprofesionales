@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conservative theoretician Hu Qiaomu dies at</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005931Z" creationid="Usuario" creationdate="20160902T005931Z">
+        <seg>El teórico conservador Hu Qiaomu muere a los</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023155Z">
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020343Z">
         <seg>Por ejemplo, mientras el comunicado adoptado por el Séptimo Pleno del Partido en diciembre de 1990 “evaluó positivamente”  los “grandes logros” de China en la reforma y la apertura, enfatizó, sin embargo, la “integración de una economía planificada con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulación del mercado&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;”  y que repetir estos básicos  del pensamiento económico de Chen Yun &lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fourteenth Party Congress</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010003Z" creationid="Usuario" creationdate="20160902T010003Z">
+        <seg>Decimocuarto Congreso del Partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +798,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>October 12–18</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005947Z" creationid="Usuario" creationdate="20160902T005947Z">
+        <seg>12–18 octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>October 19</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010128Z" creationid="Usuario" creationdate="20160902T010128Z">
+        <seg>19 de octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Of course, the burgeoning economy – contrasted with the difficulties in Russia and many other places – has helped the government make its case.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201501Z">
@@ -855,6 +887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Politburo Meeting supports Deng Xiaoping</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005859Z" creationid="Usuario" creationdate="20160902T005859Z">
+        <seg>Reunión del politburó apoya a Deng Xiaoping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Premier Li Peng announces the lifting of</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231031Z" creationid="Usuario" creationdate="20160901T231031Z">
@@ -891,6 +931,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231048Z" creationid="Usuario" creationdate="20160901T231048Z">
         <seg>Septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 28</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005907Z" creationid="Usuario" creationdate="20160902T005907Z">
+        <seg>28 de septiembre</seg>
       </tuv>
     </tu>
     <tu>
@@ -1221,6 +1269,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160831T214055Z">
         <seg>Zhu es claramente&lt;t12/&gt; &lt;t13/&gt;alguien muy posesivo de su poder como primer ministro, y actuaba con vigor &lt;t14/&gt; &lt;t15/&gt;para centralizar el control sobre la economía en su gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>age 81</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005937Z" creationid="Usuario" creationdate="20160902T005937Z">
+        <seg>81 años</seg>
       </tuv>
     </tu>
     <tu>
