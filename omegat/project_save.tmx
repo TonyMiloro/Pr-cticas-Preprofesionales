@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34,6 +34,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020415Z">
         <seg>&lt;f0&gt;&lt;f1&gt;tcomo llamar a un desarrollo económico “sustentable, estable y coordinado” y actuar de acuerdo con las posibilidades de uno” (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;liangli erxing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;).&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;6&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Although the neostatist desire to increase state capacity appears at first glance to move in the opposite direction from popular nationalism and its criticisms of the existing government – and both of these seem distant from the New Left concerns discussed in Chapter&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;4&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;– in fact, all three of these trends share a basic intellectual orientation, and personal relations across them tend to be quite close.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T015852Z" creationid="Flor" creationdate="20160902T015852Z">
+        <seg>&lt;f0&gt;A pesar de que el deseo neoestatista de incrementar la capacidad estatal parece en principio ir en dirección opuesta al nacionalismo popular y sus críticas hacia el gobierno actual (y ambas posturas parecen distantes de los intereses de la Nueva Izquierda presentados en el Capítulo&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;4&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;), en realidad las tres corrientes comparten una orientación intelectual básica, y las relaciones personales entre ellas tienden a ser muy cercanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160831T212012Z">
         <seg>Al principio, esto&lt;t4/&gt; &lt;t5/&gt;parecía no hacer mucha diferencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least three concerns cross-cut these otherwise different approaches and bind them together.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T020022Z" creationid="Flor" creationdate="20160902T020022Z">
+        <seg>Al menos tres intereses atraviesan y conectan estos enfoques, que de otra manera serían muy diferentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, all three approaches share a populist orientation, although the neostatist is characterized by a concern for state building that popular nationalists like Wang Xiaodong do not display.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T020303Z" creationid="Flor" creationdate="20160902T020303Z">
+        <seg>Por último, todos comparten una orientación populista, pero los neoestatistas se destacan por un interés en la construcción estatal que los nacionalistas populares como Wang Xiaodong no demuestran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First Huangfu Ping commentary</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T000236Z" creationid="Usuario" creationdate="20160902T000236Z">
@@ -458,6 +482,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010158Z" creationid="Usuario" creationdate="20160902T010158Z">
         <seg>Primer pleno del Decimocuarto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, there is a common nationalism directed primarily against the United States, both in terms of its presumed desire to control China internationally and in terms of the American model of liberal democracy and neoclassical economics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T020133Z" creationid="Flor" creationdate="20160902T020133Z">
+        <seg>En primer lugar, hay un nacionalismo común direccionado en principio en contra de Estados Unidos, tanto por el supuesto deseo del país occidental de querer controlar a China en el ámbito internacional, como por el modelo estadounidense de democracia liberal y economía neoclásica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1083,6 +1115,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010356Z" creationid="Usuario" creationdate="20160902T010356Z">
         <seg>Segundo pleno del Décimoquinto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second, the approaches share a concern with social justice, though they differ somewhat in their preferred solutions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T020227Z" creationid="Flor" creationdate="20160902T020227Z">
+        <seg>En segundo lugar, los enfoques comparten un interés por la justicia social, aunque de alguna manera difieren en las posibles soluciones.</seg>
       </tuv>
     </tu>
     <tu>
