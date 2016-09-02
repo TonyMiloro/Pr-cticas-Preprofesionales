@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Central planning is of primary importance.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160902T222234Z" creationid="usuario" creationdate="20160902T222234Z">
+        <seg>La plnificación central es de mayor importancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 4</seg>
       </tuv>
       <tuv lang="ES-US" changeid="daiana" changedate="20160902T041212Z" creationid="daiana" creationdate="20160902T041212Z">
