@@ -320,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>CHINA SINCE TIANANMEN</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T000657Z">
-        <seg>CHINA DESDE TIANANMEN</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T165319Z">
+        <seg>China desde Tiananmen</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>Fifth Plenary Session of the Fourteenth</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020334Z" creationid="Usuario" creationdate="20160902T020334Z">
-        <seg>Quinto pleno del Décimocuarto</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T165248Z" creationid="Usuario" creationdate="20160902T020334Z">
+        <seg>Quinto pleno del Décimo cuarto</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,10 +838,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JOSEPH FEWSMITH</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T165430Z" creationid="Usuario" creationdate="20160902T165430Z">
+        <seg>Joseph Fewsmith</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JOSEPH FEWSMITH is Professor in the Departments of International Relations and Political Science at Boston University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023001Z">
-        <seg>JOSEPH FEWSMITH es profesor en el Departamento de Relaciones Internacionales y Ciencias Políticas de la Universidad de Boston.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T165344Z">
+        <seg>Joseph Fewsmith es profesor en el Departamento de Relaciones Internacionales y Ciencias Políticas de la Universidad de Boston.</seg>
       </tuv>
     </tu>
     <tu>
