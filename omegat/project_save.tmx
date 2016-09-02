@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1002,6 +1002,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160828T220630Z">
         <seg>Mao construyó su posición fundamental en el partido al dirigirla durante la fase más traumática de su historia, al restaurar el partido de la debacle en Jiangxi a convertirse en un movimiento vigoroso y creicente movimiento durante los días emocionantes de Yan y la guerra Sino-japonesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mao’s immediate successor, Hua Guofeng, never attained core status because he lacked the range of experience and connections essential to that position.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T205823Z" creationid="bluebird" creationdate="20160902T205823Z">
+        <seg>El sucesor de Mao, Hua Guofeng, nunca obtuvo posición central porque le faltaba la experiencia y las conecciones necesarias para esta posición.</seg>
       </tuv>
     </tu>
     <tu>
