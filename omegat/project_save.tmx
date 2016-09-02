@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -98,6 +98,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232757Z">
         <seg>&lt;f0&gt;La cuarta sesión plenaria del décimo cuarto comité central se reunió en Pekín desde el 25 al 28 de septiembre de 1994 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;decentralization had led to a steady decline of central government revenues as a percentage of national income and as a percentage of all government revenues.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160902T215254Z" creationid="usuario" creationdate="20160902T215254Z">
+        <seg>&lt;f0&gt;la decentralización había conducido a una constante disminución de los ingresos como un porcentaje de la renta nacional y como un porcentaje de todos los ingresos del gobierno.</seg>
       </tuv>
     </tu>
     <tu>
