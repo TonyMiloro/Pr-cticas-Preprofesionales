@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>March</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T000419Z" creationid="Usuario" creationdate="20160902T000419Z">
+        <seg>Marzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>March 22</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T235154Z" creationid="Usuario" creationdate="20160901T235154Z">
@@ -680,8 +688,8 @@
       <tuv lang="EN-US">
         <seg>National Planning Conference</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T235145Z" creationid="Usuario" creationdate="20160901T235145Z">
-        <seg>Conferencia Nacional de Planeamiento</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T000513Z" creationid="Usuario" creationdate="20160901T235145Z">
+        <seg>Conferencia Nacional de Planeamiento (NPC)</seg>
       </tuv>
     </tu>
     <tu>
