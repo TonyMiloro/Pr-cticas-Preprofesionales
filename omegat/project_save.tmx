@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -274,6 +274,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T015015Z" creationid="Flor" creationdate="20160902T015015Z">
         <seg>En el Capítulo&lt;s13/&gt;&lt;/f12&gt;&lt;a14&gt;&lt;f15&gt;3&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;&lt;/f16&gt;&lt;/a14&gt;&lt;f18&gt;se habló del nacionalismo de personas como He Xin y de los impulsos de recentralización de personas como Chen Yuan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chinese ship, Yin He, stopped by US Navy</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T014942Z" creationid="Usuario" creationdate="20160902T014942Z">
+        <seg>La marino de los Estados Unidos detiene al buque chino "Yin He"</seg>
       </tuv>
     </tu>
     <tu>
