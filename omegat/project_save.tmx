@@ -2643,8 +2643,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Xiao Weibi, editor of the liberal,</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T233344Z" creationid="Usuario" creationdate="20160902T233344Z">
-        <seg>Xiao Weibi, editor del liberal,</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T233601Z" creationid="Usuario" creationdate="20160902T233344Z">
+        <seg>Xiao Weibi, editor del periódico liberal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +2818,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dismissed for publishing an interview with</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T233414Z" creationid="Usuario" creationdate="20160902T233414Z">
+        <seg>desplazado de su cargo por publicar una entrevista con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>evolution”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T003202Z" creationid="Usuario" creationdate="20160902T003202Z">
@@ -2830,6 +2838,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225614Z" creationid="Usuario" creationdate="20160902T223758Z">
         <seg>para su interrogación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>former Guangdong Party Secretary Ren</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T233639Z" creationid="Usuario" creationdate="20160902T233632Z">
+        <seg>el ex secretario del partido en Guangdong Ren</seg>
       </tuv>
     </tu>
     <tu>
