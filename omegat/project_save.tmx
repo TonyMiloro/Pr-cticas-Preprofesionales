@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -858,6 +858,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T214541Z">
         <seg>En mayo, la Agencia de Noticias Xinhua informó que al menos 120 oficiales habían sido despedidos por negligencia. 45. Como muchos han notado, también existía un elemento político.&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In July 1988, as conservatives were mounting increasing attacks on the economic policies of Zhao Ziyang, Minister of Finance Wang Bingqian complained that the “financial situation is grim,” largely because</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160902T215116Z" creationid="usuario" creationdate="20160902T215116Z">
+        <seg>En julio de 1988, mientras los conservadores organizaban más ataques en las políticas económicas de Zhao Ziyang, el minitro de finanzas Wang Bingqian se quejaba de que "la situación financiera era nefasta" principalmente porque</seg>
       </tuv>
     </tu>
     <tu>
