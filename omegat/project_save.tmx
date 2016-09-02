@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2195,8 +2195,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>When Deng met with leaders of martial law troops on June 9, he declared that the line of “one center and two basic points” (economic development was the center; the two basic points were reform and opening up on the one hand and opposition to “bourgeois liberalization” on the other), which had been ofﬁcially adopted at the Thirteenth Party Congress in 1987, was correct and that reform and opening up needed to be pursued even more vigorously.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T215216Z" creationid="bluebird" creationdate="20160902T213604Z">
-        <seg>cuando Deng se ruinió con los líderes de las tropas de ley marcial el 9 de junio, declaró que la línea de "un centro y dos puntos básicos" (desarrollo económico; reforma y desarrollo por un lado y oposición a la "liberación burguesa" por otro), adoptado oficialmente en el Décimotercer Congreso del Partido en 1987, era correcta y que se debía perseguir con más vigorocidad la reforma y el desarrollo.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T220328Z" creationid="bluebird" creationdate="20160902T213604Z">
+        <seg>cuando Deng se ruinió con los líderes de las tropas de ley marcial el 9 de junio, declaró que la línea de "un centro y dos puntos básicos" (desarrollo económico; reforma y desarrollo por un lado y oposición a la "liberación burguesa" por otro), adoptado oficialmente en el Décimotercer Congreso del Partido en 1987, era correcta y que se debía luchar por la reforma y el desarrollo con más vigorocidad.</seg>
       </tuv>
     </tu>
     <tu>
