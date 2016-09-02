@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>October 12–14</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214200Z" creationid="Usuario" creationdate="20160902T214200Z">
+        <seg>12–14 de octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>October 12–18</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005947Z" creationid="Usuario" creationdate="20160902T005947Z">
@@ -1805,6 +1813,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T164512Z">
         <seg>Nunca llegaron a la conferencia, por el contrario, fueron despedidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Third Plenary Session of the Fifteenth</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214211Z" creationid="Usuario" creationdate="20160902T214211Z">
+        <seg>Tercer pleno del Décimo quinto</seg>
       </tuv>
     </tu>
     <tu>
