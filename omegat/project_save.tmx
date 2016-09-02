@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enlightenment Daily carries letter implicitly</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224324Z" creationid="Usuario" creationdate="20160902T224324Z">
+        <seg>El periódico Enlightenment Daily publica una carta en la cual implícitamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enlightenment intellectuals came increasingly under fire.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184631Z">
@@ -1574,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>October 9–11</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224339Z" creationid="Usuario" creationdate="20160902T224339Z">
+        <seg>9–11 de octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Of course, the burgeoning economy – contrasted with the difficulties in Russia and many other places – has helped the government make its case.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201501Z">
@@ -2446,6 +2462,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215041Z" creationid="Usuario" creationdate="20160902T215041Z">
         <seg>la corrupción en Xiamén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>criticizing Liu Junning</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224331Z" creationid="Usuario" creationdate="20160902T224331Z">
+        <seg>critica a Liu Junning</seg>
       </tuv>
     </tu>
     <tu>
