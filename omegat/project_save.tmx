@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -234,6 +234,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023042Z">
         <seg>Universidad de Boston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By 1992–3, however, as noted in the previous chapter, the economic and social bases had developed for a broader intellectual acceptance of New Left ideas that would have been considered “conservative” only a few years earlier.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T015331Z" creationid="Flor" creationdate="20160902T015331Z">
+        <seg>Sin embargo, tal y como se mencionó en el capítulo anterior, para los años 1992 y 1993 las bases económicas y sociales habían evolucionado con una aceptación intelectual más amplia de ideas de Nueva Izquierda que hubiesen sido consideradas "conservadoras" apenas unos años antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160831T194758Z">
         <seg>Sin embargo, los consejeros de Clinton en política interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, even though He Xin’s tone was populist, he was so obviously directing his views upward (toward the leadership) that he never tested the popular basis for his views.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T015110Z" creationid="Flor" creationdate="20160902T015110Z">
+        <seg>Sin embargo, a pesar de que el tono de He Xin era populista, era tan obvio que estaba dirigiendo su punto de vista hacia arriba (hacia el liderazgo) que nunca puso a prueba los fundamentos populares de sus opiniones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1039,6 +1055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similarly, although Chen Yuan sought ways to combine market economics with a stronger central government, he never developed a systematic conceptual approach.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T015150Z" creationid="Flor" creationdate="20160902T015150Z">
+        <seg>De manera similar, aunque Chen Yuan buscó la manera de combinar la economía de mercado con un gobierno central más fuerte, nunca desarrolló un enfoque conceptual sistemático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Summer</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010456Z" creationid="Usuario" creationdate="20160902T010456Z">
@@ -1221,6 +1245,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T020644Z">
         <seg>entre los cuales incluye las reformas en curso durante los últimos años de Jian Zemin' como primer ministro y la sucesión de Hu Jintao' en el 2002.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These limitations condemned the neoconservatism of the 1989–92 period to the margins of Chinese intellectual life, even as it expressed a prevalent mood within a segment of the political leadership.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160902T015241Z" creationid="Flor" creationdate="20160902T015241Z">
+        <seg>Estas limitaciones condenaron al neoconservadurismo de los años 1989 a 1992 a los márgenes de la vida intelectual china, incluso aunque predominara dentro de un segmento del liderazgo político.&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
