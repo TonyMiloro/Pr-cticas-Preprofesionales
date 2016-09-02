@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>July 9</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215249Z" creationid="Usuario" creationdate="20160902T215249Z">
+        <seg>9 de julio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>June 23–24</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165714Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210952Z" creationid="Usuario" creationdate="20160902T210952Z">
         <seg>4 de mayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May 7</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215214Z" creationid="Usuario" creationdate="20160902T215214Z">
+        <seg>7 de mayo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1695,6 +1711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taiwan President Lee Teng-hui describes</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215316Z" creationid="Usuario" creationdate="20160902T215316Z">
+        <seg>El presidente de Taiwán Lee Teng-hui describe las</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Task force established to investigate</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215008Z" creationid="Usuario" creationdate="20160902T215008Z">
@@ -2025,6 +2049,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>US bombs hit Chinese Embassy in Belgrade</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215243Z" creationid="Usuario" creationdate="20160902T215243Z">
+        <seg>Bombas de los EE. UU caen sobre la Embajada de China en Belgrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>United States starts bombing Serbian forces</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214430Z" creationid="Usuario" creationdate="20160902T214430Z">
@@ -2195,8 +2227,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>around Zhongnanhai</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215146Z" creationid="Usuario" creationdate="20160902T215146Z">
-        <seg>alrededor de Zhongnanhai</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215209Z" creationid="Usuario" creationdate="20160902T215146Z">
+        <seg>en torno a Zhongnanhai</seg>
       </tuv>
     </tu>
     <tu>
