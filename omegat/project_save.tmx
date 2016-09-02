@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -174,6 +174,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>April 10</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015748Z" creationid="Usuario" creationdate="20160902T015748Z">
+        <seg>10 de abril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>April 27</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015847Z" creationid="Usuario" creationdate="20160902T015847Z">
+        <seg>27 de abril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As Fewsmith – a highly regarded political scientist and a seasoned China-watcher – observes, China is a very different place today than it was eighteen years ago.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T022340Z">
@@ -294,10 +310,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chen Yun, advocate of a planned economy,</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015820Z" creationid="Usuario" creationdate="20160902T015820Z">
+        <seg>Chen Yun, defensor de la economía planificada,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chinese ship, Yin He, stopped by US Navy</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T014942Z" creationid="Usuario" creationdate="20160902T014942Z">
-        <seg>La marino de los Estados Unidos detiene al buque chino "Yin He"</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015520Z" creationid="Usuario" creationdate="20160902T014942Z">
+        <seg>La marina de los Estados Unidos detiene al buque chino "Yin He"</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +482,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010003Z" creationid="Usuario" creationdate="20160902T010003Z">
         <seg>Decimocuarto Congreso del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fourth Plenary Session of the Fourteenth</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015740Z" creationid="Usuario" creationdate="20160902T015740Z">
+        <seg>Cuarto pleno del Décimocuarto</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Looking at China through a Third Eye</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015714Z" creationid="Usuario" creationdate="20160902T015714Z">
+        <seg>Publicación del libro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mao developed his core position in the Party by leading it through the most traumatic phase of its history, bringing the Party back from the debacle in Jiangxi to become a vigorous and growing movement in the heady days of Yan’an and the Sino–Japanese War.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160828T220630Z">
@@ -929,8 +969,8 @@
       <tuv lang="EN-US">
         <seg>Olympics awarded to Sydney, Australia,</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T013619Z" creationid="Usuario" creationdate="20160902T013619Z">
-        <seg>Elección de Sydey, Australia como sede Olímpica en lugar</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015530Z" creationid="Usuario" creationdate="20160902T013619Z">
+        <seg>Elección de Sydey, Australia, como sede Olímpica en lugar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1063,6 +1103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>September 25–28</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015727Z" creationid="Usuario" creationdate="20160902T015727Z">
+        <seg>25–28 de septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>September 28</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005907Z" creationid="Usuario" creationdate="20160902T005907Z">
@@ -1075,6 +1123,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T015150Z" creationid="Flor" creationdate="20160902T015150Z">
         <seg>De manera similar, aunque Chen Yuan buscó la manera de combinar la economía de mercado con un gobierno central más fuerte, nunca desarrolló un enfoque conceptual sistemático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strategy and Management starts publication</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015548Z" creationid="Usuario" creationdate="20160902T015548Z">
+        <seg>Comienzo de publicación de "Strategy and Management"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1481,6 +1537,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dies at age 90</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015828Z" creationid="Usuario" creationdate="20160902T015828Z">
+        <seg>fallece a los 90 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>evolution”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T003202Z" creationid="Usuario" creationdate="20160902T003202Z">
@@ -1501,14 +1565,6 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231042Z" creationid="Usuario" creationdate="20160901T231042Z">
         <seg>ley marcial en Beijing</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>published</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010601Z" creationid="Usuario" creationdate="20160902T010550Z">
-        <seg>Huntington</seg>
       </tuv>
     </tu>
     <tu>
