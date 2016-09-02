@@ -496,8 +496,8 @@
       <tuv lang="EN-US">
         <seg>Chinese F-8 fighter collides with American</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224511Z" creationid="Usuario" creationdate="20160902T224511Z">
-        <seg>El chino Chinese F-8 fighter collides with American</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224904Z" creationid="Usuario" creationdate="20160902T224511Z">
+        <seg>El avión de combate chino F-8 fighter choca contra un avión de reconocimiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +642,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160902T224852Z" creationid="Administrador" creationdate="20160902T223030Z">
         <seg>En su discurso famoso de 1980 sobre reformar los sistemas del Partido y del Estado , Deng expresó la necesidad de crear instituciones políticas sólidas:   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E-P3 surveillance plane off coast of Hainan</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224911Z" creationid="Usuario" creationdate="20160902T224748Z">
+        <seg>E-P3 de los EE. UU en las costas de Hainan</seg>
       </tuv>
     </tu>
     <tu>
