@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>November 11–14</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T013743Z" creationid="Usuario" creationdate="20160902T013743Z">
+        <seg>11–14 de noviembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>November 6–9</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165920Z">
@@ -851,6 +859,14 @@
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201501Z">
         <seg>Claramente, la economía en crecimiento (en contraste con las dificultades que Rusia y otros países atravesaban) ayudaba a que el gobierno lograra su objetivo.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Olympics awarded to Sydney, Australia,</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T013619Z" creationid="Usuario" creationdate="20160902T013619Z">
+        <seg>Elección de Sydey, Australia como sede Olímpica en lugar</seg>
       </tuv>
     </tu>
     <tu>
@@ -971,6 +987,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231048Z" creationid="Usuario" creationdate="20160901T231048Z">
         <seg>Septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 23</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T013545Z" creationid="Usuario" creationdate="20160902T013545Z">
+        <seg>23 de septiembre</seg>
       </tuv>
     </tu>
     <tu>
@@ -1169,6 +1193,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Third Plenary Session of the Fourteenth</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T013800Z" creationid="Usuario" creationdate="20160902T013800Z">
+        <seg>Tercer pleno del Décimocuarto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This book – more than any other – explains the forces that have shaped China since Tiananmen.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T022710Z">
@@ -1341,6 +1373,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T003202Z" creationid="Usuario" creationdate="20160902T003202Z">
         <seg>pacífica"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>instead of Beijing</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T013732Z" creationid="Usuario" creationdate="20160902T013732Z">
+        <seg>de Beijing</seg>
       </tuv>
     </tu>
     <tu>
