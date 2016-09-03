@@ -672,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>China may eventually emerge as a democratic nation, but, if so, its path will be longer and more complicated than was so widely assumed in the early 1990s.9 Contrary to those Western hopes, a significant number of intellectuals in China came to have different comprehensions of their society and the international order than their Western counterparts assumed they had.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T192013Z" creationid="USUARIO" creationdate="20160903T190304Z">
-        <seg>Puede que China emerja como una nación democrática, pero, de ser ese el caso, el camino será mucho más largo y complicado de lo que se asumía con tanta seguridad a principio de los 90.9 En oposición a esas esperanzas occidentales, una considerable cantidad de intelectuales en China llegaron a tener concepciones de su sociedad y del orden internacional diferentes a las de sus contrapuntos occidentales. en el qu Contrary to those Western hopes, a significant number of intellectuals in China came to have different comprehensions of their society and the international order than their Western counterparts assumed they had.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T192112Z" creationid="USUARIO" creationdate="20160903T190304Z">
+        <seg>Puede que China emerja como una nación democrática, pero, de ser ese el caso, el camino será mucho más largo y complicado de lo que se asumía con tanta seguridad a principio de los 90.9 En oposición a esas esperanzas occidentales, una considerable cantidad de intelectuales en China llegaron a tener concepciones de su sociedad y del orden internacional diferentes a las que asumían sus contrapuntos occidentales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2741,6 +2741,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054830Z">
         <seg>El estado y los intelectuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The story of intellectual development in the 1980s was one of critical self-examination (how could the Cultural Revolution have occurred?), of a cosmopolitan opening to the world, and of democratic hope and aspiration (though a serious investigation of these attitudes needs to include a critical analysis of underlying assumptions about democracy).10 By the 1990s, many intellectuals were more supportive of their own government and more critical of the West than at any time since the May Fourth Movement of 1919.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T192351Z" creationid="USUARIO" creationdate="20160903T192114Z">
+        <seg>La historia del desarrollo intelectual en los 80 fue una etapa de examinación autocrítica (cómo podría haber ocurrido la Revolución Cultural) The story of intellectual development in the 1980s was one of critical self-examination (how could the Cultural Revolution have occurred?), of a cosmopolitan opening to the world, and of democratic hope and aspiration (though a serious investigation of these attitudes needs to include a critical analysis of underlying assumptions about democracy).10 By the 1990s, many intellectuals were more supportive of their own government and more critical of the West than at any time since the May Fourth Movement of 1919.</seg>
       </tuv>
     </tu>
     <tu>
