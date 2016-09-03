@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;It did not take long for several of China’s provincial leaders to respond to Deng’s initiative.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192726Z" creationid="Evelyn" creationdate="20160903T192726Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;No le tomó mucho tiempo a varios líderes provinciales de China a responder a la iniciativa de Deng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;R &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ESPONSE FROM THE PROVINCES&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192654Z" creationid="Evelyn" creationdate="20160903T192654Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;R &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ESPUESTA DE LAS PROVINCIAS&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Such limited endorsement of Deng’s views apparently left the patriarch frustrated.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T181813Z" creationid="Evelyn" creationdate="20160903T181746Z">
@@ -104,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;persons.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; A third article directly refuted conservative ideologue He Xin’s argument (see Chapter &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) that foreign investment had led to the poverty of the Third World by calling on Shanghai leaders to “courageously take a risk, boldly use foreign capital, and turn Shanghai into a commercial, financial, and information center.”&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192431Z" creationid="Evelyn" creationdate="20160903T190409Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;sensatas.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Un tercer artículo refutó directamente  del ideólogo conservador He Xin (ver Capítulo &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) que la inversión extranjera había conducido a la pobreza del Tercer Mundo &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192643Z" creationid="Evelyn" creationdate="20160903T190409Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;sensatas.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Un tercer artículo refutó directamente el argumento del ideólogo conservador He Xin (ver Capítulo &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) que la inversión extranjera había conducido a la pobreza del Tercer Mundo al apelar a los líderes de Shanghai a "tomar riesgos con coraje, utilizar capital extranjero con valentía, y convertir a Shanghai en un centro comercial, financiero y de información".&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2171,6 +2187,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T213535Z">
         <seg>El 9 de abril  Ma Xiaowei, el vice ministro de salud, anunció que habían existido veintidos casos de SRAS en la ciudad y cuatro muertes.&lt;t106/&gt;&lt;t107/&gt; &lt;t108/&gt;"Los números que anuncio hoy son correctos", declaró Xiaowei con audacia pero, sin embargo, con falsedad.&lt;t109/&gt; &lt;t110/&gt;&lt;t111/&gt; &lt;t112/&gt;&lt;t113/&gt;&lt;t114/&gt;&lt;t115/&gt;&lt;t116/&gt;&lt;t117/&gt; &lt;t118/&gt;&lt;t119/&gt; &lt;t120/&gt;&lt;t121/&gt; &lt;t122/&gt;&lt;t123/&gt; &lt;t124/&gt;&lt;t125/&gt;&lt;t126/&gt;&lt;t127/&gt;&lt;t128/&gt; &lt;t129/&gt;&lt;t130/&gt;&lt;t131/&gt;&lt;t132/&gt; &lt;t133/&gt;&lt;t134/&gt;&lt;t135/&gt;&lt;t136/&gt; &lt;t137/&gt;&lt;t138/&gt; &lt;t139/&gt;&lt;t140/&gt; &lt;t141/&gt;&lt;t142/&gt; &lt;t143/&gt;&lt;t144/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On March 11, 1991 Guangdong’s Party secretary Lin Ruo, who had close ties to Zhao Ziyang, published an article in the Guang-dong Party paper &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Southern Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; (&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Nanfang ribao&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) and a shorter, somewhat watered down, version in the &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;People’s Daily&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192819Z" creationid="Evelyn" creationdate="20160903T192819Z">
+        <seg>El 11 de marzo de 1991, el secretario del Partido de Guangdong, Lin Ruo, quien había tenido  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Southern Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; (&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Nanfang ribao&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) and a shorter, somewhat watered down, version in the &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;People’s Daily&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
