@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3715,8 +3715,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This is the story most at odds with Western (particularly American) expectations of China, particularly in the first few years after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T185148Z">
-        <seg>Esta es la historia que más se contradice con las expectativas de Occidente, en especial las de Estados Unidos, respecto de China, particularmente durante los años que le siguieron al Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T233051Z">
+        <seg>Esta es la historia que más se contradice con las expectativas de Occidente, en especial con las de Estados Unidos, respecto de China, particularmente durante los años que le siguieron al Tiananmen.</seg>
       </tuv>
     </tu>
     <tu>
