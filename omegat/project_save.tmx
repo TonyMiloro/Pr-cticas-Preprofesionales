@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;persons.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; A third article directly refuted conservative ideologue He Xin’s argument (see Chapter &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) that foreign investment had led to the poverty of the Third World by calling on Shanghai leaders to “courageously take a risk, boldly use foreign capital, and turn Shanghai into a commercial, financial, and information center.”&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T190409Z" creationid="Evelyn" creationdate="20160903T190409Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;sensatas.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; A third article directly refuted conservative ideologue He Xin’s argument (see Chapter &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) that foreign investment had led to the poverty of the Third World by calling on Shanghai leaders to “courageously take a risk, boldly use foreign capital, and turn Shanghai into a commercial, financial, and information center.”&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192431Z" creationid="Evelyn" creationdate="20160903T190409Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;sensatas.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Un tercer artículo refutó directamente  del ideólogo conservador He Xin (ver Capítulo &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) que la inversión extranjera había conducido a la pobreza del Tercer Mundo &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2359,6 +2359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Wei Yung-cheng, “Reveal the Mystery of Huangfu Ping.” According to Gao Xin and He Pin, the galleys of each article were personally approved by Deng’s daughter, Deng Nan (see &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Zhu Rongji zhuan&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192219Z" creationid="Evelyn" creationdate="20160903T192219Z">
+        <seg>Ver Wei Yung-cheng, “Reveal the Mystery of Huangfu Ping.” According to Gao Xin and He Pin, the galleys of each article were personally approved by Deng’s daughter, Deng Nan (see &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Zhu Rongji zhuan&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>September</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T231048Z" creationid="Usuario" creationdate="20160901T231048Z">
@@ -2773,6 +2781,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T200930Z">
         <seg>No obstante, las tendencias de los primeros años del nuevo siglo tampoco son del todo alentadoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The writers of the Huangfu Ping articles were Zhou Ruijin, Ling He, and Shi Zhihong.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192210Z" creationid="Evelyn" creationdate="20160903T192210Z">
+        <seg>Los escritores de los artículos de Huangfu Ping fueron Zhou Ruijin, Ling He, and Shi Zhihong.</seg>
       </tuv>
     </tu>
     <tu>
