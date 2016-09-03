@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1936,8 +1936,8 @@
       <tuv lang="EN-US">
         <seg>Mao had made it clear in his 1942 speech to the Yan’an Forum on Literature and Art that intellectuals must overcome their natural petty bourgeois nature by self-consciously “integrating” themselves with the “masses” – with the Party as judge of how successfully they had done so.13 With the perspective of thirty years of persecution, intellectuals naturally were critics of the Party/state even when they served it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T204826Z" creationid="USUARIO" creationdate="20160903T203601Z">
-        <seg>Mao había dejado en claro en su discurso de 1942 ante el Foro de Literatura y Arte de Yan’an que los intelectuales debían sobreponerse a su insignificante naturaleza burguesa "integrándose" de manera deliberadamente con las "masas" by self-consciously “integrating” themselves with the “masses” – with the Party as judge of how successfully they had done so.13 With the perspective of thirty years of persecution, intellectuals naturally were critics of the Party/state even when they served it.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T204946Z" creationid="USUARIO" creationdate="20160903T203601Z">
+        <seg>Mao había dejado en claro en su discurso de 1942 ante el Foro de Literatura y Arte de Yan’an que los intelectuales debían sobreponerse a su insignificante naturaleza burguesa "integrándose" de manera deliberadamente con las "masas", con el Partido como juez de hasta qué punto lo habían logrado.  with the Party as judge of how successfully they had done so.13 With the perspective of thirty years of persecution, intellectuals naturally were critics of the Party/state even when they served it.</seg>
       </tuv>
     </tu>
     <tu>
