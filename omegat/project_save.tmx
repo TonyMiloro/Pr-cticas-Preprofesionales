@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1194,6 +1194,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T170543Z">
         <seg>Epílogo: el Décimo séptimo Congreso del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even as high-ranking cadres, then, such liberal intellectuals were critics of the state and constituted what X. L. Ding termed a “counterelite.”14 As critics, they inevitably turned to the May Fourth tradition for moral inspiration – particularly its emphasis on science, democracy, cosmopolitanism, and the leading role for intellectuals as societal conscience.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T212755Z" creationid="USUARIO" creationdate="20160903T212755Z">
+        <seg>Aun como un grupo de alto jerarquía, Even as high-ranking cadres, then, such liberal intellectuals were critics of the state and constituted what X. L. Ding termed a “counterelite.”14 As critics, they inevitably turned to the May Fourth tradition for moral inspiration – particularly its emphasis on science, democracy, cosmopolitanism, and the leading role for intellectuals as societal conscience.</seg>
       </tuv>
     </tu>
     <tu>
