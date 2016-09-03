@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T210051Z" creationid="usuario" creationdate="20160903T210051Z">
         <seg>281 y pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>326&lt;/f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;f5&gt;8.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212530Z" creationid="usuario" creationdate="20160903T212530Z">
+        <seg>326&lt;/f3&gt;&lt;f4&gt;-&lt;/f4&gt;&lt;f5&gt;8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T014423Z" creationid="Flor" creationdate="20160902T014423Z">
         <seg>&lt;f0&gt;A pesar de que en el&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;capítulo anterior&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;se expusieron las mayores diferencias entre la Nueva Izquierda y los liberales, el enfoque se puso en mayor parte sobre las distintas maneras que tienen de ver el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Baum,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Burying Mao&lt;/f2&gt;&lt;f3&gt;, pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212517Z" creationid="usuario" creationdate="20160903T212517Z">
+        <seg>&lt;f0&gt;Baum,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Burying Mao&lt;/f2&gt;&lt;f3&gt;, pág.</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160903T212443Z" creationid="Sabri" creationdate="20160903T212407Z">
         <seg>Un cierto grado de tensión internacional era bueno&lt;t8/&gt; &lt;t9/&gt;para aquellos que disfrutaban izar la bandera nacionalista; también proveía una buena&lt;t10/&gt; &lt;t11/&gt;excusa para continuar proyectando los intereses de las empresas y burocracias&lt;t12/&gt; &lt;t13/&gt;que amenazaban la compentencia internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A third reason to support higher growth rates was that a greater percentage of the growth would necessarily occur outside the scope of the plan and thus limit the ability of such conservative bureaucratic organs as the SPC to restrict reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212652Z" creationid="usuario" creationdate="20160903T212652Z">
+        <seg>Una tercer razón para apoyar mayores tasas de crecimiento era que un porcentaje mayor del crecimiento ocurriría necesariamente fuera del alcance del plan y de este modo limitaría la abilidad</seg>
       </tuv>
     </tu>
     <tu>
