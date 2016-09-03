@@ -3003,8 +3003,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This was certainly the case following the Cultural Revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T195927Z" creationid="USUARIO" creationdate="20160903T195927Z">
-        <seg>Ciertamente esto fue lo que ocurrió luego de las REvolución CulturalfThis was certainly the case following the Cultural Revolution.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T195947Z" creationid="USUARIO" creationdate="20160903T195927Z">
+        <seg>Ciertamente esto fue lo que ocurrió luego de la Revolución Cultural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3213,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160902T220328Z" creationid="bluebird" creationdate="20160902T213604Z">
         <seg>cuando Deng se ruinió con los líderes de las tropas de ley marcial el 9 de junio, declaró que la línea de "un centro y dos puntos básicos" (desarrollo económico; reforma y desarrollo por un lado y oposición a la "liberación burguesa" por otro), adoptado oficialmente en el Décimotercer Congreso del Partido en 1987, era correcta y que se debía luchar por la reforma y el desarrollo con más vigorocidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When Mao’s death in 1976 brought that cataclysm to an end, intellectuals once again resumed their “proper” role in Chinese society.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T195952Z" creationid="USUARIO" creationdate="20160903T195952Z">
+        <seg>When Mao’s death in 1976 brought that cataclysm to an end, intellectuals once again resumed their “proper” role in Chinese society.</seg>
       </tuv>
     </tu>
     <tu>
