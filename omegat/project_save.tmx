@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN-US">
         <seg>Although by 1993 there were many art&lt;t0/&gt;icles that expressed nationalis&lt;t1/&gt;tic sentiments, few journals took on the topic of nationalism directly and openly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T215654Z" creationid="Andrea-Leonardo" creationdate="20160903T215526Z">
-        <seg>Aunque en 1993 había muchos artículos&lt;t0/&gt;que expresaban sentimientos&lt;t1/&gt; nacionalistas, algunos  .</seg>
+      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T215933Z" creationid="Andrea-Leonardo" creationdate="20160903T215526Z">
+        <seg>Aunque en 1993 había muchos artículos&lt;t0/&gt;se expresaban sentimientos&lt;t1/&gt; nacionalistas, en algunos diarios se hacía referencia a la idea del nacionalismo abiertamente.</seg>
       </tuv>
     </tu>
     <tu>
