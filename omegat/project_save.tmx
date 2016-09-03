@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Such limited endorsement of Deng’s views apparently left the patriarch frustrated.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T181746Z" creationid="Evelyn" creationdate="20160903T181746Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;El poco respaldo de las </seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T181813Z" creationid="Evelyn" creationdate="20160903T181746Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;El poco respaldo del punto de vista de Deng aparentemente frustó al patriarca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3398,6 +3398,22 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020128Z">
         <seg> Deng le dijo a sus colegas: “no crean que involucrarse en la economía de mercado es [tomar] el camino capitalista; no es así.” </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“If such a state of affairs continues, I have no choice but to go to Shang-hai to issue my articles there.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; So saying, Deng traveled to the east-coast metropolis and proceeded to give a number of talks intended to rekindle reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T182053Z" creationid="Evelyn" creationdate="20160903T182053Z">
+        <seg>“Si esta situación continúa, no me quedará otra opción más que ir a Shanghai para publicar mis artículos.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; So saying, Deng traveled to the east-coast metropolis and proceeded to give a number of talks intended to rekindle reform.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Nobody is listening to me now,” Deng allegedly complained.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T181911Z" creationid="Evelyn" creationdate="20160903T181911Z">
+        <seg>“Ahora nadie me escucha”- supuestamente se quejó Deng.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
