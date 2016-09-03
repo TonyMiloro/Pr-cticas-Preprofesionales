@@ -1232,8 +1232,8 @@
       <tuv lang="EN-US">
         <seg>In Jiang Zemin’s October 1, 1989 speech marking the 40th anniversary of the founding of the PRC, the Party general secretary charged that “international reactionary forces have never given up their fundamental stance of enmity toward and [desire to] overthrow the socialist system.”&lt;/f0&gt;&lt;f1&gt;85&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Although conservatives were never able to bring about a fundamental reorientation of Chinese foreign policy, they certainly were able to constrain the ability of the Chinese government to take initiatives that might have improved relations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T145703Z" creationid="usuario" creationdate="20160903T144241Z">
-        <seg>El 1º de octubre de 1989, durante el discurso de Jiang Zemin para el 40 aniversario de la fundación de la RPC, el secretario general del partido denunció que "las fuerzas reaccionarias internacionales nunca habían abandonado su posición fundamental de enemistad hacia el sistema socialista y (su deseo de) derrocarlo". &lt;/f0&gt;&lt;f1&gt;85&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Aunque lo conservadores nunca lograron provocar una reorientación fundamental de la política exterior china, si lograron detener la capacidad del gobierno chino para llevar a cabo iniciativas que podrían haber mejroado las relaciones. </seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T145711Z" creationid="usuario" creationdate="20160903T144241Z">
+        <seg>El 1º de octubre de 1989, durante el discurso de Jiang Zemin para el 40 aniversario de la fundación de la RPC, el secretario general del partido denunció que "las fuerzas reaccionarias internacionales nunca habían abandonado su posición fundamental de enemistad hacia el sistema socialista y (su deseo de) derrocarlo". &lt;/f0&gt;&lt;f1&gt;85&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Aunque lo conservadores nunca lograron provocar una reorientación fundamental de la política exterior china, si lograron detener la capacidad del gobierno chino para llevar a cabo iniciativas que podrían haber mejorado las relaciones. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2717,6 +2717,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T133833Z" creationid="usuario" creationdate="20160903T133420Z">
         <seg>A lo largo de los 80, Deng emergió como el campeón de tasas de crecimiento mayores, no solo porque los logros económicos de China reflejarían de manera favorable su propio liderazgo y lugar en la historia si no también porque él creía que, mientras la economía se desarrollara, los conflictos políticos y sociales serían resueltos más fácilmente, reduciendo así la posibilidad de que maores conflictos pudieran conducir a otra Revolución Cultural.&lt;/f3&gt;&lt;f5&gt;80&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;De este modo, en la víspera de la Conferencia de Trabajo Económico, Deng envió a Yang Shangkun a hablar con algunos líderes provinciales como Zhu Rongji  Ye Xuannping para hacerles saber que contaban con su apoyo en su oposición a Li Peng.&lt;/f6&gt;&lt;f8&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, as Deng told Nixon, “[t]he United States can take a few initiatives; China cannot take the initiative.”&lt;/f2&gt;&lt;f4&gt;86&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T145812Z" creationid="usuario" creationdate="20160903T145812Z">
+        <seg>De este modo, como Deng le diejra a Nixon, "los Estados Unidos pueden tomar algunas inciativas; China no puede tomar la iniciativa".&lt;/f2&gt;&lt;f4&gt;86&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
