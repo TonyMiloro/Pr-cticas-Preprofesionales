@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3451,8 +3451,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The “great nationalism” of the Han Chinese conflicted with the “small nationalism” of the minority nationalities, Pi wrote, while the anti-traditionalism of th&lt;t10/&gt;e nationalistic May Fourth Move&lt;t11/&gt;ment denigrated the history of the very people it hoped to lift up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T222216Z" creationid="Andrea-Leonardo" creationdate="20160903T221813Z">
-        <seg>El “gran nationalismo” de Han Chinese confrontado con el “pequeño nationalismo” de las naciones minoritarias, Pi escribió, que mientras el anti tradicionalismo del&lt;t10/&gt;nacionalismo de May Fourth Move&lt;t11/&gt;ment denigrated the history of the very people it hoped to lift up.</seg>
+      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T222232Z" creationid="Andrea-Leonardo" creationdate="20160903T221813Z">
+        <seg>El “gran nationalismo” de Han Chinese confrontado con el “pequeño nationalismo” de las naciones minoritarias, Pi escribió, que mientras el anti tradicionalismo del&lt;t10/&gt;nacionalismo del moviemiento May Fourth &lt;t11/&gt;denigrated the history of the very people it hoped to lift up.</seg>
       </tuv>
     </tu>
     <tu>
