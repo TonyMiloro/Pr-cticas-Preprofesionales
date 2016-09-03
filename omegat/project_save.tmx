@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -216,16 +216,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;The four commentaries were published on February 15, March 2, March 22, and April 12, 1991.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192118Z" creationid="Evelyn" creationdate="20160903T192118Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Las cuatro crónicas fueron publicadas el 15 de febrero, 2 de marzo, 22 de marzo y 12 de abril de 1991.</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224721Z" creationid="Evelyn" creationdate="20160903T192118Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Las cuatro columnas de análisis fueron publicadas el 15 de febrero, 2 de marzo, 22 de marzo y 12 de abril de 1991.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;The gist of Deng’s talks in Shanghai was summarized in four commen-taries carried in the Shanghai Party paper, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, under the pen name “Huangfu Ping” (which can be translated as “Shanghai Commen-tator”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T183742Z" creationid="Evelyn" creationdate="20160903T183700Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Lo esencial de las charlas de Deng en Shanghai se sintetizó en cuatro crónicas en el diario del partido de Shanghai &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, bajo el seudónimo “Huangfu Ping” (que se puede traducir como "el cronista de Shanghai”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224628Z" creationid="Evelyn" creationdate="20160903T183700Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Lo esencial de las charlas de Deng en Shanghai se sintetizó en cuatro columnas de análisis en el diario del partido de Shanghai &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, bajo el seudónimo “Huangfu Ping” (que se puede traducir como "el cronista de Shanghai”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +792,8 @@
       <tuv lang="EN-US">
         <seg>At the same time that Tianjin publicized Tan Shaowen’s address, Hebei governor Cheng Weigao (who would be arrested for corruption in 2003) echoed Deng’s Shanghai comments, saying that “the development of the market and display of the market’s regulatory functions must not be</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202421Z" creationid="Evelyn" creationdate="20160903T201607Z">
-        <seg>Mientras Tianjin publicitaba a Tan Shaowen, el gobernador de Hebei, Cheng Weigao (quien sería arrestado por corrupción en 2003), hizo eco de los comentarios de Deng en Shanghai, y dijo que "el desarrollo del mercado y la demostración de las funciones regulatorias del mercado no se deben considerar </seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224131Z" creationid="Evelyn" creationdate="20160903T201607Z">
+        <seg>Mientras Tianjin publicitaba el discurso de Tan Shaowen, el gobernador de Hebei, Cheng Weigao (quien sería arrestado por corrupción en 2003), hizo eco de los comentarios de Deng en Shanghai, y dijo que "el desarrollo del mercado y la demostración de las funciones regulatorias del mercado no se deben considerar </seg>
       </tuv>
     </tu>
     <tu>
@@ -1856,8 +1856,8 @@
       <tuv lang="EN-US">
         <seg>In an interview with &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Fortnightly&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Chats &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Banyue tan&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;), Chen repeatedly invoked Dengist rhetoric, criticizing&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;“ossified thinking” and giving explicit support to Deng’s “new cat thesis.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;17&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; In contrast, Beijing Party secretary Li Ximing, who would be ousted for his conspicuous resistance to Deng’s policies following the patriarch’s 1992 trip to Shenzhen, avoided the use of similar reformist rhetoric.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T221524Z" creationid="Evelyn" creationdate="20160903T215549Z">
-        <seg>En una entrevista con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Fortnightly&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Chats &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Banyue tan&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;), Chen invocó la retórica de Deng en reiteradas oportunidades, criticando el &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;“pensamiento anquilosado” y respaldando explícitamente la "teoría del gato" de Deng.&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;17&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; En cambio, el secretario del Partido de Pekín, quien sería expulsado por su resistencia evidente a las políticas de Deng luego del viaje del patriarca a Shenzhen en 1992, evitó el uso de la misma retórica reformista.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224555Z" creationid="Evelyn" creationdate="20160903T215549Z">
+        <seg>En una entrevista con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;La charla&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;quincenal&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Banyue tan&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;), Chen invocó la retórica de Deng en reiteradas oportunidades, criticando el &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;“pensamiento anquilosado” y respaldando explícitamente la "teoría del gato" de Deng.&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;17&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; En cambio, el secretario del Partido de Pekín, quien sería expulsado por su resistencia evidente a las políticas de Deng luego del viaje del patriarca a Shenzhen en 1992, evitó el uso de la misma retórica reformista.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3539,8 +3539,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Their writing and publication were overseen by Deng’s daughter Deng Nan and Shanghai Party secretary Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; The first commen-tary was published under photographs of Deng Xiaoping, Yang Shangkun, and Li Xiannian conveying lunar New Year’s greetings to Shanghai lead-ers, thus visually emphasizing the authoritative nature of the commentary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T184253Z" creationid="Evelyn" creationdate="20160903T184024Z">
-        <seg>Su escritura y publicación fueron supervisados por la hija de Deng Deng Nan y el secretario del Partido de Shanghai Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; La primera crónica fue publicada debajo de las fotografías de Deng Xiaoping, Yang Shangkun, y Li Xiannian expresando buenos deseos por el Año Nuevo Lunar a los líderes de Shanghai, enfatizando, de esta manera, la naturaleza autoritativa de este escrito.</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224649Z" creationid="Evelyn" creationdate="20160903T184024Z">
+        <seg>Su escritura y publicación fueron supervisados por la hija de Deng Deng Nan y el secretario del Partido de Shanghai Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; La primera columna fue publicada debajo de las fotografías de Deng Xiaoping, Yang Shangkun, y Li Xiannian expresando buenos deseos por el Año Nuevo Lunar a los líderes de Shanghai, enfatizando, de esta manera, la naturaleza autoritativa de este escrito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3843,8 +3843,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Using language not seen since the heyday of reform in the late 1980s, the commentaries excoriated “ossified thinking” and repeatedly called for a new wave of “emancipating the mind.” For instance, one article declared that China would “miss a good opportunity” if it got bogged down in worrying about whether something was capitalist or socialist,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; while another quoted Deng as saying that capitalist society is “very bold in discovering and using talented people” and urging the promotion of a large number of “sensible&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T190356Z" creationid="Evelyn" creationdate="20160903T184355Z">
-        <seg>Utilizando un lenguaje que no se había visto desde el apogeo de la reforma durante el final de la década de 1980, las crónicas vituperaron un "pensamiento anquilosado" y llamaron en reiteradas oportunidades a una nueva ola de "emancipación de la mente". Por ejemplo, un artículo declaró que China "perdería una buena oportunidad" si se enreda preocupándose sobre si algo es capitalista o socialista, &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;mientras que otra citaba a Deng, quien decía que la sociedad capitalista es "muy audaz en el descubrimiento y uso de gente talentosa" e instó la promoción de una gran cantidad de "personas</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224707Z" creationid="Evelyn" creationdate="20160903T184355Z">
+        <seg>Utilizando un lenguaje que no se había visto desde el apogeo de la reforma durante el final de la década de 1980, las columnas vituperaron un "pensamiento anquilosado" y llamaron en reiteradas oportunidades a una nueva ola de "emancipación de la mente". Por ejemplo, un artículo declaró que China "perdería una buena oportunidad" si se enreda preocupándose sobre si algo es capitalista o socialista, &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;mientras que otra citaba a Deng, quien decía que la sociedad capitalista es "muy audaz en el descubrimiento y uso de gente talentosa" e instó la promoción de una gran cantidad de "personas</seg>
       </tuv>
     </tu>
     <tu>
