@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1936,8 +1936,8 @@
       <tuv lang="EN-US">
         <seg>In the same period, the number of private enterprises had grown from 10,667, employing 9.7 million people, to 123,820, employing over 34.5 million workers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160903T215751Z" creationid="Administrador" creationdate="20160903T215647Z">
-        <seg>En el mismo período, la cantidad de empresas privadas había crecido de 10 667 </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160903T221849Z" creationid="Administrador" creationdate="20160903T215647Z">
+        <seg>En el mismo período, la cantidad de empresas privadas había crecido de 10 667, con 9,7 millones de personas contratadas, a 123 820, empleando más de 34,5 millones de trabajadores.</seg>
       </tuv>
     </tu>
     <tu>
