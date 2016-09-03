@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -642,6 +642,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T235210Z" creationid="Usuario" creationdate="20160902T205358Z">
         <seg>Publicación de China Can Say No (China puede decir No)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China may eventually emerge as a democratic nation, but, if so, its path will be longer and more complicated than was so widely assumed in the early 1990s.9 Contrary to those Western hopes, a significant number of intellectuals in China came to have different comprehensions of their society and the international order than their Western counterparts assumed they had.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T190304Z" creationid="USUARIO" creationdate="20160903T190304Z">
+        <seg>China may eventually emerge as a democratic nation, but, if so, its path will be longer and more complicated than was so widely assumed in the early 1990s.9 Contrary to those Western hopes, a significant number of intellectuals in China came to have different comprehensions of their society and the international order than their Western counterparts assumed they had.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2699,8 +2707,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The student demonstrations in 1989 raised such expectations that it took a long time for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T190018Z">
-        <seg>Las manifestaciones estudiantiles de 1989 generaron tales expectativas que les llevó un largo tiempo a los políticos, los escritores editoriales y los periodistas de Occidente comprender for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T190119Z">
+        <seg>Las manifestaciones estudiantiles de 1989 generaron tales expectativas que les llevó un largo tiempo a los políticos, los escritores editoriales y los periodistas de Occidente comprender que China no estaba al borde de la transición democrática.</seg>
       </tuv>
     </tu>
     <tu>
