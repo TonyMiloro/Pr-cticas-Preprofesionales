@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;upswing in conservative influence.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T150528Z" creationid="usuario" creationdate="20160903T150528Z">
+        <seg>levantamiento de la influencia conservadora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;which taxes would go to the central government and which to the local-ities.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T125959Z" creationid="usuario" creationdate="20160903T125959Z">
@@ -2411,8 +2419,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The collapse of socialism in Eastern Europe, as noted previously, was provoking new debate in Beijing and bringing about a new</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T150439Z" creationid="usuario" creationdate="20160903T150439Z">
-        <seg>El colapso del ocialismo en Europa occidental, como se mencionó previamente, provocaba nuevos debates en Pekín y ocasionaba</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T150459Z" creationid="usuario" creationdate="20160903T150439Z">
+        <seg>El colapso del ocialismo en Europa occidental, como se mencionó previamente, provocaba nuevos debates en Pekín y ocasionaba un nuevo</seg>
       </tuv>
     </tu>
     <tu>
