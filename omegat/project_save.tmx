@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -506,6 +506,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T020022Z" creationid="Flor" creationdate="20160902T020022Z">
         <seg>Al menos tres intereses atraviesan y conectan estos enfoques, que de otra manera serían muy diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the same time that Tianjin publicized Tan Shaowen’s address, Hebei governor Cheng Weigao (who would be arrested for corruption in 2003) echoed Deng’s Shanghai comments, saying that “the development of the market and display of the market’s regulatory functions must not be</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T201607Z" creationid="Evelyn" creationdate="20160903T201607Z">
+        <seg>Mientras Tianjin pub</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,8 +1424,8 @@
       <tuv lang="EN-US">
         <seg>In a major speech, Tan urged cadres to “emancipate the mind” and declared that “it was because of the reform and opening up that we con-ducted that we withstood the severe tests of the changes in the international situation, the political storms in the country, and numerous difficulties.” In good Dengist fashion, Tan argued that “[e]conomic stability is the foun-dation of political and social stability.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T200336Z" creationid="Evelyn" creationdate="20160903T200010Z">
-        <seg>en un gran discurso, Tan instó a los dirigentes a "emancipar la mente" y declaro que "fue por la reforma y la apertura que condujimos que resistimos las pruebas severas de los cambios en la situación internacional, las tormentas políticas en el pais y numerosas dificultades". De una forma similar a la de Deng, Tan  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T201544Z" creationid="Evelyn" creationdate="20160903T200010Z">
+        <seg>En un gran discurso, Tan instó a los dirigentes a "emancipar la mente" y declaro que "fue por la reforma y la apertura que condujimos que resistimos las pruebas severas de los cambios en la situación internacional, las tormentas políticas en el pais y numerosas dificultades". De una forma similar a la de Deng, Tan sostuvo que "la estabilidad económica es la base de la estabilidad política y social". &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
