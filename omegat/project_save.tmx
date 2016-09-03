@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1810,6 +1810,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160902T130304Z" creationid="Backup" creationdate="20160902T130304Z">
         <seg>Al igual que Wang Shuo, Wang Shan ya habia escrito una primer novela, Heaven's Elegy (Elegía del cielo), en la que describía un mundo de vandalismo, e incorporaba nociones tradicionales en las que el código de honor entre las clases bajas se contrastaba favorablemente con los valores de las clases más altas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lin pointedly attributed the rapid growth that Guangdong had enjoyed over the previous decade to the implementation of market-oriented policies.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T193745Z" creationid="Evelyn" creationdate="20160903T193745Z">
+        <seg>Lin atribuyó el rápido crecimiento que Guangdong había </seg>
       </tuv>
     </tu>
     <tu>
