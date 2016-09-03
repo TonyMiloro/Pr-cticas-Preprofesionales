@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1000,8 +1000,8 @@
       <tuv lang="EN-US">
         <seg>Even the physical appearance of &lt;t8/&gt;Strategy and Management&lt;t9/&gt; suggested a journal that differed significantly from the hundreds of academic journals normally circulating in China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T201557Z" creationid="Andrea-Leonardo" creationdate="20160903T201015Z">
-        <seg>Incluso el formato de &lt;t8/&gt;Gestión y Estrategia&lt;t9/&gt; sugería la imágen de una revista que se diferenciaba considerablemente de la gran cantidad de revistas académicas que circulaban con normalidad en China .</seg>
+      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T201721Z" creationid="Andrea-Leonardo" creationdate="20160903T201015Z">
+        <seg>Incluso el formato de &lt;t8/&gt;Gestión y Estrategia&lt;t9/&gt; sugería la imágen de una revista diferente a la gran cantidad de revistas académicas que circulaban con normalidad en China .</seg>
       </tuv>
     </tu>
     <tu>
