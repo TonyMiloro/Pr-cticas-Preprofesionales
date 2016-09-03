@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Harry Harding,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;The Fragile Relationship&lt;/f2&gt;&lt;f3&gt;, p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T215828Z" creationid="usuario" creationdate="20160903T215828Z">
+        <seg>&lt;f0&gt;Harry Harding,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;The Fragile Relationship&lt;/f2&gt;&lt;f3&gt;, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;If inflation was disturbing, the performance of the state-owned economy was even more so.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234518Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T213028Z" creationid="usuario" creationdate="20160903T213028Z">
         <seg>Deng Xiaoping, “Disandai lingdao jiti de dangwu zhiji”, pág</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Xiaoping, “Jiesu yanjun de ZhongMei guanxi yao you Meiguo caiqu zhudong,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T215814Z" creationid="usuario" creationdate="20160903T215814Z">
+        <seg>Deng Xiaoping, “Jiesu yanjun de ZhongMei guanxi yao you Meiguo caiqu zhudong”, pág.</seg>
       </tuv>
     </tu>
     <tu>
