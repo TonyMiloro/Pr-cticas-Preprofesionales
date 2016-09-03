@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -664,8 +664,8 @@
       <tuv lang="EN-US">
         <seg>China may eventually emerge as a democratic nation, but, if so, its path will be longer and more complicated than was so widely assumed in the early 1990s.9 Contrary to those Western hopes, a significant number of intellectuals in China came to have different comprehensions of their society and the international order than their Western counterparts assumed they had.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T191416Z" creationid="USUARIO" creationdate="20160903T190304Z">
-        <seg>Puede que China emerja como una nación democrática, pero, de ser ese el casoChina may eventually emerge as a democratic nation, but, if so, its path will be longer and more complicated than was so widely assumed in the early 1990s.9 Contrary to those Western hopes, a significant number of intellectuals in China came to have different comprehensions of their society and the international order than their Western counterparts assumed they had.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T191509Z" creationid="USUARIO" creationdate="20160903T190304Z">
+        <seg>Puede que China emerja como una nación democrática, pero, de ser ese el caso, el camino será mucho más largo y colicado de lo que se asumía con tanta seguridad a principio de los 90.China may eventually emerge as a democratic nation, but, if so, its path will be longer and more complicated than was so widely assumed in the early 1990s.9 Contrary to those Western hopes, a significant number of intellectuals in China came to have different comprehensions of their society and the international order than their Western counterparts assumed they had.</seg>
       </tuv>
     </tu>
     <tu>
