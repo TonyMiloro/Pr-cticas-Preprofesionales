@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>Anticipating trends that would continue, albeit with significantly different content, in the 1990s, intellectuals with only minimal attachment to the state started to become active.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T223641Z" creationid="USUARIO" creationdate="20160903T223509Z">
-        <seg>Anticipándose a tendencias que continuarían, aunque con contenido considerablemente diferenteAnticipating trends that would continue, albeit with significantly different content, in the 1990s, intellectuals with only minimal attachment to the state started to become active.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T223837Z" creationid="USUARIO" creationdate="20160903T223509Z">
+        <seg>Anticipándose a tendencias que continuarían en las década de los 90, aunque con contenido considerablemente diferente, los intelectuales con sollo un apego mínimo con el estado comenzaron a volverse activos.Anticipating trends that would continue, albeit with significantly different content, in the 1990s, intellectuals with only minimal attachment to the state started to become active.</seg>
       </tuv>
     </tu>
     <tu>
