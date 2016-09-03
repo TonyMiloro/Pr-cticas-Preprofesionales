@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;which taxes would go to the central government and which to the local-ities.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T125959Z" creationid="usuario" creationdate="20160903T125959Z">
+        <seg>cuáles impuestos irían al gobierno central  cuáles a las localidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;But&lt;t1/&gt; intellectual currents and the relationship between intellectuals and the state are also part of the broader problem of institution building.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T025154Z">
@@ -2275,8 +2283,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The central government wanted to replace the local financial contract system, under which the provinces were responsible only for delivering a speci-fied sum to Beijing, with a “dual tax system” that would designate clearly</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T125807Z" creationid="usuario" creationdate="20160903T125609Z">
-        <seg>El gobierno central quería reemplazar el sistema de contrato financiero local, según el cual las provincias eran reponsables solo por entregar una suma específica a Pekín, con un "sistema impositivo dual" que designaría claramente</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T125911Z" creationid="usuario" creationdate="20160903T125609Z">
+        <seg>El gobierno central quería reemplazar el sistema de contrato financiero local, según el cual las provincias eran reponsables solo por entregar una suma específica a Pekín, con un "sistema tributario dual" que designaría claramente</seg>
       </tuv>
     </tu>
     <tu>
