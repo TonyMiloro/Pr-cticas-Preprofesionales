@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Most surprising of all was the call from Beijing mayor Chen Xitong to “emancipate the mind.” One of the most conservative of China’s high officials and a hardliner who had actively encouraged the use of force in suppressing the 1989 protest movement, Chen was nevertheless a close follower of Deng and responded to his call.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T211146Z" creationid="Evelyn" creationdate="20160903T211146Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Lo más sorprendente de todo esto fue la llamada del alcalde de Beijing, Chen Xitong, a "emancipar la mente". Uno de los  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;R &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ESPONSE FROM THE PROVINCES&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192654Z" creationid="Evelyn" creationdate="20160903T192654Z">
@@ -3812,8 +3820,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>“Nobody is listening to me now,” Deng allegedly complained.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T181911Z" creationid="Evelyn" creationdate="20160903T181911Z">
-        <seg>“Ahora nadie me escucha”- supuestamente se quejó Deng.</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T210629Z" creationid="Evelyn" creationdate="20160903T181911Z">
+        <seg>“Nadie me escucha ahora”- supuestamente se quejó Deng.</seg>
       </tuv>
     </tu>
     <tu>
