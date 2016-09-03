@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2979,8 +2979,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Using language not seen since the heyday of reform in the late 1980s, the commentaries excoriated “ossified thinking” and repeatedly called for a new wave of “emancipating the mind.” For instance, one article declared that China would “miss a good opportunity” if it got bogged down in worrying about whether something was capitalist or socialist,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; while another quoted Deng as saying that capitalist society is “very bold in discovering and using talented people” and urging the promotion of a large number of “sensible&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T184355Z" creationid="Evelyn" creationdate="20160903T184355Z">
-        <seg>Utilizando un lenguaje que no se había visto desde el apogeo de la reforma durante el final de la década de 1980, las crónicas &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; while another quoted Deng as saying that capitalist society is “very bold in discovering and using talented people” and urging the promotion of a large number of “sensible&lt;/f17&gt;&lt;/f16&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T185922Z" creationid="Evelyn" creationdate="20160903T184355Z">
+        <seg>Utilizando un lenguaje que no se había visto desde el apogeo de la reforma durante el final de la década de 1980, las crónicas vituperaron un "pensamiento anquilosado" y llamaron en reiteradas oportunidades a una nueva ola de "emancipación de la mente". Por ejemplo, un artículo declaró que China "perdería una buena oportunidad" si  &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; while another quoted Deng as saying that capitalist society is “very bold in discovering and using talented people” and urging the promotion of a large number of “sensible&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
