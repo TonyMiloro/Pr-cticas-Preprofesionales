@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -770,6 +770,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202421Z" creationid="Evelyn" creationdate="20160903T201607Z">
         <seg>Mientras Tianjin publicitaba a Tan Shaowen, el gobernador de Hebei, Cheng Weigao (quien sería arrestado por corrupción en 2003), hizo eco de los comentarios de Deng en Shanghai, y dijo que "el desarrollo del mercado y la demostración de las funciones regulatorias del mercado no se deben considerar </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the same time, Hu consolidated his hold on the military by promoting ten senior officers to the rank of full-general.&lt;t4/&gt;114</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T220813Z" creationid="Pablo" creationdate="20160903T220745Z">
+        <seg>Al mismo tiempo, Hu consolidó su posición en el ejército al promover a diez oficiales superiores al cargo de teniente general.&lt;t4/&gt;114</seg>
       </tuv>
     </tu>
     <tu>
@@ -2266,6 +2274,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184658Z">
         <seg>También resulta de importancia que la profesionalización de la burocracia provocó que algunos intelectuales se convirtieran en tecnócratas, mientras que otros recurrieron a especializaciones académicas y, en cierta medida, dejaron de lado el rol tradicional de la crítica social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just as this news was coming out in the Chinese press, Hu Jintao raised the stakes in his speech on the eighty-fifth anniversary of the CCP’s founding.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T221023Z" creationid="Pablo" creationdate="20160903T221023Z">
+        <seg>Mientras estas noticias empezaban a aparecer en la prensa china, Hu Jintao subió la apuesta en su discurso para el octogésimo quinto aniversario de la fundación del PCCh.</seg>
       </tuv>
     </tu>
     <tu>
