@@ -3151,6 +3151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some lost their positions (indeed, many had lost them in the course of political battles during the 1980s), some were jailed for various periods of time, and others went abroad.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T230532Z" creationid="USUARIO" creationdate="20160903T230532Z">
+        <seg>Algunos perdieron sus puestos (en efecto, muchos los habían perdido en el transcurso de batallas políticas)Some lost their positions (indeed, many had lost them in the course of political battles during the 1980s), some were jailed for various periods of time, and others went abroad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strategy and Management starts publication</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T002506Z" creationid="Usuario" creationdate="20160902T015548Z">
@@ -3395,8 +3403,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The ideals and hopes of these and other intellectuals were shattered by Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T230348Z" creationid="USUARIO" creationdate="20160903T230348Z">
-        <seg>Los ideales y esperanzas de estos y otros intelectuales resultaron por el Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T230438Z" creationid="USUARIO" creationdate="20160903T230348Z">
+        <seg>Los ideales y esperanzas de estos y otros intelectuales resultaron destrozadas por el Tiananmen.</seg>
       </tuv>
     </tu>
     <tu>
