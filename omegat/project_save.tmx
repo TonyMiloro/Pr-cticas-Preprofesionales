@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2042,6 +2042,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184344Z">
         <seg>Irónicamente, al mismo tiempo que China ingresó a la OMC, se generaba una gran oposición intelectual al capitalismo y a la globalización,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ironically, just as Hu was moving to consolidate his authority in the Party and the military, he spoke at a major meeting to launch the publication of the three volumes of Jiang Zemin’s Selected Works.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T223831Z" creationid="Pablo" creationdate="20160903T223831Z">
+        <seg>Irónicamente, mientras continuaba con la consolidación su autoridad en el Partido y en el ejército, Hu habló en una gran reunión para lanzar la publicación de los tres volúmenes del libro de Jiang Zemin "Selected Works".</seg>
       </tuv>
     </tu>
     <tu>
