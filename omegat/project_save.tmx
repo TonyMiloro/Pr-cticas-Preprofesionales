@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;regarded as a practice of capitalism.” Reflecting provincial (and Dengist) impatience with conservative leaders, Cheng sharply criticized planners in Beijing who had recentralized authority over the economy, and he demanded that central policies regarding enterprise autonomy be enforced and the Enterprise Law (passed in 1988 but never put into effect) be imple-mented.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202530Z" creationid="Evelyn" creationdate="20160903T202530Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;como una práctica del capitalismo.” Reflejando impaciencia provincial (y de Deng) con los líderes conservadores, Cheng criticó severamente </seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202743Z" creationid="Evelyn" creationdate="20160903T202530Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;como una práctica del capitalismo.” Reflejando impaciencia provincial (y de Deng) con los líderes conservadores, Cheng criticó severamente a los organizadores en Pekín quienes habían recentralizado la autoridad sobre la economía, y exigíó que las políticas centrales relacionadas con la autonomía de las empresas se impongan y que la Ley de compañías (aprobada en 1988 pero nunca puesta en práctica) se implementara. </seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +698,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015820Z" creationid="Usuario" creationdate="20160902T015820Z">
         <seg>Chen Yun, defensor de la economía planificada,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cheng also berated conservatives as people who “have doubts and misgivings” about reform and have “lost the courage to make positive explorations.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;15&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202904Z" creationid="Evelyn" creationdate="20160903T202904Z">
+        <seg>Además, Cheng reprendió a los conservadores como personas que "tienen dudas y recelos" sobre la reforma y "perdieron el coraje de hacer exploraciones positivas".&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;15&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
