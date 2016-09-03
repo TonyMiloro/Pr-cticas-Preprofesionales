@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2965,6 +2965,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234431Z">
         <seg>El año finalizaría con una tasa de inflación anual del 21,7 por ciento.&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “honorary director” was former PLA Chief of Staff Xiao Ke, the director was former Secretariat member Gu Mu, and the “senior advisers” included such luminaries as retired general Zhang Aiping, former &lt;t12/&gt;People’s Daily &lt;t13/&gt;editor-in-chief Qin Chuan, former State Economic Com-mission head Yuan Baohua, and former Secretariat member Yan Mingfu.&lt;t14/&gt;68&lt;t15/&gt; The editor of &lt;t16/&gt;Strategy and Management&lt;t17/&gt; was Qin Chaoying, son of the&lt;t18/&gt; former editor-in-chief of the &lt;t19/&gt;People’s Daily&lt;t20/&gt;, Qin Chuan, but the editorial direction came primarily from&lt;t21/&gt; Yang Ping and Wang Xiaodong.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T204945Z" creationid="Andrea-Leonardo" creationdate="20160903T204945Z">
+        <seg>El "director honorario"The “honorary director” was former PLA Chief of Staff Xiao Ke, the director was former Secretariat member Gu Mu, and the “senior advisers” included such luminaries as retired general Zhang Aiping, former &lt;t12/&gt;People’s Daily &lt;t13/&gt;editor-in-chief Qin Chuan, former State Economic Com-mission head Yuan Baohua, and former Secretariat member Yan Mingfu.&lt;t14/&gt;68&lt;t15/&gt; The editor of &lt;t16/&gt;Strategy and Management&lt;t17/&gt; was Qin Chaoying, son of the&lt;t18/&gt; former editor-in-chief of the &lt;t19/&gt;People’s Daily&lt;t20/&gt;, Qin Chuan, but the editorial direction came primarily from&lt;t21/&gt; Yang Ping and Wang Xiaodong.</seg>
       </tuv>
     </tu>
     <tu>
