@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>347, note 2.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T210058Z" creationid="usuario" creationdate="20160903T210058Z">
-        <seg>347, nota 2.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T220313Z" creationid="usuario" creationdate="20160903T210058Z">
+        <seg>347, nota 2.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +122,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T210133Z" creationid="usuario" creationdate="20160903T210133Z">
         <seg>&lt;f0&gt;70&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Ibid., pág.&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;284&lt;/f5&gt;&lt;f6&gt;-&lt;/f6&gt;&lt;f7&gt;5.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;87&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;Harding,&lt;s3/&gt;&lt;/f1&gt;&lt;f4&gt;The Fragile Relationship&lt;/f4&gt;&lt;f5&gt;, p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T220205Z" creationid="usuario" creationdate="20160903T220205Z">
+        <seg>&lt;f0&gt;87&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;Harding,&lt;s3/&gt;&lt;/f1&gt;&lt;f4&gt;A Fragile Relationship&lt;/f4&gt;&lt;f5&gt;, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;88&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Beijing radio, December&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;1,&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;1990.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T220257Z" creationid="usuario" creationdate="20160903T220257Z">
+        <seg>&lt;f0&gt;88&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;radio Pekín, 1º de&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt; diciembre,&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;1990.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +368,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Harry Harding,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;The Fragile Relationship&lt;/f2&gt;&lt;f3&gt;, p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T215828Z" creationid="usuario" creationdate="20160903T215828Z">
-        <seg>&lt;f0&gt;Harry Harding,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;The Fragile Relationship&lt;/f2&gt;&lt;f3&gt;, pág.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T220102Z" creationid="usuario" creationdate="20160903T215828Z">
+        <seg>&lt;f0&gt;Harry Harding,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;A Fragile Relationship&lt;/f2&gt;&lt;f3&gt;, pág.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2154,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T212516Z" creationid="Usuario" creationdate="20160902T205751Z">
         <seg>Jiang Zemin brinda una charla en la Escuela Central del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang Zemin, “Zai qingzhu Zhonghua renmin gongheguo chengli sishi zhounian dahuishang de jianghua,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T220124Z" creationid="usuario" creationdate="20160903T220124Z">
+        <seg>Jiang Zemin, “Zai qingzhu Zhonghua renmin gongheguo chengli sishi zhounian dahuishang de jianghua”, pág.</seg>
       </tuv>
     </tu>
     <tu>
