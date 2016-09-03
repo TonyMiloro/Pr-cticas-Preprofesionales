@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conversely, other&lt;t14/&gt; &lt;t15/&gt;enterprises and bureaucracies benefited from opening up internationally.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160903T212555Z" creationid="Sabri" creationdate="20160903T212555Z">
+        <seg>Al contrario, otras&lt;t14/&gt; &lt;t15/&gt;empresas y burocracias se beneficiaban de abrirse internacionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crossed Swords published</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T010140Z" creationid="Usuario" creationdate="20160902T210748Z">
@@ -3357,6 +3365,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173640Z">
         <seg>Represión de Tiananmén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To a degree, policy oscillations reflected these competing interests.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160903T212626Z" creationid="Sabri" creationdate="20160903T212626Z">
+        <seg>En cierto grado, las oscilaciones en política reflejaban estos intereses competitivos.</seg>
       </tuv>
     </tu>
     <tu>
