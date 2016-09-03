@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020229Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sin embargo, estas confirmaciones de la política de Deng no contribuyeron a la resurrección de la línea de reforma de Deng. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;The four commentaries were published on February 15, March 2, March 22, and April 12, 1991.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192118Z" creationid="Evelyn" creationdate="20160903T192118Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Las cuatro crónicas fueron publicadas el 15 de febrero, 2 de marzo, 22 de marzo y 12 de abril de 1991.</seg>
       </tuv>
     </tu>
     <tu>
