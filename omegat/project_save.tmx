@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Conservative leaders, often quite hostile to the United States, were&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;on the basis of Deng&lt;/f3&gt;&lt;f5&gt;’&lt;/f5&gt;&lt;f6&gt;s comments&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;–&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;able to whip up a campaign against&lt;s11/&gt;&lt;/f9&gt;&lt;f12&gt;“&lt;/f12&gt;&lt;f13&gt;peaceful evolution.&lt;/f13&gt;&lt;f14&gt;”&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;Such conservatives charged that the United States, having failed to contain and overthrow socialism in the 1950s and 1960s, had pinned its hopes on the later generations of Chinese, who might be susceptible to Western influences and thus bring about change from within.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T142823Z" creationid="usuario" creationdate="20160903T142154Z">
-        <seg>&lt;f0&gt;Los líderes conservadores, con frecuencia bastante a hostiles hacia los Estados Unidos, eran&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;según lo comtarios&lt;/f3&gt;&lt;f5&gt;de &lt;/f5&gt;&lt;f6&gt;Deng&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;,&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;capaces de improvisar una campaña contra la&lt;s11/&gt;&lt;/f9&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;f13&gt;evolución pacífica&lt;/f13&gt;&lt;f14&gt;".&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;Estos conservadores denunciaban que los Estados Unidos, al no haber podido contener y derrocar al socialismo en los 50, había puesto sus esperanzas en las generaciones más jóvened de chinos, quien podían ser má suceptibles a las influencias occidentales y de este modo provocar el cambio desde adentro.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212936Z" creationid="usuario" creationdate="20160903T142154Z">
+        <seg>&lt;f0&gt;Los líderes conservadores, con frecuencia bastante a hostiles hacia los Estados Unidos, eran&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;según los comentarios&lt;/f3&gt;&lt;f5&gt;de &lt;/f5&gt;&lt;f6&gt;Deng&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;,&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;capaces de improvisar una campaña contra la&lt;s11/&gt;&lt;/f9&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;f13&gt;evolución pacífica&lt;/f13&gt;&lt;f14&gt;".&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;Estos conservadores denunciaban que los Estados Unidos, al no haber podido contener y derrocar al socialismo en los 50, había puesto sus esperanzas en las generaciones más jóvened de chinos, quien podían ser má suceptibles a las influencias occidentales y de este modo provocar el cambio desde adentro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +330,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212155Z" creationid="usuario" creationdate="20160903T212114Z">
         <seg>&lt;f0&gt;Para un estudio influyente de este aspecto, el cual será discutido en el capítulo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;5&lt;/f2&gt;&lt;f3&gt;, véase  Hu Angang and Wang Shaoguang, &lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Jiaqiang zhongyang zhengfu zai shichang jingji zhuanxing zhong de zhudao zuoyong&lt;/f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Gao Xin and He Pin,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Zhu Rongji zhuan&lt;/f2&gt;&lt;f3&gt;, p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212911Z" creationid="usuario" creationdate="20160903T212911Z">
+        <seg>&lt;f0&gt;Gao Xin y He Pin,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Zhu Rongji zhuan&lt;/f2&gt;&lt;f3&gt;, pág.</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,8 +520,8 @@
       <tuv lang="EN-US">
         <seg>A third reason to support higher growth rates was that a greater percentage of the growth would necessarily occur outside the scope of the plan and thus limit the ability of such conservative bureaucratic organs as the SPC to restrict reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212652Z" creationid="usuario" creationdate="20160903T212652Z">
-        <seg>Una tercer razón para apoyar mayores tasas de crecimiento era que un porcentaje mayor del crecimiento ocurriría necesariamente fuera del alcance del plan y de este modo limitaría la abilidad</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212848Z" creationid="usuario" creationdate="20160903T212652Z">
+        <seg>Una tercer razón para apoyar mayores tasas de crecimiento era que un porcentaje mayor del crecimiento ocurriría necesariamente fuera del alcance del plan y de este modo limitaría la habilidad de restringir la reforma de los órganos conservadores burocráticos como la Corte Suprema de Justicia.</seg>
       </tuv>
     </tu>
     <tu>
