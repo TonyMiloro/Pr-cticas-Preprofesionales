@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -442,6 +442,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184403Z">
         <seg>lo que generó que se siguieran desatando más críticas durante los primeros años del nuevo siglo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&lt;t22/&gt;s noted in Chapter &lt;t23/&gt;3&lt;t24/&gt;, &lt;t25/&gt;Yang Ping was the chief drafter of “Realistic Responses” in 1991 and had served as an editor of &lt;t26/&gt;China Youth Daily&lt;t27/&gt;, one of the most popular papers in the country.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T212134Z" creationid="Andrea-Leonardo" creationdate="20160903T212134Z">
+        <seg>Como&lt;t22/&gt; se señaló en el Capítulo &lt;t23/&gt;3&lt;t24/&gt;, &lt;t25/&gt;Yang Ping was the chief drafter of “Realistic Responses” in 1991 and had served as an editor of &lt;t26/&gt;China Youth Daily&lt;t27/&gt;, one of the most popular papers in the country.</seg>
       </tuv>
     </tu>
     <tu>
