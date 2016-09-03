@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>As we have seen in looking at the sub-elite level, the enlightenment&lt;t0/&gt; &lt;t1/&gt;project and globalization had come under considerable criticism by many&lt;t2/&gt; &lt;t3/&gt;intellectuals in the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160903T212921Z" creationid="Sabri" creationdate="20160903T212921Z">
-        <seg>Como hemos visto al mirar al nivel élite secundario, el proyecto de&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;intellectuals in the 1990s.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160903T213029Z" creationid="Sabri" creationdate="20160903T212921Z">
+        <seg>Como hemos visto al mirar al nivel élite secundario, el proyecto de&lt;t0/&gt; &lt;t1/&gt;esclarecimiento y globalización había sido criticado de manera considerable por muchos&lt;t2/&gt; &lt;t3/&gt;intelectuales en los años 1990.</seg>
       </tuv>
     </tu>
     <tu>
