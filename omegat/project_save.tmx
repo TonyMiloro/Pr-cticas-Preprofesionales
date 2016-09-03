@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deng Xiaoping, “Disandai lingdao jiti de dangwu zhiji,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T213028Z" creationid="usuario" creationdate="20160903T213028Z">
+        <seg>Deng Xiaoping, “Disandai lingdao jiti de dangwu zhiji”, pág</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deng Xiaoping’s prestige within the Party was correspondingly diminished by Tiananmen and the disgrace of Zhao.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160825T153803Z" creationid="Usuario" creationdate="20160825T153247Z">
