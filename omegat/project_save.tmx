@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After meeting with the president, Qian declared that the visit would&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;“&lt;/f6&gt;&lt;f7&gt;help open vast vistas for bilateral relations.&lt;/f7&gt;&lt;f8&gt;”&lt;/f8&gt;&lt;f9&gt;88&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;Qian’s optimistic appraisal, however, did not materialize.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T153009Z" creationid="usuario" creationdate="20160903T153009Z">
+        <seg>Luego de la reunión con el presidente, Qian declaró que la visita&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All information contained in this manual is important for safe and reliable operation of the equipment.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="paula" changedate="20160708T201941Z">
@@ -1296,8 +1304,8 @@
       <tuv lang="EN-US">
         <seg>In late 1990, ties improved again with Chinese Foreign Minister Qian Qichen&lt;/f2&gt;&lt;f3&gt;’&lt;/f3&gt;&lt;f4&gt;s visit to the United States, which culminated in a meeting with President Bush.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T152831Z" creationid="usuario" creationdate="20160903T152831Z">
-        <seg>En los últimos años de 1990, las relacioness mejoraron nuevamente con el ministro exterior chino Qian Qichen</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T152936Z" creationid="usuario" creationdate="20160903T152831Z">
+        <seg>En los últimos años de 1990, las relacioness mejoraron nuevamente con la visita del ministro exterior chino &lt;/f2&gt;&lt;f3&gt;Qian Qichen&lt;/f3&gt;&lt;f4&gt; que culminó en una reunión con el presidente Bush.</seg>
       </tuv>
     </tu>
     <tu>
