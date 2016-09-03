@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even as late as 1998, there were 64,737, state-owned enterprises &lt;t0/&gt;(SOEs), employing 110 million workers.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160903T003313Z" creationid="Administrador" creationdate="20160903T003313Z">
+        <seg>Incluso hasta el año 1998</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>February</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T223807Z" creationid="Usuario" creationdate="20160902T223807Z">
@@ -1728,8 +1736,8 @@
       <tuv lang="EN-US">
         <seg>Not only has the Chinese economy more than quadrupled in size since 1978, state control has also retreated significantly from direct management of the economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160903T003035Z" creationid="Administrador" creationdate="20160903T000922Z">
-        <seg>No solo la economía china ha crecido más del cuádruple de su tamaño desde 1978, sino también el control del estado sobre la administración directa de la economía ha disminuido significativamente  </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160903T003048Z" creationid="Administrador" creationdate="20160903T000922Z">
+        <seg>No solo la economía china ha crecido más del cuádruple de su tamaño desde 1978, sino también el control del estado sobre la administración directa de la economía ha disminuido significativamente.</seg>
       </tuv>
     </tu>
     <tu>
