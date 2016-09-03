@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -674,6 +674,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184424Z">
         <seg>Como se debatirá en los siguientes capítulos, algunos intelectuales cambiaron de parecer, mientras que otros propusieron nuevas ideas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As “Realistic Responses” and the editorial board of &lt;t30/&gt;Strategy&lt;t31/&gt; &lt;t32/&gt;and Management &lt;t33/&gt;suggested, this was a g&lt;t34/&gt;roup of youth who were well con&lt;t35/&gt;nected with higher-ups in the Party but who were also frustrated by what they regarded as the lack of new ideas and forceful leadership of the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T213326Z" creationid="Andrea-Leonardo" creationdate="20160903T213245Z">
+        <seg>Como “Realistic Responses” y el consejo editorial de &lt;t30/&gt;&lt;t31/&gt; &lt;t32/&gt;and Management &lt;t33/&gt;suggested, this was a g&lt;t34/&gt;roup of youth who were well con&lt;t35/&gt;nected with higher-ups in the Party but who were also frustrated by what they regarded as the lack of new ideas and forceful leadership of the Party.</seg>
       </tuv>
     </tu>
     <tu>
