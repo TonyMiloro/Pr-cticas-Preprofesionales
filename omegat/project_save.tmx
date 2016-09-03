@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3381,6 +3381,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T001028Z">
         <seg>Esta sesión se dedicó a cuestiones de formación de partidos, principalmente "centralismo democrático". Anteriormente, el pleno había sido organizado para discutir también sobre la economía. Sin embargo, en lo que bien podría haber sido su última intervención en la política, Deng sugirió que las cuestiones económicas se excluyeran de la agenda&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. Esto no significaba que no hubiera cuestiones económicas importantes para discutir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The speech was ostensibly intended to sum up the eighteen-month campaign to “maintain the advanced nature of Communist Party members,” which had been launched in January 2005.&lt;t0/&gt;115&lt;t1/&gt; Originally promoted as an effort to implement the Three Represents, it had increasingly been infused with Hu Jintao’s formulations about building a “people-centered” society and employing the “scientific development concept.” By the time Hu summed up the campaign, the Three Represents were defined wholly in terms of Hu’s rhetoric.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T221846Z" creationid="Pablo" creationdate="20160903T221511Z">
+        <seg>El discurso estaba aparentemente destinado a resumir los dieciocho meses de campaña para "mantener la naturaleza avanzada de los miembros del Partido Comunista", que había sido lanzada en enero de 2005.&lt;t0/&gt;115&lt;t1/&gt; Originalmente publicitada como un esfuerzo para implementar la Triple Representatividad, se fue fusionando cada vez más con las ideas de Hu Jintao sobre la creación de una sociedad "centrada en los ciudadanos" y el empleo del "concepto de desarrollo científico". Cuando Hu terminó de resumir su campaña, la Triple Representatividad fue definida completamente en los términos de su retórica.</seg>
       </tuv>
     </tu>
     <tu>
