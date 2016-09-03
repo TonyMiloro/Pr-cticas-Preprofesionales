@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;SINO&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;US RELATIONS&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T134508Z" creationid="usuario" creationdate="20160903T134508Z">
+        <seg>Relacione Chino americanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The Fourth Plenary Session of the Fourteenth Central Committee convened in Beijing on September 25–28, 1994.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232757Z">
