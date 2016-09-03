@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2128,8 +2128,8 @@
       <tuv lang="EN-US">
         <seg>JIANG ZEMIN EMERGES AS GENERAL SECRETARY</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160903T225701Z" creationid="bluebird" creationdate="20160903T225701Z">
-        <seg>JIANG ZEMIN SE COMBIERTE EN SECRETARIO GENERAL</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160903T230339Z" creationid="bluebird" creationdate="20160903T225701Z">
+        <seg>JIANG ZEMIN SE CONVERTIR EN SECRETARIO GENERAL</seg>
       </tuv>
     </tu>
     <tu>
