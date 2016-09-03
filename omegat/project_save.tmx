@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;For an influential study of this issue, which will be discussed in Chapter&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;5&lt;/f2&gt;&lt;f3&gt;, see Hu Angang and Wang Shaoguang,&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Jiaqiang zhongyang zhengfu zai shichang jingji zhuanxing zhong de zhudao zuoyong&lt;/f5&gt;&lt;f6&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212114Z" creationid="usuario" creationdate="20160903T212114Z">
-        <seg>&lt;f0&gt;Para un estudio influyente de este aspecto, el cual será discutido en el capítulo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;5&lt;/f2&gt;&lt;f3&gt;, véase &lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212155Z" creationid="usuario" creationdate="20160903T212114Z">
+        <seg>&lt;f0&gt;Para un estudio influyente de este aspecto, el cual será discutido en el capítulo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;5&lt;/f2&gt;&lt;f3&gt;, véase  Hu Angang and Wang Shaoguang, &lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Jiaqiang zhongyang zhengfu zai shichang jingji zhuanxing zhong de zhudao zuoyong&lt;/f5&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +322,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234518Z">
         <seg>&lt;f0&gt;Si la inflación era preocupante, más lo era el desempeño de la economía de propiedad estatal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Jingji daobao&lt;/f0&gt;&lt;f1&gt;, November&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;5,&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;1990&lt;/f7&gt;&lt;f8&gt;, as cited in Willy Lam,&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;China after Deng Xiaoping&lt;/f9&gt;&lt;f11&gt;, p.&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;56.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T212349Z" creationid="usuario" creationdate="20160903T212349Z">
+        <seg>&lt;f0&gt;Jingji daobao&lt;/f0&gt;&lt;f1&gt;, 5&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;de noviembre,&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;1990&lt;/f7&gt;&lt;f8&gt;, como se cita en Willy Lam,&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;China después de Deng Xiaoping&lt;/f9&gt;&lt;f11&gt;, pág.&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;56.&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
