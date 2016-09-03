@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ibid., p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T211355Z" creationid="usuario" creationdate="20160903T211309Z">
+        <seg>Ibid,. pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1939, at the age of 13, Jiang was adopted into the family of his uncle, Jiang Shangqing, who had been martyred as a result of his revolutionary activities.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160902T210402Z" creationid="bluebird" creationdate="20160902T210402Z">
@@ -3477,6 +3485,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T000606Z" creationid="Administrador" creationdate="20160902T235848Z">
         <seg>Mientras estas normas partidarias internas estaban en proceso de desarrollo, la sociedad, enconomía y cultura china se volvieron mucho más complejas y se integraron aún más al mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wu does not specify which leaders raised this issue.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T211340Z" creationid="usuario" creationdate="20160903T211340Z">
+        <seg>Wu no especifica qué líderes empezaron esta cuestión.</seg>
       </tuv>
     </tu>
     <tu>
