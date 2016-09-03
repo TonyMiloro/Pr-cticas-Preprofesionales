@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is evident that Hu Jintao had made much progress in advancing his more populist agenda in the first years of his stewardship, but consolidating his authority would mean that he would have to confront the “Shanghai gang” more directly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T213026Z" creationid="Pablo" creationdate="20160903T213026Z">
+        <seg>Es evidente que Hu Jintao había conseguido un gran progreso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is open to question whether the turn away from the Enlightenment&lt;t4/&gt; ideals of the May Fourth Movement can continue to pressure the political system in ways that promote greater openness, accountability, and restraint.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054420Z">
@@ -2947,6 +2955,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215008Z" creationid="Usuario" creationdate="20160902T215008Z">
         <seg>Se establece un cuerpo especial para investigar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That Congress, for better or worse, would largely define Hu Jintao’s legacy as he set out the themes of his policies and promoted the leaders who will carry them out.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T212921Z" creationid="Pablo" creationdate="20160903T212921Z">
+        <seg>Ese Congreso, para bien o para mal, definiría en gran medida el legado de Hu Jintao, quien definió las temáticas de sus políticas y promovió a los líderes que las llevarían a cabo.</seg>
       </tuv>
     </tu>
     <tu>
