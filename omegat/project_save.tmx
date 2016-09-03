@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -90,6 +90,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192654Z" creationid="Evelyn" creationdate="20160903T192654Z">
         <seg>&lt;f0&gt;&lt;f1&gt;R &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ESPUESTA DE LAS PROVINCIAS&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Some of the strongest provincial comments came from Jiangxi governor Wu Guanzheng (who would be appointed head of the Central Discipline Inspection Commission in 2002), who called on his colleagues to “eman-cipate the mind” and “increase the weight of reform.” Sharply criticizing those who feared that the economic inequalities brought about by reform would lead to polarization, Wu declared that, “if the work initiative of the workers is not effectively aroused and if production does not grow, there will be only common poverty for all people.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;16&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T203526Z" creationid="Evelyn" creationdate="20160903T203418Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Algunos de los comentarios más fuertes de las provincias llegaron de la mano del gobernador de Jiangxi, Wu Guanzheng (quien sería designado líder de la Comisión Central de Inspección Disciplinaria en 2002), quien apeló a sus colegas a "emancipar la mente" y a "aumentar el peso de la reforma". Wu criticó severamente a aquellos que temían que las desigualdades económicas ocasionadas por la reforma traerían consigo la polarización, y declaró que, "si no se incita efectivamente la iniciativa de trabajo de los trabajadores, y si la producción no incrementa, sólo habrá pobreza pública para toda la gente." &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;16&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
