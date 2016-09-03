@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -810,6 +810,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184725Z">
         <seg> Al mismo tiempo, la comercialización de la cultura desafió el entendimiento tradicional del rol de los intelectuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the start of the new century, liberalism still exists and has even shown signs of vigor at the local level, but it is no longer the common faith of intellectuals.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T232241Z" creationid="USUARIO" creationdate="20160903T232241Z">
+        <seg>A principios del nuevo siglo, el liberalismo aun existe y hasta legó a mostral signos de vigor a nivel local, pero ya no es la fe común de los intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2024,8 +2032,8 @@
       <tuv lang="EN-US">
         <seg>Indeed, the single most important change in China’s intellectual scene since then is that the common discourse that had given vitality to discussions in the 1980s has disintegrated as Enlightenment ideals have – for the first time since the May Fourth Movement – been questioned or rejected by a substantial portion of intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T231950Z" creationid="USUARIO" creationdate="20160903T231516Z">
-        <seg>En efecto, el cambio más importante en el panorama intelectual de China desde aquel entonces fue que el discurso común que le había otorgado vigor a las discusiones de la década de los 80 se desintegró al tiempo que los ideales de la Ilustación se vieron, por primera vez desde el Movimiento del Cuatro de Mayo, cuestionados o rechazados por una cantidad considerable de intelectuales Indeed, the single most important change in China’s intellectual scene since then is that the common discourse that had given vitality to discussions in the 1980s has disintegrated as Enlightenment ideals have – for the first time since the May Fourth Movement – been questioned or rejected by a substantial portion of intellectuals.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T232048Z" creationid="USUARIO" creationdate="20160903T231516Z">
+        <seg>En efecto, el cambio más importante en el panorama intelectual de China desde aquel entonces fue que el discurso común que le había otorgado vigor a las discusiones de la década de los 80 se desintegró al tiempo que los ideales de la Ilustación se vieron, por primera vez desde el Movimiento del Cuatro de Mayo, cuestionados o rechazados por una porción considerable de intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
