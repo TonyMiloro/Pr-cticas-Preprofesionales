@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -512,8 +512,8 @@
       <tuv lang="EN-US">
         <seg>At the same time that Tianjin publicized Tan Shaowen’s address, Hebei governor Cheng Weigao (who would be arrested for corruption in 2003) echoed Deng’s Shanghai comments, saying that “the development of the market and display of the market’s regulatory functions must not be</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T201607Z" creationid="Evelyn" creationdate="20160903T201607Z">
-        <seg>Mientras Tianjin pub</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T201915Z" creationid="Evelyn" creationdate="20160903T201607Z">
+        <seg>Mientras Tianjin publicitaba </seg>
       </tuv>
     </tu>
     <tu>
