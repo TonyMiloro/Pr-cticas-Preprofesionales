@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;A significant part of reformers’ efforts to regain the initiative in 1990 lay in their hopes to improve Sino&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;US relations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T151520Z" creationid="usuario" creationdate="20160903T135343Z">
-        <seg>Una porción significativa de los esfuerzos de los reformistas para reganar la iniciativa en 1990 yacía en sus esperanzas de mejorar las relaciones chino estadounidenses. </seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T172750Z" creationid="usuario" creationdate="20160903T135343Z">
+        <seg>Una porción significativa de los esfuerzos de los reformistas para reganar la iniciativa en 1990 yacía en sus esperanzas de mejorar las relaciones chino estadounidenses. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Fang’s release, like the other concessions, was too little and too late to win notice in the US Congress, which was increasingly vocal and hostile, but it did begin to ease the tensions in Sino&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;US relations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T152740Z" creationid="usuario" creationdate="20160903T152537Z">
-        <seg>La libreación de Fang, así como otras concesiones, fue demasiado pequeña y tardía como para atraer la atención de Congreso de los EEUU, el cual era cada vez más franco y hostil, pero si logró reducir las tensiones en las relaciones chino estadounidenses.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T172800Z" creationid="usuario" creationdate="20160903T152537Z">
+        <seg>La libreación de Fang, así como otras concesiones, fue demasiado pequeña y tardía como para atraer la atención de Congreso de los EEUU, el cual era cada vez más franco y hostil, pero si logró reducir las tensiones en las relaciones chino estadounidenses.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;SINO&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;US RELATIONS&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T151524Z" creationid="usuario" creationdate="20160903T134508Z">
-        <seg>Relaciones chino etadounidenses</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T172746Z" creationid="usuario" creationdate="20160903T134508Z">
+        <seg>Relaciones chino etadounidenses&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,16 +200,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;upswing in conservative influence.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T150528Z" creationid="usuario" creationdate="20160903T150528Z">
-        <seg>levantamiento de la influencia conservadora.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T172755Z" creationid="usuario" creationdate="20160903T150528Z">
+        <seg>levantamiento de la influencia conservadora.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;which taxes would go to the central government and which to the local-ities.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T125959Z" creationid="usuario" creationdate="20160903T125959Z">
-        <seg>cuáles impuestos irían al gobierno central  cuáles a las localidades.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T172744Z" creationid="usuario" creationdate="20160903T125959Z">
+        <seg>cuáles impuestos irían al gobierno central  cuáles a las localidades.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1304,8 +1304,8 @@
       <tuv lang="EN-US">
         <seg>In fact, he inadvertently laid&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T135903Z" creationid="usuario" creationdate="20160903T135903Z">
-        <seg>De hecho, involuntariamente sentó</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T172752Z" creationid="usuario" creationdate="20160903T135903Z">
+        <seg>De hecho, involuntariamente sentó&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,8 +1472,8 @@
       <tuv lang="EN-US">
         <seg>It was not until June 1990 that Fang Lizhi, the Chinese astro-physicist who had taken refuge in the US Embassy in Beijing after the June 4 crackdown, was finally permitted to leave the country.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T151356Z" creationid="usuario" creationdate="20160903T150913Z">
-        <seg>No fue hasta junio de 1990 que a Fang Lizhi se le permitió abandonar el país. El astro físico chino se refugió en la embajada estadounidense en Pekín ante las severas medidas tomadas después del 4 de junio</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T172757Z" creationid="usuario" creationdate="20160903T150913Z">
+        <seg>No fue hasta junio de 1990 que a Fang Lizhi se le permitió abandonar el país. El astro físico chino se refugió en la embajada estadounidense en Pekín ante las severas medidas tomadas después del 4 de junio&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
