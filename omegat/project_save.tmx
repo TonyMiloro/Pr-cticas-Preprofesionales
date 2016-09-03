@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215839Z" creationid="Usuario" creationdate="20160902T215839Z">
         <seg>Celebración del quincuagésimo aniversario de la fundanción de la RPCh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Another provincial leader who responded to Deng’s initiative was Tan Shaowen, the Party secretary of Tianjin.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T195222Z" creationid="Evelyn" creationdate="20160903T195222Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Otro líder provincial que repondió a la iniciativa de Deng fue Tan Shaowen, el secretario del Partido de Tianjin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1488,8 +1496,8 @@
       <tuv lang="EN-US">
         <seg>In the &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Southern Daily&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; version of his article, Lin argued that planning had to be based on “commodity exchange and the law of value” and declared that “this is an objective law whether people recognize it or not.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;13&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T195007Z" creationid="Evelyn" creationdate="20160903T194355Z">
-        <seg>En la versión publicada en el &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Southern Daily&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Lin argumentaba que la planificación tenía que estar basada en la bolsa de comercio y la ley del valor &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;13&lt;/f19&gt;&lt;/f18&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T195151Z" creationid="Evelyn" creationdate="20160903T194355Z">
+        <seg>En la versión publicada en el &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Southern Daily&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Lin argumentó que la planificación tenía que estar basada en la "bolsa de comercio y la ley del valor" y declaró que "esta es una ley objetiva, independientemente de que la gente lo reconozca o no." &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;13&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2571,6 +2579,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215316Z" creationid="Usuario" creationdate="20160902T215316Z">
         <seg>El presidente de Taiwán Lee Teng-hui describe las</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tan, an ally of Politburo Standing Committee member Li Ruihuan, was subsequently promoted to the Polit-buro at the Fourteenth Party Congress in 1992 (and then died in February 1993).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T195326Z" creationid="Evelyn" creationdate="20160903T195326Z">
+        <seg>Tan, un aliado del miembro del Comité Permanente del Politburó Li Ruihuan, </seg>
       </tuv>
     </tu>
     <tu>
