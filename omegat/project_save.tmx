@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>12 But simple expressions of good wishes could hardly change fundamentally the relationship that had grown up between the Party and intellectuals since the Yan’an era.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T203310Z" creationid="USUARIO" creationdate="20160903T203032Z">
-        <seg>12 Pero simples expresiones de buenos deseos difícilmente podrían cambiar de manera fundamental la relación que se había desarrollado entre el Partido   But simple expressions of good wishes could hardly change fundamentally the relationship that had grown up between the Party and intellectuals since the Yan’an era.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T203426Z" creationid="USUARIO" creationdate="20160903T203032Z">
+        <seg>12 Pero simples expresiones de buenos deseos difícilmente podían cambiar de manera fundamental la relación que se había desarrollado entre el Partido y los intelectuales desde la era Yan’an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1914,6 +1914,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160828T220630Z">
         <seg>Mao construyó su posición fundamental en el partido al dirigirla durante la fase más traumática de su historia, al restaurar el partido de la debacle en Jiangxi a convertirse en un movimiento vigoroso y creicente movimiento durante los días emocionantes de Yan y la guerra Sino-japonesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mao had made it clear in his 1942 speech to the Yan’an Forum on Literature and Art that intellectuals must overcome their natural petty bourgeois nature by self-consciously “integrating” themselves with the “masses” – with the Party as judge of how successfully they had done so.13 With the perspective of thirty years of persecution, intellectuals naturally were critics of the Party/state even when they served it.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T203601Z" creationid="USUARIO" creationdate="20160903T203601Z">
+        <seg>Mao había dejado en claro en su discurso de 1942 ante el Foro Yan’an Forum on Literature and Art that intellectuals must overcome their natural petty bourgeois nature by self-consciously “integrating” themselves with the “masses” – with the Party as judge of how successfully they had done so.13 With the perspective of thirty years of persecution, intellectuals naturally were critics of the Party/state even when they served it.</seg>
       </tuv>
     </tu>
     <tu>
