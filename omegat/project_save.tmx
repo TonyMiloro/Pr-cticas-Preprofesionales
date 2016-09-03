@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -602,6 +602,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T220006Z" creationid="Andrea-Leonardo" creationdate="20160903T215526Z">
         <seg>Aunque en 1993 había muchos artículos&lt;t0/&gt;en los que se expresaban sentimientos&lt;t1/&gt; nacionalistas, en algunos diarios se hacía referencia a la idea del nacionalismo de manera abierta y directa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although it was not clear at the time, a major corruption scandal in Shanghai’s Social Security Bureau was about to quickly balloon into a political imbroglio that would bring down Shanghai’s Party leader.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T223223Z" creationid="Pablo" creationdate="20160903T223223Z">
+        <seg>Aunque no estaba del todo claro en ese momento, un gran escándalo de corrupción en la Oficina de Seguridad de Shanghai estaba a punto de convertirse en un embrollo político que se llevaría consigo al líder del Partido de Shanghai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1794,6 +1802,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160902T215116Z" creationid="usuario" creationdate="20160902T215116Z">
         <seg>En julio de 1988, mientras los conservadores organizaban más ataques en las políticas económicas de Zhao Ziyang, el minitro de finanzas Wang Bingqian se quejaba de que "la situación financiera era nefasta" principalmente porque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In July it was  reported that Zhu Junyi, the director of the bureau, had been accused of receiving bribes and misusing some three billion yuan (about $400 million) in funds.&lt;t0/&gt;118&lt;t1/&gt; The Shanghai case took on a more political color when Qin Yu, a former secretary to Party Secretary Chen Liangyu, was arrested in August.&lt;t2/&gt;119&lt;t3/&gt; Finally, on September 24, Chen himself was removed &lt;t4/&gt;from office for his involvement in a pension fund scandal.&lt;t5/&gt;120&lt;t6/&gt; Chen, who had been elevated to Party secretary and then Politburo member when Huang Ju was promoted at the Sixteenth Party Congress, had long been a thorn in the side of the Hu–Wen administration, repeatedly refusing to slow investment in accordance with Beijing’s directives.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T223043Z" creationid="Pablo" creationdate="20160903T223043Z">
+        <seg>En julio se informó que Zhu Junyi, el director de la oficina, había sido acusado de recibir sobornos y por el uso indebido de fondos - casi tres billones de yuanes (cerca de USD 400 millones).&lt;t0/&gt;118&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
