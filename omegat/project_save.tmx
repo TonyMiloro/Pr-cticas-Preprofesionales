@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1904,8 +1904,8 @@
       <tuv lang="EN-US">
         <seg>It is evident that Hu Jintao had made much progress in advancing his more populist agenda in the first years of his stewardship, but consolidating his authority would mean that he would have to confront the “Shanghai gang” more directly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T213026Z" creationid="Pablo" creationdate="20160903T213026Z">
-        <seg>Es evidente que Hu Jintao había conseguido un gran progreso</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160903T213207Z" creationid="Pablo" creationdate="20160903T213026Z">
+        <seg>Es evidente que Hu Jintao había conseguido un gran progreso en los avances de su agenda más populista en los primeros años de su mandato, pero para lograr consolidar su autoridad tendría que enfrentar a la "Banda de Shanghai" de forma más directa.</seg>
       </tuv>
     </tu>
     <tu>
