@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="EN-US">
         <seg>Deng was interested in defining a middle path, using “reform and opening up” to oppose “leftism” and using the “four cardinal principles” to oppose “bourgeois liberalization.”19[2] It was a way to prevent ideological disputes from tearing the Party apart as they had in the past, and it was a political strategy that allowed Deng to build a coalition that upheld the center of the political spectrum.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160903T002342Z" creationid="Nadine" creationdate="20160903T002342Z">
-        <seg>Denga estaba interesado en Deng was interested in defining a middle path, using “reform and opening up” to oppose “leftism” and using the “four cardinal principles” to oppose “bourgeois liberalization.”19[2] It was a way to prevent ideological disputes from tearing the Party apart as they had in the past, and it was a political strategy that allowed Deng to build a coalition that upheld the center of the political spectrum.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160903T002405Z" creationid="Nadine" creationdate="20160903T002342Z">
+        <seg>Denga estaba interesado en definir una via intermedia, usando Deng was interested in defining a middle path, using “reform and opening up” to oppose “leftism” and using the “four cardinal principles” to oppose “bourgeois liberalization.”19[2] It was a way to prevent ideological disputes from tearing the Party apart as they had in the past, and it was a political strategy that allowed Deng to build a coalition that upheld the center of the political spectrum.</seg>
       </tuv>
     </tu>
     <tu>
