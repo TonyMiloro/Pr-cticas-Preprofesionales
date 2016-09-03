@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;The gist of Deng’s talks in Shanghai was summarized in four commen-taries carried in the Shanghai Party paper, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, under the pen name “Huangfu Ping” (which can be translated as “Shanghai Commen-tator”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T183700Z" creationid="Evelyn" creationdate="20160903T183700Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Lo esencial de las charlas de Deng en Shanghai se sintetizó en cuatro crónicas en el diario del partido de Shanghai Liberation Daily,  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, under the pen name “Huangfu Ping” (which can be translated as “Shanghai Commen-tator”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T183742Z" creationid="Evelyn" creationdate="20160903T183700Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Lo esencial de las charlas de Deng en Shanghai se sintetizó en cuatro crónicas en el diario del partido de Shanghai &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, bajo el seudónimo “Huangfu Ping” (que se puede traducir como "el cronista de Shanghai”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2709,6 +2709,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234431Z">
         <seg>El año finalizaría con una tasa de inflación anual del 21,7 por ciento.&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their writing and publication were overseen by Deng’s daughter Deng Nan and Shanghai Party secretary Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; The first commen-tary was published under photographs of Deng Xiaoping, Yang Shangkun, and Li Xiannian conveying lunar New Year’s greetings to Shanghai lead-ers, thus visually emphasizing the authoritative nature of the commentary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T184024Z" creationid="Evelyn" creationdate="20160903T184024Z">
+        <seg>Su escritura y publicación fueron supervisados por la hija de Deng Deng Nan y el secretario del Partido de Shanghai Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; La primera crónica fue publicada debajo de las fotografías de Deng Xiaoping, Yang Shangkun, y Li Xiannian expresando buenos deseos por el nuevo año lunar a los líderes de Shanghai, enfatizando, de esta manera, la naturaleza autoritativa de este escrito.</seg>
       </tuv>
     </tu>
     <tu>
