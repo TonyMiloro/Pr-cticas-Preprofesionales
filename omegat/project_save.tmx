@@ -1536,8 +1536,8 @@
       <tuv lang="EN-US">
         <seg>Led by Ye Xuanping (governor of Guangdong), Zhu Rongji (CCP secretary and mayor of Shanghai), and Zhao Zhihao (governor of Shan-dong), the provinces virtually rebelled against the authority of the central government.&lt;/f0&gt;&lt;f1&gt;79&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T130234Z" creationid="usuario" creationdate="20160903T130234Z">
-        <seg>Liderados por Ye Xuanping (gobernador de Cantón), Zhu Rongji (secretario del PCCh y alcalde de Shanghai) y Zhao Zhihao (gobernador de Shan-dong), las provincias practicamente se rebelaron contra la autoridad del gobierno central.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T130248Z" creationid="usuario" creationdate="20160903T130234Z">
+        <seg>Liderados por Ye Xuanping (gobernador de Cantón), Zhu Rongji (secretario del PCCh y alcalde de Shanghai) y Zhao Zhihao (gobernador de Shan-dong), las provincias practicamente se rebelaron contra la autoridad del gobierno central.&lt;/f0&gt;&lt;f1&gt;79&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2269,6 +2269,14 @@ Following the ouster of Zhao Ziyang and the subsequent crackdown in Beijing and 
       <tuv lang="ES-US" changeid="Nadine" changedate="20160901T192025Z">
         <seg>La cuestión de Zhao
 Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en Pekin y en otras partes, la cuestión acerca de cómo lidiar con Zhao se tornó primordial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The September work conference is often taken as a symbol of the grow-ing independence of the provinces, and to a certain extent it was.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T130347Z" creationid="usuario" creationdate="20160903T130347Z">
+        <seg>La conferencia de trabajo de Septiembre a menudo se toma como un sínbolo de la creciente independencia de las provincias, y hasta un cierto punto lo fue.</seg>
       </tuv>
     </tu>
     <tu>
