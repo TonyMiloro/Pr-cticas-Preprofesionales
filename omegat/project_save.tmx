@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82,6 +82,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T183742Z" creationid="Evelyn" creationdate="20160903T183700Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Lo esencial de las charlas de Deng en Shanghai se sintetizó en cuatro crónicas en el diario del partido de Shanghai &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, bajo el seudónimo “Huangfu Ping” (que se puede traducir como "el cronista de Shanghai”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;persons.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; A third article directly refuted conservative ideologue He Xin’s argument (see Chapter &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) that foreign investment had led to the poverty of the Third World by calling on Shanghai leaders to “courageously take a risk, boldly use foreign capital, and turn Shanghai into a commercial, financial, and information center.”&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T190409Z" creationid="Evelyn" creationdate="20160903T190409Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;sensatas.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; A third article directly refuted conservative ideologue He Xin’s argument (see Chapter &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) that foreign investment had led to the poverty of the Third World by calling on Shanghai leaders to “courageously take a risk, boldly use foreign capital, and turn Shanghai into a commercial, financial, and information center.”&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +698,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023217Z">
         <seg>Cronología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cited in Liu Pi, “Deng Xiaoping Launches ‘Northern Expedition’ to Emancipate Mind.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T190548Z" creationid="Evelyn" creationdate="20160903T190548Z">
+        <seg>Citado en Liu Pi, “Deng Xiaoping Launches ‘Northern Expedition’ to Emancipate Mind.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2987,8 +3003,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Using language not seen since the heyday of reform in the late 1980s, the commentaries excoriated “ossified thinking” and repeatedly called for a new wave of “emancipating the mind.” For instance, one article declared that China would “miss a good opportunity” if it got bogged down in worrying about whether something was capitalist or socialist,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; while another quoted Deng as saying that capitalist society is “very bold in discovering and using talented people” and urging the promotion of a large number of “sensible&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T185922Z" creationid="Evelyn" creationdate="20160903T184355Z">
-        <seg>Utilizando un lenguaje que no se había visto desde el apogeo de la reforma durante el final de la década de 1980, las crónicas vituperaron un "pensamiento anquilosado" y llamaron en reiteradas oportunidades a una nueva ola de "emancipación de la mente". Por ejemplo, un artículo declaró que China "perdería una buena oportunidad" si  &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; while another quoted Deng as saying that capitalist society is “very bold in discovering and using talented people” and urging the promotion of a large number of “sensible&lt;/f17&gt;&lt;/f16&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T190356Z" creationid="Evelyn" creationdate="20160903T184355Z">
+        <seg>Utilizando un lenguaje que no se había visto desde el apogeo de la reforma durante el final de la década de 1980, las crónicas vituperaron un "pensamiento anquilosado" y llamaron en reiteradas oportunidades a una nueva ola de "emancipación de la mente". Por ejemplo, un artículo declaró que China "perdería una buena oportunidad" si se enreda preocupándose sobre si algo es capitalista o socialista, &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;mientras que otra citaba a Deng, quien decía que la sociedad capitalista es "muy audaz en el descubrimiento y uso de gente talentosa" e instó la promoción de una gran cantidad de "personas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3510,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T181911Z" creationid="Evelyn" creationdate="20160903T181911Z">
         <seg>“Ahora nadie me escucha”- supuestamente se quejó Deng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Zhongguo gongchandang dishisanjie zhongyang weiyuanhui diqice quanti huiyi gongbao”; empha-sis added.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T190417Z" creationid="Evelyn" creationdate="20160903T190417Z">
+        <seg>“Zhongguo gongchandang dishisanjie zhongyang weiyuanhui diqice quanti huiyi gongbao”; énfasis agregado.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
