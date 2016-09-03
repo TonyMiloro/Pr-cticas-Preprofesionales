@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225840Z" creationid="Usuario" creationdate="20160902T225840Z">
         <seg>constitución de 1982</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>281 and p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T210051Z" creationid="usuario" creationdate="20160903T210051Z">
+        <seg>281 y pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>347, note 2.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T210058Z" creationid="usuario" creationdate="20160903T210058Z">
+        <seg>347, nota 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +66,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215839Z" creationid="Usuario" creationdate="20160902T215839Z">
         <seg>Celebración del quincuagésimo aniversario de la fundanción de la RPCh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;69&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;Ibid., p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T210043Z" creationid="usuario" creationdate="20160903T210043Z">
+        <seg>&lt;f0&gt;69&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;Ibid., pág</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;70&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Ibid., pp.&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;284&lt;/f5&gt;&lt;f6&gt;–&lt;/f6&gt;&lt;f7&gt;5.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T210133Z" creationid="usuario" creationdate="20160903T210133Z">
+        <seg>&lt;f0&gt;70&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Ibid., pág.&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;284&lt;/f5&gt;&lt;f6&gt;-&lt;/f6&gt;&lt;f7&gt;5.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1314,6 +1346,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T021705Z">
         <seg>El autor también considera las corrientes sociales y la forma en que los ciudadanos chinos empiezan a ejercer una influencia significativa en las políticas gubernamentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ho Te-hsu, “China Has Crossed the Nadir of the Valley but Is Still Climbing Up from the Trough.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T210226Z" creationid="usuario" creationdate="20160903T210226Z">
+        <seg>Ho Te-hsu, “China ha cruzado el Nadir del Valle pero todavía está ecalando desde”</seg>
       </tuv>
     </tu>
     <tu>
