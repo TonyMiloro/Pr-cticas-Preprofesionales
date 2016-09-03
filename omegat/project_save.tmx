@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>Chen Xitong removed as Beijing Party</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020251Z" creationid="Usuario" creationdate="20160902T020251Z">
-        <seg>Desplazamiento de Chen Xitong del cargo de</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160903T000820Z" creationid="Usuario" creationdate="20160902T020251Z">
+        <seg>Chen Xitong es desplazado del cargo de</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1392,8 @@
       <tuv lang="EN-US">
         <seg>Jiang Zemin calls on Chinese military to</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T213657Z" creationid="Usuario" creationdate="20160902T213657Z">
-        <seg>Jiang Zemin recurre a las fuerzas armadas chinas para</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160903T001016Z" creationid="Usuario" creationdate="20160902T213657Z">
+        <seg>Jiang Zemin exige a las fuerzas armadas chinas que se</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3014,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225151Z" creationid="Usuario" creationdate="20160902T225151Z">
         <seg>transferidos al centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>withdraw from business</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160903T001044Z" creationid="Usuario" creationdate="20160903T001044Z">
+        <seg>retiren del negocio</seg>
       </tuv>
     </tu>
     <tu>
