@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1880,8 +1880,8 @@
       <tuv lang="EN-US">
         <seg>In some ways, the relationship between the state and the intellectuals in the 1990s continued this trend toward separation, but both the character of the state and that of the intellectuals – not to mention the content of intellectual discussions – have changed greatly, so the relationship between the two arenas is substantially different from&lt;t0/&gt; &lt;t1/&gt;what prevailed in the 1980s.On the one hand, political leaders are themselves much better educated than any previous Chinese leadership of the twentieth century.&lt;t2/&gt; In the &lt;t3/&gt;1990s&lt;t4/&gt; CCP general secretary Jiang&lt;t5/&gt; &lt;t6/&gt;Zemin&lt;t7/&gt; was a graduate of Shanghai’s famous technical institute, &lt;t8/&gt;Jiaotong&lt;t9/&gt; University, while Premier Zhu &lt;t10/&gt;Rongji&lt;t11/&gt; was a graduate of the even better known &lt;t12/&gt;Qinghua&lt;t13/&gt; University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T225808Z">
-        <seg>Es cierto que el vínculo entre el estado y los intelectuales en la década de los noventa amenazaba con romperse, pero [...] both the character of the state and that of the intellectuals – not to mention the content of intellectual discussions – have changed greatly, so the relationship between the two arenas is substantially different from&lt;t0/&gt; &lt;t1/&gt;what prevailed in the 1980s.On the one hand, political leaders are themselves much better educated than any previous Chinese leadership of the twentieth century.&lt;t2/&gt; In the &lt;t3/&gt;1990s&lt;t4/&gt; CCP general secretary Jiang&lt;t5/&gt; &lt;t6/&gt;Zemin&lt;t7/&gt; was a graduate of Shanghai’s famous technical institute, &lt;t8/&gt;Jiaotong&lt;t9/&gt; University, while Premier Zhu &lt;t10/&gt;Rongji&lt;t11/&gt; was a graduate of the even better known &lt;t12/&gt;Qinghua&lt;t13/&gt; University.</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160903T221119Z">
+        <seg>En cierto sentido, el vínculo entre el estado y los intelectuales en la década de los noventa seguía una línea de distanciamiento, pero el carácter de tanto el estado como de los intelectuales, sin mencionar el contenido de las discusiones intelectuales, cambió mucho, por lo que la relación entre las dos esferas difiere en gran medida de la que existía en la década de los ochenta. Por otro lado, los líderes políticos tienen un nivel de educación más alto que cualquier grupo de líderes chinos del siglo 20.</seg>
       </tuv>
     </tu>
     <tu>
