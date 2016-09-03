@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12&lt;/f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;f5&gt;13.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T211233Z" creationid="usuario" creationdate="20160903T211233Z">
+        <seg>12&lt;/f3&gt;&lt;f4&gt;-&lt;/f4&gt;&lt;f5&gt;13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1982 constitution</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225840Z" creationid="Usuario" creationdate="20160902T225840Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T132808Z" creationid="usuario" creationdate="20160903T132808Z">
         <seg>&lt;f0&gt;Existía, sin embargo, otro aspecto de esta "rebelión" provincial&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;concretamente, que el gobierno central estaba dividido, con algunos líderes y organizaciones políticas apoyando a las provincias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Wu Jinglian,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Jihua jingji haishi shichang jingji&lt;/f2&gt;&lt;f3&gt;, pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T211215Z" creationid="usuario" creationdate="20160903T211215Z">
+        <seg>&lt;f0&gt;Wu Jinglian,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Jihua jingji haishi shichang jingji&lt;/f2&gt;&lt;f3&gt;, pág.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,8 +1384,8 @@
       <tuv lang="EN-US">
         <seg>Ho Te-hsu, “China Has Crossed the Nadir of the Valley but Is Still Climbing Up from the Trough.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T210226Z" creationid="usuario" creationdate="20160903T210226Z">
-        <seg>Ho Te-hsu, “China ha cruzado el Nadir del Valle pero todavía está ecalando desde”</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T211159Z" creationid="usuario" creationdate="20160903T210226Z">
+        <seg>Ho Te-hsu, “China Has Crossed the Nadir of the Valley but Is Still Climbing Up from the Trough”.</seg>
       </tuv>
     </tu>
     <tu>
