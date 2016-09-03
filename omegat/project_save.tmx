@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2699,8 +2699,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The student demonstrations in 1989 raised such expectations that it took a long time for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160827T085256Z">
-        <seg>Las manifestaciones estudiantiles de 1989 generaron tales expectativas que les llevó un largo tiempo for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T190018Z">
+        <seg>Las manifestaciones estudiantiles de 1989 generaron tales expectativas que les llevó un largo tiempo a los políticos, los escritores editoriales y los periodistas de Occidente comprender for Western politicians, editorial writers, and journalists to understand that China was not on the cusp of democratic transition.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2827,8 +2827,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This is the story most at odds with Western (particularly American) expectations of China, particularly in the first few years after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T232624Z">
-        <seg>Esta es la historia que más se aleja a las expectativas de Occidente, en especial las de Estados Unidos, respecto de China, particularmente durante los años que le siguieron al Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T185148Z">
+        <seg>Esta es la historia que más se contradice con las expectativas de Occidente, en especial las de Estados Unidos, respecto de China, particularmente durante los años que le siguieron al Tiananmen.</seg>
       </tuv>
     </tu>
     <tu>
