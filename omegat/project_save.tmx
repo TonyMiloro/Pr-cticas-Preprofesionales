@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nothing expressed more vividly the hopes for a new era than Deng Xiaoping’s humble statement in 1978 that he wished to serve as the “director of support services” for China’s scientists and technicians so that they could devote themselves wholeheartedly to their work and to China’s modernization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T200557Z" creationid="USUARIO" creationdate="20160903T200310Z">
+        <seg>Nada expresó con tanta vividez las esperanzas de una nueva eraNothing expressed more vividly the hopes for a new era than Deng Xiaoping’s humble statement in 1978 that he wished to serve as the “director of support services” for China’s scientists and technicians so that they could devote themselves wholeheartedly to their work and to China’s modernization.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>November</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T232810Z" creationid="Usuario" creationdate="20160901T232810Z">
@@ -3235,8 +3243,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>When Mao’s death in 1976 brought that cataclysm to an end, intellectuals once again resumed their “proper” role in Chinese society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T200246Z" creationid="USUARIO" creationdate="20160903T195952Z">
-        <seg>Cuando la muerte de Mao en 1976 le puso un fin a ese cataclismo, los intelectuales asumieron una vez más su papel "correcto" en la sociedad china.intellectuals once again resumed their “proper” role in Chinese society.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T200306Z" creationid="USUARIO" creationdate="20160903T195952Z">
+        <seg>Cuando la muerte de Mao en 1976 le puso un fin a ese cataclismo, los intelectuales asumieron una vez más su papel "correcto" en la sociedad china.</seg>
       </tuv>
     </tu>
     <tu>
