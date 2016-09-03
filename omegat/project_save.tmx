@@ -1937,8 +1937,8 @@
       <tuv lang="EN-US">
         <seg>One was an evaluation of reform: whereas Li Peng insisted that reform had led to various “dislocations” in the economy, the provinces insisted that reform be affirmed and written into the Eighth Five-Year Plan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T125231Z" creationid="usuario" creationdate="20160903T125120Z">
-        <seg>Uno fue la evaluación de la reforma: mientras que Li Peng insistía en que la reforma había producido diversos "desbarajustes" en la economñia, las provincias insistían en que la reforma sea afirmada e incluída dentro del Octavo Plan Quinquenal.</seg>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T125342Z" creationid="usuario" creationdate="20160903T125120Z">
+        <seg>Uno fue la evaluación de la reforma: mientras que Li Peng insistía en que la reforma había producido diversos "desbarajustes" en la economía, las provincias insistían en que la reforma sea ratificada e incluída dentro del Octavo Plan Quinquenal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2365,6 +2365,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185434Z">
         <seg>El nuevo ambiente de la época de los noventa provocó una mezcla de tradicionalismo, conservadurismo, utopismo y nacionalismo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The other issue concerned the financial interests of the provinces.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20160903T125522Z" creationid="usuario" creationdate="20160903T125522Z">
+        <seg>El otro aspecto tenía que ver con los intereses financieros de las provincias.</seg>
       </tuv>
     </tu>
     <tu>
