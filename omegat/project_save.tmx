@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2018,6 +2018,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184255Z">
         <seg>De hecho, (ver si se cambia porque se repite mucho arriba) el liberalismo fue objeto de duras críticas por parte de intelectuales, políticos y fuerzas populares que se oponen a esta doctrina y a sus respectivas economías “neoliberales”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, it has been subjected to withering criticism by intellectuals, politicians, and popular forces who reject liberalism and the “neoliberal” economics they associate with it.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T232534Z" creationid="USUARIO" creationdate="20160903T232534Z">
+        <seg>De hecho, se ha visto sometido a críticas avasalladoras por parte de intelectuales, políticos, y fuerzas populares que rechazan el liberalismo y la economía "neoliberal" que ven asociado a él.</seg>
       </tuv>
     </tu>
     <tu>
