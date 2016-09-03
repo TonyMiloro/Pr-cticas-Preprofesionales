@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2040,8 +2040,8 @@
       <tuv lang="EN-US">
         <seg>Indeed, the single most important change in China’s intellectual scene since then is that the common discourse that had given vitality to discussions in the 1980s has disintegrated as Enlightenment ideals have – for the first time since the May Fourth Movement – been questioned or rejected by a substantial portion of intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T232048Z" creationid="USUARIO" creationdate="20160903T231516Z">
-        <seg>En efecto, el cambio más importante en el panorama intelectual de China desde aquel entonces fue que el discurso común que le había otorgado vigor a las discusiones de la década de los 80 se desintegró al tiempo que los ideales de la Ilustación se vieron, por primera vez desde el Movimiento del Cuatro de Mayo, cuestionados o rechazados por una porción considerable de intelectuales.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T235212Z" creationid="USUARIO" creationdate="20160903T231516Z">
+        <seg>En efecto, el cambio más importante en el panorama intelectual de China desde aquel entonces fue que el discurso común que le había otorgado vigor a las discusiones de la década de los 80 se desintegró luego de que los ideales de la Ilustación se vieran, por primera vez desde el Movimiento del Cuatro de Mayo, cuestionados o rechazados por una porción considerable de intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3435,8 +3435,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The ideals and hopes of these and other intellectuals were shattered by Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T230438Z" creationid="USUARIO" creationdate="20160903T230348Z">
-        <seg>Los ideales y esperanzas de estos y otros intelectuales resultaron destrozadas por el Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T234947Z" creationid="USUARIO" creationdate="20160903T230348Z">
+        <seg>Los ideales y esperanzas de estos y otros intelectuales se vieron destrozados por el Tiananmen.</seg>
       </tuv>
     </tu>
     <tu>
