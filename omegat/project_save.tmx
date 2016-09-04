@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fourth Plenary Session of the Sixteenth</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T043653Z" creationid="PC" creationdate="20160904T043653Z">
+        <seg>Cuarto pleno del Décimo Sexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fourth Plenary Session of the Thirteenth</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T155916Z">
@@ -2330,6 +2338,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224110Z" creationid="Usuario" creationdate="20160902T224110Z">
         <seg>Jiang Zemin utiliza el eslogan de “triple representatividad"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang Zemin retires from the Central Military</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T043752Z" creationid="PC" creationdate="20160904T043752Z">
+        <seg>Jiang Zemin se retira de la Comisión Central</seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,6 +3211,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T212648Z" creationid="Usuario" creationdate="20160902T212648Z">
         <seg>14 de septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 16–19</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T043618Z" creationid="PC" creationdate="20160904T043618Z">
+        <seg>16-19 de septiembre</seg>
       </tuv>
     </tu>
     <tu>
@@ -4291,8 +4315,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Yitahutu chatroom is closed down</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T043438Z" creationid="PC" creationdate="20160904T023609Z">
-        <seg>Se cierra el foro de discusión online Yitahutu</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T043610Z" creationid="PC" creationdate="20160904T023609Z">
+        <seg>Se cierra el foro de discusión en línea Yitahutu</seg>
       </tuv>
     </tu>
     <tu>
