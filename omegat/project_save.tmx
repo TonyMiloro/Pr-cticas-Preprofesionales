@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -888,8 +888,8 @@
       <tuv lang="EN-US">
         <seg>Because of this, they cannot unite with the ruling Party, the state power, and the primary forces that are leading the people forward and thereby bring their great ability to bear.”&lt;/f11&gt;&lt;f12&gt;56&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T013646Z" creationid="Usuario-Pc" creationdate="20160904T012242Z">
-        <seg>Por esa razon, no se pueden unir con el Partido gobernante, el poder estatal y las fuerzas mas importantes que llevan adelante a la población ”&lt;/f11&gt;&lt;f12&gt;56&lt;/f12&gt;+</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T014006Z" creationid="Usuario-Pc" creationdate="20160904T012242Z">
+        <seg>Por esa razon, no se pueden unir con el Partido gobernante, el poder estatal y las fuerzas mas importantes que llevan adelante a la población y de ese modo hacer uso de su gran habilidad”.&lt;/f11&gt;&lt;f12&gt;56&lt;/f12&gt;+</seg>
       </tuv>
     </tu>
     <tu>
