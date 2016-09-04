@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -394,6 +394,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T015631Z" creationid="Flor" creationdate="20160902T015631Z">
         <seg>&lt;f0&gt;Joel Migdal, John Zysman y otros comenzaron a observar cómo los estados fuertes podían provocar un cambio social y un desarrollo económico.&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Reflecting the same resentment of China’s cultural elite as Wang Xiaodong, Wang Shan declares in &lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt; that intellectuals lack the “knowledge, experience, ability, character, and prestige” to participate effec-tively in government and push forward the democratization of the coun-try.&lt;/f2&gt;&lt;f3&gt;54&lt;/f3&gt;&lt;f4&gt; The history of China’s various democratic movements, beginning with the Hundred Flowers Movement in 1957, shows that owing to the lack of maturity of China’s intellectuals, their struggles have failed to pro-mote the causes for which they strove.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011239Z" creationid="Usuario-Pc" creationdate="20160904T011057Z">
+        <seg>&lt;f0&gt;Con el mismo resentimiento que expresa Wang Xiaodong hacia la elite cultural de China, Wang Shan declara en&lt;/f0&gt;&lt;f1&gt;El Tercer Ojo&lt;/f1&gt;&lt;f2&gt; que a os intelectuales les falta "conocimiento, experiencia, habilidad, caracter y prestigio" para participar en el gobierno de forma eficaz y seguir adelante con la democratización del pais.&lt;/f2&gt;&lt;f3&gt;54&lt;/f3&gt;&lt;f4&gt;  La historia de los diferentes movimientos democraticos de China, empezando por el Movimiento de las Cien Flores de 1957, muestra que los esfuerzos realizados para promover las causas por las que lucharon los intelectuales de China han fallado debido a su falta de madurez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 1957, Wang declares, intellectuals went too far.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011303Z" creationid="Usuario-Pc" creationdate="20160904T011303Z">
+        <seg>En 1957 Wang declara que los intelectuales fueron demasiado lejos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1970, perhaps using his father’s connections (his father was a military cadre), Wang joined the PLA, where he served for seven years.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160902T134756Z" creationid="Backup" creationdate="20160902T134413Z">
@@ -2458,6 +2474,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T003603Z" creationid="USUARIO" creationdate="20160903T203601Z">
         <seg>Mao había dejado en claro en su discurso de 1942 ante el Foro de Literatura y Arte de Yan’an que los intelectuales debían sobreponerse a su insignificante naturaleza burguesa e "integrarse" deliberadamente a las "masas", con el Partido como juez para decidir hasta qué punto lo habían logrado.13 Frente a la perspectiva de treinta años de persecución, los intelectuales naturalmente eran críticos del Partido/estado, aun cuando trabajaban para él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mao wanted an &lt;/f4&gt;&lt;bs5/&gt;&lt;f6&gt;“open door” rectification campaign&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;be8/&gt;&lt;f9&gt;in order to check the unbridled power of the bureaucrats.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011405Z" creationid="Usuario-Pc" creationdate="20160904T011405Z">
+        <seg>Mao queria establecer &lt;/f4&gt;&lt;bs5/&gt;&lt;f6&gt; una campaña de rectificación de "puertas abiertas"&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;be8/&gt;&lt;f9&gt; para controlar el desenfrenado poder de los burócratas.</seg>
       </tuv>
     </tu>
     <tu>
