@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -745,8 +745,8 @@
       <tuv lang="EN-US">
         <seg>After the violent suppression of protesters in Beijing, Zhu became famous for his ambiguous but suggestive remark that “the facts will eventually&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;be made clear.”&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;But Zhu was no liberal.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233212Z" creationid="Administrador" creationdate="20160904T233132Z">
-        <seg>Después de la violenta represión a los manifestantes en Beijing, Zhu se hizo famoso por su ambiguo pero sugerente &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;be made clear.”&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;But Zhu was no liberal.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233254Z" creationid="Administrador" creationdate="20160904T233132Z">
+        <seg>Después de la violenta represión a los manifestantes en Beijing, Zhu se hizo famoso por su ambiguo pero sugerente comentario: "los hechos, con el tiempo,&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;be made clear.”&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;But Zhu was no liberal.</seg>
       </tuv>
     </tu>
     <tu>
