@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -739,6 +739,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T222831Z" creationid="Administrador" creationdate="20160904T222831Z">
         <seg>Después del encuentro del NPC, hubo cinco viceprimer ministros: Yao Yilin, Tian Jijun,Wu Xueqian,&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the violent suppression of protesters in Beijing, Zhu became famous for his ambiguous but suggestive remark that “the facts will eventually&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;be made clear.”&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;But Zhu was no liberal.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233132Z" creationid="Administrador" creationdate="20160904T233132Z">
+        <seg>Después de la violenta represión a los manifestantes en Beijing, Zhu&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;be made clear.”&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;But Zhu was no liberal.</seg>
       </tuv>
     </tu>
     <tu>
