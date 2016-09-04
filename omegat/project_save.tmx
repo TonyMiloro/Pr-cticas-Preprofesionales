@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3273,8 +3273,8 @@
       <tuv lang="EN-US">
         <seg>Named a rightist in 1957, Zhu nevertheless rose to the inner circles of power; moreover, Zhu has firm ideas on economic reform and the per-sonality t&lt;/f4&gt;&lt;f5&gt;o push them against strong opposition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T224524Z" creationid="Administrador" creationdate="20160904T224255Z">
-        <seg>A pesar de que había sido calificado como de derecha en 1957, Zhu logró ingresar a los círculos internos del poder; es más, demostró tener ideas firmes sobre la reforma económica y la personalidad&lt;/f4&gt;&lt;f5&gt;necesaria para imponerlas de frente a una fuerte opocisión.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T224557Z" creationid="Administrador" creationdate="20160904T224255Z">
+        <seg>A pesar de que había sido calificado como de derecha en 1957, Zhu logró ingresar a los círculos internos del poder; es más, demostró tener ideas firmes sobre la reforma económica y la personalidad&lt;/f4&gt;&lt;f5&gt;necesaria para imponerlas ante una fuerte opocisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4116,6 +4116,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T212921Z" creationid="Pablo" creationdate="20160903T212921Z">
         <seg>Ese Congreso, para bien o para mal, definiría en gran medida el legado de Hu Jintao, quien definió las temáticas de sus políticas y promovió a los líderes que las llevarían a cabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That Deng would reach out to such a person suggests his need and determination to counterbalance the conservative bureaucrats who had come to dominate the top of the sys-tem in the wake of Tiananmen – much as Mao deci&lt;/f5&gt;&lt;f6&gt;ded to dilute Lin Biao’s power by “mixing in sand” to the military command structure in the early&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T224817Z" creationid="Administrador" creationdate="20160904T224721Z">
+        <seg>El hecho de que Deng haya puesto su atención en tal persona demuestra su necesidad y determinación para contrarestar a los burócratas conservadores&lt;/f5&gt;&lt;f6&gt;ded to dilute Lin Biao’s power by “mixing in sand” to the military command structure in the early&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
