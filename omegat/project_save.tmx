@@ -4498,6 +4498,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>intellectuals</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T022806Z" creationid="PC" creationdate="20160904T022806Z">
+        <seg>influyentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>martial law in Beijing</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173657Z" creationid="Usuario" creationdate="20160901T231042Z">
@@ -4580,8 +4588,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>the 50 most influential Chinese public</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T022731Z" creationid="PC" creationdate="20160904T022731Z">
-        <seg>los 50 intelectuales más influyentes</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T022755Z" creationid="PC" creationdate="20160904T022731Z">
+        <seg>los 50 intelectuales chinos más</seg>
       </tuv>
     </tu>
     <tu>
