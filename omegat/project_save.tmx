@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -745,8 +745,8 @@
       <tuv lang="EN-US">
         <seg>After the violent suppression of protesters in Beijing, Zhu became famous for his ambiguous but suggestive remark that “the facts will eventually&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;be made clear.”&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;But Zhu was no liberal.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233322Z" creationid="Administrador" creationdate="20160904T233132Z">
-        <seg>Después de la violenta represión a los manifestantes en Beijing, Zhu se hizo famoso por su ambiguo pero sugerente comentario: "los hechos, con el tiempo,&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;se aclararán".&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;But Zhu was no liberal.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233349Z" creationid="Administrador" creationdate="20160904T233132Z">
+        <seg>Después de la violenta represión a los manifestantes en Beijing, Zhu se hizo famoso por su ambiguo pero sugerente comentario: "los hechos, con el tiempo,&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;se aclararán".&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;Pero Zhu no era liberal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5079,6 +5079,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012931Z" creationid="USUARIO" creationdate="20160903T195952Z">
         <seg>Cuando la muerte de Mao en 1976 le puso un fin a ese cataclismo, los intelectuales asumieron una vez más su papel “correcto” en la sociedad china.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a train accident led an inflamed crowd to beat the driver and set fire to the train, Zhu oversaw the arrest, conviction, and execution of three people within eight days.&lt;/f9&gt;&lt;f11&gt;20&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233433Z" creationid="Administrador" creationdate="20160904T233433Z">
+        <seg>Cuando .&lt;/f9&gt;&lt;f11&gt;20&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
