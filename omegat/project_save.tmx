@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;But conservatives in the capital cle&lt;/f0&gt;&lt;f1&gt;arly opposed Zhu’s appointment as vice-premier.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233757Z" creationid="Administrador" creationdate="20160904T233757Z">
+        <seg>&lt;f0&gt;Pero los conservadores en la capital&lt;/f0&gt;&lt;f1&gt;arly opposed Zhu’s appointment as vice-premier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;C H A P T E R&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;5&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T014204Z" creationid="Flor" creationdate="20160902T014134Z">
@@ -5085,8 +5093,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>When a train accident led an inflamed crowd to beat the driver and set fire to the train, Zhu oversaw the arrest, conviction, and execution of three people within eight days.&lt;/f9&gt;&lt;f11&gt;20&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233654Z" creationid="Administrador" creationdate="20160904T233433Z">
-        <seg>Cuando un accidente de tren provocó que una multitud exacerbada golpeara al conductor e incendiara el tren, el mismo Zhu supervisó el arresto, condena y ejecución de tres personas.&lt;/f9&gt;&lt;f11&gt;20&lt;/f11&gt;</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233721Z" creationid="Administrador" creationdate="20160904T233433Z">
+        <seg>Cuando un accidente de tren provocó que una multitud exacerbada golpeara al conductor e incendiara el tren, el mismo Zhu supervisó el arresto, condena y ejecución de tres personas en un plazo de ocho días.&lt;/f9&gt;&lt;f11&gt;20&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
