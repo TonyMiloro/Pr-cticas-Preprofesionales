@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the 1980s, China had adopted a cosmopolitan orientation, linking domestic reform with open- ing to the outside world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160904T001301Z" creationid="Melanie" creationdate="20160904T001129Z">
+        <seg>En los años 1980, China adoptó una orientación cosmopolita, vinculando las reformas nacionales con una tendencia a abrirse al resto del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the 1980s, he became director of the Great Wall Social Research Institute (Changcheng shehui yanjiusuo).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160902T135147Z" creationid="Backup" creationdate="20160902T135147Z">
@@ -2642,6 +2650,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T231050Z" creationid="Usuario" creationdate="20160902T231050Z">
         <seg>Encuentro Nacional de dirigentes de propaganda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nationalism is hardly a new force in China; indeed it is the leitmotif underlying twentieth-century Chinese politics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160904T001135Z" creationid="Melanie" creationdate="20160904T000925Z">
+        <seg>El nacionalismo es dificilmente una nueva fuerzacen China. De hecho, es el tema recurrente que subyace las políticas chinas del siglo 20.</seg>
       </tuv>
     </tu>
     <tu>
