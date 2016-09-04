@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, 428,886 million square meters of housing were sold, a 40 percent increase over the previous year.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T205952Z" creationid="PC" creationdate="20160904T205952Z">
+        <seg>Además, se vendieron 428 886 millones de metros cuadrados de viviendas, un aumento del 40 % respecto al año anterior. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, the 1978 reform decision to turn from class struggle to eco-nomic modernization has gone further than anyone could have predicted at the time.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T023001Z" creationid="Administrador" creationdate="20160904T012118Z">
