@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -866,6 +866,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010636Z" creationid="Usuario" creationdate="20160902T010636Z">
         <seg>3 de agosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because of this, they cannot unite with the ruling Party, the state power, and the primary forces that are leading the people forward and thereby bring their great ability to bear.”&lt;/f11&gt;&lt;f12&gt;56&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T012242Z" creationid="Usuario-Pc" creationdate="20160904T012242Z">
+        <seg>Because of this, they cannot unite with the ruling Party, the state power, and the primary forces that are leading the people forward and thereby bring their great ability to bear.”&lt;/f11&gt;&lt;f12&gt;56&lt;/f12&gt;+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3675,8 +3683,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The “tragic history of 1957,” Wang writes, proved that “the intellectuals created by China’s old culture and civilization .</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T012049Z" creationid="Usuario-Pc" creationdate="20160904T012049Z">
-        <seg>La "los trágicos hechos historicos de 1957", escribe Wang, demostraron que "los intelectuales provenientes de la antigua cultura y civilización China</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T012107Z" creationid="Usuario-Pc" creationdate="20160904T012049Z">
+        <seg>La "los trágicos hechos historicos de 1957", escribe Wang, demostraron que "los intelectuales provenientes de la antigua cultura y civilización China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4302,6 +4310,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T211111Z" creationid="Usuario" creationdate="20160902T211111Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>are born with faults that they cannot overcome.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T012223Z" creationid="Usuario-Pc" creationdate="20160904T012223Z">
+        <seg>han nacido con defectos que no pueden afrontar.</seg>
       </tuv>
     </tu>
     <tu>
