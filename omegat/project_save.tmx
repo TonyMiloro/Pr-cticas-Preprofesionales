@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1703,14 +1703,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Despite the seeming long odds of holding onto power, Jiang managed to maneuver, build coalitions, and gradually consolidate his power.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160904T234651Z" creationid="Mariela" creationdate="20160904T234651Z">
-        <seg> como</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Discussions in corridors about who might emerge as “China’s Gorbachev” were directed at Zhu.&lt;/f1&gt;&lt;f2&gt;21&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Li Peng initially declined to assign him a portfolio.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T234124Z" creationid="Administrador" creationdate="20160904T233950Z">
@@ -1969,8 +1961,8 @@
       <tuv lang="EN-US">
         <seg>Following the Tiananmen upheaval, it will be recalled, Deng Xiaoping, in consultation with Chen Yun and Li Xiannian, selected Jiang Zemin as the "core" of the third gener- ation of leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160904T234400Z" creationid="Mariela" creationdate="20160904T231620Z">
-        <seg>Luego de la revuelta de Tiananmén, como se recordará, Deng Xiaoping, en colaboración con Chen Yun y Li Xiannian, elijieron a Jiang Zemin con el fin de ser el "centro" de la tercera generación de liderazgo. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160904T234822Z" creationid="Mariela" creationdate="20160904T231620Z">
+        <seg>Luego de la revuelta de Tiananmén, como se recordará, Deng Xiaoping, en colaboración con Chen Yun y Li Xiannian, elijieron a Jiang Zemin como "núcleo" del liderazgo de la tercera generación. </seg>
       </tuv>
     </tu>
     <tu>
