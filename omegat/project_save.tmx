@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3255,6 +3255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Students in Beijing and Shanghai started to leave their campuses.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011716Z" creationid="Usuario-Pc" creationdate="20160904T011716Z">
+        <seg>Estudiantes en Beijin y Shangai comenzaron a abandonar los campuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such crackdowns allowed more ideologically oriented conservatives to criticize “bourgeois liberalization” for a while, but inevitably Deng would dampen the expression of such themes and re-emphasize economic development.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160903T002322Z" creationid="Nadine" creationdate="20160903T001708Z">
@@ -4053,6 +4061,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T200306Z" creationid="USUARIO" creationdate="20160903T195952Z">
         <seg>Cuando la muerte de Mao en 1976 le puso un fin a ese cataclismo, los intelectuales asumieron una vez más su papel "correcto" en la sociedad china.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When accusations were raised against people in the Party, they apologized for their wrongdoing, “but this only whetted the ambitions of intellectuals.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011626Z" creationid="Usuario-Pc" creationdate="20160904T011626Z">
+        <seg>Cuando las acusaciones en su contra se intensificaron, la gente del Partido pidió disculpas por sus delitos, "pero esto solo siguió alimentado las ambiciones de los intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
