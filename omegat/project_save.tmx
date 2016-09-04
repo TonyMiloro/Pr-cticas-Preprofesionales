@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -336,8 +336,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;But conservatives in the capital cle&lt;/f0&gt;&lt;f1&gt;arly opposed Zhu’s appointment as vice-premier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233757Z" creationid="Administrador" creationdate="20160904T233757Z">
-        <seg>&lt;f0&gt;Pero los conservadores en la capital&lt;/f0&gt;&lt;f1&gt;arly opposed Zhu’s appointment as vice-premier.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233842Z" creationid="Administrador" creationdate="20160904T233757Z">
+        <seg>&lt;f0&gt;Pero los conservadores en la capital&lt;/f0&gt;&lt;f1&gt;claramente se oponían a la designación de Zhu como viceprimer ministro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1683,6 +1683,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233033Z" creationid="Administrador" creationdate="20160904T232800Z">
         <seg>A pesar de las presiones,&lt;/f3&gt;&lt;f5&gt;Zhu se negó a declarar la ley marcial en la ciudad; en cambio, optó por organizar los piquetes de los trabajadores para restaurar el orden. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discussions in corridors about who might emerge as “China’s Gorbachev” were directed at Zhu.&lt;/f1&gt;&lt;f2&gt;21&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Li Peng initially declined to assign him a portfolio.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233950Z" creationid="Administrador" creationdate="20160904T233950Z">
+        <seg>Los debates en los pasillos sobre quién podría emerger como el "Gorbachov de China"&lt;/f1&gt;&lt;f2&gt;21&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Li Peng initially declined to assign him a portfolio.</seg>
       </tuv>
     </tu>
     <tu>
