@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3563,8 +3563,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The most important of these groups were gathered around book series and journals: the Toward the Future (Zouxiang weilai congshu) book series, created by Jin Guantao and Bao Zunxin; the Academy of Chinese Culture, organized by Tang Yijie, Li Zhonghua, and Wang Shucang; and the Culture: China and the World (Wenhua: Zhongguo yu shijie congshu) book series, started by Gan Yang and Liu Xiaofeng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T225155Z" creationid="USUARIO" creationdate="20160903T224443Z">
-        <seg>Los grupos más importantes se reunieron en torno a series de libros y revistas científicas: la serie de libros Hacia el Futuro (Zouxiang weilai congshu), creada por Jin Guantao y Bao Zunxin; la Academia de Cultura China, organizada por Tang Yijie, Li Zhonghua y Wang Shucang; y la serie de libros Cultura: China y el Mundo (Wenhua: Zhongguo yu shijie congshu), iniciada por Gan Yang y Liu Xiaofeng.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T014027Z" creationid="USUARIO" creationdate="20160903T224443Z">
+        <seg>Los grupos más importantes se reunieron en torno a series de libros y revistas científicas: la serie de libros Toward the future, Hacia el futuro (Zouxiang weilai congshu), creada por Jin Guantao y Bao Zunxin; la Academia de Cultura China, organizada por Tang Yijie, Li Zhonghua y Wang Shucang; y la serie de libros Culture: China and the world, Cultura: China y el mundo (Wenhua: Zhongguo yu shijie congshu), iniciada por Gan Yang y Liu Xiaofeng.</seg>
       </tuv>
     </tu>
     <tu>
