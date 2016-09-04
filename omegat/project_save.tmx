@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1907,6 +1907,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160903T220430Z" creationid="Sabri" creationdate="20160903T220259Z">
         <seg>Luego de la invitación fallida de China para volverse un miembro inaugural de la &lt;t0/&gt; &lt;t1/&gt;OCM,  la Crisis del Estrecho de Taiwán de 1995–6 atrasó aún más las negociaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following the Tiananmen upheaval, it will be recalled, Deng Xiaoping, in consultation with Chen Yun and Li Xiannian, selected Jiang Zemin as the "core" of the third gener- ation of leadership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160904T231859Z" creationid="Mariela" creationdate="20160904T231620Z">
+        <seg>Luego de la revuelta de Tiananmén, como se recordará, Deng Xiaoping, en colaboración con  </seg>
       </tuv>
     </tu>
     <tu>
