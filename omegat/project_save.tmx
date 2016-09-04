@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4975,6 +4975,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T173746Z" creationid="Usuario" creationdate="20160902T215243Z">
         <seg>EE. UU. bombardea la Embajada de China en Belgrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Understanding the changing world of China’s intellectuals and their relationship to the political system is one aspect of the larger task of looking at &lt;s0/&gt;a &lt;s1/&gt;rapidly &lt;s2/&gt;changing &lt;s3/&gt;Chinese &lt;s4/&gt;society, &lt;s5/&gt;which &lt;s6/&gt;is &lt;s7/&gt;the &lt;s8/&gt;fourth &lt;s9/&gt;area &lt;s10/&gt;of &lt;s11/&gt;concern.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160904T233805Z" creationid="rona" creationdate="20160904T233805Z">
+        <seg>Comprender el  &lt;s0/&gt;a &lt;s1/&gt;rapidly &lt;s2/&gt;changing &lt;s3/&gt;Chinese &lt;s4/&gt;society, &lt;s5/&gt;which &lt;s6/&gt;is &lt;s7/&gt;the &lt;s8/&gt;fourth &lt;s9/&gt;area &lt;s10/&gt;of &lt;s11/&gt;concern.</seg>
       </tuv>
     </tu>
     <tu>
