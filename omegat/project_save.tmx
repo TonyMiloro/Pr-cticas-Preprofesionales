@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2736,8 +2736,8 @@
       <tuv lang="EN-US">
         <seg>No doubt, given the defense of the Party against the so-called counter- revolutionary rebellion and the discrediting of Zhao Ziyang, conservatives hoped that one of their own – perhaps Premier Li Peng, economic planner Yao Yilin, or even former Propaganda Department head Deng Liqun – might replace Zhao as general secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160904T012740Z" creationid="bluebird" creationdate="20160904T001537Z">
-        <seg>Sin duda, dado a que la defensa de la rebelión de los llamados contrarreformistas y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos -  </seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160904T012955Z" creationid="bluebird" creationdate="20160904T001537Z">
+        <seg>Sin duda, dado a que la defensa de la rebelión de los llamados contrarreformistas y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos - quizá Premier Li PEng, el planeador económico Yao Yilin, o incluso el ex presidente de la secretaría de difusión Deng Liqun - reemplazarían a Zhao en la secretaría general.</seg>
       </tuv>
     </tu>
     <tu>
