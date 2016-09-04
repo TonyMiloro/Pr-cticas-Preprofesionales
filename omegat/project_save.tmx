@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4157,6 +4157,14 @@
       <tuv lang="ES-US" changeid="PC" changedate="20160904T215055Z" creationid="PC" creationdate="20160904T215055Z">
         <seg>Es por eso que no tienen dinero para financiar a los campesinos”. Por lo tanto, la especulación en la costa del mercado inmobiliario exacerbó las tensiones en el campo.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The CCP convened its Seventeenth Party Congress, October 15-20, 2007, followed on October 21 by the First Plenary Session of the newly elected Central Committee.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160904T225906Z" creationid="Mariela" creationdate="20160904T225906Z">
+        <seg>El CC</seg>
       </tuv>
     </tu>
     <tu>
