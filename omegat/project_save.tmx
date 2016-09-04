@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3289,8 +3289,8 @@
       <tuv lang="EN-US">
         <seg>The May Fourth Movement (1919) was part of a broader New Culture Movement (1915–20), which drew inspiration from the European Enlightenment and hence was dubbed the “Chinese Enlightenment.” Accordingly, liberal intellectuals in the 1980s were often referred to (and saw themselves) as “enlightenment intellectuals”; indeed, one of the liberal journals founded in the late 1980s was known as The New Enlightenment (Xin qimeng).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T221255Z" creationid="USUARIO" creationdate="20160903T214757Z">
-        <seg>El Movimiento del Cuatro de Mayo (1919) fue parte de un movimiento más amplio denominado Movimiento de la Nueva Cultura (1915-20), que se inspiró en la Ilustración Europea y por lo tanto se denominó "Ilustración China". En sintonía con esto, los intelectuales de la década de los 80 se conocían (y se consideraban a sí mismos) como "intelectuales ilustrados"; de hecho, una de las revistas científicas liberales fundadas a finales de los 80 se conocía como La Nueva Ilustración (Xin qimeng).</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T001216Z" creationid="USUARIO" creationdate="20160903T214757Z">
+        <seg>El Movimiento del Cuatro de Mayo (1919) fue parte de un movimiento más amplio denominado Movimiento de la Nueva Cultura (1915-20), que se inspiró en la Ilustración Europea y por lo tanto se denominó "Ilustración China". En sintonía con esto, los intelectuales de la década de los 80 se conocían (y se consideraban a sí mismos) como "intelectuales ilustrados"; de hecho, una de las revistas científicas liberales fundadas a finales de los 80 se conocía con el nombre de La Nueva Ilustración (Xin qimeng).</seg>
       </tuv>
     </tu>
     <tu>
