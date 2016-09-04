@@ -1760,8 +1760,8 @@
       <tuv lang="EN-US">
         <seg>Huntington’s article, “Clash of Civilizations?”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020045Z" creationid="Usuario" creationdate="20160902T010530Z">
-        <seg>Publicación del artículo "¿Choque de civilizaciones?", escrito por Huntington</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010722Z" creationid="Usuario" creationdate="20160902T010530Z">
+        <seg> Publicación del artículo "¿Choque de civilizaciones?", escrito por Huntington</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,8 +2432,8 @@
       <tuv lang="EN-US">
         <seg>Looking at China through a Third Eye</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T235131Z" creationid="Usuario" creationdate="20160902T015714Z">
-        <seg>Publicación del libro Looking at China through a Third Eye (China a través de un Tercer Ojo)</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010829Z" creationid="Usuario" creationdate="20160902T015714Z">
+        <seg>Publicación del libro Looking at China through a Third Eye (China a través de un tercer ojo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,16 +2632,16 @@
       <tuv lang="EN-US">
         <seg>NPC promotes Zhu Rongji to vice premier</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T171341Z" creationid="Usuario" creationdate="20160902T000658Z">
-        <seg>La NPC asciende a Zhu Rongji al cargo de Vice Primer Ministro</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010915Z" creationid="Usuario" creationdate="20160902T000658Z">
+        <seg>La Conferencia Nacional de Planeamiento asciende a Zhu Rongji al cargo de Vice Primer Ministro</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>National Planning Conference</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T000513Z" creationid="Usuario" creationdate="20160901T235145Z">
-        <seg>Conferencia Nacional de Planeamiento (NPC)</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010844Z" creationid="Usuario" creationdate="20160901T235145Z">
+        <seg>Conferencia Nacional de Planeamiento</seg>
       </tuv>
     </tu>
     <tu>
