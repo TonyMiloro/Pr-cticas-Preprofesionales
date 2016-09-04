@@ -3783,6 +3783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of these works defend the government’s position while others are openly critical.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160904T183957Z" creationid="Nico" creationdate="20160904T183957Z">
+        <seg>Algunos de estos trabajos defienden la posición del gobierno y otro son abiertamente críticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Southern Personalities Weekly publishes list of</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T022704Z" creationid="PC" creationdate="20160904T022622Z">
