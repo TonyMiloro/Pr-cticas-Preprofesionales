@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;One major success for Deng in the spring of 1991 was the elevation of Zhu Rongji to the position of vice-premier during the annual session of the NPC – thou&lt;/f0&gt;&lt;f1&gt;gh his elevation was balanced by the simultaneous selection of the conservative Zou Jiahua as another vice-premier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T222358Z" creationid="Administrador" creationdate="20160904T222217Z">
-        <seg>&lt;f0&gt;Uno de los mayores éxitos de Deng en la primavera de 1991 fue el ascenso de Zhu Rongji al cargo de viceprimer ministro durante la sesión anual del NPC&lt;/f0&gt;&lt;f1&gt;gh his elevation was balanced by the simultaneous selection of the conservative Zou Jiahua as another vice-premier.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T222607Z" creationid="Administrador" creationdate="20160904T222217Z">
+        <seg>&lt;f0&gt;Uno de los mayores éxitos de Deng en la primavera de 1991 fue el ascenso de Zhu Rongji al cargo de viceprimer ministro durante la sesión anual del NPC&lt;/f0&gt;&lt;f1&gt;-auque su ascenso se equilibró con la simultanea elección del conservador Zou Jiahua como otro primer ministro.</seg>
       </tuv>
     </tu>
     <tu>
