@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -658,6 +658,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T005913Z" creationid="Usuario" creationdate="20160902T232945Z">
         <seg>Prohibición de An Investigation of China’s Peasants (Investigación sobre los campesinos de China), escrito por Chen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An incident had the possibil-ity of evolving into a destructive riot.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011805Z" creationid="Usuario-Pc" creationdate="20160904T011805Z">
+        <seg> Un pequeño incidente podía llegar a conventirse en una revuelta intensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3257,8 +3265,8 @@
       <tuv lang="EN-US">
         <seg>Students in Beijing and Shanghai started to leave their campuses.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011716Z" creationid="Usuario-Pc" creationdate="20160904T011716Z">
-        <seg>Estudiantes en Beijin y Shangai comenzaron a abandonar los campuses.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011741Z" creationid="Usuario-Pc" creationdate="20160904T011716Z">
+        <seg>Estudiantes en Beijin y Shangai comenzaron a abandonar el campus universitario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3657,6 +3665,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The “tragic history of 1957,” Wang writes, proved that “the intellectuals created by China’s old culture and civilization .</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T012049Z" creationid="Usuario-Pc" creationdate="20160904T012049Z">
+        <seg>La "los trágicos hechos historicos de 1957", escribe Wang, demostraron que "los intelectuales provenientes de la antigua cultura y civilización China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their writing and publication were overseen by Deng’s daughter Deng Nan and Shanghai Party secretary Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; The first commen-tary was published under photographs of Deng Xiaoping, Yang Shangkun, and Li Xiannian conveying lunar New Year’s greetings to Shanghai lead-ers, thus visually emphasizing the authoritative nature of the commentary.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224649Z" creationid="Evelyn" creationdate="20160903T184024Z">
@@ -3677,6 +3693,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015835Z">
         <seg>Hubo momentos en los que se vieron pequeños avances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thereupon, Mao could not but take action.”&lt;/f9&gt;&lt;f10&gt;55&lt;/f10&gt;&lt;f11&gt; The intellectuals, like the peasants, were not worthy of Mao.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011911Z" creationid="Usuario-Pc" creationdate="20160904T011911Z">
+        <seg>Por lo tanto, Mao no podia hacer otra cosa mas que actuar”.&lt;/f9&gt;&lt;f10&gt;55&lt;/f10&gt;&lt;f11&gt; Los intelectuales, al igual que los campesinos, no eran dignos de Mao.</seg>
       </tuv>
     </tu>
     <tu>
