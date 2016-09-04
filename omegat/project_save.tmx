@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -745,8 +745,8 @@
       <tuv lang="EN-US">
         <seg>After a four-month, often vitriolic, campaign against bourgeois liberalization that targeted three well-known intellectuals – astrophysicist Fang Lizhi, investigative journalist Liu Binyan, and writer Wang Ruowang – Deng and Zhao engineered a dramatic turnaround in the political atmosphere.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160904T234221Z" creationid="Lu" creationdate="20160904T233529Z">
-        <seg>Luego de una campaña, muchas veces mordaz, de cuatro meses en contra de la liberación burguesa que fue dirigida hacia tres famosos intelectaures: el astrofísico Fang Lizhi, </seg>
+      <tuv lang="ES-US" changeid="Lu" changedate="20160904T234500Z" creationid="Lu" creationdate="20160904T233529Z">
+        <seg>Luego de una campaña, muchas veces mordaz, de cuatro meses en contra de la liberación burguesa que fue dirigida hacia tres famosos intelectaures: el astrofísico Fang Lizhi, el periodista investigador Liu Binyan, y el escritor Wang Rouwang, Deng y Zhao idearon un cabio de rumbo en el ambiente político.</seg>
       </tuv>
     </tu>
     <tu>
