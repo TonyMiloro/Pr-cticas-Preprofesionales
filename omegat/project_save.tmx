@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1665,8 +1665,8 @@
       <tuv lang="EN-US">
         <seg>Despite pressure, Zhu reje&lt;/f3&gt;&lt;f5&gt;cted calls to declare martial law in the city, opting instead for organizing worker pickets to restore order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T232859Z" creationid="Administrador" creationdate="20160904T232800Z">
-        <seg>A pesar de las presiones,&lt;/f3&gt;&lt;f5&gt;Zhu</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T232927Z" creationid="Administrador" creationdate="20160904T232800Z">
+        <seg>A pesar de las presiones,&lt;/f3&gt;&lt;f5&gt;Zhu se negó a declarar la ley marcial en la ciudad, </seg>
       </tuv>
     </tu>
     <tu>
