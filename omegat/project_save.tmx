@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4869,8 +4869,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Three months later, under pressure from Deng, Li finally al&lt;/f3&gt;&lt;f5&gt;lowed Zhu to take over the State Council Production Commission, the group established under the State Planning Commission to oversee imple-mentation of the “double guarantee” system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T234320Z" creationid="Administrador" creationdate="20160904T234230Z">
-        <seg>Tres meses más tarde sin embargo, y bajo la presión de Deng, Li finalmente accedió a &lt;/f3&gt;&lt;f5&gt;que Zhu se .</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T234446Z" creationid="Administrador" creationdate="20160904T234230Z">
+        <seg>Tres meses más tarde sin embargo, y bajo la presión de Deng, Li finalmente accedió a &lt;/f3&gt;&lt;f5&gt;que Zhu se hiciera cargo de la Comisión Estatal del Consejo de la Producción,.</seg>
       </tuv>
     </tu>
     <tu>
