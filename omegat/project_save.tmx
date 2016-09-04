@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -474,6 +474,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211946Z" creationid="usuario" creationdate="20160903T211946Z">
         <seg>&lt;f0&gt;Xinhua, 24 de julio, 1988, en FBIS-CHI, 25 de julio, 1988, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Zou Jiahua, and Zhu Rongji.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T223335Z" creationid="Administrador" creationdate="20160904T223335Z">
+        <seg>&lt;f0&gt;Zou Jiaha, y Zhu Rongji..</seg>
       </tuv>
     </tu>
     <tu>
