@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commission</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T043756Z" creationid="PC" creationdate="20160904T043756Z">
+        <seg>Militar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Committee</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210625Z" creationid="Usuario" creationdate="20160902T210337Z">
@@ -2814,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>November 11</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T043911Z" creationid="PC" creationdate="20160904T043911Z">
+        <seg>11 de noviembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>November 11–14</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T013743Z" creationid="Usuario" creationdate="20160902T013743Z">
@@ -3247,6 +3263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>September 22</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T043803Z" creationid="PC" creationdate="20160904T043803Z">
+        <seg>22 de septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>September 23</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T013545Z" creationid="Usuario" creationdate="20160902T013545Z">
@@ -3347,6 +3371,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T022704Z" creationid="PC" creationdate="20160904T022622Z">
         <seg>Southern Personalities Weekly publica una lista de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strategy and Management is closed down</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T043906Z" creationid="PC" creationdate="20160904T043906Z">
+        <seg>"Strategy and Management" (Estrategia y Dirección) se deja de publicar</seg>
       </tuv>
     </tu>
     <tu>
