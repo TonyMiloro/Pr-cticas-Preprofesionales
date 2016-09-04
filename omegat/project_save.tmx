@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
         <seg>12 But simple expressions of good wishes could hardly change fundamentally the relationship that had grown up between the Party and intellectuals since the Yan’an era.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T234004Z" creationid="USUARIO" creationdate="20160903T203032Z">
-        <seg>12 Pero simples expresiones de buena voluntad difícilmente podían cambiar de manera fundamental la relación que se había desarrollado entre el Partido y los intelectuales desde la era Yan’an.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012439Z" creationid="USUARIO" creationdate="20160903T203032Z">
+        <seg>Pero simples expresiones de buena voluntad difícilmente podían cambiar de manera fundamental la relación que se había desarrollado entre el Partido y los intelectuales desde la era Yan’an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1056,8 +1056,8 @@
       <tuv lang="EN-US">
         <seg>China may eventually emerge as a democratic nation, but, if so, its path will be longer and more complicated than was so widely assumed in the early 1990s.9 Contrary to those Western hopes, a significant number of intellectuals in China came to have different comprehensions of their society and the international order than their Western counterparts assumed they had.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T002500Z" creationid="USUARIO" creationdate="20160903T190304Z">
-        <seg>Puede que China emerja como una nación democrática, pero, de ser ese el caso, el camino será mucho más largo y complicado de lo que se asumía con tanta seguridad a principios de la década de los 90.9 En oposición a esas esperanzas occidentales, una considerable cantidad de intelectuales en China llegó a tener concepciones de su sociedad y del orden internacional muy diferentes a las que sus contrapuntos en Occidente asumían que tenían.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012406Z" creationid="USUARIO" creationdate="20160903T190304Z">
+        <seg>Puede que China emerja como una nación democrática, pero, de ser ese el caso, el camino será mucho más largo y complicado de lo que se asumía con tanta seguridad a principios de la década de los 909. En oposición a esas esperanzas occidentales, una considerable cantidad de intelectuales en China llegó a tener concepciones de su sociedad y del orden internacional muy diferentes a las que sus contrapuntos en Occidente asumían que tenían.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1392,8 @@
       <tuv lang="EN-US">
         <seg>Even as high-ranking cadres, then, such liberal intellectuals were critics of the state and constituted what X. L. Ding termed a “counterelite.”14 As critics, they inevitably turned to the May Fourth tradition for moral inspiration – particularly its emphasis on science, democracy, cosmopolitanism, and the leading role for intellectuals as societal conscience.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T001112Z" creationid="USUARIO" creationdate="20160903T212755Z">
-        <seg>Por lo tanto, aun como grupo de alto rango, dichos intelectuales liberales eran críticos del estado y constituían lo que X. L. Ding denominó una "contra-élite".14 Como críticos inevitablemente buscaron inspiración moral en la tradición del Cuatro de Mayo, en especial en su énfasis en la ciencia, la democracia, el cosmopolitismo y el papel fundamental de los intelectuales como fuente de conciencia social.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012517Z" creationid="USUARIO" creationdate="20160903T212755Z">
+        <seg>Por lo tanto, aun como grupo de alto rango, dichos intelectuales liberales eran críticos del estado y constituían lo que X. L. Ding denominó una "contra-élite"14. Como críticos inevitablemente buscaron inspiración moral en la tradición del Cuatro de Mayo, en especial en su énfasis en la ciencia, la democracia, el cosmopolitismo y el papel fundamental de los intelectuales como fuente de conciencia social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2496,8 +2496,8 @@
       <tuv lang="EN-US">
         <seg>Mao had made it clear in his 1942 speech to the Yan’an Forum on Literature and Art that intellectuals must overcome their natural petty bourgeois nature by self-consciously “integrating” themselves with the “masses” – with the Party as judge of how successfully they had done so.13 With the perspective of thirty years of persecution, intellectuals naturally were critics of the Party/state even when they served it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T003603Z" creationid="USUARIO" creationdate="20160903T203601Z">
-        <seg>Mao había dejado en claro en su discurso de 1942 ante el Foro de Literatura y Arte de Yan’an que los intelectuales debían sobreponerse a su insignificante naturaleza burguesa e "integrarse" deliberadamente a las "masas", con el Partido como juez para decidir hasta qué punto lo habían logrado.13 Frente a la perspectiva de treinta años de persecución, los intelectuales naturalmente eran críticos del Partido/estado, aun cuando trabajaban para él.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012501Z" creationid="USUARIO" creationdate="20160903T203601Z">
+        <seg>Mao había dejado en claro en su discurso de 1942 ante el Foro de Literatura y Arte de Yan’an que los intelectuales debían sobreponerse a su insignificante naturaleza burguesa e "integrarse" deliberadamente a las "masas", con el Partido como juez para decidir hasta qué punto lo habían logrado13. Frente a la perspectiva de treinta años de persecución, los intelectuales naturalmente eran críticos del Partido/estado, aun cuando trabajaban para él.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2752,8 +2752,8 @@
       <tuv lang="EN-US">
         <seg>Nothing expressed more vividly the hopes for a new era than Deng Xiaoping’s humble statement in 1978 that he wished to serve as the “director of support services” for China’s scientists and technicians so that they could devote themselves wholeheartedly to their work and to China’s modernization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T004154Z" creationid="USUARIO" creationdate="20160903T200310Z">
-        <seg>Nada expresó tan vívidamente las esperanzas de una nueva era como la humilde declaración de Deng Xiaoping de 1978 en la que manifestó su deseo de servir como "director de los Servicios de Apoyo" para los científicos y técnicos de China con el fin de que pudieran dedicarse con toda su energía a su trabajo y la modernización de China.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012452Z" creationid="USUARIO" creationdate="20160903T200310Z">
+        <seg>Nada expresó tan vívidamente las esperanzas de una nueva era como la humilde declaración de Deng Xiaoping de 1978 en la que manifestó su deseo de servir como "director de los Servicios de Apoyo" para los científicos y técnicos de China con el fin de que pudieran dedicarse con toda su energía a su trabajo y la modernización de China12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2961,8 +2961,8 @@
       <tuv lang="EN-US">
         <seg>Over the past century Chinese intellectuals have worked to create a more open and liberal society, though they have often submerged that quest into what they believed was a broader and more urgent quest for national sovereignty.11 Nonetheless, whenever international and domestic tensions have relaxed, intellectuals have resumed their efforts to bring greater rationality to the political process, normalize the state–society relationship, and integrate China more fully into the international order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T003248Z" creationid="USUARIO" creationdate="20160903T194322Z">
-        <seg>A lo largo del siglo pasado los intelectuales chinos trabajaron para crear una sociedad más abierta y liberal, aunque en ocasiones subyugaron dicha búsqueda a lo que ellos concebían como una búsqueda más profunda y urgente en pos de la soberanía nacional.11 Sin embargo, siempre que las tensiones internacionales y domésticas se atenuaron, los intelectuales reanudaron su tarea de llevar más racionalidad al proceso político, normalizar la relación entre el estado y la sociedad e integrar a China más plenamente en el orden internacional.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012421Z" creationid="USUARIO" creationdate="20160903T194322Z">
+        <seg>A lo largo del siglo pasado los intelectuales chinos trabajaron para crear una sociedad más abierta y liberal, aunque en ocasiones subyugaron dicha búsqueda a lo que ellos concebían como una búsqueda más profunda y urgente en pos de la soberanía nacional11. Sin embargo, siempre que las tensiones internacionales y domésticas se atenuaron, los intelectuales reanudaron su tarea de llevar más racionalidad al proceso político, normalizar la relación entre el estado y la sociedad e integrar a China más plenamente en el orden internacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,8 +3619,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The story of intellectual development in the 1980s was one of critical self-examination (how could the Cultural Revolution have occurred?), of a cosmopolitan opening to the world, and of democratic hope and aspiration (though a serious investigation of these attitudes needs to include a critical analysis of underlying assumptions about democracy).10 By the 1990s, many intellectuals were more supportive of their own government and more critical of the West than at any time since the May Fourth Movement of 1919.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T002548Z" creationid="USUARIO" creationdate="20160903T192114Z">
-        <seg>La historia del desarrollo intelectual en la década de los 80 fue una etapa de indagación autocrítica (¿cómo podría haber ocurrido la Revolución Cultural?), de una apertura cosmopolita al mundo, y de esperanza y aspiración democrática (aunque una investigación seria de estas posturas debe incluir un análisis crítico de las suposiciones subyacentes sobre la democracia).10 En la década de los 90, muchos intelectuales estaban más a favor de su propio gobierno y eran más críticos respecto a Occidente que en cualquier otro momento desde el Movimiento del Cuatro de Mayo de 1919.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012413Z" creationid="USUARIO" creationdate="20160903T192114Z">
+        <seg>La historia del desarrollo intelectual en la década de los 80 fue una etapa de indagación autocrítica (¿cómo podría haber ocurrido la Revolución Cultural?), de una apertura cosmopolita al mundo, y de esperanza y aspiración democrática (aunque una investigación seria de estas posturas debe incluir un análisis crítico de las suposiciones subyacentes sobre la democracia)10. En la década de los 90, muchos intelectuales estaban más a favor de su propio gobierno y eran más críticos respecto a Occidente que en cualquier otro momento desde el Movimiento del Cuatro de Mayo de 1919.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3731,8 +3731,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>These groups fueled the “cultural fever” (wenhua re) of the late 1980s, epitomized by the film River Elegy (He Shang).15 The self-assigned mission of these groups was to carve out a “public space” that was independent of the state; it was a mission that assumed a common discourse based on Enlightenment ideals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160903T234857Z" creationid="USUARIO" creationdate="20160903T225454Z">
-        <seg>Estos grupos avivaron la "fiebre cultural" (wenhua re) de finales de la década de los 80, representada en la película Elegía del Río (He Shang).15 La misión autoasignada de estos grupos era la de formar un "espacio público" que fuera independiente del estado; esta misión adoptó un discurso común basado en los ideales de la Ilustración.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012603Z" creationid="USUARIO" creationdate="20160903T225454Z">
+        <seg>Estos grupos avivaron la "fiebre cultural" (wenhua re) de finales de la década de los 80, representada en la película Elegía del Río (He Shang)15. La misión autoasignada de estos grupos era la de formar un "espacio público" que fuera independiente del estado; esta misión adoptó un discurso común basado en los ideales de la Ilustración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4211,8 +4211,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Yet neither political suppression nor exile (voluntary or otherwise) can fully account for the change in intellectual atmosphere in the 1990s or for the changed relationship between the state and intellectuals that began to emerge in the years after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T004006Z" creationid="USUARIO" creationdate="20160903T231037Z">
-        <seg>No obstante, ni la represión política ni el exilio (voluntario o no) pueden explicar completamente el cambio tanto en el panorama intelectual de la década de los 90 como en la relación entre el estado y los intelectuales que comenzó a emerger en los años posteriores al Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012633Z" creationid="USUARIO" creationdate="20160903T231037Z">
+        <seg>No obstante, ni la represión política ni el exilio (voluntario o no) pueden explicar completamente el cambio tanto en el panorama intelectual de la década de los 90 como en la relación entre el estado y los intelectuales que comenzó a emerger en los años posteriores al Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
