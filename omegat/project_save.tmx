@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1576,8 +1576,8 @@
       <tuv lang="EN-US">
         <seg>Former president Yang Shangkun dies at</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T212717Z" creationid="Usuario" creationdate="20160902T212717Z">
-        <seg>El ex presidente Yang Shangkun fallece a los </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T011759Z" creationid="Usuario" creationdate="20160902T212717Z">
+        <seg>El expresidente Yang Shangkun fallece a los </seg>
       </tuv>
     </tu>
     <tu>
@@ -3987,8 +3987,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>United States starts bombing Serbian forces</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214430Z" creationid="Usuario" creationdate="20160902T214430Z">
-        <seg>Los EE. UU bombardean a las fuerzas serbias</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T012036Z" creationid="Usuario" creationdate="20160902T214430Z">
+        <seg>Los EE. UU. bombardean a las fuerzas serbias</seg>
       </tuv>
     </tu>
     <tu>
