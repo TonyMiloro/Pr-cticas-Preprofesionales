@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indeed, this book largely focuses on this group of intellectuals.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160904T174117Z" creationid="Nico" creationdate="20160904T174117Z">
+        <seg>De hecho, este libro se enfoca en gran medida en este grupo de intelectuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Index</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T170704Z">
