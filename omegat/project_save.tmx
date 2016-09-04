@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHINA CAN SAY NO</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T030631Z" creationid="Administrador" creationdate="20160904T030631Z">
+        <seg>CHINA PUEDE DECIR NO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHINA SINCE TIANANMEN</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173255Z">
