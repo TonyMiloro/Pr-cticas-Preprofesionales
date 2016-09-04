@@ -879,6 +879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a wellknown researcher in the State Council’s Development Research Center put it: “Local authorities and banks are ripping off billions of yuan to fund real estate projects.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T214919Z" creationid="PC" creationdate="20160904T214919Z">
+        <seg>De acuerdo con un informe, se desviaron al menos 57 000 millones de yuanes a principios de 1993 a través de préstamos interbancarios a las zonas costeras, donde fue utilizado para la  especulación en el sector inmobiliario y el mercado de valores. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the 1980s wore on, China’s intellectual establishment diversified.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T045257Z" creationid="USUARIO" creationdate="20160903T221558Z">
@@ -4036,6 +4044,15 @@
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160902T124904Z" creationid="Backup" creationdate="20160902T124523Z">
         <seg>Eso cambió en 1994 con la publicacion de Looking at China through a thrid eye (Mirando a China desde un tercer ojo). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s why they have no money to pay the peasants.” Thus, the speculation in coastal real estate exacerbated tensions in the countryside</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T215055Z" creationid="PC" creationdate="20160904T215055Z">
+        <seg>Es por eso que no tienen dinero para financiar a los campesinos”. Por lo tanto, la especulación en la costa del mercado inmobiliario exacerbó las tensiones en el campo.
+</seg>
       </tuv>
     </tu>
     <tu>
