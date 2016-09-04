@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1320,8 +1320,8 @@
       <tuv lang="EN-US">
         <seg>Elite politics in an era of globalization and nationalism197</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173529Z">
-        <seg>Política de élite en una era de globalización y nacionalismo 197</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T005719Z">
+        <seg>Élite política en una era de globalización y nacionalismo 197</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,8 +2945,8 @@
       <tuv lang="EN-US">
         <seg>PART III ELITE POLITICS AND POPULAR NATIONALISM</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T170422Z">
-        <seg>Parte III Política de élite y nacionalismo popular</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T005730Z">
+        <seg>Parte III Élite política y nacionalismo popular</seg>
       </tuv>
     </tu>
     <tu>
