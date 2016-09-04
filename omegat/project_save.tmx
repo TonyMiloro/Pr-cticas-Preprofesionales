@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5197,8 +5197,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Zhu has&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;drawn intense interest from domestic and foreign observers alike because he is unique in Chinese politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T223954Z" creationid="Administrador" creationdate="20160904T223954Z">
-        <seg>Zhu había&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;drawn intense interest from domestic and foreign observers alike because he is unique in Chinese politics.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T224057Z" creationid="Administrador" creationdate="20160904T223954Z">
+        <seg>Zhu había&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;despertado gran interés tanto en observadores locales como internacionales .</seg>
       </tuv>
     </tu>
     <tu>
