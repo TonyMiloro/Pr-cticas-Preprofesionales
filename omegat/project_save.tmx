@@ -1720,8 +1720,8 @@
       <tuv lang="EN-US">
         <seg>Hu Jintao takes over: a turn to the left?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165225Z">
-        <seg>Gobierno de Hu Jintao: ¿giro a la izquierda?</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010701Z">
+        <seg>Gobierno de Hu Jintao: ¿un giro a la izquierda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3041,8 +3041,8 @@
       <tuv lang="EN-US">
         <seg>Schematic overview of the Chinese political spectrum</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023417Z">
-        <seg>Diagrama general del arco político en China</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010501Z">
+        <seg>Diagrama general del espectro político en China</seg>
       </tuv>
     </tu>
     <tu>
@@ -4470,6 +4470,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T003424Z" creationid="Usuario" creationdate="20160903T001044Z">
         <seg>de hacer negocios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>xvii</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010531Z" creationid="Usuario" creationdate="20160904T010531Z">
+        <seg> xvii</seg>
       </tuv>
     </tu>
     <tu>
