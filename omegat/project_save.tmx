@@ -711,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the NPC meeting, there were five vice-premiers: Yao Yilin, Tian Jiyun, Wu Xueqian,&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T222831Z" creationid="Administrador" creationdate="20160904T222831Z">
+        <seg>Después del encuentro del NPC, hubo cinco viceprimer ministros: Yao Yilin, Tian Jijun,Wu Xueqian,&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All information contained in this manual is important for safe and reliable operation of the equipment.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="paula" changedate="20160708T201941Z">
