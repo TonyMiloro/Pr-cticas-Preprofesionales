@@ -376,8 +376,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Deng appears to have been familiar with Zhu’s work and talents since at least the early 1980s, when Zhu was promoted to vice-chairman of the State Ec&lt;/f0&gt;&lt;f1&gt;onomic Commission.&lt;/f1&gt;&lt;f2&gt;18&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;When the State Economic Commission was abolished in 1988, Zhu was sent to Shanghai to be mayor.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T232300Z" creationid="Administrador" creationdate="20160904T231955Z">
-        <seg>&lt;f0&gt;Deng parece haber estado bien familiarizado con el trabajo y las habilidades de Zhu, desde por lo menos los comienzos de 1980, cuando Zhu fue promovido al cargo de vicepresidente de la Comisión Estatal&lt;/f0&gt;&lt;f1&gt;de Economía.&lt;/f1&gt;&lt;f2&gt;18&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Cuando la Comisión Estatal de Economía fue eliminada en 1988.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T232350Z" creationid="Administrador" creationdate="20160904T231955Z">
+        <seg>&lt;f0&gt;Deng parece haber estado bien familiarizado con el trabajo y las habilidades de Zhu, desde por lo menos los comienzos de 1980, cuando Zhu fue promovido al cargo de vicepresidente de la Comisión Estatal&lt;/f0&gt;&lt;f1&gt;de Economía.&lt;/f1&gt;&lt;f2&gt;18&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Cuando la Comisión Estatal de Economía fue eliminada en 1988, Zhu fue enviado a Shangai para ocupar el cargo de Intendente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3027,6 +3027,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T190131Z">
         <seg>Por otro lado, los textos con  estos ideales continuaron siendo publicados, aunque se veían seriamente limitados por el contexto político. Algunos liberales mantenían su optimismo respecto del futuro, mientras que otros permanecieron escépticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like Li Ruihuan in Tianjin, Zhu seems to have drawn Deng’s interest by his skillful handling of the 1989 demonstrations in Shanghai.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T232453Z" creationid="Administrador" creationdate="20160904T232453Z">
+        <seg>Como Li Ruihuan en Tianjin, Zhu </seg>
       </tuv>
     </tu>
     <tu>
