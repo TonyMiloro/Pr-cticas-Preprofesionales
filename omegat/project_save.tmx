@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1823,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>China’s ambassador congratulated the perpetrators of the coup, and conservative elder Wang Zhen, then in Xinjiang, called on China’s Party leaders “never to deviate” from Marxism– Leninism–Mao Zedong Thought and to “fight to the death” for communism.38 During his trip in the province, Wang gave a number of “fiery speeches,”39 while back in Beijing, leftists called a number of meetings to consider their response.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160904T150614Z" creationid="Luisina" creationdate="20160904T150614Z">
+        <seg>El embajador de China felicitó a los perpetradores del golpe de estado, y Wang Zhen </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>China’s proposed entrance into the WTO thus struck an uneasy balance&lt;t0/&gt; &lt;t1/&gt;between the desire of Chinese leaders to demonstrate China’s “great power”&lt;t2/&gt; &lt;t3/&gt;status and to further economic development by joining the international&lt;t4/&gt; &lt;t5/&gt;economy on one side, and, on the other, the protectionist instincts of&lt;t6/&gt; &lt;t7/&gt;some regions and bureaucracies, the ideological and political &lt;t8/&gt;concerns that&lt;t9/&gt; &lt;t10/&gt;such integration might prove socially disruptive, the concerns of New Left&lt;t11/&gt; &lt;t12/&gt;intellectuals, and the populist nationalism of a large segment of the public.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160903T220208Z" creationid="Sabri" creationdate="20160903T215725Z">
@@ -2707,6 +2715,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160901T201443Z">
         <seg>Dado el nacionalismo económico en 1995, la situación económica precaria&lt;t0/&gt; &lt;t1/&gt;que China enfrentó en 1996-8, y la preocupación por su seguridad económica y&lt;t2/&gt; &lt;t3/&gt;probable vulnerabilidad a la crisis financiera asiática, es casi sorprendente &lt;t4/&gt; &lt;t5/&gt;que China continuara teniendo interés en la OMC. Mientras que el período&lt;t6/&gt; &lt;t7/&gt;que le siguió a Tiananmen había sido marcado por una nueva sospecha del mundo&lt;t8/&gt; &lt;t9/&gt;exterior y una resurgencia de  &lt;t10/&gt;pensamiento&lt;t11/&gt; nativista, la OMC le pidió a China que se&lt;t12/&gt; &lt;t13/&gt;involucrara - y fuera involucrada por - el mundo en la mejor tradición cosmopolita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given the reaction of Chinese hardliners to what they regarded as the downward spiral of events in the Soviet Union, it is no wonder that they could barely contain their glee when they heard the news of the conservative coup &lt;t0/&gt;d’etat&lt;t1/&gt; launched on August ´ 19.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160904T150513Z" creationid="Luisina" creationdate="20160904T150513Z">
+        <seg>Dada la reacción de los intrenasigentes chinos a lo que consideraban como una esprial descendiente de eventos en la Unión Soviética, no es sorpresa que apenas pudieran contener su regocijo cuando escucharon las noticias del golpe de &lt;t0/&gt;estado&lt;t1/&gt; que se realizó el 19 de agosto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7304,6 +7320,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232231Z">
         <seg>El cuarto Pleno: surgimiento de la "tercera generación"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the soviet coup</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160904T150231Z" creationid="Luisina" creationdate="20160904T150231Z">
+        <seg>El golpe de estado</seg>
       </tuv>
     </tu>
     <tu>
