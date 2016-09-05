@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5072,6 +5072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Singapore senior minister Lee Kuan Yew relished the moment and lectured the United States.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T220054Z" creationid="Rocio" creationdate="20160905T220054Z">
+        <seg>El Ministro Principal de Singapur Lee Kuan Yew se deleitó co United States.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sixteenth Party Congress</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160905T192328Z" creationid="andrea" creationdate="20160905T192328Z">
@@ -5423,6 +5431,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T150257Z" creationid="usuario" creationdate="20160903T150034Z">
         <seg>Los Estados Unidos respondieron al consejo de Deng y enviaron al Secretario de Estado sustituto Lawrence Eagleburger y al consejero de seguridad Brent Scowcroft a Pekín en diciembre de 1989.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The West loudly objected to the court-decreed caning of Michael Fay, an expatriate accused of vandalism, saying that such corporal pun-ishment was a violation of human rights.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T215909Z" creationid="Rocio" creationdate="20160905T215709Z">
+        <seg>El occidente objetó fuertemente el azote decretado por la Corte para Michael Fay, un expatriado acusado de vandalismo, diciendo que tal castigo corporal era una violación a los derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
