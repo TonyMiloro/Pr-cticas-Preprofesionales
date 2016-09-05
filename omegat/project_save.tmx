@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1251,6 +1251,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T184617Z" creationid="LENOVO" creationdate="20160905T183453Z">
         <seg>Hasta 1996, Jiang se había acercado a la izquierda con la declaración antes citada que realizó en la VI Sesión Plenaria de que “no se sacrificará la civilización espiritual en aras de la civilización material”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As reviewed by Wang Hui, the editor of Reading whose views were discussed in the previous chapter,&lt;s0/&gt;&lt;t1/&gt;Huntington’s essay reflected a “strong tendency toward Western cultural centrism” that “stimulated cultural nationalism” in China because it led many Chinese intellectuals to think “they were alien to Western cultures.”36</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T222410Z" creationid="Rocio" creationdate="20160905T222048Z">
+        <seg>Como lo analizó Wang Hui, el editor de Reading cuyas visiones se discutieron en capítulos anteriores, el ensayo de Hungtinton reflejó una "fuerte tendencia hacia el centralismo cultural occidenral"36</seg>
       </tuv>
     </tu>
     <tu>
