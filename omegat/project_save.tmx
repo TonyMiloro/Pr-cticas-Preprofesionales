@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6199,6 +6199,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T014912Z" creationid="Flor" creationdate="20160902T014912Z">
         <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han ocurrido en paralelo con lo presentado en el Capítulo&lt;s7/&gt;&lt;/f6&gt;&lt;a8&gt;&lt;f9&gt;4&lt;/f9&gt;&lt;f10&gt;.&lt;s11/&gt;&lt;/f10&gt;&lt;/a8&gt;&lt;f12&gt;En particular, nos centraremos en dos acontecimientos que a simple vista parecen contradictorios: por un lado, la aparición de un organismo de pensamiento neoestatista basado en la "capacidad del Estado", y por el otro, el surgimiento del nacionalismo populista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This explanation assumes that Deng possessed the power necessary to prevail (which he would demonstrate a year later), but that he believed the cost in terms of Party unity outweighed the importance of prevailing at that time.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T233522Z" creationid="carolaamiel" creationdate="20160905T233456Z">
+        <seg>Esta explicación supone que Deng contaba con el poder necesario para prevalecer (lo que demostraría un año despues.</seg>
       </tuv>
     </tu>
     <tu>
