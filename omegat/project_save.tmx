@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1019,6 +1019,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T223223Z" creationid="Pablo" creationdate="20160903T223223Z">
         <seg>Aunque no estaba del todo claro en ese momento, un gran escándalo de corrupción en la Oficina de Seguridad de Shanghai estaba a punto de convertirse en un embrollo político que se llevaría consigo al líder del Partido de Shanghai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although many of these issues were implicit in much Chinese writing of the early 1990s, it was, ironically, Samuel Huntington’s 1993 article in Foreign Affairs, “The Clash of Civilizations?,” that really jelled the discussion and gave it focus.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T195122Z" creationid="Rocio" creationdate="20160905T194813Z">
+        <seg>Aunque muchos de estos temas estuvieron implícitos en la mayoría de las obras chinas de principios de los 90, fue ironicamente el artículo de 1993 de Samuel Huntington (publicado en) Foreign Affairs, "Choque de civilizaciones" que realmente .. la discusión y le dio enfoque.</seg>
       </tuv>
     </tu>
     <tu>
