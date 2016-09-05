@@ -2561,8 +2561,8 @@
       <tuv lang="EN-US">
         <seg>However, his well-known hardline response to the student demonstrations undoubtedly disqualiﬁed him – as was the case with Li Peng and Yao Yilin.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T023604Z" creationid="bluebird" creationdate="20160905T023604Z">
-        <seg>Sin embargo, su conocida reacción hacia la manifestación de los estudiantes indudablemente lo descalificó - como ocurrió en el caso de Li Peng y Yao Yilin.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T025910Z" creationid="bluebird" creationdate="20160905T023604Z">
+        <seg>Sin embargo, su conocida reacción inflexible hacia la manifestación de los estudiantes indudablemente lo descalificó - como ocurrió en el caso de Li Peng y Yao Yilin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,6 +3619,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160905T020158Z" creationid="bluebird" creationdate="20160905T013802Z">
         <seg>Li Peng y Yao Yilin, como Deng con desdén notó, eran muy conservadores para su satisfacción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li Ruihuan was another possibility, but his weak educational background no doubt eliminated him as a serious contender.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T025920Z" creationid="bluebird" creationdate="20160905T025920Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
