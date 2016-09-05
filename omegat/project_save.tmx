@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5085,8 +5085,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The new office had a bureaucratic standing equivalent to the&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;SPC and effectively marginalized the latter organization by taking over day-to-day management of the economy, leaving the SPC to deal with the macroeconomy.&lt;/f3&gt;&lt;f5&gt;24&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Moreover, Zhu was successful, at least temporarily, in reducing the problem of interenterprise d&lt;/f6&gt;&lt;f8&gt;ebt.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T020323Z" creationid="Administrador" creationdate="20160905T015948Z">
-        <seg>Este nuevo organizmo tenía un rango burocrático similar al de la&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;CEPD y marginaba de manera efectiva a esta última organización, haciéndose cargo de la administración diaria de la economía, y dejando que la CEPD .&lt;/f3&gt;&lt;f5&gt;24&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Moreover, Zhu was successful, at least temporarily, in reducing the problem of interenterprise d&lt;/f6&gt;&lt;f8&gt;ebt.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T020429Z" creationid="Administrador" creationdate="20160905T015948Z">
+        <seg>Este nuevo organizmo tenía un rango burocrático similar al de la&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;CEPD y marginaba de manera efectiva a esta última organización, haciéndose cargo de la administración diaria de la economía, y dejando que la CEPD se ocupase de la macroeconomía .&lt;/f3&gt;&lt;f5&gt;24&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Es más, &lt;/f6&gt;&lt;f8&gt;ebt.</seg>
       </tuv>
     </tu>
     <tu>
