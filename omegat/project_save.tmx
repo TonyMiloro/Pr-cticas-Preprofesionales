@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1161,8 +1161,8 @@
       <tuv lang="EN-US">
         <seg>As Deng entered his final decline, the Party fought vigorously over his legacy; with Deng’s passing the Party would have to make choices.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T175708Z" creationid="LENOVO" creationdate="20160905T175708Z">
-        <seg>Cuando Deng </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T180134Z" creationid="LENOVO" creationdate="20160905T175708Z">
+        <seg>Al ingresar Deng al final de su declive, el Partido luchaba energéticamente por su legado </seg>
       </tuv>
     </tu>
     <tu>
