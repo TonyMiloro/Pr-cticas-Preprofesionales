@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3481,8 +3481,8 @@
       <tuv lang="EN-US">
         <seg>Nevertheless, in 1992, Deng Xiaoping selected Hu Jintao, then only 50 years of age, to the Politburo Standing Committee (PBSC) at the Fourteenth Party Congress, apparently naming him internally as Jiang's successor.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T002726Z" creationid="Mariela" creationdate="20160905T000827Z">
-        <seg>Sin embrago, en 1922, Deng Xiaoping eligió a Hu Jintao, quien tenía tan solo 50 años en aquel momento, al Comité Permanente del Politburó (PBSC)  (  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T003400Z" creationid="Mariela" creationdate="20160905T000827Z">
+        <seg>Sin embrago, en 1922, Deng Xiaoping eligió a Hu Jintao, quien entonces tenía tan solo 50 años, para formar parte del Comité Permanente del Politburó (PBSC) en el décimo cuarto Congreso del Partido, (  n</seg>
       </tuv>
     </tu>
     <tu>
