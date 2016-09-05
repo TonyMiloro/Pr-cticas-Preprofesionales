@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2327,6 +2327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, could the post-revolutionary generation manage leadership succession issues in the absence of the revolutionary giants of the past?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T181933Z" creationid="Mariela" creationdate="20160905T181503Z">
+        <seg>Primero, ¿podría la generación posrevolucionaria resolver los problemas de sucesión de liderazgo en ausencia de los grandes revlucionarios del pasado? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, there is a common nationalism directed primarily against the United States, both in terms of its presumed desire to control China internationally and in terms of the American model of liberal democracy and neoclassical economics.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T020133Z" creationid="Flor" creationdate="20160902T020133Z">
@@ -2411,6 +2419,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020343Z">
         <seg>Por ejemplo, mientras el comunicado adoptado por el Séptimo Pleno del Partido en diciembre de 1990 “evaluó positivamente”  los “grandes logros” de China en la reforma y la apertura, enfatizó, sin embargo, la “integración de una economía planificada con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulación del mercado&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;”  y que repetir estos básicos  del pensamiento económico de Chen Yun &lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the first time, the Party's leadership would have to manage succession to a younger generation without the shadow of Deng Xiaoping and others handing over them.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T182312Z" creationid="Mariela" creationdate="20160905T182312Z">
+        <seg>Por primera vez, el liderazgo del partido tendría que gestionar a sucesión a una generación joven sin la presencia de Deng Xiaoping  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5871,6 +5887,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013913Z" creationid="Soledad Mori" creationdate="20160905T013913Z">
         <seg>Por ello, el XIII Congreso Nacional (del Partido Comunista Chino) aprobó una resolución secretar para remitir todas las decisiones importantes a Deng Xiaoping como el "timonel" del Partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, there were three interesting questions to be tackled at the Sev- enteenth Party Congress.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T181340Z" creationid="Mariela" creationdate="20160905T181340Z">
+        <seg>De este modo, había tres preguntas importantes que se debían resolver en el décimo séptimo Congreso del Partido.</seg>
       </tuv>
     </tu>
     <tu>
