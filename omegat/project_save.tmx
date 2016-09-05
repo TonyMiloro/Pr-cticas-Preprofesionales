@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1361,8 +1361,8 @@
       <tuv lang="EN-US">
         <seg>Certainly not all government–business relationships are corrupt, but entrepreneurs do cultivate political relationships and the fabric of such relationships distorts public policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T004359Z" creationid="rona" creationdate="20160905T004008Z">
-        <seg>Desde luego que no todas las relaciones entre gobiernos y empresas son corruptas, pero los empresarios sí cultivan relaciones políticas, y el entretejido de esas relaciones distorsiona las políticas públicas.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T010301Z" creationid="rona" creationdate="20160905T004008Z">
+        <seg>Desde luego que no todas las relaciones entre gobiernos y empresas son corruptas, pero los empresarios SÍcultivan relaciones políticas, y el entretejido de esas relaciones distorsiona las políticas públicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3978,8 +3978,8 @@
       <tuv lang="EN-US">
         <seg>Rural incomes grew very slowly from the mid-1980s to the early 2000s; meanwhile, urban incomes grew rapidly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T005635Z" creationid="rona" creationdate="20160905T005635Z">
-        <seg>Las ganancias rurales crecieron muy lentamente desde mediados de 1980 a los comienzos del 2000; mientras que las ganancias urbanas crecieron raudamente.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T010334Z" creationid="rona" creationdate="20160905T005635Z">
+        <seg>Las ganancias rurales crecieron muy lentamente desde mediados de 1980 hasta los comienzos del 2000; mientras que las ganancias urbanas crecieron RAUDAMENTE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5247,6 +5247,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044453Z" creationid="PC" creationdate="20160904T044453Z">
         <seg>Pekín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Urbanization may be the only long-term solution to this urban–rural gap, but that is a very long-term proposition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T010558Z" creationid="rona" creationdate="20160905T010558Z">
+        <seg>La urbanización .</seg>
       </tuv>
     </tu>
     <tu>
