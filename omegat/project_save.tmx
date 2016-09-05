@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang also casts a sympathetic eye on the Cultural Revolution, particu-larly on Mao’s motivations in initiating it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T233751Z" creationid="Usuario-Pc" creationdate="20160904T232551Z">
-        <seg>Wang tambien dio una mirada positiva a la Revolución Cultural, particularmente a las motivos de Mao para iniciarla&lt;f0&gt;.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221447Z" creationid="Usuario-Pc" creationdate="20160904T232551Z">
+        <seg>Wang también le dió una mirada positiva a la Revolución Cultural, particularmente a los motivos que tuvo Mao para iniciarla.&lt;f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,6 +1475,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T014006Z" creationid="Usuario-Pc" creationdate="20160904T012242Z">
         <seg>Por esa razon, no se pueden unir con el Partido gobernante, el poder estatal y las fuerzas mas importantes que llevan adelante a la población y de ese modo hacer uso de su gran habilidad”.&lt;/f11&gt;&lt;f12&gt;56&lt;/f12&gt;+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because of this, they cannot unite with the ruling Party, the state power, and the primary forces that are leading the people forward and thereby bring their great ability to bear.”&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221424Z" creationid="Usuario-Pc" creationdate="20160905T221424Z">
+        <seg>Por esa razón, no se pueden unir al Partido gobernante, el poder estatal y las fuerzas más importantes que llevan adelante a la población y hacen uso de su gran habilidad”.&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3291,6 +3299,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T235432Z" creationid="Usuario-Pc" creationdate="20160904T234030Z">
         <seg>A diferencia del Mao conocido por el mundo Occidental y  los antiguos intelectuales de China, Wang lo describe como un líder caritativo e idialista, un lider a veces envuelto en sentimentalismo &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In striking contrast to the Mao who is known to the West and older intellectuals in China, Wang depicts him as a benevolent, idealistic leader, one even given at times to sentimen-talism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221530Z" creationid="Usuario-Pc" creationdate="20160905T221530Z">
+        <seg>A diferencia del Mao conocido por mundo Occidental y los antiguos intelectuales de China, Wang lo presenta como un líder caritativo e idealista, y a veces envuelto en sentimentalismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6463,6 +6479,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044313Z" creationid="PC" creationdate="20160904T044313Z">
         <seg>Wang Guangze, un periodísta del 21st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang describes Mao as having been “like a good and patient family head, thinking of the whole country as a ‘large family’.” He also declares that “Mao was a god, and people are perhaps only beginning to understand him several years later.”&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; Mao’s initiation of the Cultural Revolution is depicted as the effort of an idealist to overcome the gap between the com-mon people and officials; his motive was to pre-empt the political crises&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221732Z" creationid="Usuario-Pc" creationdate="20160905T221732Z">
+        <seg>Wang describe la figura de Mao "como un jefe de familia bueno y paciente, que considera al país entero como una 'gran familia' ”. También expresa que "Mao era un Dios, y que la gente comienza a  comprenderlo varios años mas tarde".&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; El inicio de la  Revolución Cultural por parte de Mao esta representado como el esfuerzo de un idealista para destruir la brecha entre la gente común y los oficiales; su motivo principal era prevenir las crisis políticas &lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
