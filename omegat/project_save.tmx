@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -378,6 +378,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T014423Z" creationid="Flor" creationdate="20160902T014423Z">
         <seg>&lt;f0&gt;A pesar de que en el&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;capítulo anterior&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;se expusieron las mayores diferencias entre la Nueva Izquierda y los liberales, el enfoque se puso en mayor parte sobre las distintas maneras que tienen de ver el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;As the struggle for dominance in the spring of 1992 would show, Deng had (or had regained) enough authority to force nominal compliance with his wishes but not enough to immediately subdue opposition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014352Z" creationid="Soledad Mori" creationdate="20160905T014352Z">
+        <seg>&lt;f0&gt;Como la lucha por el dominio en la primavera de 1992 lo demostraría, Deng tenía (o había recuperado) la autoridad suficiente para imponer la obediencia nominal con sus deseos. No obstante no poseía la autoridad suficiente para someter a la oposición. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2871,6 +2879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In such a contest, the advantages of being “core,” ambiguous as they were, would eventually secure the victory for Deng, but his opponents would not yield without staunch resistance.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014608Z" creationid="Soledad Mori" creationdate="20160905T014608Z">
+        <seg>.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In sum, as &lt;t0/&gt;government&lt;t1/&gt; leaders and their advisers have become better educated and more specialized, the distance between them and the broader intellectual community has both narrowed and broadened.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T164205Z" creationid="Nico" creationdate="20160904T164205Z">
@@ -4877,8 +4893,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The effort was to turn Deng into the titular leader of the Party, much as Liu Shaoqi and Deng himself may have hoped to do to Mao in the early 1960s.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014256Z" creationid="Soledad Mori" creationdate="20160905T014256Z">
-        <seg>El esfuerzo estaba concentrado en convertir a Deng en el líder nominal del Partido.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014305Z" creationid="Soledad Mori" creationdate="20160905T014256Z">
+        <seg>El esfuerzo estaba concentrado en convertir a Deng en el líder nominal del Partido. . Esto era lo mismo que Liu Shaoqi y Deng mismo habrían esperado hacer con Mao a principios de la década de 1960.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5599,6 +5615,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044453Z" creationid="PC" creationdate="20160904T044453Z">
         <seg>Pekín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike in the spring of 1991, when Deng had backed off from a decisive confrontation with his opponents, in 1992 – with the &lt;/f0&gt;&lt;f1&gt;Fourteenth Party Congress&lt;/f1&gt;&lt;f2&gt; looming on the horizon – Deng was determined to raise the stakes to the level of a contest for Party leadership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014549Z" creationid="Soledad Mori" creationdate="20160905T014549Z">
+        <seg>A diferencia de la primavera de 1991, cuando Deng había desistido de tener una confrontación decisiva con sus opositores, en 1992 (con el  &lt;/f0&gt;&lt;f1&gt;XIV Congreso Nacional del Partido Comunista&lt;/f1&gt;&lt;f2&gt; asomándose en el horizonte) Deng estaba decisido a arriesgarse en la lucha por el liderazgo del Partido.</seg>
       </tuv>
     </tu>
     <tu>
