@@ -2953,8 +2953,8 @@
       <tuv lang="EN-US">
         <seg>In 1957, Wang declares, intellectuals went too far.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011303Z" creationid="Usuario-Pc" creationdate="20160904T011303Z">
-        <seg>En 1957 Wang declara que los intelectuales fueron demasiado lejos.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T215725Z" creationid="Usuario-Pc" creationdate="20160904T011303Z">
+        <seg>En 1957, declara Wang, los intelectuales fueron demasiado lejos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4043,6 +4043,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011405Z" creationid="Usuario-Pc" creationdate="20160904T011405Z">
         <seg>Mao queria establecer &lt;/f4&gt;&lt;bs5/&gt;&lt;f6&gt; una campaña de rectificación de "puertas abiertas"&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;be8/&gt;&lt;f9&gt; para controlar el desenfrenado poder de los burócratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mao wanted an “open door” rectification campaign in order to check the unbridled power of the bureaucrats.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T215754Z" creationid="Usuario-Pc" creationdate="20160905T215754Z">
+        <seg>Mao quería establecer una campaña de rectificación de "puertas abiertas" para controlar el desenfrenado poder de los burócratas.</seg>
       </tuv>
     </tu>
     <tu>
