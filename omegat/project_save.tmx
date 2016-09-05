@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -202,6 +202,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011249Z" creationid="USER" creationdate="20160905T011249Z">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;En 1980, Wang Daohan se lo nombró como intendente de Shanghái y se recomendó que Jiang tomara su posición en la Comisión del Estado de Dirección de Importaciones y Exportaciones, y de la Comisión de la Dirección del Estado de Inversiones Extranjeras, órganos que eran responsables por Zonas Económicas Especiales en las provincias recién establecidas de Guangdong y Fujian. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;In &lt;s3/&gt;short, &lt;s4/&gt;Jiang’s &lt;s5/&gt;career &lt;s6/&gt;was &lt;s7/&gt;one &lt;s8/&gt;of &lt;s9/&gt;steady &lt;s10/&gt;promotions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011439Z" creationid="USER" creationdate="20160905T011439Z">
+        <seg>En poco tiempo, la carrera de Jiang fue en constante ascenso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T212202Z" creationid="PC" creationdate="20160904T212202Z">
         <seg>He Qinglian llamó a la venta de tierra (la mayoría de las cuales habían sido previamente un activo desvalorado) como “el movimiento de cercamiento” de China, en referencia al movimiento inglés del siglo XVII del mismo nombre.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s11/&gt;His &lt;s12/&gt;ability &lt;s13/&gt;to resume &lt;s14/&gt;his &lt;s15/&gt;career &lt;s16/&gt;in &lt;s17/&gt;1971 &lt;s18/&gt;re&lt;/f1&gt;&lt;/f0&gt;ﬂ&lt;f19&gt;&lt;f20&gt;ects &lt;s21/&gt;both &lt;s22/&gt;his &lt;s23/&gt;junior &lt;s24/&gt;status &lt;s25/&gt;and &lt;s26/&gt;his &lt;s27/&gt;technical credentials.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011454Z" creationid="USER" creationdate="20160905T011454Z">
+        <seg>La habilidad de continuar con su carrera en 1971 refleja tanto su estado juvenil como sus credenciales técnicas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2495,6 +2511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 1985, again with Wang Daohan’s support, Jiang was named mayor of Shanghai.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011341Z" creationid="USER" creationdate="20160905T011341Z">
+        <seg>En 1985, nuevamente con el respaldo de Wang Daohan, Jiang fue nombrado intendente de Shanghái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1989, Deng could use his core status to stress continuity and to dominate decisions on leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160902T212652Z" creationid="bluebird" creationdate="20160902T212440Z">
@@ -3259,6 +3283,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T215214Z" creationid="Bruno Cesar" creationdate="20160904T214549Z">
         <seg>Censurando con dureza la caída de la autoridad central que había resultado de más de una decada de delegar el poder económico, Chen llamó a una "nueva centralización" para resolver la emergencia de los "señores feudales" y "esta desintegración del macrocontrol".   8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Later, as mayor and then Party secretary of Shanghai, Jiang had many opportunities to host the top leadership when they visited Shanghai.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011535Z" creationid="USER" creationdate="20160905T011535Z">
+        <seg>Luego, como intendente y como, más tarde, secretario del partido de Shanghái, Jiang tuvo muchas oportunidades para tener el liderazgo más alto cuando visitaron Shanghái. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4488,6 +4520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That he was able to survive in the Ministry of Machine Building in the 1970s no doubt re&lt;/f20&gt;&lt;/f19&gt;ﬂ&lt;f28&gt;&lt;f29&gt;ects his cautious nature, something that might have cost him further promotion in the &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;reform &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;era if he had not been technically trained and not had the support of patrons such as Wang Daohan.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011519Z" creationid="USER" creationdate="20160905T011519Z">
+        <seg>Su habilidad para sobrevivir en el Ministerio de Construcción de Maquinaria en los años ’70 refleja sin dudas su naturaleza prudente, lo cual le pudo haber costado más ascensos en la era de la reforma si no se hubiera entrenado en el área técnica y no hubiese tenido el respaldo de patrocinadores como Wang Daohan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s why they have no money to pay the peasants.” Thus, the speculation in coastal real estate exacerbated tensions in the countryside</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T215055Z" creationid="PC" creationdate="20160904T215055Z">
@@ -5279,6 +5319,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T125020Z" creationid="usuario" creationdate="20160903T125020Z">
         <seg>Dos aspectos fueron centrales al conflicto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two years later, at the CCP’s Thirteenth Congress, Jiang Zemin was named as Shanghai CCP secretary and concurrently a member of the &lt;/f4&gt;&lt;/f3&gt;&lt;f25&gt;&lt;f26&gt;Politburo.&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011356Z" creationid="USER" creationdate="20160905T011356Z">
+        <seg>Dos años después, en el Trigésimo tercer Congreso del PCCh, Jiang Zemin fue nombrado como el secretario del PCCh de Shanghái y posteriormente un miembro del Politburó.&lt;/f26&gt;&lt;/f25&gt;</seg>
       </tuv>
     </tu>
     <tu>
