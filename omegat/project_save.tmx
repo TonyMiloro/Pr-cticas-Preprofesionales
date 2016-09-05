@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1921,8 +1921,8 @@
       <tuv lang="EN-US">
         <seg>Deng might have added that the choice of either one would have decisively shifted the balance of the Party; maintaining balance – albeit with a bias toward reform – was the only way to maintain both a semblance of stability within the Party and the continuation of Deng’s line of reform and opening up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T020934Z" creationid="bluebird" creationdate="20160905T020934Z">
-        <seg>Deng debió agregar que la elección de alguno de ellos hubiera alterado decisivamente el balance del Partido; mantener el balance - - era la única forma de mantener un semblante de estabilidad dentro del Partido y la continuidad de la línea de reforma y desarrollo de Deng.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T021209Z" creationid="bluebird" creationdate="20160905T020934Z">
+        <seg>Deng debió agregar que elegir a alguno de ellos hubiera alterado decisivamente el balance del Partido; mantener el balance - - era la única forma de mantener un semblante de estabilidad dentro del Partido y la continuidad de la línea de reforma y desarrollo de Deng.</seg>
       </tuv>
     </tu>
     <tu>
