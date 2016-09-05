@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4802,8 +4802,8 @@
       <tuv lang="EN-US">
         <seg>Stability and continuity seemed to be the order of the day, but – in his eulogy at Deng’s funeral – Jiang dropped a hint that he had something more than mere continuity in mind.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T172231Z" creationid="LENOVO" creationdate="20160905T163242Z">
-        <seg>La estabilidad y la ontinuidad estaban a la orden del día pero, en su elogio durante el funeral de Deng, Jiang  </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T172718Z" creationid="LENOVO" creationdate="20160905T163242Z">
+        <seg>La estabilidad y la ontinuidad estaban a la orden del día pero, en su elogio durante el funeral de Deng, Jiang  dio una pista de que no sólo tenía en mente una simple continuidad.  </seg>
       </tuv>
     </tu>
     <tu>
