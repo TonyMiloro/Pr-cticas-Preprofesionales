@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1209,8 +1209,8 @@
       <tuv lang="EN-US">
         <seg>As we saw in Chapter 8, Hu Jintao's succession to power was smooth by historical standards but not without friction.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T174952Z" creationid="Mariela" creationdate="20160905T174952Z">
-        <seg>Como ya hemos visto en el capítulo 8, la sucesión el poder</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T175612Z" creationid="Mariela" creationdate="20160905T174952Z">
+        <seg>Como ya hemos visto en el capítulo 8, la sucesión al poder se llevó a cabo sin problemas debido a las normas históricas pero no sin roces. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1799,6 +1799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contestation was inevitable given that Jiang surrounded Hu with many of his (Jiang's) own prot&lt;f0&gt;égés.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T180059Z" creationid="Mariela" creationdate="20160905T180059Z">
+        <seg>La disputa era inevitable ya que Jiang rodeaba a Hu con muchos de sus protegidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conversely, extreme alienation exacerbates political tensions, while cynicism undermines the effectiveness of nascent institutions.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T045606Z">
@@ -2073,8 +2081,8 @@
       <tuv lang="EN-US">
         <seg>Despite the seeming long odds of holding onto power, Jiang managed to maneuver, build coalitions, and gradually consolidate his power.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T000801Z" creationid="Mariela" creationdate="20160904T235219Z">
-        <seg>A pesar de las pocas probabilidades de permanecer en el poder, Jiang logró relizar maniobras, formar coaliciones y consolidar su poder de manera gradual. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T180122Z" creationid="Mariela" creationdate="20160904T235219Z">
+        <seg>A pesar de las pocas probabilidades de permanecer en el poder, Jiang logró realizar maniobras, formar coaliciones y consolidar su poder de manera gradual. </seg>
       </tuv>
     </tu>
     <tu>
