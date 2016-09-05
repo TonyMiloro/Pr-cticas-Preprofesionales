@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6403,6 +6403,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang was not an intellectual, at least not in the sense of belonging to those in government, think-tanks, and universities who thought and wrote for each other.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160905T214313Z" creationid="Backup" creationdate="20160905T214313Z">
+        <seg>Wang no era un intelectual, al menos no en el sentido de pertenecer a los intelectuales del gobierno, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang went to Shanxi province in 1968, where he labored in the fields for a year before going to work in a coal mine.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160902T134302Z" creationid="Backup" creationdate="20160902T134302Z">
@@ -6413,8 +6421,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>We have cited the views of many people who had begun to reconsider the course of reform beginning in the 1990s, but such doubts – even the discussions of the new authoritarianism – were carried out in intellectual and political circles.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160905T213924Z" creationid="Backup" creationdate="20160905T213924Z">
-        <seg>Hemos citado las perspectivas de muchas personas que habían empezado a reconsiderar el curso de la reforma que comenzó en los 90, pero esas dudas -incluso el análisis del nuevo autoritorianismo- </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160905T214033Z" creationid="Backup" creationdate="20160905T213924Z">
+        <seg>Hemos citado las perspectivas de muchas personas que habían empezado a reconsiderar el curso de la reforma que comenzó en los 90, pero esas dudas -incluso el análisis del nuevo autoritorianismo- ocurrieron en círculos intelectuales y politicos. </seg>
       </tuv>
     </tu>
     <tu>
