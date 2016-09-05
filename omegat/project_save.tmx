@@ -1113,8 +1113,8 @@
       <tuv lang="EN-US">
         <seg>An incident had the possibil-ity of evolving into a destructive riot.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011805Z" creationid="Usuario-Pc" creationdate="20160904T011805Z">
-        <seg> Un pequeño incidente podía llegar a conventirse en una revuelta intensa.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T220844Z" creationid="Usuario-Pc" creationdate="20160904T011805Z">
+        <seg>Cualquier incidente, por más pequeño que sea, podía llegar a convenirse en una revuelta intensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5943,6 +5943,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015835Z">
         <seg>Hubo momentos en los que se vieron pequeños avances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thereupon, Mao could not but take action.”&lt;/f4&gt;&lt;f5&gt;55&lt;/f5&gt;&lt;f6&gt; The intellectuals, like the peasants, were not worthy of Mao.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T220934Z" creationid="Usuario-Pc" creationdate="20160905T220934Z">
+        <seg>Por lo tanto, Mao no podía hacer nada más que actuar”.&lt;/f4&gt;&lt;f5&gt;55&lt;/f5&gt;&lt;f6&gt;Los intelectuales, al igual que los campesinos, no eran dignos de Mao. </seg>
       </tuv>
     </tu>
     <tu>
