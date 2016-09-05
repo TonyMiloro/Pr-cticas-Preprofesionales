@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4688,6 +4688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>President Clinton endorsed this approach not only in his acceptance speech (not “coddl[ing] dictators, from Baghdad to Beijing”) but also in his 1993 trip to Japan and South Korea.30</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T211326Z" creationid="Rocio" creationdate="20160905T211326Z">
+        <seg>El presidente Clinton endorsed this approach not only in his acceptance speech (not “coddl[ing] dictators, from Baghdad to Beijing”) but also in his 1993 trip to Japan and South Korea.30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Probing new intellectual currents and the reasons they have emerged can tell us much about contemporary China, the social problems the state faces, the way social critics see the state, and the issues that arouse political passion and provoke engagement.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T020532Z">
@@ -6013,8 +6021,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This was particularly the case when President Bush and National Security Adviser Brent Scowcroft, both schooled in realpoli-tik, left Washington to be replaced by people with a much more activist approach to human rights, including Anthony Lake, Secretary of State Warren Christopher, and Undersecretary of State for East Asian and Pacific Affairs Winston Lord.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T210350Z" creationid="Rocio" creationdate="20160905T205701Z">
-        <seg>Este fue particularmente el caso cuando el presidente Bush y el Asosor de Seguridad Nacional  Brent Scowcroft, ambos educados en realpoli-tik, dejaron Washington para ser reemplazados por gente con un enfoque mucho más activista sobre los derechos humanos como Anthony Lake,  el Secretario de Estado Warren Christopher y Undersecretary of State for East Asian and Pacific Affairs Winston Lord.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T211305Z" creationid="Rocio" creationdate="20160905T205701Z">
+        <seg>Este fue particularmente el caso cuando el presidente Bush y el Asosor de Seguridad Nacional Brent Scowcroft, ambos educados en realpoli-tik, dejaron Washington para ser reemplazados por gente con un enfoque mucho más activista sobre los derechos humanos como Anthony Lake, el Secretario de Estado Warren Christopher y Subsecretario de Estado para Asuntos de Asia Oriental y el Pacífico Winston Lord.</seg>
       </tuv>
     </tu>
     <tu>
