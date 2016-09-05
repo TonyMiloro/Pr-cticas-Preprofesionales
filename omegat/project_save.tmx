@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -522,6 +522,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160902T215254Z" creationid="usuario" creationdate="20160902T215254Z">
         <seg>&lt;f0&gt;la decentralización había conducido a una constante disminución de los ingresos como un porcentaje de la renta nacional y como un porcentaje de todos los ingresos del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;that certainly would have erupted from such an &lt;/f0&gt;&lt;f1&gt;elitist system &lt;/f1&gt;&lt;f2&gt;by bringing about a &lt;/f2&gt;&lt;f3&gt;non-bureaucratic&lt;/f3&gt;&lt;f4&gt;, classless, and democratic society.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T000743Z" creationid="Usuario-Pc" creationdate="20160905T000743Z">
+        <seg>&lt;f0&gt;que sin duda iba a desencadenarse de un  &lt;/f0&gt;&lt;f1&gt;sistema tan elitista&lt;/f1&gt;&lt;f2&gt;by bringing about a &lt;/f2&gt;&lt;f3&gt;non-bureaucratic&lt;/f3&gt;&lt;f4&gt;, classless, and democratic society.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1379,6 +1387,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T044117Z" creationid="USUARIO" creationdate="20160903T190304Z">
         <seg>Es posible que China emerja como una nación democrática, pero, de ser ese el caso, el camino será mucho más extenso y complicado de lo que se asumía con tanta seguridad a principios de la década de los 909. Contrariamente a esas expectativas occidentales, una gran cantidad de intelectuales en China desarrollaron concepciones de su sociedad y del orden internacional muy diferentes a las que los intelectuales de Occidente asumían que tenían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China since Tiananmen</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T000558Z" creationid="Usuario-Pc" creationdate="20160905T000558Z">
+        <seg>China desde Tiananmén</seg>
       </tuv>
     </tu>
     <tu>
@@ -5103,6 +5119,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044313Z" creationid="PC" creationdate="20160904T044313Z">
         <seg>Wang Guangze, un periodísta del 21st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang describes Mao as having been “like a good and patient family head, thinking of the whole country as a ‘large family’.” He also declares that “Mao was a god, and people are perhaps only beginning to understand him several years later.”&lt;/f2&gt;&lt;f3&gt;57&lt;/f3&gt;&lt;f4&gt; Mao’s initiation of &lt;/f4&gt;&lt;f5&gt;the Cultural Revolution &lt;/f5&gt;&lt;f6&gt;is depicted as the effort of an idealist to overcome the gap between the com-mon people and officials; his motive was to pre-empt the political crises&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T000611Z" creationid="Usuario-Pc" creationdate="20160905T000016Z">
+        <seg>Wang describe a Mao como alguien que ha sido "como un jefe de familia bueno y paciente, quien considera al pais entero como una 'gran familia'”. Tambien expresa que "Mao era un Dios, y que quizas la gente comienza a comprenderlo varios años mas tarde". &lt;/f2&gt;&lt;f3&gt;57&lt;/f3&gt;&lt;f4&gt;La iniciación de la Revolución Cultural por parte de Mao &lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;esta representada como el esfuerzo de un idealista para destruir la brecha entre la gente comun y los oficiales; su motivo principal era prevenir la crisis política &lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
