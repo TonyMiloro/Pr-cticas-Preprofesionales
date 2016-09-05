@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Ne&lt;/f0&gt;&lt;f1&gt;vertheless, Zhu had been given a chance to develop a bureaucratic apparatus.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T015004Z" creationid="Administrador" creationdate="20160905T015004Z">
+        <seg>&lt;f0&gt;Sin&lt;/f0&gt;&lt;f1&gt;vertheless, Zhu had been given a chance to develop a bureaucratic apparatus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;One major success for Deng in the spring of 1991 was the elevation of Zhu Rongji to the position of vice-premier during the annual session of the NPC – thou&lt;/f0&gt;&lt;f1&gt;gh his elevation was balanced by the simultaneous selection of the conservative Zou Jiahua as another vice-premier.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T222607Z" creationid="Administrador" creationdate="20160904T222217Z">
@@ -5966,8 +5974,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Zou maintained his position as a vice-premier and head of the SPC (until 1993), but his influence in policy circles was beginning to fade despite his subsequent elevation to the Politburo (but not its Standing Committee) in 1992.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T014923Z" creationid="Administrador" creationdate="20160905T014650Z">
-        <seg>Zhu se mantuvo en su cargo como viceprimer ministro y al frente de la CEPD (hasta 1993), pero su influencia en los círculos políticos comenzaba a desvanecerse, a pesar de su posterior ascenso al Politburó (pero no al Comité Permanente).&lt;/f9&gt;</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T014935Z" creationid="Administrador" creationdate="20160905T014650Z">
+        <seg>Zhu se mantuvo en su cargo como viceprimer ministro y al frente de la CEPD (hasta 1993), pero su influencia en los círculos políticos comenzaba a desvanecerse, a pesar de su posterior ascenso al Politburó (pero no al Comité Permanente) en 1992.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
