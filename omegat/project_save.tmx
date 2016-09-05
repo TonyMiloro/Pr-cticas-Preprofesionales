@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2555,6 +2555,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T185740Z">
         <seg> Sin embargo, durante la mayor parte de la década de los noventa, el pensamiento liberal fue marginado en gran medida del discurso público, exceptuando el plano económico, que seguía siendo influenciado por pensamientos liberales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, his well-known hardline response to the student demonstrations undoubtedly disqualiﬁed him – as was the case with Li Peng and Yao Yilin.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T023604Z" creationid="bluebird" creationdate="20160905T023604Z">
+        <seg>Sin embargo, su conocida reacción hacia la manifestación de los estudiantes indudablemente lo descalificó - como ocurrió en el caso de Li Peng y Yao Yilin.</seg>
       </tuv>
     </tu>
     <tu>
