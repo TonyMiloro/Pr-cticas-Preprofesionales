@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3505,8 +3505,8 @@
       <tuv lang="EN-US">
         <seg>Jiang quoted Deng as saying (when he returned to power in the late1970s) that there are two possible attitudes: “One is to act as a bur&lt;t0/&gt;eaucrat, the other is to work.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T173456Z" creationid="LENOVO" creationdate="20160905T172915Z">
-        <seg>Jiang  Deng as saying (cuando regresó al poder al final de os 70) que hay dos posibles actitudes: “una es actuar como un &lt;t0/&gt;burócrata, la otra es  the other is to work.”</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T173726Z" creationid="LENOVO" creationdate="20160905T172915Z">
+        <seg>Jiang citó a Deng manifestando (cuando regresó al poder al final de los 70) que hay dos posibles actitudes: “una es actuar como un &lt;t0/&gt;burócrata, la otra es trabajar/funcionar/servir”.</seg>
       </tuv>
     </tu>
     <tu>
