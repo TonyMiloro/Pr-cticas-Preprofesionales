@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3751,6 +3751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just as Chen and Li were Party secretaries of Beijing and Tianjin, respec- tively, Jiang Zemin was secretary of China’s largest city, Shanghai.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T195847Z" creationid="bluebird" creationdate="20160905T195847Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just as important, the professionalization of the bureaucracy turned some intellectuals into technocrats; others turned to academic specializations, giving up to some extent the traditional role of social critic.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184658Z">
@@ -3817,8 +3825,8 @@
       <tuv lang="EN-US">
         <seg>Li Ruihuan was another possibility, but his weak educational background no doubt eliminated him as a serious contender.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T195440Z" creationid="bluebird" creationdate="20160905T025920Z">
-        <seg>Li Ruihuan era otra opción, pero su formación limitada .</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T195837Z" creationid="bluebird" creationdate="20160905T025920Z">
+        <seg>Li Ruihuan era otra opción, pero su formación limitada sin duda lo descalificó como un serio aspirante.</seg>
       </tuv>
     </tu>
     <tu>
