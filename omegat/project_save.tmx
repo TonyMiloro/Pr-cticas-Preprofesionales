@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6758,8 +6758,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>with considerable skill to articulate his own ideology and begin to promote people from his own power base, the Communist Youth League (CYL).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T180527Z" creationid="Mariela" creationdate="20160905T180459Z">
-        <seg>con una gran habidad con el fin de articular su propia ideología  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T181114Z" creationid="Mariela" creationdate="20160905T180459Z">
+        <seg>con una gran habidad con el fin de, por un lado, articular su propia ideología y, por el otro, promover gente de su misma base del poder; es decir, la Liga de la Juventud Comunista (CYL).  </seg>
       </tuv>
     </tu>
     <tu>
