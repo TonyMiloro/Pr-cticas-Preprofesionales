@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4396,6 +4396,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T132404Z" creationid="usuario" creationdate="20160903T132404Z">
         <seg>Las autoridades provinciales se esforzaron por promover (y ocultar) esos fondos, y no cederían de manera voluntaria sus intereses económicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Qiao seems not to have been the power player that his background in intelligence led many to believe he was, and in any case he was too close to Zhao Ziyang to satisfy conservatives.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T022524Z" creationid="bluebird" creationdate="20160905T022524Z">
+        <seg>Qiao no parecia ser el jugador estratégico que por su formación muchos creía que era y de todos modos él era muy cercano a Zhao Ziyang para complacer a los conservadores.</seg>
       </tuv>
     </tu>
     <tu>
