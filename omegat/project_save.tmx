@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1699,6 +1699,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233033Z" creationid="Administrador" creationdate="20160904T232800Z">
         <seg>A pesar de las presiones,&lt;/f3&gt;&lt;f5&gt;Zhu se negó a declarar la ley marcial en la ciudad; en cambio, optó por organizar los piquetes de los trabajadores para restaurar el orden. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite the growth of market forces, cultivating relations with political leaders continues to be an important part of business life in China – and sometimes a short cut to great wealth.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T000433Z" creationid="rona" creationdate="20160905T000128Z">
+        <seg>A pesar del crecimiento de las fuerzas del mercado, cultivar relaciones con líderes políticos pasó a ser una parte importante de la vida empresarial en China - y algunas veces un atajo .</seg>
       </tuv>
     </tu>
     <tu>
