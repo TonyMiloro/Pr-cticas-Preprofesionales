@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1195,6 +1195,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160903T210835Z" creationid="User" creationdate="20160903T210526Z">
         <seg>Como hemos &lt;t16/&gt; &lt;t17/&gt;visto, rápidamente le dio más importance a el SETC que a otros intereses burocráticos; &lt;t18/&gt; &lt;t19/&gt;también debilitó la autoridad de los vice-ministros, incluído Li&lt;t20/&gt; &lt;t21/&gt;Lanqing&lt;t22/&gt;, que tenían buena relación con Jiang &lt;t23/&gt;Zemin&lt;t24/&gt; y Li &lt;t25/&gt;Peng&lt;t26/&gt; y&lt;t27/&gt; &lt;t28/&gt;que fueron propuestos como posibles candidatos a primer ministro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As we saw in Chapter 8, Hu Jintao's succession to power was smooth by historical standards but not without friction.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T174952Z" creationid="Mariela" creationdate="20160905T174952Z">
+        <seg>Como ya hemos visto en el capítulo 8, la sucesión el poder</seg>
       </tuv>
     </tu>
     <tu>
