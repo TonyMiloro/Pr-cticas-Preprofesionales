@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4717,8 +4717,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The poor may be becoming less poor, but they are doing so only slowly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T005334Z" creationid="rona" creationdate="20160905T005334Z">
-        <seg>La situación de los pobres puede estar mejorando, pero sucede lentamente.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T010251Z" creationid="rona" creationdate="20160905T005334Z">
+        <seg>LA SITUACION DE LOS POBRES PUEDE ESTAR MEJORANDO, pero sucede lentamente.</seg>
       </tuv>
     </tu>
     <tu>
