@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5247,6 +5247,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173513Z">
         <seg>El ataque a la tradición de la iluminación 113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first and arguably most critical point of decision came in March, when a draft of Jiang’s report to the Fifteenth Party Congress was circulated among officials for comment.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T180607Z" creationid="LENOVO" creationdate="20160905T180607Z">
+        <seg>la primera y The first and arguably most critical point of decision came in March, when a draft of Jiang’s report to the Fifteenth Party Congress was circulated among officials for comment.</seg>
       </tuv>
     </tu>
     <tu>
