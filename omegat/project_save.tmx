@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4265,8 +4265,8 @@
       <tuv lang="EN-US">
         <seg>Not long after Fukuyama (a former member of the Policy Planning Staff at the Department of State) pronounced ideological victory, Anthony Lake, National Security Adviser in the first Clinton administration, gave his</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T202645Z" creationid="Rocio" creationdate="20160905T202335Z">
-        <seg>Poco después de que Fukuyama (ex miembro del (grupo)  Planificación de Políticas del Departamento de Estado) pronunció la victoria ideológica, Anthony Lake, Asesor en Seguridad Nacional en la primera administraciónde Clinton dio su</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T202719Z" creationid="Rocio" creationdate="20160905T202335Z">
+        <seg>Poco después de que Fukuyama (ex miembro del (grupo)  Planificación de Políticas del Departamento de Estado) pronunció la victoria ideológica, Anthony Lake, Asesor en Seguridad Nacional en la primera administraciónde Clinton, dio su</seg>
       </tuv>
     </tu>
     <tu>
@@ -7008,6 +7008,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045607Z" creationid="PC" creationdate="20160904T045607Z">
         <seg>a veinte años por filtrar secretos de estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>well-known speech on “democratic enlargement” at the School of Advanced International Studies of Johns Hopkins University.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T203024Z" creationid="Rocio" creationdate="20160905T203024Z">
+        <seg>reconocido discurso sobre "la ampliación democrática" en de la Universidad de  Johns Hopkins.</seg>
       </tuv>
     </tu>
     <tu>
