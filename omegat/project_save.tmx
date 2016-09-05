@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3179,6 +3179,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T223043Z" creationid="Pablo" creationdate="20160903T223043Z">
         <seg>En julio se informó que Zhu Junyi, el director de la oficina, había sido acusado de recibir sobornos y por el uso indebido de fondos - casi tres billones de yuanes (cerca de USD 400 millones).&lt;t0/&gt;118&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In June 1989, a shaken and divided Party leadership tried to begin the process of reconstituting itself while sorting out how its domestic and foreign policies should or should not be changed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T235641Z" creationid="bluebird" creationdate="20160905T235341Z">
+        <seg>En junio de 1989, el liderazgo de un Partido sacudido y dividido trataba de comenzar con el proceso de reconstitución mientras intentaban definir cómo debían o no debían cambiar las políticas internas y externas.</seg>
       </tuv>
     </tu>
     <tu>
