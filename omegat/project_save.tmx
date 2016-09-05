@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
         <seg>(1115)Deng declared the Tiananmen incident to be “the inevitable result of the domestic microclimate  and  the  international  macroclimate.” This sense that Tiananmen was inﬂuenced (if not instigated) by outside forces raised the issue of readjusting China’s relations with the outside world, particularly the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T205502Z" creationid="bluebird" creationdate="20160905T203513Z">
-        <seg>(1115)Deng denominó el incidente Tiananmen "el resultado inevitable del microclima doméstico y del macroclima internacional". El hecho de que Tiananmen fue influenciado (si no instigada) por fuerzas extrajeras introdujo el tema de  .</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T205658Z" creationid="bluebird" creationdate="20160905T203513Z">
+        <seg>(1115)Deng denominó el incidente Tiananmen "el resultado inevitable del microclima doméstico y del macroclima internacional". El hecho de que Tiananmen fue influenciado (si no instigada) por fuerzas extrajeras introdujo el tema de reajustar las relaciones de China con el resto del mundo, en especial con Estados Unidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5511,6 +5511,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160827T002806Z">
         <seg>La interacción entre el estado y la opinión pública es compleja, sutil y a veces complicada a la vista de terceros; sin embargo, es un aspecto importante del proceso político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The issue of China’s relations with the outside world has continued to intrude into Chinese domestic politics throughout the post-Tiananmen period as ﬁrst Eastern Europe and then the Soviet Union rejected communism, as relations with the United States remained generally strained through much of the 1990s, and as closer ties with East Asia have suggested alternative development models.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T205929Z" creationid="bluebird" creationdate="20160905T205929Z">
+        <seg>La cuestion con las realciones de China con el resto del mundo continúa interviniendo en las políticas internas chinas a lo largo del periodo pos-Tiananmen como .</seg>
       </tuv>
     </tu>
     <tu>
