@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;TROUBLE FROM THE&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;RIGHT&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160905T195912Z" creationid="marcelo lavarda" creationdate="20160905T195912Z">
+        <seg>PROBLEMAS DESDE LA DERECHA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The Fourth Plenary Session of the Fourteenth Central Committee convened in Beijing on September 25–28, 1994.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232757Z">
