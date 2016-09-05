@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2139,6 +2139,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224911Z" creationid="Usuario" creationdate="20160902T224748Z">
         <seg>E-P3 de los EE. UU en las costas de Hainan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Early neoconservative articles tried to explore a path that differed both in economic and political terms from the 1980s discourse of orthodoxy ver-sus reform and centralization versus decentralization; likewise, the revival of interest in national studies and New Left critiques tried to carve out a path between “socialism” and “Westernization.” This was a question both of political legitimacy – was the Chinese revolution wrong from the very start?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T191947Z" creationid="Rocio" creationdate="20160905T191947Z">
+        <seg>Los primeros artículos neoconservadores trataron de hallar un camino que se diferenciara en términos económicos y políticos del discurso de los 80 de ortodoxia versus reforma y centralización versus descentralización, asimismo, </seg>
       </tuv>
     </tu>
     <tu>
@@ -5028,6 +5036,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010456Z" creationid="Usuario" creationdate="20160902T010456Z">
         <seg>Verano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T H E R E S P O N S E TO H U N T I N G TO N</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T191459Z" creationid="Rocio" creationdate="20160905T191459Z">
+        <seg>LA RESPUESTA A HUNTINGTON </seg>
       </tuv>
     </tu>
     <tu>
