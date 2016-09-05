@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4251,6 +4251,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020747Z" creationid="Soledad Mori" creationdate="20160905T020747Z">
         <seg>No obstante. el sistema de propaganda limitó la circulación del documento&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not long after Fukuyama (a former member of the Policy Planning Staff at the Department of State) pronounced ideological victory, Anthony Lake, National Security Adviser in the first Clinton administration, gave his</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T202645Z" creationid="Rocio" creationdate="20160905T202335Z">
+        <seg>Poco después de que Fukuyama (ex miembro del (grupo)  Planificación de Políticas del Departamento de Estado) pronunció la victoria ideológica, Anthony Lake, Asesor en Seguridad Nacional en la primera administraciónde Clinton dio su</seg>
       </tuv>
     </tu>
     <tu>
