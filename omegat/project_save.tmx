@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1015,6 +1015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although Ishihara’s book can be seen as the opening shot in this debate, the debate over Asian values accelerated following the end of the Cold War.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T200525Z" creationid="Rocio" creationdate="20160905T200525Z">
+        <seg>Aunque el libro de Ishihara se puede tomar como punto de partida en el debate, el debate sobre los valores asiáticos se incrementó luego del fin de la Guerra Fría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although by 1993 there were many art&lt;t0/&gt;icles that expressed nationalis&lt;t1/&gt;tic sentiments, few journals took on the topic of nationalism directly and openly.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T220006Z" creationid="Andrea-Leonardo" creationdate="20160903T215526Z">
@@ -1419,6 +1427,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T010636Z" creationid="Usuario" creationdate="20160902T010636Z">
         <seg>3 de agosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Barely had the Cold War ended when Francis Fukayama published his controversial 1989 article (and later book), “The End of History.”28 Fukayama argued that, with the disintegration of the Soviet Union and collapse of Marxism–Leninism, the last great ideological debate of modern history had come to a close: the West had won.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T200744Z" creationid="Rocio" creationdate="20160905T200744Z">
+        <seg>Fue apenas había terminado la Guerra Fría que Francis Fukayama publicó su controversial artículo en 1989 (y posterior libro), “The End of History.”28 Fukayama argued that, with the disintegration of the Soviet Union and collapse of Marxism–Leninism, the last great ideological debate of modern history had come to a close: the West had won.</seg>
       </tuv>
     </tu>
     <tu>
