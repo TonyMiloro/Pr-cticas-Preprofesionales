@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5295,6 +5295,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T133833Z" creationid="usuario" creationdate="20160903T133420Z">
         <seg>A lo largo de los 80, Deng emergió como el campeón de tasas de crecimiento mayores, no solo porque los logros económicos de China reflejarían de manera favorable su propio liderazgo y lugar en la historia si no también porque él creía que, mientras la economía se desarrollara, los conflictos políticos y sociales serían resueltos más fácilmente, reduciendo así la posibilidad de que maores conflictos pudieran conducir a otra Revolución Cultural.&lt;/f3&gt;&lt;f5&gt;80&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;De este modo, en la víspera de la Conferencia de Trabajo Económico, Deng envió a Yang Shangkun a hablar con algunos líderes provinciales como Zhu Rongji  Ye Xuannping para hacerles saber que contaban con su apoyo en su oposición a Li Peng.&lt;/f6&gt;&lt;f8&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus began Deng’s efforts to install a new leadership – his third attempt following the dismissals of Hu Yaobang and Zhao Ziyang – and so guarantee the continuation of his policies after his death.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T012321Z" creationid="bluebird" creationdate="20160905T012321Z">
+        <seg>Así los esfuerzos de Deng comenzaron a instarlar un nuevo liderazgo - el tercer intento después del despido de Hu Yaobang y Zhao Ziyang- .</seg>
       </tuv>
     </tu>
     <tu>
