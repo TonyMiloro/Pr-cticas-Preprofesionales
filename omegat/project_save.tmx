@@ -3359,6 +3359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the preface, “Luo yi ning ge er” is identified as a German and as Europe’s most famous Sinologist.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160905T215637Z" creationid="Backup" creationdate="20160905T215637Z">
+        <seg>En el prefacio,se identifica a "Luo yi ning ge er" como un alemán y el sinólogo más famoso de Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the same period, the number of private enterprises had grown from 10,667, employing 9.7 million people, to 123,820, employing over 34.5 million workers.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T221849Z" creationid="Administrador" creationdate="20160903T215647Z">
@@ -5485,8 +5493,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The cover of Looking at China through a Third Eye identifies one “Luo yi ning ge er” as the author.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160905T215319Z" creationid="Backup" creationdate="20160905T215319Z">
-        <seg>La tapa de Mirando a China desde un tercer ojo identifíica un </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160905T215548Z" creationid="Backup" creationdate="20160905T215319Z">
+        <seg>La tapa de Mirando a China desde un tercer ojo identifíica un "Luo yi ning ge er" como el autor. </seg>
       </tuv>
     </tu>
     <tu>
