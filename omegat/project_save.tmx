@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1529,8 +1529,8 @@
       <tuv lang="EN-US">
         <seg>Certainly not all government–business relationships are corrupt, but entrepreneurs do cultivate political relationships and the fabric of such relationships distorts public policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T010301Z" creationid="rona" creationdate="20160905T004008Z">
-        <seg>Desde luego que no todas las relaciones entre gobiernos y empresas son corruptas, pero los empresarios SÍcultivan relaciones políticas, y el entretejido de esas relaciones distorsiona las políticas públicas.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T022150Z" creationid="rona" creationdate="20160905T004008Z">
+        <seg>Desde luego que no todas las relaciones entre gobiernos y empresas son corruptas, pero los empresarios SÍ cultivan relaciones políticas, y el entretejido de esas relaciones distorsiona las políticas públicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3097,8 +3097,8 @@
       <tuv lang="EN-US">
         <seg>In the years since Tiananmen, at least two aspects of social change</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160904T234815Z" creationid="rona" creationdate="20160904T234815Z">
-        <seg>En los años posteriores a Tiananmen, al menos dos aspectos del cambio social</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T022026Z" creationid="rona" creationdate="20160904T234815Z">
+        <seg>En los años posteriores a Tiananmén, al menos dos aspectos del cambio social</seg>
       </tuv>
     </tu>
     <tu>
