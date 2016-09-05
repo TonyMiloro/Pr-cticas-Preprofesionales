@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4800,6 +4800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That deadlock was broken by Deng Xiaoping’s journey to the south in early 1992, and reform regained momentum.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T020632Z" creationid="rona" creationdate="20160905T020632Z">
+        <seg>El viaje de Deng Xiaoping al sur en 1992 los sacó del punto muerto, y la reforma retomó el impulso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That he was able to survive in the Ministry of Machine Building in the 1970s no doubt re&lt;/f20&gt;&lt;/f19&gt;ﬂ&lt;f28&gt;&lt;f29&gt;ects his cautious nature, something that might have cost him further promotion in the &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;reform &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;era if he had not been technically trained and not had the support of patrons such as Wang Daohan.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011519Z" creationid="USER" creationdate="20160905T011519Z">
@@ -5317,8 +5325,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>There were major debates over reform policy in the 1980s and especially in the wake of Tiananmen when more conservative leaders gained the upper hand.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T020309Z" creationid="rona" creationdate="20160905T015434Z">
-        <seg>Han habido grandes debates acerca de la política de la reforma en los 80`s y en particular tras lo de Tiananmén cuando mayor cantidad de líderes conservadores ganaron ventaja .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T020405Z" creationid="rona" creationdate="20160905T015434Z">
+        <seg>Han habido grandes debates acerca de la política de la reforma en los 80`s y, en particular, tras lo de Tiananmén cuando mayor cantidad de líderes conservadores sacaron ventaja .</seg>
       </tuv>
     </tu>
     <tu>
