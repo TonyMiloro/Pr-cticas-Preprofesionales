@@ -1551,6 +1551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chen Xitong might have been a logical choice; he had long served in the Beijing Municipal Party apparatus and had cultivated ties with Deng and other Party  elders.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T023055Z" creationid="bluebird" creationdate="20160905T023055Z">
+        <seg>Chen Xitong podría haber sido una elección lógica; ya había estado sirviendo en el aparato del Partido Municipal de Pekín y había creado lazos con Deng y otros integrantes antiguos del Partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chen Xitong removed as Beijing Party</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T000820Z" creationid="Usuario" creationdate="20160902T020251Z">
@@ -5693,8 +5701,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Thus, Deng cast his eye toward other members of the Politburo.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T022636Z" creationid="bluebird" creationdate="20160905T022636Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T022831Z" creationid="bluebird" creationdate="20160905T022636Z">
+        <seg>Entonces, Deng puso su mirada en otros miembros del Politburó.</seg>
       </tuv>
     </tu>
     <tu>
