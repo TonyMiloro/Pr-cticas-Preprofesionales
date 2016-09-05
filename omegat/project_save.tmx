@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1737,8 +1737,8 @@
       <tuv lang="EN-US">
         <seg>Despite the seeming long odds of holding onto power, Jiang managed to maneuver, build coalitions, and gradually consolidate his power.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160904T235219Z" creationid="Mariela" creationdate="20160904T235219Z">
-        <seg>A pesar de las pocas probabilidades de permanecer en el poder, Jiang </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T000801Z" creationid="Mariela" creationdate="20160904T235219Z">
+        <seg>A pesar de las pocas probabilidades de permanecer en el poder, Jiang logró relizar maniobras, formar coaliciones y consolidar su poder de manera gradual. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3467,6 +3467,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T015533Z" creationid="Flor" creationdate="20160902T015533Z">
         <seg>Neoestatismo y nacionalismo popular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, in 1992, Deng Xiaoping selected Hu Jintao, then only 50 years of age, to the Politburo Standing Committee (PBSC) at the Fourteenth Party Congress, apparently naming him internally as Jiang's successor.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T001426Z" creationid="Mariela" creationdate="20160905T000827Z">
+        <seg>Sin embrago, en 1922, Deng Xiaoping eligió a Hu Jintao, quien tenía tan solo 50 años en aquel momento, al Comité Permanente del Politburó (  </seg>
       </tuv>
     </tu>
     <tu>
