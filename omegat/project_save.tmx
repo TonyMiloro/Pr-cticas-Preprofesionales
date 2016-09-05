@@ -3327,6 +3327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It seemed a risky quote for Jiang to cite, given his reputation for caution.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T173813Z" creationid="LENOVO" creationdate="20160905T173813Z">
+        <seg>Jiang se arriesgaba a citar It seemed a risky quote for Jiang to cite, given his reputation for caution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was highly unusual for an alternate member of the Central Committee to be promoted to vice-premier.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T223915Z" creationid="Administrador" creationdate="20160904T223915Z">
