@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2567,6 +2567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 1989 there were ﬁve members of  the  Politburo  Standing  Committee.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T013042Z" creationid="bluebird" creationdate="20160905T013042Z">
+        <seg>En 1989 había cinco miembros del Comité Permanente del Politburó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1989, Deng could use his core status to stress continuity and to dominate decisions on leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160902T212652Z" creationid="bluebird" creationdate="20160902T212440Z">
@@ -4757,8 +4765,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The choice of Jiang Zemin surprised  insiders  and  outsiders  alike,  but  in  fact  there  were  not  many viable candidates from whom to choose.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T012717Z" creationid="bluebird" creationdate="20160905T012717Z">
-        <seg>Miembros y no miembros se sorprendieron con la elección de Jiang Zemin .</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T012953Z" creationid="bluebird" creationdate="20160905T012717Z">
+        <seg>Tanto miembros como no miembros se sorprendieron con la elección de Jiang Zemin, pero en realidad no había muchas opciones viables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5431,6 +5439,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T212052Z" creationid="Pablo" creationdate="20160903T212052Z">
         <seg>¿Hacia una sociedad en armonía?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two  of  these,  Zhao  Ziyang  and Hu Qili, were disqualiﬁed because they had been too tolerant toward the Tiananmen  demonstrations.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T013257Z" creationid="bluebird" creationdate="20160905T013257Z">
+        <seg>Dos de ellos, Zhao Ziyang y Hu Qili, fueron descalificados porque habían sido muy tolerantes durante las manifestaciones en Tiananmen.</seg>
       </tuv>
     </tu>
     <tu>
