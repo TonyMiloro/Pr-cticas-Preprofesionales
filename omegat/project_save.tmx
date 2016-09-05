@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4656,6 +4656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 154 China since Tiananmen by writing what became an instant best seller; in so doing, Wang showed that his doubts were widely shared among the urban population.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160905T215239Z" creationid="Backup" creationdate="20160905T215239Z">
+        <seg>por medio de publicaciones que se convirtieron instantaneamente en best sellers; al hacerlo, Wang demostró que la población urbana se identificaba ampliamente con sus dudas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PART I LINE STRUGGLE REVISITED: THE ATTACK ON DENG’S REFORM PROGRAM</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T011216Z">
@@ -5471,6 +5479,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T222820Z" creationid="usuario" creationdate="20160903T150439Z">
         <seg>El colapso del socialismo en Europa occidental, como se mencionó previamente, provocaba nuevos debates en Pekín y ocasionaba un nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cover of Looking at China through a Third Eye identifies one “Luo yi ning ge er” as the author.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160905T215319Z" creationid="Backup" creationdate="20160905T215319Z">
+        <seg>La tapa de Mirando a China desde un tercer ojo identifíica un </seg>
       </tuv>
     </tu>
     <tu>
@@ -6413,8 +6429,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang was an outsider who claimed few friends in intellectual circles.49 What Wang Shan did was to make his doubts public 44 Liu Zhifeng, “Disizhi yanjing kan Zhongguo,” pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160905T214639Z" creationid="Backup" creationdate="20160905T214639Z">
-        <seg>Wang estaba ajeno a eso, pero sostenía que tenía algunos amigos en los círculos intelectuales.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160905T215121Z" creationid="Backup" creationdate="20160905T214639Z">
+        <seg>Wang era ajeno a eso, pero sostenía que tenía algunos amigos en los círculos intelectuales. Lo que Wang Shan hizo fue hacer sus dudas publicas</seg>
       </tuv>
     </tu>
     <tu>
