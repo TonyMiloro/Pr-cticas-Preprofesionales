@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -154,6 +154,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T004604Z" creationid="Usuario-Pc" creationdate="20160905T004604Z">
         <seg>&lt;/f22&gt;&lt;f23&gt;57 &lt;/f23&gt;&lt;f24&gt;El inicio de la &lt;/f24&gt;&lt;f25&gt;&lt;s26/&gt;Revolución Cultural por parte de Mao esta&lt;/f25&gt;&lt;f27&gt; representado&lt;/f27&gt;&lt;f28&gt; como el esfuerzo &lt;/f28&gt;&lt;t29/&gt;&lt;f30&gt;de un idealista para destruir la brecha entre la gente &lt;/f30&gt;&lt;f31&gt;común&lt;/f31&gt;&lt;f32&gt; y los oficiales; su motivo principal era prevenir la crisis política. &lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;claimed that the failure of the PRC media to cover Deng’s trip was at Deng’s insistence.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013455Z" creationid="Soledad Mori" creationdate="20160905T013455Z">
+        <seg>El periódico&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que fue por insistencia de Deng que los medios de comunicación de la República Popular China no cubrieron el viaje de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232757Z">
         <seg>&lt;f0&gt;La cuarta sesión plenaria del décimo cuarto comité central se reunió en Pekín desde el 25 al 28 de septiembre de 1994 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The obvious resistance to publicizing Deng’s trip – and the subsequent process of yielding partially while continuing to resist – reflects the very ambiguous nature of authority relations at the highest level of the CCP in the early 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013600Z" creationid="Soledad Mori" creationdate="20160905T013600Z">
+        <seg>&lt;f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2495,6 +2511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that was the case (and it seems highly unlikely), Deng soon changed his mind.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013530Z" creationid="Soledad Mori" creationdate="20160905T013530Z">
+        <seg>Si ese fue el caso (aunque esto es poco probable), Deng pronto cambió de parecer.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the nature of government leadership has changed, then the nature of the intellectual community has changed even more.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T171323Z" creationid="Nico" creationdate="20160904T171323Z">
@@ -3105,8 +3129,8 @@
       <tuv lang="EN-US">
         <seg>It was only after the Hong Kong media began reporting on Deng’s trip that the PRC-owned Hong Kong papers &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;and &lt;/f4&gt;&lt;f5&gt;Ta kung pao &lt;/f5&gt;&lt;f6&gt;began covering it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013243Z" creationid="Soledad Mori" creationdate="20160905T013243Z">
-        <seg>No fue sino hasta después de que los medios de comunicación de Hong Kong comenzaron a informar sobre el viaje de Deng’que los periódicos de Hong Kong que eran propiedad de la República Popular China  &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;y&lt;/f4&gt;&lt;f5&gt;Ta kung pao &lt;/f5&gt;&lt;f6&gt;empezaron a cubri el viaje. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013417Z" creationid="Soledad Mori" creationdate="20160905T013243Z">
+        <seg>No fue sino hasta después de que los medios de comunicación de Hong Kong comenzaron a informar sobre el viaje de Deng’que los periódicos de Hong Kong que eran propiedad de la República Popular China  &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;y&lt;/f4&gt;&lt;f5&gt;Ta kung pao &lt;/f5&gt;&lt;f6&gt;empezaron a cubri el viaje.</seg>
       </tuv>
     </tu>
     <tu>
