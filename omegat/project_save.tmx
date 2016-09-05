@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2807,6 +2807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Jiang lacked the illustrious credentials of his revolutionary predecessors, as all members of his generation necessarily did, his background and career were solid.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T200609Z" creationid="bluebird" creationdate="20160905T200609Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If that was the case (and it seems highly unlikely), Deng soon changed his mind.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013530Z" creationid="Soledad Mori" creationdate="20160905T013530Z">
@@ -3761,8 +3769,8 @@
       <tuv lang="EN-US">
         <seg>Just as Chen and Li were Party secretaries of Beijing and Tianjin, respec- tively, Jiang Zemin was secretary of China’s largest city, Shanghai.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T195847Z" creationid="bluebird" creationdate="20160905T195847Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T200555Z" creationid="bluebird" creationdate="20160905T195847Z">
+        <seg>Así como Chen y Li eran secretarios del Partido de Pekín y Tianjin, respectivamente, Jiang Zemin era el secretario de la ciudad más grande de China, Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
