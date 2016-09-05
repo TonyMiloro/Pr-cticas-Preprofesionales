@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1047,6 +1047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And sometimes, the campaign against peaceful evolution is more important.”&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Chen Yun himself presided over a meeting of the &lt;/f8&gt;&lt;f9&gt;CAC&lt;/f9&gt;&lt;f10&gt; held in Beijing on February 17 at which he declared that the only way for the &lt;/f10&gt;&lt;f11&gt;CCP&lt;/f11&gt;&lt;f12&gt; to avoid a &lt;/f12&gt;&lt;f13&gt;CPSU&lt;/f13&gt;&lt;f14&gt; style collapse was to emphasize &lt;/f14&gt;&lt;f15&gt;communist&lt;/f15&gt;&lt;f16&gt; ideology and strengthen Party building.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T021024Z" creationid="Soledad Mori" creationdate="20160905T021024Z">
+        <seg>”&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Chen Yun himself presided over a meeting of the &lt;/f8&gt;&lt;f9&gt;CAC&lt;/f9&gt;&lt;f10&gt; held in Beijing on February 17 at which he declared that the only way for the &lt;/f10&gt;&lt;f11&gt;PCCh&lt;/f11&gt;&lt;f12&gt; to avoid a &lt;/f12&gt;&lt;f13&gt;CPSU&lt;/f13&gt;&lt;f14&gt; style collapse was to emphasize &lt;/f14&gt;&lt;f15&gt;communist&lt;/f15&gt;&lt;f16&gt; ideology and strengthen Party building.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And this critique has grown in the first years of the new century.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012657Z" creationid="USUARIO" creationdate="20160904T012657Z">
@@ -1833,8 +1841,8 @@
       <tuv lang="EN-US">
         <seg>Deng Liqun made his own trip, visiting the cities of Wuhan and Xining, where he declared, “[t]here is the core of economic work but also another core of fighting peaceful evolution and waging class struggle.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020703Z" creationid="Soledad Mori" creationdate="20160905T020703Z">
-        <seg>Deng Liqun realizó su propio viaje, en el que visitó las ciudades de Wuhan y Xining. En este viaje afirmó que “ existe el núcleo del trabajo económico, pero también otro núcleo de luchar contra la evolución pacífica y la libración de la lucha de clases.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020738Z" creationid="Soledad Mori" creationdate="20160905T020703Z">
+        <seg>Deng Liqun realizó su propio viaje, en el que visitó las ciudades de Wuhan y Xining. En este viaje afirmó que “ existe el núcleo del trabajo económico, pero también otro núcleo de luchar contra la evolución pacífica y la libración de la lucha de clases".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3951,6 +3959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonetheless, the propaganda system limited circulation of the document.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020747Z" creationid="Soledad Mori" creationdate="20160905T020747Z">
+        <seg>No obstante. el sistema de propaganda limitó la circulación del documento&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only has the Chinese economy more than quadrupled in size since 1978, state control has also retreated significantly from direct management of the economy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T003048Z" creationid="Administrador" creationdate="20160903T000922Z">
@@ -5443,6 +5459,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thirty-five senior leaders at the meeting drafted a strong letter to Deng demanding that communist ideology continue to be propagated and that the Party strongly oppose peaceful evolution.&lt;/f16&gt;&lt;f17&gt;68 &lt;/f17&gt;&lt;f18&gt;It was not until March 1 that Deng’s remarks were officially spread within the Party in the form of Central Document No. 2.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020939Z" creationid="Soledad Mori" creationdate="20160905T020939Z">
+        <seg>Treinta y cinco líderes superiores en la reunión escribieron una carta dura a Deng en la que exigían que se continuara propagando la ideología comunista y que el partido se opusiera con firmeza a la evolución pacífica.&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;No fue sino hasta el 1 de marzo que los comentarios de Deng se difundieron en forma oficial en el seno del Partido a través del Documento Central No. 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This book – more than any other – explains the forces that have shaped China since Tiananmen.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173344Z">
@@ -5495,6 +5519,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014804Z" creationid="Soledad Mori" creationdate="20160905T014804Z">
         <seg>Esta diseminación limitada de las opiniones de Deng eran el reflejo de un patrón que se mantendría durante la mayor parte de la primavera, a saber, ceder a la presión ejercida por Deng.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This official compilation followed the dissemination of Deng’s remarks in five versions in different bureaucratic hierarchies and was intended not only to put out an official version but also to delete some of Deng’s harshest comments.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020812Z" creationid="Soledad Mori" creationdate="20160905T020812Z">
+        <seg>A esta compilación oficial le siguió la diseminación de los comentarios de Deng en cinco versiones en de diferentes jerarquías burocráticas y tenía la intención de ofrecer una versión oficial, pero también borrar algunos de los comentarios más duros de Deng.</seg>
       </tuv>
     </tu>
     <tu>
