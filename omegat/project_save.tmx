@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1809,8 +1809,8 @@
       <tuv lang="EN-US">
         <seg>Decrying “leftist” influences in the past that had led China to take a “tortuous” path, Fang urged “absorbing certain views, models, and methods from contemporary &lt;/f2&gt;&lt;f3&gt;bourgeois&lt;/f3&gt;&lt;f4&gt; economic theories” – even if it meant that “exploitation” would exist in China for a while.&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;However, despite publication of the two editorials and of Fang Sheng’s article, Beijing’s media remained silent about Deng’s trip to the south, indicating the deep opposition within the Party to Deng and his views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020335Z" creationid="Soledad Mori" creationdate="20160905T020335Z">
-        <seg>Criticando las influencias “izquierdistas” en el pasado que llevaron a China por un camino “tortuoso”, Fang abogó por la “absorción de ciertos puntos de vistas, modelos y métodos de las teorías económicas de la &lt;/f2&gt;&lt;f3&gt;burguesía&lt;/f3&gt;&lt;f4&gt; contemporánea” .&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;However, despite publication of the two editorials and of Fang Sheng’s article, Beijing’s media remained silent about Deng’s trip to the south, indicating the deep opposition within the Party to Deng and his views.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020531Z" creationid="Soledad Mori" creationdate="20160905T020335Z">
+        <seg>Criticando las influencias “izquierdistas” en el pasado que llevaron a China por un camino “tortuoso”, Fang abogó por la “absorción de ciertos puntos de vistas, modelos y métodos de las teorías económicas de la &lt;/f2&gt;&lt;f3&gt;burguesía&lt;/f3&gt;&lt;f4&gt; contemporánea” aunque ello implicaba que la “explotación” existiría en China por un período.&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Sin embargo, pese a la publicación de las dos notas editoriales y del árticulo editorial de Fang Sheng, los medios de comunicación de Pequín no dijeron ni una palabra acerca del viaje de Deng hacia el sur. Esto indicaba la fuerte oposición que existía en el seno del partido con respecto a Deng y sus puntos de vista. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1827,6 +1827,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214353Z" creationid="Usuario" creationdate="20160902T214353Z">
         <seg>Los activistas democráticos Wang Youcai y Xu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Liqun made his own trip, visiting the cities of Wuhan and Xining, where he declared, “[t]here is the core of economic work but also another core of fighting peaceful evolution and waging class struggle.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020703Z" creationid="Soledad Mori" creationdate="20160905T020703Z">
+        <seg>Deng Liqun realizó su propio viaje, en el que visitó las ciudades de Wuhan y Xining. En este viaje afirmó que “ existe el núcleo del trabajo económico, pero también otro núcleo de luchar contra la evolución pacífica y la libración de la lucha de clases.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3067,6 +3075,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T214516Z">
         <seg> y,Al despedir a Zhang y Meng, Hu claramente estaba intentando dejar clara su postura sobre responsabilidad, aquella que se convertiría en uno de los sellos distintivos de su administración&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, Deng’s opponents took active measures to resist Deng’s new offensive.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020620Z" creationid="Soledad Mori" creationdate="20160905T020620Z">
+        <seg>De hecho, los opositores Deng llevaron a cabo medidas activas para resistir la nueva ofensiva de Deng.</seg>
       </tuv>
     </tu>
     <tu>
