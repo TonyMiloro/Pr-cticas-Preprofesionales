@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -154,6 +154,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T215633Z" creationid="Administrador" creationdate="20160903T215633Z">
         <seg>a 64 millones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;Hu nevertheless maneuvered .</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T180217Z" creationid="Mariela" creationdate="20160905T180159Z">
+        <seg>Sin embargo, Hu logró realizar algunas maniobras </seg>
       </tuv>
     </tu>
     <tu>
@@ -6736,6 +6744,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045607Z" creationid="PC" creationdate="20160904T045607Z">
         <seg>a veinte años por filtrar secretos de estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with considerable skill to articulate his own ideology and begin to promote people from his own power base, the Communist Youth League (CYL).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T180527Z" creationid="Mariela" creationdate="20160905T180459Z">
+        <seg>con una gran habidad con el fin de articular su propia ideología  </seg>
       </tuv>
     </tu>
     <tu>
