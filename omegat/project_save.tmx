@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2473,8 +2473,8 @@
       <tuv lang="EN-US">
         <seg>Given the different interests in the Party, Deng's arrangements stuck, despite Jiang's palpable desire to pass power on to Zeng Qinghong.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T173918Z" creationid="Mariela" creationdate="20160905T173918Z">
-        <seg>Debido a que había diferencia de intereses en el Partido, </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T174750Z" creationid="Mariela" creationdate="20160905T173918Z">
+        <seg>Debido a la diferencia de intereses en el Partido, los planes de Deng quedaron sin efecto a pesar del deseo evidente de Jiang de cederle el poder a Zeng Qinghong. </seg>
       </tuv>
     </tu>
     <tu>
