@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(thereby sidestepping direct confrontation) but doing so only as little as possible (in the hopes that Deng would yield to resistance).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014827Z" creationid="Soledad Mori" creationdate="20160905T014827Z">
+        <seg>(y así evitar la confrontación directa). pero hacerlo lo menos posible (con la esperanza de que Deng cedería a la resistencia).</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>12 But simple expressions of good wishes could hardly change fundamentally the relationship that had grown up between the Party and intellectuals since the Yan’an era.</seg>
@@ -358,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;A turning point in this struggle for dominance – the first of several – came when a Politburo meeting on February 12, 1992, under obvious pressure from Deng, decided to relay the content of Deng’s talks orally only to &lt;/f0&gt;&lt;f1&gt;cadres &lt;/f1&gt;&lt;f2&gt;at or above the ministerial, provincial, and army ranks.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014741Z" creationid="Soledad Mori" creationdate="20160905T014741Z">
+        <seg>&lt;f0&gt;Un punto de inflexión en esta lucha por el dominio (el primero de muchos) tuvo lugar cuando la reunión del Politburó del 12 de febrero de 1992, por presión de Deng, decidió retransmitir el contenido de las charlas de Deng en forma oral sólo a los  &lt;/f0&gt;&lt;f1&gt;cuadros &lt;/f1&gt;&lt;f2&gt;que estén al nivel o por encima del nivel de las filas ministeriales, provinciales y militares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Although such advocates did not carry the day, their views certainly influenced China’s top leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T143654Z" creationid="usuario" creationdate="20160903T143654Z">
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T234518Z">
         <seg>&lt;f0&gt;Si la inflación era preocupante, más lo era el desempeño de la economía de propiedad estatal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In the face of this passive resistance, Dengist forces used local media to step up the pressure on Beijing’s still silent official media.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014922Z" creationid="Soledad Mori" creationdate="20160905T014922Z">
+        <seg>&lt;f0&gt;Frente a la resistencia pasiva, las los partidarios de Deng emplearon los medios de comunicación locales para aumentar la presión sobre los medios oficiales de Pekín que todavía guardaban silencio. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,8 +2905,8 @@
       <tuv lang="EN-US">
         <seg>In such a contest, the advantages of being “core,” ambiguous as they were, would eventually secure the victory for Deng, but his opponents would not yield without staunch resistance.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014608Z" creationid="Soledad Mori" creationdate="20160905T014608Z">
-        <seg>.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014629Z" creationid="Soledad Mori" creationdate="20160905T014608Z">
+        <seg>En esta lucha, las ventajas de ser “central,” aunque eran ambiguas, asegurarían la victoria de Deng finalmente, pero sus opositores no se darían por vencidos sin oponer una firme resistencia.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5335,6 +5359,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160902T232830Z" creationid="Nadine" creationdate="20160902T225755Z">
         <seg>Este tema estaba sin duda alguna vinculado a la cuestión del liderazgo de Deng Xiaoping, no solo porque la elección de Zhao primero como primer ministro y luego como secretario general ahora parecían influir  de manera negativa en la opinion de Deng Xiaoping (por segunda vez, la primera fue la destitución de Hu Yaobang en 1987), pero también porque Zhao había estado implementando una línea política y económica que durante mucho tiempo Deng había apoyado. Deng se hizo famoso por ser el exponente del consejo práctico "no importa que el gato sea blanco o negro sino que cace ratones".  Zhao había llegado a Pekín en 1980 como un pragmatista conocido por su especialización en desarrollo económico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This limited dissemination of Deng’s views reflected a pattern that would hold throughout most of the spring: namely, yielding to pressure from Deng&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014804Z" creationid="Soledad Mori" creationdate="20160905T014804Z">
+        <seg>Esta diseminación limitada de las opiniones de Deng eran el reflejo de un patrón que se mantendría durante la mayor parte de la primavera, a saber, ceder a la presión ejercida por Deng.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
