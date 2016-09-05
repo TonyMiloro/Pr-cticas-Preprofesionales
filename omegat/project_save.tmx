@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1025,8 +1025,8 @@
       <tuv lang="EN-US">
         <seg>Although many of these issues were implicit in much Chinese writing of the early 1990s, it was, ironically, Samuel Huntington’s 1993 article in Foreign Affairs, “The Clash of Civilizations?,” that really jelled the discussion and gave it focus.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T195122Z" creationid="Rocio" creationdate="20160905T194813Z">
-        <seg>Aunque muchos de estos temas estuvieron implícitos en la mayoría de las obras chinas de principios de los 90, fue ironicamente el artículo de 1993 de Samuel Huntington (publicado en) Foreign Affairs, "Choque de civilizaciones" que realmente .. la discusión y le dio enfoque.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T195128Z" creationid="Rocio" creationdate="20160905T194813Z">
+        <seg>Aunque muchos de estos temas estuvieron implícitos en la mayoría de las obras chinas de principios de los 90, fue irónicamente el artículo de 1993 de Samuel Huntington (publicado en) Foreign Affairs, "Choque de civilizaciones" que realmente .. la discusión y le dio enfoque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4371,6 +4371,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224339Z" creationid="Usuario" creationdate="20160902T224339Z">
         <seg>9–11 de octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, Huntington’s article (and later book) did not fall on barren ground.26 In Asia, as the region prospered economically, there was a growing consciousness of “Asian values” and their distinctiveness from – and sometimes opposition to – Western values.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T195738Z" creationid="Rocio" creationdate="20160905T195738Z">
+        <seg>Es cierto que el artículo de Huntington y (su posterior libro) no cayó en terreno infértil. 26 En Asia, mientras la región prosperó económicamente, había una consciencia en aumento sobre los "valores asíacos" y su distinción por sobre y a veces en oposición con los valores occidentales.</seg>
       </tuv>
     </tu>
     <tu>
