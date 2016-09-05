@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -210,6 +210,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011439Z" creationid="USER" creationdate="20160905T011439Z">
         <seg>En poco tiempo, la carrera de Jiang fue en constante ascenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;No &lt;s3/&gt;doubt the single most important reason for Jiang’s promotion at that &lt;s4/&gt;critical &lt;s5/&gt;time &lt;s6/&gt;was &lt;s7/&gt;his &lt;s8/&gt;decision &lt;s9/&gt;in &lt;s10/&gt;May &lt;s11/&gt;to &lt;s12/&gt;close &lt;s13/&gt;down &lt;s14/&gt;the reformminded newsweekly &lt;/f1&gt;&lt;/f0&gt;&lt;f15&gt;&lt;f16&gt;World Economic Herald (Shijie jingji daobao)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011758Z" creationid="USER" creationdate="20160905T011758Z">
+        <seg>Sin dudas la única razón con más importancia para el ascenso de Jiang en ese momento crítico era la decisión en mayo de cerrar el semanario orientado a la reforma World Economic Herald (Shijie jingji daobao)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1343,6 +1351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By this time, there were deepening debates within the Party &lt;/f47&gt;&lt;/f46&gt;&lt;t48/&gt;&lt;f49&gt;&lt;f50&gt;leadership&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt; about how to respond to the student demonstrations, which had started eight days earlier on April 16; on April 25, Deng would endorse a hardline approach by saying that the demonstrations were aimed at “fundamentally negating the leadership of the Chinese Communist Party and at negating the socialist system.” It was that judgment, written into a &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;People’s Daily&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt; editorial the next day, that in&lt;/f56&gt;&lt;/f55&gt;ﬂ&lt;f57&gt;&lt;f58&gt;amed student opinion and brought the student movement to a new crisis point.&lt;/f58&gt;&lt;/f57&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011923Z" creationid="USER" creationdate="20160905T011923Z">
+        <seg>Para este momento, había debates profundos dentro del partido del liderazgo  sobre cómo responder a las manifestaciones de estudiantes, las cuales ya habían comenzado ochos días antes, el 16 de abril; el 25 de abril, Deng respaldaría una estrategia firme al decir que las manifestaciones estaban apuntadas a “negar fundamentalmente el liderazgo del Partido Comunista de China y al negar el sistema socialista”. Esa fue el discurso que se redactó en el editorial de People’s Daily al día siguiente, lo cual escendió la opinión estudiantil y trajo el movimiento de los estudiantes a un nuevo punto de crisis.&lt;/f58&gt;&lt;/f57&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By year-end 2005, the number of SOEs had fallen by two-thirds, to 27,477, and the number of workers employed in SOEs had fallen by 40 percent to</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T012625Z" creationid="Administrador" creationdate="20160903T004234Z">
@@ -1715,6 +1731,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205648Z" creationid="Usuario" creationdate="20160902T205648Z">
         <seg>Deng Xiaoping fallece a los 92 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Xiaoping often spent part of the winter there, as did Chen Yun, who was born just outside the city and had spent his early revolutionary career in the city.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011651Z" creationid="USER" creationdate="20160905T011651Z">
+        <seg>Deng Xiaoping a menudo pasa parte del invierno allí, como también lo hizo Chen Yun, quien naciera justo en las afueras de la ciudad y quien hubiera pasado su temprana carrera revolucionaria  allí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2295,6 +2319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He was thus acceptable to the leading &lt;/f33&gt;&lt;/f32&gt;ﬁ&lt;f34&gt;&lt;f35&gt;gures in the &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;Party,&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; and that in itself was an important quali&lt;/f39&gt;&lt;/f38&gt;ﬁ&lt;f40&gt;&lt;f41&gt;cation for leadership.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011727Z" creationid="USER" creationdate="20160905T011727Z">
+        <seg>Por consiguiente, él era considerado aceptable para las figuras destacadas en el Partido, y eso se lo consideraba como una característica importante para el liderazgo.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Health Minister Zhang Wenkang and Beijing</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T173520Z" creationid="Usuario" creationdate="20160902T232441Z">
@@ -2751,6 +2783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In speeches, Su Shaozhi, Yan Jiaqi, Chen Ziming, and others called for “reversing the verdict” on Hu Yaobang as well as negating the 1983 campaign against “spiritual pollution” and the 1987 campaign against “&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;bourgeois&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; liberalization.” These speeches were printed in an issue of the &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;World Economic Herald&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt; that was to go to press on April 24.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011858Z" creationid="USER" creationdate="20160905T011858Z">
+        <seg>En discursos, Su Shaozhi, Yan Jiaqi, Chen Ziming, y otros mencionados por “revertir el veredicto” hacia Hu Yaobang como también por negar la campaña de 1983 contra la “contaminación espiritual” y la campaña de 1987 contra la “liberación burguesa”. Estos discursos se los publicaron en una tirada de World Economic Herald que iba a publicarse el 24 de abril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In striking contrast to the Mao who is known to the West and older intellectuals in China, Wang depicts him as a benevolent, idealistic leader, one even given at times to &lt;/f0&gt;&lt;f1&gt;sentimen-talism&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T235432Z" creationid="Usuario-Pc" creationdate="20160904T234030Z">
@@ -3195,6 +3235,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160902T171347Z" creationid="Bangho" creationdate="20160902T171347Z">
         <seg>Jiang vívia en Shangai, which was spared the SARS crisis, and his “running&lt;t0/&gt; &lt;t1/&gt;away”&lt;t2/&gt; &lt;t3/&gt;was&lt;t4/&gt; &lt;t5/&gt;widely&lt;t6/&gt; &lt;t7/&gt;noted&lt;t8/&gt; &lt;t9/&gt;on&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;Internet.&lt;t14/&gt; &lt;t15/&gt;There&lt;t16/&gt; &lt;t17/&gt;was&lt;t18/&gt; &lt;t19/&gt;even&lt;t20/&gt; &lt;t21/&gt;an&lt;t22/&gt; &lt;t23/&gt;effort to spin the foreign media, as associates of &lt;t24/&gt;Hu &lt;t25/&gt;Jintao spread the word that &lt;t26/&gt;H&lt;t27/&gt;u&lt;t28/&gt;’&lt;t29/&gt;s&lt;t30/&gt; &lt;t31/&gt;effo&lt;t32/&gt;r&lt;t33/&gt;ts&lt;t34/&gt; &lt;t35/&gt;w&lt;t36/&gt;e&lt;t37/&gt;r&lt;t38/&gt;e&lt;t39/&gt; &lt;t40/&gt;effecti&lt;t41/&gt;v&lt;t42/&gt;e,&lt;t43/&gt; &lt;t44/&gt;whe&lt;t45/&gt;r&lt;t46/&gt;eas&lt;t47/&gt; &lt;t48/&gt;the&lt;t49/&gt; &lt;t50/&gt;c&lt;t51/&gt;o&lt;t52/&gt;v&lt;t53/&gt;er-up&lt;t54/&gt; &lt;t55/&gt;had&lt;t56/&gt; &lt;t57/&gt;been&lt;t58/&gt; &lt;t59/&gt;the&lt;t60/&gt; &lt;t61/&gt;fault&lt;t62/&gt; &lt;t63/&gt;of&lt;t64/&gt; &lt;t65/&gt;J&lt;t66/&gt;iang Zemin.&lt;t67/&gt;49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang’s relationship with Li Xiannian seems to have been particularly close.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011707Z" creationid="USER" creationdate="20160905T011707Z">
+        <seg>La relación de Jiang con Li Xiannian parece haber sido particularmente cercana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3872,6 +3920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On April 19, the &lt;s19/&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;f20&gt;&lt;f21&gt;World Economic Herald&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; had convened a joint meeting in Beijing with the &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;New Observer (Xin guancha)&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; to memorialize Hu Yaobang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011815Z" creationid="USER" creationdate="20160905T011815Z">
+        <seg>El 19 de abril este semanario había convocado una reunión conjunta en Pekín con The New Observer (Xin guancha) para conmemorar a Hu Yaobang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On April &lt;t106/&gt;9&lt;t107/&gt;, the Vice Minister of Health, Ma Xiaowei, declared that there had been twenty-two cases of SARS in the city and &lt;t108/&gt;four&lt;t109/&gt; &lt;t110/&gt;deaths.&lt;t111/&gt; &lt;t112/&gt;“&lt;t113/&gt;T&lt;t114/&gt;oda&lt;t115/&gt;y&lt;t116/&gt;,&lt;t117/&gt; &lt;t118/&gt;the&lt;t119/&gt; &lt;t120/&gt;numbers&lt;t121/&gt; &lt;t122/&gt;I&lt;t123/&gt; &lt;t124/&gt;r&lt;t125/&gt;epo&lt;t126/&gt;r&lt;t127/&gt;t&lt;t128/&gt; &lt;t129/&gt;a&lt;t130/&gt;r&lt;t131/&gt;e&lt;t132/&gt; &lt;t133/&gt;cor&lt;t134/&gt;r&lt;t135/&gt;ect,”&lt;t136/&gt; &lt;t137/&gt;he&lt;t138/&gt; &lt;t139/&gt;stated&lt;t140/&gt; &lt;t141/&gt;baldly&lt;t142/&gt; &lt;t143/&gt;but &lt;t144/&gt;falsely.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T213535Z">
@@ -4076,6 +4132,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T132404Z" creationid="usuario" creationdate="20160903T132404Z">
         <seg>Las autoridades provinciales se esforzaron por promover (y ocultar) esos fondos, y no cederían de manera voluntaria sus intereses económicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run by the veteran revolutionary Ge Yang, the &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;New Observer&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; had been one of the principal outlets for &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;liberal &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;thinking in the 1980s and was at least as controversial as the &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;World Economic Herald&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160905T011837Z" creationid="USER" creationdate="20160905T011837Z">
+        <seg>Dirigido por el revolucionario veterano Ge Yang, The New Observer ha sido uno de los principales medios para el pensamiento liberal en los años 80s y era al menos controvertido como el World Economic Herald. &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;.</seg>
       </tuv>
     </tu>
     <tu>
