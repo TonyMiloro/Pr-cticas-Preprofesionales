@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -849,8 +849,8 @@
       <tuv lang="EN-US">
         <seg>Although there is no obvious difference in meaning between this aphorism and Deng’s favorite slogan, “seek truth from facts,” Chen always used his own phraseology and never reiterated Deng’s slogan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160905T004352Z" creationid="Bruno Cesar" creationdate="20160905T004352Z">
-        <seg>A pesar de que no hay una diferencia obvia en significado entre este aforismo y el eslogan favorito de Deng, "encntrar la verdad de los hechos", Chen siempre usó su propia fraseología y nunca repetía el eslogan de Deng.</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160905T004716Z" creationid="Bruno Cesar" creationdate="20160905T004352Z">
+        <seg>Although there is no obvious difference in meaning between this aphorism and Deng’s favorite slogan, “seek truth from facts,” Chen always used his own phraseology and never reiterated Deng’s slogan</seg>
       </tuv>
     </tu>
     <tu>
