@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1823,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chinese responses to Huntington’s article varied, but many took umbrage – seeing the article as a declaration of Western (and specifically American) superiority, or worse as racially tinged.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T221713Z" creationid="Rocio" creationdate="20160905T221410Z">
+        <seg>Las respuestas chinas al artículo de Huntington variaron, pero muchas fueron tomadas con resentimiento, vieron el artículo como la declaración de superioridad del occidente (y especialmente la superioridad estadounidense) o lo que es peor con un tinte racial. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chinese ship, Yin He, stopped by US Navy</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T010210Z" creationid="Usuario" creationdate="20160902T014942Z">
@@ -2919,6 +2927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If only the United States would cane a few people, he suggested, US society would not be in such disarray.34 Soon Malaysian Prime Minister Mohamad Mahathir joined with Shintaro Ishihara to write The Voice of Asia,35 and the debate over Asian values was in full swing.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T220842Z" creationid="Rocio" creationdate="20160905T220747Z">
+        <seg>Sugirió que si Estados Unidos castigara a algunas personas, la sociedad estadounidense no sería tal caos.34 Pronto el Primer Ministro malayo Mohamad Mahathir se reunió con  Shintaro Ishihara para escribir  The Voice of Asia,35 y el debate sobre los valores asiáticos estaba en plena marcha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If that was the case (and it seems highly unlikely), Deng soon changed his mind.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013530Z" creationid="Soledad Mori" creationdate="20160905T013530Z">
@@ -3627,6 +3643,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T223915Z" creationid="Administrador" creationdate="20160904T223915Z">
         <seg>Era algo extremadamente inusual que un miembro suplente del Comité Central sea promovido al cargo de viceprimer ministro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was into this atmosphere that Huntington launched his article.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T220954Z" creationid="Rocio" creationdate="20160905T220954Z">
+        <seg>Fue dentro de  esta atmósfera que Huntington lanzó su artículo.</seg>
       </tuv>
     </tu>
     <tu>
