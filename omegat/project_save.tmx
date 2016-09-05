@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1993,8 +1993,8 @@
       <tuv lang="EN-US">
         <seg>Deng was striving to build a balance in the Party that would out- last himself and one that would contrast with the bitterly divisive leadership situation Mao Zedong had left behind when he died in 1976.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T173623Z" creationid="Mariela" creationdate="20160905T172529Z">
-        <seg>Deng se esforzó para logar un equilibrio en el partido en el que pasaría su mandato y que contrastara con la situación de liderazgo extremadamente divisiva que  Mao Zedong dejó como consecuencia cuando falleció en el año 1976. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T173832Z" creationid="Mariela" creationdate="20160905T172529Z">
+        <seg>Deng se esforzó para logar un equilibrio en el partido en el que duraría más tiempo y que contrastara con la situación de liderazgo extremadamente divisiva que Mao Zedong dejó como consecuencia cuando falleció en el año 1976. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2459,6 +2459,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T212637Z">
         <seg>Debido a la delicada naturaleza de la relación entre Jiang y&lt;t0/&gt;Hu, &lt;t1/&gt;es en cierto modo comprensible&lt;t2/&gt;, &lt;t3/&gt;si no excusable&lt;t4/&gt;, &lt;t5/&gt;que el gobierno no tomara medidas sobre la nueva enfermedad que había sido descubierta en la provincia de Guangdong&lt;t6/&gt;en el mes de noviembre y sería luego conocida en todo el mundo como Síndrome Respiratorio Agudo Severo (SRAS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given the different interests in the Party, Deng's arrangements stuck, despite Jiang's palpable desire to pass power on to Zeng Qinghong.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T173918Z" creationid="Mariela" creationdate="20160905T173918Z">
+        <seg>Debido a que había diferencia de intereses en el Partido, </seg>
       </tuv>
     </tu>
     <tu>
