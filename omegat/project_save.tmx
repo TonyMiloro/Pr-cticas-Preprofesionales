@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6021,8 +6021,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Zhu quickly recruited his former associates from the old State Economic Commission, including former vice-chairmen Zhang Yanning and Zhao Weichen, who were made deputy directors o&lt;/f1&gt;&lt;f2&gt;f the new Production Office.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T015408Z" creationid="Administrador" creationdate="20160905T015155Z">
-        <seg>Zhu rápidamente reclutó a sus viejos asociados de la anterior Comisión Estatal de Economía, incluyendo a los anteriores viceprimer ministros Zhang Yanning y Zhao Weichen, quienes  &lt;/f1&gt;&lt;f2&gt;f the new Production Office.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T015453Z" creationid="Administrador" creationdate="20160905T015155Z">
+        <seg>Zhu rápidamente reclutó a sus viejos asociados de la anterior Comisión Estatal de Economía, incluyendo a los anteriores viceprimer ministros Zhang Yanning y Zhao Weichen, quienes fueron designados como directores ejecutivos adjuntos de &lt;/f1&gt;&lt;f2&gt;f the new Production Office.</seg>
       </tuv>
     </tu>
     <tu>
