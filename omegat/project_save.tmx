@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1387,6 +1387,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023042Z">
         <seg>Universidad de Boston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But as social inequalities grew, &lt;s1/&gt;new &lt;s2/&gt;doubts &lt;s3/&gt;and &lt;s4/&gt;debates &lt;s5/&gt;broke &lt;s6/&gt;out, &lt;s7/&gt;particularly &lt;s8/&gt;starting &lt;s9/&gt;in &lt;s10/&gt;2004.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T021211Z" creationid="rona" creationdate="20160905T020941Z">
+        <seg>Sin embargo, a medida que las inequidades sociales crecían, &lt;s1/&gt; &lt;s2/&gt;se desencadenaron dudas &lt;s3/&gt;y &lt;s4/&gt;debates nuevos&lt;s5/&gt; &lt;s6/&gt;, &lt;s7/&gt;en particular &lt;s8/&gt;a comienzos &lt;s9/&gt;de &lt;s10/&gt;2004.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5815,6 +5823,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014549Z" creationid="Soledad Mori" creationdate="20160905T014549Z">
         <seg>A diferencia de la primavera de 1991, cuando Deng había desistido de tener una confrontación decisiva con sus opositores, en 1992 (con el  &lt;/f0&gt;&lt;f1&gt;XIV Congreso Nacional del Partido Comunista&lt;/f1&gt;&lt;f2&gt; asomándose en el horizonte) Deng estaba decisido a arriesgarse en la lucha por el liderazgo del Partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the earlier round of debates, the more recent ones have reﬂected the growth of an urban public opinion and a populist urge backed up by the growth of the Internet and other technologies.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T021345Z" creationid="rona" creationdate="20160905T021345Z">
+        <seg>Al contrario de las rondas de debate anteriores, las más recientes han reflejado el crecimiento de una opinión pública urbana y una .</seg>
       </tuv>
     </tu>
     <tu>
