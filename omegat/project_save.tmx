@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1811,6 +1811,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160902T221254Z" creationid="bluebird" creationdate="20160902T220546Z">
         <seg>Deng incluso intentó prevenir un ataque fatal a las políticas de Zhao (y as su persona) al declarar que "el informe de las políticas del Décimotercer Congreso del Partido fue promulgada por los representantes del Partido en el congreso; aunque un integrante no se debía cambiar".  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng began to shed his formal authority by stepping down from the Politburo Standing Committee at the Thirteenth Party Congress in September 1987 and then yielding leadership over the Party’s Central&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Military Commission (CMC) to Jiang Zemin inNovember 1989.However, it seems that Deng was unwilling to shed all vestiges of formal authority and rule solely through informal politics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013848Z" creationid="Soledad Mori" creationdate="20160905T013758Z">
+        <seg>Deng comenzó a despojarse de su autoridad formal al renunciar al Comité Permanente del Politburó en el XIII Congreso Nacional (del Partido Comunista Chino) en septiembre de 1987 y con posterioridad al ceder el mando de ceder el mando de la Comisión Militar&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Central del Partido en favor de Jiang Zemin en noviembre de 1989. . Sin embargo, parece que Deng no estaba dispuesto despojarse de todos los vestigios de autoridad formal y a gobernar únicamente a través de la política informal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5407,6 +5415,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T145812Z" creationid="usuario" creationdate="20160903T145812Z">
         <seg>De este modo, como Deng le diejra a Nixon, "los Estados Unidos pueden tomar algunas inciativas; China no puede tomar la iniciativa".&lt;/f2&gt;&lt;f4&gt;86&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, the Thirteenth Party Congress passed a secret resolution to refer all major decisions to Deng Xiaoping as the “helmsman” of the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013913Z" creationid="Soledad Mori" creationdate="20160905T013913Z">
+        <seg>Por ello, el XIII Congreso Nacional (del Partido Comunista Chino) aprobó una resolución secretar para remitir todas las decisiones importantes a Deng Xiaoping como el "timonel" del Partido.</seg>
       </tuv>
     </tu>
     <tu>
