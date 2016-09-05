@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2145,8 +2145,8 @@
       <tuv lang="EN-US">
         <seg>Early neoconservative articles tried to explore a path that differed both in economic and political terms from the 1980s discourse of orthodoxy ver-sus reform and centralization versus decentralization; likewise, the revival of interest in national studies and New Left critiques tried to carve out a path between “socialism” and “Westernization.” This was a question both of political legitimacy – was the Chinese revolution wrong from the very start?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T192607Z" creationid="Rocio" creationdate="20160905T191947Z">
-        <seg>Los primeros artículos neoconservadores trataron de hallar un camino que se diferenciara en términos económicos y políticos del discurso de los 80 de ortodoxia versus reforma y centralización versus descentralización, asimismo, el resurgimiento de interés en los estudios nacionales y en las críticas de la Nueva Izquierda trataron de forjar un camino entre "socialismo" y "occidentalización". Esta era una pregunta tanto sobre la legitimidad política, ¿la revolución china estaba mal desde el comienzo? </seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T193718Z" creationid="Rocio" creationdate="20160905T191947Z">
+        <seg>Los primeros artículos neoconservadores trataron de hallar un camino que se diferenciara en términos económicos y políticos del discurso de los 80 sobre ortodoxia versus reforma y centralización versus descentralización, asimismo, el resurgimiento de interés en los estudios nacionales y en las críticas de la Nueva Izquierda trataron de forjar un camino entre "socialismo" y "occidentalización". Esta era una pregunta tanto de la legitimidad política, ¿la revolución china había estado mal desde el comienzo? </seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,6 +6912,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T004610Z" creationid="PC" creationdate="20160904T004610Z">
         <seg>xiii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>– as well as of Chinese identity: did modernization mean Westernization?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T193842Z" creationid="Rocio" creationdate="20160905T193842Z">
+        <seg>como de identidad china: ¿la modernización significa occidentalización?</seg>
       </tuv>
     </tu>
     <tu>
