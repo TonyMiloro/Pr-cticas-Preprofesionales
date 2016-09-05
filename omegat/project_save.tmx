@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1499,6 +1499,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T021222Z">
         <seg>Bibliografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Books in Western academe began to relate these high growth rates to Asian culture.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T213659Z" creationid="Rocio" creationdate="20160905T213659Z">
+        <seg>Los libros en el mundo académico occidental comenzaron a relacionar estos índices de crecimiento elevados con la cultura asiática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7160,6 +7168,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160905T193842Z" creationid="Rocio" creationdate="20160905T193842Z">
         <seg>como de identidad china: ¿la modernización significa occidentalización?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Confucian capitalism” became a hot topic, both in Asia and the West.32 There was constant talk&lt;s0/&gt;&lt;t1/&gt;of Asia as the most dynamic region in the world, and there was great confidence that the twenty-first century would be the Pacific century, and particularly the Asian century.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T214059Z" creationid="Rocio" creationdate="20160905T214059Z">
+        <seg>El "capitalismo Confuciano" se volvió un tema polémico tanto en Asia como en Occidente. Se hablaba permanentemente de Asia como la región más dinámica del mundo y había mucha confianza de que el siglo veintiuno iba a ser el siglo del Pacífico y particularmente el siglo de Asia. </seg>
       </tuv>
     </tu>
     <tu>
