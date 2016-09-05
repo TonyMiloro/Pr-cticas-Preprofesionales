@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3577,8 +3577,8 @@
       <tuv lang="EN-US">
         <seg>Jiang either had to water down his proposals extensively or break with the left, something he had refrained from doing in the years since his arrival in Beijing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T182750Z" creationid="LENOVO" creationdate="20160905T182713Z">
-        <seg>Jiang tenía que iniciativas </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T182839Z" creationid="LENOVO" creationdate="20160905T182713Z">
+        <seg>Jiang tenía que moderar sus iniciativas en gran medida  </seg>
       </tuv>
     </tu>
     <tu>
