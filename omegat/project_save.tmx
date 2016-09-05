@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4236,6 +4236,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T220040Z" creationid="Bruno Cesar" creationdate="20160904T215757Z">
         <seg>De manera sútil reiterando su propia oposición al rechazo de Deng para ceder el paso a un liderazgo conjunto, Chen presentó a los líderes de Shanghai una copla con rimas que les ordenaba a "no simplemente seguir los que los superiores o los libros decían" sino también a "actuar solo de acuerdo con la realidad".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such cases – and many more – reﬂect the density of corrupt relationships that bind many ofﬁcials and entrepreneurs together.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T003656Z" creationid="rona" creationdate="20160905T003656Z">
+        <seg>Estos casos - y muchos otros- reflejan la densidad de las relaciones corruptas que unen a muchos funcionarios y empresarios.</seg>
       </tuv>
     </tu>
     <tu>
