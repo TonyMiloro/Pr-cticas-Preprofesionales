@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -722,6 +722,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T001117Z" creationid="Usuario-Pc" creationdate="20160905T000743Z">
         <seg>&lt;f0&gt;que sin duda iba a desencadenarse de un  &lt;/f0&gt;&lt;f1&gt;sistema elitista&lt;/f1&gt;&lt;f2&gt; al provocar el desarrollo de una sociedad democrática,  no burocrática donde no existe la division de clases &lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;that certainly would have erupted from such an elitist system by bringing about a non-bureaucratic, classless, and democratic society.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T222004Z" creationid="Usuario-Pc" creationdate="20160905T222004Z">
+        <seg>&lt;f0&gt;que sin duda iban a desencadenarse de un sistema elitista, a través del desarrollo de una sociedad democrática, no burocrática donde no existe la división de clases. </seg>
       </tuv>
     </tu>
     <tu>
