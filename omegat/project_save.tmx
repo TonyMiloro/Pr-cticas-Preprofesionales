@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
         <seg>(1115)Deng declared the Tiananmen incident to be “the inevitable result of the domestic microclimate  and  the  international  macroclimate.” This sense that Tiananmen was inﬂuenced (if not instigated) by outside forces raised the issue of readjusting China’s relations with the outside world, particularly the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T203513Z" creationid="bluebird" creationdate="20160905T203513Z">
-        <seg>(1115)Deng denominó el incidente Tiananmen "el resultado inevitable del microclima doméstico y del macroclima internacional". .</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T204342Z" creationid="bluebird" creationdate="20160905T203513Z">
+        <seg>(1115)Deng denominó el incidente Tiananmen "el resultado inevitable del microclima doméstico y del macroclima internacional".  .</seg>
       </tuv>
     </tu>
     <tu>
