@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -608,8 +608,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Reflecting the same resentment of China’s cultural elite as Wang Xiaodong, Wang Shan declares in &lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt; that intellectuals lack the “knowledge, experience, ability, character, and prestige” to participate effec-tively in government and push forward the democratization of the coun-try.&lt;/f2&gt;&lt;f3&gt;54&lt;/f3&gt;&lt;f4&gt; The history of China’s various democratic movements, beginning with the Hundred Flowers Movement in 1957, shows that owing to the lack of maturity of China’s intellectuals, their struggles have failed to pro-mote the causes for which they strove.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011239Z" creationid="Usuario-Pc" creationdate="20160904T011057Z">
-        <seg>&lt;f0&gt;Con el mismo resentimiento que expresa Wang Xiaodong hacia la elite cultural de China, Wang Shan declara en&lt;/f0&gt;&lt;f1&gt;El Tercer Ojo&lt;/f1&gt;&lt;f2&gt; que a os intelectuales les falta "conocimiento, experiencia, habilidad, caracter y prestigio" para participar en el gobierno de forma eficaz y seguir adelante con la democratización del pais.&lt;/f2&gt;&lt;f3&gt;54&lt;/f3&gt;&lt;f4&gt;  La historia de los diferentes movimientos democraticos de China, empezando por el Movimiento de las Cien Flores de 1957, muestra que los esfuerzos realizados para promover las causas por las que lucharon los intelectuales de China han fallado debido a su falta de madurez.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T211356Z" creationid="Usuario-Pc" creationdate="20160904T011057Z">
+        <seg>&lt;f0&gt;Con el mismo resentimiento que expresa Wang Xiaodong para con la élite cultural de China, Wang Shan declara en  &lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt;  que a los intelectuales les falta "conocimiento, experiencia, habilidad, carácter y prestigio" para participar en el gobierno de forma eficaz y seguir adelante con la desmoralización del país.&lt;/f2&gt;&lt;f3&gt;54&lt;/f3&gt;&lt;f4&gt;  La historia de los diferentes movimientos democráticos de China, empezando por el Movimiento de las Cien Flores de 1957, muestra que los esfuerzos realizados para promover las causas por las que lucharon los intelectuales de China han fallado debido a su falta de madurez.</seg>
       </tuv>
     </tu>
     <tu>
