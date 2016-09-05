@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3809,8 +3809,8 @@
       <tuv lang="EN-US">
         <seg>Li Ruihuan was another possibility, but his weak educational background no doubt eliminated him as a serious contender.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T025920Z" creationid="bluebird" creationdate="20160905T025920Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T195440Z" creationid="bluebird" creationdate="20160905T025920Z">
+        <seg>Li Ruihuan era otra opción, pero su formación limitada .</seg>
       </tuv>
     </tu>
     <tu>
