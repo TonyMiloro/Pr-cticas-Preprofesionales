@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4959,6 +4959,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T043029Z" creationid="USUARIO" creationdate="20160903T192114Z">
         <seg>La historia del desarrollo intelectual en la década de los 80 fue una etapa de indagación autocrítica (¿cómo podría haber ocurrido la Revolución Cultural?), de una apertura cosmopolita al mundo, y de esperanza y aspiración democrática (aunque una investigación seria de estas posturas debe incluir un análisis crítico de las suposiciones subyacentes acerca la democracia)10. En la década de los 90, muchos intelectuales estaban más a favor de su propio gobierno y eran más críticos respecto a Occidente que en cualquier otro momento desde el Movimiento del Cuatro de Mayo de 1919.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The struggle for dominance</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T012149Z" creationid="Soledad Mori" creationdate="20160905T012125Z">
+        <seg>La lucha por el dominio</seg>
       </tuv>
     </tu>
     <tu>
