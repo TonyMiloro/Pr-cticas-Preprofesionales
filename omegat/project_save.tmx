@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2599,6 +2599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the summer, central and provincial leaders stopped voicing concerns about emancipating the mind or not worrying about whether a given reform was socialist or capitalist.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T230925Z" creationid="carolaamiel" creationdate="20160905T230824Z">
+        <seg>Durante el verano, los líderes centrales y provinciales dejaron de plantear sus preocupaciones por la emancipación la mente o  por si una reforma era socialista o capitalista..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For them, as for their predecessors of the past century and more, the questions of identity continue to loom large: China’s relationship to the outside world (inevitably summed up as “the West”), the state’s relationship to society, and the present’s relationship with the past.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T175523Z" creationid="Nico" creationdate="20160904T175523Z">
@@ -2619,6 +2627,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T011759Z" creationid="Usuario" creationdate="20160902T212717Z">
         <seg>El expresidente Yang Shangkun fallece a los </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Four explanations seem possible.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T231011Z" creationid="carolaamiel" creationdate="20160905T231005Z">
+        <seg>Cuatro explicaciones parecen posibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6159,6 +6175,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T175616Z" creationid="Nico" creationdate="20160904T175616Z">
         <seg>Este grupo se distanció en gran medida de las salas de gobierno en la década de los 90, pero en los primeros años de este siglo ha adquirido mucha más relevancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This hiatus in the slow but steady progress that advocates of reform had been making at least since the September 1990 economic conference is difficult to explain.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T230941Z" creationid="carolaamiel" creationdate="20160905T230941Z">
+        <seg>Este hiato en el proceso lento pero continuo que los defensores de la reforma habían estado haciendo por lo menos desde la conferencia económica de septiembre de 1990 es difícil de explicar.</seg>
       </tuv>
     </tu>
     <tu>
