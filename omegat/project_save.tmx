@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2857,8 +2857,8 @@
       <tuv lang="EN-US">
         <seg>In the 1980s, the rapid growth of township and village enterprises (TVEs) drew nearly 130 million off the land, but the number of jobs being created by TVEs has stagnated now for nearly a decade.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T012356Z" creationid="rona" creationdate="20160905T011430Z">
-        <seg>En los 80`s, el rápido crecimiento de las TVE (HAY QUE CHEQUEAR CON EL GLOSARIO)  .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160905T013008Z" creationid="rona" creationdate="20160905T011430Z">
+        <seg>En los 80`s, el rápido crecimiento de las TVE (HAY QUE CHEQUEAR CON EL GLOSARIO) provocó que 130 millones dejaran la tierra, pero el número de empleos creados por las TVE se han estancado por casi una década .</seg>
       </tuv>
     </tu>
     <tu>
