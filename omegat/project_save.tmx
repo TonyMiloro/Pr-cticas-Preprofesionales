@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Zhu promptly renamed the group the State Council Production Office&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;(&lt;/f1&gt;&lt;f3&gt;Guowuyuan shengchan bangongshi&lt;/f3&gt;&lt;f4&gt;).&lt;/f4&gt;&lt;f5&gt;23&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;To put Zhu in charge of the State Council Production Office and of clearing up interenterprise debts marked an obvious policy failure for Li Peng, Zou Jiahua, and Ye Qing, but it did pass the hottest of hot potatoes to&lt;s8/&gt;&lt;/f6&gt;&lt;f9&gt;their rival Zhu Rongji.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T013624Z" creationid="Administrador" creationdate="20160905T013103Z">
-        <seg>&lt;f0&gt;Zhu rápidamente renombró este organizmo como la Oficina Estatal del Consejo de la Producción&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;(&lt;/f1&gt;&lt;f3&gt;Guowuyuan shengchan bangongshi&lt;/f3&gt;&lt;f4&gt;).&lt;/f4&gt;&lt;f5&gt;23&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Poner a cargo a Zhu de la Oficina Estatal del Consejo de la Producción y de saldar las deudas interempresariales puso en evidencia un claro error político de Li Pen, Zou Jiahua y Ye Quing, pero le pasó "la papa más caliente" a&lt;s8/&gt;&lt;/f6&gt;&lt;f9&gt;their rival Zhu Rongji.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T013745Z" creationid="Administrador" creationdate="20160905T013103Z">
+        <seg>&lt;f0&gt;Zhu rápidamente renombró este organizmo como la Oficina Estatal del Consejo de la Producción&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;(&lt;/f1&gt;&lt;f3&gt;Guowuyuan shengchan bangongshi&lt;/f3&gt;&lt;f4&gt;).&lt;/f4&gt;&lt;f5&gt;23&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Poner a cargo a Zhu de la Oficina Estatal del Consejo de la Producción y de saldar las deudas interempresariales puso en evidencia un claro error político por parte de Li Pen, Zou Jiahua y Ye Quing, pero le pasó "la papa más caliente" a&lt;s8/&gt;&lt;/f6&gt;&lt;f9&gt;su rival político Zhu Rongi.</seg>
       </tuv>
     </tu>
     <tu>
