@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6013,8 +6013,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This was particularly the case when President Bush and National Security Adviser Brent Scowcroft, both schooled in realpoli-tik, left Washington to be replaced by people with a much more activist approach to human rights, including Anthony Lake, Secretary of State Warren Christopher, and Undersecretary of State for East Asian and Pacific Affairs Winston Lord.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T205701Z" creationid="Rocio" creationdate="20160905T205701Z">
-        <seg>Este fue el caso partiPresident Bush and National Security Adviser Brent Scowcroft, both schooled in realpoli-tik, left Washington to be replaced by people with a much more activist approach to human rights, including Anthony Lake, Secretary of State Warren Christopher, and Undersecretary of State for East Asian and Pacific Affairs Winston Lord.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T210350Z" creationid="Rocio" creationdate="20160905T205701Z">
+        <seg>Este fue particularmente el caso cuando el presidente Bush y el Asosor de Seguridad Nacional  Brent Scowcroft, ambos educados en realpoli-tik, dejaron Washington para ser reemplazados por gente con un enfoque mucho más activista sobre los derechos humanos como Anthony Lake,  el Secretario de Estado Warren Christopher y Undersecretary of State for East Asian and Pacific Affairs Winston Lord.</seg>
       </tuv>
     </tu>
     <tu>
