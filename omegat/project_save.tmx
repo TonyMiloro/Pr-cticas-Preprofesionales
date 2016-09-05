@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2857,8 +2857,8 @@
       <tuv lang="EN-US">
         <seg>In 1937 he tested into the prestigious Yangzhou Middle School, where he pursued his interests in literature and music.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T202929Z" creationid="bluebird" creationdate="20160905T202818Z">
-        <seg>En 1937 tomó los exámenes para la prestigiosa escuela secundaria Yangzhou, donde siguió el trayecto literario y música.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T203036Z" creationid="bluebird" creationdate="20160905T202818Z">
+        <seg>En 1937 tomó los exámenes para la prestigiosa escuela secundaria Yangzhou, donde siguió el trayecto literario y musical.</seg>
       </tuv>
     </tu>
     <tu>
