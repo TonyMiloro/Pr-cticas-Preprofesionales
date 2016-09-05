@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1513,8 +1513,8 @@
       <tuv lang="EN-US">
         <seg>Building on the aca-demic literature on “democratic peace,” Lake turned theory into practice, arguing that the world would be a safer place if American policy could help foster democracies around the world.29 At the same time, as the Cold War came to a close and as images of Tiananmen remained vivid in people’s minds, human rights came to have a greater importance in US foreign policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T203657Z" creationid="Rocio" creationdate="20160905T203341Z">
-        <seg>Construyendo sobre la literatura ac.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T204728Z" creationid="Rocio" creationdate="20160905T203341Z">
+        <seg>Construyendo sobre la base de la literatura académica sobre "la paz democrática", Lake convirtió la teória en práctica argumentando que el mundo sería un lugar más seguro si la politica estadounidense podía ayudar a las democracias alrededor del mundo. Al mismo tiempo, mientras que la Guerra Fría llegó a su fin y las imágenes de Tiananmen permanecieron npitidas en la memoría de la gente, los derechos humanos obtuvieron mayor importancia en la política exterior de Estados Unidos. </seg>
       </tuv>
     </tu>
     <tu>
