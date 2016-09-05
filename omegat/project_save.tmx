@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2387,6 +2387,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160902T000220Z" creationid="Sabri" creationdate="20160902T000220Z">
         <seg>En 1989, Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; había hecho hincapié en la diferencia&lt;t10/&gt; &lt;t11/&gt;entre reforma "socialista" y abrirse contra reforma "capitalista" y &lt;t12/&gt; &lt;t13/&gt;abrirse; en 1991, había hecho hincapié en el peligro de una "evolución pacífica".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1989, however, Tiananmen opened divisions within the Party that far exceeded those existing two years before.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lu" changedate="20160905T001533Z" creationid="Lu" creationdate="20160905T001411Z">
+        <seg>Sin embargo, en 1989, Tiananmen inició la división interna del Partido que excedió aquellas ya presentes desde hacía dos años. </seg>
       </tuv>
     </tu>
     <tu>
