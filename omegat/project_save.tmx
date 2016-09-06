@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1675,6 +1675,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173255Z">
         <seg>China desde Tiananmén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHINA SINCE TIANANMEN: From Deng Xiaoping to Hu Jintao</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160906T003422Z" creationid="Franco" creationdate="20160906T003422Z">
+        <seg>China desde Tiananmén: desde Deng Xiaoping hasta Hu Jintao</seg>
       </tuv>
     </tu>
     <tu>
