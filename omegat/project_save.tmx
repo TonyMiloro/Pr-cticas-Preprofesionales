@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5935,6 +5935,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T022011Z" creationid="USUARIO" creationdate="20160903T230348Z">
         <seg>Los ideales y esperanzas de estos y otros intelectuales se vieron destrozados luego de las Protestas de la Plaza de de Tiananmén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The incident further confirmed the economic and social bases of contemporary Chinese nationalism and the differing responses of the Chinese leadership to international economic forces and the social changes in China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160906T161152Z" creationid="Lucrecia" creationdate="20160906T161152Z">
+        <seg>El incidente además confirmó las bases económicas y sociales del nacionalismo contemporáneo chino y las diferentes respuestas de .</seg>
       </tuv>
     </tu>
     <tu>
