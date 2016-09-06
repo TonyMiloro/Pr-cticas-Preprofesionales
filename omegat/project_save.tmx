@@ -648,8 +648,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Politburo membership before and after the Seventeenth &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T234814Z" creationid="Bangho" creationdate="20160906T234814Z">
-        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del décimo séptimo &lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T234852Z" creationid="Bangho" creationdate="20160906T234814Z">
+        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del Décimo séptimo &lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4984,6 +4984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Party Congress</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T234913Z" creationid="Bangho" creationdate="20160906T234913Z">
+        <seg>Congreso del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Party Secretary of Shanghai Chen Liangyu is</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045300Z" creationid="PC" creationdate="20160904T045300Z">
@@ -5188,6 +5196,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045217Z" creationid="PC" creationdate="20160904T045217Z">
         <seg>Se publican obras selectas de Jiang Zemin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected in 2002</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T235126Z" creationid="Bangho" creationdate="20160906T235126Z">
+        <seg>Electos en 2002</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected in 2007</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T235141Z" creationid="Bangho" creationdate="20160906T235141Z">
+        <seg>Electos en 2007</seg>
       </tuv>
     </tu>
     <tu>
