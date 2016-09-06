@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3123,6 +3123,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011341Z" creationid="USER" creationdate="20160905T011341Z">
         <seg>En 1985, nuevamente con el respaldo de Wang Daohan, Jiang fue nombrado intendente de Shanghái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1988, CASS economists Shen Liren and Dai Yuanchen, in a highly influential article, introduced the term “feudal lord economy”&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;(zhuhou jingji)&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;to describe this phenomenon.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160906T005134Z" creationid="Franco" creationdate="20160906T005134Z">
+        <seg>En 1988, los economistas de la facultad CASS Shen Liren y Dai Yuanchen, en un artículo que resultó de gran influencia, introdujeron el término "economía feudo-regionalista"&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;(zhuhou jingji)&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;para describir este fenómeno.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
