@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2195,6 +2195,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160905T173832Z" creationid="Mariela" creationdate="20160905T172529Z">
         <seg>Deng se esforzó para logar un equilibrio en el partido en el que duraría más tiempo y que contrastara con la situación de liderazgo extremadamente divisiva que Mao Zedong dejó como consecuencia cuando falleció en el año 1976. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng, however, was not without resources; he was still the “core” of the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160906T000348Z" creationid="bluebird" creationdate="20160906T000348Z">
+        <seg>Deng, sin embargo, aún tenía recursos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6083,6 +6091,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is little question that Deng’s prestige plummeted in the wake of Tiananmen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160906T000317Z" creationid="bluebird" creationdate="20160906T000317Z">
+        <seg>No existía evidencia de que el prestigio de Deng decayó luego de Tiananmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There may also&lt;t10/&gt; &lt;t11/&gt;have been an element of bureaucratic competition involved.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160831T212454Z">
@@ -6319,6 +6335,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T164613Z" creationid="Nico" creationdate="20160904T164613Z">
         <seg>Esta tendencia, en teoría, debería disminuir la brecha entre las dos comunidades y facilitar la comunicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was a highly contentious process.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160906T000040Z" creationid="bluebird" creationdate="20160906T000040Z">
+        <seg>Fue un proceso controvercial.</seg>
       </tuv>
     </tu>
     <tu>
