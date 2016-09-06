@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2297,8 +2297,8 @@
       <tuv lang="EN-US">
         <seg>Deng’s offensive from the fall of 1990 through the spring of 1991 would prove to be a trial run for his efforts of the following year, but in 1991 he came up short.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T181303Z" creationid="Bruno Cesar" creationdate="20160904T181303Z">
-        <seg>La ofensiva de Deng desde el otoño de 1990 hasta la primavera de 1991 demostraría ser un período de prueba de sus intentos en el año próximo, pero en 1991 no obtuvo lo suficiente. </seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160906T220302Z" creationid="Bruno Cesar" creationdate="20160904T181303Z">
+        <seg>La ofensiva de Deng desde el otoño de 1990 hasta la primavera de 1991 demostraría ser un período de prueba de sus intentos para el año próximo, pero en 1991 no obtuvo lo suficiente. </seg>
       </tuv>
     </tu>
     <tu>
