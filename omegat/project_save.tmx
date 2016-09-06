@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2879,6 +2879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Had he not done so, says Wang derisively, “today China would 50 See Yang Ping, “The Third Eye – Commenting on Seeing China through a Third Eye”; Sha Feng, “Ultraleftists within CCP Launch Comeback by Criticizing Five New Rightists”; and Tseng Hui-yen, “Looking at China with a Third Eye Reportedly Written by Pan Yue.” 51 Wang Shan [Luo yi ning ge er], Disanzhi yanjing kan Zhongguo, pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160906T155124Z" creationid="Backup" creationdate="20160906T155124Z">
+        <seg>Si no lo hubiera hecho, dice Wang con sorna, "hoy China sería </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He also urged his colleagues to be bolder and to take some risks.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; These remarks evidently caused Jiang Zemin to revise his speech to the Seventh Plenum to declare that it was necessary to persist unswervingly in reform and opening up.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;4&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; One report indicates that Jiang made opening remarks to the plenum – but, if so, they have not been publicized; his closing remarks do contain a section called “firmly persist in reform and enlarge the scope of opening up.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;5&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020216Z">
@@ -4924,6 +4932,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160905T215239Z" creationid="Backup" creationdate="20160905T215239Z">
         <seg>por medio de publicaciones que se convirtieron instantaneamente en best sellers; al hacerlo, Wang demostró que la población urbana se identificaba ampliamente con sus dudas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 Neostatism and popular nationalism 155 look like India.”52 Mao tried to transform the peasants, but after the Great Leap Forward they revealed their “spontaneous capitalist tendencies” and challenged the Party through their laziness, migration, and black markets, confirming Mao’s fears that rural society was a “hotbed of spontaneous disease and germs.” In the end, Wang suggests, it was the peasants who betrayed Mao and not the other way around, but then “we often find that Chinese simply do not understand or love their leader, Mao Zedong.”53 Reflecting the same resentment of China’s cultural elite as Wang Xiaodong, Wang Shan declares in A Third Eye that intellectuals lack the “knowledge, experience, ability, character, and prestige” to participate effec- tively in government and push forward the democratization of the coun- try.54 The history of China’s various democratic movements, beginning with the Hundred Flowers Movement in 1957, shows that owing to the lack of maturity of China’s intellectuals, their struggles have failed to pro- mote the causes for which they strove.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160906T155325Z" creationid="Backup" creationdate="20160906T155325Z">
+        <seg>como India" Mao trató de transformar a los campesinos, pero despues del Gran Salto Adelante revelaron sus "espontáneas tendencias capitalistas" y </seg>
       </tuv>
     </tu>
     <tu>
