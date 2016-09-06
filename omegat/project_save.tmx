@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1675,6 +1675,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T003709Z">
         <seg>Para septiembre, un 44 por ciento de las empresas estatales (State-owned enterprise, SOE) estaban perdiendo dinero, las "deudas triangulares" habían disparado a 400 mil millones de yuanes, y alrededor del 80 por ciento del ingreso de las SOEs fue al servicio de la deuda &lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. A mediados de septiembre , la Oficina Nacional de Estadísticas publicó un informe en el que dijo que la economía china estaba a punto de entrar en la " zona roja ", lo que indica serios problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By keeping peasants (described as “lacking in educa- tion and full of traditional rebelliousness”) “locked docilely” on the land and by “squeezing the peasants’ stomachs,” Mao was able to pursue indus- trialization for three decades and was able to turn China into a nuclear power.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160906T154229Z" creationid="Backup" creationdate="20160906T153920Z">
+        <seg>Al mantener a los campesinos (a quienes se describe como "sin educación y llenos de la rebedía tradicional") "atrapados dócilmente" en los campos y al "exprimirles las barrigas" Mao fue capaz de llevar a cabo la industrialización durante tres décadas y pudo convertir a China en una potencia nuclear.  </seg>
       </tuv>
     </tu>
     <tu>
