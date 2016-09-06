@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1547,6 +1547,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T212426Z" creationid="Usuario" creationdate="20160902T211020Z">
         <seg>La Universidad de Pekín celebra su centésimo aniversario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Between 1978 and 1992, central government revenues as a percentage of GDP had fallen from 31.2 percent to 14.7 percent, suggesting that the central government had been weakened to the extent that it could no longer maintain control over macroeconomic policy — and inflation was then a major concern.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160906T004741Z" creationid="Franco" creationdate="20160906T004741Z">
+        <seg>Entre 1978 y 1992, el ingreso público del gobierno central como un porcentaje del PBI había caído de 31,2 por ciento a 14,7 por ciento, lo que sugería que el gobierno central se había debilitado al punto de ya no poder mantener el control sobre las políticas macroeconómicas (y la inflación era entonces una preocupación mayor).</seg>
       </tuv>
     </tu>
     <tu>
