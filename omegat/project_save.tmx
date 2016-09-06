@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1257,8 +1257,8 @@
       <tuv lang="EN-US">
         <seg>As Zhou &lt;t0/&gt;Ruijin&lt;t1/&gt; put it, Deng “coolly observed and contemplated” the conflict as it developed.32 Third, events in the Soviet Union – namely, Gorbachev’s turn to the right, which culminated in cracking down on the Baltic republics in January 1991 – may have bolstered conservatives in Beijing, who are likely to have seen such a shift as a sign that the Soviet Union, too, was finally backing away from radical reform.33 Fourth, the swift American victory in the Gulf War, which caught China off guard,</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160906T004314Z" creationid="carolaamiel" creationdate="20160905T235439Z">
-        <seg>Como lo explicó Zhou &lt;t0/&gt;Ruijin&lt;t1/&gt;, Deng “observó y contempló con tranquilidad” el conflicto a medida que se desarrollaba.32 La tercera explicación supone que, los acontecimientos en la Unión Soviética – específicamente, el cambio de Gorbachev a la derecha, lo que culminó en cracking down on the Baltic republics in January 1991 – may have bolstered conservatives in Beijing, who are likely to have seen such a shift as a sign that the Soviet Union, too, was finally backing away from radical reform.33 Fourth, the swift American victory in the Gulf War, which caught China off guard,</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160906T004612Z" creationid="carolaamiel" creationdate="20160905T235439Z">
+        <seg>Como lo explicó Zhou &lt;t0/&gt;Ruijin&lt;t1/&gt;, Deng “observó y contempló con tranquilidad” el conflicto a medida que se desarrollaba.32 La tercera explicación supone que, los acontecimientos en la Unión Soviética – específicamente, el cambio de Gorbachov a la derecha, lo que culminó en cracking down on the Baltic republics in January 1991 – may have bolstered conservatives in Beijing, who are likely to have seen such a shift as a sign that the Soviet Union, too, was finally backing away from radical reform.33 Fourth, the swift American victory in the Gulf War, which caught China off guard,</seg>
       </tuv>
     </tu>
     <tu>
