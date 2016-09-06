@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6861,8 +6861,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang seems to be an unsatisfied and intemperate person; his literary agent noted that Wang switched jobs frequently, and “always inexplicably ended by being fired.”45 Wang declared that the greatest influences on his thinking were a “sense of responsibility” bequeathed by his father’s generation to carry on the task of the revolution and the “heroic thought” (yingxiong zhuyi sichao) of tempering oneself through struggle, something he apparently cultivated during the Cultural Revolution.46 Unlike most of those older than himself, Wang obviously retained a romantic attachment to the Cultural Revolution and to the figure of Mao Zedong, a passion that flared up with Deng’s trip to the south in 1992 and the resulting wave of speculation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T191135Z" creationid="Backup" creationdate="20160902T141115Z">
-        <seg>Wang parecía ser una persona insatisfecha y desmedida.; su agente literario notó que Wang cambiaba frecuentemente de trabajo, y "siempre lo despedían sin explicación".45 Wang declaró que lo que más influenció su pensamieto fue una "sensación de responsabilidad" que le fue transmitida por la generación de su padre para continuar con la tarea de la revolución, y el "pensamiento heróico"  de templarse a uno mismo a través de la lucha, algo que aparentemente cultivó durante la revolución cultural.46 A diferencia de esos más grandes que el, Wang obviamente retuvo un apego a la revolución cultural y a la figura de Mao Zedong, una pasión que se encendió con el viaje de Deng al sur en 1992 y la consecuente ola de especulación. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160906T200821Z" creationid="Backup" creationdate="20160902T141115Z">
+        <seg>Wang parecía ser una persona insatisfecha y desmedida; su agente literario notó que Wang cambiaba frecuentemente de trabajo, y "siempre lo despedían sin explicación".45 Wang declaró que lo que más influenció su pensamiento fue una "sensación de responsabilidad" que le fue transmitida por la generación de su padre para continuar con la tarea de la revolución, y el "pensamiento heroico"  de templarse a uno mismo a través de la lucha, algo que aparentemente cultivó durante la revolución cultural.46 A diferencia de esos más grandes que él, Wang obviamente retuvo un apego a la revolución cultural y a la figura de Mao Zedong, una pasión que se encendió con el viaje de Deng al sur en 1992 y la consecuente ola de especulación. </seg>
       </tuv>
     </tu>
     <tu>
