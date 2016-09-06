@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Politburo membership before and after the Seventeenth &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T234814Z" creationid="Bangho" creationdate="20160906T234814Z">
+        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del décimo séptimo &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The Fourth Plenary Session of the Fourteenth Central Committee convened in Beijing on September 25–28, 1994.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232757Z">
