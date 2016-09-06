@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -698,6 +698,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T223335Z" creationid="Administrador" creationdate="20160904T223335Z">
         <seg>&lt;f0&gt;Zou Jiaha, y Zhu Rongji..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;central-local&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;relations&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160906T004044Z" creationid="Franco" creationdate="20160906T004044Z">
+        <seg>&lt;f0&gt;relaciones&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;central-local&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5204,6 +5212,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212026Z" creationid="usuario" creationdate="20160903T212026Z">
         <seg>Shen Liren y Dai Yuanchen, “Woguo ‘zhuhou jingji’ de xingcheng ji qi biduan he genyuan”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shen Liren and Dai Yuanchen, “Woguo ‘zhuhou jingji’ de xingcheng jiqi biduan he genyuan.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160906T004111Z" creationid="Franco" creationdate="20160906T004111Z">
+        <seg>Shen Liren y Dai Yuanchen, “Woguo ‘zhuhou jingji’ de xingcheng jiqi biduan he genyuan.”</seg>
       </tuv>
     </tu>
     <tu>
