@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3081,8 +3081,8 @@
       <tuv lang="EN-US">
         <seg>If Chen’s reminders to Deng were gentle – almost obscure – others were willing to be much more direct.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T220208Z" creationid="Bruno Cesar" creationdate="20160904T220208Z">
-        <seg>Si los recordatorios de Chen a Deng eran sutiles, poco clarosm otros estaban dispuesto a ser mucho más directos.</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160906T220958Z" creationid="Bruno Cesar" creationdate="20160904T220208Z">
+        <seg>Si los recordatorios de Chen a Deng eran sutiles, poco claros, otros estaban dispuestos a ser mucho más directos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3665,8 +3665,8 @@
       <tuv lang="EN-US">
         <seg>Indeed, as soon as the &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping commentaries appeared, conservatives launched an investigation into their background, an effort that apparently concluded only when Deng’s office let it be known that Deng himself lay behind the commentaries.30 The knowledge that the commentaries expressed Deng’s views apparently did not impress conservative leaders any more than had Deng’s previous efforts to promote his views in the capital, and conservatives launched a variety of direct and indirect assaults on Deng’s policies and the &lt;t2/&gt;Huangfu&lt;t3/&gt; Ping commentaries.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T221652Z" creationid="Bruno Cesar" creationdate="20160904T220725Z">
-        <seg>De hecho, apenas aparecieron los comentarios de Huangfu Ping, los conservadores impulsaron una investigación de los antecendentes, un esfuerzo que aparentemente concluyo solo cuand la oficina de Deng dio a conocer que el propio Deng había respaldado los comentarios. 30 El conomiento de que los comentarios expresaba la opinión de Deng aparentemente no impresionó a los líderes conservadores tanto como los esfuerzos previos de Deng para promover su punto de vista en el capital, y los conservadores lanzaron una variedad de ataques directos e indirectos a las políticas de Deng y a los comentarios de Huangfu Ping.</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160906T221012Z" creationid="Bruno Cesar" creationdate="20160904T220725Z">
+        <seg>De hecho, apenas aparecieron los comentarios de Huangfu Ping, los conservadores impulsaron una investigación de los antecedentes, un esfuerzo que aparentemente concluyo solo cuand la oficina de Deng dio a conocer que el propio Deng había respaldado los comentarios. 30 El conomiento de que los comentarios expresaba la opinión de Deng aparentemente no impresionó a los líderes conservadores tanto como los esfuerzos previos de Deng para promover su punto de vista en el capital, y los conservadores lanzaron una variedad de ataques directos e indirectos a las políticas de Deng y a los comentarios de Huangfu Ping.</seg>
       </tuv>
     </tu>
     <tu>
