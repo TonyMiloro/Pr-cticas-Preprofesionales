@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2091,6 +2091,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T152359Z" creationid="LENOVO" creationdate="20160904T135947Z">
         <seg>La muerte de &lt;t0/&gt;Deng y la jugada de &lt;t1/&gt;Jiang&lt;t2/&gt; para consolidar su poder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOB</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T235554Z" creationid="Bangho" creationdate="20160906T235554Z">
+        <seg>Fecha de nacimiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -5020,6 +5028,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T203724Z" creationid="Usuario" creationdate="20160902T005859Z">
         <seg>Reunión del Politburó apoya a Deng Xiaoping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T235604Z" creationid="Bangho" creationdate="20160906T235604Z">
+        <seg>Cargo</seg>
       </tuv>
     </tu>
     <tu>
