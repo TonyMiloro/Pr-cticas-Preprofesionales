@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6351,6 +6351,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173513Z">
         <seg>El ataque a la tradición de la iluminación 113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The evidence coming out of the Congress suggests that Hu Jintao was quite successful, if not as successful as he perhaps would have wanted to be.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T193906Z" creationid="Mariela" creationdate="20160907T193527Z">
+        <seg>La evidencia que surgía del Congreso indica que Hu Jintao triunfaría ampliamente, quizá  </seg>
       </tuv>
     </tu>
     <tu>
