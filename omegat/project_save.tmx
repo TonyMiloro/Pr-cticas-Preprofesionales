@@ -5400,10 +5400,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Political systems can simply ignore socioeconomic change, leading to stagnation (both economic and political) and collapse.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160907T215652Z" creationid="Administrador" creationdate="20160907T215652Z">
+        <seg>Un sistema político puede simplemente ignorar los cambios socioeconómicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Political systems confronted by socioeconomic change can respond in a variety of &lt;t0/&gt;ways, not all of which are “rational” from the perspective of enhancing the overall performance of the system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160907T215610Z" creationid="Administrador" creationdate="20160907T214824Z">
-        <seg>Un sistema político que se ve enfrentado a cambios socioenconómicos puede responder de muchas maneras que pueden no ser "racionales" desde una perspectiva de mejoramiento del desempeño integral del sistema </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160907T215617Z" creationid="Administrador" creationdate="20160907T214824Z">
+        <seg>Un sistema político que se ve enfrentado a cambios socioenconómicos puede responder de muchas maneras que pueden no ser "racionales" desde una perspectiva de mejoramiento del desempeño integral del sistema. </seg>
       </tuv>
     </tu>
     <tu>
