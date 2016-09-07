@@ -1223,6 +1223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although the May Fourth enlightenment project dominated intellectual endeavors in the 1980s, it was badly shaken by the end of the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T194037Z" creationid="ROMI" creationdate="20160907T193645Z">
+        <seg>Aunque  el proyecto de iluminación dominó los esfuerzos intelectuales en la década </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the Party still claims legitimacy on the basis of Marxism-Leninism and this claim has important consequences for the political system, everyone is aware that performance legitimacy has become far more important than ideology in justifying the govern-ment’s continued rule.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T024105Z" creationid="Administrador" creationdate="20160904T021646Z">
@@ -1889,8 +1897,8 @@
       <tuv lang="EN-US">
         <seg>C R I T I Q U E O F T H E M AY F O U RT H E N L I G H T E N M E N T P R O J E C T</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T193351Z" creationid="ROMI" creationdate="20160907T193351Z">
-        <seg>CRÍTICA AL PROYECTO DE ILUMINACIÓN DEL CUATRO DE MAYO</seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T193729Z" creationid="ROMI" creationdate="20160907T193351Z">
+        <seg>CRÍTICA AL PROYECTO DE LAS LUCES DEL CUATRO DE MAYO</seg>
       </tuv>
     </tu>
     <tu>
