@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2015,6 +2015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coming into his own as a political leader, Jiang &lt;t0/&gt;Zemin&lt;t1/&gt; recognized the importance of improving relations with the United States for both domestic reform and his own legitimacy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013719Z" creationid="Usuario" creationdate="20160907T013719Z">
+        <seg>En su mejor momento como líder político, Jiang Zemin reconoció la importancia de mejorar las relaciones con Estados Unidos tanto para una reforma nacional como para su propia legitimidad.   &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commission</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T043756Z" creationid="PC" creationdate="20160904T043756Z">
@@ -3771,6 +3779,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T045748Z" creationid="USUARIO" creationdate="20160903T231516Z">
         <seg>En efecto, el cambio más importante en el panorama intelectual de China desde aquel entonces fue el hecho de que el discurso común que le había dado vigor a las discusiones de la década de los 80 se desintegró luego de que los ideales de la Ilustación se vieran, por primera vez desde el Movimiento del Cuatro de Mayo, cuestionados o rechazados por una número considerable de intelectuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, there is reason to believe that conservatives in China had scant interest in improving relations with the United States, at least past a certain point.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013545Z" creationid="Usuario" creationdate="20160907T013545Z">
+        <seg>De hecho, existen razones que llevan a pensar que los conservadores en China tenían poco interés en mejorar las relaciones Estados Unidos, al menos hasta cierto punto. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5692,6 +5708,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T165351Z" creationid="Usuario" creationdate="20160902T215008Z">
         <seg>Se crea un cuerpo especial para investigar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension with the leading capitalist nation in the world had the effect of legitimizing continued efforts to oppose “bourgeois liberalization” at home and to delegitimize the private economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013634Z" creationid="Usuario" creationdate="20160907T013634Z">
+        <seg>La tensión existente con el principal país capitalista del mundo daba lugar a la legitimación de constantes intentos de resistir la "liberalización burguesa" en China y de deslegitimar la economía privada.   .</seg>
       </tuv>
     </tu>
     <tu>
