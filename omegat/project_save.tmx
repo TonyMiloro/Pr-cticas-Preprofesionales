@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6010,8 +6010,8 @@
       <tuv lang="EN-US">
         <seg>Such values and categories proved powerful when reflecting on the failings of socialism in the 1980s, but they lost their vigor, Wang argued, as globalization and marketization changed the relationships between state and society in China and between China and the outside world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T203250Z">
-        <seg>Dichos valores y categorias resultaron poderosas al reflexionar sobre las fallas del socialismo en la década de los años ochenta, pero perdieron su vigor ya que la globalización y la mercadización modificaron las relaciones entre el estado y la sociedad en China y entre China y el mundo exterior, argumentó Wang.  </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T214836Z" creationid="ROMI" creationdate="20160907T195020Z">
+        <seg>Dichos valores y categorias resultaron poderosas al reflexionar sobre los fracasos del socialismo en los años ochenta, pero perdieron su vigor ya que la globalización y la mercadización modificaron las relaciones entre el estado y la sociedad en China, asi como también entre China y el mundo exterior, según Wang.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -6269,8 +6269,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The basic problem was that globalization and marketization did not lead to the “good society.” China’s reform had indeed marketized the economy and linked it to the world, as enlightenment intellectuals had urged, but the result was not fairness and social justice – much less political democracy</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T205558Z">
-        <seg>El problema fundamental fue que la globalización y la mercadización no resultaron en una "buena sociedad". La reforma de China había, de hecho, marquetizado la economía y la había conectado con el mundo, como los intelectuales de la Ilustración habían deseado, pero el resultado no fue la legitimidad y la justicia social - mucha menos democracia política</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T215508Z" creationid="Gime" creationdate="20160907T205558Z">
+        <seg>El problema fundamental fue que la globalización y la mercadización no resultaron en una "buena sociedad". La reforma de China había, de hecho, marquetizado la economía y la había conectado con el mundo, tal como los intelectuales de la Ilustración querían. El resultado no fue la legitimidad y la justicia social (mucho menos la democracia política</seg>
       </tuv>
     </tu>
     <tu>
@@ -7493,8 +7493,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Hui, the editor of Reading mentioned previously, has argued that enlight-enment thought lost its vitality because it was predicated on a fundamental acceptance of Western categories of thought – including liberal democ-racy,33 neoclassical economics, individualism, and law – and because it relied on such dichotomies as China versus the West and tradition versus modernity to analyze China’s problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T214421Z">
-        <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T214545Z" creationid="Gime" creationdate="20160907T195658Z">
+        <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y también porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,8 +8470,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>– but rather polarization, corruption, and a mutual penetration between political and economic power; indeed “the process of marketization itself had manifested new contradictions that were, in a certain sense, even more difficult to overcome” than those of the 1980s.34 Enlightenment intellec-tuals had not changed their focus on state autocracy to the analysis of the “complicated relations between state and society that were developing in the course of the formation of the capitalist market,” which in Wang’s view was the central issue of the 1990s.35</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T203813Z">
-        <seg>-más bien la polarización, la corrupción, y la penetración mutua entre el poder político y el poder económico;  de hecho, "el proceso de mercadización en sí ha manifestado nuevas contradicciones que fueron, de cierto modo, incluso más difíciles de superar" que aquellas de la década de los años 80. Los intelectuales de la Ilustración no han cambiado su foco de la autocracia estatal a el analisis de las relaciones complicadas entre el estado y la sociedad, que se fueron desarrollando junto con la creación del mercado capitalista", lo cual era la cuestión principal de los años noventa, según el punto de vista de Wang.  </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T220028Z" creationid="ROMI" creationdate="20160907T201045Z">
+        <seg>sino más bien la polarización, la corrupción, y una penetración mutua entre el poder político y el poder económico;  de hecho, "el proceso de mercadización en sí habia manifestado nuevas contradicciones que fueron, de cierto modo, aun más difíciles de superar" que aquellas de los años 80. Los intelectuales de la Ilustración no han cambiado su foco de la autocracia estatal a el analisis de las relaciones complicadas entre el estado y la sociedad, que se fueron desarrollando junto con la creación del mercado capitalista", lo cual era la cuestión principal de los años noventa, según el punto de vista de Wang.  </seg>
       </tuv>
     </tu>
     <tu>
