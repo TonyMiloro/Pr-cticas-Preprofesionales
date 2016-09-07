@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7181,8 +7181,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Those who are generally identified with this group would prefer to think of themselves as “critical” intellectuals – in the sense of that term as used in literary criticism in the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T211501Z" creationid="ROMI" creationdate="20160907T211400Z">
-        <seg>Aquellos que por lo general se identifican con este grupo preferirian</seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T212247Z" creationid="ROMI" creationdate="20160907T211400Z">
+        <seg>Aquellos que por lo general se identifican con este grupo preferirian considerarse como intelectuales "críticos" -tomando el sentido de este término como se utiliza en la crítica literaria en Occidente.</seg>
       </tuv>
     </tu>
     <tu>
