@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5402,8 +5402,8 @@
       <tuv lang="EN-US">
         <seg>Political systems confronted by socioeconomic change can respond in a variety of &lt;t0/&gt;ways, not all of which are “rational” from the perspective of enhancing the overall performance of the system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160907T215539Z" creationid="Administrador" creationdate="20160907T214824Z">
-        <seg>Un sistema político que se ve enfrentado a cambios socioenconómicos puede responder de muchas maneras, no todas ellas son "racionales" desde una perspectiva de mejoramiento del desempeño integral del sistema </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160907T215610Z" creationid="Administrador" creationdate="20160907T214824Z">
+        <seg>Un sistema político que se ve enfrentado a cambios socioenconómicos puede responder de muchas maneras que pueden no ser "racionales" desde una perspectiva de mejoramiento del desempeño integral del sistema </seg>
       </tuv>
     </tu>
     <tu>
