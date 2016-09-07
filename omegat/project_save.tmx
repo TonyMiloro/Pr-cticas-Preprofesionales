@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1225,8 +1225,8 @@
       <tuv lang="EN-US">
         <seg>Although the May Fourth enlightenment project dominated intellectual endeavors in the 1980s, it was badly shaken by the end of the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T203220Z" creationid="ROMI" creationdate="20160907T193645Z">
-        <seg>Aunque el Proyecto de la Ilustración dominó los esfuerzos intelectuales en  los años ochenta, fue gravemente alterado hacia el final de los años noventa. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T214123Z" creationid="ROMI" creationdate="20160907T193645Z">
+        <seg>Aunque el proyecto de la Ilustración dominó los esfuerzos intelectuales en  los años ochenta, fue gravemente alterado hacia el final de los años noventa. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7477,8 +7477,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Hui, the editor of Reading mentioned previously, has argued that enlight-enment thought lost its vitality because it was predicated on a fundamental acceptance of Western categories of thought – including liberal democ-racy,33 neoclassical economics, individualism, and law – and because it relied on such dichotomies as China versus the West and tradition versus modernity to analyze China’s problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T195658Z" creationid="Gime" creationdate="20160907T195658Z">
-        <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, ha sostenido que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental - incluso la democracia liberal, la economía neoclásica, el individualismo y la ley - y porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T214421Z" creationid="Gime" creationdate="20160907T195658Z">
+        <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China. </seg>
       </tuv>
     </tu>
     <tu>
