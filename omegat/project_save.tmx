@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4417,8 +4417,8 @@
       <tuv lang="EN-US">
         <seg>Mao’s immediate successor, Hua Guofeng, never attained core status because he lacked the range of experience and connections essential to that position.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T025324Z" creationid="bluebird" creationdate="20160902T205823Z">
-        <seg>El sucesor inmediato de Mao, Hua Guofeng, nunca obtuvo estatus central porque le faltaba experiencia y las conecciones necesarias para este puesto.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T025514Z" creationid="bluebird" creationdate="20160902T205823Z">
+        <seg>El sucesor inmediato de Mao, Hua Guofeng, nunca alzanzṕ estatus central porque le faltaba experiencia y las conecciones necesarias para esta posición.</seg>
       </tuv>
     </tu>
     <tu>
