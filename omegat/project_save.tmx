@@ -2496,6 +2496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s0/&gt;impossible.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T231229Z" creationid="Usuario" creationdate="20160907T230830Z">
+        <seg>Deng siempre unió "reforma" con "expansión" no sólo porque creía que la modernización de la economía de China necesitaba el capital,la tecnología y los mercados de exportación que sólo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoista de la lucha internacion  de clases para disminuir los llamados domesticos para un énfasis continuo en la lucha de categoría , algo que podría ( y asi lo hizo) tornar laimplementación de la reforma económica mucho más difícil, quizas  &lt;s1/&gt;imposible. &lt;s0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s1/&gt;impossible.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005118Z" creationid="Candelaria" creationdate="20160908T005118Z">
@@ -2578,9 +2586,9 @@
       <tuv lang="EN-US">
         <seg>Deng’s task was made even more difficult by the tense international atmosphere that prevailed in the months after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T225659Z" creationid="Candelaria" creationdate="20160908T005058Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T230245Z" creationid="Candelaria" creationdate="20160908T005058Z">
         <seg>
-El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera internacional que prevaleció en los años posteriores a la revolución de Tiananmen.
+El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera internacional que prevaleció en los años posteriores a Tiananmen.
 </seg>
       </tuv>
     </tu>
