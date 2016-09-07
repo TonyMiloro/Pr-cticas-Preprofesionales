@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1713,8 +1713,8 @@
       <tuv lang="EN-US">
         <seg>Because the term “left” has negative connotations for intellectuals, calling this group the New Left is intended to discredit them.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T211358Z">
-        <seg>Debido a que el término "izquierda" tiene connotaciones negativas para los intelectuales, el llamar a este grupo la Nueva Izquierda tiene intenciones de desacreditarlos. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T222611Z">
+        <seg>Debido a que el término "izquierda" tiene connotaciones negativas para los intelectuales, al llamar a este grupo la nueva Izquierda se intenta desacreditarlos. </seg>
       </tuv>
     </tu>
     <tu>
