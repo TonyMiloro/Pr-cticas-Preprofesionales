@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3143,6 +3143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they were not, would foreign enterprises continue to invest large sums in the Chinese economy?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011132Z" creationid="Usuario" creationdate="20160907T011132Z">
+        <seg>En caso contrario, ¿las empresas extranjeras seguirían invirtiendo una gran cantidad de dinero en la economía china?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1937 he tested into the prestigious Yangzhou Middle School, where he pursued his interests in literature and music.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160905T203036Z" creationid="bluebird" creationdate="20160905T202818Z">
@@ -5384,6 +5392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should the rules on foreign investment be relaxed even further?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011104Z" creationid="Usuario" creationdate="20160907T011104Z">
+        <seg>¿Se deberían flexibilizar aún más las reglas para inversiones extranjeras?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similarly, although Chen Yuan sought ways to combine market economics with a stronger central government, he never developed a systematic conceptual approach.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T015150Z" creationid="Flor" creationdate="20160902T015150Z">
@@ -7151,6 +7167,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T230624Z" creationid="carolaamiel" creationdate="20160905T230624Z">
         <seg>Debido a  la publicación del periódico People Daily del fragmento del artículo perteneciente a la revista Contemporary Trends, y a otros ataques a los temas generados por los comentarios de  &lt;t0/&gt;Huangfu&lt;t1/&gt;, los reformistas se quedaron tranquilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without the pressures of foreign investment, how could enterprises behind a wall of protection &lt;t0/&gt;be&lt;t1/&gt; expected to reform?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011159Z" creationid="Usuario" creationdate="20160907T011159Z">
+        <seg>Sin la presión de inversiones extranjeras, ¿cómo se podría esperar que las empresas tras muros de protección hagan un reajuste?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
