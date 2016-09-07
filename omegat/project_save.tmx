@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6675,6 +6675,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The term New Left is one that identifies aspects of the intellectual stance of this group, but like most labels it is also of polemi-cal value.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T211336Z" creationid="ROMI" creationdate="20160907T211044Z">
+        <seg>El término la nueva izquierda es uno de los que identifica los aspectos de la postura intelectual de este grupo, pero como la mayoría de las etiquetas es también de valor controvertido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The term “core” was added to China’s political vocabulary by Deng himself, but it clearly reﬂects a phenomenon that has characterized CCP politics at least since Mao and one that certainly has roots deep in China’s history.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160907T022452Z" creationid="bluebird" creationdate="20160907T021632Z">
@@ -7159,6 +7167,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T202313Z" creationid="Administrador" creationdate="20160904T024308Z">
         <seg>Esto ha sido una realidad durante la década de los 80, pero su importancia se ha acrecentado considerablemente en los años que siguieron a 1989, en gran parte debido a que la tragedia de la Plaza de Tiananmén destruyó la poco fe que quedaba en el marxismo-leninismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those who are generally identified with this group would prefer to think of themselves as “critical” intellectuals – in the sense of that term as used in literary criticism in the West.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T211501Z" creationid="ROMI" creationdate="20160907T211400Z">
+        <seg>Aquellos que por lo general se identifican con este grupo preferirian</seg>
       </tuv>
     </tu>
     <tu>
