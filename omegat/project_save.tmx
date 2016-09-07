@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -984,8 +984,8 @@
       <tuv lang="EN-US">
         <seg>According to He Qinglian, the crusading economic journalist who published a best seller in 1998 entitled The Pitfalls of Modernization, Deng’s southern journey prompted the formation of hundreds of “joint stock companies.” In Jiangsu province alone, over 200 such enterprises were established in the 18 months following Deng’s trip, and in Hebei province the number of joint stock enterprises jumped from a mere 23 at the beginning of 1992 to 133 a year later.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T211424Z" creationid="PC" creationdate="20160904T211424Z">
-        <seg>Según He Qinglian, la periodista económica y partidista que publicó en 1998 el best seller titulado “The pitfalls of modernization”, el viaje al sur de Deng impulsó la formación de cientos de “sociedades anónimas”. Solo en la provincia de Jiangsu, se crearon más de 200 empresas de este tipo en los 18 meses posteriores al viaje de Deng, y en la provincia de Hebei el número de sociedades anónimas pasó de un mero 23 a principios de 1992 a 133 al año siguiente. 
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T011726Z" creationid="PC" creationdate="20160904T211424Z">
+        <seg>Según He Qinglian, la periodista económica y partidista que publicó en 1998 el best seller titulado “The pitfalls of modernization” (Las trampas de la modernización), el viaje al sur de Deng impulsó la formación de cientos de “sociedades anónimas”. Solo en la provincia de Jiangsu, se crearon más de 200 empresas de este tipo en los 18 meses posteriores al viaje de Deng, y en la provincia de Hebei el número de sociedades anónimas pasó de un mero 23 a principios de 1992 a 133 al año siguiente. 
 </seg>
       </tuv>
     </tu>
@@ -5532,6 +5532,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T172718Z" creationid="LENOVO" creationdate="20160905T163242Z">
         <seg>La estabilidad y la ontinuidad estaban a la orden del día pero, en su elogio durante el funeral de Deng, Jiang  dio una pista de que no sólo tenía en mente una simple continuidad.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>State-owned assets were not only lost to domestic enterprises; joint ventures shared the bounty as well.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T011658Z" creationid="PC" creationdate="20160907T011658Z">
+        <seg>Los activos estatales no sólo se perdieron en las empresas nacionales; empresas conjuntas también compartieron la recompensa. </seg>
       </tuv>
     </tu>
     <tu>
