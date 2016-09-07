@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2867,6 +2867,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023033Z">
         <seg>Desde Deng Xiaoping hasta Hu Jintao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaining China’s international acceptance as one of the great powers of the world would diminish the lingering effects of post-Tiananmen isolation; it would also realize the century-old desire of Chinese patriots to no longer be treated as a second-rate power but instead to be regarded as an equal in world affairs.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014452Z" creationid="Usuario" creationdate="20160907T014301Z">
+        <seg>Obtener la aceptación internacional de China como uno de los grandes poderes del mundo aminoraría las consecuencias persistentes del aislamiento en la etapa pos-Tiananmén. Además, los patriotas chinos harían realidad el deseo secular de que no los traten más como un poder de segunda fila, sino que los consideren como par en los asuntos internacionales.</seg>
       </tuv>
     </tu>
     <tu>
