@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1026,6 +1026,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T212824Z">
         <seg>Como&lt;t22/&gt; se señaló en el Capítulo &lt;t23/&gt;3&lt;t24/&gt;, &lt;t25/&gt;Yang Ping fue jefe de redacción de "Realistic Responses" en 1991 y trabajó como editor del diario &lt;t26/&gt;China Youth Daily&lt;t27/&gt;, uno de los diarios más populares del país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accompanied by Yang &lt;t0/&gt;Shangkun&lt;t1/&gt; and other officials, Deng spent the next several days touring Shenzhen and then the Zhuhai SEZ, talking about the importance of reform and blasting his opponents as he went.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223627Z" creationid="Abril" creationdate="20160907T223627Z">
+        <seg>Acompañado por Yang  &lt;t0/&gt;Shangkun&lt;t1/&gt; y otros funcionarios, Deng pasó los días siguientes paseando por Shenzhen y la SEZ de Zhuhai, mientras criticaba a sus opositores al hablar de la importancia de la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5188,6 +5196,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160907T145540Z">
         <seg>Se dice que el 8 de febrero de 1999 Clinton&lt;t6/&gt; &lt;t7/&gt;le escribió una segunda carta a Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; manifestando sus deseos de que&lt;t10/&gt; &lt;t11/&gt;las negociaciones con la OMC concluyeran durante la visita del primer ministro Zhu &lt;t12/&gt;Rongji’s&lt;t13/&gt; &lt;t14/&gt; &lt;t15/&gt;a Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On January 19, almost eight years to the day since Deng’s first visit to Shenzhen inaugurated a new push in opening China to the outside world, Deng once again set foot in the SEZ.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223523Z" creationid="Abril" creationdate="20160907T223523Z">
+        <seg>El 19 de enero, a casi ocho años de que la primera visita de Deng a Shenzhen inagurara un nuevo intento hacia la apertura de China al mundo, Deng visitó nuevamente la SEZ.</seg>
       </tuv>
     </tu>
     <tu>
