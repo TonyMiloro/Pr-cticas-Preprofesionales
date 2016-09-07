@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8136,6 +8136,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044806Z" creationid="PC" creationdate="20160904T044806Z">
         <seg>la propuesta de ley de propiedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>even within the framework of the Chinese legal system, in the first years of the Hu Jintao era.8</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160907T211548Z" creationid="Administrador" creationdate="20160907T211548Z">
+        <seg>incluso dentro del marco del sistema legal chino en los primeros años de la era de Hu Jintao8.</seg>
       </tuv>
     </tu>
     <tu>
