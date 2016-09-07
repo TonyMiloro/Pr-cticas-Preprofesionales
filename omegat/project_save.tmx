@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5396,6 +5396,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T203724Z" creationid="Usuario" creationdate="20160902T005859Z">
         <seg>Reunión del Politburó apoya a Deng Xiaoping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Political systems confronted by socioeconomic change can respond in a variety of &lt;t0/&gt;ways, not all of which are “rational” from the perspective of enhancing the overall performance of the system.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160907T214824Z" creationid="Administrador" creationdate="20160907T214824Z">
+        <seg>Un sistema polítco que se ve enfrentado a cambios socioenconómicos puede responder de muchas maneras, no todas ellas puede ser "racionales" desde una perspectiva de </seg>
       </tuv>
     </tu>
     <tu>
