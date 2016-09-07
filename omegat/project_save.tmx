@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8478,7 +8478,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>– but rather polarization, corruption, and a mutual penetration between political and economic power; indeed “the process of marketization itself had manifested new contradictions that were, in a certain sense, even more difficult to overcome” than those of the 1980s.34 Enlightenment intellec-tuals had not changed their focus on state autocracy to the analysis of the “complicated relations between state and society that were developing in the course of the formation of the capitalist market,” which in Wang’s view was the central issue of the 1990s.35</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T220525Z" creationid="ROMI" creationdate="20160907T201045Z">
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T220525Z">
         <seg>sino más bien la polarización, la corrupción, y una penetración mutua entre el poder político y el poder económico;  de hecho, "el proceso de mercadización en sí habia manifestado nuevas contradicciones que fueron, de cierto modo, aun más difíciles de superar" que aquellas de los años ochenta. Los intelectuales de la Ilustración no habian cambiado su foco de la autocracia estatal al análisis de las "relaciones complicadas entre el estado y la sociedad, que se estaban desarrollando al mismo tiempo que el mercado capitalista", lo que era la cuestión principal de los años noventa, según el punto de vista de Wang.  </seg>
       </tuv>
     </tu>
