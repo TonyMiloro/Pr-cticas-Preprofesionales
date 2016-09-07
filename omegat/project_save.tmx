@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1147,6 +1147,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160905T004716Z" creationid="Bruno Cesar" creationdate="20160905T004352Z">
         <seg>Although there is no obvious difference in meaning between this aphorism and Deng’s favorite slogan, “seek truth from facts,” Chen always used his own phraseology and never reiterated Deng’s slogan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although vague, the term “core” suggests a leader who occupies the center of a wide-ranging web of formal and informal relations that confer an authority not easily displaced.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T023413Z" creationid="bluebird" creationdate="20160907T023413Z">
+        <seg>Aunque sea algo vago, la palabra "cabeza" se refiere a un dirigente que ocupa el rol central de una red extensa de relaciones formales e informales que confiere una autoridad que no se  facilmente.</seg>
       </tuv>
     </tu>
     <tu>
