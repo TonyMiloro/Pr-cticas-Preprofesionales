@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5690,8 +5690,8 @@
       <tuv lang="EN-US">
         <seg>Such questions were, of course, linked to China’s bid to join the WTO – to what extent should China compromise in order to join the world trade body?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011358Z" creationid="Usuario" creationdate="20160907T011358Z">
-        <seg>Sin dudas, estos interrogantes estaban relacionados con la oferta de China de unirse a la OMC: ¿hasta que punto China debería hacer concesiones para formar parte del organismo de comercio mundial?</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T015027Z" creationid="Usuario" creationdate="20160907T011358Z">
+        <seg>Sin dudas, estos interrogantes estaban relacionados con la oferta de China de unirse a la OMC: ¿hasta qué punto China debería hacer concesiones para formar parte del organismo de comercio mundial?</seg>
       </tuv>
     </tu>
     <tu>
