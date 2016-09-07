@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1699,6 +1699,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T210332Z" creationid="PC" creationdate="20160904T210332Z">
         <seg>Para finales de 1992, se decía que había unas 8000 zonas de desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By the end of the year, there were over 12,000 real estate companies, a 2.4- fold increase over the year before.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T010929Z" creationid="PC" creationdate="20160907T010929Z">
+        <seg>Para finales del año, había más de 120 00  empresas inmobiliarias, un aumento de 2,4 veces mayor respecto al año anterior. </seg>
       </tuv>
     </tu>
     <tu>
