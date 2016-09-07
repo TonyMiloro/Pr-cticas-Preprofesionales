@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2945,8 +2945,8 @@
       <tuv lang="EN-US">
         <seg>For the first time, the Party's leadership would have to manage succession to a younger generation without the shadow of Deng Xiaoping and others handing over them.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T182651Z" creationid="Mariela" creationdate="20160905T182312Z">
-        <seg>Por primera vez, el liderazgo del partido tendría que gestionar la sucesión a una generación joven sin la presencia de Deng Xiaoping y otros que se la entregaran. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T204239Z" creationid="Mariela" creationdate="20160905T182312Z">
+        <seg>Por primera vez, el liderazgo del Partido tendría que gestionar la sucesión a una generación joven sin la presencia de Deng Xiaoping y otros que se la entregaran. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8294,8 +8294,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>with considerable skill to articulate his own ideology and begin to promote people from his own power base, the Communist Youth League (CYL).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T203925Z" creationid="Mariela" creationdate="20160905T180459Z">
-        <seg>con una gran habidad con el fin de articular su propia ideología y, por el otro, promover gente de su misma base del poder; es decir, la Liga de la Juventud Comunista (CYL).  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T204107Z" creationid="Mariela" creationdate="20160905T180459Z">
+        <seg>con una gran habidad con el fin de articular su propia ideología y promover gente de su misma base del poder; es decir, la Liga de la Juventud Comunista (CYL).  </seg>
       </tuv>
     </tu>
     <tu>
