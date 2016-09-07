@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6877,8 +6877,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>These critical or New Left intellectuals are composed primarily of schol-ars who have been educated extensively in the United States, some of whom have taken up jobs in American universities and others of whom have returned to China to take up prestigious university and research positions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T212114Z">
-        <seg>Estos intelectuales críticos o de la Nueva Izquierda se componen principalmente de estudiantes que fueron educados en gran parte en los Estados Unidos, algunos aceptaron trabajos en la universidades estadounidenses y otros regresaron a China para ocupar posiciones en univesidades prestigiosas y también en el ámbito de la investigación. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T222920Z">
+        <seg>Estos intelectuales críticos o de la nueva izquierda se componen principalmente de estudiantes que fueron educados en gran parte en los Estados Unidos. Algunos de ellos aceptaron trabajos en la universidades estadounidenses, mientras que otros regresaron a China para ocupar posiciones en univesidades prestigiosas y también en el ámbito de la investigación. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7205,8 +7205,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Those who are generally identified with this group would prefer to think of themselves as “critical” intellectuals – in the sense of that term as used in literary criticism in the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T212247Z">
-        <seg>Aquellos que por lo general se identifican con este grupo preferirian considerarse como intelectuales "críticos" -tomando el sentido de este término como se utiliza en la crítica literaria en Occidente.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T222646Z">
+        <seg>Aquellos que por lo general se identifican con este grupo preferirian considerarse como intelectuales "críticos" (tomando el sentido de este término como se utiliza en la crítica literaria en Occidente).</seg>
       </tuv>
     </tu>
     <tu>
