@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6765,8 +6765,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>There is some truth in his criticism</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T205329Z" creationid="ROMI" creationdate="20160907T205329Z">
-        <seg>Existe algo de verdad en su crítica</seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T205847Z" creationid="ROMI" creationdate="20160907T205329Z">
+        <seg>Hay cierta verdad en su crítica</seg>
       </tuv>
     </tu>
     <tu>
@@ -8358,8 +8358,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>– Chinese intellectuals have generally been wary of the lesser-educated rural population – but it is also true that they were working in an environment in which even limited “formalistic” democracy (as Wang calls it) marked progress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T205542Z" creationid="ROMI" creationdate="20160907T205542Z">
-        <seg>-los chinos intelectuales, por lo general, han sido recelosos de </seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T205829Z" creationid="ROMI" creationdate="20160907T205542Z">
+        <seg>-los chinos intelectuales, por lo general, han sido recelosos  de la población rural menos educada</seg>
       </tuv>
     </tu>
     <tu>
