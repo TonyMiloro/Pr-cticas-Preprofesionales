@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -136,16 +136,17 @@
       <tuv lang="EN-US">
         <seg>41 AFP, April 30, 1987, in FBIS-CHI, May 4, 1987, p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T150439Z">
-        <seg>41 AFP, 30 de abril,1987 en FBIS-CHI, 4 de mayo,1987, p G2</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224158Z">
+        <seg>	
+41 AFP, April 30, 1987, in FBIS-CHI, May 4, 1987, p.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>42 The sense of Zhao’s speech was conveyed by two People’s Daily editorials: “Deepen the Struggle against Bourgeois Liberalization” and “We Must Not Only Persevere in Reform and Opening Up but Also Speed Them Up.” The speech was subsequently published on June15, 1987.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T150128Z">
-        <seg>42.El sentido del discurso de Zhao se transmitió en dos editoriales del diario People´s Daily: "Deepen the Struggle against Bourgeois liberalization" y "We Must Not Only Persevere in Reform and Opening Up but Also Speed them Up". Posteriormente, el discurso se publico el 15 de junio de 1987.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224622Z">
+        <seg>42.El sentido del discurso de Zhao se transmitió en dos editoriales del diario People´s Daily: "Deepen the Struggle against Bourgeois liberalization" y "We Must Not Only Persevere in Reform and Opening Up but Also Speed them Up". Posteriormente, el discurso se publicó el 15 de junio de 1987.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1273,8 +1274,8 @@
       <tuv lang="EN-US">
         <seg>Among Party conservatives there was a deep sense of “we told you so.” Their warnings, they believed, had not been listened to, and Tiananmen was the fulfillment of their predictions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T145530Z">
-        <seg>Entre los miembros del partido conservador, habia una gran sensación de "te lo habiamos dicho". Ellos creian que sus advertencias no habian sido escuchadas y Tianamen fue la realización de estas predicciones. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224028Z">
+        <seg>Entre los miembros del partido conservador, habia una gran sensación de "te lo habiamos dicho". Los conservadores creían que sus advertencias no habian sido escuchadas y Tianamen fue la realización de estas predicciones. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2017,8 +2018,8 @@
       <tuv lang="EN-US">
         <seg>Chen Yun summed up the feelings of many conservatives when he accused Deng of being rightist in his economic policies and leftist in his use of the military.44</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T153706Z">
-        <seg>Chen Yun resumió los sentimientos de mucho de los conservadores cuando acusó a Deng de ser derechista en sus políticas económicas y izquierdista en el uso de la micilia.44.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224050Z">
+        <seg>Chen Yun resumió los sentimientos de mucho de los conservadores cuando acusó a Deng de ser derechista en sus políticas económicas e izquierdista en el uso de la micilia.44.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2653,6 +2654,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174102Z">
         <seg>Sin tener en cuenta aquellas voces extremas relacionadas con la Vieja Izquierda, comenzó a surgir un nuevo nacionalismo. A través de los años 90, adquirió muchas formas, desde realpolitik hasta discusiones sobre poscolonialismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dong Jinguan, “The Main Characteristics of Class Struggle at the Present Stage,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224142Z" creationid="Usuario" creationdate="20160907T224103Z">
+        <seg>.Dong Jinguan, “The Main Characteristics of Class Struggle at the Present Stage,” p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3787,8 +3796,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In certain ways, the situation following Tiananmen resembled that in 1987 when, in the wake of student demonstrations, Deng and the Party elders had unceremoniously dumped General Secretary Hu Yaobang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160904T233414Z">
-        <seg>De cierta forma, lo sucedido luego de Tiananmen se asemeja al 1987 cuándo, cómo consecuencia de las manifestaciones estudiantiles, Deng y los mayores del Partido habían descartado bruscamente al Secretario General Hu Yaobang.  </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T223845Z">
+        <seg>De cierta forma, lo sucedido luego de Tiananmen se asemeja a lo que ocurrió en 1987 cuándo, cómo consecuencia de las manifestaciones estudiantiles, Deng y los mayores del Partido habían descartado bruscamente al Secretario General Hu Yaobang.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,8 +5397,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>On the drafting, see Guoguang Wu, “‘Documentary Politics.’” 43 People’s Daily restored language that had been deleted when the speech was originally published in 1983.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T151901Z">
-        <seg>En la redacción, vease Guoguang Wu, "Documentary Politics"( Políticas documentadas). 43. El Diario "People´s Daily" recuperó lenguaje que habia sido eliminado cuando el discurso se publicó originalmente en 1983. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224745Z">
+        <seg>En la redacción, vease Guoguang Wu, "Documentary Politics"( Políticas documentadas). 43. El Diario People´s Daily recuperó lenguaje que habia sido eliminado cuando el discurso se publicó originalmente en 1983. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7719,8 +7728,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Unlike before, Deng could no longer dominate China’s policy agenda.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005011Z" creationid="Candelaria" creationdate="20160908T005011Z">
-        <seg>A diferencia de tiempos anteriores, Deng ya no pudo dominar la agenda política de China.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224828Z" creationid="Candelaria" creationdate="20160908T005011Z">
+        <seg>A diferencia de tiempos anteriores, Deng ya no pudía dominar la agenda política de China.</seg>
       </tuv>
     </tu>
     <tu>
