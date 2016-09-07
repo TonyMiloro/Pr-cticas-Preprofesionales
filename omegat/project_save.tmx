@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1707,6 +1707,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221424Z" creationid="Usuario-Pc" creationdate="20160905T221424Z">
         <seg>Por esa razón, no se pueden unir al Partido gobernante, el poder estatal y las fuerzas más importantes que llevan adelante a la población y hacen uso de su gran habilidad”.&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because the term “left” has negative connotations for intellectuals, calling this group the New Left is intended to discredit them.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T211358Z" creationid="Gime" creationdate="20160907T211358Z">
+        <seg>Debido a que el término "izquierda" tiene connotaciones negativas para los intelectuales, el llamar a este grupo la Nueva Izquierda tiene intenciones de desacreditarlos. </seg>
       </tuv>
     </tu>
     <tu>
