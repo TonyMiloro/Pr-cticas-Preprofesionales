@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1931,6 +1931,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Luisina" changedate="20160904T150614Z" creationid="Luisina" creationdate="20160904T150614Z">
         <seg>El embajador de China felicitó a los perpetradores del golpe de estado, y Wang Zhen </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China’s isolation following Tiananmen put the government under a great deal of pressure.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011633Z" creationid="Usuario" creationdate="20160907T011435Z">
+        <seg>El aislamiento de China luego del incidente del Tiananmén dejó al gobierno bajo gran presión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5592,6 +5600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such questions were, of course, linked to China’s bid to join the WTO – to what extent should China compromise in order to join the world trade body?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011358Z" creationid="Usuario" creationdate="20160907T011358Z">
+        <seg>Sin dudas, estos interrogantes estaban relacionados con la oferta de China de unirse a la OMC: ¿hasta que punto China debería hacer concesiones para formar parte del organismo de comercio mundial?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such real estate speculation drove up land prices and put housing out of reach of most people – and caused much resentment.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160907T011607Z" creationid="PC" creationdate="20160904T212452Z">
@@ -6527,6 +6543,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160902T232830Z" creationid="Nadine" creationdate="20160902T225755Z">
         <seg>Este tema estaba sin duda alguna vinculado a la cuestión del liderazgo de Deng Xiaoping, no solo porque la elección de Zhao primero como primer ministro y luego como secretario general ahora parecían influir  de manera negativa en la opinion de Deng Xiaoping (por segunda vez, la primera fue la destitución de Hu Yaobang en 1987), pero también porque Zhao había estado implementando una línea política y económica que durante mucho tiempo Deng había apoyado. Deng se hizo famoso por ser el exponente del consejo práctico "no importa que el gato sea blanco o negro sino que cace ratones".  Zhao había llegado a Pekín en 1980 como un pragmatista conocido por su especialización en desarrollo económico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This last question was closely related to China’s international relations.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011413Z" creationid="Usuario" creationdate="20160907T011413Z">
+        <seg>Este último interrogante estaba estrechamente conectado con las relaciones internacionales de China. </seg>
       </tuv>
     </tu>
     <tu>
