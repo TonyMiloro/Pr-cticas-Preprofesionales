@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3553,8 +3553,8 @@
       <tuv lang="EN-US">
         <seg>In China, this group is usually referred to as the “New Left” – “new” to distinguish them from old Marxist–Leninist ideologues like Hu Qiaomu and Deng Liqun (who became known as the “Old Left”) and “left” to suggest that their thought remains on the left side of the political spectrum, which in China is identified with “socialism”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T204612Z" creationid="ROMI" creationdate="20160907T204306Z">
-        <seg>En China, se refieren a este grupo como la "Nueva Izquierda"- "nueva" para distinguirse de las ideologías marxistas-leninistas como Hu Qiaomu y Deng Liqun (quienes se conocian como </seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T205151Z" creationid="ROMI" creationdate="20160907T204306Z">
+        <seg>En China, se refieren a este grupo como la "Nueva Izquierda"- "nueva" para distinguirse de las ideologías marxistas-leninistas como Hu Qiaomu y Deng Liqun (quienes se conocian como la "vieja izquierda") e "izquierda" para insinuar que su pensamiento permanece de el lado izquierdo del espectro político, lo que en China se identifica como "socialismo". </seg>
       </tuv>
     </tu>
     <tu>
