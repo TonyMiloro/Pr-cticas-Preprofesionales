@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3767,6 +3767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In response to the changed circumstances of the 1990s, a number of young scholars, including Wang Hui, adopted a variety of postmodernist and criti-cal methodologies by which they hoped to move beyond the enlightenment critique of the previous decade.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T204842Z" creationid="Gime" creationdate="20160907T204842Z">
+        <seg>En respuesta a las circunstancias diferentes de los años noventa, un grupo de estudiantes, incluso Wang Hui, adoptaron una variedad de metodologías criticas y posmodernistas a partir de las cuales esperaban superar la crítica de la Ilustración de la decada anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In short, in 1989 Deng was fighting a rear-guard action.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160825T150541Z" creationid="Usuario" creationdate="20160825T150541Z">
@@ -7431,6 +7439,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160905T215850Z" creationid="Backup" creationdate="20160905T215850Z">
         <seg>Wang había elegido el nombre de un diccionario que transliteraba nombres extranjeros. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang notes that conceptions of democracy were restricted to reform programs designed by the highest levels and that they neglected political participation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T205215Z" creationid="Gime" creationdate="20160907T205215Z">
+        <seg>Wang da cuenta de que las concepciones de democracia se restringen a los programas de reforma que fueron diseñados </seg>
       </tuv>
     </tu>
     <tu>
