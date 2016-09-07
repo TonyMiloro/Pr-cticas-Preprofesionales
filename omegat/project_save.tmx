@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -792,24 +792,24 @@
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;He Qinglian argued that the local enthusiasm for forming such enterprises resulted from local officials and enterprise managers who saw the joint stock system as a way to drain off state-owned assets for their own benefit.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T211724Z" creationid="PC" creationdate="20160904T211724Z">
-        <seg>He Qinglian argumenta que el entusiasmo local por crear dichas empresas se debió a que las autoridades locales y los directores de las empresas vieron en el sistema de acciones compartidas la manera de sacar ventaja de los activos estatales para su propio beneficio. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T020341Z" creationid="PC" creationdate="20160904T211724Z">
+        <seg>He Qinglian argumenta que el entusiasmo local por crear dichas empresas se debió a que las autoridades locales y los directores de las empresas vieron en el sistema de acciones compartidas la manera de sacar ventaja de los activos estatales para su propio beneficio. &lt;s0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;The Dengist era reversed these policies by stopping large-scale investments in the third front and by curtailing transfer payments, thus allowing China’s “natural economy” to reassert itself.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T215239Z" creationid="PC" creationdate="20160904T215239Z">
-        <seg>La era de Deng revirtió estas políticas deteniendo inversiones a gran escala en el tercer frente y reduciendo los pagos por transferencia, lo que le permitió a la “economía natural” de China reafirmarse. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T020402Z" creationid="PC" creationdate="20160904T215239Z">
+        <seg>La era de Deng revirtió estas políticas deteniendo inversiones a gran escala en el tercer frente y reduciendo los pagos por transferencia, lo que le permitió a la “economía natural” de China reafirmarse. &lt;s0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;s1/&gt;He Qinglian dubbed the selling of land (most of which had previously been an unvalued asset) as China’s “enclosure movement,” a reference to the seventeenth-century English movement of the same name.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T212202Z" creationid="PC" creationdate="20160904T212202Z">
-        <seg>He Qinglian llamó a la venta de tierra (la mayoría de las cuales habían sido previamente un activo desvalorado) como “el movimiento de cercamiento” de China, en referencia al movimiento inglés del siglo XVII del mismo nombre.  </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T020409Z" creationid="PC" creationdate="20160904T212202Z">
+        <seg>He Qinglian llamó a la venta de tierra (la mayoría de las cuales habían sido previamente un activo desvalorado) como “el movimiento de cercamiento” de China, en referencia al movimiento inglés del siglo XVII del mismo nombre.  &lt;s1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Much of the money invested came from inland units using money allocated for grain purchases, giving the peasants IOUs instead.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T214406Z" creationid="PC" creationdate="20160904T214406Z">
-        <seg>Gran parte del dinero invertido provenía de tierras del interior del país utilizando dinero asignado para la compra de grano y dándoles, en cambio, pagarés a los campesinos.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T020353Z" creationid="PC" creationdate="20160904T214406Z">
+        <seg>Gran parte del dinero invertido provenía de tierras del interior del país utilizando dinero asignado para la compra de grano y dándoles, en cambio, pagarés a los campesinos.&lt;s2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
