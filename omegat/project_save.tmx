@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -946,6 +946,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T213139Z">
         <seg>&lt;t36/&gt;Y queda claro que fue una decisión y no la falta de conocimiento; las autoridades del área de salud de Guangdong habían enviado información sobre el virus&lt;t37/&gt;a Pekín&lt;t38/&gt;en noviembre, &lt;t39/&gt;y un audaz periódico de Guangdong,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;había&lt;t47/&gt; &lt;t48/&gt;emitido&lt;t49/&gt; &lt;t50/&gt;un&lt;t51/&gt; &lt;t52/&gt;informe&lt;t53/&gt; &lt;t54/&gt;sobre&lt;t55/&gt; &lt;t56/&gt;la&lt;t57/&gt; &lt;t58/&gt;enfermedad en diciembre.&lt;t59/&gt; &lt;t60/&gt;Sin embargo, fue&lt;t61/&gt;recién el 2 de abril &lt;t62/&gt;del año&lt;t63/&gt;2003&lt;t64/&gt;cuando&lt;t65/&gt;Wen&lt;t66/&gt;Jiabao&lt;t67/&gt;,&lt;t68/&gt;el nuevo premier&lt;t69/&gt;,&lt;t70/&gt;presidió una reunión en el Consejo de Estado para discutir el problema&lt;t71/&gt;del SRAS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;Luo&lt;t5/&gt; &lt;t6/&gt;Gan&lt;t7/&gt;, secretary general of the State Council, presented a proposal for a massive restructuring of the government.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014755Z" creationid="Usuario" creationdate="20160907T014755Z">
+        <seg>Luo Gan, secretario general del Consejo de Estado, presentó una propuesta para reestructurar a gran escala el gobierno.   &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3407,6 +3415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In March 1998, the Ninth Session of the NPC formally named Zhu &lt;t0/&gt;Rongji&lt;t1/&gt; premier, replacing Li &lt;t2/&gt;Peng&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014822Z" creationid="Usuario" creationdate="20160907T014715Z">
+        <seg> En marzo de 1998, la Novena Sesión del CNP designó de manera oficial como primer ministro a Zhu Rongji, en reemplazo de Li Peng. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In May 1991, the elder Chen was back in the public eye with a rare televised report of Chen meeting with Shanghai leaders.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T215540Z" creationid="Bruno Cesar" creationdate="20160904T215540Z">
@@ -5096,6 +5112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pointing to the costs of bloated administration, to the demands posed by the reform of state-owned enterprises, and to the challenges presented by the Asian financial crisis, he outlined a sweeping plan to reduce the number of government ministries from 40 to 29.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014852Z" creationid="Usuario" creationdate="20160907T014852Z">
+        <seg>Señalando el costo de una administración excesiva, las demandas creadas por la reforma de empresas estatales y los desafíos que presenta la crisis financiera de Asia, Gan esbozó un plan radical para reducir de 40 a 29 el número de ministros del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Politburo Meeting supports Deng Xiaoping</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T203724Z" creationid="Usuario" creationdate="20160902T005859Z">
@@ -6695,6 +6719,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160906T000040Z" creationid="bluebird" creationdate="20160906T000040Z">
         <seg>Fue un proceso controvercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was an issue of status that would clearly enhance Jiang &lt;t2/&gt;Zemin’s&lt;t3/&gt; political prestige, but it was also an economic issue with profound implications for domestic reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014529Z" creationid="Usuario" creationdate="20160907T014529Z">
+        <seg>Se trataba de una cuestión de estatus que sin dudas aumentaría el prestigio político de Jiang Zemin. Sin embargo, también era una cuestión económica con consecuencias profundas para la reforma nacional.   &lt;t2/&gt;&lt;t3/&gt; </seg>
       </tuv>
     </tu>
     <tu>
