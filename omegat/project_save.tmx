@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6231,6 +6231,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014004Z" creationid="Soledad Mori" creationdate="20160905T014004Z">
         <seg>. La autoridad que confería esta resolución es ambigua ya que "timonel" no era una posición formal y no quedaba clara si se aún tenían que obedecer los deseos de Deng de la misma forma en la que se hacía antes de su retiro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic problem was that globalization and marketization did not lead to the “good society.” China’s reform had indeed marketized the economy and linked it to the world, as enlightenment intellectuals had urged, but the result was not fairness and social justice – much less political democracy</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T205558Z" creationid="Gime" creationdate="20160907T205558Z">
+        <seg>El problema fundamental fue que la globalización y la mercadización no resultaron en una "buena sociedad". La reforma de China había, de hecho, marquetizado la economía y la había conectado con el mundo, como los intelectuales de la Ilustración habían deseado, pero el resultado no fue la legitimidad y la justicia social - mucha menos democracia política</seg>
       </tuv>
     </tu>
     <tu>
