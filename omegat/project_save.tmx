@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3903,6 +3903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this way, He became identified as a exemplar of what might be called a “muscular” or assertive neoconservatism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T175705Z" creationid="Melanie" creationdate="20160907T175705Z">
+        <seg>De esta forma, He comenzó a ser identificado como un modelo a seguir de lo que se podría llama neoconservadurismo "poderoso" o autoritario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In&lt;t0/&gt; &lt;t1/&gt;sacking&lt;t2/&gt; &lt;t3/&gt;Zhang&lt;t4/&gt; &lt;t5/&gt;and&lt;t6/&gt; &lt;t7/&gt;Meng,&lt;t8/&gt; &lt;t9/&gt;Hu&lt;t10/&gt; &lt;t11/&gt;was&lt;t12/&gt; &lt;t13/&gt;clearly&lt;t14/&gt; &lt;t15/&gt;trying&lt;t16/&gt; &lt;t17/&gt;to&lt;t18/&gt; &lt;t19/&gt;make&lt;t20/&gt; &lt;t21/&gt;a&lt;t22/&gt; &lt;t23/&gt;point&lt;t24/&gt; &lt;t25/&gt;about accountability that would become one of the hallmarks of his adminis- tration.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T214516Z">
@@ -4851,6 +4859,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="pauli" changedate="20160906T204326Z" creationid="Usuario" creationdate="20160903T182621Z">
         <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y responsables políticos chinos luego de Tiananmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nationalism, particularly anti-Americanism, was central to He Xin’s views.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T180032Z" creationid="Melanie" creationdate="20160907T180032Z">
+        <seg>El nacionalismo, especialmente el anti-americanismo, era central para el punto de vista de He Xin.</seg>
       </tuv>
     </tu>
     <tu>
