@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2715,6 +2715,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020109Z">
         <seg>Por ejemplo, se reunió con Jiang Zemin y Yang Shangkun en noviembre, antes de que estos últimos viajaran a Shenzhen para conmemorar el décimo aniversario de la fundación de las ZEE (Zonas Económicas Especiales).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Sin duda, esta reunión representa la evaluación positiva que Jiang hizo de las zonas durante la reunión que tuvo lugar más tarde durante el mismo mes.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Luego, en la víspera  del séptimo Pleno a fines de diciembre, Deng dio un discurso breve a varios líderes, en el que enfatizó que la planificación y los mercados no eran las características distinctivas del socialismo y capitalismo, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, in calling for patriotism in the context of opening to the outside world, one article stated – in an implicit but clear reference to Deng Liqun’s wellknown comment – that “some comrades even believe that every new bit [fen] of foreign investment that is brought in is another bit of capitalism.”51 At least two of the commentaries highlighted the thesis that China was in the “primary stage of socialism,” a thesis that would become central at the Fifteenth Party Congress in 1997.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T013239Z" creationid="PC" creationdate="20160907T013239Z">
+        <seg>Por ejemplo, para pedir por patriotismo en el contexto de la apertura al mundo exterior, un artículo afirmaba, en una referencia implícita pero clara a la observación bien conocida de Deng Liqun, que "algunos compañeros creen incluso que cada nuevo bit [fen] que se trae de la inversión extranjera es otro bit del capitalismo”. </seg>
       </tuv>
     </tu>
     <tu>
