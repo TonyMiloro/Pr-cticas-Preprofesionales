@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2921,8 +2921,8 @@
       <tuv lang="EN-US">
         <seg>For instance, the 1983 publication of Deng’s Selected Works preceded the adoption of the critical Decision on Economic Structural Reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T012741Z" creationid="Administrador" creationdate="20160903T012612Z">
-        <seg>Por ejemplo, la publicación en 1983 de Selected Works (Trabajos seleccionados) de Deng precede la adopción de la decisiva Reforma Estructural Económica. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160907T204126Z" creationid="Administrador" creationdate="20160903T012612Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
