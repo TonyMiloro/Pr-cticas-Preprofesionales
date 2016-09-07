@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6327,6 +6327,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160906T154013Z">
         <seg>Dadas las expectativas generadas por las manifestaciones estudiantiles de 1989, les llevó un largo tiempo a políticos, editorialistas y periodistas de Occidente comprender que China no estaba en el umbral de una transición democrática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The term “core” was added to China’s political vocabulary by Deng himself, but it clearly reﬂects a phenomenon that has characterized CCP politics at least since Mao and one that certainly has roots deep in China’s history.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T022433Z" creationid="bluebird" creationdate="20160907T021632Z">
+        <seg>El mismo Deng introdujo la palaba "cabeza" en el vocabulario políco de China, pero claramente refleja un fenómeno que ha caracterizado la política del PCCh por lo menos desde Mao y que con certeza tiene raises en la historia de China.</seg>
       </tuv>
     </tu>
     <tu>
