@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1143,6 +1143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although he publicly identified himself with the regime, his writings and interviews reveal little knowledge of or interest in Marxism; what concerned He was the power of the central government vis-a`-vis the localities, the stability of society, and China’s position in the world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174306Z" creationid="Melanie" creationdate="20160907T174306Z">
+        <seg>Aunque se identificaba públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central en relación con las localidades; la estabilidad de la sociedad y la posición de China en el mundo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although it was not clear at the time, a major corruption scandal in Shanghai’s Social Security Bureau was about to quickly balloon into a political imbroglio that would bring down Shanghai’s Party leader.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T223223Z" creationid="Pablo" creationdate="20160903T223223Z">
@@ -1163,6 +1171,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T225457Z" creationid="Andrea-Leonardo" creationdate="20160903T215430Z">
         <seg>A pesar de que muchos observadores externos los catalogaban de "neocoservadores", ellos rechazaban esa etiqueta y en cambio se veían como "verdaderos liberales" o como parte de la Nueva Izquierda (&lt;t38/&gt;xin zuopai&lt;t39/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although more extreme – particularly with regard to his nationalism – than other neoconservatives, He shared many of the basic orientations   of</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174228Z" creationid="Melanie" creationdate="20160907T174228Z">
+        <seg>A pesar de que era más extremista que otros neoconservadores, en especial en lo que respecta a su nacionalismo, He compartía muchas de las orientaciones básicas de </seg>
       </tuv>
     </tu>
     <tu>
@@ -1395,6 +1411,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T055601Z" creationid="Usuario" creationdate="20160907T055601Z">
         <seg>Como fue, tal vez, el único intelectual que apoyó al gobierno, los días que siguieron a Tiananmen, He se convirtió rápidamente en una figura muy pública y denostrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As perhaps the only intellectual to support the government in the days following Tiananmen, He quickly became a very public, and often reviled, figure.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174137Z" creationid="Melanie" creationdate="20160907T174137Z">
+        <seg>Como fue, tal vez, el único intelectual que apoyó al gobierno, los días que siguieron a Tiananmen, He se convirtió rápidamente en una figura muy pública y demostrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2527,6 +2551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disregarding those extreme voices associated with the Old Left, a new nationalism began to emerge.53 Through the 1990s it has taken on many guises, ranging from realpolitik to discussions of post-colonialism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174102Z" creationid="Melanie" creationdate="20160907T174102Z">
+        <seg>Sin tener en cuenta aquellas voces extremas relacionadas con la Vieja Izquierda, comenzó a surgir un nuevo nacionalismo. A través de los años 90, adquirió muchas formas, desde realpolitik hasta discusiones sobre poscolonialismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drawing primarily from the liberal tradition in Marxism and sometimes on Western liberalism, they sought to build a state that placed unprecedented emphasis on human beings – and that meant creating a more liberal, democratic order.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T003718Z" creationid="USUARIO" creationdate="20160903T210135Z">
@@ -2899,6 +2931,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T175523Z" creationid="Nico" creationdate="20160904T175523Z">
         <seg>Para ellos, como así también para sus predecesores del siglo pasado y anteriores, los conflictos de identidad representan un problema: la relación de China con el mundo exterior (denominado "Occidente), la relación del estado con la sociedad, y la relación del presente con el pasado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fora discussion of Chinese nationalism see Fewsmith and Rosen, “The Domestic Context of Chinese Foreign Policy.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174243Z" creationid="Melanie" creationdate="20160907T174243Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -5136,6 +5176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of the first (and &lt;t0/&gt;certainly one of the loudest) voices of the new nationalism was that of He Xin, an erstwhile literary critic who turned his attention to economics, politics, and interna- tional relations in the late 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174118Z" creationid="Melanie" creationdate="20160907T174118Z">
+        <seg>Una de las primeras voces (y ciertamente una de las más prominentes) del nuevo nacionalismo fue la de He Xin, un crítico literario de otra época que volvió su mirada hacia la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of the most important exponents of neoconserva- tive thinking in this area was Chen Yuan, son of Party elder and economic policy specialist Chen Yun.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160907T124816Z" creationid="Franco" creationdate="20160907T124816Z">
@@ -5860,6 +5908,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160907T011607Z" creationid="PC" creationdate="20160904T212452Z">
         <seg>Tal especulación inmobiliaria hizo subir los precios de la tierra e hizo que la vivienda quede fuera del alcance de la mayoría de la gente, lo que causó mucho resentimiento. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suisheng Zhao, A Nation-State by Construction; and Peter Hays Gries, China’s New Nationalism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174251Z" creationid="Melanie" creationdate="20160907T174251Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -8080,6 +8136,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T232526Z" creationid="Usuario" creationdate="20160902T232526Z">
         <seg>sus cargos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>this approach.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174238Z" creationid="Melanie" creationdate="20160907T174238Z">
+        <seg>este enfoque.</seg>
       </tuv>
     </tu>
     <tu>
