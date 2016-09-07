@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1179,6 +1179,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201004Z">
         <seg>A pesar de que la mayoría de los intelectuales continuaron inclinándose hacia el liberalismo, su habilidad para influenciar el discurso público se veia limitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although support for China’s&lt;t2/&gt; &lt;t3/&gt;entry into the WTO appears to have grown over the preceding years,&lt;t4/&gt; &lt;t5/&gt;the same divisions that had plagued China’s previous efforts continued&lt;t6/&gt; &lt;t7/&gt;to exist.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="User" changedate="20160907T173510Z" creationid="User" creationdate="20160907T173510Z">
+        <seg>Aunque el apoyo al acceso de China&lt;t2/&gt; &lt;t3/&gt;a la OMC parece haber aumentado en los años anteriores,&lt;t4/&gt; &lt;t5/&gt;todavía existían las mismas divisiones que plagaban los esfuerzos previos de China&lt;t6/&gt; &lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
