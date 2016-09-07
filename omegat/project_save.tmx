@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3547,6 +3547,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Lu" changedate="20160905T001016Z" creationid="Lu" creationdate="20160904T234837Z">
         <seg>En abril, Deng le manifestó al líder del Partido Socialista Obrero Español Alfonso Guerra que el izquierdismo fue la "mayor amenaza" que tuvo que afrontar el Partido.41 Poco después, el 13 de Mayo, Zhao Ziyang dió un discurso partidario, y preguntó de forma retórica, pero clara a la vez: "¿Quién se responsabilizará si las políticas [económicas] actuales son interpretadas como una forma de liberalización?".42 En julio durante el primer aniversario de la fundación del Partido, el diario People´s Daily reeditó el polémico discurso de Deng de 1980 "La Reforma del Partido y la Estructura del Liderazgo Estatal", el cuál sentó las pautas para el futuro Decimotercer Congreso Partidario, en dónde se trató por primera vez el tema de la reforma política. 43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In China, this group is usually referred to as the “New Left” – “new” to distinguish them from old Marxist–Leninist ideologues like Hu Qiaomu and Deng Liqun (who became known as the “Old Left”) and “left” to suggest that their thought remains on the left side of the political spectrum, which in China is identified with “socialism”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160907T204612Z" creationid="ROMI" creationdate="20160907T204306Z">
+        <seg>En China, se refieren a este grupo como la "Nueva Izquierda"- "nueva" para distinguirse de las ideologías marxistas-leninistas como Hu Qiaomu y Deng Liqun (quienes se conocian como </seg>
       </tuv>
     </tu>
     <tu>
