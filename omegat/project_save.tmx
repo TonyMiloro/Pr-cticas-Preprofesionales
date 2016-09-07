@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6173,8 +6173,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The difference now was that Jiang &lt;t8/&gt;Zemin’s&lt;t9/&gt; own resolve seems to&lt;t10/&gt; &lt;t11/&gt;have grown and the reorganization of the government in spring 1998 had&lt;t12/&gt; &lt;t13/&gt;enhanced Zhu &lt;t14/&gt;Rongji’s&lt;t15/&gt; leverage.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160907T173818Z" creationid="User" creationdate="20160907T173818Z">
-        <seg>La diferencia ahora yacía en que la propia determinación de Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; &lt;t10/&gt; &lt;t11/&gt;parecía haber crecido y la reorganización de gobierno en la primavera de 1998 &lt;t12/&gt; &lt;t13/&gt;enhanced Zhu &lt;t14/&gt;Rongji’s&lt;t15/&gt; leverage.</seg>
+      <tuv lang="ES-US" changeid="User" changedate="20160907T173904Z" creationid="User" creationdate="20160907T173818Z">
+        <seg>La diferencia ahora yacía en que la propia determinación de Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; &lt;t10/&gt; &lt;t11/&gt;parecía haber crecido y la reorganización de gobierno en la primavera de 1998 había&lt;t12/&gt; &lt;t13/&gt;aumentado la ventaja de Zhu &lt;t14/&gt;Rongji’s&lt;t15/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7663,6 +7663,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160905T015536Z" creationid="Administrador" creationdate="20160905T015155Z">
         <seg>Zhu rápidamente reclutó a sus viejos asociados de la anterior Comisión Estatal de Economía, incluyendo a los anteriores viceprimer ministros Zhang Yanning y Zhao Weichen, quienes fueron designados como directores ejecutivos adjuntos de &lt;/f1&gt;&lt;f2&gt;la nueva Oficina de la Producción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhu’s own support for China’s entry into&lt;t16/&gt; &lt;t17/&gt;the WTO apparently increased over the preceding months.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="User" changedate="20160907T174002Z" creationid="User" creationdate="20160907T174002Z">
+        <seg>El apoyo de Zhu al ingreso de China a la&lt;t16/&gt; &lt;t17/&gt;OMC aparentemente había aumentado en los meses anteriores..</seg>
       </tuv>
     </tu>
     <tu>
