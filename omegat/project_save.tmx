@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6847,6 +6847,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160907T011130Z" creationid="PC" creationdate="20160907T011130Z">
         <seg>Estas empresas arrendaron unas 3000 porciones de tierra con una superficie total de 220 00 hectáreas, marcando un aumento 11 veces mayor con respecto a 1991. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These critical or New Left intellectuals are composed primarily of schol-ars who have been educated extensively in the United States, some of whom have taken up jobs in American universities and others of whom have returned to China to take up prestigious university and research positions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T212114Z" creationid="Gime" creationdate="20160907T212114Z">
+        <seg>Estos intelectuales críticos o de la Nueva Izquierda se componen principalmente de estudiantes que fueron educados en gran parte en los Estados Unidos, algunos aceptaron trabajos en la universidades estadounidenses y otros regresaron a China para ocupar posiciones en univesidades prestigiosas y también en el ámbito de la investigación. </seg>
       </tuv>
     </tu>
     <tu>
