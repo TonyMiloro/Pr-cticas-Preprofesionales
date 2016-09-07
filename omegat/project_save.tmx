@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -994,6 +994,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Andrea-Leonardo" changedate="20160903T212824Z" creationid="Andrea-Leonardo" creationdate="20160903T212134Z">
         <seg>Como&lt;t22/&gt; se señaló en el Capítulo &lt;t23/&gt;3&lt;t24/&gt;, &lt;t25/&gt;Yang Ping fue jefe de redacción de "Realistic Responses" en 1991 y trabajó como editor del diario &lt;t26/&gt;China Youth Daily&lt;t27/&gt;, uno de los diarios más populares del país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to Chinese sources, President Clinton wrote Jiang &lt;t0/&gt;Zemin&lt;t1/&gt; a&lt;t2/&gt; &lt;t3/&gt;letter on November 6, 1998, expressing hope that the WTO issue could be&lt;t4/&gt; &lt;t5/&gt;resolved in the first quarter of 1999.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="User" changedate="20160907T145339Z" creationid="User" creationdate="20160907T145339Z">
+        <seg>De acuerdo con las fuentes de China, el Presidente Clinton le escribió una &lt;t0/&gt;carta&lt;t1/&gt; a&lt;t2/&gt; &lt;t3/&gt;Jiang Zemin el 6 de noviembre de 1998, expresando sus deseos de que el problema con la OMC&lt;t4/&gt; &lt;t5/&gt;se resolviera en el primer cuarto de 1999.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,6 +5020,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T015348Z" creationid="Soledad Mori" creationdate="20160905T015238Z">
         <seg>El 22 de febrero, el periódico publicó una nota &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt;ditorial&lt;/f4&gt;&lt;f5&gt;, acreditada que, al parecer reflejaba la reunión del Politburó realizada diez días antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On February 8, 1999, Clinton is said&lt;t6/&gt; &lt;t7/&gt;to have written a second letter to Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; stating that he hoped that&lt;t10/&gt; &lt;t11/&gt;WTO negotiations could be concluded during Premier Zhu &lt;t12/&gt;Rongji’s&lt;t13/&gt; visit&lt;t14/&gt; &lt;t15/&gt;to the United States.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="User" changedate="20160907T145540Z" creationid="User" creationdate="20160907T145540Z">
+        <seg>Se dice que el 8 de febrero de 1999 Clinton&lt;t6/&gt; &lt;t7/&gt;le escribió una segunda carta a Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; manifestando sus deseos de que&lt;t10/&gt; &lt;t11/&gt;las negociaciones con la OMC concluyeran durante la visita del primer ministro Zhu &lt;t12/&gt;Rongji’s&lt;t13/&gt; &lt;t14/&gt; &lt;t15/&gt;a Estados Unidos.</seg>
       </tuv>
     </tu>
     <tu>
