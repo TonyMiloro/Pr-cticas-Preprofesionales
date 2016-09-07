@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1443,6 +1443,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T211351Z" creationid="Administrador" creationdate="20160904T210211Z">
         <seg>Al mismo tiempo, sin embargo, se debe reconocer que estas normas e instituciones emergentes están en conflicto con un partido leninista gobernante y con el juego tradicional político de "el ganador se llava todo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the same time, it was able to persuade Saudi Arabia to extend diplomatic relations, followed by South Africa.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013234Z" creationid="Usuario" creationdate="20160907T013234Z">
+        <seg>A la vez, pudo convencer a Arabia Saudí de extender sus relaciones diplomáticas, junto con Sudáfrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5612,6 +5620,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160903T002322Z" creationid="Nadine" creationdate="20160903T001708Z">
         <seg>Tales medidas le permitió a conservadores con mayor orientación ideológica criticar la "liberación burguesa" por un tiempo, pero sin dudas Deng atenuaría la expresión de tales temas y reenfatizaría el desarrollo económico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such diplomatic successes put Taiwan under greater pressure but did little to normalize China’s relations with the United States.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013435Z" creationid="Usuario" creationdate="20160907T013435Z">
+        <seg>Estos grandes logros diplomáticos ejercieron presión sobre Taiwán, pero no fueron muy útiles para normalizar las relaciones de China con Estados Unidos. </seg>
       </tuv>
     </tu>
     <tu>
