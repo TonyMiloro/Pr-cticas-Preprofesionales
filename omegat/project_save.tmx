@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6371,6 +6371,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The enlightenment tradition under challenge</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T210803Z" creationid="Gime" creationdate="20160907T210803Z">
+        <seg>La tradición de la Ilustración bajo amenaza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The enlightenment tradition under challenge 113</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173513Z">
@@ -6511,6 +6519,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160905T020558Z" creationid="Administrador" creationdate="20160905T015948Z">
         <seg>Este nuevo organizmo tenía un rango burocrático similar al de la&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;CEPD y marginaba de manera efectiva a esta última organización, haciéndose cargo de la administración diaria de la economía, y dejando que la CEPD se ocupase de la macroeconomía .&lt;/f3&gt;&lt;f5&gt;24&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Es más, Zhu tuvo éxito, al menos temporalmente, al reducir el problema de la deuda interempresarial  &lt;/f6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The opposite trend of thought (the “right”) is liberalism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T211021Z" creationid="Gime" creationdate="20160907T211021Z">
+        <seg>La tendencia de pensamiento opuesta (la "derecha") es el liberalismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7461,8 +7477,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang notes that conceptions of democracy were restricted to reform programs designed by the highest levels and that they neglected political participation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T205215Z" creationid="Gime" creationdate="20160907T205215Z">
-        <seg>Wang da cuenta de que las concepciones de democracia se restringen a los programas de reforma que fueron diseñados </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T205906Z" creationid="Gime" creationdate="20160907T205215Z">
+        <seg>Wang da cuenta de que las concepciones de democracia fueron restringidas para reformar programas diseñados por los niveles superiores y que estos negaban la participación política. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7511,6 +7527,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160902T134302Z" creationid="Backup" creationdate="20160902T134302Z">
         <seg>Wang fue a la provincia de Shanxi en 1968, donde trabajó la tierra por un año antes de ir a trabajar en una mina de carbón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang’s criticism appears in “Dangdai Zhongguo de sixiang zhuangkuang yu xiandaixing wenti.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T210125Z" creationid="Gime" creationdate="20160907T210125Z">
+        <seg>La crítica de Wang se refleja en "Danddai Zhongguo de sixiang zhuankuang yu xiandaixing wenti".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,6 +8008,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215209Z" creationid="Usuario" creationdate="20160902T215146Z">
         <seg>en torno a Zhongnanhai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>broadly (and ambiguously) defined.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160907T210845Z" creationid="Gime" creationdate="20160907T210845Z">
+        <seg>definido de forma amplia (y ambigua).</seg>
       </tuv>
     </tu>
     <tu>
