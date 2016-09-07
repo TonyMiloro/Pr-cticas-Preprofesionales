@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2329,8 +2329,8 @@
       <tuv lang="EN-US">
         <seg>Deng’s criticism of leftism and his call for faster economic growth not only brought the usual expansion of investment but also stimulated, for the first time, a lively and speculative real estate market.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T204752Z" creationid="PC" creationdate="20160904T204752Z">
-        <seg>La crítica a la izquierda de Deng y su pedido por un crecimiento económico más rápido no solo trajo la expansión normal de inversión, sino también estimuló, por primera vez, un mercado inmobiliario LIGERO y especulativo. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T012158Z" creationid="PC" creationdate="20160904T204752Z">
+        <seg>La crítica a la izquierda de Deng y su pedido por un crecimiento económico más rápido no solo trajo la expansión normal de inversión, sino también estimuló, por primera vez, un mercado inmobiliario activo y especulativo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7472,6 +7472,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215209Z" creationid="Usuario" creationdate="20160902T215146Z">
         <seg>en torno a Zhongnanhai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>carving out a middle path</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160907T012318Z" creationid="PC" creationdate="20160907T012318Z">
+        <seg>Buscando un camino intermedio</seg>
       </tuv>
     </tu>
     <tu>
