@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4385,8 +4385,8 @@
       <tuv lang="EN-US">
         <seg>Mao developed his core position in the Party by leading it through the most traumatic phase of its history, bringing the Party back from the debacle in Jiangxi to become a vigorous and growing movement in the heady days of Yan’an and the Sino–Japanese War.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T024248Z">
-        <seg>Mao construyó su posición fundamental en el partido cuando lo dirigió durante la etapa más traumática de su historia, restauró el partido de la debacle en Jiangxi y lo convirtió en un movimiento vigoroso y creicente durante los días emocionantes de Yan y la guerra Sino-japonesa.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T024836Z">
+        <seg>Mao construyó su posición fundamental en el partido cuando lo dirigió durante la etapa más traumática de su historia, rescató al partido de la debacle en Jiangxi y lo convirtió en un movimiento vigoroso y creicente durante el periodo decisivo de Yan'an y la guerra Sino-japonesa.</seg>
       </tuv>
     </tu>
     <tu>
