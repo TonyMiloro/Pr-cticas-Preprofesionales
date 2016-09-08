@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4766,6 +4766,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160906T194306Z">
         <seg>Al igual que Wang Shuo, Wang Shan ya habÍa escrito una primer novela, Heaven's Elegy (Elegía del cielo), en la que describía un mundo de vandalismo, e incorporaba nociones tradicionales en las que el código de honor entre las clases bajas se contrastaba favorablemente con los valores de las clases más altas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like many writers in this period, He contradictorily depicted the United States both as a power in decline and as one bent on world domi- nation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T014131Z" creationid="pauli" creationdate="20160908T013911Z">
+        <seg>Como muchos escritores de este período, He representó a los Estados Unidos de manera contradictoria como una potencia en decadencia y, a su vez, determinada a dominar el mundo.</seg>
       </tuv>
     </tu>
     <tu>
