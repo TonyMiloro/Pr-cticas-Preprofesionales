@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2546,8 +2546,8 @@
       <tuv lang="EN-US">
         <seg>Attributing authorship to a foreigner may also have permitted the book to be published more easily; it certainly aroused interest and curiosity, much as Joe Klein’s attribution of his book Primary Colors to “Anonymous” did in the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T131029Z">
-        <seg>El hecho de atribuirle la autoría a un extranjero también podría haber permitido que la publicación del libro fuera más fácil; ciertamente despertó interés y curiosidad, tanto como en Estados Unidos cuando Joe Klein le atribuyó su libro Colores primarios a "Anonymous"</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T182450Z">
+        <seg>El hecho de atribuirle la autoría a un extranjero también podría haber permitido que la publicación del libro fuera más fácil; ciertamente despertó interés y curiosidad, tanto como cuando en Estados Unidos Joe Klein le atribuyó su libro Colores primarios a "Anonymous"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4220,8 +4220,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Germany had the attraction of having produced well-known intellectuals over the years, thus providing an air of gravitas, and was also neutral regarding Chinese affairs and hence capable of seeing China’s situation “objectively” as a bystander (the implication that “a third eye” was supposed to convey).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160905T220549Z">
-        <seg>Alemania era atractiva por haber producido intelectuales reconocidos a través de los años, y proporcionaba así un aire de seriedad. Además tenía una posición neutral al tratarse de los asuntos chinos, y de esa manera era capaz de ver la situación de China "objetivamente" como testigo (esa era la idea que "un tercer ojo" debía transmitir).   </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T182346Z">
+        <seg>Alemania era atractiva por haber producido intelectuales reconocidos a través de los años, y proporcionaba así un aire de seriedad. Además tenía una posición neutral con respecto a los asuntos chinos, y de esa manera era capaz de ver la situación de China "objetivamente" como si fuera un testigo (esa era la idea que "un tercer ojo" debía transmitir).   </seg>
       </tuv>
     </tu>
     <tu>
@@ -6452,8 +6452,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Most important, it attracted buyers and made the book the object of conversation and speculation for months.50 What made Looking at China through a Third Eye a powerful polemic, however, was its linking of urban anxieties to a systematic critique of the Dengist reforms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T131252Z">
-        <seg>Lo más importante es que atrajo compradores e hizo que el libro fuera un objeto de conversación y especulación por meses. Lo que hizo a Mirando a China desde un tercer ojo poderosamente polémico, fue la conexión de las ansiedades urbanas a una crítica sistemática a las reformas Denguistas.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T182522Z">
+        <seg>Lo más importante fue que atrajo compradores e hizo que el libro fuera un objeto de conversación y especulación por meses. Lo que hizo a Mirando a China desde un tercer ojo poderosamente polémico, fue la conexión de las ansiedades urbanas a una crítica sistemática a las reformas Denguistas.</seg>
       </tuv>
     </tu>
     <tu>
