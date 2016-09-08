@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2002,8 +2002,8 @@
       <tuv lang="EN-US">
         <seg>Although he publicly &lt;t0/&gt;identiﬁed&lt;t1/&gt; himself with the regime, his writings and interviews reveal little knowledge of or interest in Marxism; what concerned He was the power of the central government &lt;t2/&gt;vis-`a-vis&lt;t3/&gt; the localities, the stability of society, and China’s position in the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191137Z" creationid="Melanie" creationdate="20160908T191137Z">
-        <seg>Aunque se identificaba públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central en relación con las localidades; la estabilidad de la sociedad y la posición de China en el mundo.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191726Z" creationid="Melanie" creationdate="20160908T191137Z">
+        <seg>Aunque se &lt;t0/&gt;identificaba&lt;t1/&gt; públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central &lt;t2/&gt;en relación con&lt;t3/&gt; las localidades; la estabilidad de la sociedad y la posición de China en el mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5164,8 +5164,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the early part of the twenty-&lt;t4/&gt;ﬁrst&lt;t5/&gt; century, it would be reduced to a large regional power without the strength to bother the East.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191218Z" creationid="Melanie" creationdate="20160908T191218Z">
-        <seg>A fines de 1988, He escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo XXI iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente..</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191818Z" creationid="Melanie" creationdate="20160908T191218Z">
+        <seg>A fines de 1988, He escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo &lt;t4/&gt;XXI&lt;t5/&gt; iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente..</seg>
       </tuv>
     </tu>
     <tu>
@@ -5428,8 +5428,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In this way, He became &lt;t4/&gt;identiﬁed&lt;t5/&gt; as a exemplar of what might be called a “muscular” or assertive &lt;t6/&gt;neoconservatism&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191142Z" creationid="Melanie" creationdate="20160908T191142Z">
-        <seg>De esta forma, He comenzó a ser identificado como un modelo a seguir de lo que se podría llama neoconservadurismo "poderoso" o autoritario.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191749Z" creationid="Melanie" creationdate="20160908T191142Z">
+        <seg>De esta forma, He comenzó a ser &lt;t4/&gt;identificado&lt;t5/&gt; como un modelo a seguir de lo que se podría llama &lt;t6/&gt;neoconservadurismo&lt;t7/&gt; "poderoso" o autoritario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6692,8 +6692,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nationalism, particularly anti-Americanism, was central to &lt;t0/&gt;He&lt;t1/&gt; &lt;t2/&gt;Xin’s&lt;t3/&gt; views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185718Z" creationid="Melanie" creationdate="20160908T185718Z">
-        <seg>El nacionalismo, especialmente el anti-americanismo, era primordial para el punto de vista de He Xin.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191805Z" creationid="Melanie" creationdate="20160908T185718Z">
+        <seg>El nacionalismo, especialmente el anti-americanismo, era primordial para el punto de vista de &lt;t0/&gt;He&lt;t1/&gt;&lt;t2/&gt; Xin&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8392,8 +8392,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The breakup of the Soviet Union would cause China to lose its last strategic shield against the United States, so China should make use of any &lt;t6/&gt;conﬂict&lt;t7/&gt; between other countries and the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191257Z" creationid="Melanie" creationdate="20160908T191257Z">
-        <seg>El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos que le quedaba, por lo que debía utilizar cualquier conflicto que hubiera entre éste y otras naciones.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191830Z" creationid="Melanie" creationdate="20160908T191257Z">
+        <seg>El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos que le quedaba, por lo que debía utilizar cualquier &lt;t6/&gt;conflicto&lt;t7/&gt; que hubiera entre éste y otras naciones.</seg>
       </tuv>
     </tu>
     <tu>
