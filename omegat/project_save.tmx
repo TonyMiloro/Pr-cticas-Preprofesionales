@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6922,6 +6922,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160906T004857Z">
         <seg>La publicidad que se le dio a varios casos de proteccionismo regional de gran importancia (la "guerra de la seda", la "guerra del algodón", etc.) reforzó la idea de que el gobierno central estaba perdiendo el control de las provincias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result was a tortuous document; the committee process by which it was drafted is visible in nearly every paragraph.&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T022031Z" creationid="Nuevo" creationdate="20160908T022031Z">
+        <seg>El resultado fue un documento complejo en el que puede verse claramente en cada párrafo el proceso de evaluación que llevó a cabo el Comité para su redacción.&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
