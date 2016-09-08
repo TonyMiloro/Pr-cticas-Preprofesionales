@@ -1119,6 +1119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1/&gt;Wang Huning, “Lun minzhu zhengzhi jianshe,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134613Z" creationid="Barri" creationdate="20160908T134613Z">
+        <seg>&lt;f0&gt;&lt;t1/&gt;&gt;Wang Huning, “Lun minzhu zhengzhi jianshe”, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;A significant part of reformers’ efforts to regain the initiative in 1990 lay in their hopes to improve Sino&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;US relations.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T172750Z">
