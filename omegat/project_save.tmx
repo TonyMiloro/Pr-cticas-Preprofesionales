@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -995,6 +995,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011758Z">
         <seg>Sin dudas la única razón con más importancia para el ascenso de Jiang en ese momento crítico era la decisión en mayo de cerrar el semanario orientado a la reforma World Economic Herald (Shijie jingji daobao)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Academic writings were, if anything, more vivid.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175506Z" creationid="Monzon" creationdate="20160908T175506Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Los escritos académicos eran, en todo caso, más gráficos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,6 +4982,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054802Z">
         <seg>De cualquier manera, analizar los cambios que han ocurrido en el pasado es fundamental  para comprender la situación actual y futura de China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In awell-researched article in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, Yu Jianrong, a rural researcher at CASS, describes the increasing level of organization of peasants in a county in inland Hunan province (the same county where Mao, 80 years earlier, had organized peasants).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175605Z" creationid="Monzon" creationdate="20160908T175605Z">
+        <seg>En un artículo confiable presente en la revista  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Estrategia y Administración), Yu Jianrong, un investigador rural de la Academia China de Ciencias Sociales, describe el aumento en el nivel de organización de los campesinos en una sub-prefectura de la provincia continental de Hunan (la misma sub-prefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
       </tuv>
     </tu>
     <tu>
