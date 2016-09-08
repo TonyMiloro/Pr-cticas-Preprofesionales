@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>18; He Xin, “Dangdai &lt;t0/&gt;shijie jingji xingshi fenxi,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022626Z">
-        <seg></seg>
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T193459Z">
+        <seg>&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5180,8 +5180,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the early part of the twenty-first cen- tury, it would be reduced to a large regional power without the strength   to &lt;t0/&gt;bother the East.54 Perhaps more concerned about Japan’s global ambi- tions,55 He recommended changing China’s coastal development strategy, opting instead for an economic alliance with the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T015459Z">
-        <seg>A fines de 1988, He escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo 21 iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente. Quizás más preocupado por las ambiciones mundiales de Japón, He recomendó cambiar la estrategia de desarrollo costero de China, optando por una alianza económica con la Unión Soviética.</seg>
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T193414Z">
+        <seg>A fines de 1988, He escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo 21 iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente. Quizás más preocupado por las ambiciones mundiales de Japón, He recomendó cambiar la estrategia de desarrollo costero de China, optando por una alianza económica con la Unión Soviética.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7157,8 +7157,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>One of the first (and &lt;t0/&gt;certainly one of the loudest) voices of the new nationalism was that of He Xin, an erstwhile literary critic who turned his attention to economics, politics, and interna- tional relations in the late 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T021650Z">
-        <seg>Una de las primeras voces del nuevo nacionalismo (y ciertamente una de las más prominentes)  fue la de He Xin, un crítico literario de otra época que se enfocó en la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T193307Z">
+        <seg>Una de las primeras voces del nuevo nacionalismo (y ciertamente una de las más prominentes)  fue la de He Xin, un crítico literario de otra época que se enfocó en la economía, la política y las relaciones internacionales a fines de los años 80.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
