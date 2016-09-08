@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9368,8 +9368,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Huning, who in 1995 was to be brought to Beijing by Jiang Zemin in order to head the Political Section of the CCP’s Policy Research Office, was born in 1955.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130516Z" creationid="Barri" creationdate="20160908T130516Z">
-        <seg>Wang Huning, quien sería transladado a Beijing en 1995 por Jiang Zemin para encabezar la Sección Política de </seg>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130727Z" creationid="Barri" creationdate="20160908T130516Z">
+        <seg>Wang Huning, quien sería transladado a Beijing en 1995 por Jiang Zemin para encabezar la Sección Política de la Oficina de Investigación de Políticas del PCCh, nació en 1955.  </seg>
       </tuv>
     </tu>
     <tu>
