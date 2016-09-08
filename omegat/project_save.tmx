@@ -895,6 +895,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;64&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Ibid.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025546Z" creationid="Nuevo" creationdate="20160908T025546Z">
+        <seg>&lt;f0&gt;64&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Ibídem.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;65 &lt;/f0&gt;&lt;f1&gt;Ibid.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025553Z" creationid="Nuevo" creationdate="20160908T025553Z">
+        <seg>&lt;f0&gt;65 &lt;/f0&gt;&lt;f1&gt;Ibídem.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;69&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;Ibid., p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T210043Z">
