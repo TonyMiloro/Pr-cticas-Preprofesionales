@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1731,6 +1731,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212848Z">
         <seg>Una tercer razón para apoyar mayores tasas de crecimiento era que un porcentaje mayor del crecimiento ocurriría necesariamente fuera del alcance del plan y de este modo limitaría la habilidad de restringir la reforma de los órganos conservadores burocráticos como la Corte Suprema de Justicia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A year or so later, He seemed less certain of the inevitable decline of the United States and more worried about the failure of reform in the Soviet Union.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T115251Z" creationid="Usuario" creationdate="20160908T115251Z">
+        <seg>Pasado un año o más, parecía que He estaba menos seguro de A year or so later, He seemed less certain of the inevitable decline of the United States and more worried about the failure of reform in the Soviet Union.</seg>
       </tuv>
     </tu>
     <tu>
