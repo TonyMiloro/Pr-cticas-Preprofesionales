@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2826,8 +2826,8 @@
       <tuv lang="EN-US">
         <seg>By the summer, it was obvious that the goal could not be attained, and in August the NPC Standing Committee announced that inflation would be kept under 15 percent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012108Z">
-        <seg>Al llegar el verano, era obvio que aquel objetivo no se había podido cumplir, y en agosto, el Comité Permanente de la APN anunció que la inflación se mantendría por debajo del 15 %.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T181832Z">
+        <seg>Al llegar el verano, era evidente que aquel objetivo no se había podido cumplir, y en agosto, el Comité Permanente de la APN anunció que la inflación se mantendría por debajo del 15 %.</seg>
       </tuv>
     </tu>
     <tu>
