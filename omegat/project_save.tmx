@@ -1671,6 +1671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;Ibid., p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134429Z" creationid="Barri" creationdate="20160908T134429Z">
+        <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;lbid.,p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t13/&gt; This campaign no doubt encouraged the conservative mood, and to a certain extent the rise of nationalism redounded to the benefit of the government, restoring some of the legitimacy lost in June 1989.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191213Z">
@@ -7287,6 +7295,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022941Z" creationid="Melanie" creationdate="20160908T022941Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also Wang Huning, “Chuji jieduan yu zhengzhi tizhi gaige”; Wang Huning, “Juece&lt;/f1&gt;&lt;/t0&gt;&lt;t3&gt;&lt;f4&gt;gongneng de shehuihua ji qi tiaojian”; and Wang Huning, “Zhiwei fenlei yu ganbu guanli tizhi.”&lt;/f4&gt;&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134543Z" creationid="Barri" creationdate="20160908T134533Z">
+        <seg>Véase también Wang Huning, “Chuji jieduan yu zhengzhi tizhi gaige”; Wang Huning, “Juece&lt;/f1&gt;&lt;/t0&gt;&lt;t3&gt;&lt;f4&gt;gongneng de shehuihua ji qi tiaojian”; y Wang Huning, “Zhiwei fenlei yu ganbu guanli tizhi”.&lt;/f4&gt;&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
