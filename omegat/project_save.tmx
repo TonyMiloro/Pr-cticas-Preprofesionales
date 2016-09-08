@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4718,6 +4718,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160907T125308Z">
         <seg>En 1973 regresó a Pekín para trabajar como técnico en el Ministerio Aeronáutico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1979 Deng had raised the issue of removing Party committees from enterprises, an issue that continued to fester throughout the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160908T174840Z" creationid="Lorena Baretto" creationdate="20160908T174840Z">
+        <seg>En 1979, Deng </seg>
       </tuv>
     </tu>
     <tu>
