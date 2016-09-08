@@ -2928,6 +2928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chronology xi</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032509Z" creationid="marielaromina" creationdate="20160908T032509Z">
+        <seg>Cronología xi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cited in Jing Wang, High Culture Fever, p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023128Z" creationid="Melanie" creationdate="20160908T023128Z">
@@ -6742,6 +6750,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
         <seg>Schematic overview of the Chinese political spectrum</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010501Z">
+        <seg>Diagrama general del espectro político en China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schematic overview of the Chinese political spectrum xvii</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032540Z" creationid="marielaromina" creationdate="20160908T032540Z">
         <seg>Diagrama general del espectro político en China</seg>
       </tuv>
     </tu>
