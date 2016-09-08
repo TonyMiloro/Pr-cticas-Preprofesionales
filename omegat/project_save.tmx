@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6420,8 +6420,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nevertheless, Wang managed to infuse his writings with some of the concerns of Western political science, giving his essays a freshness lacking in many of the writings then being published.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132148Z" creationid="Barri" creationdate="20160908T132148Z">
-        <seg>Sin embargo, Wang se las ingenió para </seg>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132241Z" creationid="Barri" creationdate="20160908T132148Z">
+        <seg>Sin embargo, Wang se las ingenió para llenar sus trabajos con varias de las preocupaciones de las ciencias políticas Occidentales, lo que le dio a sus ensayos </seg>
       </tuv>
     </tu>
     <tu>
