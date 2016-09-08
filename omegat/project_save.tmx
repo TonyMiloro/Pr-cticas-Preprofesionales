@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012439Z">
         <seg>Pero simples expresiones de buena voluntad difícilmente podían cambiar de manera fundamental la relación que se había desarrollado entre el Partido y los intelectuales desde la era Yan’an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>12.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022930Z" creationid="Melanie" creationdate="20160908T022930Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +230,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>403.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022712Z" creationid="Melanie" creationdate="20160908T022712Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>406–7.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022939Z" creationid="Melanie" creationdate="20160908T022939Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>40–2.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022419Z" creationid="Melanie" creationdate="20160908T022419Z">
@@ -243,6 +267,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224622Z">
         <seg>42.El sentido del discurso de Zhao se transmitió en dos editoriales del diario People´s Daily: "Deepen the Struggle against Bourgeois liberalization" y "We Must Not Only Persevere in Reform and Opening Up but Also Speed them Up". Posteriormente, el discurso se publicó el 15 de junio de 1987.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>427–8.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022943Z" creationid="Melanie" creationdate="20160908T022943Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -303,6 +335,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>503.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023009Z" creationid="Melanie" creationdate="20160908T023009Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>506; and He Xin, “Woguo duiwai kaifang zhanlu¨e de yizhong shexiang,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023014Z" creationid="Melanie" creationdate="20160908T023014Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>508.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022959Z" creationid="Melanie" creationdate="20160908T022959Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50th anniversary of the founding of the PRC</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T165533Z">
@@ -330,6 +386,14 @@
         <seg>54</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022251Z" creationid="Melanie" creationdate="20160908T022251Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>544; He Xin, “Lun woguo jingji gaige zhidao lilun de shiwu,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023012Z" creationid="Melanie" creationdate="20160908T023012Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -474,6 +538,70 @@
         <seg>70</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022658Z" creationid="Melanie" creationdate="20160908T022658Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>70.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022953Z" creationid="Melanie" creationdate="20160908T022953Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>71</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022814Z" creationid="Melanie" creationdate="20160908T022814Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>72 “Current World Economic Situation” (III), p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022925Z" creationid="Melanie" creationdate="20160908T022925Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>73</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022933Z" creationid="Melanie" creationdate="20160908T022933Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>74</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022946Z" creationid="Melanie" creationdate="20160908T022946Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>75</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022955Z" creationid="Melanie" creationdate="20160908T022955Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>76</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023001Z" creationid="Melanie" creationdate="20160908T023001Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>83.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023017Z" creationid="Melanie" creationdate="20160908T023017Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -3586,6 +3714,22 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He Xin, “Aiguo de Qu Yuan yu ruguo de ‘He Shang’,” pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022936Z" creationid="Melanie" creationdate="20160908T022936Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He Xin, “Aiguo de Qu Yuan yu ruguo de ‘He Shang’.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022804Z" creationid="Melanie" creationdate="20160908T022804Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He Xin, “Dangqian Zhongguo neiwai xingshi fenxi ji ruogan zhengce jianyi (zhaiyao),” p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022247Z" creationid="Melanie" creationdate="20160908T022247Z">
@@ -3629,6 +3773,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
         <seg>He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022337Z" creationid="Melanie" creationdate="20160908T022337Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He Xin, “Tan dangdai ziben zhuyi,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022950Z" creationid="Melanie" creationdate="20160908T022950Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -6275,6 +6427,22 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See also He Xin, “Dangqian jingji xingshi pinglun (zhi yi),” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023011Z" creationid="Melanie" creationdate="20160908T023011Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also He Xin, “Wode kunhuo yu youlu,” pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022941Z" creationid="Melanie" creationdate="20160908T022941Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected Works of Jiang Zemin are published</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045217Z">
@@ -8642,6 +8810,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T233601Z">
         <seg>Xiao Weibi, editor del periódico liberal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xin, “Lun woguo jingji gaige zhidao lilun de shiwu,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022957Z" creationid="Melanie" creationdate="20160908T022957Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
