@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -873,8 +873,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f0&gt;Hu nevertheless maneuvered .</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T180217Z">
-        <seg>Sin embargo, Hu logró realizar algunas maniobras </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T175335Z">
+        <seg>Sin embargo, Hu logró realizar algunas maniobras &lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,8 +3242,8 @@
       <tuv lang="EN-US">
         <seg>Contestation was inevitable given that Jiang surrounded Hu with many of his (Jiang's) own prot&lt;f0&gt;égés.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173554Z">
-        <seg>La disputa era inevitable ya que Jiang estaba rodeado por muchos de los protegidos de Hu.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T175323Z">
+        <seg>La disputa era inevitable ya que Jiang estaba rodeado por muchos de los protegidos de Hu.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7301,8 +7301,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Second, in part because Jiang Zemin was so successful in promoting his prot&lt;f0&gt;égé&lt;/f0&gt; to the Politburo at the Sixteenth Party Congress, the Seventeenth Party Congress could not rely simply on promotion by seniority to choose a new leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T174711Z">
-        <seg>Segundo, debido a que en parte Jiang Zemin tuvo éxito en promover a su protegido al Politburó en el décimo sexto Congreso del Partido, el décimo séptimo Congreso del Partido, que debía elegir al nuevo líder, no tendría que contar solemente con el ascenso por antigüedad. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T175329Z">
+        <seg>Segundo, debido a que en parte Jiang Zemin tuvo éxito en promover a su protegido al Politburó en el décimo sexto Congreso del Partido, el décimo séptimo Congreso del Partido, que debía elegir al nuevo líder, no tendría que contar solemente con el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
