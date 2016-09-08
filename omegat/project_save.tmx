@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9778,6 +9778,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160907T193038Z">
         <seg>¿Podría Hu poner estas y otras ideas en una constitución del Partido enmendada? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Written mostly in 1987 and 1988, a time when discussion of political structural reform filled the air, these essays give the sense of a liberal, open-minded writer.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132855Z" creationid="Barri" creationdate="20160908T132855Z">
+        <seg>La mayoría escritos en 1987 y 1988, una época en done la discusión de la reforma de la política estructural se hallaba por doquier.</seg>
       </tuv>
     </tu>
     <tu>
