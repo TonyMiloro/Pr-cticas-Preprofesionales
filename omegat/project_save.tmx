@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8538,6 +8538,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160907T191926Z">
         <seg>La destitución de Chen Liangyu, secretario general del Partido Comunista chino en Shanghai, en septiembre de 2006 (véase capítulo 8) significó la inevitable apertura de negociaciones políticas informales que tendrían lugar. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The peasants in Hunan began organizing in 1992 to protest the high level of taxation (higher than central policies allowed).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T182255Z" creationid="Agustín" creationdate="20160908T182255Z">
+        <seg>Estos campesinos comenzaron a oragnizarseThe peasants in Hunan began organizing in 1992 to protest the high level of taxation (higher than central policies allowed).</seg>
       </tuv>
     </tu>
     <tu>
