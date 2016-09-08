@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3932,8 +3932,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>First, could the post-revolutionary generation manage leadership succession issues in the absence of the revolutionary giants of the past?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T204509Z">
-        <seg>Primero, ¿podría la generación posrevolucionaria afrontar los problemas de sucesión de liderazgo en ausencia de los grandes revolucionarios del pasado? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173853Z">
+        <seg>Primero, ¿podría la generación posrevolucionaria resolver los problemas de sucesión de liderazgo en ausencia de los grandes revolucionarios del pasado? </seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,8 +4052,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For the first time, the Party's leadership would have to manage succession to a younger generation without the shadow of Deng Xiaoping and others handing over them.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T171612Z">
-        <seg> Por primera vez, el liderazgo del Partido tendría que gestionar la sucesión a una generación joven sin la presencia de Deng Xiaoping y otros que se la entregaran. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T174305Z">
+        <seg>Por primera vez, el liderazgo del Partido tendría que arreglárselas para ceder la sucesión a una generación joven sin la presencia de Deng Xiaoping ni de otros que se la entregaran. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8976,8 +8976,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This is a question that necessarily will con- tinue to hang over the Party through at least the next Party Congress in 2012.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T181339Z">
-        <seg>Ese asunto quedaría sin dudas pendiente en el partido hasta el menos el siguiente Congreso del Partido del año 2012.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T174417Z">
+        <seg>Ese asunto sin dudas quedaría pendiente en el partido hasta al menos el siguiente Congreso del Partido del año 2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9248,8 +9248,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Thus, there were three interesting questions to be tackled at the Sev- enteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T181340Z">
-        <seg>De este modo, había tres preguntas importantes que se debían resolver en el décimo séptimo Congreso del Partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173715Z">
+        <seg>De este modo, había tres temas importantes que se debían resolver en el décimo séptimo Congreso del Partido.</seg>
       </tuv>
     </tu>
     <tu>
