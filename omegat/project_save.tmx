@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1972,6 +1972,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201004Z">
         <seg>A pesar de que la mayoría de los intelectuales continuaron inclinándose hacia el liberalismo, su habilidad para influenciar el discurso público se veia limitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although such people argued for strengthening the center’s authority, there was a liberal goal within their vision.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125407Z" creationid="Barri" creationdate="20160908T125407Z">
+        <seg>A pesar de que esas personas luchaban por reforzar la autoridad central, había una meta liberal en su visión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8194,6 +8202,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T184524Z">
         <seg>Los vínculo entre el estado y los intelectuales se han multiplicado, y distinto tipos de intereses dentro del estado han intentado manipular a los intelectuales para que apoyen sus idea, así como los intelectuales han intentado que la opinión pública apoyen sus ideas y las lleven al gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The marketization of the economy would lead to the growth of a middle class, which in turn would foster the growth of democratic gover- nance.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125449Z" creationid="Barri" creationdate="20160908T125449Z">
+        <seg>La mercadización de la economía llevaría al crecimiento de la clase media, la cual en su momento iba a fomentar el crecimiento de la gobernación democrática.</seg>
       </tuv>
     </tu>
     <tu>
