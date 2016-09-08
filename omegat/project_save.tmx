@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -697,7 +697,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The Fourth Plenum was a major victory for Jiang, the point at which it can be said that Jiang began to come into his own as a political leader.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012901Z" creationid="Daniel-Andrea" creationdate="20160908T012901Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012901Z">
         <seg>&lt;f0&gt;El Cuarto Pleno significó una importante victoria para Jiang, momento en el cual comenzó a consolidarse como dirigente político.</seg>
       </tuv>
     </tu>
@@ -705,7 +705,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The decision to focus the plenum on democratic centralism thus reflected Deng Xiaoping’s declining health and a decision to declare openly the passing of leadership to a new generation, and particularly to Jiang Zemin.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012351Z" creationid="Daniel-Andrea" creationdate="20160908T012351Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012351Z">
         <seg>&lt;f0&gt;Al decidir enfocar el pleno en el centralismo democrático, se puso en evidencia la falta de salud de Deng Xiaoping y la decisión de hacer público el paso de liderazgo a una nueva generación, particularmente a Jiang Zemin.</seg>
       </tuv>
     </tu>
@@ -1049,7 +1049,7 @@
       <tuv lang="EN-US">
         <seg>Accompanied by Yang &lt;t0/&gt;Shangkun&lt;t1/&gt; and other officials, Deng spent the next several days touring Shenzhen and then the Zhuhai SEZ, talking about the importance of reform and blasting his opponents as he went.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223627Z" creationid="Abril" creationdate="20160907T223627Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223627Z">
         <seg>Acompañado por Yang  &lt;t0/&gt;Shangkun&lt;t1/&gt; y otros funcionarios, Deng pasó los días siguientes paseando por Shenzhen y la SEZ de Zhuhai, mientras criticaba a sus opositores al hablar de la importancia de la reforma.</seg>
       </tuv>
     </tu>
@@ -1138,7 +1138,7 @@
       <tuv lang="EN-US">
         <seg>All three problems revolved around the question of whether Jiang could become the “core” of the Party in reality as well as name.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012500Z" creationid="Daniel-Andrea" creationdate="20160908T012500Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012500Z">
         <seg>Estos tres problemas derivaron de la incertidumbre de no saber si Jiang podría convertirse en la “esencia” del Partido, como también en su figura más importante.</seg>
       </tuv>
     </tu>
@@ -2306,7 +2306,7 @@
       <tuv lang="EN-US">
         <seg>Contrary to the hopes of scholars like Li Peilin and Lu Xueyi,the report to the Sixteenth Party Congress, delivered by Jiang Zemin, gave little indication of a shift in policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004000Z" creationid="andrea" creationdate="20160908T003636Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004000Z">
         <seg>En oposición al deseo de los investigadores como Li Pellin y Lu Xueyi, el informe del Decimosexto Congreso del Partido no indicaba un cambio significativo en la política.</seg>
       </tuv>
     </tu>
@@ -2490,7 +2490,7 @@
       <tuv lang="EN-US">
         <seg>Deng and other top leaders were most worried about three interrelated problems: the authority of the CCP vis-a`-vis society, the authority of the center vis-a`-vis the localities, and the authority of Jiang Zemin vis-a`-vis his colleagues in the leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012424Z" creationid="Daniel-Andrea" creationdate="20160908T012424Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012424Z">
         <seg>Deng y otros dirigentes de alto rango estaban más preocupados por tres problemas relacionados: la autoridad del Partido Comunista de China (PCCh) sobre la sociedad, la autoridad del centro sobre las localidades y la autoridad de Jiang Zemin sobre sus colegas durante su mandato.</seg>
       </tuv>
     </tu>
@@ -2514,7 +2514,7 @@
       <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s0/&gt;impossible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T231556Z" creationid="Usuario" creationdate="20160907T230830Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T231556Z">
         <seg>Deng siempre unió "reforma" con "expansión" no sólo porque creía que la modernización de la economía de China necesitaba el capital,la tecnología y los mercados de exportación que sólo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoista de la lucha internacion  de clases para disminuir los llamados de atención doméstica por un énfasis continuo en la lucha de clases,algo que podría ( y asi lo hizo) tornar la implementación de la reforma económica mucho más difícil, quizás  &lt;s1/&gt;imposible. &lt;s0/&gt;</seg>
       </tuv>
     </tu>
@@ -2522,7 +2522,7 @@
       <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s1/&gt;impossible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005118Z" creationid="Candelaria" creationdate="20160908T005118Z">
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005118Z">
         <seg>Deng siempre ha unido  las palabras "reforma" con "expansión" no sólo porque creía que lamodernización de la economía de China necesitaba dinero, tecnología y mercados de exportación que sólo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha de la categoría internacional para disminuir los llamados domesticos para un énfasis continuo en la lucha de categoría , algo que podría ( y asi lo hizo) tornar laimplementación de la reforma económica mucho más difícil, quizas  &lt;s1/&gt;imposible.</seg>
       </tuv>
     </tu>
@@ -2546,7 +2546,7 @@
       <tuv lang="EN-US">
         <seg>Deng urged them not to act like “women with bound feet”; reform needed to be bolder and the &lt;t0/&gt;pace of development faster.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224900Z" creationid="Abril" creationdate="20160907T224736Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224900Z">
         <seg>Deng les pidió que no se comporten como “mujeres con los pies vendados”. La reforma tenía que ser más audaz y el &lt;t0/&gt; ritmo de desarrollo más rápido.</seg>
       </tuv>
     </tu>
@@ -2602,7 +2602,7 @@
       <tuv lang="EN-US">
         <seg>Deng’s task was made even more difficult by the tense international atmosphere that prevailed in the months after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T230245Z" creationid="Candelaria" creationdate="20160908T005058Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T230245Z">
         <seg>
 El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera internacional que prevaleció en los años posteriores a Tiananmen.
 </seg>
@@ -2660,7 +2660,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the urging of sociologists such as Li and Lu, the report ﬁrmly endorsed continuin&lt;f1&gt;g &lt;/f1&gt;along the developmental path the country had been following:“Keep economic development as the central task,”it urged, “and solve problems cropping up on our way forward through development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005455Z" creationid="andrea" creationdate="20160908T005149Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005455Z">
         <seg>A pesar del deseo de los sociólogos Li y Lu, el informe respalda con firmeza continuar &lt;f1&gt;con &lt;/f1&gt; el camino de desarrollo que el país ha estado seguiendo: “ Mantener el desarrollo económico como tarea central”, “ y resolver los problemas que surjan en nuestro camino hacia el desarrollo,</seg>
       </tuv>
     </tu>
@@ -2668,7 +2668,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Development is the fundamental principle.”32 Understandably,eyeswerefocusedmoreonpersonnelissuesratherthan on policy questions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005515Z" creationid="andrea" creationdate="20160908T005245Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005515Z">
         <seg>que constituye el principio fundamental”. 32</seg>
       </tuv>
     </tu>
@@ -2700,7 +2700,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Dong Jinguan, “The Main Characteristics of Class Struggle at the Present Stage,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224142Z" creationid="Usuario" creationdate="20160907T224103Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224142Z">
         <seg>.Dong Jinguan, “The Main Characteristics of Class Struggle at the Present Stage,” p.</seg>
       </tuv>
     </tu>
@@ -2972,7 +2972,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Five years after Deng had made Jiang general secretary and declared that he was the “core” of the Party, Jiang still lacked that authority.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012830Z" creationid="Daniel-Andrea" creationdate="20160908T012830Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012830Z">
         <seg>Cinco años después de que Deng nombrara como Secretario General a Jiang y se anunciara como la "escencia" de Partido, Jiang todavía carecía de esa autoridad.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
@@ -3020,7 +3020,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For a comparison, see FBIS-CHI, July 7, 1987, p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T004933Z" creationid="Candelaria" creationdate="20160908T004933Z">
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T004933Z">
         <seg>Para poder comparar, véase FBIS-CHI, 7 de julio de 1987,p.</seg>
       </tuv>
     </tu>
@@ -3412,7 +3412,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Hu Jintao had been raised in Anhui, not far from Yangzhou, but had spent most of his professional career in the poor inland provinces of Gansu, Guizhou, and Tibet.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T001302Z" creationid="andrea" creationdate="20160908T001302Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T001302Z">
         <seg>Hu Jintao se crió en Anhui, no muy lejos de Yangzhou, pero pasó la mayor parte de su carrera profesional en el interior de provincias pobres como Gansu, Guizhou y Tibet.</seg>
       </tuv>
     </tu>
@@ -3420,7 +3420,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Hu Jintao had been raised in Anhui, not far from Yangzhou, but had spent most of his professional career in the poor inland provinces of Gansu, Guizhou, and Tibet.Wen Jiabao,who would emerge as premier,was born in Tianjin,but similarly spent much of his career in Gansu province as a geologist.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003316Z" creationid="andrea" creationdate="20160908T003316Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003316Z">
         <seg>Hu Jintao se crió en Anhui, no muy lejos de Yangzhou, pero pasó la mayor parte de su carrera profesional en el interior de provincias pobres como Gansu, Guizhou y Tibet. Wen Jibao, quien se convertiría en premier, nació en Tianjin, pero también pasó la mayor parte de su carrera en la provincia de Gansu como geólogo.</seg>
       </tuv>
     </tu>
@@ -3796,7 +3796,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In addition to dismissing conservatives’ concerns over whether a particular reform was “socialist” or “capitalist,” Deng blasted his cautious colleagues with one of Mao’s most famous metaphors.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224715Z" creationid="Abril" creationdate="20160907T224715Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224715Z">
         <seg>A parte de descartar las preocupaciones de los conservadores sobre si una reforma particular era “socialista” o “capitalista”, Deng derribó a sus colegas con una de las metáforas más conocidas de Mao.</seg>
       </tuv>
     </tu>
@@ -3916,7 +3916,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In order to defend his vision of reform against his critics’ arguments, Deng reiterated the theoretically unsophisticated but ultimately effective argument that he had put forth in Shanghai the previous year: planning and markets, far from being distinguishing characteristics of socialism and capitalism, were simply economic “methods” possessed by both types of systems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223813Z" creationid="Abril" creationdate="20160907T223813Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223813Z">
         <seg>Con el motivo de defender su postura de reforma contra los argumentos de sus detractores, Deng repitió el argumento teórico poco sofisticado pero efectivo que había presentado en Shanghai el año anterior: el planeamiento y los mercados, lejos de ser características distintivas del socialismo y capitalismo, eran simplemente “métodos” económicos que tenían los dos tipos de sistemas.</seg>
       </tuv>
     </tu>
@@ -4060,7 +4060,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the baldest statement of that thesis since Zhao &lt;t0/&gt;Ziyang&lt;t1/&gt; had championed it on the front page of the People’s Daily four years before, Deng declared that socialism could be defined in terms of three “advantages”: whether or not something was “advantageous to the development of socialist productive forces, advantageous to increasing the comprehensive strength of a socialist nation, and advantageous to raising the people’s standard of living.”57</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224616Z" creationid="Abril" creationdate="20160907T224616Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224616Z">
         <seg>Mediante una simple declaración, Deng declaró que el socialismo podría definirse desde el punto de vista de tres “beneficios”: si algo es “beneficioso para el desarrollo de las fuerzas productivas socialistas, beneficioso para el aumento de la amplia fuerza de una nación socialista y beneficioso para la mejora de la calidad de vida de las personas”.</seg>
       </tuv>
     </tu>
@@ -4292,7 +4292,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It celebrated the Three Represents (sange daibiao),called for “keeping pace with the times”(yushi jujin),and declared that the “strategic adjustment of the economic structure has been crowned with success” and that “it is of vital importance to take economic development as the main task.” The report recognized that there were problems in society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004324Z" creationid="andrea" creationdate="20160908T003712Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004324Z">
         <seg>Celebraba la Triple Representatividad (sange daibiao) que propugnaba “seguir el ritmo” (yushi jujin) y declaraba que “el cambio estratégico de la estructura económica había sido coronado por el éxito” y que “ es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas en la sociedad.</seg>
       </tuv>
     </tu>
@@ -4340,7 +4340,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It noted, for instance, that income in rural areas had increased slowly, that unemployment was up, and that a variety of environmental issues had emerged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004655Z" creationid="andrea" creationdate="20160908T004655Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004655Z">
         <seg>Por ejemplo, indicaba que el salario en las áreas rurales había experimentado un incremento paulatino, como así también el desempleo y que surgieron una diversidad de problemas ambientales.</seg>
       </tuv>
     </tu>
@@ -4508,7 +4508,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Jiang Zemin, of course, was from Yangzhou, in the lower Yangtze River valley, and had spent most of his career in Shanghai.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003210Z" creationid="andrea" creationdate="20160907T235327Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003210Z">
         <seg>Jiang Zemin era ,por supuesto, de Yangzhou, de la parte baja del valle del río Yangtze y pasó la mayor parte de su carrera en Shanghái.</seg>
       </tuv>
     </tu>
@@ -4580,7 +4580,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Jiang’s prote´ge´, Zeng Qinghong, to whom Jiang often seemed to want to transfer power, had also spent his career in Shanghai, though his youth was spent in his ancestral home of Jiangxi.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T000639Z" creationid="andrea" creationdate="20160908T000639Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T000639Z">
         <seg>Su protegido, Zeng Qinghong, a quién al parecer Jiang simpre quiso transferirle el poder, también pasó su carrera en Shanghái, aunque durante su juventud vivió en su antiguo hogar de Jiangxi.</seg>
       </tuv>
     </tu>
@@ -4588,7 +4588,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Jiang’s prot´eg´e, Zeng Qinghong, to whom Jiang often seemed to want to transfer power, had also spent his career in Shanghai, though his youth was spent in his ancestral home of Jiangxi.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003249Z" creationid="andrea" creationdate="20160908T003249Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003249Z">
         <seg>Su protegido, Zeng Qinghong, a quién al parecer Jiang simpre quiso transferirle el poder, también pasó su carrera en Shanghái, aunque durante su juventud vivió en su antiguo hogar de Jiangxi.</seg>
       </tuv>
     </tu>
@@ -4772,7 +4772,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Like many writers in this period, He contradictorily depicted the United States both as a power in decline and as one bent on world domi- nation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T014131Z" creationid="pauli" creationdate="20160908T013911Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T014131Z">
         <seg>Como muchos escritores de este período, He representó a los Estados Unidos de manera contradictoria como una potencia en decadencia y, a su vez, determinada a dominar el mundo.</seg>
       </tuv>
     </tu>
@@ -5028,7 +5028,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Moreover, Deng hit back directly at the numerous derogatory criticisms of the so-called “criterion of productive forces” made over the previous two years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224239Z" creationid="Abril" creationdate="20160907T224239Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224239Z">
         <seg>Además, Deng respondió a las variadas críticas derogatorias sobre el llamado “criterio de fuerzas productivas” realizadas durante los dos años previos.</seg>
       </tuv>
     </tu>
@@ -5036,7 +5036,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Moreover, in a direct criticism of Deng &lt;t0/&gt;Liqun&lt;t1/&gt;, Deng Xiaoping declared that “saying that reform and opening up is introducing and developing capitalism and believing that the main danger of peaceful evolution comes from the economic arena are ‘leftist’.” Deng also declared that anyone who opposed reform should “step down” – a threat that would be carried out against several conservative leaders the following fall and was clearly intended to shake up the cautious Jiang Zemin as well.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225449Z" creationid="Abril" creationdate="20160907T225449Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225449Z">
         <seg>Asimismo, mediante una crítica directa a Deng&lt;t0/&gt;Liqun&lt;t1/&gt;, Deng Xiaoping manifestó que “decir que la reforma y la apertura significa introducir y desarrollar el capitalismo y creer que el peligro principal a la evolución pacífica proviene del ámbito económico es “de izquierda”. Deng también manifestó que todo aquel que se oponga a la reforma debe “desistir”, lo que significó una amenaza que se llevaría a cabo en contra de varios líderes conservadores durante el próximo otoño y que estaba claramente planeada para sacudir también al precavido Jiang Zemin.</seg>
       </tuv>
     </tu>
@@ -5156,7 +5156,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nevertheless, the report called for a quadrupling of the GDP by the year 2020 and emphasized science and technology as drivers of economic growth.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004815Z" creationid="andrea" creationdate="20160908T004815Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004815Z">
         <seg>No obstante, el informe pronosticó que el PIB se cuadruplicaría para el 2020 e hizo hincapié en la ciencia y la tecnología como impulsores del crecimiento económico.</seg>
       </tuv>
     </tu>
@@ -5429,7 +5429,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>On January 19, almost eight years to the day since Deng’s first visit to Shenzhen inaugurated a new push in opening China to the outside world, Deng once again set foot in the SEZ.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223523Z" creationid="Abril" creationdate="20160907T223523Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223523Z">
         <seg>El 19 de enero, a casi ocho años de que la primera visita de Deng a Shenzhen inagurara un nuevo intento hacia la apertura de China al mundo, Deng visitó nuevamente la SEZ.</seg>
       </tuv>
     </tu>
@@ -5621,7 +5621,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Perhaps the most critical point in his talks was his contention that, without the ten years of reform and opening up, the CCP would not have survived an upheaval such as the Party had faced in spring 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223723Z" creationid="Abril" creationdate="20160907T223723Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223723Z">
         <seg>Quizás el fundamento más crítico de sus charlas era su opinión mediante la cual establecía que, sin los diez años de reforma y apertura, el CCP no habría sobrevivido los disturbios como los que el Partido había enfrentado durante la primavera de 1989.</seg>
       </tuv>
     </tu>
@@ -5797,7 +5797,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Science and technology, of course, would help upgrade industry along the coast–areas that already had a basis for adopting newer technologies – but likely would not drive job creation, particularly in the interior.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005106Z" creationid="andrea" creationdate="20160908T005106Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005106Z">
         <seg>Si bien ambas ayudarían a mejorar la industria en zonas costeras, que cuentan con una base  para adoptar nuevas tecnologías,con seguridad no producirán empleo, en particular en las zonas del interior.</seg>
       </tuv>
     </tu>
@@ -6760,7 +6760,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The issues of policy and power were underscored by the very differ- ent backgrounds of the major players.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160907T235107Z" creationid="andrea" creationdate="20160907T235107Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160907T235107Z">
         <seg>La política y el poder se vieron enfatizados por el trasfondo de los grandes jugadores.</seg>
       </tuv>
     </tu>
@@ -6768,7 +6768,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The issues of policy and power were underscored by the very different backgrounds of the major players.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003159Z" creationid="andrea" creationdate="20160908T003159Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003159Z">
         <seg>La política y el poder se vieron enfatizados por el trasfondo de los grandes jugadores.</seg>
       </tuv>
     </tu>
@@ -6800,7 +6800,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The most eye-catching passages in Deng’s talks, however, were his blunt criticisms of the “left.” In sharp contrast to the constant criticism of bourgeois liberalization and peaceful evolution over the preceding two years, Deng pointed out that the main danger to the Party lay on the “left.” “The right can bury socialism, the ‘left’ can also bury socialism,” declared the patriarch.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225231Z" creationid="Abril" creationdate="20160907T225231Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225231Z">
         <seg>Los fragmentos más llamativos de los discursos de Deng, sin embargo, eran sus fuertes críticas a la “izquierda”. A diferencia de la crítica constante hacia el liberalismo burgués y la evolución pacífica durante los dos años previos, Deng señaló que el peligro principal que enfrentaba el Partido recaía en la “izquierda”. “La derecha puede enterrar al socialismo, la “izquierda” también puede enterrar al socialismo”, exclamó el patriarca.</seg>
       </tuv>
     </tu>
@@ -7000,7 +7000,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The term&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;core&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;can perhaps best be understood as that combination of informal and formal authority that makes a leader the final arbiter of Party issues – the ability, as the Chinese put it, to “strike the table” (&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;) and end discussion.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012816Z" creationid="Daniel-Andrea" creationdate="20160908T012816Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012816Z">
         <seg>The term&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;core&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;puede interpretarse mejor como la combinación de la autoridad no oficial con la oficial, que le da a un dirigente el poder de tomar la última decisión sobre asuntos relacionados al Partido (la capacidad, como lo definen en China, de “tomar el control”(&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;)y tener la última palabra).</seg>
       </tuv>
     </tu>
@@ -7032,7 +7032,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The two systems, Deng declared, were distinguished by their respective ownership systems – public ownership in the former and private ownership in the latter – rather than by the existence or extent of the market.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224220Z" creationid="Abril" creationdate="20160907T224220Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224220Z">
         <seg>Ambos sistemas, manifestó Deng, se distinguían por el respectivo sistema de propiedad (propiedad pública en el socialismo y privada en el capitalismo) y no por la existencia o alcance del mercado.</seg>
       </tuv>
     </tu>
@@ -7048,7 +7048,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The unraveling of communism in Eastern Europe would make Deng’s position even more difficult as the dangers of “peaceful evolution”&lt;s2/&gt;were brought home vividly to China’s leaders, Deng included.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005138Z" creationid="Candelaria" creationdate="20160908T005138Z">
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005138Z">
         <seg>La resolución del comunismo en Europa Oriental podría complicar aun más la posición de Deng dado que los peligros de una "evolución pacífica" &lt;s2/&gt;llegaron a los hogares de una forma vívida por los líderes de China, incluso Deng.</seg>
       </tuv>
     </tu>
@@ -7104,7 +7104,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;People’s Daily&lt;s3/&gt;&lt;/f2&gt;&lt;t4/&gt;&lt;f5&gt;editorial hailing the close of the plenum stated that “the second-generation central leading collective has been successfully relieved by its third-generation central leading collective” – a point reiterated by Li Peng during his November trip to Korea and again by Jiang Zemin a few days later during his trip to Malaysia.&lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;The plenum adopted the “Decision on Some Major Issues on Strengthening Party Building,” which on the one hand excoriated negative trends such as corruption and weakness of grass- roots Party organizations and, on the other hand, urged renewed attention to democratic centralism – emphasizing the subordination of lower levels to higher levels, the part to the whole, and everything to the Party center.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T013010Z" creationid="Daniel-Andrea" creationdate="20160908T013010Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T013010Z">
         <seg>El períodico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;"People’s Daily" (Pueblo en Línea)&lt;s3/&gt;&lt;/f2&gt;&lt;t4/&gt;&lt;f5&gt;) que cubría el cierre del pleno, se afirmaba que “el poder principal de la segunda generación fue atenuado con éxito por el de la tercera generación” (un asunto que fue recalcado por Li Peng durante su viaje a Corea, y algunos días después por Jiang Zemin, durante su viaje a Malasia)&lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;. The plenum adopted the “Decision on Some Major Issues on Strengthening Party Building,” which on the one hand excoriated negative trends such as corruption and weakness of grass- roots Party organizations and, on the other hand, urged renewed attention to democratic centralism – emphasizing the subordination of lower levels to higher levels, the part to the whole, and everything to the Party center.</seg>
       </tuv>
     </tu>
@@ -7152,7 +7152,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>There was no question that Hu and Wen had far more intimate knowledge of the poor hinterland, and their inland concerns were often juxtaposed with the coastal orientation of Jiang and Zeng’s “Shanghai faction.” Similarly, Hu’s base of support in the Communist Youth League, which he once headed, contrasted with Zeng’s extensive network among the gaogan zidi, the sons and daughters of high-level cadres, of which Zeng was one (his father, Zeng Shan, had joined Mao during the Jiangxi period and eventually rose to head the &lt;s0/&gt;Interior Ministry).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T002658Z" creationid="andrea" creationdate="20160908T001820Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T002658Z">
         <seg>No había ninguna duda de que Hu y Wen conocían con detalle la pobreza del interior del país y de que su preocupación por este se solía yuxtaponer con la orientación costera de la facción de Shanghái de Jiang y Zeng. De manera similar, la base de apoyo de Hu en la Liga de la Juventud Comunista (CYL), que alguna vez dirigió, contrastaba con la extensa red entre los gaogan zidi, que eran los hijos varones y mujeres de los dirigentes de alto grado de los cuales Zeng formaba parte (su padre, Zeng Shan, se unió a Mao en el período Jiangxi y al final terminó dirigiendo el&lt;s0/&gt;Ministerio del Interior).</seg>
       </tuv>
     </tu>
@@ -7160,7 +7160,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>There was no question that HuandWenhadfarmoreintimateknowledgeofthe poor hinterland, and their inland concerns were often juxtaposed with the coastal orientation of Jiang and Zeng’s “Shanghai faction.” Similarly, Hu’s base of support in the Communist Youth League, which he once headed, contrasted with Zeng’s extensive network among the gaogan zidi, the sons and daughters of high-level cadres,of which Zeng was one(his father, Zeng &lt;s0/&gt;Shan,had joined Mao during the Jiangxi period and eventually rose to head the Interior Ministry).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003504Z" creationid="andrea" creationdate="20160908T003439Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003504Z">
         <seg>No había ninguna duda de que Hu y Wen conocían con detalle la pobreza del interior del país y de que su preocupación por este se solía yuxtaponer con la orientación costera de la facción de Shanghái de Jiang y Zeng. De manera similar, la base de apoyo de Hu en la Liga de la Juventud Comunista (CYL), que alguna vez dirigió, contrastaba con la extensa red entre los gaogan zidi, que eran los hijos varones y mujeres de los dirigentes de alto grado de los cuales Zeng formaba parte (su padre, Zeng &lt;s0/&gt; Shan, se unió a Mao en el período Jiangxi y al final terminó dirigiendo el Ministerio del Interior).</seg>
       </tuv>
     </tu>
@@ -7400,7 +7400,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This judgment was Deng’s response to his opponents’ contention that reform had led to the Tiananmen incident and would lead to the downfall of the CCP, just as it had to that of the CPSU and the various communist parties of Eastern Europe.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223755Z" creationid="Abril" creationdate="20160907T223755Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223755Z">
         <seg>Este argumento era la respuesta de Deng hacia la postura de sus opositores, que establecía que la reforma había llevado a la revuelta de Tiananmen y que habría causado la caída del CCP, así como a la del CPSU y los otros partidos comunistas de Europa Oriental.</seg>
       </tuv>
     </tu>
@@ -7584,7 +7584,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Throwing down the gauntlet, Deng declared: “Whoever changes the line, orientation, and policies of the [1978] Third Plenum will be stopped by the common people [&lt;t2/&gt;lao&lt;t3/&gt; &lt;t4/&gt;baixing&lt;t5/&gt;] and will be struck down.”59</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225651Z" creationid="Abril" creationdate="20160907T225651Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225651Z">
         <seg>Al lanzar el guante, Deng anunció que “todo aquel que cambie la línea, orientación y las políticas del Tercer Pleno (1978) será detenido por la gente común [&lt;t2/&gt;lao&lt;t3/&gt; &lt;t4/&gt;baixing&lt;t5/&gt;] y serán abatidos.”</seg>
       </tuv>
     </tu>
@@ -7728,7 +7728,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Turning around the political atmosphere as he had in 1987 would prove far more difficult; indeed, it would take him three years (until 1992).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T225032Z" creationid="Usuario" creationdate="20160907T225032Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T225032Z">
         <seg>Cambiar la atmósfera política como lo hizo en el año 1987, resultaría mucho más difícil; de hecho, le llevaría tres&lt;s0/&gt;años (hasta el año 1992)..</seg>
       </tuv>
     </tu>
@@ -7736,7 +7736,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Turning around the political atmosphere as he had in 1987 would prove far more difficult; indeed, it would take him three&lt;s0/&gt;years (until 1992).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005032Z" creationid="Candelaria" creationdate="20160908T005032Z">
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005032Z">
         <seg>Cambiar la atmósfera política como lo hizo en el año 1987, resultaría mucho más difícil; de hecho, le llevaría tres&lt;s0/&gt;años (hasta el año 1992).</seg>
       </tuv>
     </tu>
@@ -7808,7 +7808,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Unlike before, Deng could no longer dominate China’s policy agenda.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224828Z" creationid="Candelaria" creationdate="20160908T005011Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224828Z">
         <seg>A diferencia de tiempos anteriores, Deng ya no pudía dominar la agenda política de China.</seg>
       </tuv>
     </tu>
@@ -7992,7 +7992,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wen Jiabao, who would emerge as premier, was born in Tianjin, but similarly spent much of his career in Gansu province as a geologist.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T001522Z" creationid="andrea" creationdate="20160908T001522Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T001522Z">
         <seg>Wen Jiabao, quien se convertiría en premier, nació en Tianjin, pero también pasó la mayor parte de su carrera en la provincia de Gansu como geólogo.</seg>
       </tuv>
     </tu>
@@ -8449,7 +8449,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>be&lt;t0/&gt; calm and steady.” Underscoring his implicit but pointed criticism of Chen Yun’s thought, which had just been endorsed again by the Seventh Plenum in December 1990, Deng went on: “We must pay attention to the steady and coordinated development of the economy, but being steady and coordinated is relative, not absolute.” He then called on Guangdong to catch up to the “four small dragons” (South Korea, Taiwan, Singapore, and Hong Kong) in twenty years.58</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225314Z" creationid="Abril" creationdate="20160907T225130Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225314Z">
         <seg>puede ser &lt;t0/&gt;calmo y estable". Al enfatizar su crítica implícita pero provocadora sobre el pensamiento de Chen Yun, que había sido respaldado nuevamente por el Séptimo Pleno en diciembre de 1990, Deng continuó: “Debemos prestar atención al desarrollo estable y coordinado de la economía, pero estable y coordinado es algo relativo, no absoluto”. Luego recurrió a Guangdong para que se ponga al día con los “cuatro tigres asiáticos” (South Korea, Taiwan, Singapore, and Hong Kong) en veinte años.</seg>
       </tuv>
     </tu>
@@ -8905,7 +8905,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>“To develop a large, developing country like ours,” Deng said, “economic development must be a bit faster; it cannot always</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224946Z" creationid="Abril" creationdate="20160907T224851Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224946Z">
         <seg>“Para desarrollar un gran país emergente como el nuestro”, dijo Deng, “el desarrollo económico debe ser un poco más rápido; no siempre</seg>
       </tuv>
     </tu>
