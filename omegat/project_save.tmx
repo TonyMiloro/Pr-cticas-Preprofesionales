@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023119Z" creationid="Melanie" creationdate="20160908T023119Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022409Z" creationid="Melanie" creationdate="20160908T022409Z">
@@ -57,6 +65,14 @@
         <seg>12.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022930Z" creationid="Melanie" creationdate="20160908T022930Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>123; emphasis in original.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023132Z" creationid="Melanie" creationdate="20160908T023132Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -594,6 +610,46 @@
         <seg>76</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023001Z" creationid="Melanie" creationdate="20160908T023001Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>77</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023109Z" creationid="Melanie" creationdate="20160908T023109Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>78</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023113Z" creationid="Melanie" creationdate="20160908T023113Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>79</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023121Z" creationid="Melanie" creationdate="20160908T023121Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>80</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023126Z" creationid="Melanie" creationdate="20160908T023126Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>81</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023137Z" creationid="Melanie" creationdate="20160908T023137Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -2636,6 +2692,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023217Z">
         <seg>Cronología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cited in Jing Wang, High Culture Fever, p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023128Z" creationid="Melanie" creationdate="20160908T023128Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -6299,6 +6363,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quoted in Meng Fanhua, Zhongshen kuanghuan, p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023116Z" creationid="Melanie" creationdate="20160908T023116Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reportedly it met with a barrage of criticism from the left.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T181651Z">
@@ -6419,10 +6491,26 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Li Zehou, Zhongguo xiandai sixiangshi lun; and Vera Schwarcz’s masterful study, The Chinese Enlightenment.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023111Z" creationid="Melanie" creationdate="20160908T023111Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Wei Yung-cheng, “Reveal the Mystery of Huangfu Ping.” According to Gao Xin and He Pin, the galleys of each article were personally approved by Deng’s daughter, Deng Nan (see &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Zhu Rongji zhuan&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192219Z">
         <seg>Ver Wei Yung-cheng, “Reveal the Mystery of Huangfu Ping.” According to Gao Xin and He Pin, the galleys of each article were personally approved by Deng’s daughter, Deng Nan (see &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Zhu Rongji zhuan&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also Frederic Wakeman, “All the Rage in China.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023135Z" creationid="Melanie" creationdate="20160908T023135Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -6783,6 +6871,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T220438Z">
         <seg>Estudiantes en Beijin y Shangai comenzaron a abandonar los campuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Su Xiaokang and Wang Luxiang, He Shang (River Elegy).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023122Z" creationid="Melanie" creationdate="20160908T023122Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
