@@ -879,6 +879,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;61 &lt;/f0&gt;&lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;Resolution of the CPC Central Committee Regarding Important Questions on Promoting Socialist Ethical and Cultural Progress.”&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025408Z" creationid="Nuevo" creationdate="20160908T025408Z">
+        <seg>&lt;f0&gt;61 &lt;/f0&gt;&lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;Fallo del Comité Central del PCCh con respecto a cuestiones importantes para la promoción de la ética socialista y el progreso cultural”&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;63 &lt;/f0&gt;&lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;Resolution of the CPC Central Committee Regarding Important Questions on Promoting Socialist Ethical and Cultural Progress.”&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025434Z" creationid="Nuevo" creationdate="20160908T025434Z">
+        <seg>&lt;f0&gt;63 &lt;/f0&gt;&lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;Fallo del Comité Central del PCCh con respecto a cuestiones importantes para la promoción de la ética socialista y el progreso cultural”.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;69&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;Ibid., p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T210043Z">
@@ -7536,8 +7552,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The conservative, cautious tone of the resolution reflected the tense atmosphere at the top of the Party in the months preceding Deng’s death.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025309Z" creationid="Nuevo" creationdate="20160908T025309Z">
-        <seg>El tono conservador y cauto del fallo refleja el ambiente de tensión que se vivió entre los líderes del adasPartido los meses previos a la muerte de Deng.</seg>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025340Z" creationid="Nuevo" creationdate="20160908T025309Z">
+        <seg>El tono conservador y cauto del fallo refleja el ambiente de tensión que se vivió entre los líderes del adasPartido los meses previos a la muerte de Deng</seg>
       </tuv>
     </tu>
     <tu>
