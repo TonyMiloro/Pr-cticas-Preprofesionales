@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3874,6 +3874,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evidently viewing America as the more serious strategic threat (despite insisting repeatedly that it was in decline), He dropped his previous fears of Japan and urged allying with Japan (indeed, to become like “lips and teeth”).&lt;t22/&gt; He also urged supporting Germany in any disputes with the United States (suggesting that China should urge Germany to withdraw from NATO) and supporting Southeast Asia, lest America return to that region of the world and &lt;t23/&gt;threaten&lt;t24/&gt; China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T190225Z" creationid="Melanie" creationdate="20160908T185833Z">
+        <seg>Era evidente que He veía a Estados Unidos como la mayor amenaza estratégica (a pesar de haber insistido reiteradas veces en que estaba en un proceso de deterioro), así que abandonó los temores previos de Japón e insistió en una alianza con éste (de hecho, para llegar a ser como "carne y uña").&lt;t22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Facing challenges from the left and right, one might think that Jiang hoped Deng Xiaoping would survive long enough to see Jiang through the critical Fifteenth Party Congress.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T154419Z">
@@ -5122,6 +5130,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the ea&lt;t6/&gt;rly part of the twenty-&lt;t7/&gt;ﬁrst&lt;t8/&gt; &lt;t9/&gt;cen&lt;t10/&gt;tury,&lt;t11/&gt; it would be reduced to a large regional power without the strength to bother the East.&lt;t12/&gt; Perhaps more conce&lt;t13/&gt;rned about Japan’s global ambi&lt;t14/&gt;tions,&lt;t15/&gt; He recommended changing China’s coastal development strategy, opting instead for an economic alliance with the Soviet Union.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185924Z" creationid="Melanie" creationdate="20160908T185735Z">
+        <seg>A fines de 1988, He escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo XXI iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente. Quizás más preocupado por las ambiciones mundiales de Japón, He recomendó cambiar la estrategia de desarrollo costero de China, optando por una alianza económica con la Unión Soviética.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the early part of the twenty-first cen- tury, it would be reduced to a large regional power without the strength   to &lt;t0/&gt;bother the East.54 Perhaps more concerned about Japan’s global ambi- tions,55 He recommended changing China’s coastal development strategy, opting instead for an economic alliance with the Soviet Union.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T015459Z">
@@ -5366,6 +5382,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160905T022026Z">
         <seg>En los años posteriores a Tiananmén, al menos dos aspectos del cambio social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this way, He became &lt;t6/&gt;identiﬁed&lt;t7/&gt; as &lt;t8/&gt;a&lt;t9/&gt; exemplar of what might be called a “muscular” or assertive &lt;t10/&gt;neoconservatism&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185711Z" creationid="Melanie" creationdate="20160908T185711Z">
+        <seg>De esta forma, He comenzó a ser identificado como un modelo a seguir de lo que se podría llama neoconservadurismo "poderoso" o autoritario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6146,6 +6170,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like many writers in this period, He contradictorily depicted the United States both as a power in decline and as one bent&lt;t4/&gt; on world domi&lt;t5/&gt;nation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185725Z" creationid="Melanie" creationdate="20160908T185725Z">
+        <seg>Como muchos escritores de este período, He representó a los Estados Unidos de manera contradictoria como una potencia en decadencia y, a su vez, determinada a dominar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lin pointedly attributed the rapid growth that Guangdong had enjoyed over the previous decade to the implementation of market-oriented policies.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T194223Z">
@@ -6590,6 +6622,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="pauli" changedate="20160906T204326Z">
         <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y responsables políticos chinos luego de Tiananmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nationalism, particularly anti-Americanism, was central to &lt;t0/&gt;He&lt;t1/&gt; &lt;t2/&gt;Xin’s&lt;t3/&gt; views.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185718Z" creationid="Melanie" creationdate="20160908T185718Z">
+        <seg>El nacionalismo, especialmente el anti-americanismo, era primordial para el punto de vista de He Xin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7895,6 +7935,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T020924Z">
         <seg>Dicha alianza no solo tendría la ventaja de fortalecer a China sino también de anticiparse a la alianza de Japón con la Unión Soviética y al establecimiento de un dominio neocolonial sobre China. De manera similar, el fortalecimiento de la economía china era necesario para prevenir que Japón dominara el mundo en el siglo siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such an alliance would not only have the advantage of strengthening China, but just as importantly it would pre-empt Japan from allying with the Soviet Union and establishing a neocolonial dominance over China.&lt;t16/&gt; Similarly, the strengthening of the Chinese economy was necessary to prevent Japan from dominating the world in the next century.&lt;t17/&gt; A year or so later, He seemed less certain of the inevitable decline of the United States and more worried about the failure of reform in the Soviet Union.&lt;t18/&gt; The breakup of the Soviet Union &lt;t19/&gt;would cause China to lose its last strategic shield against the United States, so China should make use of any &lt;t20/&gt;conﬂict&lt;t21/&gt; between other countries and the United States.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185821Z" creationid="Melanie" creationdate="20160908T185821Z">
+        <seg>Dicha alianza no solo tendría la ventaja de fortalecer a China sino también de anticiparse a la alianza de Japón con la Unión Soviética y al establecimiento de un dominio neocolonial sobre China. De manera similar, el fortalecimiento de la economía china era necesario para prevenir que Japón dominara el mundo en el siglo siguiente.&lt;t17/&gt; Pasado un año o más, parecía que He estaba menos seguro del deterioro inevitable de los Estados Unidos y más preocupado por la ineficacia de las reformas en la Unión Soviética.El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos que le quedaba, por lo que debía utilizar cualquier conflicto que hubiera entre éste y otras naciones.</seg>
       </tuv>
     </tu>
     <tu>
