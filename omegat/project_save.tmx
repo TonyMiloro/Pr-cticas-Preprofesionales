@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6229,8 +6229,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Such an alliance would not only have the advantage of strengthening China, but just as importantly it would pre-empt Japan from allying with the Soviet Union and establishing a neocolonial dominance over China.56 Similarly, the strengthening of the Chinese economy was necessary to prevent Japan from dominating the world in the next  century.57</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T020424Z" creationid="Melanie" creationdate="20160908T020111Z">
-        <seg>Dicha alianza iba a tener la ventaja no solo de fortalecer a China sino también de anticiparse a la alianza de Japón con la Unión Soviética y consecuentemente establecer una dominancia neocolonial sobre China. Such an alliance would not only have the advantage of strengthening China, but just as importantly it would pre-empt Japan from allying with the Soviet Union and establishing a neocolonial dominance over China.56 Similarly, the strengthening of the Chinese economy was necessary to prevent Japan from dominating the world in the next  century.57</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T020924Z" creationid="Melanie" creationdate="20160908T020111Z">
+        <seg>Dicha alianza no solo tendría la ventaja de fortalecer a China sino también de anticiparse a la alianza de Japón con la Unión Soviética y al establecimiento de un dominio neocolonial sobre China. De manera similar, el fortalecimiento de la economía china era necesario para prevenir que Japón dominara el mundo en el siglo siguiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7360,8 +7360,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This did not mean that China was not nationalistic in this period, but rather that its nationalism was directed toward economic development and a critique of traditional socialism (which impeded that development).52 Following Tiananmen, however, the West (and the US in particular) seemed threatening and subversive.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160906T205828Z">
-        <seg>Esto no significó que China no haya sido nacionalista durante este período, sino que su nacionalismo estaba orientado hacia el desarrollo económico y la crítica al socialismo tradicional que amenazaba ese desarrollo. 52 Sin embargo, después de Tiananmen, los países occidentales (en particular Estados Unidos) parecían subversuivos y amanezadores. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T021015Z">
+        <seg>Esto no significó que China no haya sido nacionalista durante este período, sino que su nacionalismo estaba orientado hacia el desarrollo económico y la crítica al socialismo tradicional que amenazaba ese desarrollo. Sin embargo, después de Tiananmen, los países occidentales (en particular Estados Unidos) parecían subversivos y amanezadores. </seg>
       </tuv>
     </tu>
     <tu>
