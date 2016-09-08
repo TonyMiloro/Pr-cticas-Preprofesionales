@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3826,6 +3826,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enlightenment intellec-tuals had not changed their focus on state autocracy to the analysis of the “complicated relations between state and society that were developing in the course of the formation of the capitalist market,” which in Wang’s view was the central issue of the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T221555Z" creationid="ROMI" creationdate="20160908T221555Z">
+        <seg>Los intelectuales de la Ilustración no habian cambiado su foco de la autocracia estatal al análisis de las "relaciones complicadas entre el estado y la sociedad, que se estaban desarrollando al mismo tiempo que el mercado capitalista", lo que era la cuestión principal de los años noventa, según el punto de vista de Wang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enlightenment intellectuals came increasingly under fire.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184631Z">
@@ -4950,6 +4958,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T221249Z">
         <seg>En China, generalmente se identifica  a este grupo como la "nueva izquierda", "nueva" para distinguirse de las ideologías marxistas-leninistas como Hu Qiaomu y Deng Liqun (quienes se conocian como la "vieja izquierda") e "izquierda" para insinuar que su pensamiento permanece de el lado izquierdo del espectro político, lo que en China se identifica con el "socialismo" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In China, this group is usually referred to as the “New Left” – “new” to distinguish them from old Marxist–Leninist ideologues like Hu Qiaomu and Deng Liqun (who became known as the “Old Left”) and “left” to suggest that their thought remains on the left side of the political spectrum, which in China is identified with “socialism” broadly (and ambiguously) defined.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T221623Z" creationid="ROMI" creationdate="20160908T221623Z">
+        <seg>En China, generalmente se identifica  a este grupo como la "nueva izquierda", "nueva" para distinguirse de las ideologías marxistas-leninistas como Hu Qiaomu y Deng Liqun (quienes se conocian como la "vieja izquierda") e "izquierda" para insinuar que su pensamiento permanece de el lado izquierdo del espectro político, lo que en China se identifica con el "socialismo"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8410,6 +8426,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T215508Z">
         <seg>El problema fundamental fue que la globalización y la mercadización no resultaron en una "buena sociedad". La reforma de China había, de hecho, marquetizado la economía y la había conectado con el mundo, tal como los intelectuales de la Ilustración querían. El resultado no fue la legitimidad y la justicia social (mucho menos la democracia política</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic problem was that globalization and marketization did not lead to the “good society.” China’s reform had indeed marketized the economy and linked it to the world, as enlightenment intellectuals had urged, but the result was not fairness and social justice – much less political democracy – but rather polarization, corruption, and a mutual penetration between political and economic power; indeed “the process of marketization itself had manifested new contradictions that were, in a certain sense, even more difficult to overcome” than those of the 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T221533Z" creationid="ROMI" creationdate="20160908T221435Z">
+        <seg>El problema fundamental fue que la globalización y la mercadización no resultaron en una "buena sociedad". La reforma de China había, de hecho, marquetizado la economía y la había conectado con el mundo, tal como los intelectuales de la Ilustración querían. El resultado no fue la legitimidad y la justicia social (mucho menos la democracia política),sino más bien la polarización, la corrupción, y una penetración mutua entre el poder político y el poder económico;  de hecho, "el proceso de mercadización en sí habia manifestado nuevas contradicciones que fueron, de cierto modo, aun más difíciles de superar" que aquellas de los años ochenta.</seg>
       </tuv>
     </tu>
     <tu>
