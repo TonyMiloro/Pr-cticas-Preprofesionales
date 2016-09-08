@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6901,8 +6901,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 Neostatism and popular nationalism 155 look like India.”52 Mao tried to transform the peasants, but after the Great Leap Forward they revealed their “spontaneous capitalist tendencies” and challenged the Party through their laziness, migration, and black markets, confirming Mao’s fears that rural society was a “hotbed of spontaneous disease and germs.” In the end, Wang suggests, it was the peasants who betrayed Mao and not the other way around, but then “we often find that Chinese simply do not understand or love their leader, Mao Zedong.”53 Reflecting the same resentment of China’s cultural elite as Wang Xiaodong, Wang Shan declares in A Third Eye that intellectuals lack the “knowledge, experience, ability, character, and prestige” to participate effec- tively in government and push forward the democratization of the coun- try.54 The history of China’s various democratic movements, beginning with the Hundred Flowers Movement in 1957, shows that owing to the lack of maturity of China’s intellectuals, their struggles have failed to pro- mote the causes for which they strove.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T202752Z">
-        <seg>como India".52 Mao trató de transformar a los campesinos, pero después del Gran Salto Adelante ellos revelaron sus "espontáneas tendencias capitalistas" y desafiaron al Partido con su pereza, migración y los mercados negros, confirmando así los miedos de Mao de que la sociedad rural era un "hervidero de enfermedades y gérmenes". Al final, Wang sugiere que fueron los campesinos quienes traicionaron a Mao y no al revés, pero entonces "usualmente encontramos que los chinos simplemente no entienden o aman a su líder Mao Zedong".53  </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T132555Z">
+        <seg>como India".52 Mao trató de transformar a los campesinos, pero después del Gran Salto Adelante ellos revelaron sus "espontáneas tendencias capitalistas" y desafiaron al Partido con su pereza, migración y los mercados negros, confirmando así los miedos de Mao de que la sociedad rural era un "hervidero de enfermedades y gérmenes". Al final, Wang sugiere que fueron los campesinos quienes traicionaron a Mao y no al revés, pero entonces "usualmente nos encontramos con que los chinos simplemente no entienden ni aman a su líder Mao Zedong".53  </seg>
       </tuv>
     </tu>
     <tu>
