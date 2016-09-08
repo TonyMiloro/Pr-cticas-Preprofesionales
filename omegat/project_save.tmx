@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4230,6 +4230,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020216Z">
         <seg>Además, instó a sus colegas a ser más audaces y a tomar más riesgos.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Estas declaraciones evidentemente causaron que Jiang Zemin revisara su discurso durante el Séptimo Pleno para declarar que era necesario persistir sin apartarse en la reforma y apertura.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;4&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Un informe indica que Jiang dio un discurso inaugural en el pleno; pero, si lo hizo, no se hizo público. Su discurso de clausura sí contienen una sección llamada “persistir firmemente en reformar y ampliar el alcance de la apertura.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;5&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He firmly rejected the ideas of deficit financing and expansionary monetary policy that were then closely associated with the name of Keynes, but he praised Keynes for “pointing out in clear-cut terms that the function of macroeconomic quantitative regulation and control can only be performed by the government, not the market mechanism.” He praised Milton Friedman for his emphasis on monetary control but rejected his&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;laissez-faire&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;economic philosophy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T123445Z" creationid="Barri" creationdate="20160908T123445Z">
+        <seg>Rechazó con firmeza las ideas de financiación del déficit y de la política monetaria expansionaria que estaban fuertemente asociadas a Keynes, pero también </seg>
       </tuv>
     </tu>
     <tu>
