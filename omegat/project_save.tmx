@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -210,6 +210,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T210051Z">
         <seg>281 y pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>284—6.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130421Z" creationid="Barri" creationdate="20160908T130421Z">
+        <seg>284-6.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1091,6 +1099,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T172420Z">
         <seg>&lt;f0&gt;&lt;f1&gt;como llamar a un desarrollo económico “sustentable, estable y coordinado” y actuar de acuerdo con las posibilidades de uno” (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;liangli erxing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;).&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;6&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1/&gt;GaoXin,&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;Jiang Zemin de muliao&lt;/f3&gt;&lt;f4&gt;, pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130410Z" creationid="Barri" creationdate="20160908T130410Z">
+        <seg>&lt;f0&gt;&lt;t1/&gt;GaoXin,&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;Jian Zemin de muliao&lt;/f3&gt;&lt;f4&gt;, pp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9346,6 +9362,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T214545Z">
         <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y también porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Huning, who in 1995 was to be brought to Beijing by Jiang Zemin in order to head the Political Section of the CCP’s Policy Research Office, was born in 1955.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130516Z" creationid="Barri" creationdate="20160908T130516Z">
+        <seg>Wang Huning, quien sería transladado a Beijing en 1995 por Jiang Zemin para encabezar la Sección Política de </seg>
       </tuv>
     </tu>
     <tu>
