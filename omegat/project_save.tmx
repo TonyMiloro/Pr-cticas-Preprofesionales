@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3530,8 +3530,8 @@
       <tuv lang="EN-US">
         <seg>Deng was striving to build a balance in the Party that would out- last himself and one that would contrast with the bitterly divisive leadership situation Mao Zedong had left behind when he died in 1976.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T202514Z">
-        <seg>Deng se esforzó para logar un equilibrio en el Partido en el que perdudaría por sí mismo y en el que contrastaría con la situación de liderazgo extremadamente divisiva que Mao Zedong había dejado como consecuencia cuando falleció en 1976. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T172339Z">
+        <seg>Deng se esforzó para logar un equilibrio en el Partido en el que perdudaría por cuenta propia y en el que contrastaría con la situación de liderazgo extremadamente divisiva que Mao Zedong había dejado como consecuencia cuando falleció en 1976. </seg>
       </tuv>
     </tu>
     <tu>
