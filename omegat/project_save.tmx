@@ -695,6 +695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The decision to focus the plenum on democratic centralism thus reflected Deng Xiaoping’s declining health and a decision to declare openly the passing of leadership to a new generation, and particularly to Jiang Zemin.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012351Z" creationid="Daniel-Andrea" creationdate="20160908T012351Z">
+        <seg>&lt;f0&gt;Al decidir enfocar el pleno en el centralismo democrático, se puso en evidencia la falta de salud de Deng Xiaoping y la decisión de hacer público el paso de liderazgo a una nueva generación, particularmente a Jiang Zemin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The obvious resistance to publicizing Deng’s trip – and the subsequent process of yielding partially while continuing to resist – reflects the very ambiguous nature of authority relations at the highest level of the CCP in the early 1990s.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013620Z">
@@ -2460,6 +2468,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160907T031840Z">
         <seg>Deng incluso intentó prevenir un ataque fatal a las políticas de Zhao (y a él mismo) al declarar que "el informe de las políticas del Décimotercer Congreso del Partido fue promulgada por los representantes del Partido en el congreso; ni una sola letra podía ser alterada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng and other top leaders were most worried about three interrelated problems: the authority of the CCP vis-a`-vis society, the authority of the center vis-a`-vis the localities, and the authority of Jiang Zemin vis-a`-vis his colleagues in the leadership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012424Z" creationid="Daniel-Andrea" creationdate="20160908T012424Z">
+        <seg>Deng y otros dirigentes de alto rango estaban más preocupados por tres problemas relacionados: la autoridad del Partido Comunista de China (PCCh) sobre la sociedad, la autoridad del centro sobre las localidades y la autoridad de Jiang Zemin sobre sus colegas durante su mandato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7432,8 +7448,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This was only the third time such a report had been issued; previous reports had come in the summer of 1988 and the spring of 1993.&lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160831T003727Z">
-        <seg>Esta fue solo la tercera vez que se emitió dicho informe; habían llegado informes anteriores en el verano de 1988 y la primavera de 1993&lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012327Z">
+        <seg>Esta fue solo la tercera vez que se emitió dicho informe; previamente habían llegado informes durante el verano de 1988 y en la primavera de 1993&lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
