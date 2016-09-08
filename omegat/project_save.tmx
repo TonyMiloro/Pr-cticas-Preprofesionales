@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8016,8 +8016,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The cover of Looking at China through a Third Eye identifies one “Luo yi ning ge er” as the author.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T202615Z">
-        <seg>La tapa de Mirando a China desde un tercer ojo identifica un "Luo yi ning ge er" como el autor.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T130730Z">
+        <seg>La tapa de Mirando a China desde un tercer ojo nombra a un "Luo yi ning ge er" como el autor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,8 +9464,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang was not an intellectual, at least not in the sense of belonging to those in government, think-tanks, and universities who thought and wrote for each other.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T202506Z">
-        <seg>Wang no era un intelectual, al menos no en el sentido de pertenecer a los intelectuales del gobierno, comités asesores y universidades que pensaban y escribían unos para los otros. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T130553Z">
+        <seg>Wang no era un intelectual, al menos no en el sentido de pertenecer a los intelectuales del gobierno, comités asesores y universidades que pensaban y escribían unos para los otros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9488,8 +9488,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>We have cited the views of many people who had begun to reconsider the course of reform beginning in the 1990s, but such doubts – even the discussions of the new authoritarianism – were carried out in intellectual and political circles.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T202447Z">
-        <seg>Hemos citado las perspectivas de muchas personas que habían empezado a reconsiderar el curso de la reforma que comenzó en los 90, pero esas dudas -incluso el análisis del nuevo autoritoarianismo- ocurrieron en círculos intelectuales y políticos. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T130541Z">
+        <seg>Hemos citado las perspectivas de muchas personas que habían empezado a reconsiderar el curso de la reforma que comenzó en los 90, pero esas dudas -incluso el análisis del nuevo autoritoarianismo- ocurrieron en círculos intelectuales y políticos.</seg>
       </tuv>
     </tu>
     <tu>
