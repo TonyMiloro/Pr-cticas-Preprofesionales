@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7386,6 +7386,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160907T200247Z">
         <seg>Luego de los trágicos eventos de junio de 1989, el décimo séptimo Congreso del Partido fue el cuarto en celebrarse y marcó una nueva etapa en la evolución política del PCCh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Sixth Plenum resolution was a disappointment to many intellectuals as well as to some of Jiang’s own policy advisers.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024657Z" creationid="Nuevo" creationdate="20160908T024615Z">
+        <seg>El fallo del Sexto Pleno desilusionó no solo a muchos intelectuales sino también a algunos de los asesores políticos de Jiang.</seg>
       </tuv>
     </tu>
     <tu>
