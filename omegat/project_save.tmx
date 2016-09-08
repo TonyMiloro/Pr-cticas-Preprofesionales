@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022307Z" creationid="Melanie" creationdate="20160908T022307Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>12 But simple expressions of good wishes could hardly change fundamentally the relationship that had grown up between the Party and intellectuals since the Yan’an era.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012439Z">
@@ -42,6 +50,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211233Z">
         <seg>12&lt;/f3&gt;&lt;f4&gt;-&lt;/f4&gt;&lt;f5&gt;13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>14</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022342Z" creationid="Melanie" creationdate="20160908T022342Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +114,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T210051Z">
         <seg>281 y pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2–3.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022332Z" creationid="Melanie" creationdate="20160908T022332Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -191,10 +215,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>54</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022251Z" creationid="Melanie" creationdate="20160908T022251Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>55</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022312Z" creationid="Melanie" creationdate="20160908T022312Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>56</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022326Z" creationid="Melanie" creationdate="20160908T022326Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>57</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022335Z" creationid="Melanie" creationdate="20160908T022335Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>58</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022348Z" creationid="Melanie" creationdate="20160908T022348Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>64 million.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T215633Z">
         <seg>a 64 millones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022323Z" creationid="Melanie" creationdate="20160908T022323Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,6 +1528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As He wrote: “At present there is no other country more desirous of replacing a declining US as global hegemon than Japan.” See He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022318Z" creationid="Melanie" creationdate="20160908T022318Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As Zhou &lt;t0/&gt;Ruijin&lt;t1/&gt; put it, Deng “coolly observed and contemplated” the conflict as it developed.32 Third, events in the Soviet Union – namely, Gorbachev’s turn to the right, which culminated in cracking down on the Baltic republics in January 1991 – may have bolstered conservatives in Beijing, who are likely to have seen such a shift as a sign that the Soviet Union, too, was finally backing away from radical reform.33 Fourth, the swift American victory in the Gulf War, which caught China off guard,</seg>
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160906T004612Z">
@@ -1490,8 +1570,8 @@
       <tuv lang="EN-US">
         <seg>As perhaps the only intellectual to support the government in the days following Tiananmen, He quickly became a very public, and often reviled, figure.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T021723Z">
-        <seg>Como fue tal vez, el único intelectual que apoyó al gobierno en los días que siguieron a Tiananmen, He se convirtió rápidamente en una figura muy pública y demostrada.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022212Z">
+        <seg>Como fue tal vez el único intelectual que apoyó al gobierno en los días que siguieron a Tiananmen, He se convirtió rápidamente en una figura muy pública e injuriada a menudo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3286,6 +3366,30 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160906T155124Z">
         <seg>Si no lo hubiera hecho, dice Wang con sorna, "hoy China sería </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He Xin, “Dangqian Zhongguo neiwai xingshi fenxi ji ruogan zhengce jianyi (zhaiyao),” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022247Z" creationid="Melanie" creationdate="20160908T022247Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He Xin, “Dangqian Zhongguo neiwai xingshi fenxi ji ruogan zhengce jianyi (zhaiyao),” pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022328Z" creationid="Melanie" creationdate="20160908T022328Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022337Z" creationid="Melanie" creationdate="20160908T022337Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
