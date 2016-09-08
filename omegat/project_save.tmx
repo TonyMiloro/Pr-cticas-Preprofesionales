@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -691,6 +691,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160830T232757Z">
         <seg>&lt;f0&gt;La cuarta sesión plenaria del décimo cuarto comité central se reunió en Pekín desde el 25 al 28 de septiembre de 1994 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The Fourth Plenum was a major victory for Jiang, the point at which it can be said that Jiang began to come into his own as a political leader.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012901Z" creationid="Daniel-Andrea" creationdate="20160908T012901Z">
+        <seg>&lt;f0&gt;El Cuarto Pleno significó una importante victoria para Jiang, momento en el cual comenzó a consolidarse como dirigente político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,6 +2966,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T015132Z">
         <seg>CInco días después, el 20 de febrero, el papel de Shenzhen’s publicó una serie de ocho artículos que contaban nuevos detalles acerca de la visita de Deng y que resumían el contenido de sus comentarios. Este era la primera cobertura realizada por los medios de comunicaicón de la República Popular de China.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Five years after Deng had made Jiang general secretary and declared that he was the “core” of the Party, Jiang still lacked that authority.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012830Z" creationid="Daniel-Andrea" creationdate="20160908T012830Z">
+        <seg>Cinco años después de que Deng nombrara como Secretario General a Jiang y se anunciara como la "escencia" de Partido, Jiang todavía carecía de esa autoridad.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6974,6 +6990,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The term&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;core&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;can perhaps best be understood as that combination of informal and formal authority that makes a leader the final arbiter of Party issues – the ability, as the Chinese put it, to “strike the table” (&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;) and end discussion.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012816Z" creationid="Daniel-Andrea" creationdate="20160908T012816Z">
+        <seg>The term&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;core&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;puede interpretarse mejor como la combinación de la autoridad no oficial con la oficial, que le da a un dirigente el poder de tomar la última decisión sobre asuntos relacionados al Partido (la capacidad, como lo definen en China, de “tomar el control”(&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;)y tener la última palabra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The timing of the trip, it turned out, was not good.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T150336Z">
@@ -7066,6 +7090,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160908T003121Z">
         <seg>El primero se refería al grado en que la política de China cambiaría para reflejar los desafíos sociales, mencionados con anterioridad y el segundo al grado de fluidez con la que el poder podría transferirse. Debido a que tanto la política como el poder han estado interrelacionados en China, estos temas se vinculan de manera inevitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;People’s Daily&lt;s3/&gt;&lt;/f2&gt;&lt;t4/&gt;&lt;f5&gt;editorial hailing the close of the plenum stated that “the second-generation central leading collective has been successfully relieved by its third-generation central leading collective” – a point reiterated by Li Peng during his November trip to Korea and again by Jiang Zemin a few days later during his trip to Malaysia.&lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;The plenum adopted the “Decision on Some Major Issues on Strengthening Party Building,” which on the one hand excoriated negative trends such as corruption and weakness of grass- roots Party organizations and, on the other hand, urged renewed attention to democratic centralism – emphasizing the subordination of lower levels to higher levels, the part to the whole, and everything to the Party center.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T013010Z" creationid="Daniel-Andrea" creationdate="20160908T013010Z">
+        <seg>El períodico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;"People’s Daily" (Pueblo en Línea)&lt;s3/&gt;&lt;/f2&gt;&lt;t4/&gt;&lt;f5&gt;) que cubría el cierre del pleno, se afirmaba que “el poder principal de la segunda generación fue atenuado con éxito por el de la tercera generación” (un asunto que fue recalcado por Li Peng durante su viaje a Corea, y algunos días después por Jiang Zemin, durante su viaje a Malasia)&lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;. The plenum adopted the “Decision on Some Major Issues on Strengthening Party Building,” which on the one hand excoriated negative trends such as corruption and weakness of grass- roots Party organizations and, on the other hand, urged renewed attention to democratic centralism – emphasizing the subordination of lower levels to higher levels, the part to the whole, and everything to the Party center.</seg>
       </tuv>
     </tu>
     <tu>
