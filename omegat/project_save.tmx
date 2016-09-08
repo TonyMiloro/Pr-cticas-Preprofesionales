@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2530,8 +2530,8 @@
       <tuv lang="EN-US">
         <seg>But failure in the promotion of ethical and cultural progress will lead to damage to material progress and even&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;change&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;the&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;nature&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;of&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;society.”&lt;/f40&gt;&lt;a41&gt;&lt;f42&gt;63&lt;/f42&gt;&lt;/a41&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024257Z" creationid="Nuevo" creationdate="20160908T024257Z">
-        <seg>Sin embargo, el fracaso en la promoción del desarrollo ético y culturalBut failure in the promotion of ethical and cultural progress will lead to damage to material progress and even&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;change&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;the&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;nature&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;of&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;society.”&lt;/f40&gt;&lt;a41&gt;&lt;f42&gt;63&lt;/f42&gt;&lt;/a41&gt;</seg>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024527Z" creationid="Nuevo" creationdate="20160908T024257Z">
+        <seg>Sin embargo, "el fracaso en la promoción del desarrollo ético y cultural provocaría daños al desarrollo material e incluso cambiaría la esencia de la sociedad".&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;&lt;/f40&gt;&lt;a41&gt;&lt;f42&gt;63&lt;/f42&gt;&lt;/a41&gt;</seg>
       </tuv>
     </tu>
     <tu>
