@@ -1311,6 +1311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In the late i980s, Wang wrote a series of essays that drew attention to himself as one of the bright young lights on the intellectual scene.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131855Z" creationid="Barri" creationdate="20160908T131855Z">
+        <seg>&lt;f0&gt;Al final de los años 80, Wang escribió una serie de ensayos que </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In the wake of Tiananmen, conservatives had (as discussed in Chapter&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;i&lt;/f2&gt;&lt;f3&gt;) tried to turn the clock back, but even they soon realized that the goal of restoring anything resembling the old planned economy was no longer practical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160907T124051Z">
