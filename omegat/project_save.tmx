@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -745,8 +745,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;When the Sixth Plenary Session of the Fourteenth Central Committee convened on October &lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;10&lt;/f3&gt;&lt;f4&gt;,&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;1996&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;it&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;adopted&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;a&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;14&lt;/f15&gt;&lt;f16&gt;,&lt;/f16&gt;&lt;f17&gt;000&lt;/f17&gt;&lt;f18&gt;-character&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;decision entitled, “Resolution of the CCP Central Committee Concerning Several Important Issues on Strengthening the Building of Socialist Spiritual Civilization.” In many ways, this resolution seems designed to respond to and defend Jiang from charges that the economic reforms he was presiding over – and those measures he was contemplating – would lead to bourgeois liberalization and privatization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T015135Z" creationid="Nuevo" creationdate="20160908T015135Z">
-        <seg>&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;En la Sexta Sesión Plenaria que se llevó a cabo del 7 al 10 de octubre de 1996, el Décimocuarto Comité Central del PCCh con respecto a </seg>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T015253Z" creationid="Nuevo" creationdate="20160908T015135Z">
+        <seg>&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;En la Sexta Sesión Plenaria que se llevó a cabo del 7 al 10 de octubre de 1996, el Décimocuarto Comité Central del PCCh adoptó una resolución de 14 000 caracteres que se tituló "Fallo del Comité Central del PCCh con respecto a </seg>
       </tuv>
     </tu>
     <tu>
