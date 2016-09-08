@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3644,6 +3644,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160907T012158Z">
         <seg>La crítica a la izquierda de Deng y su pedido por un crecimiento económico más rápido no solo trajo la expansión normal de inversión, sino también estimuló, por primera vez, un mercado inmobiliario activo y especulativo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng’s efforts over the preceding year and more, starting with his early 1991 trip to Shanghai and building momentum following the abortive coup in the&lt;s0/&gt;Soviet Union and with his trip to Shenzhen, ﬁnally culminated in October 1992 with the adoption by the Fourteenth Party Congress of the most liberal economic document in CCP history.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T223137Z" creationid="constanza" creationdate="20160908T223137Z">
+        <seg>Los efuerzos que Deng realizó a lo largo del año anterior y más, que comenzaron con su viaje a Shangai a principios de 1991, el aprovechamiento del impulso que se produjo luego del fallido golpe de estado en la&lt;s0/&gt;Unión Soviética y su viaje a Shenzhen, concluyeron en octubre de 1992  con la adopción en el XIV Congreso Nacional del Partido del documento económico más liberal en la historia del PCCh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8296,6 +8304,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160908T171644Z">
         <seg>El PCCh convocó su décimo séptimo Congreso del Partido desde el 15 hasta el 20 de octubre de 2007, al que le siguó el Primer Pleno del nuevo Comité Central electo el 21 de octubre. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Fourteenth Party Congress</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T223044Z" creationid="constanza" creationdate="20160908T223044Z">
+        <seg>XIV Congreso Nacional del Partido Comunista de China</seg>
       </tuv>
     </tu>
     <tu>
