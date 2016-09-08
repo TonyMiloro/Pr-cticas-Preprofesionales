@@ -30,14 +30,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>1.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022307Z" creationid="Melanie" creationdate="20160908T022307Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>10.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023119Z" creationid="Melanie" creationdate="20160908T023119Z">
@@ -130,6 +122,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225840Z">
         <seg>constitución de 1982</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033026Z" creationid="marielaromina" creationdate="20160908T033026Z">
+        <seg>2. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3288,6 +3288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deng moves to revive reform 48</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033100Z" creationid="marielaromina" creationdate="20160908T033100Z">
+        <seg>Deng decide revivir la reforma 48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deng urged them not to act like “women with bound feet”; reform needed to be bolder and the &lt;t0/&gt;pace of development faster.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T224900Z">
@@ -5162,6 +5170,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction 1</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032912Z" creationid="marielaromina" creationdate="20160908T032912Z">
+        <seg>Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ironically, even as China entered the WTO, a significant intellectual opposition to capitalism and globalization has emerged.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184344Z">
@@ -5725,6 +5741,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
         <seg>List of abbreviations and tables</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023250Z">
+        <seg>Lista de abreviaciones y cuadros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of abbreviations and tables xviii</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032901Z" creationid="marielaromina" creationdate="20160908T032901Z">
         <seg>Lista de abreviaciones y cuadros</seg>
       </tuv>
     </tu>
@@ -8698,6 +8722,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173454Z">
         <seg>Tiananmén y las críticas conservadoras contra la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiananmen and the conservative critique of reform 21</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033021Z" creationid="marielaromina" creationdate="20160908T033021Z">
+        <seg>Tiananmén y las críticas conservadoras contra la reforma 21</seg>
       </tuv>
     </tu>
     <tu>
