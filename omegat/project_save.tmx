@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2008,6 +2008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although the public discussion on new authoritarianism is generally identified with a number of intellectuals close to then-General Secretary Zhao Ziyang, the earliest discussions were held in Shanghai.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130309Z" creationid="Barri" creationdate="20160908T130309Z">
+        <seg>A pesar de que la discusión pública sobre el nuevo autoritarismo se asocia por lo general con varios pensadores cercanos a Zhao Ziyang (el Secretario General de la época), los primeros debates se hicieron en Shangai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the “cultural fever” referred to above allowed for continued links between the state and intellectuals, the growing autonomy of intellectuals soon led them on a collision course with the state.22</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T225119Z">
@@ -3974,6 +3982,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T175523Z">
         <seg>Para ellos, como así también para sus predecesores del siglo pasado y anteriores, los conflictos de identidad representan un problema: la relación de China con el mundo exterior (denominado "Occidente), la relación del estado con la sociedad, y la relación del presente con el pasado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For these intel- lectuals, the government would take the place of the middle class until a middle class could develop.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130035Z" creationid="Barri" creationdate="20160908T130035Z">
+        <seg>Para estos pensadores, el gobierno tomaría el lugar de la clase media hasta que esta pudiera desarrollarse.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
