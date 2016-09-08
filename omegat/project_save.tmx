@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4052,8 +4052,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For the first time, the Party's leadership would have to manage succession to a younger generation without the shadow of Deng Xiaoping and others handing over them.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T204239Z">
-        <seg>Por primera vez, el liderazgo del Partido tendría que gestionar la sucesión a una generación joven sin la presencia de Deng Xiaoping y otros que se la entregaran. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T171612Z">
+        <seg> Por primera vez, el liderazgo del Partido tendría que gestionar la sucesión a una generación joven sin la presencia de Deng Xiaoping y otros que se la entregaran. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7942,8 +7942,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>The CCP convened its Seventeenth Party Congress, October 15-20, 2007, followed on October 21 by the First Plenary Session of the newly elected Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160904T230829Z">
-        <seg>El PCCh convocó su décimo séptimo Congreso del Partido desde el 15 hasta el 20 de octubre de 2007, al que le siguó el 21 de octubre el Primer Pleno del nuevo Comité Central electo. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T171644Z">
+        <seg>El PCCh convocó su décimo séptimo Congreso del Partido desde el 15 hasta el 20 de octubre de 2007, al que le siguó el Primer Pleno del nuevo Comité Central electo el 21 de octubre. </seg>
       </tuv>
     </tu>
     <tu>
