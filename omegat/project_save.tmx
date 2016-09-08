@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2010,8 +2010,8 @@
       <tuv lang="EN-US">
         <seg>Although he publicly &lt;t0/&gt;identiﬁed&lt;t1/&gt; himself with the regime, his writings and interviews reveal little knowledge of or interest in Marxism; what concerned He was the power of the central government &lt;t2/&gt;vis-`a-vis&lt;t3/&gt; the localities, the stability of society, and China’s position in the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191726Z" creationid="Melanie" creationdate="20160908T191137Z">
-        <seg>Aunque se &lt;t0/&gt;identificaba&lt;t1/&gt; públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central &lt;t2/&gt;en relación con&lt;t3/&gt; las localidades; la estabilidad de la sociedad y la posición de China en el mundo.</seg>
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T200103Z" creationid="Melanie" creationdate="20160908T191137Z">
+        <seg>Aunque se &lt;t0/&gt;identificaba&lt;t1/&gt; públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central &lt;t2/&gt;en relación con&lt;t3/&gt; las localidades, la estabilidad de la sociedad y la posición de China en el mundo.</seg>
       </tuv>
     </tu>
     <tu>
