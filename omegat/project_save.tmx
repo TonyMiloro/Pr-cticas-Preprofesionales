@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2619,16 +2619,16 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the urging of sociologists such as Li and Lu, the report ﬁrmly endorsed continuin&lt;f1&gt;g &lt;/f1&gt;along the developmental path the country had been following:“Keep economic development as the central task,”it urged, “and solve problems cropping up on our way forward through development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005149Z" creationid="andrea" creationdate="20160908T005149Z">
-        <seg>A pesar del deseo de los sociólogos Li y Lu, el informe respalda con firmeza continuar con el camino de desarrollo que el país ha seguido: “ Mantener el desarrollo económico como tarea central”, “ y resolver los problemas que surjan en nuestro camino hacia el desarrollo.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005455Z" creationid="andrea" creationdate="20160908T005149Z">
+        <seg>A pesar del deseo de los sociólogos Li y Lu, el informe respalda con firmeza continuar &lt;f1&gt;con &lt;/f1&gt; el camino de desarrollo que el país ha estado seguiendo: “ Mantener el desarrollo económico como tarea central”, “ y resolver los problemas que surjan en nuestro camino hacia el desarrollo,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Development is the fundamental principle.”32 Understandably,eyeswerefocusedmoreonpersonnelissuesratherthan on policy questions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005245Z" creationid="andrea" creationdate="20160908T005245Z">
-        <seg>El desarrollo es el principio fundamentak”. 32</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005515Z" creationid="andrea" creationdate="20160908T005245Z">
+        <seg>que constituye el principio fundamental”. 32</seg>
       </tuv>
     </tu>
     <tu>
