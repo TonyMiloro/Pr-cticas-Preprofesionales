@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -449,8 +449,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Although the&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;previous chapter&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;laid out the major differences between the New Left and liberals, attention was focused primarily on differences in their world views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160902T014423Z">
-        <seg>&lt;f0&gt;A pesar de que en el&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;capítulo anterior&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;se expusieron las mayores diferencias entre la Nueva Izquierda y los liberales, el enfoque se puso en mayor parte sobre las distintas maneras que tienen de ver el mundo.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160908T013216Z">
+        <seg>&lt;f0&gt;A pesar de que en el&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;capítulo anterior&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;se expusieron las diferencias más importantes  entre la Nueva Izquierda y los liberales, el enfoque se puso en mayor parte sobre las distintas maneras que tienen de ver el mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7320,8 +7320,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This chapter focuses on more specifically political issues that have arisen parallel to the discussions described in Chapter&lt;s7/&gt;&lt;/f6&gt;&lt;a8&gt;&lt;f9&gt;4&lt;/f9&gt;&lt;f10&gt;.&lt;s11/&gt;&lt;/f10&gt;&lt;/a8&gt;&lt;f12&gt;In particular, we focus on two issues that at first glance appear to be contradictory: the emergence of a body of neostatist thought that has revolved around the issue of “state capacity” on the one hand, and the emergence of populist nationalism on the other.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160902T014912Z">
-        <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han ocurrido en paralelo con lo presentado en el Capítulo&lt;s7/&gt;&lt;/f6&gt;&lt;a8&gt;&lt;f9&gt;4&lt;/f9&gt;&lt;f10&gt;.&lt;s11/&gt;&lt;/f10&gt;&lt;/a8&gt;&lt;f12&gt;En particular, nos centraremos en dos acontecimientos que a simple vista parecen contradictorios: por un lado, la aparición de un organismo de pensamiento neoestatista basado en la "capacidad del Estado", y por el otro, el surgimiento del nacionalismo populista.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160908T013410Z">
+        <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han surgido en paralelo con lo presentado en el Capítulo&lt;s7/&gt;&lt;/f6&gt;&lt;a8&gt;&lt;f9&gt;4&lt;/f9&gt;&lt;f10&gt;.&lt;s11/&gt;&lt;/f10&gt;&lt;/a8&gt;&lt;f12&gt;Nos centraremos, en especial, en dos acontecimientos que a simple vista parecen contradictorios: por un lado, la aparición de un organismo de pensamiento neoestatista basado en la "capacidad del Estado", y por el otro, el surgimiento del nacionalismo populista.</seg>
       </tuv>
     </tu>
     <tu>
