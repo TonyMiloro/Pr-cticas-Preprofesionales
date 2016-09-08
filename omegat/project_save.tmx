@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2514,7 +2514,7 @@
       <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s0/&gt;impossible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T233021Z" creationid="Usuario" creationdate="20160907T230830Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T233021Z">
         <seg>Deng siempre unió "reforma" con "expansión" no sólo porque creía que la modernización de la economía de China necesitaba el capital,la tecnología y los mercados de exportación que sólo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoista de la lucha internacion  de clases para disminuir los llamados de atención doméstica por un énfasis continuo en la lucha de clases,algo que podría ( y asi lo hizo) tornar la implementación de la reforma económica mucho más difícil, quizás &lt;s0/&gt;imposible.</seg>
       </tuv>
     </tu>
@@ -7728,7 +7728,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Turning around the political atmosphere as he had in 1987 would prove far more difficult; indeed, it would take him three years (until 1992).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T232941Z" creationid="Usuario" creationdate="20160907T225032Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T232941Z">
         <seg>Cambiar la atmósfera política como lo hizo en el año 1987, resultaría mucho más difícil; de hecho, le llevaría tres años (hasta el año 1992)..</seg>
       </tuv>
     </tu>
