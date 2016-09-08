@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2613,6 +2613,22 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160907T200821Z">
         <seg>A pesar de las pocas probabilidades de permanecer en el poder, Jiang logró realizar algunas maniobras, formar coaliciones y consolidar su poder de manera gradual. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite the urging of sociologists such as Li and Lu, the report ﬁrmly endorsed continuin&lt;f1&gt;g &lt;/f1&gt;along the developmental path the country had been following:“Keep economic development as the central task,”it urged, “and solve problems cropping up on our way forward through development.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005149Z" creationid="andrea" creationdate="20160908T005149Z">
+        <seg>A pesar del deseo de los sociólogos Li y Lu, el informe respalda con firmeza continuar con el camino de desarrollo que el país ha seguido: “ Mantener el desarrollo económico como tarea central”, “ y resolver los problemas que surjan en nuestro camino hacia el desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development is the fundamental principle.”32 Understandably,eyeswerefocusedmoreonpersonnelissuesratherthan on policy questions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005245Z" creationid="andrea" creationdate="20160908T005245Z">
+        <seg>El desarrollo es el principio fundamentak”. 32</seg>
       </tuv>
     </tu>
     <tu>
@@ -5710,6 +5726,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010501Z">
         <seg>Diagrama general del espectro político en China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Science and technology, of course, would help upgrade industry along the coast–areas that already had a basis for adopting newer technologies – but likely would not drive job creation, particularly in the interior.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005106Z" creationid="andrea" creationdate="20160908T005106Z">
+        <seg>Si bien ambas ayudarían a mejorar la industria en zonas costeras, que cuentan con una base  para adoptar nuevas tecnologías,con seguridad no producirán empleo, en particular en las zonas del interior.</seg>
       </tuv>
     </tu>
     <tu>
