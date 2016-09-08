@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2322,8 +2322,8 @@
       <tuv lang="EN-US">
         <seg>As unbelievable as it is, Wang pictures Mao – the person who unleashed the Great Leap Forward and brought about the death of perhaps 30 million Chinese – as the only leader who truly understood the peasants.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T151611Z">
-        <seg>Aunque parezca increíble, Wang describe a Mao -la persona que dio rienda suelta al Gran Salto Adelante y causó la muerte de quizás 30 millones de chinos- como el único líder que entendió verdaderamente a los campesinos.  </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T131759Z">
+        <seg>Aunque parezca increíble, Wang describe a Mao -la persona que dio rienda suelta al Gran Salto Adelante y causó la muerte de quizás 30 millones de chinos- como el único líder que entendió verdaderamente a los campesinos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2738,8 +2738,8 @@
       <tuv lang="EN-US">
         <seg>By keeping peasants (described as “lacking in educa- tion and full of traditional rebelliousness”) “locked docilely” on the land and by “squeezing the peasants’ stomachs,” Mao was able to pursue indus- trialization for three decades and was able to turn China into a nuclear power.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T202724Z">
-        <seg>Al mantener a los campesinos (a quienes se describe como "sin educación y llenos de la rebeldía tradicional") "atrapados dócilmente" en los campos y al "exprimirles la barriga" Mao fue capaz de llevar a cabo la industrialización durante tres décadas y pudo convertir a China en una potencia nuclear.  </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T132046Z">
+        <seg>Al mantener a los campesinos (a quienes se describe como "sin educación y llenos de la rebeldía tradicional") "atrapados dócilmente" en los campos y al "exprimirles la barriga", Mao fue capaz de llevar a cabo la industrialización durante tres décadas y pudo convertir a China en una potencia nuclear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8776,8 +8776,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>They are a “powder keg” and a “living volcano” that have unleashed a wave of criminal activity in the cities and present a serious danger to the political stability of China.51 Having raised the specter of peasant violence, Wang unfolds a sympa- thetic picture of Mao Zedong, contrasting Mao’s policies favorably with those of Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T202713Z">
-        <seg>Son un "polvorín" y un "volcán activo" que han desatado una ola de actividad criminal en las ciudades y presentan un peligro serio para la estabilidad política de china.51 Luego de haber creado el fantasma de la violencia de los campesinos, Wang despliega una imagen solidaria de Mao Zedong, contrastando favorablemente las políticas de Mao con las de Deng.  </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T131841Z">
+        <seg>Son un "polvorín" y un "volcán activo" que han desatado una ola de actividad criminal en las ciudades y presentan un peligro serio para la estabilidad política de china.51 Luego de haber creado el fantasma de la violencia de los campesinos, Wang despliega una imagen solidaria de Mao Zedong, contrastando favorablemente las políticas de Mao con las de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9456,8 +9456,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang argues that Mao was basically sympathetic to the peasants, but the task of modernization forced Mao to sacrifice their interests in favor of industrialization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T182451Z">
-        <seg>Wang sostiene que Mao fue básicamente solidario con los campesinos, pero la tarea de modernización obligó a Mao a sacrificar los intereses de los campesinos en pos de la industrialización.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T132022Z">
+        <seg>Wang sostiene que Mao fue básicamente solidario con los campesinos, pero la tarea de modernización lo obligó a sacrificar los intereses de los campesinos en pos de la industrialización.</seg>
       </tuv>
     </tu>
     <tu>
