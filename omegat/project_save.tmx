@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2036,6 +2036,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174306Z">
         <seg>Aunque se identificaba públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central en relación con las localidades; la estabilidad de la sociedad y la posición de China en el mundo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although his policies had been under nearly constant attack since 1989 and Chen Yun’s economic thought had been repeatedly written into speeches and policy documents, the Fourteenth Party Congress lauded Deng for his “tremendous political courage in opening up new paths in socialist construction and a tremendous theoretical courage in opening up a new</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224210Z" creationid="constanza" creationdate="20160908T224210Z">
+        <seg>A pesar de que sus políticas habían sufrido un ataque casi constante desde 1989 y que, el pensamiento económico de Chen Yun había sido incluido varias veces en discursos y en documentos políticos, el XIV Congreso Nacional del Partido elogió a Deng por su “gran valor político al abrir una nueva</seg>
       </tuv>
     </tu>
     <tu>
@@ -7259,6 +7267,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other Full Members</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224416Z" creationid="constanza" creationdate="20160908T224416Z">
+        <seg>Otros miembros plenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over the past century Chinese intellectuals have worked to create a more open and liberal society, though they have often submerged that quest into what they believed was a broader and more urgent quest for national sovereignty.11 Nonetheless, whenever international and domestic tensions have relaxed, intellectuals have resumed their efforts to bring greater rationality to the political process, normalize the state–society relationship, and integrate China more fully into the international order.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T044335Z">
@@ -7391,6 +7407,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014852Z">
         <seg>Señalando el costo de una administración excesiva, las demandas creadas por la reforma de empresas estatales y los desafíos que presenta la crisis financiera de Asia, Gan esbozó un plan radical para reducir de 40 a 29 el número de ministros del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Politburo</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224407Z" creationid="constanza" creationdate="20160908T224407Z">
+        <seg>Politburó</seg>
       </tuv>
     </tu>
     <tu>
@@ -8039,6 +8063,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T172718Z">
         <seg>La estabilidad y la ontinuidad estaban a la orden del día pero, en su elogio durante el funeral de Deng, Jiang  dio una pista de que no sólo tenía en mente una simple continuidad.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standing Committee</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224330Z" creationid="constanza" creationdate="20160908T224330Z">
+        <seg>Comité Permanente</seg>
       </tuv>
     </tu>
     <tu>
