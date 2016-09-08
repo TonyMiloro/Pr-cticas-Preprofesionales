@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>18–19.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024207Z" creationid="Melanie" creationdate="20160908T024207Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1970s.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T225326Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225840Z">
         <seg>constitución de 1982</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024249Z" creationid="Melanie" creationdate="20160908T024249Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +158,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>22.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024255Z" creationid="Melanie" creationdate="20160908T024255Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>231.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024149Z" creationid="Melanie" creationdate="20160908T024149Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>23–4.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024324Z" creationid="Melanie" creationdate="20160908T024324Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>25; see also “Yi gaige cu wending zai wending zhong fazhan.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211902Z">
@@ -158,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>27.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024317Z" creationid="Melanie" creationdate="20160908T024317Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>281 and p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T210051Z">
         <seg>281 y pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>29.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024245Z" creationid="Melanie" creationdate="20160908T024245Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -695,9 +751,97 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>86</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024105Z" creationid="Melanie" creationdate="20160908T024105Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>87</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024109Z" creationid="Melanie" creationdate="20160908T024109Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>88</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024130Z" creationid="Melanie" creationdate="20160908T024130Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>89</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024144Z" creationid="Melanie" creationdate="20160908T024144Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022323Z" creationid="Melanie" creationdate="20160908T022323Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>90</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024152Z" creationid="Melanie" creationdate="20160908T024152Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>91</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024201Z" creationid="Melanie" creationdate="20160908T024201Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>92</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024237Z" creationid="Melanie" creationdate="20160908T024237Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>93</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024247Z" creationid="Melanie" creationdate="20160908T024247Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>94</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024251Z" creationid="Melanie" creationdate="20160908T024251Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>95</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024313Z" creationid="Melanie" creationdate="20160908T024313Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>96</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024320Z" creationid="Melanie" creationdate="20160908T024320Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -2640,6 +2784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>China Youth Daily Ideology and Theory Department, “Realistic Responses and Strategic Options for China after the Soviet Upheaval,” pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024204Z" creationid="Melanie" creationdate="20160908T024204Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>China initially concentrated its efforts on Asia and managed to gain diplomatic recognition from Indonesia and Singapore, from which China had long been estranged.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011710Z">
@@ -3798,6 +3950,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160905T213421Z">
         <seg>Los índices de crecimiento eran altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gu Xin and David Kelly, “New Conservatism.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024139Z" creationid="Melanie" creationdate="20160908T024139Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -5470,6 +5630,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T194223Z">
         <seg>Lin atribuyó el rápido crecimiento que Guangdong había disfrutado durante la década anterior, a la implementación de políticas orientadas al mercado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ling Zhen, “Zugepai de xingdong xinhao”; author interviews.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024154Z" creationid="Melanie" creationdate="20160908T024154Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -8646,6 +8814,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang Xiaodong and Qiu Tiancao, “Jiqing de yinying: Ping dianshi xiliepian ‘He shang’.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024107Z" creationid="Melanie" creationdate="20160908T024107Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang argues that Mao was basically sympathetic to the peasants, but the task of modernization forced Mao to sacrifice their interests in favor of industrialization.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160906T182451Z">
@@ -9371,6 +9547,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T003202Z">
         <seg>pacífica"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>exploration.92 Neoconservatism, the article said, converged with Western rationalism in its opposition to radicalism and emphasis on  gradualism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024227Z" creationid="Melanie" creationdate="20160908T024209Z">
+        <seg>exploration.92 Neoconservatism, the article said, converged with Western rationalism in its opposition to radicalism and emphasis on  gradualism.</seg>
       </tuv>
     </tu>
     <tu>
