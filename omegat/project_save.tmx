@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5292,8 +5292,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the preface, “Luo yi ning ge er” is identified as a German and as Europe’s most famous Sinologist.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T202636Z">
-        <seg>En el prólogo, se identifica a "Luo yi ning ge er" como un alemán y el sinólogo más famoso de Europa.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T181419Z">
+        <seg>En el prólogo, se describe a "Luo yi ning ge er" como alemán y como el sinólogo más famoso de Europa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8232,8 +8232,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The cover of Looking at China through a Third Eye identifies one “Luo yi ning ge er” as the author.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T181006Z">
-        <seg>En la tapa de Mirando a China desde un tercer ojo se nombra a un "Luo yi ning ge er" como el autor.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T181154Z">
+        <seg>En la tapa de Mirando a China desde un tercer ojo se nombra a "Luo yi ning ge er" como el autor.</seg>
       </tuv>
     </tu>
     <tu>
