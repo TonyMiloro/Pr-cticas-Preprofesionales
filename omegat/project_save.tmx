@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8544,7 +8544,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The peasants in Hunan began organizing in 1992 to protest the high level of taxation (higher than central policies allowed).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T182506Z" creationid="Agustín" creationdate="20160908T182255Z">
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T182506Z">
         <seg>Estos campesinos comenzaron a organizarse en 1992 para reclamar por los elevados impuestos (mayores que lo permitido por las políticas centrales).</seg>
       </tuv>
     </tu>
