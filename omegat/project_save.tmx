@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -369,8 +369,8 @@
       <tuv lang="EN-US">
         <seg>43 Jiang Yihua, “Lun dongya xiandaihua jinchengzhong de xinlixing zhuyi wenhua.” P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 Neostatism and popular nationalism 153 class (xialiu); elsewhere he comments that he represents the lower ranks of officialdom.44 Born in 1952, Wang was the youngest of those known as laosanjie, the three classes (which “graduated” from high school in 1966, 1967, and 1968) who made up the Red Guard generation and were sent to the country- side when Mao had seen enough of the chaos they had generated.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T190934Z">
-        <seg>en cualquier otro lado el siempre menciona que es el representante de los rangos bajos de la burocracia44. Nacido en 1952 Wang era el más joven de los llamados laosanjie, las tres clases (que se "graduaron" de la escuela secundaria en 1966, 1967 y 1968) que constituyen la generación de la Guardia Roja y que fueron enviados al campo cuando Mao vio el cao que habían generado.   </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T124935Z">
+        <seg>en cualquier otro lado el siempre menciona que es el representante de los rangos bajos de la burocracia44. Nacido en 1952, Wang era el más joven de los llamados laosanjie, las tres clases (que se "graduaron" de la escuela secundaria en 1966, 1967 y 1968) que constituyen la generación de la Guardia Roja y que fueron enviados al campo cuando Mao vio el caos que habían generado.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -9512,8 +9512,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>When an interviewer suggested to Wang that his novels give people the impression that he is a sort of hooligan from the lower classes and that he hates the upper classes, Wang replied that Chinese society has always been divided into an upper class (shangliu) and a lower 42 It should be noted that Huntington denies this.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T194411Z">
-        <seg>Cuando en una entrevista se le insinuó a Wang que sus novelas daban la impresión de que él es una especie de vándalo de las clases bajas y que odia a las clases altas, Wang respondió que la sociedad China siempre ha estado dividida en clase alta y clase baja; </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T125052Z">
+        <seg>Cuando en una entrevista se le insinuó a Wang que sus novelas daban la impresión de que él es una especie de vándalo de las clases bajas y que odia a las clases altas, Wang respondió que la sociedad China siempre ha estado dividida en clase alta (shangliu) y clase baja (xialiu); </seg>
       </tuv>
     </tu>
     <tu>
