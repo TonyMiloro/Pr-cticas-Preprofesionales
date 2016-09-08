@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8792,8 +8792,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;People’s Daily&lt;s3/&gt;&lt;/f2&gt;&lt;t4/&gt;&lt;f5&gt;editorial hailing the close of the plenum stated that “the second-generation central leading collective has been successfully relieved by its third-generation central leading collective” – a point reiterated by Li Peng during his November trip to Korea and again by Jiang Zemin a few days later during his trip to Malaysia.&lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;The plenum adopted the “Decision on Some Major Issues on Strengthening Party Building,” which on the one hand excoriated negative trends such as corruption and weakness of grass- roots Party organizations and, on the other hand, urged renewed attention to democratic centralism – emphasizing the subordination of lower levels to higher levels, the part to the whole, and everything to the Party center.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T013010Z">
-        <seg>El períodico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;"People’s Daily" (Pueblo en Línea)&lt;s3/&gt;&lt;/f2&gt;&lt;t4/&gt;&lt;f5&gt;) que cubría el cierre del pleno, se afirmaba que “el poder principal de la segunda generación fue atenuado con éxito por el de la tercera generación” (un asunto que fue recalcado por Li Peng durante su viaje a Corea, y algunos días después por Jiang Zemin, durante su viaje a Malasia)&lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;. The plenum adopted the “Decision on Some Major Issues on Strengthening Party Building,” which on the one hand excoriated negative trends such as corruption and weakness of grass- roots Party organizations and, on the other hand, urged renewed attention to democratic centralism – emphasizing the subordination of lower levels to higher levels, the part to the whole, and everything to the Party center.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T182847Z">
+        <seg>La editorial del periódico chino&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;"People’s Daily" (Pueblo en Línea)&lt;s3/&gt;&lt;/f2&gt;&lt;t4/&gt;&lt;f5&gt;) que cubría el cierre del pleno afirmaba que “el poder principal de la segunda generación fue atenuado con éxito por el de la tercera generación” (un asunto que fue recalcado por Li Peng durante su viaje a Corea, y algunos días después por Jiang Zemin, durante su viaje a Malasia)&lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;. The plenum adopted the “Decision on Some Major Issues on Strengthening Party Building,” which on the one hand excoriated negative trends such as corruption and weakness of grass- roots Party organizations and, on the other hand, urged renewed attention to democratic centralism – emphasizing the subordination of lower levels to higher levels, the part to the whole, and everything to the Party center.</seg>
       </tuv>
     </tu>
     <tu>
