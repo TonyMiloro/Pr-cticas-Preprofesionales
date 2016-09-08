@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5100,8 +5100,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In awell-researched article in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, Yu Jianrong, a rural researcher at CASS, describes the increasing level of organization of peasants in a county in inland Hunan province (the same county where Mao, 80 years earlier, had organized peasants).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175605Z">
-        <seg>En un artículo confiable presente en la revista  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Estrategia y Administración), Yu Jianrong, un investigador rural de la Academia China de Ciencias Sociales, describe el aumento en el nivel de organización de los campesinos en una sub-prefectura de la provincia continental de Hunan (la misma sub-prefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T200804Z">
+        <seg>En un artículo confiable presente en la revista &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Estrategia y Administración), Yu Jianrong, un investigador rural de la Academia China de Ciencias Sociales, describe el aumento en el nivel de organización de los campesinos en una sub-prefectura de la provincia continental de Hunan (la misma sub-prefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5692,8 +5692,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It is even possible that reform could be broken off and social chaos [ensue].”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;But the problem was not just income inequalities; it was also a matter of local cadres seizing economic opportunities by force, preventing people under their control from the chance to prosper.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175101Z">
-        <seg>Incluso es posible que se ponga fin a la reforma y que esto [produzca] el caos social.”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Pero el problema iba más allá de la desigualdad en los ingresos; también estaba asociado al aprovechamiento de oportunidades económicas mediante la fuerza por parte de los cuadros de dirigentes locales, lo que quitaba la posibilidad de prosperar a la gente que se encontraba bajo su control.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T200826Z">
+        <seg>Incluso es posible que se ponga fin a la reforma y que esto [produzca] el caos social”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Pero el problema iba más allá de la desigualdad en los ingresos; también estaba asociado al aprovechamiento de oportunidades económicas mediante la fuerza por parte de los cuadros de dirigentes locales, lo que quitaba la posibilidad de prosperar a la gente que se encontraba bajo su control.</seg>
       </tuv>
     </tu>
     <tu>
