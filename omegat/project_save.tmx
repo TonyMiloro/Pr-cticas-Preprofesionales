@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2281,8 +2281,8 @@
       <tuv lang="EN-US">
         <seg>Contrary to the hopes of scholars like Li Peilin and Lu Xueyi,the report to the Sixteenth Party Congress, delivered by Jiang Zemin, gave little indication of a shift in policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003636Z" creationid="andrea" creationdate="20160908T003636Z">
-        <seg>En oposición al deseo de los investigadores como Li Pellin y Lu Xueyi, ell informe del Decimosexto Congreso del Partido no indicaba un cambio significativo en la política.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004000Z" creationid="andrea" creationdate="20160908T003636Z">
+        <seg>En oposición al deseo de los investigadores como Li Pellin y Lu Xueyi, el informe del Decimosexto Congreso del Partido no indicaba un cambio significativo en la política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4193,8 +4193,8 @@
       <tuv lang="EN-US">
         <seg>It celebrated the Three Represents (sange daibiao),called for “keeping pace with the times”(yushi jujin),and declared that the “strategic adjustment of the economic structure has been crowned with success” and that “it is of vital importance to take economic development as the main task.” The report recognized that there were problems in society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003712Z" creationid="andrea" creationdate="20160908T003712Z">
-        <seg>Celebraba la Triple Representatividad (sange daibiao) que exigía “seguir el ritmo” (yushi jujin) y declaraba que “ el cambio estratégico de la estructuca económica ha sido coronado por el éxito” y que “ es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas sociales.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004039Z" creationid="andrea" creationdate="20160908T003712Z">
+        <seg>Celebraba la Triple Representatividad (sange daibiao) que exigía “seguir el ritmo” (yushi jujin) y declaraba que “el cambio estratégico de la estructura económica ha sido coronado por el éxito” y que “ es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas sociales.</seg>
       </tuv>
     </tu>
     <tu>
