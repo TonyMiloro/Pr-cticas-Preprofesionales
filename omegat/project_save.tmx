@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9008,8 +9008,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>They are a “powder keg” and a “living volcano” that have unleashed a wave of criminal activity in the cities and present a serious danger to the political stability of China.51 Having raised the specter of peasant violence, Wang unfolds a sympa- thetic picture of Mao Zedong, contrasting Mao’s policies favorably with those of Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T183651Z">
-        <seg>Son un "polvorín" y un "volcán activo" y han desatado una ola de actividad criminal en las ciudades y presentan un peligro serio para la estabilidad política de china.51 Luego de haber creado el fantasma de la violencia de los campesinos, Wang despliega una imagen solidaria de Mao Zedong, contrastando favorablemente las políticas de Mao con las de Deng.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160908T184514Z">
+        <seg>Son como un "polvorín" y un "volcán activo" y han desatado una ola de actividad criminal en las ciudades y presentan un peligro serio para la estabilidad política de china.51 Luego de haber creado el fantasma de la violencia de los campesinos, Wang despliega una imagen solidaria de Mao Zedong, contrastando favorablemente las políticas de Mao con las de Deng.</seg>
       </tuv>
     </tu>
     <tu>
