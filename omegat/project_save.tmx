@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014827Z">
         <seg>(y así evitar la confrontación directa). pero hacerlo lo menos posible (con la esperanza de que Deng cedería a la resistencia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*Died February 1993</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224648Z" creationid="constanza" creationdate="20160908T224648Z">
+        <seg>*Murió en febrero de 1993</seg>
       </tuv>
     </tu>
     <tu>
@@ -1972,6 +1980,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T212134Z">
         <seg>Ya para 1992, Qinglian sostuvo que las empresas conjuntas habían perdido unos 46 000 millones de yuanes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternate Member</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224625Z" creationid="constanza" creationdate="20160908T224531Z">
+        <seg>Miembro suplente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7643,6 +7659,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secretariat</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224558Z" creationid="constanza" creationdate="20160908T224558Z">
+        <seg>Secretaría General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secretary published</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205502Z">
@@ -10875,6 +10899,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020051Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>realm in Marxism.” No other plenum or congress report in the reform era had been so personal or&lt;s0/&gt;so laudatory.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224735Z" creationid="constanza" creationdate="20160908T224735Z">
+        <seg>rama dentro del Marxismo”. Ningún otro informe de un pleno o congreso en la era de la reforma había sido tan personal ni&lt;s0/&gt;tan elogioso.</seg>
       </tuv>
     </tu>
     <tu>
