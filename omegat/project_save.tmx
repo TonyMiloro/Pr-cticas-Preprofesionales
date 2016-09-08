@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32,7 +32,7 @@
       <tuv lang="EN-US">
         <seg>10.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023119Z" creationid="Melanie" creationdate="20160908T023119Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023119Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -40,7 +40,7 @@
       <tuv lang="EN-US">
         <seg>11.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022409Z" creationid="Melanie" creationdate="20160908T022409Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022409Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -56,7 +56,7 @@
       <tuv lang="EN-US">
         <seg>12.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022930Z" creationid="Melanie" creationdate="20160908T022930Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022930Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -64,7 +64,7 @@
       <tuv lang="EN-US">
         <seg>123; emphasis in original.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023132Z" creationid="Melanie" creationdate="20160908T023132Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023132Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -72,7 +72,7 @@
       <tuv lang="EN-US">
         <seg>124.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023905Z" creationid="Melanie" creationdate="20160908T023905Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023905Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -88,7 +88,7 @@
       <tuv lang="EN-US">
         <seg>14</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022342Z" creationid="Melanie" creationdate="20160908T022342Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022342Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -96,7 +96,7 @@
       <tuv lang="EN-US">
         <seg>18; He Xin, “Dangdai &lt;t0/&gt;shijie jingji xingshi fenxi,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022626Z" creationid="Melanie" creationdate="20160908T022626Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022626Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -104,7 +104,7 @@
       <tuv lang="EN-US">
         <seg>18–19.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024207Z" creationid="Melanie" creationdate="20160908T024207Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024207Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -128,7 +128,7 @@
       <tuv lang="EN-US">
         <seg>2.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033026Z" creationid="marielaromina" creationdate="20160908T033026Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033026Z">
         <seg>2. </seg>
       </tuv>
     </tu>
@@ -136,7 +136,7 @@
       <tuv lang="EN-US">
         <seg>20.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024249Z" creationid="Melanie" creationdate="20160908T024249Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024249Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -160,7 +160,7 @@
       <tuv lang="EN-US">
         <seg>22.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024255Z" creationid="Melanie" creationdate="20160908T024255Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024255Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -168,7 +168,7 @@
       <tuv lang="EN-US">
         <seg>231.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024149Z" creationid="Melanie" creationdate="20160908T024149Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024149Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -176,7 +176,7 @@
       <tuv lang="EN-US">
         <seg>23–4.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024324Z" creationid="Melanie" creationdate="20160908T024324Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024324Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -200,7 +200,7 @@
       <tuv lang="EN-US">
         <seg>27.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024317Z" creationid="Melanie" creationdate="20160908T024317Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024317Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -216,7 +216,7 @@
       <tuv lang="EN-US">
         <seg>284—6.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130421Z" creationid="Barri" creationdate="20160908T130421Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130421Z">
         <seg>284-6.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
@@ -224,7 +224,7 @@
       <tuv lang="EN-US">
         <seg>29.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024245Z" creationid="Melanie" creationdate="20160908T024245Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024245Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -232,7 +232,7 @@
       <tuv lang="EN-US">
         <seg>2–3.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022332Z" creationid="Melanie" creationdate="20160908T022332Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022332Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -248,7 +248,7 @@
       <tuv lang="EN-US">
         <seg>31.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022536Z" creationid="Melanie" creationdate="20160908T022536Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022536Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -256,7 +256,7 @@
       <tuv lang="EN-US">
         <seg>32.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022527Z" creationid="Melanie" creationdate="20160908T022527Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022527Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -272,7 +272,7 @@
       <tuv lang="EN-US">
         <seg>34.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022555Z" creationid="Melanie" creationdate="20160908T022555Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022555Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -280,7 +280,7 @@
       <tuv lang="EN-US">
         <seg>34.&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;36&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T140727Z" creationid="Barri" creationdate="20160908T140727Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T140727Z">
         <seg>34.&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;36&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;lbid., p.</seg>
       </tuv>
     </tu>
@@ -296,7 +296,7 @@
       <tuv lang="EN-US">
         <seg>35–6.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022602Z" creationid="Melanie" creationdate="20160908T022602Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022602Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -312,7 +312,7 @@
       <tuv lang="EN-US">
         <seg>40.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022647Z" creationid="Melanie" creationdate="20160908T022647Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022647Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -320,7 +320,7 @@
       <tuv lang="EN-US">
         <seg>402.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022656Z" creationid="Melanie" creationdate="20160908T022656Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022656Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -328,7 +328,7 @@
       <tuv lang="EN-US">
         <seg>403.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022712Z" creationid="Melanie" creationdate="20160908T022712Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022712Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -336,7 +336,7 @@
       <tuv lang="EN-US">
         <seg>406–7.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022939Z" creationid="Melanie" creationdate="20160908T022939Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022939Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -344,7 +344,7 @@
       <tuv lang="EN-US">
         <seg>40–2.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022419Z" creationid="Melanie" creationdate="20160908T022419Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022419Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -369,7 +369,7 @@
       <tuv lang="EN-US">
         <seg>427–8.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022943Z" creationid="Melanie" creationdate="20160908T022943Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022943Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -393,7 +393,7 @@
       <tuv lang="EN-US">
         <seg>45–6.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022519Z" creationid="Melanie" creationdate="20160908T022519Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022519Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -401,7 +401,7 @@
       <tuv lang="EN-US">
         <seg>47.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022545Z" creationid="Melanie" creationdate="20160908T022545Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022545Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -409,7 +409,7 @@
       <tuv lang="EN-US">
         <seg>481.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022611Z" creationid="Melanie" creationdate="20160908T022611Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022611Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -417,7 +417,7 @@
       <tuv lang="EN-US">
         <seg>484, 494.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022640Z" creationid="Melanie" creationdate="20160908T022640Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022640Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -425,7 +425,7 @@
       <tuv lang="EN-US">
         <seg>495.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022632Z" creationid="Melanie" creationdate="20160908T022632Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022632Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -433,7 +433,7 @@
       <tuv lang="EN-US">
         <seg>503.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023009Z" creationid="Melanie" creationdate="20160908T023009Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023009Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -441,7 +441,7 @@
       <tuv lang="EN-US">
         <seg>506; and He Xin, “Woguo duiwai kaifang zhanlu¨e de yizhong shexiang,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023014Z" creationid="Melanie" creationdate="20160908T023014Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023014Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -449,7 +449,7 @@
       <tuv lang="EN-US">
         <seg>508.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022959Z" creationid="Melanie" creationdate="20160908T022959Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022959Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -481,7 +481,7 @@
       <tuv lang="EN-US">
         <seg>54</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022251Z" creationid="Melanie" creationdate="20160908T022251Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022251Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -489,7 +489,7 @@
       <tuv lang="EN-US">
         <seg>544; He Xin, “Lun woguo jingji gaige zhidao lilun de shiwu,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023012Z" creationid="Melanie" creationdate="20160908T023012Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023012Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -497,7 +497,7 @@
       <tuv lang="EN-US">
         <seg>55</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022312Z" creationid="Melanie" creationdate="20160908T022312Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022312Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -505,7 +505,7 @@
       <tuv lang="EN-US">
         <seg>56</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022326Z" creationid="Melanie" creationdate="20160908T022326Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022326Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -513,7 +513,7 @@
       <tuv lang="EN-US">
         <seg>57</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022335Z" creationid="Melanie" creationdate="20160908T022335Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022335Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -521,7 +521,7 @@
       <tuv lang="EN-US">
         <seg>57; and He Xin, “Wo xiang nimen liangzhi huhuan,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022628Z" creationid="Melanie" creationdate="20160908T022628Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022628Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -529,7 +529,7 @@
       <tuv lang="EN-US">
         <seg>58</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022348Z" creationid="Melanie" creationdate="20160908T022348Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022348Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -537,7 +537,7 @@
       <tuv lang="EN-US">
         <seg>59</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022413Z" creationid="Melanie" creationdate="20160908T022413Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022413Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -545,7 +545,7 @@
       <tuv lang="EN-US">
         <seg>5—6.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131812Z" creationid="Barri" creationdate="20160908T131812Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131812Z">
         <seg>5-6.</seg>
       </tuv>
     </tu>
@@ -553,7 +553,7 @@
       <tuv lang="EN-US">
         <seg>60</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022513Z" creationid="Melanie" creationdate="20160908T022513Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022513Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -561,7 +561,7 @@
       <tuv lang="EN-US">
         <seg>61</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022521Z" creationid="Melanie" creationdate="20160908T022521Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022521Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -569,7 +569,7 @@
       <tuv lang="EN-US">
         <seg>62</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022530Z" creationid="Melanie" creationdate="20160908T022530Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022530Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -577,7 +577,7 @@
       <tuv lang="EN-US">
         <seg>63</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022538Z" creationid="Melanie" creationdate="20160908T022538Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022538Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -585,7 +585,7 @@
       <tuv lang="EN-US">
         <seg>64</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022550Z" creationid="Melanie" creationdate="20160908T022550Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022550Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -601,7 +601,7 @@
       <tuv lang="EN-US">
         <seg>65</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022557Z" creationid="Melanie" creationdate="20160908T022557Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022557Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -609,7 +609,7 @@
       <tuv lang="EN-US">
         <seg>66</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022605Z" creationid="Melanie" creationdate="20160908T022605Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022605Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -617,7 +617,7 @@
       <tuv lang="EN-US">
         <seg>67</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022634Z" creationid="Melanie" creationdate="20160908T022634Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022634Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -625,7 +625,7 @@
       <tuv lang="EN-US">
         <seg>68</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022643Z" creationid="Melanie" creationdate="20160908T022643Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022643Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -633,7 +633,7 @@
       <tuv lang="EN-US">
         <seg>69</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022649Z" creationid="Melanie" creationdate="20160908T022649Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022649Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -641,7 +641,7 @@
       <tuv lang="EN-US">
         <seg>70</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022658Z" creationid="Melanie" creationdate="20160908T022658Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022658Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -649,7 +649,7 @@
       <tuv lang="EN-US">
         <seg>70.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022953Z" creationid="Melanie" creationdate="20160908T022953Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022953Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -657,7 +657,7 @@
       <tuv lang="EN-US">
         <seg>71</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022814Z" creationid="Melanie" creationdate="20160908T022814Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022814Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -665,7 +665,7 @@
       <tuv lang="EN-US">
         <seg>72 “Current World Economic Situation” (III), p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022925Z" creationid="Melanie" creationdate="20160908T022925Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022925Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -673,7 +673,7 @@
       <tuv lang="EN-US">
         <seg>73</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022933Z" creationid="Melanie" creationdate="20160908T022933Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022933Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -681,7 +681,7 @@
       <tuv lang="EN-US">
         <seg>74</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022946Z" creationid="Melanie" creationdate="20160908T022946Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022946Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -689,7 +689,7 @@
       <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022955Z" creationid="Melanie" creationdate="20160908T022955Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022955Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -697,7 +697,7 @@
       <tuv lang="EN-US">
         <seg>76</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023001Z" creationid="Melanie" creationdate="20160908T023001Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023001Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -705,7 +705,7 @@
       <tuv lang="EN-US">
         <seg>77</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023109Z" creationid="Melanie" creationdate="20160908T023109Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023109Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -713,7 +713,7 @@
       <tuv lang="EN-US">
         <seg>78</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023113Z" creationid="Melanie" creationdate="20160908T023113Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023113Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -721,7 +721,7 @@
       <tuv lang="EN-US">
         <seg>79</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023121Z" creationid="Melanie" creationdate="20160908T023121Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023121Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -729,7 +729,7 @@
       <tuv lang="EN-US">
         <seg>80</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023126Z" creationid="Melanie" creationdate="20160908T023126Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023126Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -737,7 +737,7 @@
       <tuv lang="EN-US">
         <seg>81</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023137Z" creationid="Melanie" creationdate="20160908T023137Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023137Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -745,7 +745,7 @@
       <tuv lang="EN-US">
         <seg>83</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023910Z" creationid="Melanie" creationdate="20160908T023910Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023910Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -753,7 +753,7 @@
       <tuv lang="EN-US">
         <seg>83.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023017Z" creationid="Melanie" creationdate="20160908T023017Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023017Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -761,7 +761,7 @@
       <tuv lang="EN-US">
         <seg>84</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023921Z" creationid="Melanie" creationdate="20160908T023921Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023921Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -769,7 +769,7 @@
       <tuv lang="EN-US">
         <seg>85</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023927Z" creationid="Melanie" creationdate="20160908T023927Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023927Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -777,7 +777,7 @@
       <tuv lang="EN-US">
         <seg>86</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024105Z" creationid="Melanie" creationdate="20160908T024105Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024105Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -785,7 +785,7 @@
       <tuv lang="EN-US">
         <seg>87</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024109Z" creationid="Melanie" creationdate="20160908T024109Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024109Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -793,7 +793,7 @@
       <tuv lang="EN-US">
         <seg>88</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024130Z" creationid="Melanie" creationdate="20160908T024130Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024130Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -801,7 +801,7 @@
       <tuv lang="EN-US">
         <seg>89</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024144Z" creationid="Melanie" creationdate="20160908T024144Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024144Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -809,7 +809,7 @@
       <tuv lang="EN-US">
         <seg>9.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022323Z" creationid="Melanie" creationdate="20160908T022323Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022323Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -817,7 +817,7 @@
       <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024152Z" creationid="Melanie" creationdate="20160908T024152Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024152Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -825,7 +825,7 @@
       <tuv lang="EN-US">
         <seg>91</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024201Z" creationid="Melanie" creationdate="20160908T024201Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024201Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -833,7 +833,7 @@
       <tuv lang="EN-US">
         <seg>92</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024237Z" creationid="Melanie" creationdate="20160908T024237Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024237Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -841,7 +841,7 @@
       <tuv lang="EN-US">
         <seg>93</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024247Z" creationid="Melanie" creationdate="20160908T024247Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024247Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -849,7 +849,7 @@
       <tuv lang="EN-US">
         <seg>94</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024251Z" creationid="Melanie" creationdate="20160908T024251Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024251Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -857,7 +857,7 @@
       <tuv lang="EN-US">
         <seg>95</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024313Z" creationid="Melanie" creationdate="20160908T024313Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024313Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -865,7 +865,7 @@
       <tuv lang="EN-US">
         <seg>96</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024320Z" creationid="Melanie" creationdate="20160908T024320Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024320Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -905,7 +905,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;61 &lt;/f0&gt;&lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;Resolution of the CPC Central Committee Regarding Important Questions on Promoting Socialist Ethical and Cultural Progress.”&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025447Z" creationid="Nuevo" creationdate="20160908T025408Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025447Z">
         <seg>&lt;f0&gt;61 &lt;/f0&gt;&lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;Fallo del Comité Central del PCCh con respecto a cuestiones importantes para la promoción de la ética socialista y el progreso cultural”.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
@@ -913,7 +913,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;63 &lt;/f0&gt;&lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;Resolution of the CPC Central Committee Regarding Important Questions on Promoting Socialist Ethical and Cultural Progress.”&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025434Z" creationid="Nuevo" creationdate="20160908T025434Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025434Z">
         <seg>&lt;f0&gt;63 &lt;/f0&gt;&lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;Fallo del Comité Central del PCCh con respecto a cuestiones importantes para la promoción de la ética socialista y el progreso cultural”.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
@@ -921,7 +921,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;64&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Ibid.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025546Z" creationid="Nuevo" creationdate="20160908T025546Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025546Z">
         <seg>&lt;f0&gt;64&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Ibídem.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
@@ -929,7 +929,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;65 &lt;/f0&gt;&lt;f1&gt;Ibid.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025553Z" creationid="Nuevo" creationdate="20160908T025553Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025553Z">
         <seg>&lt;f0&gt;65 &lt;/f0&gt;&lt;f1&gt;Ibídem.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
@@ -1001,7 +1001,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Academic writings were, if anything, more vivid.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175506Z" creationid="Monzon" creationdate="20160908T175506Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175506Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Los escritos académicos eran, en todo caso, más gráficos.</seg>
       </tuv>
     </tu>
@@ -1033,7 +1033,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;In the Chinese political system, Party congresses provide an occasion for the gathering and analysis of the sort of information that allows the system to take stock of itself.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T180140Z" creationid="Monzon" creationdate="20160908T180140Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T180140Z">
         <seg>&lt;f0&gt;&lt;f1&gt;En el sistema político chino, el Congreso Nacional del Partido Comunista de China brinda la oportunidad de recopilar y analizar toda información que le permita al sistema hacer su propio balance.</seg>
       </tuv>
     </tu>
@@ -1137,7 +1137,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;“Mass disturbances” numbered some 58,000 in 2003, and would rise to 74,000 in 2004 and 87,000 in 2005.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T180805Z" creationid="Monzon" creationdate="20160908T180805Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T180805Z">
         <seg>&lt;f0&gt;&lt;f1&gt;En 2003, los “disturbios en masa” alcanzaron 58 000, el cual llegaría, en 2004, a 74 000 y en 2005, a 87 000.</seg>
       </tuv>
     </tu>
@@ -1145,7 +1145,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1/&gt;GaoXin,&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;Jiang Zemin de muliao&lt;/f3&gt;&lt;f4&gt;, pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130410Z" creationid="Barri" creationdate="20160908T130410Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130410Z">
         <seg>&lt;f0&gt;&lt;t1/&gt;GaoXin,&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;Jian Zemin de muliao&lt;/f3&gt;&lt;f4&gt;, pp.</seg>
       </tuv>
     </tu>
@@ -1153,7 +1153,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1/&gt;Wang Huning, “Lun minzhu zhengzhi jianshe,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134613Z" creationid="Barri" creationdate="20160908T134613Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134613Z">
         <seg>&lt;f0&gt;&lt;t1/&gt;&gt;Wang Huning, “Lun minzhu zhengzhi jianshe”, p.</seg>
       </tuv>
     </tu>
@@ -1217,7 +1217,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Ayear later, Chen Yuan reflected on the usefulness of Western economics for China in another article.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T123002Z" creationid="Barri" creationdate="20160908T122940Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T123002Z">
         <seg>&lt;f0&gt;Un año después, Chen Yuan reflexionó en otro artículo sobre la utilidad de la economía Occidental para China.</seg>
       </tuv>
     </tu>
@@ -1353,7 +1353,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;In the late i980s, Wang wrote a series of essays that drew attention to himself as one of the bright young lights on the intellectual scene.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132003Z" creationid="Barri" creationdate="20160908T131855Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132003Z">
         <seg>&lt;f0&gt;Al final de los años 80, Wang escribió una serie de ensayos que llamaron la atención de varios y que lo consagraron como uno de los jóvenes más iluminados de la escena intelectual. </seg>
       </tuv>
     </tu>
@@ -1481,7 +1481,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The plenum resolution defended reform, but it also warned that “[a]t no time should we achieve short-term economic growth at the expense of spiritual&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;civilization.”&lt;/f2&gt;&lt;a3&gt;61&lt;/a3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;This&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;was&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;a&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;phrase&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;authored&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;by&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;Teng&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;Wensheng,&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;the prot&lt;/f21&gt;&lt;f22&gt;é&lt;/f22&gt;&lt;f23&gt;g&lt;/f23&gt;&lt;f24&gt;é&lt;/f24&gt;&lt;f25&gt; of Deng Liqun’s whom Jiang had brought over to head the&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;Policy Research Office and, no doubt, to assure conservatives that their concerns would be heard.&lt;/f27&gt;&lt;a28&gt;62&lt;/a28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;Indeed, the document came perilously close to giving equal value to economic development and spiritual civilization, as leftists had long urged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T023717Z" creationid="Nuevo" creationdate="20160908T022234Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T023717Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;a3&gt;&lt;/a3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;El fallo del pleno apoyó la reforma, Teng&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;Wensheng,&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;&lt;/f24&gt;&lt;f25&gt;protegido de Deng Liqun, a quien Jiang había elegido para dirigir la Oficina de Investigación Política, y sin dudas, para asegurarle a los conservadores que sus preocupaciones serían escuchadas&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;a28&gt;62&lt;/a28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;En efecto, el documento estuvo peligrosamente cerca de otorgarle al desarrollo ecnómico y a la civilización espiritual un valor equitativo, algo que los de izquierda reclamaban desde hacía mucho tiempo.</seg>
       </tuv>
     </tu>
@@ -1521,7 +1521,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;While Chen Yuan began to articulate a neoconservative vision of economics in the post-Tiananmen period, others began to explore the political dimen- sions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T140929Z" creationid="Barri" creationdate="20160908T124601Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T140929Z">
         <seg>Mientras Chen Yuan comenzaba a articular una visión neoconservadora de la economía en el período post-Tiananmen, otros comenzaban a explorar las dimensiones políticas.&lt;f0&gt;</seg>
       </tuv>
     </tu>
@@ -1577,7 +1577,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;new&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;authoritarianism&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;neoconservatism&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T124503Z" creationid="Barri" creationdate="20160908T124503Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T124503Z">
         <seg>&lt;f0&gt;Nuevo&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;autoritarismo&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;y&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;neoconservadurismo&lt;/f9&gt;</seg>
       </tuv>
     </tu>
@@ -1713,7 +1713,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134429Z" creationid="Barri" creationdate="20160908T134429Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134429Z">
         <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;lbid.,p.</seg>
       </tuv>
     </tu>
@@ -1841,7 +1841,7 @@
       <tuv lang="EN-US">
         <seg>A year or so later, He seemed less certain of the inevitable decline of the United States and more worried about the failure of reform in the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T115618Z" creationid="Usuario" creationdate="20160908T115251Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T115618Z">
         <seg>Pasado un año o más, parecía que He estaba menos seguro del deterioro inevitable de los Estados Unidos y más preocupado por la ineficacia de las reformas en la Unión Soviética. </seg>
       </tuv>
     </tu>
@@ -1930,7 +1930,7 @@
       <tuv lang="EN-US">
         <seg>After three years of studying French, Wang studied for a master’s degree at Fudan University’s Department of International Politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131630Z" creationid="Barri" creationdate="20160908T131539Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131630Z">
         <seg>Luego de haber estudiado Francés por tres años, Wang estudió para obtener una maestría en el Departamento de Política Internacional de la Universidad Fudan. </seg>
       </tuv>
     </tu>
@@ -2066,7 +2066,7 @@
       <tuv lang="EN-US">
         <seg>Although such people argued for strengthening the center’s authority, there was a liberal goal within their vision.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125407Z" creationid="Barri" creationdate="20160908T125407Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125407Z">
         <seg>A pesar de que esas personas luchaban por reforzar la autoridad central, había una meta liberal en su visión.</seg>
       </tuv>
     </tu>
@@ -2098,7 +2098,7 @@
       <tuv lang="EN-US">
         <seg>Although the public discussion on new authoritarianism is generally identified with a number of intellectuals close to then-General Secretary Zhao Ziyang, the earliest discussions were held in Shanghai.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130309Z" creationid="Barri" creationdate="20160908T130309Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130309Z">
         <seg>A pesar de que la discusión pública sobre el nuevo autoritarismo se asocia por lo general con varios pensadores cercanos a Zhao Ziyang (el Secretario General de la época), los primeros debates se hicieron en Shangai.</seg>
       </tuv>
     </tu>
@@ -2154,7 +2154,7 @@
       <tuv lang="EN-US">
         <seg>An “editor’s note” prefacing the article states that Zhao Ziyang had refused to run the article.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023916Z" creationid="Melanie" creationdate="20160908T023916Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023916Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -2218,7 +2218,7 @@
       <tuv lang="EN-US">
         <seg>April 10 Chen Yun, advocate of a planned economy, dies at age 90</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035422Z" creationid="marielaromina" creationdate="20160908T035409Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035422Z">
         <seg>10 de abril Chen Yun, defensor de la economía planificada, fallece a los 90 años</seg>
       </tuv>
     </tu>
@@ -2266,7 +2266,7 @@
       <tuv lang="EN-US">
         <seg>April 27 Chen Xitong removed as Beijing Party secretary</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035438Z" creationid="marielaromina" creationdate="20160908T035438Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035438Z">
         <seg>27 de abril	Chen Xitong es desplazado del cargo de Secretario del partido en Pekín</seg>
       </tuv>
     </tu>
@@ -2298,7 +2298,7 @@
       <tuv lang="EN-US">
         <seg>As He wrote: “At present there is no other country more desirous of replacing a declining US as global hegemon than Japan.” See He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022318Z" creationid="Melanie" creationdate="20160908T022318Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022318Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -2322,7 +2322,7 @@
       <tuv lang="EN-US">
         <seg>As just discussed, intellectuals such as Wu Jiaxiang and Zhang Bingjiu argued that authority needed to be recentralized in the hands of the cen&lt;/f0&gt;&lt;f1&gt;­tral government — not, as conservatives would have it, to restore the old Marxist—Leninist order, but to use the strength of the central government to push the marketization of the economy against local forces that supported decentralization but not marketization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125231Z" creationid="Barri" creationdate="20160908T125045Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125231Z">
         <seg>Como se ha mencionado antes, intelectuales como Wu Jiaxiang y Zhang Bingjiu sostenían que la autoridad necesitaba ser recentralizada en las manos del &lt;/f0&gt;&lt;f1&gt;gobierno central, no para restaurar el antiguo orden Marxista y Leninista (como los conservaores lo querían) sino para utilizar la fuerza del gobierno central para empujar la mercadización hacia las fuerzas locales que apoyaban la decentralización, pero no la mercadizacicón.</seg>
       </tuv>
     </tu>
@@ -2578,7 +2578,7 @@
       <tuv lang="EN-US">
         <seg>August 19–21 Attempted coup d’etat´ in Soviet Union</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034747Z" creationid="marielaromina" creationdate="20160908T034747Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034747Z">
         <seg>19-21 de agosto Intento de golpe de estado en la Unión Soviética</seg>
       </tuv>
     </tu>
@@ -2594,7 +2594,7 @@
       <tuv lang="EN-US">
         <seg>August 3 Chinese ship, Yin He, stopped by US Navy</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035138Z" creationid="marielaromina" creationdate="20160908T035138Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035138Z">
         <seg>3 de agosto	La marina de los EE. UU. detiene al buque chino "Yin He"</seg>
       </tuv>
     </tu>
@@ -2682,7 +2682,7 @@
       <tuv lang="EN-US">
         <seg>Bibliography 285</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034012Z" creationid="marielaromina" creationdate="20160908T034012Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034012Z">
         <seg>Bibliografía</seg>
       </tuv>
     </tu>
@@ -2746,7 +2746,7 @@
       <tuv lang="EN-US">
         <seg>But failure in the promotion of ethical and cultural progress will lead to damage to material progress and even&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;change&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;the&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;nature&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;of&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;society.”&lt;/f40&gt;&lt;a41&gt;&lt;f42&gt;63&lt;/f42&gt;&lt;/a41&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024527Z" creationid="Nuevo" creationdate="20160908T024257Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024527Z">
         <seg>Sin embargo, "el fracaso en la promoción del desarrollo ético y cultural provocaría daños al desarrollo material e incluso cambiaría la esencia de la sociedad".&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;&lt;/f40&gt;&lt;a41&gt;&lt;f42&gt;63&lt;/f42&gt;&lt;/a41&gt;</seg>
       </tuv>
     </tu>
@@ -2794,7 +2794,7 @@
       <tuv lang="EN-US">
         <seg>By selecting what was useful and rejecting the rest, Chen argued that “Western economics can be turned to serve our socialist revolution.” It is difficult to imagine Chen Yuan’s father citing the works of Keynes or Friedman, but not difficult to imagine the elder Chen agreeing that the state is an “indispensable actor” and not simply a “passive referee.”&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T140924Z" creationid="Barri" creationdate="20160908T124332Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T140924Z">
         <seg>Al seleccionar lo que era util y al rechazar el resto, Chen discutió que "La economía occidental puede ser utilizada para favorecer a nuestra revolución socialista". Es difici de imaginar al padre de Chen Yuan citando las palabras de Keynes o Friedman, pero no es dificil de imaginarlo admitiendo que que el estado es un "actor indispensable" y no un mero "árbitro pasivo".&lt;/f3&gt;</seg>
       </tuv>
     </tu>
@@ -2858,7 +2858,7 @@
       <tuv lang="EN-US">
         <seg>CHAPTER 8</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175741Z" creationid="Monzon" creationdate="20160908T175741Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175741Z">
         <seg>CAPÍTULO 8</seg>
       </tuv>
     </tu>
@@ -2906,7 +2906,7 @@
       <tuv lang="EN-US">
         <seg>Central ministries also had a vested interest in conservative ideological interpretations, because emphasizing such themes as “the planned economy as primary” or “state-owned enterprises as pillars of the economy”  bolstered their importance in the political system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T160824Z" creationid="Nadine" creationdate="20160908T160255Z">
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T160824Z">
         <seg>Los ministerios principales también tenían un interés particular en las interpretaciones ideológicas conservadoras, porque al destacar temas tales como "la economía de planificación centralizada como esencial" o "empresas estatales como pilares de la economía"  reafirmaban su importancia en el sistema político.</seg>
       </tuv>
     </tu>
@@ -3026,7 +3026,7 @@
       <tuv lang="EN-US">
         <seg>China Youth Daily Ideology and Theory Department, “Realistic Responses and Strategic Options for China after the Soviet Upheaval,” pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024204Z" creationid="Melanie" creationdate="20160908T024204Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024204Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -3090,7 +3090,7 @@
       <tuv lang="EN-US">
         <seg>China’s culture itself is changing from being “conservative, closed, subjective, and arbitrary” to one that is “renewed, open, objective, and democratic.” “Without a highly democratic political system,” Wang warned, “it is difficult to establish oneself as a modernized, strong country among the advanced people of the world.”&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134418Z" creationid="Barri" creationdate="20160908T134418Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134418Z">
         <seg>La cultura China en sí misma esta pasando de ser "conservadora, cerrada, subjetiva y arbitraria" a ser "renovada, abierta, objetiva y democrática": Wang advirtió que "Sin un sistema político altamente democrático, es dificil de establecerse como un país modernizado y fuerte entre los países avanzados del mundo".&lt;/f5&gt;</seg>
       </tuv>
     </tu>
@@ -3146,7 +3146,7 @@
       <tuv lang="EN-US">
         <seg>Chronology xi</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032509Z" creationid="marielaromina" creationdate="20160908T032509Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032509Z">
         <seg>Cronología xi</seg>
       </tuv>
     </tu>
@@ -3154,7 +3154,7 @@
       <tuv lang="EN-US">
         <seg>Cited in Jing Wang, High Culture Fever, p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023128Z" creationid="Melanie" creationdate="20160908T023128Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023128Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -3202,7 +3202,7 @@
       <tuv lang="EN-US">
         <seg>Completing the program, he stayed on at Fudan University, eventually heading the Department of International Politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131735Z" creationid="Barri" creationdate="20160908T131717Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131735Z">
         <seg>Al terminar el plan de estudios, se quedó en la Universidad Fudan, y eventualmente encabezó el Departamento de Política Internacional.</seg>
       </tuv>
     </tu>
@@ -3218,7 +3218,7 @@
       <tuv lang="EN-US">
         <seg>Conclusion 272</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033944Z" creationid="marielaromina" creationdate="20160908T033944Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033944Z">
         <seg>Conclusión 272</seg>
       </tuv>
     </tu>
@@ -3378,7 +3378,7 @@
       <tuv lang="EN-US">
         <seg>December National Planning Conference</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034527Z" creationid="marielaromina" creationdate="20160908T034527Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034527Z">
         <seg>Conferencia Nacional de Planeamiento</seg>
       </tuv>
     </tu>
@@ -3530,7 +3530,7 @@
       <tuv lang="EN-US">
         <seg>Deng moves to revive reform 48</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033100Z" creationid="marielaromina" creationdate="20160908T033100Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033100Z">
         <seg>Deng decide revivir la reforma 48</seg>
       </tuv>
     </tu>
@@ -3780,7 +3780,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Epilogue: the Seventeenth Party Congress 278</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034001Z" creationid="marielaromina" creationdate="20160908T034001Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034001Z">
         <seg>Epílogo: el décimo séptimo Congreso del Partido 278</seg>
       </tuv>
     </tu>
@@ -3828,7 +3828,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Even the physical appearance of Strategy and Management suggested a journal that differed significantly from the hundreds of academic journals normally circulating in China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032515Z" creationid="Lucia Cipolatti" creationdate="20160908T032515Z">
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032515Z">
         <seg>Incluso el formato de Gestión y Estrategia sugería la imágen de una revista que se destacaba de las cientas de revistas académicas que circulaban habitualmente en China.</seg>
       </tuv>
     </tu>
@@ -3836,7 +3836,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Evidently viewing America as the more serious strategic threat (despite insisting repeatedly that it was in decline), He dropped his previous fears of Japan and urged allying with Japan (indeed, to become like “lips and teeth”).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T122337Z" creationid="Usuario" creationdate="20160908T121338Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T122337Z">
         <seg>Era evidente que He veía a Estados Unidos como la mayor amenaza estratégica (a pesar de haber insistido reiteradas veces en que estaba en un proceso de deterioro), así que abandonó los temores previos de Japón e insistió en una alianza con éste (de hecho, para llegar a ser como "carne y uña"). </seg>
       </tuv>
     </tu>
@@ -4028,7 +4028,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For Zhao – and for Deng – economic development was primary, and the only way to develop the economy was to marketize and join the international economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T112128Z" creationid="Nadine" creationdate="20160902T233334Z">
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T112128Z">
         <seg>Para Zhao , y para Deng, el desarrollo económico era primordial, y la única forma de fomentar el desarrollo económico era liberalizarse y unirse a la economía internacional.</seg>
       </tuv>
     </tu>
@@ -4108,7 +4108,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For these intel- lectuals, the government would take the place of the middle class until a middle class could develop.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130035Z" creationid="Barri" creationdate="20160908T130035Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130035Z">
         <seg>Para estos pensadores, el gobierno tomaría el lugar de la clase media hasta que esta pudiera desarrollarse.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
@@ -4276,7 +4276,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Gu Xin and David Kelly, “New Conservatism.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024139Z" creationid="Melanie" creationdate="20160908T024139Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024139Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4308,7 +4308,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “ ‘He Shang’ de piping.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023923Z" creationid="Melanie" creationdate="20160908T023923Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023923Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4316,7 +4316,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Aiguo de Qu Yuan yu ruguo de ‘He Shang’,” pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022936Z" creationid="Melanie" creationdate="20160908T022936Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022936Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4324,7 +4324,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Aiguo de Qu Yuan yu ruguo de ‘He Shang’.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022804Z" creationid="Melanie" creationdate="20160908T022804Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022804Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4332,7 +4332,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Dangqian Zhongguo neiwai xingshi fenxi ji ruogan zhengce jianyi (zhaiyao),” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022247Z" creationid="Melanie" creationdate="20160908T022247Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022247Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4340,7 +4340,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Dangqian Zhongguo neiwai xingshi fenxi ji ruogan zhengce jianyi (zhaiyao),” pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022328Z" creationid="Melanie" creationdate="20160908T022328Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022328Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4348,7 +4348,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Dui woguo shinian gaige de fansi,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022653Z" creationid="Melanie" creationdate="20160908T022653Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022653Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4356,7 +4356,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Lun ZhongMeiRi guanxi de zhanlu¨e beijing yu duice,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022644Z" creationid="Melanie" creationdate="20160908T022644Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022644Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4364,7 +4364,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Lun ZhongMeiRi guanxi de zhanlu¨e beijing yu duice,” pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022415Z" creationid="Melanie" creationdate="20160908T022415Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022415Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4372,7 +4372,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022337Z" creationid="Melanie" creationdate="20160908T022337Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022337Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4380,7 +4380,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Tan dangdai ziben zhuyi,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022950Z" creationid="Melanie" creationdate="20160908T022950Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022950Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4388,7 +4388,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Wo xiang nimen de liangzhi huhuan,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022607Z" creationid="Melanie" creationdate="20160908T022607Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022607Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4396,7 +4396,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He Xin, “Wo xiang nimen liangzhi huhuan,” pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022636Z" creationid="Melanie" creationdate="20160908T022636Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022636Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4412,7 +4412,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He entered Shanghai’s East Normal University during the Cultural Revolution as a “worker-peasant-soldier student” in i974.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131443Z" creationid="Barri" creationdate="20160908T131443Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131443Z">
         <seg>Entró a la Universidad Normal del Este de China en Shangai durante la Revolución Cultural como un "estudiante trabajador-campesino-soldado" en 1974.</seg>
       </tuv>
     </tu>
@@ -4420,7 +4420,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He firmly rejected the ideas of deficit financing and expansionary monetary policy that were then closely associated with the name of Keynes, but he praised Keynes for “pointing out in clear-cut terms that the function of macroeconomic quantitative regulation and control can only be performed by the government, not the market mechanism.” He praised Milton Friedman for his emphasis on monetary control but rejected his&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;laissez-faire&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;economic philosophy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T141215Z" creationid="Barri" creationdate="20160908T123445Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T141215Z">
         <seg>Rechazó con firmeza las ideas de financiación del déficit y de la política monetaria expansionaria que estaban fuertemente asociadas a Keynes, pero también lo elogió por "haber señalado en términos claros que el control y la regulación macroeconómica cuantitativa sólo puede ser llevada a cabo por el gobierno, no el mecanismo del mercado". Elogió a Milton Friedman por su enfasis en el control monetario, pero rechazó su filosofía económica &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;liberalista.</seg>
       </tuv>
     </tu>
@@ -4628,7 +4628,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Ibid., pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022515Z" creationid="Melanie" creationdate="20160908T022515Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022515Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -4756,7 +4756,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In 1979 Deng had raised the issue of removing Party committees from enterprises, an issue that continued to fester throughout the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160908T174840Z" creationid="Lorena Baretto" creationdate="20160908T174840Z">
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160908T174840Z">
         <seg>En 1979, Deng </seg>
       </tuv>
     </tu>
@@ -4980,7 +4980,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In an interesting case of mirror-image thinking, He insisted that ideology played no role in US foreign policy; the United States saw the world in terms of a zero-sum game (nisi wohuo – literally, “you die, I live”).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022621Z" creationid="Melanie" creationdate="20160908T022621Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022621Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -5012,7 +5012,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In awell-researched article in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, Yu Jianrong, a rural researcher at CASS, describes the increasing level of organization of peasants in a county in inland Hunan province (the same county where Mao, 80 years earlier, had organized peasants).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175605Z" creationid="Monzon" creationdate="20160908T175605Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175605Z">
         <seg>En un artículo confiable presente en la revista  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Estrategia y Administración), Yu Jianrong, un investigador rural de la Academia China de Ciencias Sociales, describe el aumento en el nivel de organización de los campesinos en una sub-prefectura de la provincia continental de Hunan (la misma sub-prefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
       </tuv>
     </tu>
@@ -5068,7 +5068,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In fact, it does not mention “drawing a line” between Marxism and anti-Marxism; there is neither criticism of dogmatic interpretations of Marxism nor any effort, such as in Xing Bensi’s article, to define what constitutes “true” Marxism in the contemporary world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025228Z" creationid="Nuevo" creationdate="20160908T025228Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025228Z">
         <seg>De hecho, no hace referencia a "trazar una línea" entre Marxismo y Anti-marxismo. Tampoco hay una crítica a las interpretaciones dogmáticas del Marxismo, ni esfuerzo alguno para definir qué es "realmente" aquello que constituye al Marxismo en el mundo contemporáneo, como  sí lo hace Xing Bensi en su artículo.</seg>
       </tuv>
     </tu>
@@ -5084,7 +5084,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the early part of the twenty-first cen- tury, it would be reduced to a large regional power without the strength   to &lt;t0/&gt;bother the East.54 Perhaps more concerned about Japan’s global ambi- tions,55 He recommended changing China’s coastal development strategy, opting instead for an economic alliance with the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T015459Z" creationid="Melanie" creationdate="20160908T015015Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T015459Z">
         <seg>A fines de 1988, He escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo 21 iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente. Quizás más preocupado por las ambiciones mundiales de Japón, He recomendó cambiar la estrategia de desarrollo costero de China, optando por una alianza económica con la Unión Soviética.</seg>
       </tuv>
     </tu>
@@ -5108,7 +5108,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In late 1993, a new journal called Strategy and Management (Zhanlu¨e yu guanli) started publication and quickly became a forum for new and &lt;s0/&gt;often critical ideas, including nationalism and populism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032346Z" creationid="Lucia Cipolatti" creationdate="20160908T032346Z">
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032346Z">
         <seg>A finales de 1993, una revista conocida como Gestión y Estrategia (Zhanlu¨e yu guanli) comenzó a publicarse y se convirtió rápidamente en un foro de nuevas ideas y a veces críticas, entre ellas la idea de nacionalismo y populismo.</seg>
       </tuv>
     </tu>
@@ -5140,7 +5140,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In short, despite Jiang’s efforts over the preceding months to carve out a viable middle ground, the Sixth Plenum communique´ ignored these themes.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025159Z" creationid="Nuevo" creationdate="20160908T025159Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025159Z">
         <seg>En síntesis, a pesar de los esfuerzos de Jiang durante los meses anteriores para encontrar un punto medio viable, el comunicado del Sexto Pleno ignoró estos temas.</seg>
       </tuv>
     </tu>
@@ -5340,7 +5340,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Incidents were often large – sometimes involving thousands and even tens of thousands of people – and occasionally violent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175253Z" creationid="Monzon" creationdate="20160908T175253Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175253Z">
         <seg>Con frecuencia había incidentes importantes, que a veces involucraban a miles o incluso decenas de miles de personas, y en ocasiones llegaban a ser violentos.</seg>
       </tuv>
     </tu>
@@ -5452,7 +5452,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Index 325</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034021Z" creationid="marielaromina" creationdate="20160908T034021Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034021Z">
         <seg>ïndice</seg>
       </tuv>
     </tu>
@@ -5484,7 +5484,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Introduction 1</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032912Z" creationid="marielaromina" creationdate="20160908T032912Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032912Z">
         <seg>Introducción</seg>
       </tuv>
     </tu>
@@ -5532,7 +5532,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It declared: “Economic development as the central link must be grasped firmly and unswervingly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024213Z" creationid="Nuevo" creationdate="20160908T024213Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024213Z">
         <seg>El documento manifestaba que "el desarrollo económico como eslabón central debía ser considerado con firmeza y sin vacilaciones".</seg>
       </tuv>
     </tu>
@@ -5556,7 +5556,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It is even possible that reform could be broken off and social chaos [ensue].”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;But the problem was not just income inequalities; it was also a matter of local cadres seizing economic opportunities by force, preventing people under their control from the chance to prosper.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175101Z" creationid="Monzon" creationdate="20160908T175101Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175101Z">
         <seg>Incluso es posible que se ponga fin a la reforma y que esto [produzca] el caos social.”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Pero el problema iba más allá de la desigualdad en los ingresos; también estaba asociado al aprovechamiento de oportunidades económicas mediante la fuerza por parte de los cuadros de dirigentes locales, lo que quitaba la posibilidad de prosperar a la gente que se encontraba bajo su control.</seg>
       </tuv>
     </tu>
@@ -5588,7 +5588,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It is printed on far better paper than the average journal, indicat- ing its substantial financial backing – reputedly contributed by a wealthy overseas Chinese from Thailand but also suggesting its support from the military.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032546Z" creationid="Lucia Cipolatti" creationdate="20160908T032546Z">
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032546Z">
         <seg>Está impresa en un papel de mejor calidad que la mayoría de las revistas, lo que pone en evidencia el gran respaldo financiero, que al parecer provenía de la diáspora china adinerada de Tailandia pero que también insinuaba un respaldo militar.</seg>
       </tuv>
     </tu>
@@ -5684,7 +5684,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>January 10 Premier Li Peng announces the lifting of martial law in Beijing</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034233Z" creationid="marielaromina" creationdate="20160908T034233Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034233Z">
         <seg>10 de enero	El primer ministro Li Peng anuncia que se levanta la ley marcial en Pekín</seg>
       </tuv>
     </tu>
@@ -5724,7 +5724,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Jaunary 18–February 21 Deng Xiaoping’s “southern tour”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034815Z" creationid="marielaromina" creationdate="20160908T034815Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034815Z">
         <seg>18 de enero-21 de febrero	El "viaje al sur" de Deng Xiaoping</seg>
       </tuv>
     </tu>
@@ -5812,7 +5812,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Jiang Zemin’s rise to power 165</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033327Z" creationid="marielaromina" creationdate="20160908T033327Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033327Z">
         <seg>Jiang Zemin llega al poder</seg>
       </tuv>
     </tu>
@@ -5892,7 +5892,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Jing Wang, High Culture Fever.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023839Z" creationid="Melanie" creationdate="20160908T023839Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023839Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -5908,7 +5908,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>July 1 Jiang Zemin calls for opposing “peaceful evolution”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034733Z" creationid="marielaromina" creationdate="20160908T034733Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034733Z">
         <seg>1 de julio Jiang Zemin insta a oponerse a la "evolución pacífica"</seg>
       </tuv>
     </tu>
@@ -5948,7 +5948,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>June 23–24 Fourth Plenary Session of the Thirteenth Central Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034143Z" creationid="marielaromina" creationdate="20160908T034143Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034143Z">
         <seg>23–24 de junio Cuarto pleno del Décimo tercer Comité Central</seg>
       </tuv>
     </tu>
@@ -5972,7 +5972,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>June 4 Tiananmen crackdown</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034101Z" creationid="marielaromina" creationdate="20160908T034101Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034101Z">
         <seg>4 de junio Represión de Tiananmén </seg>
       </tuv>
     </tu>
@@ -6036,7 +6036,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Leftist ideology also appealed to the vast numbers of Party cadres who worked in state-owned enterprises and whose relevance was thrown into question by the economic reforms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T161909Z" creationid="Nadine" creationdate="20160908T161546Z">
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T161909Z">
         <seg> La ideología de izquierda también apeló al gran número de cuadros en el Partido que trabajan en empresas estatales y cuya relevancia se veia cuestionada por las reformas económicas.</seg>
       </tuv>
     </tu>
@@ -6108,7 +6108,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Ling Zhen, “Zugepai de xingdong xinhao”; author interviews.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024154Z" creationid="Melanie" creationdate="20160908T024154Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024154Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -6124,7 +6124,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>List of abbreviations and tables xviii</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032901Z" creationid="marielaromina" creationdate="20160908T032901Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032901Z">
         <seg>Lista de abreviaciones y cuadros</seg>
       </tuv>
     </tu>
@@ -6156,7 +6156,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Many of these essays appear in&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;The Collected Writings ofWang Huning,&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;which was published in 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132514Z" creationid="Barri" creationdate="20160908T132514Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132514Z">
         <seg>Muchos de estos ensayos aparecieron en &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;La colección de trabajos de Wang Huning,&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt; el cual fue publicado en 1989.</seg>
       </tuv>
     </tu>
@@ -6164,7 +6164,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Many were products of the propaganda “system” (xitong) and thus had a vested interest in maintaining the political relevance of their competencies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T160228Z" creationid="Nadine" creationdate="20160908T111454Z">
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T160228Z">
         <seg>Muchos eran productos del "sistema" de propaganda (xitong) y por lo tanto tenían un interés particular en mantener la relevancia política de sus competencias.</seg>
       </tuv>
     </tu>
@@ -6228,7 +6228,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>March 10–12 Politburo Meeting supports Deng Xiaoping</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034830Z" creationid="marielaromina" creationdate="20160908T034830Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034830Z">
         <seg>10-12 de marzo Reunión del Politburó apoya a Deng Xiaoping</seg>
       </tuv>
     </tu>
@@ -6260,7 +6260,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>March 22 First Huangfu Ping commentary</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034633Z" creationid="marielaromina" creationdate="20160908T034633Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034633Z">
         <seg>22 de marzo	Primer comentario de Huangfu Ping</seg>
       </tuv>
     </tu>
@@ -6324,7 +6324,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>March 5–7 Second Plenary Session of the Fifteenth Central Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035004Z" creationid="marielaromina" creationdate="20160908T035004Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035004Z">
         <seg>5–7 de marzo Segundo pleno del Décimo Quinto Comité Central</seg>
       </tuv>
     </tu>
@@ -6340,7 +6340,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>March Looking at China through a Third Eye published</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035318Z" creationid="marielaromina" creationdate="20160908T035318Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035318Z">
         <seg>Marzo Publicación del libro Looking at China through a Third Eye (China a través de un tercer ojo).</seg>
       </tuv>
     </tu>
@@ -6348,7 +6348,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>March NPC promotes Zhu Rongji to vice premier</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034709Z" creationid="marielaromina" creationdate="20160908T034709Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034709Z">
         <seg>Marzo La Conferencia Nacional de Planeamiento asciende a Zhu Rongji al cargo de Vice Primer Ministro</seg>
       </tuv>
     </tu>
@@ -6460,7 +6460,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Most of these analyses are internal, and thus are never viewed by the public, but as the Sixteenth Party Congress approached, one such analysis, compiled under the auspices of the Central Organization Department, was published openly.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Unfortunately, when the &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;New York Times &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;wrote about the publication, it was quickly withdrawn, shutting down this tentative move in the direction of greater openness.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Nevertheless, this publication, which deals with the growing social order problems facing China, provides a vivid picture of Chinese society as seen from the perspective of the organization system.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T180637Z" creationid="Monzon" creationdate="20160908T180456Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T180637Z">
         <seg>La mayoría de los análisis son internos y por ello nunca se dan a conocer al público. Pero con motivo del  Decimosexto Congreso Nacional del Partido Comunista de China, uno de los análisis, recopilado bajo el auspicio del Departamento de Organización del Comité Central, se publicó abiertamente.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lamentablemente, luego de que el &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;New York Times &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;escribiera acerca de este suceso, la publicación se retiró, poniéndole un freno al avance prometedor hacia una mayor apertura del sistema.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Sin embargo, esta publicación que aborda los crecientes problemas de orden social que China enfrenta brinda, a partir del punto de vista del sistema de organización, una imagen vívida de la sociedad de China.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
@@ -6468,7 +6468,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Most such incidents – some 70– 80 percent, according to one county in Shandong province, and 90 percent according to a survey in Sichuan – were caused by tensions between cadres and masses, and most of the violence was initiated by cadres.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;The Organization Department attributed these disturbances largely to growing income inequalities, saying that “if income inequalities cannot be controlled within certain limits, the broad masses of the people will inevitably lose faith in socialism and their faith in the Party will be shaken.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T181254Z" creationid="Monzon" creationdate="20160908T174858Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T181254Z">
         <seg>La mayoría de estos incidentes, aproximadamente un 70 u 80 %, según la sub-prefectura de la provincia de Shandong y un 90 %, según una encuesta llevada a cabo en Sichuan, se ocasionaron por tensiones entre los cuadros estatales de dirigentes y las masas, y fueron los cuadros quienes iniciaron la mayoría de los incidentes.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;En gran medida, el Departamento de Organización atribuyó estos disturbios al aumento en la desigualdad de los ingresos, argumentando que "si no es posible mantener esta desigualdad dentro de ciertos límites, será inevitable que las grandes masas pierdan la fe en el socialismo y que se derrumbe su fe en el Partido.</seg>
       </tuv>
     </tu>
@@ -6556,7 +6556,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nevertheless, Wang managed to infuse his writings with some of the concerns of Western political science, giving his essays a freshness lacking in many of the writings then being published.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132411Z" creationid="Barri" creationdate="20160908T132148Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132411Z">
         <seg>Sin embargo, Wang se las ingenió para llenar sus trabajos con varias de las preocupaciones de las ciencias políticas Occidentales, lo que le dio a sus ensayos una originalidad que carecían en muchos otros trabajos ya publicados. </seg>
       </tuv>
     </tu>
@@ -6572,7 +6572,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nevertheless, in a 1990 interview with Japanese economist Yabuki Susumu, He said that “during the next 10–20 years the entire capitalist world economic system will experience the most profound and serious overall crisis since the dawn of history.” See “Current World Economic Situation” (I), p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022407Z" creationid="Melanie" creationdate="20160908T022407Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022407Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -6660,7 +6660,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>November 11–14 Third Plenary Session of the Fourteenth Central Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035255Z" creationid="marielaromina" creationdate="20160908T035255Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035255Z">
         <seg>11-14 de noviembre Tercer pleno del Décimo Cuarto Comité Central</seg>
       </tuv>
     </tu>
@@ -6692,7 +6692,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>November 6–9 Fifth Plenary Session of the Thirteenth Central Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034210Z" creationid="marielaromina" creationdate="20160908T034210Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034210Z">
         <seg>6–9 de noviembre Quinto pleno del Décimo tercer Comité Central</seg>
       </tuv>
     </tu>
@@ -6708,7 +6708,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>November Strategy and Management starts publication</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035239Z" creationid="marielaromina" creationdate="20160908T035239Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035239Z">
         <seg>Noviembre Comienza la publicación de "Strategy and Management" (Estrategia y Dirección)</seg>
       </tuv>
     </tu>
@@ -6716,7 +6716,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>November Yearnings broadcast</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034347Z" creationid="marielaromina" creationdate="20160908T034306Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034347Z">
         <seg>Transmisión de la serie televisiva Yearnings</seg>
       </tuv>
     </tu>
@@ -6772,7 +6772,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>October 12–18 Fourteenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034919Z" creationid="marielaromina" creationdate="20160908T034919Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034919Z">
         <seg>12-18 octubre Décimo Cuarto Congreso del Partido</seg>
       </tuv>
     </tu>
@@ -6788,7 +6788,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>October 19 First Plenary Session of the Fourteenth Central Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034939Z" creationid="marielaromina" creationdate="20160908T034939Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034939Z">
         <seg>19 de octubre Primer pleno del Décimo Cuarto Comité Central</seg>
       </tuv>
     </tu>
@@ -6949,7 +6949,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>One deputy Party secretary in Hunan’s Xinning county had an ear cut off as he tried to collect taxes; in Hunan’s Longshan county two cadres were killed in clashes.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175352Z" creationid="Monzon" creationdate="20160908T175352Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175352Z">
         <seg>A un vice-secretario del Partido en la sub-prefectura de Xinning de Hunan le cortaron una oreja cuando intentaba recaudar impuestos; y en la subprefectura de Longshan de Hunan, dos dirigentes murieron en enfrentamientos.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
@@ -7101,7 +7101,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>People compared it unfa- vorably with the resolution on building spiritual civilization that had been adopted a decade earlier under Hu Yaobang’s auspices.&lt;f0&gt;64 &lt;/f0&gt;In language rem- iniscent of Mao Zedong’s “&lt;f1&gt;Y&lt;/f1&gt;enan Forum on Literature and Art,” the &lt;f2&gt;1996 &lt;/f2&gt;document called on writers and artists to “immerse themselves among the masses” and to “earnestly and seriously consider what social effects [&lt;f3&gt;shehui xiaoguo&lt;/f3&gt;] their works may produce.” Similarly, it called for strengthening control over press and publishing circles and for keeping the propaganda front and public opinion “firmly” in the hands of “those comrades who are loyal to Marxism, Leninism, and Mao Zedong&lt;f4&gt; &lt;/f4&gt;Thought.”&lt;f5&gt;65&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025124Z" creationid="Nuevo" creationdate="20160908T024907Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025124Z">
         <seg>El pueblo lo comparó de manera desfavorable con la resolución sobre la construcción de una civilización espiritual que había sido adoptada una década antes bajo el auspicio de Hu Yaobang.&lt;f0&gt;64 &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;En un lenguaje que recuerda las palabras que utilizó Mao Zedong en el "Foro de Yenán sobre Arte y Literatura", el documento del año 1996 le solicitaba a escritores y artistas que se "sumergieran entre las masas" y que "consideraran con fervor y seriedad el impacto social que sus obras pueden producir en la sociedad (shehui xiaoguo: Social Effect Theory)” De manera similar, se pedía reforzar el control sobre los medios y los círculos editoriales y mantener el frente de propaganda y la opinión pública "estrictamente" en las manos de aquellos compañeros leales al Marxismo, al Leninismo y al Pensamiento Maoísta". &lt;/f4&gt;&lt;f5&gt;65&lt;/f5&gt;</seg>
       </tuv>
     </tu>
@@ -7125,7 +7125,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Pointing to phe- nomena as diverse as the call for further democratization by the 27th Party Congress of the CPSU, the implementation of multicandidate elections in Hungary, the election of the French Socialist Party, and the democratic movement in South Korea, Wang declared that political reform is a univer&lt;/f3&gt;&lt;f5&gt;­sal phenomenon in the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134201Z" creationid="Barri" creationdate="20160908T133535Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134201Z">
         <seg>Tras haber mencionado a diversos fenómenos como el llamado a la democratización más profunda por el Congreso número 27 del PCUS, la implementación de las elecciones con múltiples candidatos en Hungría, la elección del Partido Socialista de Francia y el movimiento democrático en Coréa del Sur, Wang declaró que la reforma política es un&lt;/f3&gt;&lt;f5&gt; fenómeno universal en el mundo.</seg>
       </tuv>
     </tu>
@@ -7149,7 +7149,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Political science was a new and precarious discipline in China, and it was impos- sible to write rigorous political science.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132128Z" creationid="Barri" creationdate="20160908T132059Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T132128Z">
         <seg>La ciencia política era una disciplina nueva y precaria en China, y era imposible escribir sobre ciencias políticas con precisión.</seg>
       </tuv>
     </tu>
@@ -7245,7 +7245,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Quoted in Meng Fanhua, Zhongshen kuanghuan, p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023116Z" creationid="Melanie" creationdate="20160908T023116Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023116Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -7309,7 +7309,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Schematic overview of the Chinese political spectrum xvii</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032540Z" creationid="marielaromina" creationdate="20160908T032540Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T032540Z">
         <seg>Diagrama general del espectro político en China</seg>
       </tuv>
     </tu>
@@ -7373,7 +7373,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>See He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022623Z" creationid="Melanie" creationdate="20160908T022623Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022623Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -7381,7 +7381,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>See Li Zehou, Zhongguo xiandai sixiangshi lun; and Vera Schwarcz’s masterful study, The Chinese Enlightenment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023111Z" creationid="Melanie" creationdate="20160908T023111Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023111Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -7397,7 +7397,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>See also Frederic Wakeman, “All the Rage in China.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023135Z" creationid="Melanie" creationdate="20160908T023135Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023135Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -7405,7 +7405,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>See also He Xin, “Dangqian jingji xingshi pinglun (zhi yi),” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023011Z" creationid="Melanie" creationdate="20160908T023011Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023011Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -7413,7 +7413,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>See also He Xin, “Wode kunhuo yu youlu,” pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022941Z" creationid="Melanie" creationdate="20160908T022941Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022941Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -7421,7 +7421,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>See also Wang Huning, “Chuji jieduan yu zhengzhi tizhi gaige”; Wang Huning, “Juece&lt;/f1&gt;&lt;/t0&gt;&lt;t3&gt;&lt;f4&gt;gongneng de shehuihua ji qi tiaojian”; and Wang Huning, “Zhiwei fenlei yu ganbu guanli tizhi.”&lt;/f4&gt;&lt;/t3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134543Z" creationid="Barri" creationdate="20160908T134533Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134543Z">
         <seg>Véase también Wang Huning, “Chuji jieduan yu zhengzhi tizhi gaige”; Wang Huning, “Juece&lt;/f1&gt;&lt;/t0&gt;&lt;t3&gt;&lt;f4&gt;gongneng de shehuihua ji qi tiaojian”; y Wang Huning, “Zhiwei fenlei yu ganbu guanli tizhi”.&lt;/f4&gt;&lt;/t3&gt;</seg>
       </tuv>
     </tu>
@@ -7533,7 +7533,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>September 23 2000 Olympics awarded to Sydney, Australia, instead of Beijing</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035158Z" creationid="marielaromina" creationdate="20160908T035158Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035158Z">
         <seg>23 de septiembre 2000 Sídney, Australia es elegida como sede de las Olimpíadas en lugar de Pekín</seg>
       </tuv>
     </tu>
@@ -7557,7 +7557,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>September 25–28 Fifth Plenary Session of the Fourteenth Central Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035444Z" creationid="marielaromina" creationdate="20160908T035444Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035444Z">
         <seg>25–28 de septiembre Quinto pleno del Décimo Cuarto Comité Central</seg>
       </tuv>
     </tu>
@@ -7565,7 +7565,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>September 25–28 Fourth Plenary Session of the Fourteenth Central Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035332Z" creationid="marielaromina" creationdate="20160908T035332Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035332Z">
         <seg>25-28 de septiembre Cuarto pleno del Décimo Cuarto Comité Central</seg>
       </tuv>
     </tu>
@@ -7581,7 +7581,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>September 28 Conservative theoretician Hu Qiaomu dies at age 81</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034904Z" creationid="marielaromina" creationdate="20160908T034904Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034904Z">
         <seg>28 de septiembre El teórico conservador Hu Qiaomu fallece a los 81 años</seg>
       </tuv>
     </tu>
@@ -7597,7 +7597,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>September Economic Work Conference</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034251Z" creationid="marielaromina" creationdate="20160908T034251Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034251Z">
         <seg>Septiembre	Conferencia del Trabajo Económico</seg>
       </tuv>
     </tu>
@@ -7813,7 +7813,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Su Xiaokang and Wang Luxiang, He Shang (River Elegy).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023122Z" creationid="Melanie" creationdate="20160908T023122Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023122Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -7829,7 +7829,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Such an alliance would not only have the advantage of strengthening China, but just as importantly it would pre-empt Japan from allying with the Soviet Union and establishing a neocolonial dominance over China.56 Similarly, the strengthening of the Chinese economy was necessary to prevent Japan from dominating the world in the next  century.57</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T020924Z" creationid="Melanie" creationdate="20160908T020111Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T020924Z">
         <seg>Dicha alianza no solo tendría la ventaja de fortalecer a China sino también de anticiparse a la alianza de Japón con la Unión Soviética y al establecimiento de un dominio neocolonial sobre China. De manera similar, el fortalecimiento de la economía china era necesario para prevenir que Japón dominara el mundo en el siglo siguiente.</seg>
       </tuv>
     </tu>
@@ -7917,7 +7917,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Summer Huntington’s article, “Clash of Civilizations?”published</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035101Z" creationid="marielaromina" creationdate="20160908T035101Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035101Z">
         <seg>Verano Publicación del artículo "¿Choque de civilizaciones?", escrito por Huntington</seg>
       </tuv>
     </tu>
@@ -8096,7 +8096,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The Sixth Plenum resolution was a disappointment to many intellectuals as well as to some of Jiang’s own policy advisers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024657Z" creationid="Nuevo" creationdate="20160908T024615Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024657Z">
         <seg>El fallo del Sexto Pleno desilusionó no solo a muchos intelectuales sino también a algunos de los asesores políticos de Jiang.</seg>
       </tuv>
     </tu>
@@ -8184,7 +8184,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The breakup of the Soviet Union would cause China to lose its last strategic shield against the United States, so China should make use of any con&lt;t6/&gt;ﬂ&lt;t7/&gt;ict between other countries and the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T120743Z" creationid="Usuario" creationdate="20160908T120013Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T120743Z">
         <seg>El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos que le quedaba, por lo que debía utilizar cualquier conflicto que hubiera entre éste y otras naciones. </seg>
       </tuv>
     </tu>
@@ -8224,7 +8224,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The conservative, cautious tone of the resolution reflected the tense atmosphere at the top of the Party in the months preceding Deng’s death.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025340Z" creationid="Nuevo" creationdate="20160908T025309Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025340Z">
         <seg>El tono conservador y cauto del fallo refleja el ambiente de tensión que se vivió entre los líderes del adasPartido los meses previos a la muerte de Deng</seg>
       </tuv>
     </tu>
@@ -8296,7 +8296,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The emergence of neoconservatism 83</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033201Z" creationid="marielaromina" creationdate="20160908T033201Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033201Z">
         <seg>El surgimiento del neoconservadurismo 83</seg>
       </tuv>
     </tu>
@@ -8456,7 +8456,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The marketization of the economy would lead to the growth of a middle class, which in turn would foster the growth of democratic gover- nance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125609Z" creationid="Barri" creationdate="20160908T125449Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125609Z">
         <seg>La mercadización de la economía llevaría al crecimiento de la clase media, lo cual en su momento promovería el crecimiento de la gobernanza democrática.</seg>
       </tuv>
     </tu>
@@ -8576,7 +8576,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The result was a tortuous document; the committee process by which it was drafted is visible in nearly every paragraph.&lt;/f20&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T022031Z" creationid="Nuevo" creationdate="20160908T022031Z">
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T022031Z">
         <seg>El resultado fue un documento complejo en el que puede verse claramente en cada párrafo el proceso de evaluación que llevó a cabo el Comité para su redacción.&lt;/f20&gt;</seg>
       </tuv>
     </tu>
@@ -8944,7 +8944,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>They did so for several reasons.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T111425Z" creationid="Nadine" creationdate="20160908T111420Z">
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T111425Z">
         <seg>Lo hicieron por muchas razones.</seg>
       </tuv>
     </tu>
@@ -9208,7 +9208,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This was the lesson that many intellectuals at the time had drawn from the development of several East Asian economies and the wave of democratization then starting to spread across the region.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125954Z" creationid="Barri" creationdate="20160908T125907Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T125954Z">
         <seg>Esta fue la lección que muchos pensadores de la época habían aprendido del desarrollo de varias economías de Asia Oriental y de la ola de democratización que luego comenzó a extenderse por la región.</seg>
       </tuv>
     </tu>
@@ -9352,7 +9352,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Tiananmen and the conservative critique of reform 21</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033021Z" creationid="marielaromina" creationdate="20160908T033021Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033021Z">
         <seg>Tiananmén y las críticas conservadoras contra la reforma 21</seg>
       </tuv>
     </tu>
@@ -9456,7 +9456,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Two important people in these discussions were Wang Huning and Xiao Gongqin.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130341Z" creationid="Barri" creationdate="20160908T130341Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130341Z">
         <seg>Dos personas importantes en estos debates fueron Wang Huning y Xiao Gongqin.</seg>
       </tuv>
     </tu>
@@ -9584,7 +9584,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Huning, who in 1995 was to be brought to Beijing by Jiang Zemin in order to head the Political Section of the CCP’s Policy Research Office, was born in 1955.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130727Z" creationid="Barri" creationdate="20160908T130516Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130727Z">
         <seg>Wang Huning, quien sería transladado a Beijing en 1995 por Jiang Zemin para encabezar la Sección Política de la Oficina de Investigación de Políticas del PCCh, nació en 1955.  </seg>
       </tuv>
     </tu>
@@ -9592,7 +9592,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Huning, “Zhongguo zhengzhi tizhi gaige de beijing yu qianjing,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134633Z" creationid="Barri" creationdate="20160908T134633Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134633Z">
         <seg>Wang Huning, “Zhongguo zhengzhi tizhi gaige de beijing yu qianjing”, p.</seg>
       </tuv>
     </tu>
@@ -9600,7 +9600,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Huning, “Zhongguo zhengzhi tizhi gaige de beijing yu qianjing,” pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131807Z" creationid="Barri" creationdate="20160908T131807Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131807Z">
         <seg>Wang Huning, "Zhongguo zhengzhi tizhi gaige de beijing yu quanjing", pp.</seg>
       </tuv>
     </tu>
@@ -9608,7 +9608,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Xiaodong [Shi Zhong], “Zhongguo de minzu zhuyi he Zhongguo de weilai.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023930Z" creationid="Melanie" creationdate="20160908T023930Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023930Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -9616,7 +9616,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Xiaodong and Qiu Tiancao, “Jiqing de yinying: Ping dianshi xiliepian ‘He shang’.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024107Z" creationid="Melanie" creationdate="20160908T024107Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024107Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -9944,7 +9944,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Written mostly in 1987 and 1988, a time when discussion of political structural reform filled the air, these essays give the sense of a liberal, open-minded writer.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T133153Z" creationid="Barri" creationdate="20160908T132855Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160908T133153Z">
         <seg>La mayoría de estos ensayos fueron escritos en 1987 y 1988, una época en done la discusión de la reforma de la política estructural se hallaba por doquier, y los mismos daban la idea de un escritor liberalista y de mente abierta. </seg>
       </tuv>
     </tu>
@@ -9976,7 +9976,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Xin, “Lun woguo jingji gaige zhidao lilun de shiwu,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022957Z" creationid="Melanie" creationdate="20160908T022957Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022957Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -10040,7 +10040,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Yi jia yan [pseud.], “ ‘He Shang’ xuanyangle shenma?” It quickly became known that this article was by Wang Zhen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023912Z" creationid="Melanie" creationdate="20160908T023912Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023912Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -10361,7 +10361,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>exploration.92 Neoconservatism, the article said, converged with Western rationalism in its opposition to radicalism and emphasis on  gradualism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024227Z" creationid="Melanie" creationdate="20160908T024209Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024227Z">
         <seg>exploration.92 Neoconservatism, the article said, converged with Western rationalism in its opposition to radicalism and emphasis on  gradualism.</seg>
       </tuv>
     </tu>
@@ -10385,7 +10385,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>from NATO) and supporting Southeast Asia, lest America return to that region of the world and threaten China.60</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022450Z" creationid="Melanie" creationdate="20160908T022422Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022450Z">
         <seg>from NATO) and supporting Southeast Asia, lest America return to that region of the world and threaten China.60</seg>
       </tuv>
     </tu>
@@ -10545,7 +10545,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>strategy and management</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032225Z" creationid="Lucia Cipolatti" creationdate="20160908T032216Z">
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032225Z">
         <seg>GESTIÓN Y ESTRATEGIA</seg>
       </tuv>
     </tu>
@@ -10609,7 +10609,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>viii Contents</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033826Z" creationid="marielaromina" creationdate="20160908T033826Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033826Z">
         <seg>Índice</seg>
       </tuv>
     </tu>
@@ -10641,7 +10641,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>xii Chronology</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035022Z" creationid="marielaromina" creationdate="20160908T035022Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035022Z">
         <seg>xii Cronología</seg>
       </tuv>
     </tu>
