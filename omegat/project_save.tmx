@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2680,6 +2680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because the term “left” has negative connotations for intellectuals,</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222046Z" creationid="ROMI" creationdate="20160908T222046Z">
+        <seg>Debido a que el término "izquierda" tiene connotaciones negativas para los intelectuales,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because the term “left” has negative connotations for intellectuals, calling this group the New Left is intended to discredit them.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T222611Z">
@@ -4964,8 +4972,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In China, this group is usually referred to as the “New Left” – “new” to distinguish them from old Marxist–Leninist ideologues like Hu Qiaomu and Deng Liqun (who became known as the “Old Left”) and “left” to suggest that their thought remains on the left side of the political spectrum, which in China is identified with “socialism” broadly (and ambiguously) defined.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T221623Z" creationid="ROMI" creationdate="20160908T221623Z">
-        <seg>En China, generalmente se identifica  a este grupo como la "nueva izquierda", "nueva" para distinguirse de las ideologías marxistas-leninistas como Hu Qiaomu y Deng Liqun (quienes se conocian como la "vieja izquierda") e "izquierda" para insinuar que su pensamiento permanece de el lado izquierdo del espectro político, lo que en China se identifica con el "socialismo"</seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222013Z" creationid="ROMI" creationdate="20160908T221623Z">
+        <seg>En China, generalmente se identifica  a este grupo como la "nueva izquierda", "nueva" para distinguirse de las ideologías marxistas-leninistas como Hu Qiaomu y Deng Liqun (quienes se conocian como la "vieja izquierda") e "izquierda" para insinuar que su pensamiento permanece de el lado izquierdo del espectro político, lo que en China se identifica con el "socialismo" , el cual se define ampliamente (y de modo ambiguo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10547,6 +10555,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T210845Z">
         <seg>definido de forma amplia (y ambigua).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>calling this group the New Left is intended to discredit them.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222107Z" creationid="ROMI" creationdate="20160908T222107Z">
+        <seg>al llamar a este grupo la nueva Izquierda se intenta desacreditarlos.</seg>
       </tuv>
     </tu>
     <tu>
