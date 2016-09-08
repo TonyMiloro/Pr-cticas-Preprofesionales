@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2370,8 +2370,8 @@
       <tuv lang="EN-US">
         <seg>As we saw in Chapter 8, Hu Jintao's succession to power was smooth by historical standards but not without friction.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T203738Z">
-        <seg>Como ya hemos visto en el capítulo 8, la sucesión al poder de Hu Jintao se llevó a cabo sin problemas debido a las normas históricas; sin embrargo no faltaron algunos roces. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173427Z">
+        <seg>Como hemos visto en el capítulo 8, la sucesión de Hu Jintao al poder se llevó a cabo sin problemas debido a las normas históricas; sin embrargo hubo algunos roces. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,8 +3242,8 @@
       <tuv lang="EN-US">
         <seg>Contestation was inevitable given that Jiang surrounded Hu with many of his (Jiang's) own prot&lt;f0&gt;égés.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160905T180059Z">
-        <seg>La disputa era inevitable ya que Jiang rodeaba a Hu con muchos de sus protegidos.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173554Z">
+        <seg>La disputa era inevitable ya que Jiang estaba rodeado por muchos de los protegidos de Hu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10537,8 +10537,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>with considerable skill to articulate his own ideology and begin to promote people from his own power base, the Communist Youth League (CYL).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T204107Z">
-        <seg>con una gran habidad con el fin de articular su propia ideología y promover gente de su misma base del poder; es decir, la Liga de la Juventud Comunista (CYL).  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173648Z">
+        <seg>con una gran habidad con el fin de articular su propia ideología y promover gente de su misma base del poder; la Liga de la Juventud Comunista (CYL).  </seg>
       </tuv>
     </tu>
     <tu>
