@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6955,6 +6955,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There was no question that Hu and Wen had far more intimate knowledge of the poor hinterland, and their inland concerns were often juxtaposed with the coastal orientation of Jiang and Zeng’s “Shanghai faction.” Similarly, Hu’s base of support in the Communist Youth League, which he once headed, contrasted with Zeng’s extensive network among the gaogan zidi, the sons and daughters of high-level cadres, of which Zeng was one (his father, Zeng Shan, had joined Mao during the Jiangxi period and eventually rose to head the &lt;s0/&gt;Interior Ministry).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T001820Z" creationid="andrea" creationdate="20160908T001820Z">
+        <seg>No había ninguna duda de que Hu y Wen conocían con detalle la pobreza del interior del país y que su preocupación por este se solía yuxtaponer con la orientación costera de la facción de Shanghái de Jiang y Zeng. De manera similar, la base de apoyo de Hu en la Liga de la Juventud Comunista (CYL), que alguna vez dirigió, contrastaba con la extensa red entre los “gaogan zidi”, los hijos de los dirigentes de alto grado, de los cuales Zneg era uno ( Su padre Zeng Shan se unió a Mao en el período Jiangxi y al final rose to head the interior ministry) &lt;s0/&gt;Interior Ministry).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There were major debates over reform policy in the 1980s and especially in the wake of Tiananmen when more conservative leaders gained the upper hand.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160905T020405Z">
@@ -7751,6 +7759,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T232031Z">
         <seg>Wen Jiabao preside una reunión del Consejo de Estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wen Jiabao, who would emerge as premier, was born in Tianjin, but similarly spent much of his career in Gansu province as a geologist.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T001522Z" creationid="andrea" creationdate="20160908T001522Z">
+        <seg>Wen Jiabao, quien se convertiría en premier, nació en Tianjin, pero también pasó la mayor parte de su carrera en la provincia de Gansu como geólogo.</seg>
       </tuv>
     </tu>
     <tu>
