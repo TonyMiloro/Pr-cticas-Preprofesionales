@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2972,8 +2972,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Five years after Deng had made Jiang general secretary and declared that he was the “core” of the Party, Jiang still lacked that authority.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012830Z">
-        <seg>Cinco años después de que Deng nombrara como Secretario General a Jiang y se anunciara como la "escencia" de Partido, Jiang todavía carecía de esa autoridad.&lt;/f6&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T014952Z">
+        <seg>Cinco años después de que Deng nombrara como Secretario General a Jiang y se anunciara como la "esencia" de Partido, Jiang todavía carecía de esa autoridad.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7000,8 +7000,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The term&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;core&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;can perhaps best be understood as that combination of informal and formal authority that makes a leader the final arbiter of Party issues – the ability, as the Chinese put it, to “strike the table” (&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;) and end discussion.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012816Z">
-        <seg>The term&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;core&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;puede interpretarse mejor como la combinación de la autoridad no oficial con la oficial, que le da a un dirigente el poder de tomar la última decisión sobre asuntos relacionados al Partido (la capacidad, como lo definen en China, de “tomar el control”(&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;)y tener la última palabra).</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T014959Z">
+        <seg>El término&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;esencia&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;puede interpretarse mejor como la combinación de la autoridad no oficial con la oficial, que le da a un dirigente el poder de tomar la última decisión sobre asuntos relacionados al Partido (la capacidad, como lo definen en China, de “tomar el control”(&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;) y tener la última palabra).</seg>
       </tuv>
     </tu>
     <tu>
