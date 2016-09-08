@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4239,6 +4239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It noted, for instance, that income in rural areas had increased slowly, that unemployment was up, and that a variety of environmental issues had emerged.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004655Z" creationid="andrea" creationdate="20160908T004655Z">
+        <seg>Por ejemplo, indicaba que el salario en las áreas rurales había experimentado un incremento paulatino, como así también el desempleo y que surgieron una diversidad de problemas ambientales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It seemed a risky quote for Jiang to cite, given his reputation for caution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T174458Z">
@@ -5035,6 +5043,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160907T201748Z">
         <seg>Sin embrago, en 1922, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, para formar parte del Comité Permanente del Politburó (PBSC) en el décimo cuarto Congreso del Partido. Al parecer, el fin era nombrar a Hu internamente el sucesor de Jiang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, the report called for a quadrupling of the GDP by the year 2020 and emphasized science and technology as drivers of economic growth.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004815Z" creationid="andrea" creationdate="20160908T004815Z">
+        <seg>No obstante, el informe pronosticó que el PIB se cuadruplicaría para el 2020 e hizo hincapié en la ciencia y la tecnología como impulsores del crecimiento económico.</seg>
       </tuv>
     </tu>
     <tu>
