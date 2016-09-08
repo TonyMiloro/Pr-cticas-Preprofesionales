@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -73,6 +73,14 @@
         <seg>123; emphasis in original.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023132Z" creationid="Melanie" creationdate="20160908T023132Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>124.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023905Z" creationid="Melanie" creationdate="20160908T023905Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -655,9 +663,33 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>83</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023910Z" creationid="Melanie" creationdate="20160908T023910Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>83.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023017Z" creationid="Melanie" creationdate="20160908T023017Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>84</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023921Z" creationid="Melanie" creationdate="20160908T023921Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>85</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023927Z" creationid="Melanie" creationdate="20160908T023927Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -1804,6 +1836,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T220844Z">
         <seg>Cualquier incidente, por más pequeño que sea, podía llegar a convenirse en una revuelta intensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An “editor’s note” prefacing the article states that Zhao Ziyang had refused to run the article.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023916Z" creationid="Melanie" creationdate="20160908T023916Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3778,6 +3818,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He Xin, “ ‘He Shang’ de piping.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023923Z" creationid="Melanie" creationdate="20160908T023923Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He Xin, “Aiguo de Qu Yuan yu ruguo de ‘He Shang’,” pp.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022936Z" creationid="Melanie" creationdate="20160908T022936Z">
@@ -5222,6 +5270,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044448Z">
         <seg>Jiao Guobiao es expulsado de la Universidad de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jing Wang, High Culture Fever.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023839Z" creationid="Melanie" creationdate="20160908T023839Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -8566,6 +8622,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang Xiaodong [Shi Zhong], “Zhongguo de minzu zhuyi he Zhongguo de weilai.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023930Z" creationid="Melanie" creationdate="20160908T023930Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang argues that Mao was basically sympathetic to the peasants, but the task of modernization forced Mao to sacrifice their interests in favor of industrialization.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160906T182451Z">
@@ -8970,6 +9034,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T023958Z">
         <seg>No obstante, ni la represión política ni el exilio (voluntario o no) pueden explicar completamente el cambio tanto en el panorama intelectual de la década de los 90 como en la relación entre el estado y los intelectuales que comenzó a emerger en los años posteriores a Tiananmén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yi jia yan [pseud.], “ ‘He Shang’ xuanyangle shenma?” It quickly became known that this article was by Wang Zhen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023912Z" creationid="Melanie" creationdate="20160908T023912Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
