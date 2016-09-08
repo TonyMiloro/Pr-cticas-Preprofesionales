@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2000,6 +2000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although he publicly &lt;t0/&gt;identiﬁed&lt;t1/&gt; himself with the regime, his writings and interviews reveal little knowledge of or interest in Marxism; what concerned He was the power of the central government &lt;t2/&gt;vis-`a-vis&lt;t3/&gt; the localities, the stability of society, and China’s position in the world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191137Z" creationid="Melanie" creationdate="20160908T191137Z">
+        <seg>Aunque se identificaba públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central en relación con las localidades; la estabilidad de la sociedad y la posición de China en el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although he publicly &lt;t2/&gt;identiﬁed&lt;t3/&gt; himself with the regime, his writings and interviews reveal little knowledge of or interest in Marxism; what concerned He was the power of the central government &lt;t4/&gt;vis-`a-vis&lt;t5/&gt; the localities, the stability of society, and China’s position in the world.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184412Z" creationid="Melanie" creationdate="20160908T184412Z">
@@ -2356,6 +2364,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T055601Z">
         <seg>Como fue, tal vez, el único intelectual que apoyó al gobierno, los días que siguieron a Tiananmen, He se convirtió rápidamente en una figura muy pública y denostrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As perhaps the only intellectual to support the government in the days following Tiananmen, He quickly became a very public, and often reviled, &lt;t12/&gt;ﬁgure&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191112Z" creationid="Melanie" creationdate="20160908T191112Z">
+        <seg>Como fue tal vez el único intelectual que apoyó al gobierno en los días que siguieron a Tiananmen, He se convirtió rápidamente en una figura muy pública e injuriada a menudo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,6 +4066,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following Tiananmen, however, the West (and the US in particular) seemed threatening and subversive.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191017Z" creationid="Melanie" creationdate="20160908T191017Z">
+        <seg>Sin embargo, después de Tiananmen, los países occidentales (en particular Estados Unidos) parecían subversivos y amanezadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Following the Tiananmen upheaval, it will be recalled, Deng Xiaoping, in consultation with Chen Yun and Li Xiannian, selected Jiang Zemin as the "core" of the third gener- ation of leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160904T234822Z">
@@ -5138,6 +5162,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the early part of the twenty-&lt;t4/&gt;ﬁrst&lt;t5/&gt; century, it would be reduced to a large regional power without the strength to bother the East.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191218Z" creationid="Melanie" creationdate="20160908T191218Z">
+        <seg>A fines de 1988, He escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo XXI iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the early part of the twenty-first cen- tury, it would be reduced to a large regional power without the strength   to &lt;t0/&gt;bother the East.54 Perhaps more concerned about Japan’s global ambi- tions,55 He recommended changing China’s coastal development strategy, opting instead for an economic alliance with the Soviet Union.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T015459Z">
@@ -5290,6 +5322,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the 1980s, China had adopted a cosmopolitan orientation, linking domestic reform with open- &lt;t2/&gt;ing&lt;t3/&gt; to the outside world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T190942Z" creationid="Melanie" creationdate="20160908T190942Z">
+        <seg>En los años 1980, China adoptó una orientación cosmopolita al vincular la reforma nacional con una tendencia a abrirse al resto del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the 1980s, China had adopted a cosmopolitan orientation, linking domestic reform with open- &lt;t4/&gt;ing&lt;t5/&gt; to the outside world.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184202Z" creationid="Melanie" creationdate="20160908T184202Z">
@@ -5382,6 +5422,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160905T022026Z">
         <seg>En los años posteriores a Tiananmén, al menos dos aspectos del cambio social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this way, He became &lt;t4/&gt;identiﬁed&lt;t5/&gt; as a exemplar of what might be called a “muscular” or assertive &lt;t6/&gt;neoconservatism&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191142Z" creationid="Melanie" creationdate="20160908T191142Z">
+        <seg>De esta forma, He comenzó a ser identificado como un modelo a seguir de lo que se podría llama neoconservadurismo "poderoso" o autoritario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6170,6 +6218,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like many writers in this period, He contradictorily depicted the United States both as a power in decline and as one bent on world domination.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191157Z" creationid="Melanie" creationdate="20160908T191157Z">
+        <seg>Como muchos escritores de este período, He representó a los Estados Unidos de manera contradictoria como una potencia en decadencia y, a su vez, determinada a dominar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like many writers in this period, He contradictorily depicted the United States both as a power in decline and as one bent&lt;t4/&gt; on world domi&lt;t5/&gt;nation.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185725Z" creationid="Melanie" creationdate="20160908T185725Z">
@@ -6626,6 +6682,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nationalism was another force propelling changes in the way Chinese intellectuals and policy-makers viewed the world in the period following &lt;t0/&gt;Tianan&lt;t1/&gt;- men.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T190933Z" creationid="Melanie" creationdate="20160908T190933Z">
+        <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y responsables políticos chinos luego de Tiananmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nationalism, particularly anti-Americanism, was central to &lt;t0/&gt;He&lt;t1/&gt; &lt;t2/&gt;Xin’s&lt;t3/&gt; views.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185718Z" creationid="Melanie" creationdate="20160908T185718Z">
@@ -7055,6 +7119,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184320Z" creationid="Melanie" creationdate="20160908T184320Z">
         <seg>Una de las primeras voces del nuevo nacionalismo (y ciertamente una de las más prominentes)  fue la de He Xin, un crítico literario de otra época que se enfocó en la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the &lt;t6/&gt;ﬁrst&lt;t7/&gt; (and certainly one of the loudest) voices of the new nationalism was that of &lt;t8/&gt;He&lt;t9/&gt; &lt;t10/&gt;Xin&lt;t11/&gt;, an erstwhile literary critic who turned his attention to economics, politics, and international relations in the late 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191123Z" creationid="Melanie" creationdate="20160908T191056Z">
+        <seg>Una de las primeras voces (y ciertamente una de las más prominentes) del nuevo nacionalismo fue la de He Xin, un crítico literario de otra época que volvió su mirada hacia la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9142,6 +9214,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This did not mean that China was not nationalistic in this period, but rather that its nationalism was directed toward economic development and a critique of traditional socialism (which impeded that development).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191012Z" creationid="Melanie" creationdate="20160908T190956Z">
+        <seg>Esto no significó que China no haya sido nacionalista durante este período, sino que su nacionalismo estaba orientado hacia el desarrollo económico y la crítica al socialismo tradicional que amenazaba ese desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This did not mean that China was not nationalistic in this period, but rather that its nationalism was directed toward economic development and a critique of traditional socialism (which impeded that development).52 Following Tiananmen, however, the West (and the US in particular) seemed threatening and subversive.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T021015Z">
@@ -9394,6 +9474,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T054842Z">
         <seg>A través de los años 90, adquirió muchas formas, desde realpolitik hasta discusiones sobre poscolonialismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through the 1990s it has taken on many guises, ranging from &lt;t4/&gt;realpolitik&lt;t5/&gt; to discussions of post-colonialism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191045Z" creationid="Melanie" creationdate="20160908T191045Z">
+        <seg>A través de los años 90, adquirió muchas formas, desde realpolitik hasta discusiones sobre poscolonialismo.</seg>
       </tuv>
     </tu>
     <tu>
