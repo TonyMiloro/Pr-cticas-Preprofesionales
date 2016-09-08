@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4958,6 +4958,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160908T004324Z">
         <seg>Celebraba la Triple Representatividad (sange daibiao) que propugnaba “seguir el ritmo” (yushi jujin) y declaraba que “el cambio estratégico de la estructura económica había sido coronado por el éxito” y que “ es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas en la sociedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It declared: “Economic development as the central link must be grasped firmly and unswervingly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024213Z" creationid="Nuevo" creationdate="20160908T024213Z">
+        <seg>El documento manifestaba que "el desarrollo económico como eslabón central debía ser considerado con firmeza y sin vacilaciones".</seg>
       </tuv>
     </tu>
     <tu>
