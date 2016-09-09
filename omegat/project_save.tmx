@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8285,8 +8285,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Table I:&lt;s0/&gt;&lt;f1&gt;Leadership of the Chinese Communist Party&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T005753Z" creationid="constanza" creationdate="20160909T005753Z">
-        <seg>Table I:&lt;s0/&gt;&lt;f1&gt;Líderes del Partido Comunista Chino&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T014648Z" creationid="constanza" creationdate="20160909T005753Z">
+        <seg>Cuadro I:&lt;s0/&gt;&lt;f1&gt;Líderes del Partido Comunista Chino&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
