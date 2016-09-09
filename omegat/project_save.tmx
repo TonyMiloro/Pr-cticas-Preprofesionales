@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10452,6 +10452,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T173746Z">
         <seg>EE. UU. bombardea la Embajada de China en Belgrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Understanding the changing world of China’s intellectuals and their relationship to the political system is one aspect of the larger task of looking at  a  rapidly  changing  Chinese  society,  which  is  the  fourth  area  of  concern.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T231020Z" creationid="bluebird" creationdate="20160909T230726Z">
+        <seg>Comprender el mundo en constante cambio de los intelectuales de China y la relación de estos con el sistema político es un aspecto de la tarea más extensa de observar una sociedad china que cambia continua y rápidamente, lo cual es la cuarta área de interés.</seg>
       </tuv>
     </tu>
     <tu>
