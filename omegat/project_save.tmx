@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5100,8 +5100,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In 1989, Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; had stressed the difference&lt;t10/&gt; &lt;t11/&gt;between “socialist” reform and opening up versus “capitalist” reform and&lt;t12/&gt; &lt;t13/&gt;opening up; in 1991, he had stressed the danger of “peaceful evolution.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160902T000220Z">
-        <seg>En 1989, Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; había hecho hincapié en la diferencia&lt;t10/&gt; &lt;t11/&gt;entre reforma "socialista" y abrirse contra reforma "capitalista" y &lt;t12/&gt; &lt;t13/&gt;abrirse; en 1991, había hecho hincapié en el peligro de una "evolución pacífica".</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160909T222640Z">
+        <seg>En 1989, Jiang &lt;t8/&gt;Zemin&lt;t9/&gt; había hecho hincapié en la diferencia&lt;t10/&gt; &lt;t11/&gt;entre reforma "socialista" y abrirse versus reforma "capitalista" y &lt;t12/&gt; &lt;t13/&gt;abrirse; en 1991, había hecho hincapié en el peligro de una "evolución pacífica".</seg>
       </tuv>
     </tu>
     <tu>
