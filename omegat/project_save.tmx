@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2516,6 +2516,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173427Z">
         <seg>Como hemos visto en el capítulo 8, la sucesión de Hu Jintao al poder se llevó a cabo sin problemas debido a las normas históricas; sin embrargo hubo algunos roces. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As we will see in this and the next two chapters, deep divisions opened up within the intellectual community, even as the place of that community in Chinese society changed significantly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174450Z" creationid="Pc" creationdate="20160909T174450Z">
+        <seg>Como veremos en este capítulo y en los dos próximos, tuvieron lugar dos divisiones marcadas en la comunidad intelectual, aun cuando el lugar que ocupaba esa comunidad en la sociedad de China experimentó un cambio significativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5242,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In all cases, they reflect an effort to come to grips intellectually with the political failure of reform in the 1980s, the economic and social problems that emerged (or became more acute) in the 1990s, and the type of political system that might be effective in coping with the problems facing China, both domestically and internationally.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174406Z" creationid="Pc" creationdate="20160909T174406Z">
+        <seg>En todos los casos reflejan un intento de índole intelectual de afrontar el fracaso político de la reforma en la década de los 80, los problemas económicos y sociales que surgieron (o se agravaron) en la década de los 90, y el tipo de sistema político que podría ser eficaz para lidiar con los problemas que afectan a China, tanto nacionales como internacionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In an interesting case of mirror-image thinking, He insisted that ideology played no role in US foreign policy; the United States saw the world in terms of a zero-sum game (nisi wohuo – literally, “you die, I live”).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022621Z">
@@ -5270,6 +5286,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160908T200804Z">
         <seg>En un artículo confiable presente en la revista &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Estrategia y Administración), Yu Jianrong, un investigador rural de la Academia China de Ciencias Sociales, describe el aumento en el nivel de organización de los campesinos en una sub-prefectura de la provincia continental de Hunan (la misma sub-prefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In broad terms, even as the government maintained its own ideological line, a new arena of public discourse developed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174506Z" creationid="Pc" creationdate="20160909T174506Z">
+        <seg>En términos generales, aun cuando el gobierno mantuvo su línea ideológica propia, surgió un ámbito nuevo de discurso público. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5646,6 +5670,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110034Z" creationid="Usuario" creationdate="20160909T110034Z">
         <seg>Al año siguiente de la muerte de Deng Xiaoping, Jian logró  con renombre dejar su propia marca en la política de China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the years following Tiananmen, new currents of thought began to emerge and play a significant role in social, intellectual, and political circles.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174321Z" creationid="Pc" creationdate="20160909T174321Z">
+        <seg>En los años posteriores a Tiananmén, nuevas corrientes de pensamiento comenzaron a surgir y a desempeñar un papel importante en los círculos sociales, intelectuales y políticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6886,6 +6918,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160908T180637Z">
         <seg>La mayoría de los análisis son internos y por ello nunca se dan a conocer al público. Pero con motivo del  Decimosexto Congreso Nacional del Partido Comunista de China, uno de los análisis, recopilado bajo el auspicio del Departamento de Organización del Comité Central, se publicó abiertamente.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lamentablemente, luego de que el &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;New York Times &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;escribiera acerca de este suceso, la publicación se retiró, poniéndole un freno al avance prometedor hacia una mayor apertura del sistema.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Sin embargo, esta publicación que aborda los crecientes problemas de orden social que China enfrenta brinda, a partir del punto de vista del sistema de organización, una imagen vívida de la sociedad de China.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of these currents had roots in the 1980s, but either they were more peripheral ideas that moved toward the center of intellectual concern or they underwent a significant evolution in the context of post-Tiananmen China, or both.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174346Z" creationid="Pc" creationdate="20160909T174346Z">
+        <seg>La mayoría de estas corrientes se originó en la década de los 80, pero o bien eran ideas originadas en la periferia que se acercaban al centro de la inquietud intelectual o eran sometidas a un cambio significativo en el contexto de una China posterior a Tiananmén, o ambas.</seg>
       </tuv>
     </tu>
     <tu>
