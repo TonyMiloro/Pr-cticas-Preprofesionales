@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1809,8 +1809,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t36/&gt;And it is clear that this was a decision, not an absence of knowledge; Guangdong health authorities had reported the new virus to B&lt;t37/&gt;eijing in &lt;t38/&gt;November, &lt;t39/&gt;and one bold Guangdong newspaper,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;had&lt;t47/&gt; &lt;t48/&gt;reported&lt;t49/&gt; &lt;t50/&gt;on&lt;t51/&gt; &lt;t52/&gt;the&lt;t53/&gt; &lt;t54/&gt;disease&lt;t55/&gt; &lt;t56/&gt;in&lt;t57/&gt; &lt;t58/&gt;December.&lt;t59/&gt; &lt;t60/&gt;It &lt;t61/&gt;was not until April &lt;t62/&gt;2&lt;t63/&gt;, &lt;t64/&gt;2003&lt;t65/&gt;, &lt;t66/&gt;however, &lt;t67/&gt;that the newly named &lt;t68/&gt;premier, &lt;t69/&gt;Wen &lt;t70/&gt;Jiabao, presided over a State Council meeting that discussed the SAR&lt;t71/&gt;S issue.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T213139Z">
-        <seg>&lt;t36/&gt;Y queda claro que fue una decisión y no la falta de conocimiento; las autoridades del área de salud de Guangdong habían enviado información sobre el virus&lt;t37/&gt;a Pekín&lt;t38/&gt;en noviembre, &lt;t39/&gt;y un audaz periódico de Guangdong,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;había&lt;t47/&gt; &lt;t48/&gt;emitido&lt;t49/&gt; &lt;t50/&gt;un&lt;t51/&gt; &lt;t52/&gt;informe&lt;t53/&gt; &lt;t54/&gt;sobre&lt;t55/&gt; &lt;t56/&gt;la&lt;t57/&gt; &lt;t58/&gt;enfermedad en diciembre.&lt;t59/&gt; &lt;t60/&gt;Sin embargo, fue&lt;t61/&gt;recién el 2 de abril &lt;t62/&gt;del año&lt;t63/&gt;2003&lt;t64/&gt;cuando&lt;t65/&gt;Wen&lt;t66/&gt;Jiabao&lt;t67/&gt;,&lt;t68/&gt;el nuevo premier&lt;t69/&gt;,&lt;t70/&gt;presidió una reunión en el Consejo de Estado para discutir el problema&lt;t71/&gt;del SRAS.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160909T114948Z">
+        <seg>&lt;t36/&gt;Y queda claro que fue una decisión y no falta de conocimiento; las autoridades del área de salud de Cantón habían enviado información sobre el virus&lt;t37/&gt;a Pekín&lt;t38/&gt;en noviembre, &lt;t39/&gt;y un audaz periódico de Cantón,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;había&lt;t47/&gt; &lt;t48/&gt;emitido&lt;t49/&gt; &lt;t50/&gt;un&lt;t51/&gt; &lt;t52/&gt;informe&lt;t53/&gt; &lt;t54/&gt;sobre&lt;t55/&gt; &lt;t56/&gt;la&lt;t57/&gt; &lt;t58/&gt;enfermedad en diciembre.&lt;t59/&gt; &lt;t60/&gt;Sin embargo, fue&lt;t61/&gt;recién el 2 de abril &lt;t62/&gt;del año&lt;t63/&gt;2003&lt;t64/&gt;cuando&lt;t65/&gt;Wen&lt;t66/&gt;Jiabao&lt;t67/&gt;,&lt;t68/&gt;el nuevo premier&lt;t69/&gt;,&lt;t70/&gt;presidió una reunión en el Consejo de Estado para discutir el problema&lt;t71/&gt;del SRAS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10578,8 +10578,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Whether because of the leadership&lt;t7/&gt; &lt;t8/&gt;transition&lt;t9/&gt; &lt;t10/&gt;that&lt;t11/&gt; &lt;t12/&gt;was&lt;t13/&gt; &lt;t14/&gt;to&lt;t15/&gt; &lt;t16/&gt;take&lt;t17/&gt; &lt;t18/&gt;place&lt;t19/&gt; &lt;t20/&gt;at&lt;t21/&gt; &lt;t22/&gt;the&lt;t23/&gt; &lt;t24/&gt;NPC&lt;t25/&gt; &lt;t26/&gt;or&lt;t27/&gt; &lt;t28/&gt;the&lt;t29/&gt; &lt;t30/&gt;usual&lt;t31/&gt; &lt;t32/&gt;impulse of the CCP not to report difficulties &lt;t33/&gt;openly, &lt;t34/&gt;the leadership decided not to report the development of SARS &lt;t35/&gt;honestly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T212728Z">
-        <seg>Ya sea debido a la transición de liderazgo que estaba por ocurrir&lt;t7/&gt; &lt;t8/&gt;en&lt;t9/&gt;la&lt;t10/&gt;APN&lt;t11/&gt; o&lt;t12/&gt;el&lt;t13/&gt; &lt;t14/&gt;impulso&lt;t15/&gt; &lt;t16/&gt;habitual&lt;t17/&gt; &lt;t18/&gt;del&lt;t19/&gt; &lt;t20/&gt;PCCh&lt;t21/&gt; &lt;t22/&gt;de&lt;t23/&gt;no&lt;t24/&gt;comunicar&lt;t25/&gt;los &lt;t26/&gt;problemas&lt;t27/&gt; &lt;t28/&gt;abiertamente&lt;t29/&gt;, &lt;t30/&gt;el&lt;t31/&gt; &lt;t32/&gt;gobierno&lt;t33/&gt;decidió&lt;t34/&gt;no informar con honestidad sobre el avance de SRAS&lt;t35/&gt;.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160909T114654Z">
+        <seg>Ya sea debido a la transición de liderazgo que estaba por ocurrir&lt;t7/&gt; &lt;t8/&gt;en&lt;t9/&gt;la&lt;t10/&gt;APN&lt;t11/&gt; o&lt;t12/&gt;el&lt;t13/&gt; &lt;t14/&gt;impulso&lt;t15/&gt; &lt;t16/&gt;habitual&lt;t17/&gt; &lt;t18/&gt;del&lt;t19/&gt; &lt;t20/&gt;PCCh&lt;t21/&gt; &lt;t22/&gt;de&lt;t23/&gt;no&lt;t24/&gt;comunicar&lt;t25/&gt;los &lt;t26/&gt;problemas&lt;t27/&gt; &lt;t28/&gt;abiertamente&lt;t29/&gt;, &lt;t30/&gt;el&lt;t31/&gt; &lt;t32/&gt;gobierno&lt;t33/&gt;decidió&lt;t34/&gt;no informar con honestidad sobre el avance del SRAS&lt;t35/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
