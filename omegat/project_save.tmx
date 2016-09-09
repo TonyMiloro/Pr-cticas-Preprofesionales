@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2930,8 +2930,8 @@
       <tuv lang="EN-US">
         <seg>By the 1992–3 period, China was emerging from the shock caused by Tiananmen and the heavy-&lt;/f0&gt;&lt;f1&gt;h&lt;/f1&gt;&lt;f2&gt;anded propaganda campaign waged by the government against bourgeois liberalization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T035623Z" creationid="daiana" creationdate="20160909T035623Z">
-        <seg>Para el período de 1992–3, China estaba emergiendo was emerging from the shock caused by Tiananmen and the heavy-&lt;/f0&gt;&lt;f1&gt;h&lt;/f1&gt;&lt;f2&gt;anded propaganda campaign waged by the government against bourgeois liberalization.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T040426Z" creationid="daiana" creationdate="20160909T035623Z">
+        <seg>Para el período de 1992–3, China estaba emergiendo de la conmoción producida por Tiananmén y de la intensa campaña de propaganda llevada a cabo por el gobierno en contra de la liberalización burguesa.</seg>
       </tuv>
     </tu>
     <tu>
