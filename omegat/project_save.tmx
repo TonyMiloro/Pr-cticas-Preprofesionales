@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4882,6 +4882,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hu was favorably impressed by the report and forwarded it to Hu Yaobang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174915Z" creationid="Pc" creationdate="20160909T174915Z">
+        <seg>Hu se deslumbró con el informe y se lo envió a Hu Yaobang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Huntington’s article, “Clash of Civilizations?”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010722Z">
@@ -9134,6 +9142,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The general secretary, however, was not impressed and referred to it, in a marginal note, as “rubbish.” Later he took Hu Qili to task for accepting the ideas in the report.3 At roughly the same time that Wang was forwarding his report to the</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174953Z" creationid="Pc" creationdate="20160909T174953Z">
+        <seg>Al secretario general, por otro lado, no le causó una buena impresión y, en una nota marginal, lo describió como "basura". Luego, reprendió a Hu Quii por haber aceptado las ideas de este informe3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The government encouraged nationalistic feelings through its campaign of patriotic education and generally discouraged writing about the “black spots” in its history&lt;t10/&gt; &lt;t11/&gt;18&lt;t12/&gt;.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T223039Z">
@@ -10844,6 +10860,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211340Z">
         <seg>Wu no especifica qué líderes empezaron esta cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wu himself refers to a 1986 report written by Wang Huning – then a professor of international politics at Fudan University and, after 1995, head of the Political Section of the Central Committee’s Policy Research Office under Jiang Zemin (and then promoted to be director of the Central Policy Research Center in 2002) – discussing the need for “necessary concentration” of central authority in the course of reform.2 Wang’s report set off a major &lt;t0/&gt;internal policy battle when it was read by Hu Qili.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T175122Z" creationid="Pc" creationdate="20160909T174904Z">
+        <seg>El mismo Wu hace referencia a un informe de 1986 escrito por Wang Huning, en aquel entonces un profesor de política internacional de la Universidad de Fudan, jefe de la Sección Política del Comité Central de la Oficina de Investigación a cargo de Jiang Zemin luego de 1995 (y luego promovido a director del Centro de Investigación de Política Central en el año 2002). A partir de este informe, Wu analiza la necesidad de la "concentración imprescindible" por parte de la autoridad central en el transcurso de la reforma2. El informe de Wang provocó una gran disputa acerca de la &lt;t0/&gt; política nacional cuando Hu Qii lo leyó.</seg>
       </tuv>
     </tu>
     <tu>
