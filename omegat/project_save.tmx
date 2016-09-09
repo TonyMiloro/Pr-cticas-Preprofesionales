@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2802,8 +2802,8 @@
       <tuv lang="EN-US">
         <seg>Building on the aca-demic literature on “democratic peace,” Lake turned theory into practice, arguing that the world would be a safer place if American policy could help foster democracies around the world.29 At the same time, as the Cold War came to a close and as images of Tiananmen remained vivid in people’s minds, human rights came to have a greater importance in US foreign policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T205421Z">
-        <seg>Construyendo sobre la literatura académica existente acerca de  "la paz democrática", Lake convirtió la teoría en práctica argumentando que el mundo sería un lugar más seguro si la política estadounidense ayudaba a desarrollar las democracias alrededor del mundo. Al mismo tiempo, mientras que la Guerra Fría llegaba a su fin y las imágenes de Tiananmen permanecían nítidas en la memoria de la gente, los derechos humanos obtuvieron mayor importancia en la política exterior de Estados Unidos. </seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020552Z">
+        <seg> Construyendo sobre la base de la literatura académica existente sobre "la paz democrática", Lake llevó la teoría a la práctica al sostener que el mundo sería un lugar más seguro si la política estadounidense ayudaba a desarrollar las democracias alrededor del mundo.29 Al mismo tiempo, mientras que la Guerra Fría llegaba a su fin y las imágenes de Tiananmén permanecían nítidas en la memoria de la gente, los derechos humanos obtuvieron mayor importancia en la política exterior de EE. UU. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6884,8 +6884,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Not long after Fukuyama (a former member of the Policy Planning Staff at the Department of State) pronounced ideological victory, Anthony Lake, National Security Adviser in the first Clinton administration, gave his</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T202719Z">
-        <seg>Poco después de que Fukuyama (ex miembro del (grupo)  Planificación de Políticas del Departamento de Estado) pronunció la victoria ideológica, Anthony Lake, Asesor en Seguridad Nacional en la primera administraciónde Clinton, dio su</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020500Z">
+        <seg>Poco después de que Fukuyama (ex miembro del grupo de Planificación de Políticas del Departamento de Estado) pronunció la victoria ideológica, Anthony Lake, asesor en Seguridad Nacional de la primera administración de Clinton, dio su </seg>
       </tuv>
     </tu>
     <tu>
@@ -7517,8 +7517,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>President Clinton endorsed this approach not only in his acceptance speech (not “coddl[ing] dictators, from Baghdad to Beijing”) but also in his 1993 trip to Japan and South Korea.30</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T211748Z">
-        <seg>El presidente Clinton respaldó este enfoque no solo en su discurso de aceptación (sin "contemplar a dictadores desde Bagdad hasta Beijing”) pero también en su viaje de 1993 a Japón y Corea del Sur.30</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020733Z">
+        <seg>El presidente Clinton respaldó este enfoque no solo en su discurso de aceptación (sin "contemplar a dictadores desde Bagdad hasta Pekín”) sino también en su viaje de 1993 a Japón y Corea del Sur.30</seg>
       </tuv>
     </tu>
     <tu>
@@ -8974,6 +8974,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The post-Cold War world would be unified ideologically under Western neoclassical liberalism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020428Z" creationid="Rocio" creationdate="20160909T020428Z">
+        <seg>El mundo pos-Guerra Fría podía estar ideológicamente unificado bajo el liberalismo neoclásico occidental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The publicity given to several major instances of regional protectionism (the “cocoon war,” the “cotton war,” etc.) all reinforced the notion that the central government was losing control over the provinces.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160906T004857Z">
@@ -9624,8 +9632,10 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This was particularly the case when President Bush and National Security Adviser Brent Scowcroft, both schooled in realpoli-tik, left Washington to be replaced by people with a much more activist approach to human rights, including Anthony Lake, Secretary of State Warren Christopher, and Undersecretary of State for East Asian and Pacific Affairs Winston Lord.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T211305Z">
-        <seg>Este fue particularmente el caso cuando el presidente Bush y el Asosor de Seguridad Nacional Brent Scowcroft, ambos educados en realpoli-tik, dejaron Washington para ser reemplazados por gente con un enfoque mucho más activista sobre los derechos humanos como Anthony Lake, el Secretario de Estado Warren Christopher y Subsecretario de Estado para Asuntos de Asia Oriental y el Pacífico Winston Lord.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020617Z">
+        <seg>Este fue el caso particular cuando el presidente Bush y el asesor en Seguridad Nacional Brent Scowcroft, ambos educados en realpoli-tik, abandonaron Washington y fueron reemplazados por gente con un enfoque mucho más activista sobre los derechos humanos como Anthony Lake, el secretario de Estado Warren Christopher y el subsecretario de Estado para asuntos de Asia Oriental y el Pacífico Winston Lord.
+
+.</seg>
       </tuv>
     </tu>
     <tu>
