@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2002,8 +2002,8 @@
       <tuv lang="EN-US">
         <seg>Although Ishihara’s book can be seen as the opening shot in this debate, the debate over Asian values accelerated following the end of the Cold War.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T200525Z">
-        <seg>Aunque el libro de Ishihara se puede tomar como punto de partida en el debate, el debate sobre los valores asiáticos se incrementó luego del fin de la Guerra Fría.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020249Z">
+        <seg>Aunque el libro de Ishihara se puede tomar como punto de partida en el debate sobre los valores asiáticos, éste se aceleró luego del fin de la Guerra Fría.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2068,6 +2068,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T223223Z">
         <seg>Aunque no estaba del todo claro en ese momento, un gran escándalo de corrupción en la Oficina de Seguridad de Shanghai estaba a punto de convertirse en un embrollo político que se llevaría consigo al líder del Partido de Shanghai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although many of these issues were implicit in much Chinese writing of the early 1990s, it was, ironically, Samuel Huntington’s 1993 article in Foreign Affairs, “The Clash of Civilizations?,” that really jelled the discussion and gave it focus.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020112Z" creationid="Rocio" creationdate="20160909T020112Z">
+        <seg>Aunque muchos de estos temas estaban implícitos en la mayoría de las obras chinas de principios de los 90, fue irónicamente el artículo de 1993 de Samuel Huntington publicado en Foreign Affairs, "El choque de civilizaciones" que realmente aceitó la discusión y le dio foco. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,8 +2682,8 @@
       <tuv lang="EN-US">
         <seg>Barely had the Cold War ended when Francis Fukayama published his controversial 1989 article (and later book), “The End of History.”28 Fukayama argued that, with the disintegration of the Soviet Union and collapse of Marxism–Leninism, the last great ideological debate of modern history had come to a close: the West had won.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T201710Z">
-        <seg> Apenas había terminado la Guerra Fría cuando Francis Fukayama publicó su artículo controversial en 1989 (y posterior libro), “El Fin de la Historia.”28 Fukayama argumentaba que con la desintegración de la Unión Soviética y con el colapso del marxismo-leninismo, el último gran debate idiológico de la historia moderna había llegado a su fin: el occidente había ganado. </seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020323Z">
+        <seg> Apenas había terminado la Guerra Fría cuando Francis Fukuyama publicó su controversial artículo en 1989 (y su posterior libro) “El fin de la historia”.28 Fukuyama sostenía que con la desintegración de la Unión Soviética y el colapso del marxismo-leninismo, el último gran debate ideológico de la historia moderna había llegado a su fin: el Occidente había ganado.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -7100,8 +7108,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Of course, Huntington’s article (and later book) did not fall on barren ground.26 In Asia, as the region prospered economically, there was a growing consciousness of “Asian values” and their distinctiveness from – and sometimes opposition to – Western values.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T195922Z">
-        <seg>Es cierto que el artículo de Huntington y (su posterior libro) no cayó en terreno infértil. 26 En Asia, mientras la región prosperaba económicamente, había una consciencia en aumento sobre los "valores asiáticos" y su distinción por sobre (y a veces en oposición con) los valores occidentales.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020137Z">
+        <seg>Es cierto que el artículo de Huntington (y su posterior libro) no cayó en terreno infértil.26 En Asia, a medida que la región prosperaba económicamente, había una fuerte consciencia sobre los "valores asiáticos" y su diferenciación de (y a veces oposición a) los valores occidentales. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8568,8 +8576,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The book that heralded the debate over Asian values was Shintaro Ishihara’s The Japan That Can Say No, published in 1989.27</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T200257Z">
-        <seg>El libro que anunció el debate sobre los valores asiáticos fue El Japón que puede decir No de Shintaro Ishihara publicado en 1989.27</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020204Z">
+        <seg>El libro que anunció el debate sobre los valores asiáticos fue El Japón que puede decir no de Shintaro Ishihara publicado en 1989.27  </seg>
       </tuv>
     </tu>
     <tu>
@@ -8962,14 +8970,6 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160905T010251Z">
         <seg>LA SITUACION DE LOS POBRES PUEDE ESTAR MEJORANDO, pero sucede lentamente.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The post-Cold War world would be unified ideologically under Western neoclassical liberalism.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T201955Z">
-        <seg>El mundo post-Guerra Fría podría estar ideológicamente unificado bajo el liberalismo neoclásico occidental.</seg>
       </tuv>
     </tu>
     <tu>
