@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2506,8 +2506,8 @@
       <tuv lang="EN-US">
         <seg>Asian critics saw a very different world than Fukuyama and other exponents of American triumphalism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T212229Z">
-        <seg>Críticos asiáticos vieron un mundo muy diferente al de Fukuyama y otros exponentes del triunfalismo norteamericano.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020826Z">
+        <seg>Críticos asiáticos veían un mundo muy diferente al de Fukuyama y otros exponentes del triunfalismo estadounidense. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4220,8 +4220,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For many in Asia, these trends suggested an American triumphalism, even arrogance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T212002Z">
-        <seg>Para muchos en Asia, estas tendencias implicaron el triunfalismo estadounidense, incluso la arrogancia.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020801Z">
+        <seg>Para muchos en Asia, estas tendencias reflejaron el triunfalismo estadounidense, incluso la arrogancia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5188,8 +5188,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In contrast, Asia was at that time a study of economic prosperity and social order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T213400Z">
-        <seg>En cambio, Asia era en este entonces un caso de estudio sobre prosperidad económica y orden social.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021001Z">
+        <seg>En cambio, Asia era en este entonces un caso de estudio acerca de la prosperidad económica y el orden social. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8496,8 +8496,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The United States had won the Cold War, but it appeared to have expended itself in the effort.31 Crime rates were high, as were drug use, divorce, pornography, and other indicators of social malaise.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T212611Z">
-        <seg>Estados Unidos había ganado la Guerra Fría pero parecía que se había agotado en el esfuerzo. 31 Los índices de criminalidad eran altos como así también el uso de drogas, el divorcio, la pornografía y otros indicadores de problemas sociales. </seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020922Z">
+        <seg>Estados Unidos había ganado la Guerra Fría pero parecía haberse agotado en el esfuerzo.31 Los índices de criminalidad eran altos como así también el uso de drogas, el divorcio, la pornografía y otros indicadores de problemas sociales. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11155,8 +11155,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>“Confucian capitalism” became a hot topic, both in Asia and the West.32 There was constant talk&lt;s0/&gt;&lt;t1/&gt;of Asia as the most dynamic region in the world, and there was great confidence that the twenty-first century would be the Pacific century, and particularly the Asian century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T214059Z">
-        <seg>El "capitalismo Confuciano" se volvió un tema polémico tanto en Asia como en Occidente. Se hablaba permanentemente de Asia como la región más dinámica del mundo y había mucha confianza de que el siglo veintiuno iba a ser el siglo del Pacífico y particularmente el siglo de Asia. </seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021045Z">
+        <seg>El "capitalismo Confuciano" se volvió un tema polémico tanto en Asia como en Occidente. Se hablaba permanentemente de Asia como la región más dinámica del mundo y se creía  que el siglo veintiuno iba a ser el siglo del Pacífico y particularmente el siglo de Asia. </seg>
       </tuv>
     </tu>
     <tu>
