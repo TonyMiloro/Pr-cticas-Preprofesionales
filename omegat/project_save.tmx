@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10506,8 +10506,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>When an interviewer suggested to Wang that his novels give people the impression that he is a sort of hooligan from the lower classes and that he hates the upper classes, Wang replied that Chinese society has always been divided into an upper class (shangliu) and a lower 42 It should be noted that Huntington denies this.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T125052Z">
-        <seg>Cuando en una entrevista se le insinuó a Wang que sus novelas daban la impresión de que él es una especie de vándalo de las clases bajas y que odia a las clases altas, Wang respondió que la sociedad China siempre ha estado dividida en clase alta (shangliu) y clase baja (xialiu); </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160909T135954Z">
+        <seg>Cuando en una entrevista se le insinuó a Wang que sus novelas daban la impresión de que él era una especie de vándalo de las clases bajas y que odiaba a las clases altas, Wang respondió que la sociedad China siempre ha estado dividida en clase alta (shangliu) y clase baja (xialiu); </seg>
       </tuv>
     </tu>
     <tu>
