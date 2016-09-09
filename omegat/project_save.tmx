@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5334,6 +5334,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T220908Z">
         <seg>En respuesta a las nuevas circunstancias de los años noventa, un grupo de estudiantes, incluyendo Wang Hui, adoptaron  varias metodologías criticas y posmodernistas a través de las cuales esperaban superar la crítica de la Ilustración de la decada anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In short, although “Realistic Responses” marked a certain maturation of neoconservative thought, it was really more of a starting point for further exploration than a full-blown political agenda.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T035304Z" creationid="daiana" creationdate="20160909T035124Z">
+        <seg>En síntesis, aunque “Realistic Responses” marcó una cierta maduración del pensamiento neoconservador, fue en verdad como un punto de partida parfa nuevas exploraciones que una agenda política desarrollada.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
