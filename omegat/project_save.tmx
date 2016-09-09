@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10860,6 +10860,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211340Z">
         <seg>Wu no especifica qué líderes empezaron esta cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wu himself refers to a 1986 report written by Wang &lt;t12/&gt;Huning&lt;t13/&gt; – then a professor of international politics at &lt;t14/&gt;Fudan&lt;t15/&gt; University and, after 1995, head of the Political Section of the Central Committee’s Policy Research Office under Jiang &lt;t16/&gt;Zemin&lt;t17/&gt; (and then promoted to be director of the Central Policy Research Center in 2002) – discussing the need for “necessary concentration” of central authority in the course of reform.2 Wang’s report set off a major &lt;t18/&gt;internal policy battle when it was read by &lt;t19/&gt;Hu&lt;t20/&gt; &lt;t21/&gt;Qili&lt;t22/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T175701Z" creationid="Pc" creationdate="20160909T175701Z">
+        <seg>El mismo Wu hace referencia a un informe de 1986 escrito por Wang  &lt;t12/&gt;Huning&lt;t13/&gt; – then a professor of international politics at &lt;t14/&gt;Fudan&lt;t15/&gt; University and, after 1995, head of the Political Section of the Central Committee’s Policy Research Office under Jiang &lt;t16/&gt;Zemin&lt;t17/&gt; (and then promoted to be director of the Central Policy Research Center in 2002) – discussing the need for “necessary concentration” of central authority in the course of reform.2 Wang’s report set off a major &lt;t18/&gt;internal policy battle when it was read by &lt;t19/&gt;Hu&lt;t20/&gt; &lt;t21/&gt;Qili&lt;t22/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
