@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5242,6 +5242,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a self-conscious imitation of The Communist Manifesto, Wu began, “there is a strange spirit that has sprouted wings and flown through the forest of the intellectual world, and that is the 83 P1: SJT 9780521866934c03 CUUK1178/&lt;t4/&gt;Fewsmith&lt;t5/&gt; 9780521866934 June 6, 2008 22:2 84 China since Tiananmen intellectual tide of the new authoritarianism” (&lt;t6/&gt;xin&lt;t7/&gt; &lt;t8/&gt;quanwei&lt;t9/&gt; &lt;t10/&gt;zhuyi&lt;t11/&gt;).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180528Z" creationid="Pc" creationdate="20160909T180528Z">
+        <seg>En una imitación consiente del “Manifiesto comunista”, Wu expresó, "Existe un espíritu desconocido que ha desplegado sus alas y se ha echado a volar por la selva del mundo intelectual, y esa es la marea intelectual del neo-autoritarismo (&lt;t6/&gt;xin&lt;t7/&gt; &lt;t8/&gt;quanwei&lt;t9/&gt; &lt;t10/&gt;zhuyi&lt;t11/&gt;). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a self-conscious imitation of The Communist Manifesto, Wu began, “there is a strange spirit that has sprouted wings and flown through the forest of the intellectual world, and that is the 83 P1: SJT 9780521866934c03 CUUK1178/Fewsmith 9780521866934 June 6, 2008 22:2 84 China since Tiananmen intellectual tide of the new authoritarianism” (xin quanwei zhuyi).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pc" changedate="20160909T174655Z" creationid="Pc" creationdate="20160909T174655Z">
@@ -7547,6 +7555,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One trend that emerged in the1980s was that of “new authoritarianism,” which re-emerged in the 1990s as “&lt;t0/&gt;neoconservatism&lt;t1/&gt;.” Although few in government, or even in intellectual circles, would lay claim to the title “neoconservative,” the impact of the ideas associated with it on the thinking of the political leadership was clear, particularly in the early to mid-1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180443Z" creationid="Pc" creationdate="20160909T180443Z">
+        <seg>Una tendencia que surgió en la década de los 80 fue la de "neo-autoritarismo" que resurgió en la década de los 90 como "neoconservadurismo". Aunque algunos integrantes del gobierno, o incluso aquellos pertenecientes a círculos intelectuales, reivindicarían la denominación "neoconservadurismo", las ideas que se le asocian tuvieron un impacto evidente en el pensamiento de liderazgo político, sobre todo entre principios y mediados de la década de los 90.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One trend that emerged in the1980s was that of “new authoritarianism,” which re-emerged in the 1990s as “neoconservatism.” Although few in government, or even in intellectual circles, would lay claim to the title “neoconservative,” the impact of the ideas associated with it on the thinking of the political leadership was clear, particularly in the early to mid-1990s.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pc" changedate="20160909T174614Z" creationid="Pc" creationdate="20160909T174614Z">
@@ -9122,6 +9138,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T231050Z">
         <seg>La primera es que, en la primavera de 1991, a Deng le faltó la fuerza política para restablecer su visión de la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first public glimpse of this trend came on January 16, 1989, when Shanghai’s reform-oriented newspaper, the World Economic Herald, published an article by Wu &lt;t2/&gt;Jiaxiang&lt;t3/&gt;, then a young researcher with the General Office of the Central Committee.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180507Z" creationid="Pc" creationdate="20160909T180507Z">
+        <seg>La primera vez que la sociedad vislumbró esta tendencia fue el 16 de enero de 1989 cuando el periódico de orientación reformista de Shanghái, el World Economic Herald, publicó un artículo  escrito por Wu &lt;t2/&gt;Jiaxiang&lt;t3/&gt;, en aquel entonces un investigador joven de la Secretaría General del Comité Central.</seg>
       </tuv>
     </tu>
     <tu>
