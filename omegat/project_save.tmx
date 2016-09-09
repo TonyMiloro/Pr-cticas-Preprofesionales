@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5284,8 +5284,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In practice, this meant undermining and going around much of the old planned economy, allowing a market economy to grow outside the scope of the planned economy, and thus continuously reducing the relative importance of the planned economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160909T000828Z">
-        <seg>En la práctica, esto significaba debilitar y manipular mucho la antigua economía de planificación centralizada y permitir que una economía de mercado crezca fuera de los límites de la economía centralizada y por lo tanto  reducir continuamente la importancia relativa de la economía centralizada.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160909T000900Z">
+        <seg>En la práctica, esto significaba debilitar y manipular mucho la antigua economía de planificación centralizada y permitir que una economía de mercado crezca fuera de los límites de la economía centralizada y, por lo tanto, reducir continuamente la importancia relativa de la economía centralizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5708,8 +5708,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It also meant, to a greater or lesser extent, playing down much of socialist ideology.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160908T112228Z">
-        <seg>A su vez significaba, en mayor o menor medida, restarle importancia a la ideología socialista.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160909T000929Z">
+        <seg>A su vez, significaba, en mayor o menor medida, restarle importancia a la ideología socialista.</seg>
       </tuv>
     </tu>
     <tu>
