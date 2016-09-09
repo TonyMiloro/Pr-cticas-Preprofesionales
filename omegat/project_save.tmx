@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2072,14 +2072,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Although many of these issues were implicit in much Chinese writing of the early 1990s, it was, ironically, Samuel Huntington’s 1993 article in Foreign Affairs, “The Clash of Civilizations?,” that really jelled the discussion and gave it focus.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T195128Z">
-        <seg>Aunque muchos de estos temas estuvieron implícitos en la mayoría de las obras chinas de principios de los 90, fue irónicamente el artículo de 1993 de Samuel Huntington (publicado en) Foreign Affairs, "Choque de civilizaciones" que realmente .. la discusión y le dio enfoque.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Although many outside observers label them “neoconservatives,” they reject that label and instead see themselves as “true liberals” or as part of the New Left (&lt;t38/&gt;xin zuopai&lt;t39/&gt;).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160908T142527Z">
@@ -3836,8 +3828,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Early neoconservative articles tried to explore a path that differed both in economic and political terms from the 1980s discourse of orthodoxy ver-sus reform and centralization versus decentralization; likewise, the revival of interest in national studies and New Left critiques tried to carve out a path between “socialism” and “Westernization.” This was a question both of political legitimacy – was the Chinese revolution wrong from the very start?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T193718Z">
-        <seg>Los primeros artículos neoconservadores trataron de hallar un camino que se diferenciara en términos económicos y políticos del discurso de los 80 sobre ortodoxia versus reforma y centralización versus descentralización, asimismo, el resurgimiento de interés en los estudios nacionales y en las críticas de la Nueva Izquierda trataron de forjar un camino entre "socialismo" y "occidentalización". Esta era una pregunta tanto de la legitimidad política, ¿la revolución china había estado mal desde el comienzo? </seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020009Z">
+        <seg>Los primeros artículos neoconservadores trataron de hallar un camino que se diferenciara en términos políticos y económicos del discurso de los 80 sobre ortodoxia versus reforma y centralización versus descentralización; asimismo, el interés en los estudios nacionales y en las críticas de la Nueva Izquierda trataron de forjar un camino entre "socialismo" y "occidentalización". Esta era una pregunta tanto de legitimidad política: ¿la revolución china había estado mal desde el comienzo? </seg>
       </tuv>
     </tu>
     <tu>
