@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8536,8 +8536,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The authority conferred by this resolution is ambiguous, though, since “helmsman” was not a formal position and it was not clear whether Deng’s wishes still needed to be obeyed in the same way as before his retirement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014004Z">
-        <seg>. La autoridad que confería esta resolución es ambigua ya que "timonel" no era una posición formal y no quedaba clara si se aún tenían que obedecer los deseos de Deng de la misma forma en la que se hacía antes de su retiro. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160909T012049Z">
+        <seg>La autoridad que confería esta resolución es ambigua ya que "timonel" no era una posición formal y ya que no quedaba claro si aún tenían que obedecerse los deseos de Deng de la misma forma en la que se los obedecía antes de su retiro. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9752,8 +9752,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Thus, the Thirteenth Party Congress passed a secret resolution to refer all major decisions to Deng Xiaoping as the “helmsman” of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013913Z">
-        <seg>Por ello, el XIII Congreso Nacional (del Partido Comunista Chino) aprobó una resolución secretar para remitir todas las decisiones importantes a Deng Xiaoping como el "timonel" del Partido.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160909T011931Z">
+        <seg>Por ello, el XIII Congreso Nacional aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping quien era reconocido como el "timonel" del Partido.</seg>
       </tuv>
     </tu>
     <tu>
