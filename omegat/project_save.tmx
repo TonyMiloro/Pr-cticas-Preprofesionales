@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7419,6 +7419,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>People like Sheng Hong and Xiao Gongqin wrote frequently but were intellectuals with limited policy impact, not to mention a different intellectual agenda from others.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T033230Z" creationid="daiana" creationdate="20160909T033230Z">
+        <seg>Personas como Sheng Hong y Xiao Gongqin escribían con frecuencia pero eran intelectuales con un limitado impacto político, sin mencionar que contaban con una agenda intelectual particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perhaps more concerned about Japan’s global ambitions,  He recommended changing China’s coastal development strategy, opting instead for an economic alliance with the Soviet Union.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191224Z" creationid="Melanie" creationdate="20160908T191224Z">
@@ -10052,6 +10060,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T214545Z">
         <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y también porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Huning, who had set off internal arguments about new authoritarianism, wrote nothing about the subject as public debate unfolded in 1989, but he would emerge as a politically important adviser to Jiang Zemin in the mid- and late 1990s and then to Hu Jintao in the new century.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T033052Z" creationid="daiana" creationdate="20160909T033052Z">
+        <seg>Wang Huning, quien había iniciado discusiones internas acerca del nuevo autoritarismo, no escribió nada acerca del tema ya que el debate público se desarrolló en 1989, pero emergería como un importante asesor político de Jiang Zemin a mediados y a finales de la década de los 90, y luego de Hu Jintao en el siglo posterior.</seg>
       </tuv>
     </tu>
     <tu>
