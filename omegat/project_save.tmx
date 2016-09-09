@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5244,8 +5244,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In a self-conscious imitation of The Communist Manifesto, Wu began, “there is a strange spirit that has sprouted wings and flown through the forest of the intellectual world, and that is the 83 P1: SJT 9780521866934c03 CUUK1178/&lt;t4/&gt;Fewsmith&lt;t5/&gt; 9780521866934 June 6, 2008 22:2 84 China since Tiananmen intellectual tide of the new authoritarianism” (&lt;t6/&gt;xin&lt;t7/&gt; &lt;t8/&gt;quanwei&lt;t9/&gt; &lt;t10/&gt;zhuyi&lt;t11/&gt;).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180528Z" creationid="Pc" creationdate="20160909T180528Z">
-        <seg>En una imitación consiente del “Manifiesto comunista”, Wu expresó, "Existe un espíritu desconocido que ha desplegado sus alas y se ha echado a volar por la selva del mundo intelectual, y esa es la marea intelectual del neo-autoritarismo (&lt;t6/&gt;xin&lt;t7/&gt; &lt;t8/&gt;quanwei&lt;t9/&gt; &lt;t10/&gt;zhuyi&lt;t11/&gt;). </seg>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180637Z" creationid="Pc" creationdate="20160909T180528Z">
+        <seg>En una imitación consiente del “Manifiesto comunista”, Wu expresó, "Existe un espíritu desconocido que ha desplegado sus alas y se ha echado a volar por la selva del mundo intelectual, y esa es la marea intelectual del neo-autoritarismo (xin quanwei zhuyi). &lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7557,8 +7557,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>One trend that emerged in the1980s was that of “new authoritarianism,” which re-emerged in the 1990s as “&lt;t0/&gt;neoconservatism&lt;t1/&gt;.” Although few in government, or even in intellectual circles, would lay claim to the title “neoconservative,” the impact of the ideas associated with it on the thinking of the political leadership was clear, particularly in the early to mid-1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180443Z" creationid="Pc" creationdate="20160909T180443Z">
-        <seg>Una tendencia que surgió en la década de los 80 fue la de "neo-autoritarismo" que resurgió en la década de los 90 como "neoconservadurismo". Aunque algunos integrantes del gobierno, o incluso aquellos pertenecientes a círculos intelectuales, reivindicarían la denominación "neoconservadurismo", las ideas que se le asocian tuvieron un impacto evidente en el pensamiento de liderazgo político, sobre todo entre principios y mediados de la década de los 90.</seg>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180626Z" creationid="Pc" creationdate="20160909T180443Z">
+        <seg>Una tendencia que surgió en la década de los 80 fue la de "neo-autoritarismo" que resurgió en la década de los 90 como "neoconservadurismo". Aunque algunos integrantes del gobierno, o incluso aquellos pertenecientes a círculos intelectuales, reivindicarían la denominación "neoconservadurismo", las ideas que se le asocian tuvieron un impacto evidente en el pensamiento de liderazgo político, sobre todo entre principios y mediados de la década de los 90.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9064,8 +9064,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The emergence of &lt;t0/&gt;neoconservatism</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180557Z" creationid="Pc" creationdate="20160909T180557Z">
-        <seg>El surgimiento del neoconservadurismo</seg>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180617Z" creationid="Pc" creationdate="20160909T180557Z">
+        <seg>El surgimiento del neoconservadurismo&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10914,8 +10914,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wu himself refers to a 1986 report written by Wang &lt;t12/&gt;Huning&lt;t13/&gt; – then a professor of international politics at &lt;t14/&gt;Fudan&lt;t15/&gt; University and, after 1995, head of the Political Section of the Central Committee’s Policy Research Office under Jiang &lt;t16/&gt;Zemin&lt;t17/&gt; (and then promoted to be director of the Central Policy Research Center in 2002) – discussing the need for “necessary concentration” of central authority in the course of reform.2 Wang’s report set off a major &lt;t18/&gt;internal policy battle when it was read by &lt;t19/&gt;Hu&lt;t20/&gt; &lt;t21/&gt;Qili&lt;t22/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180235Z" creationid="Pc" creationdate="20160909T175701Z">
-        <seg>El mismo Wu hace referencia a un informe de 1986 escrito por Wang &lt;t12/&gt;Huning&lt;t13/&gt; -  en aquel entonces un profesor de política internacional de la Universidad de &lt;t14/&gt;Fudan&lt;t15/&gt; , jefe de la Sección Política del Comité Central de la Oficina de Investigación a cargo de Jiang &lt;t16/&gt;Zemin&lt;t17/&gt; luego de 1995 (y luego promovido a director del Centro de Investigación de Política Central en el año 2002). A partir de este informe, Wu analiza la necesidad de la "concentración imprescindible" por parte de la autoridad central en el transcurso de la reforma2. El informe de Wang provocó una gran disputa acerca de la política  &lt;t18/&gt;nacional cuando &lt;t18/&gt; &lt;t19/&gt;Hu&lt;t20/&gt; &lt;t21/&gt;Qili&lt;t22/&gt; lo leyó.</seg>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180740Z" creationid="Pc" creationdate="20160909T175701Z">
+        <seg>El mismo Wu hace referencia a un informe de 1986 escrito por Wang &lt;t12/&gt;Huning&lt;t13/&gt; -  en aquel entonces un profesor de política internacional de la Universidad de &lt;t14/&gt;Fudan&lt;t15/&gt; , jefe de la Sección Política del Comité Central de la Oficina de Investigación a cargo de Jiang &lt;t16/&gt;Zemin&lt;t17/&gt; luego de 1995 (y luego promovido a director del Centro de Investigación de Política Central en el año 2002). A partir de este informe, Wu analiza la necesidad de la "concentración imprescindible" por parte de la autoridad central en el transcurso de la reforma2. El informe de Wang provocó una gran disputa acerca de la política &lt;t18/&gt; nacional cuando  &lt;t19/&gt;Hu&lt;t20/&gt; &lt;t21/&gt;Qili&lt;t22/&gt; lo leyó.</seg>
       </tuv>
     </tu>
     <tu>
