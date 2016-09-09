@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10930,8 +10930,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Would Hu be able to get this and other ideas into an amended Party constitution?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T175110Z">
-        <seg>¿Podría Hu agregar estas y otras ideas a una constitución del Partido enmendada? </seg>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T203624Z">
+        <seg>¿Podría Hu agregar estas y otras ideas en una enmienda a la constitución del Partido? </seg>
       </tuv>
     </tu>
     <tu>
