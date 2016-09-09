@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3844,8 +3844,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the urging of sociologists such as Li and Lu, the report ﬁrmly endorsed continuin&lt;f1&gt;g &lt;/f1&gt;along the developmental path the country had been following:“Keep economic development as the central task,”it urged, “and solve problems cropping up on our way forward through development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005455Z">
-        <seg>A pesar del deseo de los sociólogos Li y Lu, el informe respalda con firmeza continuar &lt;f1&gt;con &lt;/f1&gt; el camino de desarrollo que el país ha estado seguiendo: “ Mantener el desarrollo económico como tarea central”, “ y resolver los problemas que surjan en nuestro camino hacia el desarrollo,</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160909T231214Z">
+        <seg>A pesar del deseo de los sociólogos Li y Lu, el informe respalda con firmeza continuar &lt;f1&gt;con &lt;/f1&gt; el camino de desarrollo que el país ha estado siguiendo:“ mantener el desarrollo económico como tarea central”, “ y resolver los problemas que surjan en nuestro camino hacia el desarrollo,</seg>
       </tuv>
     </tu>
     <tu>
@@ -7981,8 +7981,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Science and technology, of course, would help upgrade industry along the coast–areas that already had a basis for adopting newer technologies – but likely would not drive job creation, particularly in the interior.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005106Z">
-        <seg>Si bien ambas ayudarían a mejorar la industria en zonas costeras, que cuentan con una base  para adoptar nuevas tecnologías,con seguridad no producirán empleo, en particular en las zonas del interior.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160909T231355Z">
+        <seg>Si bien ambas ayudarían a mejorar la industria en zonas costeras, que cuentan con una base  para adoptar nuevas tecnologías, con seguridad no producirán empleo, en particular en las zonas del interior.</seg>
       </tuv>
     </tu>
     <tu>
