@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2248,6 +2248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An orgy of real estate and stock speculation stimulated new income inequalities, between classes as well as between regions.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T040747Z" creationid="daiana" creationdate="20160909T040747Z">
+        <seg>Una orgía de bienes raíces y especulaciones bursátiles estimulaban nuevas desigualdades de ingreso entre las clases al igual que entre las regiones.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An “editor’s note” prefacing the article states that Zhao Ziyang had refused to run the article.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023916Z">
@@ -2724,6 +2732,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T163140Z">
         <seg>Como la defunción de Deng ya se venía anticipando y las actividades relacionadas a los acontecimientos ocurrieron con una fluidez orquestada, su impacto fue eclipsado/opacado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because of these trends, Deng’s call for renewed reform and economic development in 1992 did not cause many intellectuals simply to pick up where they had left off before and continue on the trajectory of liberal economic thought and Western-oriented reform that had dominated pre-1989 discussions.On the contrary, much of the discourse that emerged in the mid-1990s was affected by new concerns and new intellectual trends.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T041245Z" creationid="daiana" creationdate="20160909T041245Z">
+        <seg>Debido a estas tendencias, el pedido de Deng para una nueva reforma y desarrollo económico en 1992 no generó que muchos intelectuales simplemente retomaran donde habían dejado antes y continuaran en la trayectoria del pensamiento económico liberal y la reforma con orientación occidental que habían dominado las discusiones anteriores a 1989. </seg>
       </tuv>
     </tu>
     <tu>
