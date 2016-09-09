@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3828,8 +3828,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the growth of market forces, cultivating relations with political leaders continues to be an important part of business life in China – and sometimes a short cut to great wealth.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T001657Z">
-        <seg>A pesar del crecimiento de las fuerzas del mercado, cultivar relaciones con líderes políticos pasó a ser una parte importante de la vida empresarial en China - y algunas veces un atajo para obtener una gran fortuna.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T232334Z">
+        <seg>A pesar del crecimiento de las fuerzas del mercado, cultivar relaciones con líderes políticos continúa siendo una parte importante en la vida empresarial de China - y en ocasiones un atajo para obtener gran fortuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7486,8 +7486,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>On the one hand, there has been the growth of politically well-connected economic interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160904T235817Z">
-        <seg>Por un lado, tuvo lugar el crecimiento de intereses económicos con BUENAS CONEXIONES políticas/ CONECTADOS CON LA POLÍTICA.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T231949Z">
+        <seg>Por un lado, tuvo lugar el crecimiento de intereses económicos con buenas conexiones políticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8574,8 +8574,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Such cases – and many more – reﬂect the density of corrupt relationships that bind many ofﬁcials and entrepreneurs together.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T003656Z">
-        <seg>Estos casos - y muchos otros- reflejan la densidad de las relaciones corruptas que unen a muchos funcionarios y empresarios.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T233353Z">
+        <seg>Estos casos - entre otros- reflejan la firmeza de las relaciones corruptas que une a muchos funcionarios y empresarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9689,8 +9689,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>There have been spectacular cases of corruption revealed over recent years, such as the Xiamen smuggling operation uncovered in 1998 and the Zhou Zhengyi land development case revealed in Shanghai in 2004.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T003434Z">
-        <seg>Algunos espectaculares casos de corrupción han salido a la luz durante los últimos años, como la operación de contrabando en Xiamen descubierto en 1998 y el caso de DESARROLLO INMOBILIARIO de Zhou Zhengyi descubierto en Shanghai en 2004.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T232706Z">
+        <seg>Hubo casos increíbles de corrupción que se han dado a conocer durante los últimos años, entre ellos, la operación de contrabando en Xiamen descubierto en 1998 y el caso de desarrollo inmobiliario de Zhou Zhengyi descubierto en Shanghai en 2004.</seg>
       </tuv>
     </tu>
     <tu>
