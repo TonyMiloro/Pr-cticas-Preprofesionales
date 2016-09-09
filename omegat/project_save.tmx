@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10778,8 +10778,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Zhang &lt;t52/&gt;Wenkang &lt;t53/&gt;apparently knew what wa&lt;t54/&gt;s happening, but could not control &lt;t55/&gt; &lt;t56/&gt;it.&lt;t57/&gt;44</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160831T214134Z">
-        <seg>Al parecer Zhang Wenkang sabía lo que estaba sucediendo pero no podía controlarlo&lt;t52/&gt; &lt;t53/&gt;&lt;t54/&gt; &lt;t55/&gt; &lt;t56/&gt;.&lt;t57/&gt;44</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160909T120727Z">
+        <seg>Al parecer Zhang Wenkang sabía lo que estaba sucediendo, pero no podía controlarlo&lt;t52/&gt; &lt;t53/&gt;&lt;t54/&gt; &lt;t55/&gt; &lt;t56/&gt;.&lt;t57/&gt;44</seg>
       </tuv>
     </tu>
     <tu>
