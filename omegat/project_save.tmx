@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6330,6 +6330,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIBERAL THOUGHT IN CONTEMPORARY CHINA</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151029Z" creationid="joaquin" creationdate="20160909T151029Z">
+        <seg>PENSAMIENTO LIBERAL EN LA CHINA CONTEMPORÁNEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lambasting the decline in central authority that had resulted from a decade and more of devolving economic power, Chen called for a “new centralization” to deal with the emergence of “feudal lords” and “this disintegration of macrocontrol.”28</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160909T133741Z">
@@ -6438,6 +6446,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185725Z" creationid="Melanie" creationdate="20160908T185725Z">
         <seg>Como muchos escritores de este período, He representó a los Estados Unidos de manera contradictoria como una potencia en decadencia y, a su vez, determinada a dominar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like the term "New Left," the term &lt;t2/&gt;"liberal" should probably not be accepted uncritically, even though there &lt;t3/&gt;has been less controversy over its use within China - either by liberals or &lt;t4/&gt;their critics - than there has been of the term "New Left." Moreover, con- &lt;t5/&gt;temporary Chinese liberalism shares the broad outlines of classical Western &lt;t6/&gt;liberalism, though the Western tradition's complexity and diversity make direct comparisons difficult.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151147Z" creationid="joaquin" creationdate="20160909T151147Z">
+        <seg>Similar a lo que sucede con el término “Nueva Izquierda”, el término “liberal” probablemente no debería aceptarse sin una crítica previa; sin embargo, en China el uso de este término, tanto para los liberales como para sus críticos, genera menos controversia que el uso del término “Nueva Izquierda”. Además, aunque la complejidad y la diversidad de las tradiciones occidentales dificultan la comparación, el liberalismo chino contemporáneo comparte las ideas generales del liberalismo occidental clásico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6974,6 +6990,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022407Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, it is important to keep in mind &lt;t7/&gt;that Chinese liberalism is also informed by Chinese tradition, particularly &lt;t8/&gt;the&lt;t9/&gt; minben&lt;t10/&gt; (people as the foundation) tradition associated with Mencius, &lt;t11/&gt;as well as by the liberals' understanding of modern Chinese history and the &lt;t12/&gt;nature of the problems facing contemporary China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151207Z" creationid="joaquin" creationdate="20160909T151207Z">
+        <seg>No obstante, es importante tener en cuenta que el liberalismo chino también está presente en la tradición china, particularmente en la tradición minben (la gente como base) asociada con Mencio, como así también en la interpretación que tienen los liberales sobre la historia moderna de China y la naturaleza de los problemas que enfrenta la China contemporánea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9782,6 +9806,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This overview of New Left or critical appro&lt;t0/&gt;aches to the problems of contem&lt;t1/&gt;porary China suggests the outlines of a major cleavage between these intel- &lt;t2/&gt;lectuals and those who identify themselves as "liberals." Although there are&lt;t3/&gt; &lt;t4/&gt;many streams of thought in contemporary China, the difference between</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151105Z" creationid="joaquin" creationdate="20160909T151105Z">
+        <seg>Este resumen de la Nueva Izquierda o de los enfoques críticos de los problemas de la China contemporánea presenta el bosquejo de una gran división entre estos intelectuales y aquellos que se consideran “liberales”. A pesar de que hay muchas corrientes de pensamiento que circundan en la China contemporánea, la diferencia que existe entre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This page intentionally left blank</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T234543Z">
@@ -11277,6 +11309,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T022755Z">
         <seg>los 50 intelectuales chinos más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the New Left and liberals is perhaps the deepest and most politically salient &lt;t0/&gt;(we will discuss nationalists separately, though, as their thinking overlaps &lt;t1/&gt;significantly with that of the New Left).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151125Z" creationid="joaquin" creationdate="20160909T151125Z">
+        <seg>la Nueva Izquierda y los liberales es quizás la más marcada y prominente políticamente (analizaremos a los nacionalistas por separado debido a que su forma de pensar coincide significativamente con la de la Nueva Izquierda).</seg>
       </tuv>
     </tu>
     <tu>
