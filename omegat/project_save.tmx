@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4334,6 +4334,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160908T174305Z">
         <seg>Por primera vez, el liderazgo del Partido tendría que arreglárselas para ceder la sucesión a una generación joven sin la presencia de Deng Xiaoping ni de otros que se la entregaran. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the first time, the Party's leadership would have to manage succession to a younger generation without the shadow of Deng Xiaoping and others handing over them. What mechanisms would they use to select Hu Jintao's successor?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T195959Z" creationid="Bangho" creationdate="20160909T195959Z">
+        <seg>Por primera vez, el liderazgo del Partido tendría que arreglárselas para ceder la sucesión a una generación joven sin la presencia de Deng Xiaoping ni de otros que se la entregaran. ¿Qué mecanismos usarían para elegir al sucesor de Hu Jintao?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10274,7 +10282,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Thus, there were three interesting questions to be tackled at the Sev- enteenth Party Congress. First, could the post-revolutionary generation manage leadership succession issues in the absence of the revolutionary giants of the past?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T195727Z" creationid="Bangho" creationdate="20160909T195446Z">
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T200004Z" creationid="Bangho" creationdate="20160909T195446Z">
         <seg>De este modo, había tres temas importantes que se debían resolver en el XVII Congreso del Partido. En primer lugar, ¿podría la generación posrevolucionaria resolver los problemas de sucesión de liderazgo en ausencia de los grandes revolucionarios del pasado?</seg>
       </tuv>
     </tu>
