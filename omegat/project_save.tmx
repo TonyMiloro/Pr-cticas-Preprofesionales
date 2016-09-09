@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9296,8 +9296,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The sharpest attack on them, and hence on Deng, was a commentator article in the conservative journal Contemporary Trends (&lt;t0/&gt;Dangdai&lt;t1/&gt; &lt;t2/&gt;sichao&lt;t3/&gt;) that was excerpted shortly thereafter in the People’s Daily.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T221948Z">
-        <seg>El ataque más ácido entre ellos, y sobre todo a Deng, fue el artículo de opinión en el diario conservador Contemporary Trends (Dangfai sichao) que fue resumido poco después in el People´s Daily.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160909T155407Z">
+        <seg>El ataque más ácido entre ellos, y sobre todo a Deng, fue el artículo de opinión en el diario conservador Contemporary Trends (Dangfai sichao) que fue publicado poco después in el People´s Daily.</seg>
       </tuv>
     </tu>
     <tu>
