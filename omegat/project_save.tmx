@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3100,6 +3100,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202904Z">
         <seg>Además, Cheng reprendió a los conservadores como personas que "tienen dudas y recelos" sobre la reforma y "perdieron el coraje de hacer exploraciones positivas".&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;15&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chen’s article picked up where the conservative critique of reform in 1989 and 1990 had left off.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160909T015022Z" creationid="Luisina" creationdate="20160909T015022Z">
+        <seg>El artículo de Chen tomó como punto de partida lo que había dejado la crítica conservativa de la reforma en 1990. </seg>
       </tuv>
     </tu>
     <tu>
