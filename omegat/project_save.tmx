@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2778,8 +2778,8 @@
       <tuv lang="EN-US">
         <seg>Before then, all strata of Chinese society had gained from reform; after that, power and the market merged so that one stratum exploited another.47 As Wang’s friend and literary agent Xu Bing put it, prior to 1992, Wang was a “determined and wildly enthusiastic supporter of reform,” but by the spring and summer of that year “his support became rational and conditional.”48 Wang was not alone in his doubts about the course of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T130417Z">
-        <seg>Antes de eso, todos los estratos de la sociedad china habían mejorado desde la reforma; luego de ese momento el poder y el mercado emergieron entonces un estrato empezó a explotar al otro.47 Como dijo Xu Bing, el amigo y agente literario de Wang, antes de 1992, Wang era un "partidario determinado y entusiasta de la reforma", pero para la primavera y el verano de ese año, "su apoyo se volvió racional y condicional".48 Wang no era el único que dudaba del curso de la reforma.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160909T140614Z">
+        <seg>Antes de eso, todos los estratos de la sociedad china habían mejorado desde la reforma; luego de ese momento el poder y el mercado emergieron entonces un estrato empezó a explotar al otro.47 Como dijo Xu Bing, amigo y agente literario de Wang, antes de 1992, Wang era un "partidario determinado y entusiasta de la reforma", pero para la primavera y el verano de ese año, "su apoyo se volvió racional y condicional".48 Wang no era el único que dudaba del curso de la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8832,8 +8832,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The cover of Looking at China through a Third Eye identifies one “Luo yi ning ge er” as the author.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T181154Z">
-        <seg>En la tapa de Mirando a China desde un tercer ojo se nombra a "Luo yi ning ge er" como el autor.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160909T140747Z">
+        <seg>En la tapa de Mirando a China desde un tercer ojo se nombra a un tal "Luo yi ning ge er" como el autor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10394,8 +10394,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang went to Shanxi province in 1968, where he labored in the fields for a year before going to work in a coal mine.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T182922Z">
-        <seg>Wang fue a la provincia de Shanxi en 1968, donde trabajó la tierra durante un año antes de ir a trabajar en una mina de carbón.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160909T140405Z">
+        <seg>Wang fue a la provincia de Shanxi en 1968, allí trabajó en el campo durante un año antes de ir a trabajar a una mina de carbón.</seg>
       </tuv>
     </tu>
     <tu>
