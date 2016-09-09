@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>26 They would not give up without a fight.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T181355Z">
-        <seg>26 No se darían por vencidos sin una disputa.</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T154015Z">
+        <seg>No se darían por vencidos sin una disputa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6380,8 +6380,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Lambasting the decline in central authority that had resulted from a decade and more of devolving economic power, Chen called for a “new centralization” to deal with the emergence of “feudal lords” and “this disintegration of macrocontrol.”28</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160909T153753Z">
-        <seg>Censurando con dureza la caída de la autoridad central que había resultado de más de una decada de delegamiento del poder económico, Chen llamó a una "nueva centralización" para resolver la emergencia de los "señores feudales" y "la desintegración del macrocontrol". 28</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T154034Z">
+        <seg>Censurando con dureza la caída de la autoridad central que había resultado de más de una decada de delegamiento del poder económico, Chen llamó a una "nueva centralización" para resolver la emergencia de los "señores feudales" y "la desintegración del macrocontrol". </seg>
       </tuv>
     </tu>
     <tu>
@@ -10050,8 +10050,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Thus, Chen was quoted as saying, “[a]s leading cadres, we must pay attention to exchanging views with others, especially those who hold views opposite from our own.”27</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160909T153252Z">
-        <seg>Por eso se citó a Chen diciendo, "como principal cuadro, debemos prestar atención al intercambio de opiniones con otros, en especial a aquellos que no piensan igual que nosotros". 27</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T154025Z">
+        <seg>Por eso se citó a Chen diciendo, "como principal cuadro, debemos prestar atención al intercambio de opiniones con otros, en especial a aquellos que no piensan igual que nosotros".</seg>
       </tuv>
     </tu>
     <tu>
