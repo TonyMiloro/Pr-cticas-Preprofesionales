@@ -4138,6 +4138,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following the 14th Party Congress</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T010014Z" creationid="constanza" creationdate="20160909T010014Z">
+        <seg>Después del XIV Congreso del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Following the Tiananmen upheaval, it will be recalled, Deng Xiaoping, in consultation with Chen Yun and Li Xiannian, selected Jiang Zemin as the "core" of the third gener- ation of leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160904T234822Z">
@@ -7501,8 +7509,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Prior to the 14th Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T005934Z" creationid="constanza" creationdate="20160909T005934Z">
-        <seg>Antes </seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T005949Z" creationid="constanza" creationdate="20160909T005934Z">
+        <seg>Antes del XIV Congreso del Partido</seg>
       </tuv>
     </tu>
     <tu>
