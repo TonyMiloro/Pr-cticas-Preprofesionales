@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7831,6 +7831,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020733Z">
         <seg>El presidente Clinton respaldó este enfoque no solo en su discurso de aceptación (sin "contemplar a dictadores desde Bagdad hasta Pekín”) sino también en su viaje de 1993 a Japón y Corea del Sur.30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>President Clinton sided with his domestic advisers and&lt;t30/&gt; &lt;t31/&gt;requested that the USTR go back to the negotiating table to ask for both&lt;t32/&gt; &lt;t33/&gt;extended protection for textiles and added assurances against large-scale&lt;t34/&gt; &lt;t35/&gt;increases in imports.35 Thus it was that, when Zhu &lt;t36/&gt;Rongji’s&lt;t37/&gt; plane touched&lt;t38/&gt; &lt;t39/&gt;down on April 6, the stage was set for one of the most conspicuous foreign&lt;t40/&gt; &lt;t41/&gt;policy failures of recent years.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160909T213529Z">
+        <seg>El Presidente Clinton apoyó a sus consejeros en política interna y solicitó que el USTR retomara las negociaciones para solicitar la extención de la protección a las textiles y la incorporación de seguros contra los aumentos cuantiosos de las importaciones. Tanto fue así que, cuando el avión de Zhu Rongji aterrizó el 6 de abril, las condiciones ya estaban dadas para uno de los fracasos más sobresalientes en política externa de los últimos años.</seg>
       </tuv>
     </tu>
     <tu>
