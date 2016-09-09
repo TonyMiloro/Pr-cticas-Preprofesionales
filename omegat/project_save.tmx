@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4434,6 +4434,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freedom would not develop and authority would be dispersed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174750Z" creationid="Pc" creationdate="20160909T174750Z">
+        <seg>La libertad no se desarrollaría y la autoridad se dispersaría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From Deng Xiaoping to Hu Jintao</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023033Z">
@@ -5214,6 +5222,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T234607Z">
         <seg>Nueva edición del innovador análisis sobre el cambio político y social que ha tenido lugar en China desde la represión en la Plaza de Tiananmén en 1989. Joseph Fewsmith sigue el desarrollo de estos cambios desde el 2001.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a self-conscious imitation of The Communist Manifesto, Wu began, “there is a strange spirit that has sprouted wings and flown through the forest of the intellectual world, and that is the 83 P1: SJT 9780521866934c03 CUUK1178/Fewsmith 9780521866934 June 6, 2008 22:2 84 China since Tiananmen intellectual tide of the new authoritarianism” (xin quanwei zhuyi).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174655Z" creationid="Pc" creationdate="20160909T174655Z">
+        <seg>En una imitación consiente del “Manifiesto comunista”, Wu expresó, "Existe un espíritu desconocido que ha desplegado sus alas y se ha echado a volar por la selva del mundo intelectual, y esa es la marea intelectual del neo-autoritarismo (xin quanwei zhuyi). </seg>
       </tuv>
     </tu>
     <tu>
@@ -7515,6 +7531,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One trend that emerged in the1980s was that of “new authoritarianism,” which re-emerged in the 1990s as “neoconservatism.” Although few in government, or even in intellectual circles, would lay claim to the title “neoconservative,” the impact of the ideas associated with it on the thinking of the political leadership was clear, particularly in the early to mid-1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174614Z" creationid="Pc" creationdate="20160909T174614Z">
+        <seg>Una tendencia que surgió en la década de los 80 fue la de "neo-autoritarismo" que resurgió en la década de los 90 como "neoconservadurismo". Aunque algunos integrantes del gobierno, o incluso aquellos pertenecientes a círculos intelectuales, reivindicarían la denominación "neoconservadurismo", las ideas que se le asocian tuvieron un impacto evidente en el pensamiento de liderazgo político, sobre todo entre principios y mediados de la década de los 90.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One was an evaluation of reform: whereas Li Peng insisted that reform had led to various “dislocations” in the economy, the provinces insisted that reform be affirmed and written into the Eighth Five-Year Plan.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T125342Z">
@@ -7551,6 +7575,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T130630Z">
         <seg>A través de los años, la reforma permitió a las provincias acumular recursos considerables, principalmente en la forma de ingresos extra presupuestarios, los cuales los liberaban de la dependencia del gobierno central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over time, the government took increasing account of this public opinion, sometimes absorbing ideas from it, sometimes engaging it, and sometimes suppressing it.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174535Z" creationid="Pc" creationdate="20160909T174535Z">
+        <seg>Con el tiempo, el gobierno tuvo más en cuenta esta opinión pública, en ocasiones adoptó ideas de ésta, se involucró en ésta o la reprimió. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8315,6 +8347,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Society needed to develop through three stages, Wu maintained: first a stage of traditional authoritarianism, then an intermediate stage in which individual freedom could develop under the protection of new authoritarianism, and finally a stage of freedom and democracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174715Z" creationid="Pc" creationdate="20160909T174715Z">
+        <seg>Wu sostuvo que la sociedad necesitaba desarrollarse en tres etapas. En primer lugar, una etapa de autoritarismo tradicional. En segundo lugar, una etapa intermedia en donde la libertad individual pudiera desarrollarse bajo la protección del neo-autoritarismo y, por último, una etapa de libertad y democracia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Socioeconomic changes</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T203554Z">
@@ -9070,6 +9110,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first public glimpse of this trend came on January 16, 1989, when Shanghai’s reform-oriented newspaper, the World Economic Herald, published an article by Wu Jiaxiang, then a young researcher with the General Office of the Central Committee.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174633Z" creationid="Pc" creationdate="20160909T174633Z">
+        <seg>La primera vez que la sociedad vislumbró esta tendencia fue el 16 de enero de 1989 cuando el periódico de orientación reformista de Shanghái, el World Economic Herald, publicó un artículo  escrito por Wu Jiaxiang, en aquel entonces un investigador joven de la Secretaría General del Comité Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first was the degree to which China’s policies would change to reflect the social challenges discussed above, and the second was the degree to which power could be transferred smoothly.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160907T234710Z">
@@ -9114,6 +9162,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160827T002806Z">
         <seg>La interacción entre el estado y la opinión pública es compleja, sutil y a veces complicada a la vista de terceros; sin embargo, es un aspecto importante del proceso político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The intermediate stage of new authoritarianism was necessary, Wu argued, because otherwise the crumbling authority of traditional authoritarian rule would be captured by a variety of social structures and forces, preventing both individual freedom and necessary central authority.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174745Z" creationid="Pc" creationdate="20160909T174745Z">
+        <seg>La etapa intermedia del neo autoritarismo era necesaria, argumentó Wu, si no la autoridad debilitada del gobierno autoritario tradicional sería tomada por una serie de estructuras y fuerzas sociales que prevendrían tanto la libertad individual como la autoridad central requerida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9282,6 +9338,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160906T004857Z">
         <seg>La publicidad que se le dio a varios casos de proteccionismo regional de gran importancia (la "guerra de la seda", la "guerra del algodón", etc.) reforzó la idea de que el gobierno central estaba perdiendo el control de las provincias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purpose of Part II is to focus on intellectual developments in the 1990s; in Part III, we will look more closely at the government–intellectual interaction.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174554Z" creationid="Pc" creationdate="20160909T174554Z">
+        <seg>La finalidad de la Parte II es enfocarse en los desarrollos intelectuales de los 90. En la Parte III estudiaremos la interacción gubernamental e intelectual con más detalle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9474,6 +9538,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T130536Z">
         <seg>El ex "director honorario" Xiao Ke fue jefe de estado del EPL (Ejército Popular de Liberación), el director Gu Mu fue miembro de la secretaría y los "asesores en jefe", entre ellos personalidades reconocidas tales como el general retirado Zhang Aiping, el ex jefe de edición del &lt;t12/&gt;People's Daily &lt;t13/&gt;Qin Chuan, el ex líder de la Comisión Económica del Estado Yuan Baohua y el ex miembro de la secretaría Yan Mingfu.&lt;t14/&gt;68&lt;t15/&gt; El editor de  &lt;t16/&gt;Gestión y Estrategia&lt;t17/&gt; fue Qin Chaoying, hijo del&lt;t18/&gt; ex jefe de edición del &lt;t19/&gt;People's Daily&lt;t20/&gt;, Qin Chuan, aunque la dirección editorial fue principalmente de&lt;t21/&gt; Yang Ping y Wang Xiaodong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “new” in new authoritarianism referred to self-conscious use of authority to guide society through this treacherous intermediate stage, blocking those forces that would otherwise prevent the development of individual freedom from forming and thus guiding society safely through to a free, democratic, and modern society.1 Chinese intellectuals began exploring the idea of new authoritarianism in 1986.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174823Z" creationid="Pc" creationdate="20160909T174823Z">
+        <seg>El "neo" de "neo-autoritarismo" se remitía al uso consiente de la autoridad para guiar a la sociedad por esta etapa intermedia peligrosa. Así, bloquearía aquellas fuerzas que de lo contrario prevendrían que se conciba el desarrollo de la libertad individual y, por lo tanto, el neo-autoritarismo podría guiar a la sociedad con seguridad hacia una sociedad libre, democrática y moderna1.Los intelectuales de China comenzaron a explorar la idea del neo-autoritarismo en 1986. </seg>
       </tuv>
     </tu>
     <tu>
