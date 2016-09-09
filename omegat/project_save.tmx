@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2432,14 +2432,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>As reviewed by Wang Hui, the editor of Reading whose views were discussed in the previous chapter,&lt;s0/&gt;&lt;t1/&gt;Huntington’s essay reflected a “strong tendency toward Western cultural centrism” that “stimulated cultural nationalism” in China because it led many Chinese intellectuals to think “they were alien to Western cultures.”36</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T222915Z">
-        <seg>Como lo analizó Wang Hui, el editor de Reading cuyas opiniones se discutieron en capítulos anteriores, el ensayo de Hungtinton reflejó una "fuerte tendencia hacia el centrismo cultural occidental" que "estimuló el nacionalismo cultural" en China porque llevó a muchos intelectuales a pensar que "ellos eran ajenos a las culturas occidentales."36</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>As the 1980s wore on, China’s intellectual establishment diversified.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T045257Z">
@@ -3170,8 +3162,8 @@
       <tuv lang="EN-US">
         <seg>China, growing at double-digit rates, shared in this confidence.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T214401Z">
-        <seg>China, que crecía con índices de doble dígito también creía en esta confianza. </seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021100Z">
+        <seg>China, que crecía con índices de doble dígito también, creía en esa confianza. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,8 +3218,8 @@
       <tuv lang="EN-US">
         <seg>Chinese responses to Huntington’s article varied, but many took umbrage – seeing the article as a declaration of Western (and specifically American) superiority, or worse as racially tinged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T221713Z">
-        <seg>Las respuestas chinas al artículo de Huntington variaron, pero muchas fueron tomadas con resentimiento, vieron el artículo como la declaración de superioridad del occidente (y especialmente la superioridad estadounidense) o lo que es peor con un tinte racial. </seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021342Z">
+        <seg>Las respuestas chinas al artículo de Huntington variaron, pero muchas fueron tomadas con resentimiento, vieron el artículo como la declaración de superioridad del Occidente (y especialmente la superioridad estadounidense) o lo que es peor con un tinte racial.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -4812,8 +4804,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>If only the United States would cane a few people, he suggested, US society would not be in such disarray.34 Soon Malaysian Prime Minister Mohamad Mahathir joined with Shintaro Ishihara to write The Voice of Asia,35 and the debate over Asian values was in full swing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T220842Z">
-        <seg>Sugirió que si Estados Unidos castigara a algunas personas, la sociedad estadounidense no sería tal caos.34 Pronto el Primer Ministro malayo Mohamad Mahathir se reunió con  Shintaro Ishihara para escribir  The Voice of Asia,35 y el debate sobre los valores asiáticos estaba en plena marcha.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021259Z">
+        <seg>El ministro principal de Singapur Lee Kuan Yew disfrutó de ese momento y sermoneó a Estados Unidos. Sugirió que si Estados Unidos castigara a algunas personas, la sociedad de EE. UU. no tendría tal caos.34 </seg>
       </tuv>
     </tu>
     <tu>
@@ -5820,8 +5812,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It was into this atmosphere that Huntington launched his article.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T220954Z">
-        <seg>Fue dentro de  esta atmósfera que Huntington lanzó su artículo.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021310Z">
+        <seg>Fue dentro de esa atmósfera que Huntington lanzó su artículo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8512,8 +8504,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The West loudly objected to the court-decreed caning of Michael Fay, an expatriate accused of vandalism, saying that such corporal pun-ishment was a violation of human rights.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T220247Z">
-        <seg>El occidente objetó fuertemente el castigo decretado por la Corte para Michael Fay, un expatriado acusado de vandalismo, diciendo que tal castigo corporal era una violación a los derechos humanos.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021229Z">
+        <seg>El Occidente objetó fuertemente el castigo decretado por la Corte para Michael Fay, un expatriado acusado de vandalismo, diciendo que tal castigo corporal era una violación a los derechos humanos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8640,8 +8632,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The curious incident of Michael Fay brought these various feelings together.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T215347Z">
-        <seg>El curioso incidente de Michael Fay puso todos estos sentimientos juntos.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021148Z">
+        <seg>El curioso incidente de Michael Fay puso todoas estas creencias juntas.</seg>
       </tuv>
     </tu>
     <tu>
