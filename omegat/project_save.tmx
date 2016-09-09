@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2538,8 +2538,8 @@
       <tuv lang="EN-US">
         <seg>As “Realistic Responses” and the editorial board of &lt;t30/&gt;Strategy&lt;t31/&gt; &lt;t32/&gt;and Management &lt;t33/&gt;suggested, this was a g&lt;t34/&gt;roup of youth who were well con&lt;t35/&gt;nected with higher-ups in the Party but who were also frustrated by what they regarded as the lack of new ideas and forceful leadership of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T114659Z">
-        <seg>Como sugirió “Respuestas Realistas” y el consejo editorial de &lt;t30/&gt;Gestión&lt;t31/&gt; &lt;t32/&gt;y Estrategia&lt;t33/&gt;, este era un grupo &lt;t34/&gt;de jóvenes que estaba en contacto con personas muy influyentes dentro del Partido, pero que a su vez se sintieron decepcionados por la falta de nuevas ideas y el liderazgo pujante del Partido&lt;t35/&gt;.</seg>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T115233Z">
+        <seg>Como sugirió “Realistic Responses” y el consejo editorial de &lt;t30/&gt;Gestión&lt;t31/&gt; &lt;t32/&gt;y Estrategia&lt;t33/&gt;, este era un grupo &lt;t34/&gt;de jóvenes que estaba en contacto con personas muy influyentes dentro del Partido, pero que a su vez se sintieron decepcionados por la falta de nuevas ideas y el liderazgo pujante del Partido&lt;t35/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8720,8 +8720,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The articles were not particularly inflammatory – certainly much less so than Wang Shan’s book &lt;t4/&gt;Looking at China through a Third Eye&lt;t5/&gt;, pub&lt;t6/&gt;lished later the same year – but they did raise some important issues.&lt;t7/&gt;69&lt;t8/&gt; For instance, Pi Mingyong (from the Academy of Military Sciences) argued that nationalism &lt;t9/&gt;had been a difficult issue in twentieth-century China because it was necessarily compromised.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T114750Z">
-        <seg>Los artículos no eran en si provocativos, sin duda mucho menos que el libro &lt;t4/&gt;"Viendo a China a través de un tercer ojo" &lt;t5/&gt;de Wang Shan,&lt;t6/&gt; publicado posteriormente ese mismo año, pero si se plantearon problemas importantes.&lt;t7/&gt;69&lt;t8/&gt; Por ejemplo, Pi Mingyong (de la Academia de Ciencias Militares) sostenía que el nacionalismo &lt;t9/&gt;ha sido un problema en el siglo XX en China porque estaba necesariamente comprometido.</seg>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T114915Z">
+        <seg>Los artículos no eran en si provocativos, sin duda mucho menos que el libro &lt;t4/&gt;"Viendo a China a través de un tercer ojo" &lt;t5/&gt;de Wang Shan,&lt;t6/&gt; publicado posteriormente ese mismo año, pero si se plantearon problemas importantes.&lt;t7/&gt;69&lt;t8/&gt; Por ejemplo, Pi Mingyong (de la Academia de Ciencias Militares) sostenía que el nacionalismo &lt;t9/&gt;ha sido un problema en el siglo XX en China porque estaba inevitablemente en riesgo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9368,8 +9368,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The “great nationalism” of the Han Chinese conflicted with the “small nationalism” of the minority nationalities, Pi wrote, while the anti-traditionalism of th&lt;t10/&gt;e nationalistic May Fourth Move&lt;t11/&gt;ment denigrated the history of the very people it hoped to lift up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160908T142749Z">
-        <seg>Pi escribió que cuando el “gran nacionalismo” del grupo étnico de los Han entró en conflicto con el “pequeño nacionalismo” de las naciones minoritarias, el anti tradicionalismo del&lt;t10/&gt; Movimiento nacionalista del Cuatro de Mayo deshonró la historia de todas las personas que esperaban mejorarlo. &lt;t11/&gt;</seg>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T114921Z">
+        <seg>Pi escribió que cuando el “gran nacionalismo” del grupo étnico de los Han entró en conflicto con el “pequeño nacionalismo” de las naciones minoritarias, el antitradicionalismo del&lt;t10/&gt; Movimiento nacionalista del Cuatro de Mayo deshonró la historia de todas las personas que esperaban mejorarlo. &lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
