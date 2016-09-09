@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5956,8 +5956,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It celebrated the Three Represents (sange daibiao),called for “keeping pace with the times”(yushi jujin),and declared that the “strategic adjustment of the economic structure has been crowned with success” and that “it is of vital importance to take economic development as the main task.” The report recognized that there were problems in society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004324Z">
-        <seg>Celebraba la Triple Representatividad (sange daibiao) que propugnaba “seguir el ritmo” (yushi jujin) y declaraba que “el cambio estratégico de la estructura económica había sido coronado por el éxito” y que “ es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas en la sociedad.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160909T230836Z">
+        <seg>Celebraba la Triple Representatividad (sange daibiao) que propugnaba “seguir el ritmo” (yushi jujin) y declaraba que “el cambio estratégico de la estructura económica había sido coronado por el éxito” y que “es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas en la sociedad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6220,8 +6220,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Jiang Zemin, of course, was from Yangzhou, in the lower Yangtze River valley, and had spent most of his career in Shanghai.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003210Z">
-        <seg>Jiang Zemin era ,por supuesto, de Yangzhou, de la parte baja del valle del río Yangtze y pasó la mayor parte de su carrera en Shanghái.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160909T230653Z">
+        <seg>Jiang Zemin era, por supuesto, de Yangzhou, de la parte baja del valle del río Yangtze y pasó la mayor parte de su carrera en Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,8 +6308,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Jiang’s prot´eg´e, Zeng Qinghong, to whom Jiang often seemed to want to transfer power, had also spent his career in Shanghai, though his youth was spent in his ancestral home of Jiangxi.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003249Z">
-        <seg>Su protegido, Zeng Qinghong, a quién al parecer Jiang simpre quiso transferirle el poder, también pasó su carrera en Shanghái, aunque durante su juventud vivió en su antiguo hogar de Jiangxi.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160909T230612Z">
+        <seg>Su protegido, Zeng Qinghong, a quién al parecer Jiang simpre quiso transferirle el poder, también pasó su carrera en Shanghái, aunque durante su juventud vivió en su antiguo hogar en Jiangxi.</seg>
       </tuv>
     </tu>
     <tu>
