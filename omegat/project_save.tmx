@@ -1647,6 +1647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;It was a diverse and not very coherent movement, drawing on people with distinctly different attitudes and statuses within the Chinese system.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T032306Z" creationid="daiana" creationdate="20160909T032306Z">
+        <seg>&lt;s0/&gt;Era un movimiento diverso y no muy coherente, que inspiraba a las personas con actitudes y posiciones sociales bien diferenciadas dentro del sistema chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;The Dengist era reversed these policies by stopping large-scale investments in the third front and by curtailing transfer payments, thus allowing China’s “natural economy” to reassert itself.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160907T020402Z">
@@ -7523,6 +7531,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prior to 1993, neoconservatism consisted primarily of the ruminations of a handful of intellectuals.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T032128Z" creationid="daiana" creationdate="20160909T032128Z">
+        <seg>Antes de 1993, el neoconservadurismo consistía fundamentalmente en las reflexiones de unos pocos intelectuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prior to the 14th Party Congress</seg>
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160909T005949Z" creationid="constanza" creationdate="20160909T005934Z">
@@ -8736,8 +8752,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The enlightenment tradition under challenge</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T210803Z">
-        <seg>La tradición de la Ilustración bajo amenaza</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T032039Z">
+        <seg>La tradición de la Ilustración en tela de juicio</seg>
       </tuv>
     </tu>
     <tu>
