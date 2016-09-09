@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1914,8 +1914,8 @@
       <tuv lang="EN-US">
         <seg>After a four-month, often vitriolic, campaign against bourgeois liberalization that targeted three well-known intellectuals – astrophysicist Fang Lizhi, investigative journalist Liu Binyan, and writer Wang Ruowang – Deng and Zhao engineered a dramatic turnaround in the political atmosphere.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160908T022736Z">
-        <seg>Luego de una campaña, muchas veces mordaz, de cuatro meses en contra de la liberación burguesa que fue dirigida hacia tres reconocidos intelectuales: el astrofísico Fang Lizhi, el periodista investigador Liu Binyan, y el escritor Wang Rouwang, Deng y Zhao idearon un cabio de rumbo en el ambiente político.</seg>
+      <tuv lang="ES-US" changeid="Lu" changedate="20160909T014726Z">
+        <seg>Luego de una campaña de cuatro meses, muchas veces mordaz, en contra de la liberación burguesa que fue dirigida hacia tres reconocidos intelectuales: el astrofísico Fang Lizhi, el periodista investigador Liu Binyan, y el escritor Wang Rouwang, Deng y Zhao idearon un cambio de rumbo en el ambiente político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4988,8 +4988,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In April, Deng told visiting Spanish Socialist Workers Party leader Alfonso Guerra that leftism was the “main danger” facing the Party.41 Shortly thereafter, on May 13, Zhao Ziyang gave a major inner-Party speech, asking rhetorically but sharply: “Who would be responsible if the current [economic] policies were interpreted as liberalization?”42 On the July 1 anniversary of the Party’s founding, the People’s Daily reprinted Deng’s controversial 1980 speech “On Reform of the Party and State Leadership Structure,” setting the tone for the upcoming Thirteenth Party Congress, which for the first time addressed the issue of political reform.43</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160905T001016Z">
-        <seg>En abril, Deng le manifestó al líder del Partido Socialista Obrero Español Alfonso Guerra que el izquierdismo fue la "mayor amenaza" que tuvo que afrontar el Partido.41 Poco después, el 13 de Mayo, Zhao Ziyang dió un discurso partidario, y preguntó de forma retórica, pero clara a la vez: "¿Quién se responsabilizará si las políticas [económicas] actuales son interpretadas como una forma de liberalización?".42 En julio durante el primer aniversario de la fundación del Partido, el diario People´s Daily reeditó el polémico discurso de Deng de 1980 "La Reforma del Partido y la Estructura del Liderazgo Estatal", el cuál sentó las pautas para el futuro Decimotercer Congreso Partidario, en dónde se trató por primera vez el tema de la reforma política. 43</seg>
+      <tuv lang="ES-US" changeid="Lu" changedate="20160909T014919Z">
+        <seg>En abril, Deng le manifestó al líder del partido socialista obrero español Alfonso Guerra que el izquierdismo fue la "mayor amenaza" que tuvo que afrontar el partido.41 Poco después, el 13 de mayo, Zhao Ziyang dio un discurso partidario, y preguntó de forma retórica, pero clara a la vez: "¿Quién se responsabilizará si las políticas [económicas] actuales son interpretadas como una forma de liberalización?".42 En julio durante el primer aniversario de la fundación del Partido, el diario People´s Daily reeditó el polémico discurso de Deng de 1980 "La Reforma del Partido y la Estructura del Liderazgo Estatal", el cuál sentó las pautas para el futuro Decimotercer Congreso Partidario, en dónde se trató por primera vez el tema de la reforma política. 43</seg>
       </tuv>
     </tu>
     <tu>
