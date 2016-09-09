@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1809,8 +1809,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t36/&gt;And it is clear that this was a decision, not an absence of knowledge; Guangdong health authorities had reported the new virus to B&lt;t37/&gt;eijing in &lt;t38/&gt;November, &lt;t39/&gt;and one bold Guangdong newspaper,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;had&lt;t47/&gt; &lt;t48/&gt;reported&lt;t49/&gt; &lt;t50/&gt;on&lt;t51/&gt; &lt;t52/&gt;the&lt;t53/&gt; &lt;t54/&gt;disease&lt;t55/&gt; &lt;t56/&gt;in&lt;t57/&gt; &lt;t58/&gt;December.&lt;t59/&gt; &lt;t60/&gt;It &lt;t61/&gt;was not until April &lt;t62/&gt;2&lt;t63/&gt;, &lt;t64/&gt;2003&lt;t65/&gt;, &lt;t66/&gt;however, &lt;t67/&gt;that the newly named &lt;t68/&gt;premier, &lt;t69/&gt;Wen &lt;t70/&gt;Jiabao, presided over a State Council meeting that discussed the SAR&lt;t71/&gt;S issue.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160909T114948Z">
-        <seg>&lt;t36/&gt;Y queda claro que fue una decisión y no falta de conocimiento; las autoridades del área de salud de Cantón habían enviado información sobre el virus&lt;t37/&gt;a Pekín&lt;t38/&gt;en noviembre, &lt;t39/&gt;y un audaz periódico de Cantón,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;había&lt;t47/&gt; &lt;t48/&gt;emitido&lt;t49/&gt; &lt;t50/&gt;un&lt;t51/&gt; &lt;t52/&gt;informe&lt;t53/&gt; &lt;t54/&gt;sobre&lt;t55/&gt; &lt;t56/&gt;la&lt;t57/&gt; &lt;t58/&gt;enfermedad en diciembre.&lt;t59/&gt; &lt;t60/&gt;Sin embargo, fue&lt;t61/&gt;recién el 2 de abril &lt;t62/&gt;del año&lt;t63/&gt;2003&lt;t64/&gt;cuando&lt;t65/&gt;Wen&lt;t66/&gt;Jiabao&lt;t67/&gt;,&lt;t68/&gt;el nuevo premier&lt;t69/&gt;,&lt;t70/&gt;presidió una reunión en el Consejo de Estado para discutir el problema&lt;t71/&gt;del SRAS.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160909T115234Z">
+        <seg>&lt;t36/&gt;Y queda claro que fue una decisión y no falta de conocimiento; las autoridades del área de salud de Cantón habían enviado información sobre el virus&lt;t37/&gt;a Pekín&lt;t38/&gt;en noviembre, &lt;t39/&gt;y un audaz periódico de Cantón,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;había&lt;t47/&gt; &lt;t48/&gt;emitido&lt;t49/&gt; &lt;t50/&gt;un&lt;t51/&gt; &lt;t52/&gt;informe&lt;t53/&gt; &lt;t54/&gt;sobre&lt;t55/&gt; &lt;t56/&gt;la&lt;t57/&gt; &lt;t58/&gt;enfermedad en diciembre.&lt;t59/&gt; &lt;t60/&gt;Sin embargo, fue&lt;t61/&gt;recién el 2 de abril &lt;t62/&gt;del año&lt;t63/&gt;2003&lt;t64/&gt;cuando&lt;t65/&gt;Wen&lt;t66/&gt;Jiabao&lt;t67/&gt;,&lt;t68/&gt;el nuevo Primer Ministro&lt;t69/&gt;,&lt;t70/&gt;presidió una reunión en el Consejo de Estado para discutir el problema&lt;t71/&gt;del SRAS.</seg>
       </tuv>
     </tu>
     <tu>
