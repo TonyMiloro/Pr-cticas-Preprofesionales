@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6940,8 +6940,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nationalism, particularly anti-Americanism, was central to He Xin’s views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T180113Z">
-        <seg>El nacionalismo, especialmente el anti-americanismo, era primordial para el punto de vista de He Xin.</seg>
+      <tuv lang="ES-US" changeid="Giuliano" changedate="20160909T120141Z">
+        <seg>El nacionalismo, especialmente el anti-americanismo, era central en las ideas de He Xin.</seg>
       </tuv>
     </tu>
     <tu>
