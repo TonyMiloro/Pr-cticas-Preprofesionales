@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24,7 +24,7 @@
       <tuv lang="EN-US">
         <seg>*Died February 1993</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224648Z" creationid="constanza" creationdate="20160908T224648Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224648Z">
         <seg>*Murió en febrero de 1993</seg>
       </tuv>
     </tu>
@@ -1641,7 +1641,7 @@
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;It was a diverse and not very coherent movement, drawing on people with distinctly different attitudes and statuses within the Chinese system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T032306Z" creationid="daiana" creationdate="20160909T032306Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T032306Z">
         <seg>&lt;s0/&gt;Era un movimiento diverso y no muy coherente, que inspiraba a las personas con actitudes y posiciones sociales bien diferenciadas dentro del sistema chino.</seg>
       </tuv>
     </tu>
@@ -1777,7 +1777,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t23/&gt;Hu&lt;t24/&gt; was favorably impressed by the report and forwarded it to &lt;t25/&gt;Hu&lt;t26/&gt; &lt;t27/&gt;Yaobang&lt;t28/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180228Z" creationid="Pc" creationdate="20160909T180228Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180228Z">
         <seg>&lt;t23/&gt;Hu&lt;t24/&gt;se deslumbró con el informe y se lo envió a &lt;t25/&gt;Hu&lt;t26/&gt; &lt;t27/&gt;Yaobang&lt;t28/&gt;.</seg>
       </tuv>
     </tu>
@@ -1906,7 +1906,7 @@
       <tuv lang="EN-US">
         <seg>According to one report, at least 57 billion yuan was diverted in early 1993 through interbank loans to the coastal areas, where it was used to speculate in real estate and the stock market.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160908T193423Z" creationid="PC" creationdate="20160908T193423Z">
+      <tuv lang="ES-US" changeid="PC" changedate="20160908T193423Z">
         <seg>De acuerdo con un informe, se desviaron al menos 57 000 millones de yuanes a principios de 1993 a través de préstamos interbancarios a las zonas costeras, donde fue utilizado para la  especulación en el sector inmobiliario y el mercado de valores. </seg>
       </tuv>
     </tu>
@@ -1994,7 +1994,7 @@
       <tuv lang="EN-US">
         <seg>Alternate Member</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224625Z" creationid="constanza" creationdate="20160908T224531Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224625Z">
         <seg>Miembro suplente</seg>
       </tuv>
     </tu>
@@ -2002,7 +2002,7 @@
       <tuv lang="EN-US">
         <seg>Alternate Members</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T023334Z" creationid="constanza" creationdate="20160909T021946Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T023334Z">
         <seg>Miembros suplentes</seg>
       </tuv>
     </tu>
@@ -2042,7 +2042,7 @@
       <tuv lang="EN-US">
         <seg>Although he publicly &lt;t0/&gt;identiﬁed&lt;t1/&gt; himself with the regime, his writings and interviews reveal little knowledge of or interest in Marxism; what concerned He was the power of the central government &lt;t2/&gt;vis-`a-vis&lt;t3/&gt; the localities, the stability of society, and China’s position in the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T200103Z" creationid="Melanie" creationdate="20160908T191137Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T200103Z">
         <seg>Aunque se &lt;t0/&gt;identificaba&lt;t1/&gt; públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central &lt;t2/&gt;en relación con&lt;t3/&gt; las localidades, la estabilidad de la sociedad y la posición de China en el mundo.</seg>
       </tuv>
     </tu>
@@ -2050,7 +2050,7 @@
       <tuv lang="EN-US">
         <seg>Although he publicly &lt;t2/&gt;identiﬁed&lt;t3/&gt; himself with the regime, his writings and interviews reveal little knowledge of or interest in Marxism; what concerned He was the power of the central government &lt;t4/&gt;vis-`a-vis&lt;t5/&gt; the localities, the stability of society, and China’s position in the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184412Z" creationid="Melanie" creationdate="20160908T184412Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184412Z">
         <seg>Aunque se identificaba públicamente con el régimen, sus escritos y entrevistas demuestran poco conocimiento de o interés en el Marxismo. Lo que a He le preocupaba era el poder del gobierno central en relación con las localidades; la estabilidad de la sociedad y la posición de China en el mundo.</seg>
       </tuv>
     </tu>
@@ -2074,7 +2074,7 @@
       <tuv lang="EN-US">
         <seg>Although his policies had been under nearly constant attack since 1989 and Chen Yun’s economic thought had been repeatedly written into speeches and policy documents, the Fourteenth Party Congress lauded Deng for his “tremendous political courage in opening up new paths in socialist construction and a tremendous theoretical courage in opening up a new</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224210Z" creationid="constanza" creationdate="20160908T224210Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224210Z">
         <seg>A pesar de que sus políticas habían sufrido un ataque casi constante desde 1989 y que, el pensamiento económico de Chen Yun había sido incluido varias veces en discursos y en documentos políticos, el XIV Congreso Nacional del Partido elogió a Deng por su “gran valor político al abrir una nueva</seg>
       </tuv>
     </tu>
@@ -2090,7 +2090,7 @@
       <tuv lang="EN-US">
         <seg>Although many of these issues were implicit in much Chinese writing of the early 1990s, it was, ironically, Samuel Huntington’s 1993 article in Foreign Affairs, “The Clash of Civilizations?,” that really jelled the discussion and gave it focus.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020112Z" creationid="Rocio" creationdate="20160909T020112Z">
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020112Z">
         <seg>Aunque muchos de estos temas estaban implícitos en la mayoría de las obras chinas de principios de los 90, fue irónicamente el artículo de 1993 de Samuel Huntington publicado en Foreign Affairs, "El choque de civilizaciones" que realmente aceitó la discusión y le dio foco. </seg>
       </tuv>
     </tu>
@@ -2114,7 +2114,7 @@
       <tuv lang="EN-US">
         <seg>Although more extreme – particularly with regard to his nationalism – than other neoconservatives, He shared many of the basic orientations of &lt;t0/&gt;t&lt;t1/&gt;his approach.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184358Z" creationid="Melanie" creationdate="20160908T184358Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184358Z">
         <seg>A pesar de que era más extremista que otros neoconservadores, en especial en lo que respecta a su nacionalismo, He compartía muchas de las orientaciones básicas de este enfoque. </seg>
       </tuv>
     </tu>
@@ -2178,7 +2178,7 @@
       <tuv lang="EN-US">
         <seg>Although the public nature of this debate ended with the crackdown of June 1989, the themes that it raised informed thinking among intellectuals and policy-makers alike and laid the bases for new debates in the 1990s, debates that reprised the themes of those debates on new authoritarianism but also developed in new directions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T020643Z" creationid="Pc" creationdate="20160909T015328Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T020643Z">
         <seg>A pesar de que la índole pública de este debate terminó con las medidas punitivas de junio de 1989, los temas que planteó dicho debate formaron el pensamiento de los intelectuales como así también el de los responsables políticos, y sentó las bases para nuevas discusiones en la década de los 90, las cuales retomaron los temas de aquellos debates sobre el neoautoritarismo pero también se desarrollaron nuevas direcciones.</seg>
       </tuv>
     </tu>
@@ -2210,7 +2210,7 @@
       <tuv lang="EN-US">
         <seg>Although well connected with some conservative leaders, there was an unmistakable opportunism in He Xin’s xenophobic defenses of the government, which contrasted with Chen Yuan’s politically more important efforts to articulate an alternative economic agenda.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043156Z" creationid="daiana" creationdate="20160909T032610Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043156Z">
         <seg>Aunque se habían establecido buenas relaciones con algunos líderes conservadores, había un oportunismo inconfundible en las defensas xenófobas del gobierno de He Xin, las cuales se diferenciaban de los esfuerzos políticamente más importantes de Chen Yuan, que consistían en articular una nueva agenda económica alternativa.</seg>
       </tuv>
     </tu>
@@ -2218,7 +2218,7 @@
       <tuv lang="EN-US">
         <seg>Although “Realistic &lt;/f0&gt;&lt;f1&gt;Responses” called for readjusting central–local relations in favor of the center and rejected blind faith in market forces as “utopian capitalism,” it did not reconcile that agenda with either its acceptance of market forces (shy of blind faith) or with the continuing poor performance of stateowned enterprises and the rapid growth of the non-state sector that had accompanied the growth of market forces.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T034808Z" creationid="daiana" creationdate="20160909T034808Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T034808Z">
         <seg>Aunque “Realistic &lt;/f0&gt;&lt;f1&gt;Responses” exigía un reajuste de las relaciones centrales-locales a favor del centro y rechazaba la fe ciega en las fuerzas del mercado como "capitalismo utópico", no reconcilió esa agenda ya sea con su aceptación de la fuerzas del mercado (tímida de fe ciega) o con el bajo desempeño continuo de las empresas estatales y el rápido crecimiento del sector no estatal que había acompañado el crecimiento de las fuerzas del mercado</seg>
       </tuv>
     </tu>
@@ -2250,7 +2250,7 @@
       <tuv lang="EN-US">
         <seg>An orgy of real estate and stock speculation stimulated new income inequalities, between classes as well as between regions.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T040747Z" creationid="daiana" creationdate="20160909T040747Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T040747Z">
         <seg>Una orgía de bienes raíces y especulaciones bursátiles estimulaban nuevas desigualdades de ingreso entre las clases al igual que entre las regiones.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
@@ -2450,7 +2450,7 @@
       <tuv lang="EN-US">
         <seg>As perhaps the only intellectual to support the government in the days following Tiananmen, He quickly became a very public, and often reviled, &lt;t12/&gt;ﬁgure&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T195820Z" creationid="Melanie" creationdate="20160908T191112Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T195820Z">
         <seg>Como fue tal vez el único intelectual que apoyó al gobierno en los días que siguieron a Tiananmen, He se convirtió rápidamente en una &lt;t12/&gt;figura&lt;t13/&gt; muy pública y a menudo injuriada.</seg>
       </tuv>
     </tu>
@@ -2458,7 +2458,7 @@
       <tuv lang="EN-US">
         <seg>As perhaps the only intellectual to support the government in the days following Tiananmen, He quickly became a very public, and often reviled, &lt;t18/&gt;ﬁgure&lt;t19/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184335Z" creationid="Melanie" creationdate="20160908T184335Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184335Z">
         <seg>Como fue tal vez el único intelectual que apoyó al gobierno en los días que siguieron a Tiananmen, He se convirtió rápidamente en una figura muy pública e injuriada a menudo.</seg>
       </tuv>
     </tu>
@@ -2474,7 +2474,7 @@
       <tuv lang="EN-US">
         <seg>As reviewed by Wang Hui, the editor of Reading whose views were discussed in the previous chapter,&lt;s0/&gt;&lt;t1/&gt;Huntington’s essay reflected a “strong tendency toward Western cultural centrism” that “stimulated cultural nationalism” in China because it led many Chinese intellectuals to think “they were alien to Western cultures.”36</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021428Z" creationid="Rocio" creationdate="20160909T021428Z">
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021428Z">
         <seg>Como lo analizó Wang Hui, el editor de Reading cuyas opiniones se discutieron en capítulos anteriores, el ensayo de Huntington reflejó una "fuerte tendencia hacia el centrismo cultural occidental" que "acrecentó el nacionalismo cultural" en China porque llevó a muchos intelectuales a pensar que "eran ajenos a las culturas occidentales".36</seg>
       </tuv>
     </tu>
@@ -2498,7 +2498,7 @@
       <tuv lang="EN-US">
         <seg>As we have outlined, contemporary Chinese liberals identify themselves &lt;t0/&gt;with the May Fourth enlightenment tradition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151320Z" creationid="joaquin" creationdate="20160909T151320Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151320Z">
         <seg>Como lo hemos descrito, los liberales de la China contemporánea se identifican a sí mismos con la tradición progresista  del Cuatro de Mayo.</seg>
       </tuv>
     </tu>
@@ -2530,7 +2530,7 @@
       <tuv lang="EN-US">
         <seg>As we will see in this and the next two chapters, deep divisions opened up within the intellectual community, even as the place of that community in Chinese society changed significantly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174450Z" creationid="Pc" creationdate="20160909T174450Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174450Z">
         <seg>Como veremos en este capítulo y en los dos próximos, tuvieron lugar dos divisiones marcadas en la comunidad intelectual, aun cuando el lugar que ocupaba esa comunidad en la sociedad de China experimentó un cambio significativo.</seg>
       </tuv>
     </tu>
@@ -2754,7 +2754,7 @@
       <tuv lang="EN-US">
         <seg>Because of these trends, Deng’s call for renewed reform and economic development in 1992 did not cause many intellectuals simply to pick up where they had left off before and continue on the trajectory of liberal economic thought and Western-oriented reform that had dominated pre-1989 discussions.On the contrary, much of the discourse that emerged in the mid-1990s was affected by new concerns and new intellectual trends.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T041432Z" creationid="daiana" creationdate="20160909T041245Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T041432Z">
         <seg>Debido a estas tendencias, el pedido de Deng para una nueva reforma y desarrollo económico en 1992 no generó que muchos intelectuales simplemente retomaran donde habían dejado antes y continuaran en la trayectoria del pensamiento económico liberal y la reforma con orientación occidental que habían dominado las discusiones anteriores a 1989. Por el contrario, gran parte del discurso que surgió a mediados de la década de los 90 se vio afectado por nuevas preocupaciones y nueva tendencias intelectuales.</seg>
       </tuv>
     </tu>
@@ -2778,7 +2778,7 @@
       <tuv lang="EN-US">
         <seg>Because the term “left” has negative connotations for intellectuals,</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222046Z" creationid="ROMI" creationdate="20160908T222046Z">
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222046Z">
         <seg>Debido a que el término "izquierda" tiene connotaciones negativas para los intelectuales,</seg>
       </tuv>
     </tu>
@@ -2922,7 +2922,7 @@
       <tuv lang="EN-US">
         <seg>By 1998, the loose organizations of peasants began to coalesce into stronger organizations with tighter linkages among villages.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T195250Z" creationid="Agustín" creationdate="20160908T195113Z">
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T195250Z">
         <seg>En 1998, estas organizaciones informales de campesinos empezaron a unirse, forjando alianzas entre aldeas y creando así organizaciones más fuertes.</seg>
       </tuv>
     </tu>
@@ -2962,7 +2962,7 @@
       <tuv lang="EN-US">
         <seg>By the 1992–3 period, China was emerging from the shock caused by Tiananmen and the heavy-&lt;/f0&gt;&lt;f1&gt;h&lt;/f1&gt;&lt;f2&gt;anded propaganda campaign waged by the government against bourgeois liberalization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T041517Z" creationid="daiana" creationdate="20160909T035623Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T041517Z">
         <seg>Para el período de 1992–3, China estaba emergiendo de la conmoción producida por Tiananmén y de la &lt;/f0&gt;&lt;f1&gt; intensa &lt;/f1&gt;&lt;f2&gt; campaña de propaganda llevada a cabo por el gobierno en contra de la liberalización burguesa.</seg>
       </tuv>
     </tu>
@@ -2986,7 +2986,7 @@
       <tuv lang="EN-US">
         <seg>By the late 1990s, it was apparent that SOE reform could not be avoided.&lt;t2/&gt;27</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110322Z" creationid="Usuario" creationdate="20160909T110322Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110322Z">
         <seg>Hacia finales de la década de los 90, era evidente que una reforma en las empresas estatales era ineludible.&lt;t2/&gt;</seg>
       </tuv>
     </tu>
@@ -3194,7 +3194,7 @@
       <tuv lang="EN-US">
         <seg>Chen’s article picked up where the conservative critique of reform in 1989 and 1990 had left off.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160909T133617Z" creationid="Luisina" creationdate="20160909T015022Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160909T133617Z">
         <seg>El artículo de Chen tomó como punto de partida lo que había dejado la crítica conservadora de la reforma en 1989 y 1990. </seg>
       </tuv>
     </tu>
@@ -3770,7 +3770,7 @@
       <tuv lang="EN-US">
         <seg>Deng’s efforts over the preceding year and more, starting with his early 1991 trip to Shanghai and building momentum following the abortive coup in the&lt;s0/&gt;Soviet Union and with his trip to Shenzhen, ﬁnally culminated in October 1992 with the adoption by the Fourteenth Party Congress of the most liberal economic document in CCP history.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T004709Z" creationid="constanza" creationdate="20160908T223137Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T004709Z">
         <seg>Los esfuerzos que Deng realizó a lo largo del año anterior y más, que comenzaron con su viaje a Shangai a principios de 1991, el aprovechamiento del impulso que se produjo luego del fallido golpe de estado en la&lt;s0/&gt;Unión Soviética y su viaje a Shenzhen, concluyeron en octubre de 1992  con la adopción en el XIV Congreso Nacional del Partido del documento económico más liberal en la historia del PCCh.</seg>
       </tuv>
     </tu>
@@ -3884,7 +3884,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Disregarding those extreme voices associated with the Old Left, a new nationalism began to emerge.&lt;t7/&gt; Through the 1990s it has taken on many guises, ranging from &lt;t8/&gt;realpolitik&lt;t9/&gt; to discussions of post-colonialism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184308Z" creationid="Melanie" creationdate="20160908T184308Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184308Z">
         <seg>Sin tener en cuenta aquellas voces extremas relacionadas con la Vieja Izquierda, comenzó a surgir un nuevo nacionalismo. A través de los años 90, adquirió muchas formas, desde realpolitik hasta discusiones sobre poscolonialismo.</seg>
       </tuv>
     </tu>
@@ -3956,7 +3956,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Enlightenment intellec-tuals had not changed their focus on state autocracy to the analysis of the “complicated relations between state and society that were developing in the course of the formation of the capitalist market,” which in Wang’s view was the central issue of the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T221555Z" creationid="ROMI" creationdate="20160908T221555Z">
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T221555Z">
         <seg>Los intelectuales de la Ilustración no habian cambiado su foco de la autocracia estatal al análisis de las "relaciones complicadas entre el estado y la sociedad, que se estaban desarrollando al mismo tiempo que el mercado capitalista", lo que era la cuestión principal de los años noventa, según el punto de vista de Wang.</seg>
       </tuv>
     </tu>
@@ -4044,7 +4044,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Evidently viewing America as the more serious strategic threat (despite insisting repeatedly that it was in decline), He dropped his previous fears of Japan and urged allying with Japan (indeed, to become like “lips and teeth”).&lt;t22/&gt; He also urged supporting Germany in any disputes with the United States (suggesting that China should urge Germany to withdraw from NATO) and supporting Southeast Asia, lest America return to that region of the world and &lt;t23/&gt;threaten&lt;t24/&gt; China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T190225Z" creationid="Melanie" creationdate="20160908T185833Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T190225Z">
         <seg>Era evidente que He veía a Estados Unidos como la mayor amenaza estratégica (a pesar de haber insistido reiteradas veces en que estaba en un proceso de deterioro), así que abandonó los temores previos de Japón e insistió en una alianza con éste (de hecho, para llegar a ser como "carne y uña").&lt;t22/&gt;</seg>
       </tuv>
     </tu>
@@ -4092,7 +4092,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Fecha de Entrega</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Antonio" changedate="20160909T153057Z" creationid="Antonio" creationdate="20160909T153057Z">
+      <tuv lang="ES-US" changeid="Antonio" changedate="20160909T153057Z">
         <seg>Date of delivery</seg>
       </tuv>
     </tu>
@@ -4228,7 +4228,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Following Tiananmen, however, the West (and the US in particular) seemed threatening and subversive.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T194017Z" creationid="Melanie" creationdate="20160908T191017Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T194017Z">
         <seg>Sin embargo, después de Tiananmen, los países occidentales (en particular Estados Unidos) parecían subversivos y amenazadores.</seg>
       </tuv>
     </tu>
@@ -4236,7 +4236,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Following the 14th Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T010014Z" creationid="constanza" creationdate="20160909T010014Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T010014Z">
         <seg>Después del XIV Congreso del Partido</seg>
       </tuv>
     </tu>
@@ -4308,7 +4308,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For intellec- &lt;t1/&gt;tuals like Wang Hui and Cui Zhiyuan, the Old Left of orthodox Marxist- &lt;t2/&gt;Leninists has lost its power and inﬂuence as marketization and globalization &lt;t3/&gt;have destroyed the old planned economy and opened (entangled) China to &lt;t4/&gt;(with) &lt;t5/&gt;the outside world; the problem for them is what type of China will be built upon the ruins of the old system, whether a "fair" society can emerge &lt;t6/&gt;or whether economic and social disparities will be locked into place.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151449Z" creationid="joaquin" creationdate="20160909T151449Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151449Z">
         <seg>Para los intelectuales como Wang Hui y Cui Zhiyuan, la Vieja Izquierda de los Marxistas-Lenistas ortodoxos ha perdido su poder y ha dejado de ejercer su influencia debido a que la economía de mercado y la globalización destruyeron la antigua economía planificada y abrieron las barreras de China, lo que permitió involucrar al país con el resto del mundo. El problema para ellos se encuentra en qué clase de China se construirá sobre las ruinas del antiguo sistema, ya sea el posible surgimiento de una sociedad “justa” o la continua existencia de disparidades sociales y económicas en ese lugar.</seg>
       </tuv>
     </tu>
@@ -4316,7 +4316,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For liberals, Tiananmen did not change &lt;t7/&gt;their understanding of the forces that needed to be opposed; indeed, it only &lt;t8/&gt;reinforced that understanding.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151413Z" creationid="joaquin" creationdate="20160909T151413Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151413Z">
         <seg>Los liberales creen que Tiananmén no cambio su interpretación sobre las fuerzas que debían ser cuestionadas, por lo contrario, lo que hizo fue consolidar esa interpretación.</seg>
       </tuv>
     </tu>
@@ -4340,7 +4340,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For the first time, the Party's leadership would have to manage succession to a younger generation without the shadow of Deng Xiaoping and others handing over them. What mechanisms would they use to select Hu Jintao's successor?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T195959Z" creationid="Bangho" creationdate="20160909T195959Z">
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T195959Z">
         <seg>Por primera vez, el liderazgo del Partido tendría que arreglárselas para ceder la sucesión a una generación joven sin la presencia de Deng Xiaoping ni de otros que se la entregaran. ¿Qué mecanismos usarían para elegir al sucesor de Hu Jintao?</seg>
       </tuv>
     </tu>
@@ -4452,7 +4452,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Freedom would not develop and authority would be dispersed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174750Z" creationid="Pc" creationdate="20160909T174750Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174750Z">
         <seg>La libertad no se desarrollaría y la autoridad se dispersaría.</seg>
       </tuv>
     </tu>
@@ -4476,7 +4476,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Furthermore, there was the question of how and to what extent China’s economy should be linked to the international economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110501Z" creationid="Usuario" creationdate="20160909T110501Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110501Z">
         <seg>Además estaba la cuestión de cómo y hasta qué punto la economía China  se debía relacionar con la economía internacional.</seg>
       </tuv>
     </tu>
@@ -4572,7 +4572,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>HE ZIN AND STATE – CENTERED NATIONALISM</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184142Z" creationid="Melanie" creationdate="20160908T184142Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184142Z">
         <seg>HE XIN Y UN NACIONALISMO CENTRADO EN EL ESTADO</seg>
       </tuv>
     </tu>
@@ -4716,7 +4716,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>He rejected pressure exerted by the Old Left, opened up the intellectual and political atmosphere modestly but significantly, and dealt skillfully with personnel issues at the Fifteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110053Z" creationid="Usuario" creationdate="20160909T110053Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110053Z">
         <seg>Rechazó la presión ejercida por la Antigua Izquierda, le dio apertura a la atmósfera intelectual y política con moderación pero de manera significativa, y enfrentó con habilidad los asuntos que surgieron en el XV Congreso del Partido Comunista.</seg>
       </tuv>
     </tu>
@@ -4900,7 +4900,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Hu was favorably impressed by the report and forwarded it to Hu Yaobang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174915Z" creationid="Pc" creationdate="20160909T174915Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174915Z">
         <seg>Hu se deslumbró con el informe y se lo envió a Hu Yaobang.</seg>
       </tuv>
     </tu>
@@ -5156,7 +5156,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In China, this group is usually referred to as the “New Left” – “new” to distinguish them from old Marxist–Leninist ideologues like Hu Qiaomu and Deng Liqun (who became known as the “Old Left”) and “left” to suggest that their thought remains on the left side of the political spectrum, which in China is identified with “socialism” broadly (and ambiguously) defined.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222013Z" creationid="ROMI" creationdate="20160908T221623Z">
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222013Z">
         <seg>En China, generalmente se identifica  a este grupo como la "nueva izquierda", "nueva" para distinguirse de las ideologías marxistas-leninistas como Hu Qiaomu y Deng Liqun (quienes se conocian como la "vieja izquierda") e "izquierda" para insinuar que su pensamiento permanece de el lado izquierdo del espectro político, lo que en China se identifica con el "socialismo" , el cual se define ampliamente (y de modo ambiguo).</seg>
       </tuv>
     </tu>
@@ -5252,7 +5252,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In a self-conscious imitation of The Communist Manifesto, Wu began, “there is a strange spirit that has sprouted wings and flown through the forest of the intellectual world, and that is the 83 P1: SJT 9780521866934c03 CUUK1178/&lt;t4/&gt;Fewsmith&lt;t5/&gt; 9780521866934 June 6, 2008 22:2 84 China since Tiananmen intellectual tide of the new authoritarianism” (&lt;t6/&gt;xin&lt;t7/&gt; &lt;t8/&gt;quanwei&lt;t9/&gt; &lt;t10/&gt;zhuyi&lt;t11/&gt;).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180637Z" creationid="Pc" creationdate="20160909T180528Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180637Z">
         <seg>En una imitación consiente del “Manifiesto comunista”, Wu expresó, "Existe un espíritu desconocido que ha desplegado sus alas y se ha echado a volar por la selva del mundo intelectual, y esa es la marea intelectual del neo-autoritarismo (xin quanwei zhuyi). &lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
@@ -5260,7 +5260,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In a self-conscious imitation of The Communist Manifesto, Wu began, “there is a strange spirit that has sprouted wings and flown through the forest of the intellectual world, and that is the 83 P1: SJT 9780521866934c03 CUUK1178/Fewsmith 9780521866934 June 6, 2008 22:2 84 China since Tiananmen intellectual tide of the new authoritarianism” (xin quanwei zhuyi).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174655Z" creationid="Pc" creationdate="20160909T174655Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174655Z">
         <seg>En una imitación consiente del “Manifiesto comunista”, Wu expresó, "Existe un espíritu desconocido que ha desplegado sus alas y se ha echado a volar por la selva del mundo intelectual, y esa es la marea intelectual del neo-autoritarismo (xin quanwei zhuyi). </seg>
       </tuv>
     </tu>
@@ -5292,7 +5292,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In all cases, they reflect an effort to come to grips intellectually with the political failure of reform in the 1980s, the economic and social problems that emerged (or became more acute) in the 1990s, and the type of political system that might be effective in coping with the problems facing China, both domestically and internationally.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174406Z" creationid="Pc" creationdate="20160909T174406Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174406Z">
         <seg>En todos los casos reflejan un intento de índole intelectual de afrontar el fracaso político de la reforma en la década de los 80, los problemas económicos y sociales que surgieron (o se agravaron) en la década de los 90, y el tipo de sistema político que podría ser eficaz para lidiar con los problemas que afectan a China, tanto nacionales como internacionales.</seg>
       </tuv>
     </tu>
@@ -5340,7 +5340,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In broad terms, even as the government maintained its own ideological line, a new arena of public discourse developed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174506Z" creationid="Pc" creationdate="20160909T174506Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174506Z">
         <seg>En términos generales, aun cuando el gobierno mantuvo su línea ideológica propia, surgió un ámbito nuevo de discurso público. </seg>
       </tuv>
     </tu>
@@ -5412,7 +5412,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the ea&lt;t6/&gt;rly part of the twenty-&lt;t7/&gt;ﬁrst&lt;t8/&gt; &lt;t9/&gt;cen&lt;t10/&gt;tury,&lt;t11/&gt; it would be reduced to a large regional power without the strength to bother the East.&lt;t12/&gt; Perhaps more conce&lt;t13/&gt;rned about Japan’s global ambi&lt;t14/&gt;tions,&lt;t15/&gt; He recommended changing China’s coastal development strategy, opting instead for an economic alliance with the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185924Z" creationid="Melanie" creationdate="20160908T185735Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185924Z">
         <seg>A fines de 1988, He escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo XXI iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente. Quizás más preocupado por las ambiciones mundiales de Japón, He recomendó cambiar la estrategia de desarrollo costero de China, optando por una alianza económica con la Unión Soviética.</seg>
       </tuv>
     </tu>
@@ -5420,7 +5420,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the early part of the twenty-&lt;t4/&gt;ﬁrst&lt;t5/&gt; century, it would be reduced to a large regional power without the strength to bother the East.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T200905Z" creationid="Melanie" creationdate="20160908T191218Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T200905Z">
         <seg>A fines de 1988, escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo &lt;t4/&gt;XXI&lt;t5/&gt; iba a ser reducido a un gran poder regional sin la fortaleza suficiente como para molestar a Oriente.</seg>
       </tuv>
     </tu>
@@ -5484,7 +5484,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In short, although “Realistic Responses” marked a certain maturation of neoconservative thought, it was really more of a starting point for further exploration than a full-blown political agenda.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043745Z" creationid="daiana" creationdate="20160909T035124Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043745Z">
         <seg>En síntesis, aunque “Realistic Responses” marcó una cierta maduración del pensamiento neoconservador, fue en verdad como un punto de partida para nuevas exploraciones que una agenda política desarrollada.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
@@ -5516,7 +5516,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In some ways, China had sidestepped the problem of SOEs in the 1980s and early 1990s as the TVE sector grew dramatically.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110146Z" creationid="Usuario" creationdate="20160909T110146Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110146Z">
         <seg>De cierto modo, China había esquivado el problema de las empresas estatales en la década de los 80 y a principios de la década de los 90 mientras que el sector de empresas municipales y locales crecía drásticamente.</seg>
       </tuv>
     </tu>
@@ -5524,7 +5524,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In some ways, it actually increased in importance as the number of workers employed by SOEs rose by 40 million between 1978 and 1994.&lt;t0/&gt; 26&lt;t1/&gt; Despite the decreasing importance of SOEs in the overall economy, they continued to dominate important sectors, particularly heavy industry, and their failure to reform was increasingly a drag on economic growth.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110256Z" creationid="Usuario" creationdate="20160909T110256Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110256Z">
         <seg>De cierto modo, en realidad creció en importancia porque la cantidad de trabajadores empleados en las empresas estatales tuvo un crecimiento de 40 millones entre 1978 y 1994.&lt;t0/&gt;&lt;t1/&gt; A pesar del decrecimiento en importancia de las empresas estatales en la economía general, siguieron siendo dominantes en importantes sectores, particularmente en la industria pesada, y su incapacidad para reformarse se impuso cada vez más como un freno al crecimiento económico. </seg>
       </tuv>
     </tu>
@@ -5604,7 +5604,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the 1980s, China had adopted a cosmopolitan orientation, linking domestic reform with open- &lt;t2/&gt;ing&lt;t3/&gt; to the outside world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T194422Z" creationid="Melanie" creationdate="20160908T190942Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T194422Z">
         <seg>En la década de los 80, China adoptó una orientación cosmopolita al vincular la reforma nacional con una tendencia a abrirse al resto del mundo.&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
@@ -5612,7 +5612,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the 1980s, China had adopted a cosmopolitan orientation, linking domestic reform with open- &lt;t4/&gt;ing&lt;t5/&gt; to the outside world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184202Z" creationid="Melanie" creationdate="20160908T184202Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184202Z">
         <seg>En los años 1980, China adoptó una orientación cosmopolita al vincular la reforma nacional con una tendencia a abrirse al resto del mundo.</seg>
       </tuv>
     </tu>
@@ -5644,7 +5644,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the 1980s, they champi- oned reform, which meant not only marketization and political liberaliza- &lt;t1/&gt;tion (and eventual democratization) but also opposing the people, ideas, &lt;t2/&gt;and forces that they saw as upholding the old order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151341Z" creationid="joaquin" creationdate="20160909T151341Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151341Z">
         <seg>. En la década de los 80, fueron ellos los que impulsaron la reforma que significó no solo la defensa de la economía de mercado y la liberación política (y finalmente la democratización) sino también la oposición a la gente, a las ideas y a las fuerzas que, según los liberales, conservaba el antiguo régimen.</seg>
       </tuv>
     </tu>
@@ -5684,7 +5684,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the mid-1990s, in an effort to increase foreign investment, China had relaxed its rules on foreign ownership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110551Z" creationid="Usuario" creationdate="20160909T110551Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110551Z">
         <seg>A mediados de la década de los 90, con el objetivo de aumentar la inversión extrajera, China había  flexibilizado sus reglas en cuanto a la propiedad extranjera. </seg>
       </tuv>
     </tu>
@@ -5716,7 +5716,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the year following Deng Xiaoping’s death, Jiang was remarkably successful in putting his own mark on Chinese politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110034Z" creationid="Usuario" creationdate="20160909T110034Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110034Z">
         <seg>Al año siguiente de la muerte de Deng Xiaoping, Jian logró  con renombre dejar su propia marca en la política de China.</seg>
       </tuv>
     </tu>
@@ -5724,7 +5724,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the years following Tiananmen, new currents of thought began to emerge and play a significant role in social, intellectual, and political circles.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174321Z" creationid="Pc" creationdate="20160909T174321Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174321Z">
         <seg>En los años posteriores a Tiananmén, nuevas corrientes de pensamiento comenzaron a surgir y a desempeñar un papel importante en los círculos sociales, intelectuales y políticos.</seg>
       </tuv>
     </tu>
@@ -5740,7 +5740,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In this way, He became &lt;t4/&gt;identiﬁed&lt;t5/&gt; as a exemplar of what might be called a “muscular” or assertive &lt;t6/&gt;neoconservatism&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191749Z" creationid="Melanie" creationdate="20160908T191142Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191749Z">
         <seg>De esta forma, He comenzó a ser &lt;t4/&gt;identificado&lt;t5/&gt; como un modelo a seguir de lo que se podría llama &lt;t6/&gt;neoconservadurismo&lt;t7/&gt; "poderoso" o autoritario.</seg>
       </tuv>
     </tu>
@@ -5748,7 +5748,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In this way, He became &lt;t6/&gt;identiﬁed&lt;t7/&gt; as &lt;t8/&gt;a&lt;t9/&gt; exemplar of what might be called a “muscular” or assertive &lt;t10/&gt;neoconservatism&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185711Z" creationid="Melanie" creationdate="20160908T185711Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185711Z">
         <seg>De esta forma, He comenzó a ser identificado como un modelo a seguir de lo que se podría llama neoconservadurismo "poderoso" o autoritario.</seg>
       </tuv>
     </tu>
@@ -6060,7 +6060,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>It was not only that the enterprises sought help from their supervising administrators but also that the various ministries had an incentive to support even weak SOEs and to encourage production even if it was not economically efficient.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110358Z" creationid="Usuario" creationdate="20160909T110358Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110358Z">
         <seg>No solo que las empresas recibían apoyo de sus supervisores administrativos sino que también diversos ministerios tenían un incentivo para apoyar incluso a empresas estatales débiles y para promover la producción aun cuando no era económicamente eficiente.</seg>
       </tuv>
     </tu>
@@ -6444,7 +6444,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>LIBERAL THOUGHT IN CONTEMPORARY CHINA</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151029Z" creationid="joaquin" creationdate="20160909T151029Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151029Z">
         <seg>PENSAMIENTO LIBERAL EN LA CHINA CONTEMPORÁNEA</seg>
       </tuv>
     </tu>
@@ -6548,7 +6548,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Like many writers in this period, He contradictorily depicted the United States both as a power in decline and as one bent on world domination.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191157Z" creationid="Melanie" creationdate="20160908T191157Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191157Z">
         <seg>Como muchos escritores de este período, He representó a los Estados Unidos de manera contradictoria como una potencia en decadencia y, a su vez, determinada a dominar el mundo.</seg>
       </tuv>
     </tu>
@@ -6556,7 +6556,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Like many writers in this period, He contradictorily depicted the United States both as a power in decline and as one bent&lt;t4/&gt; on world domi&lt;t5/&gt;nation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185725Z" creationid="Melanie" creationdate="20160908T185725Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185725Z">
         <seg>Como muchos escritores de este período, He representó a los Estados Unidos de manera contradictoria como una potencia en decadencia y, a su vez, determinada a dominar el mundo.</seg>
       </tuv>
     </tu>
@@ -6564,7 +6564,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Like the term "New Left," the term &lt;t2/&gt;"liberal" should probably not be accepted uncritically, even though there &lt;t3/&gt;has been less controversy over its use within China - either by liberals or &lt;t4/&gt;their critics - than there has been of the term "New Left." Moreover, con- &lt;t5/&gt;temporary Chinese liberalism shares the broad outlines of classical Western &lt;t6/&gt;liberalism, though the Western tradition's complexity and diversity make direct comparisons difficult.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151147Z" creationid="joaquin" creationdate="20160909T151147Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151147Z">
         <seg>Similar a lo que sucede con el término “Nueva Izquierda”, el término “liberal” probablemente no debería aceptarse sin una crítica previa; sin embargo, en China el uso de este término, tanto para los liberales como para sus críticos, genera menos controversia que el uso del término “Nueva Izquierda”. Además, aunque la complejidad y la diversidad de las tradiciones occidentales dificultan la comparación, el liberalismo chino contemporáneo comparte las ideas generales del liberalismo occidental clásico.</seg>
       </tuv>
     </tu>
@@ -6604,7 +6604,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Local cadres, trying to crush the “burden-relieving and complaint representatives,” seized several leaders, tied them up, hung sign-boards around their necks, and held a criticism and &lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;denunciation meeting.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T201119Z" creationid="Agustín" creationdate="20160908T195654Z">
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T201119Z">
         <seg>Los cuadros de dirigentes locales tomaron por la fuerza a varios líderes, los ataron y colgaron carteles en sus cuellos para doblegar a los "voceros de los reclamos y opositores de la opresión". Luego, realizaron &lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;una reunión para juzgarlos y denunciarlos.</seg>
       </tuv>
     </tu>
@@ -6900,7 +6900,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Ministries had no real desire to force their subordinate industries onto the market, just as industries had no incentive to compete when administrative support was available.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110450Z" creationid="Usuario" creationdate="20160909T110450Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110450Z">
         <seg>Los ministerios no tenían verdadero interés en introducir de manera forzosa a las industrias subordinadas al mercado, al igual que las industrias no tenían incentivo para competir cuando tenían apoyo administrativo disponible.</seg>
       </tuv>
     </tu>
@@ -6932,7 +6932,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Moreover, the political report endorsed the important theses of Deng Xiaoping’s southern tour, including his statement that planning and market are merely economic “means” for regulating the economy, his proposition that the 1978 Third Plenum line should be pursued for 100 years, and– most important – that it was necessary “mainly to guard against ‘leftist’ tendencies&lt;s0/&gt;within the Party, particularly among the leading cadres.”&lt;f1&gt;100&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T005620Z" creationid="constanza" creationdate="20160908T223848Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T005620Z">
         <seg>Además, el informe político respaldó las importantes conclusiones a las que arribó Deng Xiaoping en su gira por el sur, las que incluían su declaración de que los aspectos "planificada" y "mercantil" son solo "medios" económicos utilizados para regular la economía, su propuesta de que la línea del Tercer Pleno de 1978 debería ser aplicada durante 100 años, y -sobre todo- que era necesario "principalmente protegerse contra las tendencias ‘de izquierda’&lt;s0/&gt;dentro del Partido, en especial entre los miembros del cuadro dirigente”.&lt;f1&gt;100&lt;/f1&gt;</seg>
       </tuv>
     </tu>
@@ -6956,7 +6956,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Most of the peasant leaders were somewhat better educated (middle-school level) and had spent time out of the village as soldiers or workers; some were elderly school teachers who sympathized with the peasants.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160909T015333Z" creationid="Agustín" creationdate="20160908T194704Z">
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160909T015333Z">
         <seg>La mayoría de los líderes campesinos tenían un nivel educativo más alto que el común de la población (con estudios secundarios completos) y habían trabajado fuera de la aldea como soldados o empleados; algunos eran ancianos maestros de escuela que simpatizaban con los campesinos.</seg>
       </tuv>
     </tu>
@@ -6972,7 +6972,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Most of these currents had roots in the 1980s, but either they were more peripheral ideas that moved toward the center of intellectual concern or they underwent a significant evolution in the context of post-Tiananmen China, or both.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174346Z" creationid="Pc" creationdate="20160909T174346Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174346Z">
         <seg>La mayoría de estas corrientes se originó en la década de los 80, pero o bien eran ideas originadas en la periferia que se acercaban al centro de la inquietud intelectual o eran sometidas a un cambio significativo en el contexto de una China posterior a Tiananmén, o ambas.</seg>
       </tuv>
     </tu>
@@ -7044,7 +7044,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nationalism was another force propelling c&lt;t0/&gt;hanges in the way Chinese intel&lt;t1/&gt;lectuals and policy-makers viewed the world in the period following &lt;t2/&gt;Tianan&lt;t3/&gt;- men.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184151Z" creationid="Melanie" creationdate="20160908T184151Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184151Z">
         <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y responsables políticos chinos luego de Tiananmen.</seg>
       </tuv>
     </tu>
@@ -7060,7 +7060,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nationalism was another force propelling changes in the way Chinese intellectuals and policy-makers viewed the world in the period following &lt;t0/&gt;Tianan&lt;t1/&gt;- men.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T194931Z" creationid="Melanie" creationdate="20160908T190933Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T194931Z">
         <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y responsables políticos chinos en el período pos- &lt;t0/&gt;Tianan&lt;t1/&gt;men.</seg>
       </tuv>
     </tu>
@@ -7068,7 +7068,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nationalism, particularly anti-Americanism, was central to &lt;t0/&gt;He&lt;t1/&gt; &lt;t2/&gt;Xin’s&lt;t3/&gt; views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T200515Z" creationid="Melanie" creationdate="20160908T185718Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T200515Z">
         <seg>El nacionalismo, especialmente el antiamericanismo, era fundamental en la visión de &lt;t0/&gt;He&lt;t1/&gt;&lt;t2/&gt; Xin&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
@@ -7116,7 +7116,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Nevertheless, it is important to keep in mind &lt;t7/&gt;that Chinese liberalism is also informed by Chinese tradition, particularly &lt;t8/&gt;the&lt;t9/&gt; minben&lt;t10/&gt; (people as the foundation) tradition associated with Mencius, &lt;t11/&gt;as well as by the liberals' understanding of modern Chinese history and the &lt;t12/&gt;nature of the problems facing contemporary China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151207Z" creationid="joaquin" creationdate="20160909T151207Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151207Z">
         <seg>No obstante, es importante tener en cuenta que el liberalismo chino también está presente en la tradición china, particularmente en la tradición minben (la gente como base) asociada con Mencio, como así también en la interpretación que tienen los liberales sobre la historia moderna de China y la naturaleza de los problemas que enfrenta la China contemporánea.</seg>
       </tuv>
     </tu>
@@ -7501,7 +7501,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>One of the &lt;t10/&gt;ﬁrst&lt;t11/&gt; (and certainly one of the loudest) voices of the new nationalism was that of &lt;t12/&gt;He&lt;t13/&gt; &lt;t14/&gt;Xin&lt;t15/&gt;, an erstwhile literary critic who turned his attention to ec&lt;t16/&gt;onomics, politics, and interna&lt;t17/&gt;tional relations in the late 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184320Z" creationid="Melanie" creationdate="20160908T184320Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184320Z">
         <seg>Una de las primeras voces del nuevo nacionalismo (y ciertamente una de las más prominentes)  fue la de He Xin, un crítico literario de otra época que se enfocó en la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
       </tuv>
     </tu>
@@ -7509,7 +7509,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>One of the &lt;t6/&gt;ﬁrst&lt;t7/&gt; (and certainly one of the loudest) voices of the new nationalism was that of &lt;t8/&gt;He&lt;t9/&gt; &lt;t10/&gt;Xin&lt;t11/&gt;, an erstwhile literary critic who turned his attention to economics, politics, and international relations in the late 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191541Z" creationid="Melanie" creationdate="20160908T191056Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191541Z">
         <seg>Una de las &lt;t6/&gt;primeras&lt;t7/&gt; voces (y ciertamente una de las más prominentes) del nuevo nacionalismo fue la de &lt;t8/&gt;He&lt;t9/&gt;&lt;t10/&gt; Xin&lt;t11/&gt;, un crítico literario de otra época que volvió su mirada hacia la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
       </tuv>
     </tu>
@@ -7525,7 +7525,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>One of the central obstacles in SOE reform had always been the relationship between the enterprises and the state.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110338Z" creationid="Usuario" creationdate="20160909T110338Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110338Z">
         <seg>Uno de los principales  obstáculos  para la reforma de las empresas estatales siempre había sido la relación entre las empresas y el estado.</seg>
       </tuv>
     </tu>
@@ -7565,7 +7565,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>One trend that emerged in the1980s was that of “new authoritarianism,” which re-emerged in the 1990s as “&lt;t0/&gt;neoconservatism&lt;t1/&gt;.” Although few in government, or even in intellectual circles, would lay claim to the title “neoconservative,” the impact of the ideas associated with it on the thinking of the political leadership was clear, particularly in the early to mid-1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180626Z" creationid="Pc" creationdate="20160909T180443Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180626Z">
         <seg>Una tendencia que surgió en la década de los 80 fue la de "neo-autoritarismo" que resurgió en la década de los 90 como "neoconservadurismo". Aunque algunos integrantes del gobierno, o incluso aquellos pertenecientes a círculos intelectuales, reivindicarían la denominación "neoconservadurismo", las ideas que se le asocian tuvieron un impacto evidente en el pensamiento de liderazgo político, sobre todo entre principios y mediados de la década de los 90.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
@@ -7573,7 +7573,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>One trend that emerged in the1980s was that of “new authoritarianism,” which re-emerged in the 1990s as “neoconservatism.” Although few in government, or even in intellectual circles, would lay claim to the title “neoconservative,” the impact of the ideas associated with it on the thinking of the political leadership was clear, particularly in the early to mid-1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174614Z" creationid="Pc" creationdate="20160909T174614Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174614Z">
         <seg>Una tendencia que surgió en la década de los 80 fue la de "neo-autoritarismo" que resurgió en la década de los 90 como "neoconservadurismo". Aunque algunos integrantes del gobierno, o incluso aquellos pertenecientes a círculos intelectuales, reivindicarían la denominación "neoconservadurismo", las ideas que se le asocian tuvieron un impacto evidente en el pensamiento de liderazgo político, sobre todo entre principios y mediados de la década de los 90.</seg>
       </tuv>
     </tu>
@@ -7597,7 +7597,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Other Full Members</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224416Z" creationid="constanza" creationdate="20160908T224416Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224416Z">
         <seg>Otros miembros plenos</seg>
       </tuv>
     </tu>
@@ -7621,7 +7621,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Over time, the government took increasing account of this public opinion, sometimes absorbing ideas from it, sometimes engaging it, and sometimes suppressing it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174535Z" creationid="Pc" creationdate="20160909T174535Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174535Z">
         <seg>Con el tiempo, el gobierno tuvo más en cuenta esta opinión pública, en ocasiones adoptó ideas de ésta, se involucró en ésta o la reprimió. </seg>
       </tuv>
     </tu>
@@ -7709,7 +7709,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>People like Sheng Hong and Xiao Gongqin wrote frequently but were intellectuals with limited policy impact, not to mention a different intellectual agenda from others.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T033230Z" creationid="daiana" creationdate="20160909T033230Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T033230Z">
         <seg>Personas como Sheng Hong y Xiao Gongqin escribían con frecuencia pero eran intelectuales con un limitado impacto político, sin mencionar que contaban con una agenda intelectual particular.</seg>
       </tuv>
     </tu>
@@ -7717,7 +7717,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Perhaps more concerned about Japan’s global ambitions,  He recommended changing China’s coastal development strategy, opting instead for an economic alliance with the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191224Z" creationid="Melanie" creationdate="20160908T191224Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191224Z">
         <seg>Quizás más preocupado por las ambiciones mundiales de Japón, He recomendó cambiar la estrategia de desarrollo costero de China, optando por una alianza económica con la Unión Soviética.</seg>
       </tuv>
     </tu>
@@ -7757,7 +7757,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Politburo</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224407Z" creationid="constanza" creationdate="20160908T224407Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224407Z">
         <seg>Politburó</seg>
       </tuv>
     </tu>
@@ -7837,7 +7837,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Prior to 1993, neoconservatism consisted primarily of the ruminations of a handful of intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T032128Z" creationid="daiana" creationdate="20160909T032128Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T032128Z">
         <seg>Antes de 1993, el neoconservadurismo consistía fundamentalmente en las reflexiones de unos pocos intelectuales.</seg>
       </tuv>
     </tu>
@@ -7845,7 +7845,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Prior to the 14th Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T005949Z" creationid="constanza" creationdate="20160909T005934Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T005949Z">
         <seg>Antes del XIV Congreso del Partido</seg>
       </tuv>
     </tu>
@@ -7901,7 +7901,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Restructuring government and the economy: the ninth &lt;t0/&gt;npc</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110018Z" creationid="Usuario" creationdate="20160909T110018Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110018Z">
         <seg>Reestructuración del gobierno y la economía: la IX  Asamblea Nacional Popular &lt;t0/&gt;</seg>
       </tuv>
     </tu>
@@ -7909,7 +7909,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Rhetorically at least, Deng’s status became comparable to, if not higher than, that of Mao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224841Z" creationid="constanza" creationdate="20160908T224841Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224841Z">
         <seg>Al menos retóricamente, el estatus de Deng se volvió comparable a, o incluso más alto que, el de Mao.</seg>
       </tuv>
     </tu>
@@ -8021,7 +8021,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Secretariat</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224558Z" creationid="constanza" creationdate="20160908T224558Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224558Z">
         <seg>Secretaría General</seg>
       </tuv>
     </tu>
@@ -8317,7 +8317,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Similarly, the strengthening of the Chinese economy was necessary to prevent Japan from dominating the world in the next century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191246Z" creationid="Melanie" creationdate="20160908T191246Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191246Z">
         <seg>De manera similar, el fortalecimiento de la economía china era necesario para prevenir que Japón dominara el mundo en el siglo siguiente.</seg>
       </tuv>
     </tu>
@@ -8325,7 +8325,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Since China had begun to open its doors in the late 1970s, its trade with the outside world had expanded rapidly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110643Z" creationid="Usuario" creationdate="20160909T110522Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110643Z">
         <seg>Desde que China había empezado a abrir sus puertas a fines de la década de los 70, su comercio con el mundo exterior se expandió rápidamente.</seg>
       </tuv>
     </tu>
@@ -8389,7 +8389,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Society needed to develop through three stages, Wu maintained: first a stage of traditional authoritarianism, then an intermediate stage in which individual freedom could develop under the protection of new authoritarianism, and finally a stage of freedom and democracy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174715Z" creationid="Pc" creationdate="20160909T174715Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174715Z">
         <seg>Wu sostuvo que la sociedad necesitaba desarrollarse en tres etapas. En primer lugar, una etapa de autoritarismo tradicional. En segundo lugar, una etapa intermedia en donde la libertad individual pudiera desarrollarse bajo la protección del neo-autoritarismo y, por último, una etapa de libertad y democracia. </seg>
       </tuv>
     </tu>
@@ -8469,7 +8469,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Standing Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224330Z" creationid="constanza" creationdate="20160908T224330Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224330Z">
         <seg>Comité Permanente</seg>
       </tuv>
     </tu>
@@ -8525,7 +8525,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Such an alliance would not only have the advantage of strengthening China, but just as importantly it would pre-empt Japan from allying with the Soviet Union and establishing a neocolonial dominance over China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191236Z" creationid="Melanie" creationdate="20160908T191236Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191236Z">
         <seg>Dicha alianza no solo tendría la ventaja de fortalecer a China sino también de anticiparse a la alianza de Japón con la Unión Soviética y al establecimiento de un dominio neocolonial sobre China.</seg>
       </tuv>
     </tu>
@@ -8541,7 +8541,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Such an alliance would not only have the advantage of strengthening China, but just as importantly it would pre-empt Japan from allying with the Soviet Union and establishing a neocolonial dominance over China.&lt;t16/&gt; Similarly, the strengthening of the Chinese economy was necessary to prevent Japan from dominating the world in the next century.&lt;t17/&gt; A year or so later, He seemed less certain of the inevitable decline of the United States and more worried about the failure of reform in the Soviet Union.&lt;t18/&gt; The breakup of the Soviet Union &lt;t19/&gt;would cause China to lose its last strategic shield against the United States, so China should make use of any &lt;t20/&gt;conﬂict&lt;t21/&gt; between other countries and the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185821Z" creationid="Melanie" creationdate="20160908T185821Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T185821Z">
         <seg>Dicha alianza no solo tendría la ventaja de fortalecer a China sino también de anticiparse a la alianza de Japón con la Unión Soviética y al establecimiento de un dominio neocolonial sobre China. De manera similar, el fortalecimiento de la economía china era necesario para prevenir que Japón dominara el mundo en el siglo siguiente.&lt;t17/&gt; Pasado un año o más, parecía que He estaba menos seguro del deterioro inevitable de los Estados Unidos y más preocupado por la ineficacia de las reformas en la Unión Soviética.El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos que le quedaba, por lo que debía utilizar cualquier conflicto que hubiera entre éste y otras naciones.</seg>
       </tuv>
     </tu>
@@ -8645,7 +8645,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Table I:&lt;s0/&gt;&lt;f1&gt;Leadership of the Chinese Communist Party&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T014648Z" creationid="constanza" creationdate="20160909T005753Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T014648Z">
         <seg>Cuadro I:&lt;s0/&gt;&lt;f1&gt;Líderes del Partido Comunista Chino&lt;/f1&gt;</seg>
       </tuv>
     </tu>
@@ -8758,7 +8758,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>The CCP convened its Seventeenth Party Congress, October 15-20, 2007, followed on October 21 by the First Plenary Session of the newly elected Central Committee. The Seventeenth Party Congress was the fourth Party Congress held since the tragic events of June 1989, and it marked a new stage in the political evolution of the CCP. Following the Tiananmen upheaval, it will be recalled, Deng Xiaoping, in consultation with Chen Yun and Li Xiannian, selected Jiang Zemin as the "core" of the third gener- ation of leadership. Despite the seeming long odds of holding onto power, Jiang managed to maneuver, build coalitions, and gradually consolidate his power. Nevertheless, in 1992, Deng Xiaoping selected Hu Jintao, then only 50 years of age, to the Politburo Standing Committee (PBSC) at the Fourteenth Party Congress, apparently naming him internally as Jiang's successor. Deng was striving to build a balance in the Party that would out- last himself and one that would contrast with the bitterly divisive leadership situation Mao Zedong had left behind when he died in 1976. Given the different interests in the Party, Deng's arrangements stuck, despite Jiang's palpable desire to pass power on to Zeng Qinghong. As we saw in Chapter 8, Hu Jintao's succession to power was smooth by historical standards but not without friction. Contestation was inevitable given that Jiang surrounded Hu with many of his (Jiang's) own prot&lt;f0&gt;égés. &lt;/f0&gt;Hu nevertheless maneuvered . with considerable skill to articulate his own ideology and begin to promote people from his own power base, the Communist Youth League (CYL).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T195328Z" creationid="Bangho" creationdate="20160909T192041Z">
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T195328Z">
         <seg>El PCCh convocó su XVII Congreso del Partido desde el 15 hasta el 20 de octubre de 2007, al que le siguó el Primer Pleno del nuevo Comité Central electo el 21 de octubre. Luego de los trágicos eventos de junio de 1989, el XVII Congreso del Partido fue el cuarto en celebrarse y marcó una nueva etapa en la evolución política del PCCh. Luego de la revuelta de Tiananmén, como se recordará, Deng Xiaoping, en colaboración con Chen Yun y Li Xiannian, elijieron a Jiang Zemin como "núcleo" del liderazgo de la tercera generación. A pesar de las pocas probabilidades de permanecer en el poder, Jiang logró realizar algunas maniobras, formar coaliciones y consolidar su poder de manera gradual. Sin embrago, en 1922, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, para formar parte del Comité Permanente del Politburó (PBSC) en el XIV Congreso del Partido. Al parecer, el fin era nombrar a Hu internamente el sucesor de Jiang. Deng se esforzó para logar un equilibrio en el Partido en el que perdudaría por cuenta propia y en el que contrastaría con la situación de liderazgo extremadamente divisiva que Mao Zedong había dejado como consecuencia cuando falleció en 1976. Debido a la diferencia de intereses en el Partido, los planes de Deng se vieron interrumpidos a pesar del deseo evidente de Jiang de cederle el poder a Zeng Qinghong. Como hemos visto en el capítulo 8, la sucesión de Hu Jintao al poder se llevó a cabo sin problemas debido a las normas históricas; sin embrargo hubo algunos roces. La disputa era inevitable ya que Jiang estaba rodeado por muchos de los protegidos de Hu. Sin embargo, Hu logró realizar algunas maniobras con una gran habidad con el fin de articular su propia ideología y promover gente de su misma base política; la Liga de la Juventud Comunista (CYL)</seg>
       </tuv>
     </tu>
@@ -8766,7 +8766,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>The Fourteenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T223044Z" creationid="constanza" creationdate="20160908T223044Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T223044Z">
         <seg>XIV Congreso Nacional del Partido Comunista de China</seg>
       </tuv>
     </tu>
@@ -8774,7 +8774,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>The Fourteenth Party Congress was certainly a personal victory for Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T223956Z" creationid="constanza" creationdate="20160908T223956Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T223956Z">
         <seg>El XIV Congreso Nacional del Partido representó realmente una victoria personal para Deng.</seg>
       </tuv>
     </tu>
@@ -8824,7 +8824,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The SOE sector, however, did not fade away.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110305Z" creationid="Usuario" creationdate="20160909T110203Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110305Z">
         <seg>Sin embargo, el sector de empresas estatales no desapareció.</seg>
       </tuv>
     </tu>
@@ -8896,7 +8896,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The appearance of “RealisticResponses” in 1991 marked a certain coming of age of these ideas, not so much a political manifesto of the “princeling faction” (taizidang) – though that element was present – as an argument that China’s future lay in pioneering a “third way,” rejecting both Marxism–Leninism (as traditionally understood) and Western capitalism.1 Such a third way would include an assertion of nationalism, but it was not clear what such a nationalism would espouse since it somewhat paradoxically incorporated both an assertion of Chinese identity and an adoption of “Western rationalism.” There were also hints of populism that coexisted uneasily with implicit assumptions of elite control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043530Z" creationid="daiana" creationdate="20160909T034000Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043530Z">
         <seg>La aparición de “Realistic Responses” (política que enfatizaba el tamaño, la pobreza y la superpoblación de China para persuadir a la población) en1991 marcó una cierta madurez de estas ideas, no tanto un manifiesto político de la facción de los “princelings” o también llamada el partido de los príncipes (taizidang), aunque ese elemento estaba presente, como un argumento de que el futuro de China radicaba en liderar una "tercer vía", que rechazaría tanto el marxismo-leninismo (tal como se los entiende tradicionalmente) como el capitalismo occidental1. Esta tercer vía incluiría una afirmación de nacionalismo, pero no estaba claro qué apoyaría este nacionalismo, ya que en cierto modo incorporaba paradójicamente tanto una afirmación de la identidad de China como una adopción del "racionalismo occidental". Había, además, indicios de populismo que coexistían preocupadamente con supuestos implícitos del control de la élite.</seg>
       </tuv>
     </tu>
@@ -8936,7 +8936,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The basic problem was that globalization and marketization did not lead to the “good society.” China’s reform had indeed marketized the economy and linked it to the world, as enlightenment intellectuals had urged, but the result was not fairness and social justice – much less political democracy – but rather polarization, corruption, and a mutual penetration between political and economic power; indeed “the process of marketization itself had manifested new contradictions that were, in a certain sense, even more difficult to overcome” than those of the 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T221533Z" creationid="ROMI" creationdate="20160908T221435Z">
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T221533Z">
         <seg>El problema fundamental fue que la globalización y la mercadización no resultaron en una "buena sociedad". La reforma de China había, de hecho, marquetizado la economía y la había conectado con el mundo, tal como los intelectuales de la Ilustración querían. El resultado no fue la legitimidad y la justicia social (mucho menos la democracia política),sino más bien la polarización, la corrupción, y una penetración mutua entre el poder político y el poder económico;  de hecho, "el proceso de mercadización en sí habia manifestado nuevas contradicciones que fueron, de cierto modo, aun más difíciles de superar" que aquellas de los años ochenta.</seg>
       </tuv>
     </tu>
@@ -8944,7 +8944,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The biggest problem was that of the state-owned enterprises.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110122Z" creationid="Usuario" creationdate="20160909T110122Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110122Z">
         <seg>El mayor problema era el de las empresas estatales.</seg>
       </tuv>
     </tu>
@@ -8960,7 +8960,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The breakup of the Soviet Union would cause China to lose its last strategic shield against the United States, so China should make use of any &lt;t6/&gt;conﬂict&lt;t7/&gt; between other countries and the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191830Z" creationid="Melanie" creationdate="20160908T191257Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191830Z">
         <seg>El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos que le quedaba, por lo que debía utilizar cualquier &lt;t6/&gt;conflicto&lt;t7/&gt; que hubiera entre éste y otras naciones.</seg>
       </tuv>
     </tu>
@@ -9064,7 +9064,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The economy had picked up and indeed had nearly careened out of control, as loose monetary policies were adopted to support Deng Xiaoping’s call for a renewed period of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T040634Z" creationid="daiana" creationdate="20160909T040634Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T040634Z">
         <seg>La economía había repuntado y, de hecho, prácticamente había avanzado a ritmo acelerado y sin control ya que se adoptaron políticas monetarias laxas a fin de apoyar el llamado de Deng Xiaoping para un nuevo período de reforma.</seg>
       </tuv>
     </tu>
@@ -9080,7 +9080,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The emergence of &lt;t0/&gt;neoconservatism</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180617Z" creationid="Pc" creationdate="20160909T180557Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180617Z">
         <seg>El surgimiento del neoconservadurismo&lt;t0/&gt;</seg>
       </tuv>
     </tu>
@@ -9152,7 +9152,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The evidence coming out of the Congress suggests that Hu Jintao was quite successful, if not as successful as he perhaps would have wanted to be. Compromises were made. But the Seventeenth Party Congress left open questions about the institutionalization of the Chinese political system; there was the sort of bargaining necessary to achieve compromise but which thereby suggested the uninstitutionalized aspects of elite politics. These uninstitutionalized aspects may yet come back to haunt the Party in the future.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T203245Z" creationid="Bangho" creationdate="20160909T203105Z">
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T203245Z">
         <seg>La evidencia que surgía del Congreso indica que Hu Jintao triunfaría ampliamente, hasta podría haber triunfado tanto como quizá le hubiera gustado. Compromises were made. But the Seventeenth Party Congress left open questions about the institutionalization of the Chinese political system; there was the sort of bargaining necessary to achieve compromise but which thereby suggested the uninstitutionalized aspects of elite politics. These uninstitutionalized aspects may yet come back to haunt the Party in the future.</seg>
       </tuv>
     </tu>
@@ -9176,7 +9176,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The first public glimpse of this trend came on January 16, 1989, when Shanghai’s reform-oriented newspaper, the World Economic Herald, published an article by Wu &lt;t2/&gt;Jiaxiang&lt;t3/&gt;, then a young researcher with the General Office of the Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180507Z" creationid="Pc" creationdate="20160909T180507Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180507Z">
         <seg>La primera vez que la sociedad vislumbró esta tendencia fue el 16 de enero de 1989 cuando el periódico de orientación reformista de Shanghái, el World Economic Herald, publicó un artículo  escrito por Wu &lt;t2/&gt;Jiaxiang&lt;t3/&gt;, en aquel entonces un investigador joven de la Secretaría General del Comité Central.</seg>
       </tuv>
     </tu>
@@ -9184,7 +9184,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The first public glimpse of this trend came on January 16, 1989, when Shanghai’s reform-oriented newspaper, the World Economic Herald, published an article by Wu Jiaxiang, then a young researcher with the General Office of the Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174633Z" creationid="Pc" creationdate="20160909T174633Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174633Z">
         <seg>La primera vez que la sociedad vislumbró esta tendencia fue el 16 de enero de 1989 cuando el periódico de orientación reformista de Shanghái, el World Economic Herald, publicó un artículo  escrito por Wu Jiaxiang, en aquel entonces un investigador joven de la Secretaría General del Comité Central.</seg>
       </tuv>
     </tu>
@@ -9208,7 +9208,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The general secretary, however, was not impressed and referred to it, in a marginal note, as “rubbish.” Later he took &lt;t29/&gt;Hu&lt;t30/&gt; &lt;t31/&gt;Qili&lt;t32/&gt; to task for accepting the ideas in the report.3</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180405Z" creationid="Pc" creationdate="20160909T180252Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180405Z">
         <seg>Al secretario general, por otro lado, no le causó una buena impresión y, en una nota marginal, lo describió como "basura". Luego, reprendió a  &lt;t29/&gt;Hu&lt;t30/&gt; &lt;t31/&gt;Qili&lt;t32/&gt; por haber aceptado las ideas de este informe3.</seg>
       </tuv>
     </tu>
@@ -9216,7 +9216,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The general secretary, however, was not impressed and referred to it, in a marginal note, as “rubbish.” Later he took Hu Qili to task for accepting the ideas in the report.3 At roughly the same time that Wang was forwarding his report to the</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174953Z" creationid="Pc" creationdate="20160909T174953Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174953Z">
         <seg>Al secretario general, por otro lado, no le causó una buena impresión y, en una nota marginal, lo describió como "basura". Luego, reprendió a Hu Quii por haber aceptado las ideas de este informe3.</seg>
       </tuv>
     </tu>
@@ -9256,7 +9256,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The intermediate stage of new authoritarianism was necessary, Wu argued, because otherwise the crumbling authority of traditional authoritarian rule would be captured by a variety of social structures and forces, preventing both individual freedom and necessary central authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174745Z" creationid="Pc" creationdate="20160909T174745Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174745Z">
         <seg>La etapa intermedia del neo autoritarismo era necesaria, argumentó Wu, si no la autoridad debilitada del gobierno autoritario tradicional sería tomada por una serie de estructuras y fuerzas sociales que prevendrían tanto la libertad individual como la autoridad central requerida.</seg>
       </tuv>
     </tu>
@@ -9416,7 +9416,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The post-Cold War world would be unified ideologically under Western neoclassical liberalism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020428Z" creationid="Rocio" creationdate="20160909T020428Z">
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020428Z">
         <seg>El mundo pos-Guerra Fría podía estar ideológicamente unificado bajo el liberalismo neoclásico occidental.</seg>
       </tuv>
     </tu>
@@ -9432,7 +9432,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The purpose of Part II is to focus on intellectual developments in the 1990s; in Part III, we will look more closely at the government–intellectual interaction.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174554Z" creationid="Pc" creationdate="20160909T174554Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174554Z">
         <seg>La finalidad de la Parte II es enfocarse en los desarrollos intelectuales de los 90. En la Parte III estudiaremos la interacción gubernamental e intelectual con más detalle.</seg>
       </tuv>
     </tu>
@@ -9632,7 +9632,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The “new” in new authoritarianism referred to self-conscious use of authority to guide society through this treacherous intermediate stage, blocking those forces that would otherwise prevent the development of individual freedom from forming and thus guiding society safely through to a free, democratic, and modern society.1 Chinese intellectuals began exploring the idea of new authoritarianism in 1986.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174823Z" creationid="Pc" creationdate="20160909T174823Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T174823Z">
         <seg>El "neo" de "neo-autoritarismo" se remitía al uso consiente de la autoridad para guiar a la sociedad por esta etapa intermedia peligrosa. Así, bloquearía aquellas fuerzas que de lo contrario prevendrían que se conciba el desarrollo de la libertad individual y, por lo tanto, el neo-autoritarismo podría guiar a la sociedad con seguridad hacia una sociedad libre, democrática y moderna1.Los intelectuales de China comenzaron a explorar la idea del neo-autoritarismo en 1986. </seg>
       </tuv>
     </tu>
@@ -9800,7 +9800,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>These included ortho- &lt;t3/&gt;dox understandings of Marxism-Leninism, the bureaucracies that lay at the &lt;t4/&gt;core of the "planned economy," and those ideologues who wielded the "big &lt;t5/&gt;stick" against people like themselves and who maneuvered to uphold and &lt;t6/&gt;take advantage of the old system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151357Z" creationid="joaquin" creationdate="20160909T151357Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151357Z">
         <seg>Esto incluía la interpretación ortodoxa del Marxismo-Leninista,  las burocracias que funcionan como base elemental de la “economía planificada” y a los ideólogos que ejercían la política del “Gran Garrote” contra gente como ellos y que se la rebuscan para conservar y beneficiarse del antiguo sistema.</seg>
       </tuv>
     </tu>
@@ -9816,7 +9816,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>These moves were necessary if Jiang was going to handle successfully the paramount issue of the day, economic reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110106Z" creationid="Usuario" creationdate="20160909T110106Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110106Z">
         <seg>Estos pasos eran necesarios para que Jiang pudiera atender con éxito el primordial asunto del momento, la reforma económica.</seg>
       </tuv>
     </tu>
@@ -9912,7 +9912,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This did not mean that China was not nationalistic in this period, but rather that its nationalism was directed toward economic development and a critique of traditional socialism (which impeded that development).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191012Z" creationid="Melanie" creationdate="20160908T190956Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191012Z">
         <seg>Esto no significó que China no haya sido nacionalista durante este período, sino que su nacionalismo estaba orientado hacia el desarrollo económico y la crítica al socialismo tradicional que amenazaba ese desarrollo.</seg>
       </tuv>
     </tu>
@@ -9928,7 +9928,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This did not mean that China was not nationalistic in this period, but rather that its nationalism was directed toward economic development and a critique of traditional socialism (which impeded that development).&lt;t6/&gt; Following Tiananmen, however, the West (and the US in particular) seemed threatening and subversive.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184225Z" creationid="Melanie" creationdate="20160908T184220Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T184225Z">
         <seg>Esto no significó que China no haya sido nacionalista durante este período, sino que su nacionalismo estaba orientado hacia el desarrollo económico y la crítica al socialismo tradicional que amenazaba ese desarrollo. Sin embargo, después de Tiananmen, los países occidentales (en particular Estados Unidos) parecían subversivos y amanezadores.</seg>
       </tuv>
     </tu>
@@ -9952,7 +9952,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This had brought a huge increase in the amount of foreign funds invested, but it had also stimulated economic nationalism in response.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110608Z" creationid="Usuario" creationdate="20160909T110608Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110608Z">
         <seg>Esto había traído un importante aumento en la cantidad de fondos extranjeros invertidos, pero también había estimulado el nacionalismo económico como respuesta.</seg>
       </tuv>
     </tu>
@@ -9984,7 +9984,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This is a question that necessarily will con- tinue to hang over the Party through at least the next Party Congress in 2012. Second, in part because Jiang Zemin was so successful in promoting his prot&lt;f0&gt;égé&lt;/f0&gt; to the Politburo at the Sixteenth Party Congress, the Seventeenth Party Congress could not rely simply on promotion by seniority to choose a new leadership. If Hu Jintao was to be able to put his own stamp on the new leadership, there would have to be some mix of institutional procedures and non-institutional bargaining. The ouster of Shanghai Party Secretary Chen Liangyu in September 2006 (see Chapter 8) was the inevitable opening shot in the informal political bargaining that would take place. Third, to what extent would the Seventeenth Party Congress ratify Hu Jintao's ideas, such as the scientific development concept?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T202117Z" creationid="Bangho" creationdate="20160909T200838Z">
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T202117Z">
         <seg>Sin dudas, ese asunto quedaría pendiente en el Partido al menos hasta el siguiente Congreso del Partido del año 2012. En segundo lugar, debido a que en parte Jiang Zemin tuvo éxito en promover a su protegido al Politburó en el XVI Congreso del Partido, el XVI Congreso del Partido, que debía elegir al nuevo líder, no tendría que contar solemente con el ascenso por antigüedad. Si Hu Jintao era capaz de dejar su propia impronta en el nuevo liderazgo, entonces tendría que haber algún tipo de combinación de procesos institucionales y negociaciones no institucionales. La destitución de Chen Liangyu, secretario general del Partido Comunista chino en Shanghai, en septiembre de 2006 (véase capítulo 8) significó la inevitable apertura de futuras negociaciones políticas informales. En tercer lugar, ¿hasta qué punto ratificaría el XVII Congreso del Partido las ideas de Hu Jintao tales como el concepto de desarrollo científico?</seg>
       </tuv>
     </tu>
@@ -10000,7 +10000,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This issue cut to the heart of the debates about socialism and also involved major interests in Chinese society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110433Z" creationid="Usuario" creationdate="20160909T110433Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110433Z">
         <seg>Este asunto llegó al fondo de los debates en torno al socialismo y también involucró grandes  intereses en la sociedad china.</seg>
       </tuv>
     </tu>
@@ -10056,7 +10056,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This overview of New Left or critical appro&lt;t0/&gt;aches to the problems of contem&lt;t1/&gt;porary China suggests the outlines of a major cleavage between these intel- &lt;t2/&gt;lectuals and those who identify themselves as "liberals." Although there are&lt;t3/&gt; &lt;t4/&gt;many streams of thought in contemporary China, the difference between</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151105Z" creationid="joaquin" creationdate="20160909T151105Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151105Z">
         <seg>Este resumen de la Nueva Izquierda o de los enfoques críticos de los problemas de la China contemporánea presenta el bosquejo de una gran división entre estos intelectuales y aquellos que se consideran “liberales”. A pesar de que hay muchas corrientes de pensamiento que circundan en la China contemporánea, la diferencia que existe entre</seg>
       </tuv>
     </tu>
@@ -10104,7 +10104,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This understanding of the problems facing China points to a fundamen- &lt;t0/&gt;tal difference between liberals and the New Left, namely, their very deep disagreement over the nature of the problems facing China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151433Z" creationid="joaquin" creationdate="20160909T151433Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151433Z">
         <seg>Esta interpretación sobre los problemas que enfrenta China indica una diferencia fundamental entre los liberales y la Nueva Izquierda, lo que establecemos concretamente como un gran desacuerdo sobre la naturaleza de los problemas que enfrenta China.</seg>
       </tuv>
     </tu>
@@ -10218,7 +10218,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Through the 1990s it has taken on many guises, ranging from &lt;t4/&gt;realpolitik&lt;t5/&gt; to discussions of post-colonialism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T195547Z" creationid="Melanie" creationdate="20160908T191045Z">
+      <tuv lang="ES-US" changeid="pauli" changedate="20160908T195547Z">
         <seg>A lo largo de la década de los 90, adquirió muchas formas, desde &lt;t4/&gt;realpolitik&lt;t5/&gt; hasta discusiones sobre poscolonialismo.</seg>
       </tuv>
     </tu>
@@ -10298,7 +10298,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Thus, there were three interesting questions to be tackled at the Sev- enteenth Party Congress. First, could the post-revolutionary generation manage leadership succession issues in the absence of the revolutionary giants of the past?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T200004Z" creationid="Bangho" creationdate="20160909T195446Z">
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T200004Z">
         <seg>De este modo, había tres temas importantes que se debían resolver en el XVII Congreso del Partido. En primer lugar, ¿podría la generación posrevolucionaria resolver los problemas de sucesión de liderazgo en ausencia de los grandes revolucionarios del pasado?</seg>
       </tuv>
     </tu>
@@ -10482,7 +10482,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Unless the apron strings that bound SOEs to state ministries could be severed, there was no way that SOEs, however their ownership structure might be changed, could truly make their way in the market economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110416Z" creationid="Usuario" creationdate="20160909T110416Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110416Z">
         <seg>Al menos que se ajustara el cordón que unía a las empresas estatales con los ministerios estatales, no había otra forma de que las empresas estatales pudieran salir a flote en la economía de mercado, a pesar de que su estructura de propiedad se pudiera cambiar. </seg>
       </tuv>
     </tu>
@@ -10546,7 +10546,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Hui, the editor of Reading mentioned previously, has argued that enlight-enment thought lost its vitality because it was predicated on a fundamental acceptance of Western categories of thought – including liberal democ-racy, neoclassical economics, individualism, and law – and because it relied on such dichotomies as China versus the West and tradition versus modernity to analyze China’s problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T220847Z" creationid="ROMI" creationdate="20160908T220847Z">
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T220847Z">
         <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y también porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China.</seg>
       </tuv>
     </tu>
@@ -10562,7 +10562,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang Huning, who had set off internal arguments about new authoritarianism, wrote nothing about the subject as public debate unfolded in 1989, but he would emerge as a politically important adviser to Jiang Zemin in the mid- and late 1990s and then to Hu Jintao in the new century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043204Z" creationid="daiana" creationdate="20160909T033052Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043204Z">
         <seg>Wang Huning, quien había iniciado discusiones internas acerca del nuevo autoritarismo, no escribió nada acerca del tema ya que el debate público se desarrolló en 1989, pero emergería como un importante asesor político de Jiang Zemin a mediados y a finales de la década de los 90, y luego de Hu Jintao en el siglo entrante.</seg>
       </tuv>
     </tu>
@@ -10850,7 +10850,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Whereas a year earlier Deng Liqun had been calling reform and opening up&lt;s1/&gt;the source of peaceful evolution,&lt;f2&gt;98&lt;/f2&gt;&lt;s3/&gt;the Fourteenth Party Congress report declared that “the most clear-cut characteristic of the new historical period is reform and opening up ”and that the “new revolution” inaugurated by Deng Xiaoping was “aimed at&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entally&lt;/f6&gt;&lt;s7/&gt;changing the economic structure rather than patching it up.” Underlining the profound changes called for by Deng’s revolution, the political report endorsed the creation of a “socialist&lt;s8/&gt;&lt;f9&gt;market&lt;/f9&gt;&lt;s10/&gt;economic system” as the goal of reform, thereby advancing well beyond the 1984 thesis of building a “socialist planned commodity economy” – which had itself been a controversial step forward.&lt;f11&gt;99 &lt;s12/&gt;&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T021903Z" creationid="constanza" creationdate="20160908T223520Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160909T021903Z">
         <seg>Mientras que un año antes Deng Liqun había llamado a reforma y a la apertura de&lt;s1/&gt;la fuente de la evolución pacífica,&lt;f2&gt;98&lt;/f2&gt;&lt;s3/&gt;el informe del XIV Congreso Nacional del Partido declaró que “las características más sobresalientes del nuevo periodo histórico eran la reforma y la apertura” y que la “nueva revolución” que Deng Xiaoping había inaugurado estaba destinada&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entalmente&lt;/f6&gt;&lt;s7/&gt;a cambiar la estructura económica en vez de a arreglarla”. Destacando los cambios profundos llevados a cabo por la revolución de Deng, el informe político respaldó la creación de un “sistema económico&lt;s8/&gt;&lt;f9&gt;mercantil&lt;/f9&gt;&lt;s10/&gt;socialista” como objetivo de reforma, y de ese modo avanzar más allá de lo postulado en la tesis de 1984 que proponía una “economía mercantil planificada socialista” – la que ya había sido un avance controversial.&lt;f11&gt;99 &lt;s12/&gt;&lt;/f11&gt;</seg>
       </tuv>
     </tu>
@@ -10954,7 +10954,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wu himself refers to a 1986 report written by Wang &lt;t12/&gt;Huning&lt;t13/&gt; – then a professor of international politics at &lt;t14/&gt;Fudan&lt;t15/&gt; University and, after 1995, head of the Political Section of the Central Committee’s Policy Research Office under Jiang &lt;t16/&gt;Zemin&lt;t17/&gt; (and then promoted to be director of the Central Policy Research Center in 2002) – discussing the need for “necessary concentration” of central authority in the course of reform.2 Wang’s report set off a major &lt;t18/&gt;internal policy battle when it was read by &lt;t19/&gt;Hu&lt;t20/&gt; &lt;t21/&gt;Qili&lt;t22/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180740Z" creationid="Pc" creationdate="20160909T175701Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180740Z">
         <seg>El mismo Wu hace referencia a un informe de 1986 escrito por Wang &lt;t12/&gt;Huning&lt;t13/&gt; -  en aquel entonces un profesor de política internacional de la Universidad de &lt;t14/&gt;Fudan&lt;t15/&gt; , jefe de la Sección Política del Comité Central de la Oficina de Investigación a cargo de Jiang &lt;t16/&gt;Zemin&lt;t17/&gt; luego de 1995 (y luego promovido a director del Centro de Investigación de Política Central en el año 2002). A partir de este informe, Wu analiza la necesidad de la "concentración imprescindible" por parte de la autoridad central en el transcurso de la reforma2. El informe de Wang provocó una gran disputa acerca de la política &lt;t18/&gt; nacional cuando  &lt;t19/&gt;Hu&lt;t20/&gt; &lt;t21/&gt;Qili&lt;t22/&gt; lo leyó.</seg>
       </tuv>
     </tu>
@@ -10962,7 +10962,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wu himself refers to a 1986 report written by Wang Huning – then a professor of international politics at Fudan University and, after 1995, head of the Political Section of the Central Committee’s Policy Research Office under Jiang Zemin (and then promoted to be director of the Central Policy Research Center in 2002) – discussing the need for “necessary concentration” of central authority in the course of reform.2 Wang’s report set off a major &lt;t0/&gt;internal policy battle when it was read by Hu Qili.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T175122Z" creationid="Pc" creationdate="20160909T174904Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T175122Z">
         <seg>El mismo Wu hace referencia a un informe de 1986 escrito por Wang Huning, en aquel entonces un profesor de política internacional de la Universidad de Fudan, jefe de la Sección Política del Comité Central de la Oficina de Investigación a cargo de Jiang Zemin luego de 1995 (y luego promovido a director del Centro de Investigación de Política Central en el año 2002). A partir de este informe, Wu analiza la necesidad de la "concentración imprescindible" por parte de la autoridad central en el transcurso de la reforma2. El informe de Wang provocó una gran disputa acerca de la &lt;t0/&gt; política nacional cuando Hu Qii lo leyó.</seg>
       </tuv>
     </tu>
@@ -11010,7 +11010,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Yang Ping and Wang Xiaodong can perhaps be regarded as intellectual entrepreneurs who worked, with considerable success, to inject previously marginal ideas into the mainstream, though their connections with parts of the political system should not be underestimated.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T033457Z" creationid="daiana" creationdate="20160909T033457Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160909T033457Z">
         <seg>Yang Ping y Wang Xiaodong quizás pueden ser considerados empresarios intelectuales que trabajaban, con un éxito considerable, para introducir ideas previamente marginales a la corriente principal, aunque no deberían subestimarse sus conexiones con partes del sistema político.</seg>
       </tuv>
     </tu>
@@ -11259,7 +11259,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>calling this group the New Left is intended to discredit them.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222107Z" creationid="ROMI" creationdate="20160908T222107Z">
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222107Z">
         <seg>al llamar a este grupo la nueva Izquierda se intenta desacreditarlos.</seg>
       </tuv>
     </tu>
@@ -11507,7 +11507,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>realm in Marxism.” No other plenum or congress report in the reform era had been so personal or&lt;s0/&gt;so laudatory.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224735Z" creationid="constanza" creationdate="20160908T224735Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224735Z">
         <seg>rama dentro del Marxismo”. Ningún otro informe de un pleno o congreso en la era de la reforma había sido tan personal ni&lt;s0/&gt;tan elogioso.</seg>
       </tuv>
     </tu>
@@ -11595,7 +11595,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>the New Left and liberals is perhaps the deepest and most politically salient &lt;t0/&gt;(we will discuss nationalists separately, though, as their thinking overlaps &lt;t1/&gt;significantly with that of the New Left).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151125Z" creationid="joaquin" creationdate="20160909T151125Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151125Z">
         <seg>la Nueva Izquierda y los liberales es quizás la más marcada y prominente políticamente (analizaremos a los nacionalistas por separado debido a que su forma de pensar coincide significativamente con la de la Nueva Izquierda).</seg>
       </tuv>
     </tu>
