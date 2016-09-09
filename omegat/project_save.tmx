@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2968,6 +2968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By the late 1990s, it was apparent that SOE reform could not be avoided.&lt;t2/&gt;27</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110322Z" creationid="Usuario" creationdate="20160909T110322Z">
+        <seg>Hacia finales de la década de los 90, era evidente que una reforma en las empresas estatales era ineludible.&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By the summer and fall of 2006, the Seventeenth Party Congress, scheduled for the fall of 2007, was beginning to loom large.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T212647Z">
@@ -4410,6 +4418,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore, there was the question of how and to what extent China’s economy should be linked to the international economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110501Z" creationid="Usuario" creationdate="20160909T110501Z">
+        <seg>Además estaba la cuestión de cómo y hasta qué punto la economía China  se debía relacionar con la economía internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gaining China’s international acceptance as one of the great powers of the world would diminish the lingering effects of post-Tiananmen isolation; it would also realize the century-old desire of Chinese patriots to no longer be treated as a second-rate power but instead to be regarded as an equal in world affairs.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014452Z">
@@ -5562,6 +5578,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the mid-1990s, in an effort to increase foreign investment, China had relaxed its rules on foreign ownership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110551Z" creationid="Usuario" creationdate="20160909T110551Z">
+        <seg>A mediados de la década de los 90, con el objetivo de aumentar la inversión extrajera, China había  flexibilizado sus reglas en cuanto a la propiedad extranjera. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the preface, “Luo yi ning ge er” is identified as a German and as Europe’s most famous Sinologist.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160908T181419Z">
@@ -5918,6 +5942,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021310Z">
         <seg>Fue dentro de esa atmósfera que Huntington lanzó su artículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was not only that the enterprises sought help from their supervising administrators but also that the various ministries had an incentive to support even weak SOEs and to encourage production even if it was not economically efficient.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110358Z" creationid="Usuario" creationdate="20160909T110358Z">
+        <seg>No solo que las empresas recibían apoyo de sus supervisores administrativos sino que también diversos ministerios tenían un incentivo para apoyar incluso a empresas estatales débiles y para promover la producción aun cuando no era económicamente eficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6738,6 +6770,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ministries had no real desire to force their subordinate industries onto the market, just as industries had no incentive to compete when administrative support was available.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110450Z" creationid="Usuario" creationdate="20160909T110450Z">
+        <seg>Los ministerios no tenían verdadero interés en introducir de manera forzosa a las industrias subordinadas al mercado, al igual que las industrias no tenían incentivo para competir cuando tenían apoyo administrativo disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, Deng hit back directly at the numerous derogatory criticisms of the so-called “criterion of productive forces” made over the previous two years.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T224239Z">
@@ -7335,6 +7375,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T054826Z">
         <seg>Una de las primeras voces (y ciertamente una de las más prominentes) del nuevo nacionalismo fue la de He Xin, un crítico literario de otra época que volvió su mirada hacia la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the central obstacles in SOE reform had always been the relationship between the enterprises and the state.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110338Z" creationid="Usuario" creationdate="20160909T110338Z">
+        <seg>Uno de los principales  obstáculos  para la reforma de las empresas estatales siempre había sido la relación entre las empresas y el estado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8107,6 +8155,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since China had begun to open its doors in the late 1970s, its trade with the outside world had expanded rapidly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110643Z" creationid="Usuario" creationdate="20160909T110522Z">
+        <seg>Desde que China había empezado a abrir sus puertas a fines de la década de los 70, su comercio con el mundo exterior se expandió rápidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since its founding, Contemporary Trends had published several articles by leading hardline officials, including Deng &lt;t16/&gt;Liqun&lt;t17/&gt; and Wang Zhen, and had carried numerous articles criticizing bourgeois liberalization in extremely harsh terms.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T005012Z">
@@ -8584,8 +8640,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The SOE sector, however, did not fade away.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110203Z" creationid="Usuario" creationdate="20160909T110203Z">
-        <seg> Sin embargo, el sector de empresas estatales no desapareció.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110305Z" creationid="Usuario" creationdate="20160909T110203Z">
+        <seg>Sin embargo, el sector de empresas estatales no desapareció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9630,6 +9686,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This had brought a huge increase in the amount of foreign funds invested, but it had also stimulated economic nationalism in response.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110608Z" creationid="Usuario" creationdate="20160909T110608Z">
+        <seg>Esto había traído un importante aumento en la cantidad de fondos extranjeros invertidos, pero también había estimulado el nacionalismo económico como respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This hiatus in the slow but steady progress that advocates of reform had been making at least since the September 1990 economic conference is difficult to explain.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T230941Z">
@@ -9658,6 +9722,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T023856Z">
         <seg>Esta es la historia que más se contradice con las expectativas de Occidente respecto a China, en especial con las de Estados Unidos, particularmente durante los años que le siguieron a Tiananmén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This issue cut to the heart of the debates about socialism and also involved major interests in Chinese society.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110433Z" creationid="Usuario" creationdate="20160909T110433Z">
+        <seg>Este asunto llegó al fondo de los debates en torno al socialismo y también involucró grandes  intereses en la sociedad china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10108,6 +10180,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044453Z">
         <seg>Pekín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless the apron strings that bound SOEs to state ministries could be severed, there was no way that SOEs, however their ownership structure might be changed, could truly make their way in the market economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110416Z" creationid="Usuario" creationdate="20160909T110416Z">
+        <seg>Al menos que se ajustara el cordón que unía a las empresas estatales con los ministerios estatales, no había otra forma de que las empresas estatales pudieran salir a flote en la economía de mercado, a pesar de que su estructura de propiedad se pudiera cambiar. </seg>
       </tuv>
     </tu>
     <tu>
