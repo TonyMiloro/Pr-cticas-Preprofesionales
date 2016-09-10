@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2578,7 +2578,7 @@
       <tuv lang="EN-US">
         <seg>As we shall see, Jiang’s response was to try to carve out a “middle course” that would allow him to maneuver between conflicting pressures while not becoming overly tied to any particular interest.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T181453Z" creationid="Daniel-Andrea" creationdate="20160910T181453Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T181453Z">
         <seg>Como veremos, la respuesta de Jiang fue tratar de forjar un "camino intermedio" que le permitiría maniobrar entre las presiones en conflicto mientras no llegar a ser excesivamente ligado a ningún interés particular.t.</seg>
       </tuv>
     </tu>
@@ -4940,8 +4940,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>However, Clinton’s domestic advisers – Treasury&lt;t14/&gt; &lt;t15/&gt;Secretary Robert Rubin, National Economic Council head Gene &lt;t16/&gt;Sperling&lt;t17/&gt;,&lt;t18/&gt; &lt;t19/&gt;and domestic political adviser John &lt;t20/&gt;Podesta&lt;t21/&gt; – argued that if there were&lt;t22/&gt; &lt;t23/&gt;no guaranteed protections for labor unions and industries that competed&lt;t24/&gt; &lt;t25/&gt;directly with their Chinese counterparts then Congress would vote to&lt;t26/&gt; &lt;t27/&gt;kill the deal, and that would be worse for US–China relations than no&lt;t28/&gt; &lt;t29/&gt;agreement at all.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160910T025104Z">
-        <seg>Sin embargo, los consejeros de Clinton en política interna (el Ministro de Finanzas Robert Rubin, el Director del Consejo Nacional de Economía Gene Sperling y el consejero en política interna John Podesta) sostuvieron que, si no se garantizaban las protecciones para los sindicatos e industrias que competían directamente con sus equivalentes chinos, el Congreso votaría por poner fin al trato, lo que sería más perjudicial para las relaciones entre EUA y China que si no se llegara a ningún acuerdo directamente.</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T181444Z">
+        <seg>Sin embargo, los consejeros de Clinton en política interna (el ministro de finanzas Robert Rubin, el director del Consejo Nacional de Economía Gene Sperling y el consejero en política interna John Podesta) sostuvieron que, si no se garantizaban las protecciones para los sindicatos e industrias que competían directamente con sus equivalentes chinos, el Congreso votaría por poner fin al trato, lo que sería más perjudicial para las relaciones entre EE. UU. y China que si no se llegara a ningún acuerdo directamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7766,8 +7766,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>On the morning of April 7, President Clinton declared that it would&lt;t0/&gt; &lt;t1/&gt;be an “inexplicable mistake” to walk away from a good agreement with</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160910T022509Z">
-        <seg>La mañana del 7 de abril, el Presidente Clinton manifestó que hubiera sido un "error inexplicable" apartarse de un buen acuerdo con</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T181421Z">
+        <seg>La mañana del 7 de abril, el presidente Clinton manifestó que hubiera sido un "error inexplicable" apartarse de un buen acuerdo con</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,8 +8166,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>President Clinton sided with his domestic advisers and&lt;t30/&gt; &lt;t31/&gt;requested that the USTR go back to the negotiating table to ask for both&lt;t32/&gt; &lt;t33/&gt;extended protection for textiles and added assurances against large-scale&lt;t34/&gt; &lt;t35/&gt;increases in imports.35 Thus it was that, when Zhu &lt;t36/&gt;Rongji’s&lt;t37/&gt; plane touched&lt;t38/&gt; &lt;t39/&gt;down on April 6, the stage was set for one of the most conspicuous foreign&lt;t40/&gt; &lt;t41/&gt;policy failures of recent years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160909T213529Z">
-        <seg>El Presidente Clinton apoyó a sus consejeros en política interna y solicitó que el USTR retomara las negociaciones para solicitar la extención de la protección a las textiles y la incorporación de seguros contra los aumentos cuantiosos de las importaciones. Tanto fue así que, cuando el avión de Zhu Rongji aterrizó el 6 de abril, las condiciones ya estaban dadas para uno de los fracasos más sobresalientes en política externa de los últimos años.</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T181210Z">
+        <seg>El presidente Clinton apoyó a sus consejeros en política interna y solicitó que el USTR retomara las negociaciones para solicitar la extención de la protección a las textiles y la incorporación de seguros contra los aumentos cuantiosos de las importaciones. Tanto fue así que, cuando el avión de Zhu Rongji aterrizó el 6 de abril, las condiciones ya estaban dadas para uno de los fracasos más sobresalientes en política externa de los últimos años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10113,8 +10113,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Then, in a two and a half-hour meeting with Premier Zhu at the&lt;t0/&gt; &lt;t1/&gt;White House that evening, he did exactly that.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160910T023116Z">
-        <seg>Luego por la noche en una reunión de dos horas y media con el Primer Ministro Zhu en la Casa Blanca, hizo exactamente eso.</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T181205Z">
+        <seg>Luego por la noche en una reunión de dos horas y media con el primer ministro Zhu en la Casa Blanca, hizo exactamente eso.</seg>
       </tuv>
     </tu>
     <tu>
