@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2164,6 +2164,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T024105Z">
         <seg>Aunque el partido todavía reclama legitimidad sobre las bases del marxismo-leninismo, y este reclamo acarrea consecuencias importantes en el sistema político, todos son conscientes de que la legitimidad por rendimiento se ha vuelto mucho más importante que la ideología cuando se pretende justificar el control constante del gobierno.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although the critics charge that the economic reforms have fostered inequality and corruption, it is not clear that they have clear-cut alternatives that would not lead to worse outcomes.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013209Z" creationid="bluebird" creationdate="20160910T013209Z">
+        <seg>Aunque los críticos afirman que las reformas económicas han fomentado la disparidad y la corrupción, no hay evidencia de que contaran con alternativas claras que llevaran a mejores resultados.</seg>
       </tuv>
     </tu>
     <tu>
