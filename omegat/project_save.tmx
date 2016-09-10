@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10485,6 +10485,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T061955Z">
         <seg>Al observar la evolución de los intelectuales y la clase política, uno se pregunta sobre la relación entre estas dos comunidades y cómo ha cambiado a lo largo del tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To say that public opinion has been of growing importance is not to say that the political leadership always pays attention to what intellectuals say.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051727Z" creationid="Sofia" creationdate="20160910T051727Z">
+        <seg>Decir que la importancia de la opinión pública ha incrementado no quiere decir que los líderes políticos le pongan atención a lo que dicen los intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
