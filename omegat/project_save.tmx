@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6901,8 +6901,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Meanwhile, urban layoffs have created an underclass of some 30 million urban poor – a problem China has never faced before.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T013505Z">
-        <seg>Mientras tanto, los despidos en la zona urbana han creado una subclase de aproximadamente 30 millones de pobres - un problema que China nunca había enfrentado.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T004802Z">
+        <seg>Mientras tanto, los despidos en la zona urbana han creado una subclase de aproximadamente 30 millones de pobres - un problema que China no había enfrentado antes.</seg>
       </tuv>
     </tu>
     <tu>
