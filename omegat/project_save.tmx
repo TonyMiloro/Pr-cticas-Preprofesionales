@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2330,8 +2330,8 @@
       <tuv lang="EN-US">
         <seg>Anticipating trends that would continue, albeit with significantly different content, in the 1990s, intellectuals with only minimal attachment to the state started to become active.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T045420Z">
-        <seg>Anticipándose a tendencias que continuarían en la década de los 90, aunque con considerables diferencias en contenido, los intelectuales mínimamente relacionados con el estado comenzaron a volverse activos.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T174230Z">
+        <seg>Anticipándose a tendencias que continuarían en la década de los 90, aunque con considerables diferencias de contenido, los intelectuales mínimamente relacionados con el estado asumieron un rol activo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9159,8 +9159,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>The May Fourth Movement (1919) was part of a broader New Culture Movement (1915–20), which drew inspiration from the European Enlightenment and hence was dubbed the “Chinese Enlightenment.” Accordingly, liberal intellectuals in the 1980s were often referred to (and saw themselves) as “enlightenment intellectuals”; indeed, one of the liberal journals founded in the late 1980s was known as The New Enlightenment (Xin qimeng).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T015856Z">
-        <seg>El Movimiento del Cuatro de Mayo (1919) fue parte de un movimiento más amplio denominado Movimiento de la Nueva Cultura (1915-20), que se inspiró en la Ilustración europea y por lo tanto se denominó “Ilustración china”. En sintonía con esto, los intelectuales de la década de los 80 se conocían (y se consideraban a sí mismos) como “intelectuales ilustrados”; de hecho, una de las revistas científicas liberales fundadas a finales de la década de los 80 se conocía con el nombre de la Nueva ilustración (Xin qimeng).</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T173646Z">
+        <seg>El Movimiento del Cuatro de Mayo (1919) fue parte de un movimiento más amplio denominado Movimiento de la Nueva Cultura (1915-20), que se inspiró en la Ilustración europea y, por lo tanto, se denominó “Ilustración china”. En sintonía con esto, los intelectuales de la década de los 80 se conocían (y se consideraban a sí mismos) como “intelectuales de la Ilustración”; de hecho, una de las revistas científicas liberales fundadas a finales de la década de los 80 se conocía con el nombre de la Nueva Ilustración (Xin qimeng).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10233,8 +10233,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>These groups fueled the “cultural fever” (wenhua re) of the late 1980s, epitomized by the film River Elegy (He Shang).15 The self-assigned mission of these groups was to carve out a “public space” that was independent of the state; it was a mission that assumed a common discourse based on Enlightenment ideals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T014443Z">
-        <seg>Estos grupos avivaron la “Fiebre Cultural” (wenhua re) de finales de la década de los 80, representada en la película Elegía del río (He Shang)15. La misión autoasignada de estos grupos era la de formar un “espacio público” que fuera independiente del estado; esta misión adoptó un discurso común basado en los ideales de la Ilustración.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T174341Z">
+        <seg>Estos grupos avivaron la “fiebre cultural” (wenhua re) de finales de la década de los 80, representada en la película Elegía del río (He Shang)15. La misión autoasignada de estos grupos era la de formar un “espacio público” que fuera independiente del estado; esta misión adoptó un discurso común basado en los ideales de la Ilustración.</seg>
       </tuv>
     </tu>
     <tu>
