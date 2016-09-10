@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5941,8 +5941,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, there are times when political concerns dominate intellectual discussion to the point where the latter are nearly irrelevant.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T052226Z" creationid="Sofia" creationdate="20160910T052125Z">
-        <seg>Incluso, hay momentos en los que los intereses políticos dominan el discurso de los intelectuales hasta llegar al punto en que los últimos se vuelven irrelevantes.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T132945Z" creationid="Sofia" creationdate="20160910T052125Z">
+        <seg>Incluso, hay momentos en los que los intereses políticos dominan el discurso de los intelectuales hasta llegar al punto de volverlo irrelevante.</seg>
       </tuv>
     </tu>
     <tu>
