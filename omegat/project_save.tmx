@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8734,8 +8734,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>That deadlock was broken by Deng Xiaoping’s journey to the south in early 1992, and reform regained momentum.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T022458Z">
-        <seg>El viaje de Deng Xiaoping al sur en 1992 los sacó de punto muerto, y la reforma retomó impulso.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T011141Z">
+        <seg>El viaje de Deng Xiaoping al sur en 1992 los sacó del punto muerto, y la reforma retomó impulso.</seg>
       </tuv>
     </tu>
     <tu>
