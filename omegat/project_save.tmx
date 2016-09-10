@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1377,8 +1377,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Jiang’s ouster&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;be3/&gt;&lt;f4&gt;of Chen Xitong was his most significant move on the chessboard of elite politics since the 1992 removal of Yang Baibing, and the first that could be attributed to Jiang alone.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T133618Z" creationid="Daniel-Andrea" creationdate="20160910T125234Z">
-        <seg>&lt;f0&gt;La destitución de Jiangs&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;be3/&gt;&lt;f4&gt;de Chen Xitong fue su movimiento más significativo en el tablero de ajedrez de la política de elite ya que la eliminación de Yang Baibing 1992, y la primera que podría atribuirse a Jiang solo.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T133700Z" creationid="Daniel-Andrea" creationdate="20160910T125234Z">
+        <seg>&lt;f0&gt;La destitución de Jiangs&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;be3/&gt;&lt;f4&gt;de Chen Xitong fue su movimiento más significativo en el tablero de ajedrez de la política de elite desde la destitución de Yang Baibing 1992, y la primera que podría atribuirse solamente a Jiang.</seg>
       </tuv>
     </tu>
     <tu>
