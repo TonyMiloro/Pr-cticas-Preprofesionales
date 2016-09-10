@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7423,6 +7423,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224339Z">
         <seg>9–11 de octubre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oddly, White House&lt;t6/&gt; &lt;t7/&gt;officials did not feel that the US business community had been vocal enough&lt;t8/&gt; &lt;t9/&gt;in supporting China’s accession.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T030758Z">
+        <seg>Extrañamente los funcionarios de la Casa Blanca no sintieron que la comunidad empresarial de los EUA había  expresado su apoyo a favor de la </seg>
       </tuv>
     </tu>
     <tu>
