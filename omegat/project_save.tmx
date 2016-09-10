@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1377,7 +1377,7 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Jiang’s ouster&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;be3/&gt;&lt;f4&gt;of Chen Xitong was his most significant move on the chessboard of elite politics since the 1992 removal of Yang Baibing, and the first that could be attributed to Jiang alone.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T133700Z" creationid="Daniel-Andrea" creationdate="20160910T125234Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T133700Z">
         <seg>&lt;f0&gt;La destitución de Jiangs&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;be3/&gt;&lt;f4&gt;de Chen Xitong fue su movimiento más significativo en el tablero de ajedrez de la política de elite desde la destitución de Yang Baibing 1992, y la primera que podría atribuirse solamente a Jiang.</seg>
       </tuv>
     </tu>
@@ -1785,7 +1785,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t2/&gt;This was the culmination of long-festering differences of opinion that had been building for a decade within the Party, and there was little that intellectuals could do or say to sway the outcome.26 This period lasted until Deng Xiaoping’s famous journey to the south of China in early 1992 and the subsequent affirmation of his views at the Fourteenth Party Congress later that year.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T160008Z" creationid="Sofia" creationdate="20160910T154849Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T160008Z">
         <seg>&lt;t2/&gt;Esta fue la culminación de las diferencias de opinión que se habían estado gestando en el Partido desde hacía más de una década, y no había mucho que los intelectuales pudieran hacer para influir en el resultado.26 Este período finalizó con el famoso viaje de Deng Xiaoping al sur de China a comienzos de 1992, y con la posterior afirmación de sus posturas en el XIX Congreso Nacional del PCCh a finales de ese año.</seg>
       </tuv>
     </tu>
@@ -1938,7 +1938,7 @@
       <tuv lang="EN-US">
         <seg>Advocates of the new authoritarianism argued that unless a powerful central government could oversee the implementation of market-oriented reforms, the reform process itself might stall and a democracy might never appear.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174126Z" creationid="USER" creationdate="20160910T174126Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174126Z">
         <seg>Los defensores del neoautoritarismo sostenían que a menos que un gobierno central poderoso pudiera supervisar la implementación de reformas orientadas al mercado, el proceso de reforma en sí mimo se detendría y nunca surgiría una democracia.</seg>
       </tuv>
     </tu>
@@ -2642,7 +2642,7 @@
       <tuv lang="EN-US">
         <seg>At roughly the same time that Wang was forwarding his report to the top leadership, another intellectual, Zhang Bingjiu (then a Ph.D.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173322Z" creationid="USER" creationdate="20160910T173322Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173322Z">
         <seg>Casi al mismo tiempo que Wang reenviaba su informe a los máximos dirigentes, otro intelectual, Zhang Bingjiu, quien entonces era un candidato a un doctorado en la Universidad de Pekín,</seg>
       </tuv>
     </tu>
@@ -2722,7 +2722,7 @@
       <tuv lang="EN-US">
         <seg>At the same time, there were more “liberal” advisers, such as former Shanghai mayor and all-round political mentor Wang Daohan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T180101Z" creationid="Daniel-Andrea" creationdate="20160910T130239Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T180101Z">
         <seg>Al mismo tiempo, había más asesores "liberales", tales como el ex alcalde de Shanghái y versátil mentor político Wang Daohan.</seg>
       </tuv>
     </tu>
@@ -2930,7 +2930,7 @@
       <tuv lang="EN-US">
         <seg>Both new authoritarians and liberal intellectuals were strongly influenced by the example of the “East Asian development model” that had seemed so effective in that part of the world, but whereas new authoritarians hoped to emulate their neighbors, liberal intellectuals stressed the differences between China and its neighbors.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143810Z" creationid="Ana Paula" creationdate="20160910T143810Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143810Z">
         <seg>Tanto los neoautoritarios como los intelectuales liberales estuvieron muy influenciados por el ejemplo del “modelo de desarrollo de Asia Oriental” que tan efectivo parecía en aquella parte del mundo. Sin embargo, mientras los neoautoritarios deseaban igualar a sus vecinos, los intelectuales liberales remarcaban las diferencias existentes entre China y sus vecinos. </seg>
       </tuv>
     </tu>
@@ -3274,7 +3274,7 @@
       <tuv lang="EN-US">
         <seg>Chen’s arrest hardly brought consensus within the political elite, for the same interests and currents that had clashed in the years following Tiananmen remained.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T180035Z" creationid="Daniel-Andrea" creationdate="20160910T125501Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T180035Z">
         <seg>La detención de Chen prácticamente no trajo consenso dentro de la elite política, por los mismos intereses y corrientes que se habían enfrentado en los años siguientes a Tiananmen.</seg>
       </tuv>
     </tu>
@@ -3570,7 +3570,7 @@
       <tuv lang="EN-US">
         <seg>Contrary to the reasoning of the new authoritarians, Yu argued that only a democratic system could bring the stability and solidarity desired by the new authoritarians, and democracy could not be achieved by building a new autocracy.11</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174451Z" creationid="USER" creationdate="20160910T174451Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174451Z">
         <seg>Contrario al razonamiento de los neoautoritarios, Yu sostenía que solo un sistema democrático podría traer consigo la estabilidad y solidaridad que los neoautoritarios deseaban, y que no se podría alcanzar la democracia sino a través de la construcción de una nueva autocracia.11</seg>
       </tuv>
     </tu>
@@ -3690,7 +3690,7 @@
       <tuv lang="EN-US">
         <seg>Democracy could only develop on the basis of such economic</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173544Z" creationid="USER" creationdate="20160910T173544Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173544Z">
         <seg>La democracia solo podía desarrollarse sobre la base de semejante autonomía económica,</seg>
       </tuv>
     </tu>
@@ -3810,7 +3810,7 @@
       <tuv lang="EN-US">
         <seg>Deng indicated general agreement, saying “[t]his is also my idea” while registering reservations about the terminology (saying that the “specific word for this notion can be reconsidered”).6</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173945Z" creationid="USER" creationdate="20160910T173945Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173945Z">
         <seg>Deng expresó estar de acuerdo en términos generales cuando dijo “esta también es mi idea”, pero también con algunas reservas con respecto a la terminología cuando dijo que “la palabra específica para esta noción se puede reconsiderar”.6</seg>
       </tuv>
     </tu>
@@ -4140,7 +4140,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Even if our knowledge of this process is not as good as we would like, ignoring it would miss an important dimension of the contemporary scene.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051427Z" creationid="Sofia" creationdate="20160910T051427Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051427Z">
         <seg>Incluso si nuestros conocimientos sobre este proceso no son tan profundos, ignorarlo significaría perderse una dimensión importante de la escena contemporánea. </seg>
       </tuv>
     </tu>
@@ -4356,7 +4356,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Following Hu Yaobang’s ouster as general secretary, Zhao Ziyang felt the need to concentrate greater authority in his office, both to be able to push reform forward against the resistance of local officials and to ward off political threats at the central level.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173805Z" creationid="USER" creationdate="20160910T173805Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173805Z">
         <seg>Luego de la destitución de Hu Yaobang como secretario general, Zhao Ziyang sintió la necesidad de concentrar más autoridad en su cargo, para poder impulsar una reforma en contra de la resistencia de los funcionarios locales y para mantener alejadas las amenazas políticas a nivel central.</seg>
       </tuv>
     </tu>
@@ -4412,7 +4412,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, Yu Haocheng, a legal scholar and chief editor of the Masses Publishing House (Qunzhong chubanshe), argued that the new authoritarians fundamentally misunderstood their facts; the conditions in the “four small dragons” (South Korea, Taiwan, Singapore,Hong Kong), on which much of the new authoritarian thinking was modeled, were fundamentally different from conditions in China.10 In the four dragons, the economy was free and so intertwined with the international economy that their governments really could only have a “minuscule” impact on determining their economies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174303Z" creationid="USER" creationdate="20160910T174303Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174303Z">
         <seg>Por ejemplo, Yu Haocheng, jurista y editor en jefe de la editorial Masses Publishing House (Qunzhong chubanshe), sostenía que los neoautoritarios básicamente malinterpretaron los hechos, es decir, las condiciones en los “los cuatro tigres asiáticos” (Corea del Sur, Taiwán, Singapur, Hong Kong), en los que se formó gran parte del pensamiento neoautoritario, eran básicamente diferentes de las condiciones en China .10 En los cuatro tigres asiáticos, la economía estaba liberada y tan entrelazada con la economía internacional que sus gobiernos realmente podían tener solo un impacto “minúsculo” a lo hora de condicionar sus economías.</seg>
       </tuv>
     </tu>
@@ -4500,7 +4500,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For them, Zhao’s personal role and the fate of &lt;t10/&gt;marketizing&lt;t11/&gt; reforms were two sides of the same coin.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143624Z" creationid="Ana Paula" creationdate="20160910T143624Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143624Z">
         <seg>Para ellos, el papel personal de Zhao y el destino de las reformas mercadizadoras eran dos caras de una misma moneda.</seg>
       </tuv>
     </tu>
@@ -5901,7 +5901,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In their opinion, political reform had to precede economic reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143648Z" creationid="Ana Paula" creationdate="20160910T143648Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143648Z">
         <seg>en su opinión, la reforma política debía anteceder la reforma económica. </seg>
       </tuv>
     </tu>
@@ -5933,7 +5933,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In traditional authoritarian systems, Zhang maintained, economics and politics were conflated so that economic units could not have real autonomy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173509Z" creationid="USER" creationdate="20160910T173509Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173509Z">
         <seg>En los sistemas autoritarios tradicionales, sostenía Zhang, la economía y la política estaban fusionadas de manera que las unidades económicas no podían tener autonomía real.</seg>
       </tuv>
     </tu>
@@ -6005,7 +6005,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, it was this lack of democracy, Yu argued, that had led to the alternation of autocracy and anarchy in Chinese history.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174420Z" creationid="USER" creationdate="20160910T174420Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174420Z">
         <seg>De hecho, fue esta falta de democracia, sostenía Yu, lo que había llevado a la alternancia entre autocracia y anarquía en la historia china.</seg>
       </tuv>
     </tu>
@@ -6045,7 +6045,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, there are times when political concerns dominate intellectual discussion to the point where the latter are nearly irrelevant.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T132945Z" creationid="Sofia" creationdate="20160910T052125Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T132945Z">
         <seg>Incluso, hay momentos en los que los intereses políticos dominan el discurso de los intelectuales hasta llegar al punto de volverlo irrelevante.</seg>
       </tuv>
     </tu>
@@ -6093,7 +6093,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Intellectuals were largely shocked into silence by the enormity of what had happened; alienated from the political leadership, they had little desire to participate in discussions – and the political leadership, caught up in its own conflicts, had little patience with intellectual expression.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T143553Z" creationid="Sofia" creationdate="20160910T143454Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T143553Z">
         <seg>Los intelectuales estaban impactados por la magnitud de lo que había sucedido; al encontrarse alienados del liderazgo político, no tenían deseos de participar en debates, y los líderes políticos, ocupados con sus propios problemas, no tenían paciencia con la expresión intelectual.</seg>
       </tuv>
     </tu>
@@ -6229,7 +6229,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>It might be said that the new authoritarians underestimated the likelihood that a recentralized authority would be used to shore up personal authority (not necessarily that of Zhao &lt;t14/&gt;Ziyang&lt;t15/&gt;!) instead of being used to push through the &lt;t16/&gt;marketizing&lt;t17/&gt; reforms that they hoped for, just as liberal intellectuals underestimated the very real problems in maintaining social stability and in continuing economic reform – some of which required the creation of a stronger, or at least more effective, state.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143734Z" creationid="Ana Paula" creationdate="20160910T143734Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143734Z">
         <seg>Se podría decir que los neoautoritarios subestimaron la posibilidad de que una autoridad recentralizada se utilizara para fortalecer la autoridad personal (¡no necesariamente la de Zhao Ziyang!) en lugar de utilizarla para avanzar con las reformas mercadizadoras que ansiaban, de la misma forma en que los intelectuales liberales subestimaron las verdaderas dificultades que había para mantener la estabilidad social y continuar con la reforma económica, ya que algunas requerían de la creación de un Estado más fuerte, o al menos de uno más efectivo. </seg>
       </tuv>
     </tu>
@@ -6253,7 +6253,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>It seems that in removing Chen, Jiang was indirectly addressing the still angry citizens of Beijing – but doing so in a way that did not call for a direct reversal of the verdict on Tiananmen.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T133356Z" creationid="Daniel-Andrea" creationdate="20160910T124849Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T133356Z">
         <seg>Parecía que quitándole el cargo a Chen, Jiang estaba dirigiéndose indirectamente a los ciudadanos de Pekín que aún estaban enojados (pero haciendo esto de una forma que no llamaba a una inversión directa del veredicto en Tiananmen.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
@@ -6645,7 +6645,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Just as Yuan Shikai in 1915 could abort Song Jiaoren’s efforts to bring about a democratic system by ordering his assassination, so democracy would not have an adequate foundation today unless the political elite consciously used the political system to force through the separation.5</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173742Z" creationid="USER" creationdate="20160910T173742Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173742Z">
         <seg>Tal como Yuan Shikai en 1915 pudo abortar los esfuerzos de Song Jiaoren por dar lugar a un sistema democrático ordenando su asesinato, de la misma manera hoy la democracia no habría tenido cimientos adecuados a menos que la elite política usara de manera consiente el sistema político para forzar la separación.5</seg>
       </tuv>
     </tu>
@@ -6741,7 +6741,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Now, Chen was forced to step down because of corruption.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T124559Z" creationid="Daniel-Andrea" creationdate="20160910T124410Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T124559Z">
         <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Ahora, Chen fue obligado a dejar el cargo debido a la corrupción.</seg>
       </tuv>
     </tu>
@@ -6749,7 +6749,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Liberal intellectuals, such as Yu &lt;t12/&gt;Haocheng&lt;t13/&gt;, saw the same problems but arrived at very different conclusions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143635Z" creationid="Ana Paula" creationdate="20160910T143635Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143635Z">
         <seg>Intelectuales liberales como Yu Haocheng observaron los mismos problemas, pero llegaron a conclusiones diferentes: </seg>
       </tuv>
     </tu>
@@ -7181,7 +7181,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Moreover, they believed that a recentralization of authority, however good the intentions of the new authoritarians might be, would inevitably lead China back into the sort of autocracy from which the country had only recently begun to escape.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143712Z" creationid="Ana Paula" creationdate="20160910T143712Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143712Z">
         <seg>Además, creían que por más buenas que pudieran ser las intenciones de los neoautoritarios, la recentralización de la autoridad desembocaría inevitablemente en el retorno de China a la autocracia, de la cual el país recién había comenzado a escaparse. </seg>
       </tuv>
     </tu>
@@ -7389,7 +7389,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>New authoritarians hoped to use the power of the state to break through these obstacles and push &lt;t4/&gt;marketization&lt;t5/&gt; forward.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143536Z" creationid="Ana Paula" creationdate="20160910T143536Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143536Z">
         <seg>Los neoautoritarios ansiaban usar el poder del Estado para vencer esos obstáculos y avanzar con la mercadización. </seg>
       </tuv>
     </tu>
@@ -7397,7 +7397,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>New authoritarians worried about two problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143442Z" creationid="Ana Paula" creationdate="20160910T143442Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143442Z">
         <seg>Los neoautoritarios se concentraban en dos problemáticas. </seg>
       </tuv>
     </tu>
@@ -7766,7 +7766,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>On the one hand, they worried that the decentralizing reforms that reformers themselves had helped bring about were now creating new centers of power at lower levels that were preventing the continuation of &lt;t0/&gt;marketizing&lt;t1/&gt; reforms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143503Z" creationid="Ana Paula" creationdate="20160910T143503Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143503Z">
         <seg>Por un lado, estaban preocupados porque las reformas descentralizadoras que los mismos reformistas habían ayudado a generar ahora creaban nuevos centros de poder en los niveles más bajos, los cuales prevenían la continuación de reformas de mercadización.</seg>
       </tuv>
     </tu>
@@ -7774,7 +7774,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>On the other hand, both the reform program and individual reformers, particularly Premier (and then General Secretary) Zhao &lt;t6/&gt;Ziyang&lt;t7/&gt;, were&lt;t8/&gt; &lt;t9/&gt;facing a rising barrage of criticism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143550Z" creationid="Ana Paula" creationdate="20160910T143550Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143550Z">
         <seg>Por otro lado, tanto el programa reformista como los reformistas individuales, en particular el primer ministro (y luego secretario general) Zhao Ziyang, enfrentaban un bombardeo de críticas progresivo. </seg>
       </tuv>
     </tu>
@@ -7886,7 +7886,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Only by developing democracy could this cycle be broken.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174436Z" creationid="USER" creationdate="20160910T174436Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174436Z">
         <seg>Solo a través del desarrollo de la democracia, se podría romper este ciclo.</seg>
       </tuv>
     </tu>
@@ -7910,7 +7910,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Over the early months of 1989, the pages of China’s newspapers and journals filled with discussions of new authoritarianism and related issues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174006Z" creationid="USER" creationdate="20160910T174006Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174006Z">
         <seg>Durante los primeros meses del año 1989, las páginas de los periódicos y diarios de China se llenaron de debates sobre neoautoritarismo y temas relacionados.</seg>
       </tuv>
     </tu>
@@ -8190,7 +8190,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Proponents of the new authoritarianism and of democracy each focused on real, but different, features of the Chinese polity in the late 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143426Z" creationid="Ana Paula" creationdate="20160910T143426Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143426Z">
         <seg>Los partidarios del neoautoritarismo y de la democracia se enfocaron en características distintivas pero diferentes del sistema de gobierno chino a fines de la década de los 80.</seg>
       </tuv>
     </tu>
@@ -8750,7 +8750,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Some advocates of the new authoritarianism no doubt hoped to use the theory to concentrate greater power in Zhao’s hands and thus turn back challenges to his authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143601Z" creationid="Ana Paula" creationdate="20160910T143601Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143601Z">
         <seg>Sin duda algunos defensores del neoautoritarismo esperaban usar la teoría para concentrar mayor poder en las manos de Zhao y así terminar con los desafíos que enfrentaba su autoridad. </seg>
       </tuv>
     </tu>
@@ -8766,7 +8766,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Some favored “elite democracy”7 while others emphasized “strongman politics.”8 However, the basic thrust</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174045Z" creationid="USER" creationdate="20160910T174045Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174045Z">
         <seg>Algunos se manifestaron a favor de “la democracia de elite”7, mientras que otros enfatizaron “las políticas de mano dura”.8 Sin embargo, el verdadero sentido de estos debates era que,</seg>
       </tuv>
     </tu>
@@ -8838,7 +8838,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Still, glimpses &lt;t0/&gt;can be gained&lt;t1/&gt; by looking at specific issues and events.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051158Z" creationid="Sofia" creationdate="20160910T051158Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051158Z">
         <seg>Aún así, esta interacción &lt;t0/&gt; se puede vislumbrar&lt;t1/&gt;si se observan determinadas situaciones y eventos.</seg>
       </tuv>
     </tu>
@@ -9377,7 +9377,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The contentions of the new authoritarians were quickly challenged by liberal intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174237Z" creationid="USER" creationdate="20160910T174237Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174237Z">
         <seg>Las opiniones de los neoautoritarios fueron rápidamente desafiadas por los intelectuales liberales.</seg>
       </tuv>
     </tu>
@@ -9401,7 +9401,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The debate in the wake of Tiananmen was a very political debate that pitted defenders of Marxist orthodoxy (known as the “Old Left” in&lt;t0/&gt; &lt;t1/&gt;China) against the reformers allied with Deng Xiaoping.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T152515Z" creationid="Sofia" creationdate="20160910T152515Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T152515Z">
         <seg>Tras Tienanmén, hubo un debate político que enfrentó a los defensores del marxismo ortodoxo (en China conocido como "la vieja izquierda") y a los reformistas aliados con Deng Xiaoping.&lt;t0/&gt; &lt;t1/&gt;</seg>
       </tuv>
     </tu>
@@ -9513,7 +9513,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The emphases of different authors varied.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174022Z" creationid="USER" creationdate="20160910T174022Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174022Z">
         <seg>Los diversos autores se focalizaron en aspectos variados.</seg>
       </tuv>
     </tu>
@@ -9553,7 +9553,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The example of a “honeymoon” period between the common citizens and monarchs of Europe (another argument made by the new authoritarians) was irrelevant to China, which had not</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174327Z" creationid="USER" creationdate="20160910T174327Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174327Z">
         <seg>El ejemplo de un período de “luna de miel” entre los ciudadanos comunes y los monarcas de Europa (otro argumento de los neoautoritarios) era irrelevante para China, que no había tenido una economía feudal</seg>
       </tuv>
     </tu>
@@ -9745,7 +9745,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The most important of these was Zeng Qinghong, who served as head of the Central Committee’s General Office from 1993 to 1998 and then moved over to head the important Organization Department.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T140038Z" creationid="Daniel-Andrea" creationdate="20160910T135914Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T140038Z">
         <seg>El más importante de ellos fue Zeng Qinghong, quien se desempeñó como jefe de la Oficina General del Comité Central desde 1993 hasta 1998 y luego se trasladó para encabezar el importante Departamento de Organización.</seg>
       </tuv>
     </tu>
@@ -10137,7 +10137,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>There was also Liu Ji, Jiang’s close friend from Shanghai who served as vice-president of CASS from 1993 to 1998, then played an active though much lower-profile role in Beijing, and finally was exiled back to Shanghai to take up a deanship in an MBA program.&lt;/f7&gt;&lt;f8&gt;21&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;In between these conservative and liberal advisers, were a number of people who have worked to further Jiang’s interests bureaucratically.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T135708Z" creationid="Daniel-Andrea" creationdate="20160910T131928Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T135708Z">
         <seg>También estaba Liu Ji, un amigo cercano de Jiang de Shanghái quien había sido vice-presidente de la Academia China de Ciencias Sociales (Chinese Academy of Social Sciences, CASS) desde 1993 hasta 1998, luego tuvo un papel activo aunque de perfil más bajo en Pekín y finalmente fue fue exiliado de nuevo a Shanghái  para ocupar un decanato en un programa de Maestría en Administración de negocios (Master of Business Administration, MBA&lt;/f7&gt;&lt;f8&gt;21.&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;En medio de estos asesores conservadores y liberales, había un número de personas que han trabajado para promover los intereses de Jiang burocráticamente.</seg>
       </tuv>
     </tu>
@@ -10217,7 +10217,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>These divergent interests were reflected both in the Party leadership and in those that Jiang gathered around him for policy advice.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T125601Z" creationid="Daniel-Andrea" creationdate="20160910T125601Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T125601Z">
         <seg>Estos intereses divergentes se reflejaron tanto en la dirección del partido como en aquellos que Jiang reunió en busca de asesoramiento.</seg>
       </tuv>
     </tu>
@@ -10529,7 +10529,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This relative absence of state–intellectual communication in the immediate aftermath of Tiananmen points to the temporal aspect of this relationship.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T150904Z" creationid="Sofia" creationdate="20160910T150904Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T150904Z">
         <seg>Esta ausencia relativa de comunicación entre los intelectuales y el estado en la repercusión inmediata a los sucesos de Tienanmén apunta al aspecto temporal de esta relación.</seg>
       </tuv>
     </tu>
@@ -10593,7 +10593,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This was largely true of the period immediately following Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T133221Z" creationid="Sofia" creationdate="20160910T133221Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T133221Z">
         <seg>Esto sucedió en gran medida durante el período inmediatamente posterior a Tiananmén.</seg>
       </tuv>
     </tu>
@@ -10651,7 +10651,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Those in favor of the new authoritarianism were not opposed to</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174143Z" creationid="USER" creationdate="20160910T174143Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174143Z">
         <seg>Los que estaban a favor del neoautoritarismo no se oponían a la democracia, sino que, por el contrario,</seg>
       </tuv>
     </tu>
@@ -10747,7 +10747,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Thus, a debate on the merits of new</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173835Z" creationid="USER" creationdate="20160910T173835Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173835Z">
         <seg>Por lo tanto, se generó un debate sobre los méritos del neoautoritarismo entre los consejeros de Zhao,</seg>
       </tuv>
     </tu>
@@ -10843,7 +10843,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>To say that public opinion has been of growing importance is not to say that the political leadership always pays attention to what intellectuals say.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051727Z" creationid="Sofia" creationdate="20160910T051727Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051727Z">
         <seg>Decir que la importancia de la opinión pública ha incrementado no quiere decir que los líderes políticos le pongan atención a lo que dicen los intelectuales.</seg>
       </tuv>
     </tu>
@@ -10987,7 +10987,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Unless the political system could be democratized, they believed, there could never be guarantees for the sanctity of law or property, without which a market economy could never function well.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143703Z" creationid="Ana Paula" creationdate="20160910T143703Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143703Z">
         <seg>Sostenían que, a menos que el sistema político se democratizara, nunca habría garantías de la santidad de la ley o la propiedad, sin la cual jamás podría funcionar adecuadamente una economía de mercado.</seg>
       </tuv>
     </tu>
@@ -11155,7 +11155,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Wang played a critical role in helping Jiang navigate the hidden shoals of elite politics, shaped much of Jiang’s approach to foreign affairs, and was invaluable as a liaison with the intellectual community.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T180116Z" creationid="Daniel-Andrea" creationdate="20160910T130420Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T180116Z">
         <seg>Wang tuvo un papel fundamental para ayudar a Jiang a navegar por los bancos ocultos de la política de elite, moldeó en gran parte el enfoque de Jiang con respecto a la política exterior y fue un vínculo muy importante con la comunidad intelectual.</seg>
       </tuv>
     </tu>
@@ -11259,7 +11259,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>What China had seen was an autocratic government and a lack of democracy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174359Z" creationid="USER" creationdate="20160910T174359Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174359Z">
         <seg>Lo que China había presenciado era un gobierno autocrático y la falta de democracia.</seg>
       </tuv>
     </tu>
@@ -11379,7 +11379,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Whereas lower levels had welcomed reforms earlier in the decade, now they had developed interests in the &lt;t2/&gt;semireformed&lt;t3/&gt; institutions of local society and opposed efforts that would erode their newfound power.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143520Z" creationid="Ana Paula" creationdate="20160910T143520Z">
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143520Z">
         <seg>A pesar de que al comienzo de la década habían acogido las reformas, ahora estaban interesados en las instituciones semireformadas  y se resistían a intentos que pudieran deteriorar su nuevo poder. </seg>
       </tuv>
     </tu>
@@ -11459,7 +11459,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Within Jiang’s own entourage were conservative officials such as Teng Wensheng (Deng Liqun’s prote´ge´), who headed the Policy Research Office of the Central Committee,&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;and Ding Guan’gen (the conservative head of the Propaganda Department), whom Jiang continued to employ despite his being widely disliked within the Party, not to mention among intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T130022Z" creationid="Daniel-Andrea" creationdate="20160910T130022Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T130022Z">
         <seg>Dentro del propio entorno de Jiang fueron los funcionarios conservadores, como Teng Wensheng (prote'ge' de Deng Liqun), quien dirigió la Oficina de Investigación Política del Comité Central&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;y Ding Guan'gen (el jefe conservador del Departamento de Propaganda), quien Jiang continuó empleando a pesar de que dentro del partido no lo querían mucho, sin hablar de los intelectuales.</seg>
       </tuv>
     </tu>
@@ -11627,7 +11627,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Zeng was promoted to be an alternate member of the Politburo at the Fifteenth Party Congress in 1997, and then to the number five position on the Politburo Standing Committee in 2002.&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;22&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T140206Z" creationid="Daniel-Andrea" creationdate="20160910T140206Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T140206Z">
         <seg>Zeng fue promovido a ser un miembro suplente del Politburó en el XV Congreso del Partido en 1997, y luego a la posición número cinco en el Comité Permanente del Politburó en 2002.&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;22.&lt;/f14&gt;</seg>
       </tuv>
     </tu>
@@ -11659,7 +11659,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Zhang believed – similarly to Wu – that if China tried to move too quickly to democracy then the conflation of economics and politics would continue and there would be no</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173657Z" creationid="USER" creationdate="20160910T173657Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173657Z">
         <seg>Como Wu, Zhang creía que, si China intentaba avanzar hacia la democracia demasiado rápido, la fusión entre la economía y la política continuaría</seg>
       </tuv>
     </tu>
@@ -11667,7 +11667,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Zhao indicated his sympathy for the concept by reporting on the discussion in April 1989 to Deng Xiaoping.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173923Z" creationid="USER" creationdate="20160910T173923Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173923Z">
         <seg>Zhao expresó su afinidad con este concepto al referirse a Deng Xiaoping en el debate de abril de 1989.</seg>
       </tuv>
     </tu>
@@ -11812,7 +11812,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>authoritarianism opened up among Zhao’s advisers, with some favoring the concept and others opposed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173855Z" creationid="USER" creationdate="20160910T173855Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173855Z">
         <seg>en el que algunos se expresaban a favor del concepto y otros se oponían.</seg>
       </tuv>
     </tu>
@@ -11820,7 +11820,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>autonomy, so the current need was to use the political system to consciously separate politics from economics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173610Z" creationid="USER" creationdate="20160910T173610Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173610Z">
         <seg>por lo que en su momento era necesario utilizar el sistema político para separar de manera consiente la política de la economía.</seg>
       </tuv>
     </tu>
@@ -11828,7 +11828,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>basis for real, stable democracy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173722Z" creationid="USER" creationdate="20160910T173722Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173722Z">
         <seg>y no habría base para una democracia real y estable.</seg>
       </tuv>
     </tu>
@@ -11860,7 +11860,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>candidate at Beijing University) wrote an article saying that China needed a “semiauthoritarian” (banjiquan) political system in order to develop a commodity (i.e., market-oriented) economy.4 What Zhang meant by the creation of a semi-authoritarian political system was the separation of politics from economics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T173438Z" creationid="USER" creationdate="20160910T173438Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173438Z">
         <seg>escribió un artículo en el señalaba que China necesitaba un sistema político “semiautoritario” (banjiquan) para poder desarrollar una economía basada en las materias primas, es decir, una economía abierta de mercado.4 A lo que What Zhang se refería con la creación de un sistema político semiautoritario era la separación entre la política y la economía.</seg>
       </tuv>
     </tu>
@@ -11924,7 +11924,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>democracy but, on the contrary, believed that only a step-by-step, gradualist approach could ultimately achieve it.9</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174208Z" creationid="USER" creationdate="20160910T174208Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174208Z">
         <seg>creían que solo se podría alcanzar por medio de un enfoque gradualista, paso a paso.9</seg>
       </tuv>
     </tu>
@@ -12036,7 +12036,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>had a manorial economy in the two millennia since the first emperor of the Qin.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174344Z" creationid="USER" creationdate="20160910T174344Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174344Z">
         <seg>en los dos milenos desde el primer emperador de los Qin.</seg>
       </tuv>
     </tu>
@@ -12100,7 +12100,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>of these various discussions was that, at this particular stage in China’s reform, it was necessary to have a powerful, authoritarian central government to push through economic reforms and bring about full marketization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160910T174104Z" creationid="USER" creationdate="20160910T174104Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174104Z">
         <seg>en esta etapa particular de la reforma de China, era necesario tener un gobierno central poderoso y autoritario para impulsar reformas económicas y dar paso a la mercadización completa.</seg>
       </tuv>
     </tu>
