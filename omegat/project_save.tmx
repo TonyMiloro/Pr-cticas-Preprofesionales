@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1371,6 +1371,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T002057Z">
         <seg>En un principio, los medios de comunicación de la República Popular de China no informaron sobre el viaje de Deng y el PCCh no difundió los comentarios de Deng en su seno.&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Jiang’s ouster&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;be3/&gt;&lt;f4&gt;of Chen Xitong was his most significant move on the chessboard of elite politics since the 1992 removal of Yang Baibing, and the first that could be attributed to Jiang alone.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T125234Z" creationid="Daniel-Andrea" creationdate="20160910T125234Z">
+        <seg>&lt;f0&gt;Jiang’s ouster&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;be3/&gt;&lt;f4&gt;of Chen Xitong was his most significant move on the chessboard of elite politics since the 1992 removal of Yang Baibing yla primera que se puede atribuir solamente a Jiang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3220,6 +3228,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202904Z">
         <seg>Además, Cheng reprendió a los conservadores como personas que "tienen dudas y recelos" sobre la reforma y "perdieron el coraje de hacer exploraciones positivas".&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;15&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chen’s arrest hardly brought consensus within the political elite, for the same interests and currents that had clashed in the years following Tiananmen remained.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T125501Z" creationid="Daniel-Andrea" creationdate="20160910T125501Z">
+        <seg>La detención de Chen prácticamente no trajo consenso dentro de la élite política, por los mismos intereses y corrientes que se habían enfrentado en los años siguientes a Tiananmen.</seg>
       </tuv>
     </tu>
     <tu>
