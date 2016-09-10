@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5052,8 +5052,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>However, the issue of bombing Serbia to protect the rights of &lt;t0/&gt;Kosovars&lt;t1/&gt; &lt;t2/&gt;was never taken to the United Nations Security Council.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160910T191445Z">
-        <seg>Sin embargo, el asunto de los bo</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T192551Z">
+        <seg>Sin embargo, el asunto de los bombardeos a Serbia para protejer los derechos de los kosovares nunca llegó al Consejo de Seguridad de las Naciones Unidas.</seg>
       </tuv>
     </tu>
     <tu>
