@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1371,6 +1371,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160907T124051Z">
         <seg>&lt;f0&gt;Siguiendo los pasos de Tiananmen, los conservadores (como se discutió en el capítulo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;i&lt;/f2&gt;&lt;f3&gt;) intentaron regresar en el tiempo, pero pronto advirtieron que el objetivo de restaurar algo que se asemejara a la antigua economía planificada ya no resultaba práctico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In the wake of the Fourteenth Party Congress, Jiang struck a course that might be broadly considered neoconservative, albeit without the explicit nationalistic or populist appeals that some neoconservatives called for.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T184922Z" creationid="Daniel-Andrea" creationdate="20160910T184922Z">
+        <seg>&lt;f0&gt;Siguiendo los pasos del decimocuarto congreso del partido,.</seg>
       </tuv>
     </tu>
     <tu>
