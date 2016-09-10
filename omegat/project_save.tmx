@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5820,7 +5820,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the course of the next few years, Jiang tried to navigate between the conflicting demands of the “left” and “right,” and the tensions between these poles were sometimes reflected in friction within the group around Jiang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T181054Z" creationid="Daniel-Andrea" creationdate="20160910T181054Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T181054Z">
         <seg>In the course of the next few years, Jiang trató de desplazarse entre las demandas conflictivas de la  "izquierda" y de la "derecha" y las tensiones entre estos polos se reflejaron algunas veces en la fricción dentro del grupo y alrededor de Jiang.</seg>
       </tuv>
     </tu>
@@ -8638,8 +8638,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Shortly after President Clinton turned his back on the WTO deal, details&lt;t0/&gt; &lt;t1/&gt;of China’s concessions appeared in a 17-page document posted on the&lt;t2/&gt; &lt;t3/&gt;USTR website.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160910T180240Z">
-        <seg>Poco después de que el Presidente Clinton le dio la espalda al trato con la OMC, se publicó un documento con detalles sobre las concesiones de China en la página web de la  oficina del USTR.</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T181155Z">
+        <seg>Poco después de que el presidente Clinton le dio la espalda al trato con la OMC, se publicó un documento con detalles sobre las concesiones de China en la página web de la  oficina del USTR.</seg>
       </tuv>
     </tu>
     <tu>
