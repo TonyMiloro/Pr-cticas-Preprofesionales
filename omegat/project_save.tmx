@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7243,6 +7243,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New authoritarians worried about two problems.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143442Z" creationid="Ana Paula" creationdate="20160910T143442Z">
+        <seg>Los neoautoritarios se concentraban en dos problemáticas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No doubt, given the defense of the Party against the so-called counter- revolutionary rebellion and the discrediting of Zhao Ziyang, conservatives hoped that one of their own – perhaps Premier Li Peng, economic planner Yao Yilin, or even former Propaganda Department head Deng Liqun – might replace Zhao as general secretary.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160907T032644Z">
@@ -7992,6 +8000,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044055Z">
         <seg>El departamento de propaganda emite el Documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proponents of the new authoritarianism and of democracy each focused on real, but different, features of the Chinese polity in the late 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143426Z" creationid="Ana Paula" creationdate="20160910T143426Z">
+        <seg>Los partidarios del neoautoritarismo y de la democracia se enfocaron en características distintivas pero diferentes del sistema de gobierno chino a fines de la década de los 80.</seg>
       </tuv>
     </tu>
     <tu>
