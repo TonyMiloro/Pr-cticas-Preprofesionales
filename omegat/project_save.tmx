@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4820,8 +4820,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>However, Clinton’s domestic advisers – Treasury&lt;t14/&gt; &lt;t15/&gt;Secretary Robert Rubin, National Economic Council head Gene &lt;t16/&gt;Sperling&lt;t17/&gt;,&lt;t18/&gt; &lt;t19/&gt;and domestic political adviser John &lt;t20/&gt;Podesta&lt;t21/&gt; – argued that if there were&lt;t22/&gt; &lt;t23/&gt;no guaranteed protections for labor unions and industries that competed&lt;t24/&gt; &lt;t25/&gt;directly with their Chinese counterparts then Congress would vote to&lt;t26/&gt; &lt;t27/&gt;kill the deal, and that would be worse for US–China relations than no&lt;t28/&gt; &lt;t29/&gt;agreement at all.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160909T210155Z">
-        <seg>Sin embargo, los consejeros de Clinton en política interna (el Ministro de Finanzas Robert Rubin, el Director del Consejo Nacional de Economía Gene Sperling y el consejero en política interna John Podesta) sostuvieron que, si no se garantizaban las protecciones para los sindicatos e industrias que competían directamente con sus equivalentes chinos, el Congreso votaría por poner fin a la negociación, lo que sería más perjudicial para las relaciones entre EUA y China que si no se llegara a ningún acuerdo directamente.</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T025104Z">
+        <seg>Sin embargo, los consejeros de Clinton en política interna (el Ministro de Finanzas Robert Rubin, el Director del Consejo Nacional de Economía Gene Sperling y el consejero en política interna John Podesta) sostuvieron que, si no se garantizaban las protecciones para los sindicatos e industrias que competían directamente con sus equivalentes chinos, el Congreso votaría por poner fin al trato, lo que sería más perjudicial para las relaciones entre EUA y China que si no se llegara a ningún acuerdo directamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8360,6 +8360,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160906T004111Z">
         <seg>Shen Liren y Dai Yuanchen, “Woguo ‘zhuhou jingji’ de xingcheng jiqi biduan he genyuan.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortly after President Clinton turned his back on the WTO deal, details&lt;t0/&gt; &lt;t1/&gt;of China’s concessions appeared in a 17-page document posted on the&lt;t2/&gt; &lt;t3/&gt;USTR website.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T025046Z">
+        <seg>Poco después de que el Presidente Clinton le dio la espalda al trato con la OMC, </seg>
       </tuv>
     </tu>
     <tu>
