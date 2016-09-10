@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5983,6 +5983,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160826T231123Z">
         <seg>Preocupaciones intelectuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intellectuals were largely shocked into silence by the enormity of what had happened; alienated from the political leadership, they had little desire to participate in discussions – and the political leadership, caught up in its own conflicts, had little patience with intellectual expression.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T143553Z" creationid="Sofia" creationdate="20160910T143454Z">
+        <seg>Los intelectuales estaban impactados por la magnitud de lo que había sucedido; al encontrarse alienados del liderazgo político, no tenían deseos de participar en debates, y los líderes políticos, ocupados con sus propios problemas, no tenían paciencia con la expresión intelectual.</seg>
       </tuv>
     </tu>
     <tu>
