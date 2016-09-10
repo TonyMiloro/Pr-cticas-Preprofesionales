@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11678,6 +11678,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160910T173610Z" creationid="USER" creationdate="20160910T173610Z">
         <seg>por lo que en su momento era necesario utilizar el sistema político para separar de manera consiente la política de la economía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>basis for real, stable democracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173722Z" creationid="USER" creationdate="20160910T173722Z">
+        <seg>y no habría base para una democracia real y estable.</seg>
       </tuv>
     </tu>
     <tu>
