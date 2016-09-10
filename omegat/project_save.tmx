@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10547,8 +10547,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Unlike the earlier round of debates, the more recent ones have reﬂected the growth of an urban public opinion and a populist urge backed up by the growth of the Internet and other technologies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T021538Z">
-        <seg>Al contrario de las rondas de debate anteriores, las más recientes han reflejado el crecimiento de una opinión pública urbana y una necesidad populista respaldada por el crecimiento de internet y otras tecnologías.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T012318Z">
+        <seg>A diferencia de las rondas de debate anteriores, los más recientes han reflejado el crecimiento de una opinión pública urbana y una necesidad populista respaldada por el crecimiento de internet y otras tecnologías.</seg>
       </tuv>
     </tu>
     <tu>
