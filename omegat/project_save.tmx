@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2066,8 +2066,8 @@
       <tuv lang="EN-US">
         <seg>Although Jiang tolerated the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;de facto&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;privatization of much economic activity in the wake of Deng’s southern trip and Zhu Rongji’s efforts to squeeze inflation out of the economy, his statements remained ideologically cautious or conservative.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T190440Z">
-        <seg>A pesar de que Jiang toleraba  la privatización&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;de facto&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;de gran parte de la actividad económica como consecuencia de viaje sur de Deng y de los esfuerzos de Zhu Rongji para eliminar la inflación de la economía.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T190751Z" creationid="Daniel-Andrea" creationdate="20160910T190440Z">
+        <seg>A pesar de que Jiang toleraba  la privatización&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;de facto&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;de gran parte de la actividad económica como consecuencia de viaje sur de Deng y de los esfuerzos de Zhu Rongji para eliminar la inflación de la economía, sus declaraciones se mantuvieron ideológicamente cautelosas o conservadoras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7231,6 +7231,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T224239Z">
         <seg>Además, Deng respondió a las variadas críticas derogatorias sobre el llamado “criterio de fuerzas productivas” realizadas durante los dos años previos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, although Jiang’s power had increased, he was not in a position to alienate powerful figures in the Party – and many of those figures were on the left.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T190829Z" creationid="Daniel-Andrea" creationdate="20160910T190829Z">
+        <seg>Además, a pesar de que el poder de Jiang había aumentado, no estaba en una posición de figuras poderosas en el partido</seg>
       </tuv>
     </tu>
     <tu>
