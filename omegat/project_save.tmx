@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9107,6 +9107,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160909T182448Z">
         <seg>La decisión pudo haber sido tomada tarde pero la frustración parecía haber estado acumulándose hacía ya un tiempo.&lt;t3/&gt;De acuerdo con John Pomfret, corresponsal del Washington Post, el 7 de abril (dos días antes de que Jiang Yanyong hablara públicamente sobre el encubrimiento) Wen Jiabao visitó el Centro de Control de Enfermedades de China y habló sobre el error que habían cometido las fuerzas armadas al no informar sobre la situación. &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt; &lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;&lt;t25/&gt; &lt;t26/&gt;&lt;t27/&gt; &lt;t28/&gt;&lt;t29/&gt; &lt;t30/&gt;&lt;t31/&gt; &lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;&lt;t35/&gt; &lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt; &lt;t43/&gt;&lt;t44/&gt; &lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt;&lt;t48/&gt; &lt;t49/&gt;&lt;t50/&gt; &lt;t51/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The decision to post such details – without informing the&lt;t4/&gt; &lt;t5/&gt;Chinese – apparently came from the White House.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T025945Z">
+        <seg>La decisión de publicar dichos detalles, sin informar a los chinos, habría venido de la Casa Blanca. </seg>
       </tuv>
     </tu>
     <tu>
