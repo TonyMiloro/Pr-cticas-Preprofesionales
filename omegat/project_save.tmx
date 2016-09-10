@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3276,6 +3276,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021100Z">
         <seg>China, que crecía con índices de doble dígito también, creía en esa confianza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T022522Z">
+        <seg>China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9731,6 +9739,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224649Z">
         <seg>Su escritura y publicación fueron supervisados por la hija de Deng Deng Nan y el secretario del Partido de Shanghai Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; La primera columna fue publicada debajo de las fotografías de Deng Xiaoping, Yang Shangkun, y Li Xiannian expresando buenos deseos por el Año Nuevo Lunar a los líderes de Shanghai, enfatizando, de esta manera, la naturaleza autoritativa de este escrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, in a two and a half-hour meeting with Premier Zhu at the&lt;t0/&gt; &lt;t1/&gt;White House that evening, he did exactly that.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T023116Z">
+        <seg>Luego por la noche en una reunión de dos horas y media con el Primer Ministro Zhu en la Casa Blanca, hizo exactamente eso.</seg>
       </tuv>
     </tu>
     <tu>
