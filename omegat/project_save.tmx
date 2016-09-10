@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2876,6 +2876,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T174758Z">
         <seg>Pero Jiang estaba utilizando las palabras de Deng para formular su propia declaración: &lt;t0/&gt;que&lt;t1/&gt; él también estaba decidido a  “trabajar/funcionar/servir"”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But as social inequalities grew,  new  doubts  and  debates  broke  out,  particularly  starting  in  2004.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T011316Z" creationid="bluebird" creationdate="20160910T011316Z">
+        <seg>Sin embargo, a medida que las inequidades sociales crecian, se sesencadenaron dudas y debates nuevos en particual a comienzos del 2004..</seg>
       </tuv>
     </tu>
     <tu>
