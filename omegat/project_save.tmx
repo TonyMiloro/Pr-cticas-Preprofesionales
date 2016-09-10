@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5636,8 +5636,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the 1980s, the rapid growth of township and village enterprises (TVEs) drew nearly 130 million off the land, but the number of jobs being created by TVEs has stagnated now for nearly a decade.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T022328Z">
-        <seg>En los 80`s, el rápido crecimiento de las TVE (HAY QUE CHEQUEAR CON EL GLOSARIO) provocó que 130 millones dejaran la tierra, pero el número de empleos creados por las TVE se ha estancado por casi una década .</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T004339Z">
+        <seg>En los 80, el rápido crecimiento de las TVE provocó que 130 millones abandonaran el campo, pero la cantidad de empleos creados por las TVE se ha permanecido estable por casi una década.</seg>
       </tuv>
     </tu>
     <tu>
