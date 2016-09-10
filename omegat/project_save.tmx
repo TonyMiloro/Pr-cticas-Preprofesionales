@@ -1833,8 +1833,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t9/&gt;And&lt;t10/&gt; this critique has grown in the first years of the new century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131800Z">
-        <seg>lo que causó que se siguieran desatando más críticas durante los primeros años del nuevo siglo</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131804Z">
+        <seg>lo que causó que se siguieran desatando más críticas durante los primeros años del nuevo siglo&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
