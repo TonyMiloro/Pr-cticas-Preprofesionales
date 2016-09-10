@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2904,6 +2904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both new authoritarians and liberal intellectuals were strongly influenced by the example of the “East Asian development model” that had seemed so effective in that part of the world, but whereas new authoritarians hoped to emulate their neighbors, liberal intellectuals stressed the differences between China and its neighbors.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143810Z" creationid="Ana Paula" creationdate="20160910T143810Z">
+        <seg>Tanto los neoautoritarios como los intelectuales liberales estuvieron muy influenciados por el ejemplo del “modelo de desarrollo de Asia Oriental” que tan efectivo parecía en aquella parte del mundo. Sin embargo, mientras los neoautoritarios deseaban igualar a sus vecinos, los intelectuales liberales remarcaban las diferencias existentes entre China y sus vecinos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building on the aca-demic literature on “democratic peace,” Lake turned theory into practice, arguing that the world would be a safer place if American policy could help foster democracies around the world.29 At the same time, as the Cold War came to a close and as images of Tiananmen remained vivid in people’s minds, human rights came to have a greater importance in US foreign policy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020552Z">
@@ -4426,6 +4434,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For them, Zhao’s personal role and the fate of &lt;t10/&gt;marketizing&lt;t11/&gt; reforms were two sides of the same coin.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143624Z" creationid="Ana Paula" creationdate="20160910T143624Z">
+        <seg>Para ellos, el papel personal de Zhao y el destino de las reformas mercadizadoras eran dos caras de una misma moneda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For them, as for their predecessors of the past century and more, the questions of identity continue to loom large: China’s relationship to the outside world (inevitably summed up as “the West”), the state’s relationship to society, and the present’s relationship with the past.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T175523Z">
@@ -5819,6 +5835,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In their opinion, political reform had to precede economic reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143648Z" creationid="Ana Paula" creationdate="20160910T143648Z">
+        <seg>en su opinión, la reforma política debía anteceder la reforma económica. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this way, He became &lt;t4/&gt;identiﬁed&lt;t5/&gt; as a exemplar of what might be called a “muscular” or assertive &lt;t6/&gt;neoconservatism&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191749Z">
@@ -6119,6 +6143,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032546Z">
         <seg>Está impresa en un papel de mejor calidad que la mayoría de las revistas, lo que pone en evidencia el gran respaldo financiero, que al parecer provenía de la diáspora china adinerada de Tailandia pero que también insinuaba un respaldo militar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It might be said that the new authoritarians underestimated the likelihood that a recentralized authority would be used to shore up personal authority (not necessarily that of Zhao &lt;t14/&gt;Ziyang&lt;t15/&gt;!) instead of being used to push through the &lt;t16/&gt;marketizing&lt;t17/&gt; reforms that they hoped for, just as liberal intellectuals underestimated the very real problems in maintaining social stability and in continuing economic reform – some of which required the creation of a stronger, or at least more effective, state.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143734Z" creationid="Ana Paula" creationdate="20160910T143734Z">
+        <seg>Se podría decir que los neoautoritarios subestimaron la posibilidad de que una autoridad recentralizada se utilizara para fortalecer la autoridad personal (¡no necesariamente la de Zhao Ziyang!) en lugar de utilizarla para avanzar con las reformas mercadizadoras que ansiaban, de la misma forma en que los intelectuales liberales subestimaron las verdaderas dificultades que había para mantener la estabilidad social y continuar con la reforma económica, ya que algunas requerían de la creación de un Estado más fuerte, o al menos de uno más efectivo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6627,6 +6659,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Liberal intellectuals, such as Yu &lt;t12/&gt;Haocheng&lt;t13/&gt;, saw the same problems but arrived at very different conclusions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143635Z" creationid="Ana Paula" creationdate="20160910T143635Z">
+        <seg>Intelectuales liberales como Yu Haocheng observaron los mismos problemas, pero llegaron a conclusiones diferentes: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Liberal writings continued to be published, though when and to what extent depended very much on the political &lt;t8/&gt;atmosphere,&lt;t9/&gt; and some liberals remained optimistic about the future – though others felt very much besieged.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T130959Z">
@@ -7051,6 +7091,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, they believed that a recentralization of authority, however good the intentions of the new authoritarians might be, would inevitably lead China back into the sort of autocracy from which the country had only recently begun to escape.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143712Z" creationid="Ana Paula" creationdate="20160910T143712Z">
+        <seg>Además, creían que por más buenas que pudieran ser las intenciones de los neoautoritarios, la recentralización de la autoridad desembocaría inevitablemente en el retorno de China a la autocracia, de la cual el país recién había comenzado a escaparse. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most important from an immediate standpoint, however, were Hu’s warnings against various corrupt practices, such as the buying and selling of offices and promoting cadres who had problems.&lt;t2/&gt;116</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T222502Z">
@@ -7247,6 +7295,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160903T220509Z">
         <seg>Sin embargo,&lt;t2/&gt; &lt;t3/&gt;la misma seriedad de esa crisis impulsó nuevos esfuerzos para mejorar&lt;t4/&gt; &lt;t5/&gt;las relaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New authoritarians hoped to use the power of the state to break through these obstacles and push &lt;t4/&gt;marketization&lt;t5/&gt; forward.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143536Z" creationid="Ana Paula" creationdate="20160910T143536Z">
+        <seg>Los neoautoritarios ansiaban usar el poder del Estado para vencer esos obstáculos y avanzar con la mercadización. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7616,6 +7672,22 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160909T231949Z">
         <seg>Por un lado, tuvo lugar el crecimiento de intereses económicos con buenas conexiones políticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the one hand, they worried that the decentralizing reforms that reformers themselves had helped bring about were now creating new centers of power at lower levels that were preventing the continuation of &lt;t0/&gt;marketizing&lt;t1/&gt; reforms.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143503Z" creationid="Ana Paula" creationdate="20160910T143503Z">
+        <seg>Por un lado, estaban preocupados porque las reformas descentralizadoras que los mismos reformistas habían ayudado a generar ahora creaban nuevos centros de poder en los niveles más bajos, los cuales prevenían la continuación de reformas de mercadización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the other hand, both the reform program and individual reformers, particularly Premier (and then General Secretary) Zhao &lt;t6/&gt;Ziyang&lt;t7/&gt;, were&lt;t8/&gt; &lt;t9/&gt;facing a rising barrage of criticism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143550Z" creationid="Ana Paula" creationdate="20160910T143550Z">
+        <seg>Por otro lado, tanto el programa reformista como los reformistas individuales, en particular el primer ministro (y luego secretario general) Zhao Ziyang, enfrentaban un bombardeo de críticas progresivo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8568,6 +8640,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045539Z">
         <seg>El sociólogo Lu Jianhua es sentenciado en secreto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some advocates of the new authoritarianism no doubt hoped to use the theory to concentrate greater power in Zhao’s hands and thus turn back challenges to his authority.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143601Z" creationid="Ana Paula" creationdate="20160910T143601Z">
+        <seg>Sin duda algunos defensores del neoautoritarismo esperaban usar la teoría para concentrar mayor poder en las manos de Zhao y así terminar con los desafíos que enfrentaba su autoridad. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10737,6 +10817,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless the political system could be democratized, they believed, there could never be guarantees for the sanctity of law or property, without which a market economy could never function well.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143703Z" creationid="Ana Paula" creationdate="20160910T143703Z">
+        <seg>Sostenían que, a menos que el sistema político se democratizara, nunca habría garantías de la santidad de la ley o la propiedad, sin la cual jamás podría funcionar adecuadamente una economía de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike before, Deng could no longer dominate China’s policy agenda.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lu" changedate="20160909T022521Z">
@@ -11109,6 +11197,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160909T021903Z">
         <seg>Mientras que un año antes Deng Liqun había llamado a reforma y a la apertura de&lt;s1/&gt;la fuente de la evolución pacífica,&lt;f2&gt;98&lt;/f2&gt;&lt;s3/&gt;el informe del XIV Congreso Nacional del Partido declaró que “las características más sobresalientes del nuevo periodo histórico eran la reforma y la apertura” y que la “nueva revolución” que Deng Xiaoping había inaugurado estaba destinada&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entalmente&lt;/f6&gt;&lt;s7/&gt;a cambiar la estructura económica en vez de a arreglarla”. Destacando los cambios profundos llevados a cabo por la revolución de Deng, el informe político respaldó la creación de un “sistema económico&lt;s8/&gt;&lt;f9&gt;mercantil&lt;/f9&gt;&lt;s10/&gt;socialista” como objetivo de reforma, y de ese modo avanzar más allá de lo postulado en la tesis de 1984 que proponía una “economía mercantil planificada socialista” – la que ya había sido un avance controversial.&lt;f11&gt;99 &lt;s12/&gt;&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whereas lower levels had welcomed reforms earlier in the decade, now they had developed interests in the &lt;t2/&gt;semireformed&lt;t3/&gt; institutions of local society and opposed efforts that would erode their newfound power.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143520Z" creationid="Ana Paula" creationdate="20160910T143520Z">
+        <seg>A pesar de que al comienzo de la década habían acogido las reformas, ahora estaban interesados en las instituciones semireformadas  y se resistían a intentos que pudieran deteriorar su nuevo poder. </seg>
       </tuv>
     </tu>
     <tu>
