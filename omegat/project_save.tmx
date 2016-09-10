@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8560,6 +8560,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160907T011658Z">
         <seg>Los activos estatales no sólo se perdieron en las empresas nacionales; empresas conjuntas también compartieron la recompensa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Still, glimpses &lt;t0/&gt;can be gained&lt;t1/&gt; by looking at specific issues and events.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051158Z" creationid="Sofia" creationdate="20160910T051158Z">
+        <seg>Aún así, esta interacción &lt;t0/&gt; se puede vislumbrar&lt;t1/&gt;si se observan determinadas situaciones y eventos.</seg>
       </tuv>
     </tu>
     <tu>
