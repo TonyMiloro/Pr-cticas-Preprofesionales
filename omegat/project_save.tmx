@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7504,6 +7504,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lu" changedate="20160909T123759Z">
         <seg>On the drafting, see Guoguang Wu, "'Documentary Politics'".43 People´s Daily restored language that had been deleted when the speech was originally published in 1983. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the morning of April 7, President Clinton declared that it would&lt;t0/&gt; &lt;t1/&gt;be an “inexplicable mistake” to walk away from a good agreement with</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T022509Z">
+        <seg>La mañana del 7 de abril, el Presidente Clinton manifestó que hubiera sido un "error inexplicable" apartarse de un buen acuerdo con</seg>
       </tuv>
     </tu>
     <tu>
