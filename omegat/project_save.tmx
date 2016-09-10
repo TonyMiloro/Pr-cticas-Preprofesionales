@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6821,8 +6821,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Now, Chen was forced to step down because of corruption.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T124559Z">
-        <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Ahora, Chen fue obligado a dejar el cargo debido a la corrupción.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T191500Z">
+        <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt; Luego, Chen fue obligado a dejar el cargo debido a la corrupción.</seg>
       </tuv>
     </tu>
     <tu>
