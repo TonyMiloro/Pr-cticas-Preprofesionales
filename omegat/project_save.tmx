@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3980,8 +3980,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Drawing primarily from the liberal tradition in Marxism and sometimes on Western liberalism, they sought to build a state that placed unprecedented emphasis on human beings – and that meant creating a more liberal, democratic order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T003718Z">
-        <seg>Basándose principalmente en la tradición liberal del marxismo y en ocasiones en el liberalismo occidental, buscaban crear un estado que pusiera un énfasis sin precedentes en los seres humanos, lo cual implicaba crear un orden democrático más liberal.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T173305Z">
+        <seg>Basándose principalmente en la tradición liberal del marxismo y en ocasiones en el liberalismo occidental, buscaban crear un estado que pusiera un énfasis sin precedentes en los seres humanos, lo que implicaba crear un orden democrático más liberal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4092,8 +4092,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Even as high-ranking cadres, then, such liberal intellectuals were critics of the state and constituted what X. L. Ding termed a “counterelite.”14 As critics, they inevitably turned to the May Fourth tradition for moral inspiration – particularly its emphasis on science, democracy, cosmopolitanism, and the leading role for intellectuals as societal conscience.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T015614Z">
-        <seg>Por lo tanto, aun como grupo de alto rango, estos intelectuales liberales eran críticos del estado y constituían lo que X. L. Ding denominó una “contra-élite”14. Como críticos inevitablemente buscaron inspiración moral en la tradición del Cuatro de Mayo, en especial en su énfasis en la ciencia, la democracia, el cosmopolitismo y el papel fundamental de los intelectuales como fuente de conciencia social.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T173340Z">
+        <seg>Por lo tanto, aun como grupo de alto rango, estos intelectuales liberales eran críticos del estado y constituían lo que X. L. Ding denominó una “contra-élite”14. Como críticos, inevitablemente buscaron inspiración moral en la tradición del Cuatro de Mayo, en especial en su énfasis en la ciencia, la democracia, el cosmopolitismo y el papel fundamental de los intelectuales como fuente de conciencia social.</seg>
       </tuv>
     </tu>
     <tu>
