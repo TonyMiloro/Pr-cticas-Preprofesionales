@@ -7876,6 +7876,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only by developing democracy could this cycle be broken.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T174436Z" creationid="USER" creationdate="20160910T174436Z">
+        <seg>Solo a través del desarrollo de la democracia, se podría romper este ciclo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only persons who are fully familiar with the content of this manual &lt;t0/&gt;are authorized&lt;t1/&gt; to operate and to maintain the equipment.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160708T202851Z">
