@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2170,7 +2170,7 @@
       <tuv lang="EN-US">
         <seg>Although the critics charge that the economic reforms have fostered inequality and corruption, it is not clear that they have clear-cut alternatives that would not lead to worse outcomes.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013209Z" creationid="bluebird" creationdate="20160910T013209Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013209Z">
         <seg>Aunque los críticos afirman que las reformas económicas han fomentado la disparidad y la corrupción, no hay evidencia de que contaran con alternativas claras que llevaran a mejores resultados.</seg>
       </tuv>
     </tu>
@@ -2202,7 +2202,7 @@
       <tuv lang="EN-US">
         <seg>Although their critiques of insider deals and other abuses of reform shine a useful light on the dark corners of reform, it is not yet evident that the exposure of scandals is leading to better corporate governance and healthier legal institutions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013637Z" creationid="bluebird" creationdate="20160910T013540Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013637Z">
         <seg>Aunque sus críticas sobre acuerdos internos y otros abusos de la reforma iluminan oportunamente las oscuros rincones de la reforma, sin embargo, no existe evidencia alguna que la revelación de los escándalos lleve a una mejor gobernación colectiva ni a instituciones legales más saludables.</seg>
       </tuv>
     </tu>
@@ -2898,7 +2898,7 @@
       <tuv lang="EN-US">
         <seg>But as social inequalities grew,  new  doubts  and  debates  broke  out,  particularly  starting  in  2004.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T011942Z" creationid="bluebird" creationdate="20160910T011316Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T011942Z">
         <seg>Sin embargo, a medida que las disparidades sociales crecian, se desencadenaron nuevas dudas y debates, en particular a comienzos del 2004.</seg>
       </tuv>
     </tu>
@@ -5765,7 +5765,7 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
         <seg>In the years since Tiananmen, at least two aspects of social change 
 appear critical.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T231835Z" creationid="bluebird" creationdate="20160909T231835Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T231835Z">
         <seg>En los años posteriores a Tiananmen, por lo menos dos de los aspectos del cambio social demostraron ser críticos.</seg>
       </tuv>
     </tu>
@@ -9337,7 +9337,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The juxtaposition of a very wealthy nouveau riche urban elite and a still struggling rural population and now a new urban poor class has proven a fertile ground for those who question the direction of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T010415Z" creationid="bluebird" creationdate="20160910T005929Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T010415Z">
         <seg>La yuxtaposición de una élite urbana adinerada, nouveau riche y una población rural aún en apuros, y ahora una nueva clase urban de pobres ha ratificado suelo fértil para quienes cuestionan la regulación de la reforma.</seg>
       </tuv>
     </tu>
@@ -9465,7 +9465,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The populist thrust of this critique could even slow the implementation of needed reforms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013739Z" creationid="bluebird" creationdate="20160910T013739Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013739Z">
         <seg>El impuso populista de esta crítica podría incluso dilatar la implementación de reformas necesarias.</seg>
       </tuv>
     </tu>
@@ -10507,7 +10507,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Understanding the changing world of China’s intellectuals and their relationship to the political system is one aspect of the larger task of looking at  a  rapidly  changing  Chinese  society,  which  is  the  fourth  area  of  concern.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T231020Z" creationid="bluebird" creationdate="20160909T230726Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T231020Z">
         <seg>Comprender el mundo en constante cambio de los intelectuales de China y la relación de estos con el sistema político es un aspecto de la tarea más extensa de observar una sociedad china que cambia continua y rápidamente, lo cual es la cuarta área de interés.</seg>
       </tuv>
     </tu>
@@ -10955,7 +10955,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Whether these trends are “good” depends on where one stands in these policy debates.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T012643Z" creationid="bluebird" creationdate="20160910T012643Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T012643Z">
         <seg>Que estas tendencias sean "buenas" depende de la postura adoptada en los debates de orientación.</seg>
       </tuv>
     </tu>
