@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3820,8 +3820,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the fact that over 100 million people have migrated to the cities, there are today more peasants than there were in 1978.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T022318Z">
-        <seg>A pesar del hecho de que más de 100 millones de personas han migrado a las ciudades, hay más campesinos en la actualidad que los que había en 1978.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T003943Z">
+        <seg>Pese al hecho de que más de 100 millones de personas han migrado a las ciudades, en la actualidad hay más campesinos de los que había en 1978.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7950,8 +7950,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Rural incomes grew very slowly from the mid-1980s to the early 2000s; meanwhile, urban incomes grew rapidly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T000407Z">
-        <seg>Las ganancias rurales se incrementaron de forma paulatina desde mediados de 1980 hasta comienzos del 2000; mientras que las urbanas aumentaron rápidamente.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T003728Z">
+        <seg>Las ganancias rurales se incrementaron paulatinamente desde mediados de 1980 hasta comienzos del 2000; mientras que las urbanas aumentaron rápidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10539,8 +10539,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Urbanization may be the only long-term solution to this urban–rural gap, but that is a very long-term proposition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T000555Z">
-        <seg>La urbanización es quizás la única solución a largo plazo para acortar esta brecha urbano-rural, pero es una propuesta a largo plazo.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T003747Z">
+        <seg>La urbanización es quizás la única solución a largo plazo para reducir esta brecha urbano-rural, pero es una propuesta a largo plazo.</seg>
       </tuv>
     </tu>
     <tu>
