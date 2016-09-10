@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2962,7 +2962,7 @@
       <tuv lang="EN-US">
         <seg>But Deng stopped short of removing leftists from a number of major positions.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T184659Z" creationid="Daniel-Andrea" creationdate="20160910T184659Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T184659Z">
         <seg>Pero Deng dejó de eliminar los izquierdistas de una serie de posiciones principales.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
@@ -3906,7 +3906,7 @@
       <tuv lang="EN-US">
         <seg>Deng won a major endorsement of his policies and significant personnel victories.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T184509Z" creationid="Daniel-Andrea" creationdate="20160910T184455Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T184509Z">
         <seg>Deng ganó un importante apoyo a sus políticas y significantes victorias personales.</seg>
       </tuv>
     </tu>
@@ -10609,7 +10609,7 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This shift back to the&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;center appears to have been part of a broad compromise between different forces in the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T184346Z" creationid="Daniel-Andrea" creationdate="20160910T184346Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T184346Z">
         <seg>Este cambio hacia el&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;centro parece haber sido parte del compromiso extenso entre las diferentes fuerzas del partido.</seg>
       </tuv>
     </tu>
