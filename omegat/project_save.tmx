@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1713,16 +1713,16 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Thus&lt;t1/&gt; one finds, for instance, an explosion in the number of books dealing with foreign policy – a subject that was virtually taboo in &lt;t2/&gt;the 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T183932Z">
-        <seg>Por eso se ve, por ejemplo, un gran incremento en la cantidad de libros que tratan el tema de política externa, una temática que era virtualmente tabú en la década de los ochenta.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131439Z">
+        <seg>Por eso se ve, por ejemplo, un gran incremento en la cantidad de libros que tratan el tema de política externa, una temática que era virtualmente tabú en la década de los ochenta.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;When Merle Goldman looked at the “democratic elite” in the 1980s, she inevitably turned to “&lt;t1/&gt;Hu&lt;t2/&gt; &lt;t3/&gt;Yaobang’s&lt;t4/&gt; intellectual network” because most of those who were exploring democratization of the political system were tied into this network in some fashion, trying to influence the policies of the CCP.19 Similarly, when I explored arguments over economic policy in the 1980s, the intellectuals involved were invariably tied into either the conservative network that surrounded Chen &lt;t5/&gt;Yun&lt;t6/&gt;, the senior Party leader and economic specialist, or Zhao &lt;t7/&gt;Ziyang&lt;t8/&gt;, the premier and later general secretary who led efforts to reform the economy and thus increasingly came into conflict with the policy preferences of Chen Yun.20 Intellectuals were, to an overwhelming degree, “establishment intellectuals.”&lt;t9/&gt;21</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T223026Z">
-        <seg>En ese entonces, podía ser a la red conservadora que rodeaba a Chen Yun,  líder principal del partido y especialista en economía o a la de Zhao Ziyang, primer ministro y posterior secretario general, quien se esforzó por reformar la economía, lo que causó que entrara cada vez más en conflicto con las preferencias políticas de Chen Yun. La mayor parte de los intelectuales eran “intelectuales del establishment”.&lt;t9/&gt;</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131227Z">
+        <seg>En ese entonces, podía ser a la red conservadora que rodeaba a Chen Yun,  líder principal del partido y especialista en economía o a la de Zhao Ziyang, primer ministro y posterior secretario general, quien se esforzó por reformar la economía, lo que causó que entrara cada vez más en conflicto con las preferencias políticas de Chen Yun. La mayor parte de los intelectuales eran “intelectuales del establishment”.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,8 +1793,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t27/&gt;Nevertheless, they are intellectuals who have gained expertise by dealing with specific issue over long periods of time; they are, in short, not the generalists of before but rather technocrats&lt;t28/&gt; (though one hastens to add that many continue to keep in touch with broad intellectual trends).23 As we will see, the emergence of a technocratic elite has not ended the role of intellectual as generalist, for the issues China faces can never be reduced to technocratic issues, but it has diminished this function.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T163917Z">
-        <seg>Sin embargo, son intelectuales que se han especializado en dedicarse a un problema específico por períodos largos de tiempo; no son, en resumidas cuentas, los generalistas del pasado si no tecnócratas (aunque aclaro que muchos siguen al tanto de las tendencias intelectuales más amplias).23 Como veremos, la aparición de una elite tecnócrata no eliminó el rol de los intelectuales como generalistas, ya que los problemas que enfrenta China no se pueden reducir a problemás tecnócratas, pero esta función sí ha disminuido.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131153Z">
+        <seg>Sin embargo, son intelectuales que se han especializado en dedicarse a un problema específico por períodos largos de tiempo; no son, en resumidas cuentas, los generalistas del pasado si no tecnócratas (aunque aclaro que muchos siguen al tanto de las tendencias intelectuales más amplias).23 Como veremos, la aparición de una elite tecnócrata no eliminó el rol de los intelectuales como generalistas, ya que los problemas que enfrenta China no se pueden reducir a problemás tecnócratas, pero esta función sí ha disminuido.&lt;t27/&gt;&lt;t28/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1833,7 +1833,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t9/&gt;And&lt;t10/&gt; this critique has grown in the first years of the new century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T130900Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131451Z">
         <seg>&lt;t9/&gt;&lt;t10/&gt;&lt;t9/&gt;lo que generó que se siguieran desatando más críticas durante los primeros años del nuevo siglo.&lt;t10/&gt;</seg>
       </tuv>
     </tu>
@@ -2674,8 +2674,8 @@
       <tuv lang="EN-US">
         <seg>At the same time, many of those who advise the leadership, either from positions within the government or from positions in universities or &lt;t25/&gt;think-tanks&lt;t26/&gt;, are highly qualified intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160903T235428Z">
-        <seg>Además, muchos de los consejeros de los líderes, ya sea desde cargos en el gobierno, o desde puestos en universidades o laboratorios de ideas, son intelectuales altamente calificados.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131342Z">
+        <seg>Además, muchos de los consejeros de los líderes, ya sea desde cargos en el gobierno, o desde puestos en universidades o laboratorios de ideas, son intelectuales altamente calificados.&lt;t25/&gt;&lt;t26/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4348,8 +4348,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, a substantial number of intellectuals have become experts on one or more aspects of Chinese society, such as rural governance, and have, &lt;t12/&gt;on the basis of&lt;t13/&gt; extensive research, raised new ideas for reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T172022Z">
-        <seg>Por ejemplo, un número considerable de intelectuales se han convertido en expertos de uno o más aspectos de las sociedad china, como por ejemplo gobierno rural, y han planteado nuevas ideas para reformar en base a la investigación exhaustiva.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131426Z">
+        <seg>Por ejemplo, un número considerable de intelectuales se han convertido en expertos de uno o más aspectos de las sociedad china, como por ejemplo gobierno rural, y han planteado nuevas ideas para reformar en base a la investigación exhaustiva.&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5444,8 +5444,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In either case, the realm of public opinion &lt;t3/&gt;can no longer be ignored&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T184023Z">
-        <seg>En cualquier caso, el ámbito de la opinión pública no se puede ignorar más.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131445Z">
+        <seg>En cualquier caso, el ámbito de la opinión pública no se puede ignorar más.&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5604,8 +5604,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In some ways, the relationship between the state and the intellectuals in the 1990s continued this trend toward separation, but both the character of the state and that of the intellectuals – not to mention the content of intellectual discussions – have changed greatly, so the relationship between the two arenas is substantially different from&lt;t0/&gt; &lt;t1/&gt;what prevailed in the 1980s.On the one hand, political leaders are themselves much better educated than any previous Chinese leadership of the twentieth century.&lt;t2/&gt; In the &lt;t3/&gt;1990s&lt;t4/&gt; CCP general secretary Jiang&lt;t5/&gt; &lt;t6/&gt;Zemin&lt;t7/&gt; was a graduate of Shanghai’s famous technical institute, &lt;t8/&gt;Jiaotong&lt;t9/&gt; University, while Premier Zhu &lt;t10/&gt;Rongji&lt;t11/&gt; was a graduate of the even better known &lt;t12/&gt;Qinghua&lt;t13/&gt; University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160903T221259Z">
-        <seg>En cierto sentido, el vínculo entre el estado y los intelectuales en la década de los noventa seguía una línea de distanciamiento, pero el carácter de tanto el estado como de los intelectuales, sin mencionar el contenido de las discusiones intelectuales, cambió mucho, por lo que la relación entre las dos esferas difiere en gran medida de la que existía en la década de los ochenta. Por otro lado, los líderes políticos tienen un nivel de educación más alto que cualquier grupo de líderes chinos del siglo 20. En los noventa, el secretario general del PCCh Jiang Zemin era egresado del famoso instuto técnico de Shanghai, la Universidad Jiaoton, mientras que el primer ministro Zhu Rongji era egresado de la incluso más prestigiosa Universidad de Qinghua.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131205Z">
+        <seg>En cierto sentido, el vínculo entre el estado y los intelectuales en la década de los noventa seguía una línea de distanciamiento, pero el carácter de tanto el estado como de los intelectuales, sin mencionar el contenido de las discusiones intelectuales, cambió mucho, por lo que la relación entre las dos esferas difiere en gran medida de la que existía en la década de los ochenta. Por otro lado, los líderes políticos tienen un nivel de educación más alto que cualquier grupo de líderes chinos del siglo 20. En los noventa, el secretario general del PCCh Jiang Zemin era egresado del famoso instuto técnico de Shanghai, la Universidad Jiaoton, mientras que el primer ministro Zhu Rongji era egresado de la incluso más prestigiosa Universidad de Qinghua.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5652,8 +5652,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In sum, as &lt;t0/&gt;government&lt;t1/&gt; leaders and their advisers have become better educated and more specialized, the distance between them and the broader intellectual community has both narrowed and broadened.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T164205Z">
-        <seg>A nivel general, como los líderes del gobierno y sus consejeros se educaron más y se especializaron, la distancia entre ellos y las comunidad intelectual más amplia disminuyó y aumentó.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131356Z">
+        <seg>A nivel general, como los líderes del gobierno y sus consejeros se educaron más y se especializaron, la distancia entre ellos y las comunidad intelectual más amplia disminuyó y aumentó.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6061,16 +6061,16 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>It has narrowed in the sense that government leaders are themselves &lt;t2/&gt;often intellectuals and thus share the same general background as other intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T164357Z">
-        <seg>Disminuyó en el sentido de que los líderes del gobierno son con frecuencia intelectuales y por lo tanto tienen el mismo bagaje que otros intelectuales.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131403Z">
+        <seg>Disminuyó en el sentido de que los líderes del gobierno son con frecuencia intelectuales y por lo tanto tienen el mismo bagaje que otros intelectuales.&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It is also of some concern whether the more illiberal declarations emerging in recent &lt;t5/&gt;years could form a basis for popular mobilization – as with the demonstrations against Japan in the spring of 2005.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054654Z">
-        <seg>También resulta de importancia comprobar si la intolerancia que se promueve en las declaraciones en los últimos años forma la base de las movilizaciones populares, como las manifestaciones contra Japón en la primavera de 2005.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131324Z">
+        <seg>También resulta de importancia comprobar si la intolerancia que se promueve en las declaraciones en los últimos años forma la base de las movilizaciones populares, como las manifestaciones contra Japón en la primavera de 2005.&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6093,8 +6093,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>It is open to question whether the turn away from the Enlightenment&lt;t4/&gt; ideals of the May Fourth Movement can continue to pressure the political system in ways that promote greater openness, accountability, and restraint.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T054420Z">
-        <seg>Asimismo, es debatible si el alejamiento de los ideales de la Ilustración que provocó el Movimiento del Cuatro de Mayo continúa influyendo en el sistema político, a través de métodos que promueven la aceptación de nuevas ideas, la responsabilidad y la compostura.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131301Z">
+        <seg>Asimismo, es debatible si el alejamiento de los ideales de la Ilustración que provocó el Movimiento del Cuatro de Mayo continúa influyendo en el sistema político, a través de métodos que promueven la aceptación de nuevas ideas, la responsabilidad y la compostura.&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8398,8 +8398,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Several contradictory trends &lt;t0/&gt;can be observed&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T171337Z">
-        <seg>Se observan diversas tendencias contradictorias.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131420Z">
+        <seg>Se observan diversas tendencias contradictorias.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,8 +10129,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This group &lt;t18/&gt;was largely distanced&lt;t19/&gt; from the halls of government in the 1990s, but it has emerged as much more influential in the first years of this century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T175616Z">
-        <seg>Este grupo se distanció en gran medida de las salas de gobierno en la década de los 90, pero en los primeros años de este siglo ha adquirido mucha más relevancia.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131431Z">
+        <seg>Este grupo se distanció en gran medida de las salas de gobierno en la década de los 90, pero en los primeros años de este siglo ha adquirido mucha más relevancia.&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10563,16 +10563,16 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>To the extent that intellectual currents support state efforts and “public opinion” &lt;t2/&gt;is mollified&lt;t3/&gt;, the odds of repeating a Tiananmen-type situation are reduced.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T034833Z">
-        <seg>En la medida en que las corrientes intelectuales respalden los esfuerzos del estado y la “opinión pública” sea apaciguada, hay pocas probabilidades de que se repita una situación similar a la de Tiananmén.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131316Z">
+        <seg>En la medida en que las corrientes intelectuales respalden los esfuerzos del estado y la “opinión pública” sea apaciguada, hay pocas probabilidades de que se repita una situación similar a la de Tiananmén.&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Today, both Party head &lt;t14/&gt;Hu&lt;t15/&gt; &lt;t16/&gt;Jintao&lt;t17/&gt; and Premier&lt;t18/&gt; &lt;t19/&gt;Wen&lt;t20/&gt; &lt;t21/&gt;Jiabao&lt;t22/&gt; are graduates of &lt;t23/&gt;Qinghua&lt;t24/&gt; University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160903T221401Z">
-        <seg>En la actualidad, tanto el líder del partido Hu Jintao como el primer ministro Wen Jiabao son egresados de la Universidad de Qinghua.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131330Z">
+        <seg>En la actualidad, tanto el líder del partido Hu Jintao como el primer ministro Wen Jiabao son egresados de la Universidad de Qinghua.&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;</seg>
       </tuv>
     </tu>
     <tu>
