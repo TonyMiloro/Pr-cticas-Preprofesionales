@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2578,7 +2578,7 @@
       <tuv lang="EN-US">
         <seg>As we shall see, Jiang’s response was to try to carve out a “middle course” that would allow him to maneuver between conflicting pressures while not becoming overly tied to any particular interest.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T181757Z" creationid="Daniel-Andrea" creationdate="20160910T181453Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T181757Z">
         <seg>Como veremos, la respuesta de Jiang fue tratar de forjar un "camino intermedio" que le permitiría maniobrar entre las presiones en conflicto siempre y cuando no se vincule excesivamente a algún interés en particular.</seg>
       </tuv>
     </tu>
@@ -2994,7 +2994,7 @@
       <tuv lang="EN-US">
         <seg>But first he had to deal with pressures from the Old Left.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T181828Z" creationid="Daniel-Andrea" creationdate="20160910T181828Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T181828Z">
         <seg>Pero primero tenía que lidiar con la presiones de la vieja izquierda.</seg>
       </tuv>
     </tu>
@@ -7669,8 +7669,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Oddly, White House&lt;t6/&gt; &lt;t7/&gt;officials did not feel that the US business community had been vocal enough&lt;t8/&gt; &lt;t9/&gt;in supporting China’s accession.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160910T031114Z">
-        <seg>Extrañamente los funcionarios de la Casa Blanca no sintieron que la comunidad empresarial de los EUA había expresado a plena voz su apoyo a favor de la adhesión de China. </seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T182002Z">
+        <seg>Extrañamente los funcionarios de la Casa Blanca no sintieron que la comunidad empresarial de los EE. UU. había expresado a plena voz su apoyo a favor de la adhesión de China. </seg>
       </tuv>
     </tu>
     <tu>
