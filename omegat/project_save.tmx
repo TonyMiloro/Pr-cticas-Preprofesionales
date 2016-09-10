@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2196,6 +2196,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T225119Z">
         <seg>A pesar de que la “fiebre cultural” a la que se hizo referencia con anterioridad permitió vínculos constantes entre el estado y los intelectuales, la autonomía en crecimiento de los intelectuales pronto generó un conflicto con el estado que empeoraría gradualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although their critiques of insider deals and other abuses of reform shine a useful light on the dark corners of reform, it is not yet evident that the exposure of scandals is leading to better corporate governance and healthier legal institutions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013540Z" creationid="bluebird" creationdate="20160910T013540Z">
+        <seg>Aunque sus críticas sobre acuerdos internos y otros abusos de la reforma iluminan oportunamente las oscuros rincones de la reforma; sin embargo, no existe evidencia alguna que la revelación de los escándalos lleve a una mejor gobernación colectiva ni a instituciones legales más saludables.</seg>
       </tuv>
     </tu>
     <tu>
