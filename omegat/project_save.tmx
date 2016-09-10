@@ -1833,8 +1833,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t9/&gt;And&lt;t10/&gt; this critique has grown in the first years of the new century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184403Z">
-        <seg>lo que generó que se siguieran desatando más críticas durante los primeros años del nuevo siglo.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T130805Z">
+        <seg>&lt;t9/&gt;&lt;t10/&gt;lo&lt;t9/&gt; que generó que se siguieran desatando más críticas durante los primeros años del nuevo siglo.&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5893,8 +5893,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, it has been subjected to withering criticism by intellectuals, politicians, and popular forces &lt;t7/&gt;who&lt;t8/&gt; reject liberalism and the “neoliberal” economics they associate with it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184255Z">
-        <seg>De hecho, (ver si se cambia porque se repite mucho arriba) el liberalismo fue objeto de duras críticas por parte de intelectuales, políticos y fuerzas populares que se oponen a esta doctrina y a sus respectivas economías “neoliberales”.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T130653Z">
+        <seg>De hecho, (ver si se cambia porque se repite mucho arriba) el liberalismo fue objeto de duras críticas por parte de intelectuales, políticos y fuerzas populares que &lt;t7/&gt;se oponen a esta doctrina y a sus respectivas economías “neoliberales”.&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
