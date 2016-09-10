@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8630,8 +8630,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Shortly after President Clinton turned his back on the WTO deal, details&lt;t0/&gt; &lt;t1/&gt;of China’s concessions appeared in a 17-page document posted on the&lt;t2/&gt; &lt;t3/&gt;USTR website.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160910T025642Z">
-        <seg>Poco después de que el Presidente Clinton le dio la espalda al trato con la OMC, se publicó un documento con detalles sobre las concesiones de China en la página web de la USTR.</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160910T180240Z">
+        <seg>Poco después de que el Presidente Clinton le dio la espalda al trato con la OMC, se publicó un documento con detalles sobre las concesiones de China en la página web de la  oficina del USTR.</seg>
       </tuv>
     </tu>
     <tu>
