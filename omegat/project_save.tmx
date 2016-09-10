@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11670,6 +11670,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="ROMI" changedate="20160908T222107Z">
         <seg>al llamar a este grupo la nueva Izquierda se intenta desacreditarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>candidate at Beijing University) wrote an article saying that China needed a “semiauthoritarian” (banjiquan) political system in order to develop a commodity (i.e., market-oriented) economy.4 What Zhang meant by the creation of a semi-authoritarian political system was the separation of politics from economics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160910T173438Z" creationid="USER" creationdate="20160910T173438Z">
+        <seg>escribió un artículo en el señalaba que China necesitaba un sistema político “semiautoritario” (banjiquan) para poder desarrollar una economía basada en las materias primas, es decir, una economía abierta de mercado.4 A lo que What Zhang se refería con la creación de un sistema político semiautoritario era la separación entre la política y la economía.</seg>
       </tuv>
     </tu>
     <tu>
