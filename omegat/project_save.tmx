@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4374,6 +4374,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T231627Z">
         <seg>Primera sesión de la reunión del Décimo Congreso Nacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, Wang’s notion of democracy, though never explicitly defined, appears to be one of substan&lt;/f0&gt;&lt;f1&gt;­tive rather than procedural democracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160911T234838Z" creationid="Barri" creationdate="20160911T234838Z">
+        <seg>En primer lugar, la idea de democracia de Wang, a pesar de que nunca haya sido explicitada, parece ser la de una &lt;/f0&gt;&lt;f1&gt;democracia sustantiva</seg>
       </tuv>
     </tu>
     <tu>
