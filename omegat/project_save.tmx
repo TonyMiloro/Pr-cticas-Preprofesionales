@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6038,6 +6038,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012049Z">
         <seg>En la primavera, la APN (Asamblea Popular Nacional) se comprometió a mantener la inflación por debajo del 10 % (un poco menos que el 13 % que se registró en 1993).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the wake of the WTO failure and the embassy bombing, Zhu &lt;t0/&gt;Rongji&lt;t1/&gt; &lt;t2/&gt;was abused mercilessly by public opinion.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160912T024334Z" creationid="Jesica" creationdate="20160912T024334Z">
+        <seg>Tras el fallo de la OMC y el atentado contra la embajada, la opinión pública abusó sin piedad de Zhu Rongji.</seg>
       </tuv>
     </tu>
     <tu>
