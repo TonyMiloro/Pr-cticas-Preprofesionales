@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2716,6 +2716,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T220813Z">
         <seg>Al mismo tiempo, Hu consolidó su posición en el ejército al promover a diez oficiales superiores al cargo de teniente general.&lt;t4/&gt;114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the same time, Wang sees China as evolving slowly from what he calls a “culture-centered political culture” to an “institution-centered political culture.” The key is to strengthen the cadre force and other elements that can support institutionalization while China’s political culture completes its long and painful transition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160912T001424Z" creationid="Barri" creationdate="20160912T001424Z">
+        <seg>Al mismo tiempo, Wang observa que China está evolucionando lentamente de lo que el llama una "cultura política centrada en la cultura" a una "cultura política centrada en instituciones". La clave está en </seg>
       </tuv>
     </tu>
     <tu>
