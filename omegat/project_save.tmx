@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5686,6 +5686,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025228Z">
         <seg>De hecho, no hace referencia a "trazar una línea" entre Marxismo y Anti-marxismo. Tampoco hay una crítica a las interpretaciones dogmáticas del Marxismo, ni esfuerzo alguno para definir qué es "realmente" aquello que constituye al Marxismo en el mundo contemporáneo, como  sí lo hace Xing Bensi en su artículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, Wang’s essays combine an almost Parsonian understanding of the way in which everything is linked to everything else with a Huntingto- nian understanding ofthe need to build institutions and maintain stability through a strong government over a long period of transition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160912T000720Z" creationid="Barri" creationdate="20160912T000720Z">
+        <seg>Por lo general, los ensayos de Wang combinan un entendimiento casi Parsoniano de la forma en que todo se conecta con todo, </seg>
       </tuv>
     </tu>
     <tu>
