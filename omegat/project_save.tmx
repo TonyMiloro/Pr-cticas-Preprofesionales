@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5316,8 +5316,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In 1943, the Party recognized Mao’s unique status by declaring that he would have the decisive vote even if his colleagues on the Secretariat (the equivalent of the later Politburo) disagreed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T204830Z">
-        <seg>En 1943, el Partido reconoció su posición única al declarar que él tendría el voto decisivo aunque los miembros de la Secretaría (más tarde Politburo) no estuvieran de acuerdo.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T024354Z">
+        <seg>En 1943, el partido reconoció su posición única al declarar que él tendría el voto decisivo aunque los miembros de la Secretaría (más tarde Politburo) no estuvieran de acuerdo.</seg>
       </tuv>
     </tu>
     <tu>
