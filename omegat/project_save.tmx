@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9889,8 +9889,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The issue of China’s relations with the outside world has continued to intrude into Chinese domestic politics throughout the post-Tiananmen period as ﬁrst Eastern Europe and then the Soviet Union rejected communism, as relations with the United States remained generally strained through much of the 1990s, and as closer ties with East Asia have suggested alternative development models.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T021301Z">
-        <seg>Las realciones de China con el resto del mundo ha estado presentes en las políticas internas chinas a lo largo del periodo pos-Tiananmen. Como primero Europa Occidental y luego la Union Sovietica rechazaron el comunismo, mientras las realciones con Estados Unidos continuaban siendo limitadas durante casi todos los 90, y mientras los lazos más cercanos con Asia del este sugerian modelos de desarrollo alternativo.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T010132Z">
+        <seg>La discusión sobre las realciones de China con el resto del mundo ha formado parte de las políticas internas chinas a lo largo del periodo pos-Tiananmén. Como primero Europa Occidental y luego la Union Sovietica rechazaron el comunismo, mientras las realciones con Estados Unidos continuaban siendo limitadas durante casi todos los 90, y mientras los lazos más cercanos con Asia del este sugerian modelos de desarrollo alternativo.</seg>
       </tuv>
     </tu>
     <tu>
