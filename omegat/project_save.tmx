@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1891,6 +1891,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160909T222748Z">
         <seg>Un cierto grado de tensión internacional era bueno&lt;t8/&gt; &lt;t9/&gt;para aquellos que disfrutaban izar la bandera nacionalista; también proveía una buena&lt;t10/&gt; &lt;t11/&gt;excusa para continuar proyectando los intereses de las empresas y burocracias&lt;t12/&gt; &lt;t13/&gt;que eran amenazadas por la compentencia internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A decade or so later, &lt;t2/&gt;there were at least one million households with annual incomes exceeding one million yuan.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T134521Z" creationid="Lucrecia" creationdate="20160913T134521Z">
+        <seg>Una década después más o menos, &lt;t2/&gt; había por le menos un millón de familias con ingresos anuales que superaban el millón de yuanes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5874,6 +5882,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In many ways, of course, this was a long overdue and healthy change that seemingly marked the appearance of a middle class, albeit one that was still quite small in terms of China’s population, or even its urban population.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T134902Z" creationid="Lucrecia" creationdate="20160913T134622Z">
+        <seg>De muchas maneras, obviamente, este fue un cambio largo atrasado y saludable que supuestamente marcó la aparición de una clase social media; sin embargo, era todacía bastante pequeña en comparación con la población de China e inluso con su población urbana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to defend his vision of reform against his critics’ arguments, Deng reiterated the theoretically unsophisticated but ultimately effective argument that he had put forth in Shanghai the previous year: planning and markets, far from being distinguishing characteristics of socialism and capitalism, were simply economic “methods” possessed by both types of systems.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T223813Z">
@@ -6110,6 +6126,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T022408Z">
         <seg>Mientras tanto, China ha salido de su aislamiento para convertirse en uno de los actores más importantes de la escena mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the mid-1980s, there was fevered talk in the Chinese press, which turned out to be exaggerated, of the emergence of “ten-thousand-yuan households” (wanyuanhu) – an almost unimaginable amount of income in a period in which the average rural resident earned only about 350 yuan per year.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T134413Z" creationid="Lucrecia" creationdate="20160913T134413Z">
+        <seg>A mediados de 1980 se habló mucho en la prensa china, lo cual resultó ser exagerado, acerca del surgimiento de familias con ingresos de 10 millones de yuans (wanyuanhu): un ingreso casi inimaginable en un período en el que un residente rural promedio ganaba solamente al rededor de 350 yuanes por día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11043,6 +11067,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160912T020715Z">
         <seg>Proceso que fue muy controversial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was an enormous change with profound social, psychological, and political implications.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T134615Z" creationid="Lucrecia" creationdate="20160913T134615Z">
+        <seg>Este fue un cambio enorme que trajo profundas implicaciones sociales, psicológicas y políticas.</seg>
       </tuv>
     </tu>
     <tu>
