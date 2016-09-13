@@ -2570,8 +2570,8 @@
       <tuv lang="EN-US">
         <seg>As Zhao put it, “Actually, the attitudes of these persons mattered little, as Deng might have imposed military control even if all five had disapproved.”20[3] A meeting of the Politburo Standing Committee later that evening formally endorsed Deng’s view.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T212907Z" creationid="Nadine" creationdate="20160913T212630Z">
-        <seg>Según Zhao, "En realidad, las actitudes de estas personas importaban poco, porque Deng podría haber impuesto control militar incluso si los cinco se oponían".20[3]  Una reunión del Buró Político del Comité Central esa tarde formalmente respaldó las intenciones de Deng.A meeting of the Politburo Standing Committee later that evening formally endorsed Deng’s view.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T212916Z" creationid="Nadine" creationdate="20160913T212630Z">
+        <seg>Según Zhao, "En realidad, las actitudes de estas personas importaban poco, porque Deng podría haber impuesto control militar incluso si los cinco se oponían".20[3]  Una reunión del Buró Político del Comité Central esa tarde formalmente respaldó las intenciones de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6767,6 +6767,16 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T172757Z">
         <seg>No fue hasta junio de 1990 que a Fang Lizhi se le permitió abandonar el país. El astro físico chino se refugió en la embajada estadounidense en Pekín ante las severas medidas tomadas después del 4 de junio&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was on the morning of the 19th when a tearful Zhao Ziyang appeared in Tiananmen Square, telling students that he had “come too late.” Indeed he had; he no longer functioned as general secretary.21[4]
+According to Party custom, Zhao was expected to support the “majority” opinion, but  Zhao embarrassed and angered the Party leadership by failing to attend the public meeting called to announce the implementation of martial law in Beijing on the evening of May 19.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T213019Z" creationid="Nadine" creationdate="20160913T213019Z">
+        <seg>Fue en la mañana del 19 It was on the morning of the 19th when a tearful Zhao Ziyang appeared in Tiananmen Square, telling students that he had “come too late.” Indeed he had; he no longer functioned as general secretary.21[4]
+According to Party custom, Zhao was expected to support the “majority” opinion, but  Zhao embarrassed and angered the Party leadership by failing to attend the public meeting called to announce the implementation of martial law in Beijing on the evening of May 19.</seg>
       </tuv>
     </tu>
     <tu>
