@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10025,8 +10025,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The incident further confirmed the economic and social bases of contemporary Chinese nationalism and the differing responses of the Chinese leadership to international economic forces and the social changes in China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160906T162121Z">
-        <seg>El incidente además confirmó las bases económicas y sociales del nacionalismo contemporáneo chino y las diferentes respuestas las fuerzas económicas internacionales y los cambios sociales en China de  .</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T133455Z">
+        <seg>El incidente además confirmó las bases económicas y sociales del nacionalismo contemporáneo chino y las diferentes respuestas de los líderes de China a las fuerzas económicas internacionales y los cambios sociales en China .</seg>
       </tuv>
     </tu>
     <tu>
@@ -10635,6 +10635,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T193606Z">
         <seg>Estos intereses divergentes se reflejaron tanto en la dirección del partido como en aquellos que Jiang reunió en busca de asesoramiento político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These dramatic socioeconomic changes have had the effect of producing a nouveau riche class.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T133733Z" creationid="Lucrecia" creationdate="20160913T133733Z">
+        <seg>Estos cambios dramáticos socioeconómicos han producido una clase social de "nouveau riche" (nuevos ricos).</seg>
       </tuv>
     </tu>
     <tu>
