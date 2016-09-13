@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9224,6 +9224,30 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160913T055017Z" creationid="Sofia" creationdate="20160913T054822Z">
         <seg>En algunos casos había una clara influencia y colaboración; por ejemplo, Wang &lt;t0/&gt;Huning&lt;t1/&gt;, un científico político reconocido de la Universidad Fudan de &lt;t2/&gt;Shanghai’s&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;, fue invitado por Jiang &lt;t6/&gt;Zemin&lt;t7/&gt; para unirse al gobierno en un rol en laboratorio de ideas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes they were bureaucrats who tired of the office routine and jumped into the sea of business but retained their connections to colleagues who could offer all-important approvals or access to scarce resources.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T135824Z" creationid="Lucrecia" creationdate="20160913T135824Z">
+        <seg>En algunos casos eran burócratas que se cansaban de la rutina de la oficina y se sumergían en el mar de negocios pero mantenían el contacto con sus colegas que les podían ofrecer aprobaciones importantes o acceso a recursos escasos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes they were enterprise heads who used their positions to siphon off large amounts of state-owned assets to private firms that they controlled directly or indirectly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T135931Z" creationid="Lucrecia" creationdate="20160913T135931Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes they were family members of officials still in office.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T135915Z" creationid="Lucrecia" creationdate="20160913T135915Z">
+        <seg>Otras veces era parientes de funcionarios públicos que todavía estaban en la oficina.</seg>
       </tuv>
     </tu>
     <tu>
