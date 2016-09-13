@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2932,6 +2932,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221424Z">
         <seg>Por esa razón, no se pueden unir al Partido gobernante, el poder estatal y las fuerzas más importantes que llevan adelante a la población y hacen uso de su gran habilidad”.&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because the Yugoslav campaign&lt;t22/&gt; &lt;t23/&gt;was initially seen as a purely local issue of limited duration, there appears&lt;t24/&gt; &lt;t25/&gt;to have been no consideration of the campaign’s effects on other countries,&lt;t26/&gt; &lt;t27/&gt;particularly Russia and China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="User" changedate="20160913T135708Z" creationid="User" creationdate="20160913T135708Z">
+        <seg>Debido a que la campaña Yugoslava&lt;t22/&gt; &lt;t23/&gt;fue al principio considerada como un asunto puramente local de duración limitada, parece que&lt;t24/&gt; &lt;t25/&gt;no se consideraron los efectos de la campaña en otros países,&lt;t26/&gt; &lt;t27/&gt;en particular en Rusia y China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8262,8 +8270,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Originally&lt;t10/&gt; &lt;t11/&gt;intended as a short campaign to intimidate &lt;t12/&gt;Milosovic&lt;t13/&gt; into compliance, it&lt;t14/&gt; &lt;t15/&gt;encountered unexpectedly stiff resistance, including the expulsion of many&lt;t16/&gt; &lt;t17/&gt;Kosovars from their homeland, and thus had to be extended – ultimately&lt;t18/&gt; &lt;t19/&gt;for 78 days until &lt;t20/&gt;Milosovic&lt;t21/&gt; capitulated.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160913T135413Z" creationid="User" creationdate="20160913T135134Z">
-        <seg>Esta campaña&lt;t10/&gt; &lt;t11/&gt;fue planeada en principios como una campaña corta para intimidar a &lt;t12/&gt;Milosovic&lt;t13/&gt; y lograr su conformidad. Sin embargo,&lt;t14/&gt; &lt;t15/&gt;se encontraron con una dura e inesperada resistencia, que incluyó la expulsión de muchis&lt;t16/&gt; &lt;t17/&gt;Kosovars de su país natal, y por ende tuvo que extenderse – &lt;t18/&gt; &lt;t19/&gt;por un total de 78 días hasta que &lt;t20/&gt;Milosovic&lt;t21/&gt; capitulated.</seg>
+      <tuv lang="ES-US" changeid="User" changedate="20160913T135446Z" creationid="User" creationdate="20160913T135134Z">
+        <seg>Esta campaña&lt;t10/&gt; &lt;t11/&gt;fue planeada en principios como una campaña corta para intimidar a &lt;t12/&gt;Milosovic&lt;t13/&gt; y lograr su conformidad. Sin embargo,&lt;t14/&gt; &lt;t15/&gt;se encontraron con una dura e inesperada resistencia, que incluyó la expulsión de muchis&lt;t16/&gt; &lt;t17/&gt;Kosovars de su país natal, y por ende tuvo que extenderse – &lt;t18/&gt; &lt;t19/&gt;por un total de 78 días hasta que &lt;t20/&gt;Milosovic&lt;t21/&gt; se rindió.</seg>
       </tuv>
     </tu>
     <tu>
