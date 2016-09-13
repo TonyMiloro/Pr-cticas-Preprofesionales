@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8248,6 +8248,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160708T202851Z">
         <seg>Solo aquellas personas casas completamente familiarizadas con el contenido de esta manual  &lt;t0/&gt;están autorizadas&lt;t1/&gt;  a operar el equipo y a realizar las tareas de mantenimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Originally&lt;t10/&gt; &lt;t11/&gt;intended as a short campaign to intimidate &lt;t12/&gt;Milosovic&lt;t13/&gt; into compliance, it&lt;t14/&gt; &lt;t15/&gt;encountered unexpectedly stiff resistance, including the expulsion of many&lt;t16/&gt; &lt;t17/&gt;Kosovars from their homeland, and thus had to be extended – ultimately&lt;t18/&gt; &lt;t19/&gt;for 78 days until &lt;t20/&gt;Milosovic&lt;t21/&gt; capitulated.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="User" changedate="20160913T135220Z" creationid="User" creationdate="20160913T135134Z">
+        <seg>Esta campaña&lt;t10/&gt; &lt;t11/&gt;fue planeada en principios como una campaña corta para intimidar a &lt;t12/&gt;Milosovic&lt;t13/&gt; y lograr su conformidad. it&lt;t14/&gt; &lt;t15/&gt;encountered unexpectedly stiff resistance, including the expulsion of many&lt;t16/&gt; &lt;t17/&gt;Kosovars from their homeland, and thus had to be extended – ultimately&lt;t18/&gt; &lt;t19/&gt;for 78 days until &lt;t20/&gt;Milosovic&lt;t21/&gt; capitulated.</seg>
       </tuv>
     </tu>
     <tu>
