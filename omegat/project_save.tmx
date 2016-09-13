@@ -3122,8 +3122,8 @@
       <tuv lang="EN-US">
         <seg>But a combination of forces appears to be making deepening reform more difficult.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160913T223741Z" creationid="XP" creationdate="20160913T223356Z">
-        <seg>Pero aparentemente una combinación de factores están casusando que una reforma profunda sea más dificultosa.   .</seg>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T223800Z" creationid="XP" creationdate="20160913T223356Z">
+        <seg>Pero aparentemente una combinación de factores están casusando que una reforma profunda sea más dificultosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10639,6 +10639,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020428Z">
         <seg>El mundo pos-Guerra Fría podía estar ideológicamente unificado bajo el liberalismo neoclásico occidental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The problem is that under the auspices of neoconservatism, when neither press nor a popular electorate could check the implementation of reform, powerful interests grew up.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T223806Z" creationid="XP" creationdate="20160913T223806Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
