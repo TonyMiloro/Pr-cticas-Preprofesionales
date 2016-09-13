@@ -2096,6 +2096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although China’s integration into the global economy continues apace, these developments suggest an effort to build legitimacy by undercutting the credibility of many Western ideas.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T210556Z" creationid="XP" creationdate="20160913T210556Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although Ishihara’s book can be seen as the opening shot in this debate, the debate over Asian values accelerated following the end of the Cold War.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020249Z">
@@ -5372,8 +5380,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Hu certainly tolerated criticism of “public intellectuals” and consistently took measures to exert control over the media, including the Internet.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160913T210342Z" creationid="XP" creationdate="20160913T205851Z">
-        <seg>Ciertamente, Hu fue objeto de críticas por parte de los "intelectuales públicos" y tomó medidas sistemáticas para ejercer control sobre los medios de comunicación, incluyendo la internet   .</seg>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T210345Z" creationid="XP" creationdate="20160913T205851Z">
+        <seg>Ciertamente, Hu fue objeto de críticas por parte de los "intelectuales públicos" y tomó medidas sistemáticas para ejercer control sobre los medios de comunicación, incluyendo la internet.   .</seg>
       </tuv>
     </tu>
     <tu>
