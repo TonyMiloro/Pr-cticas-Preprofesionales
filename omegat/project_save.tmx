@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10581,8 +10581,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The populist critique of reform that has grown up in recent years bears the potential to slow the sort of reforms China needs – improving the efficiency of the market at the expense of cronyism – as it attempts to redress some of the imbalances that have grown up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160913T220656Z" creationid="XP" creationdate="20160913T215604Z">
-        <seg>La crítica populista a la reforma que se ha  incrementado en los últimos años constituye una potencial ralentización de las   .</seg>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T220721Z" creationid="XP" creationdate="20160913T215604Z">
+        <seg>La crítica populista a la reforma que se ha  incrementado en los últimos años constituye una potencial ralentización de   .</seg>
       </tuv>
     </tu>
     <tu>
