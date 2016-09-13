@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3132,6 +3132,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160905T021211Z">
         <seg>Sin embargo, a medida que las inequidades sociales crecían, &lt;s1/&gt; &lt;s2/&gt;se desencadenaron dudas &lt;s3/&gt;y &lt;s4/&gt;debates nuevos&lt;s5/&gt; &lt;s6/&gt;, &lt;s7/&gt;en particular &lt;s8/&gt;a comienzos &lt;s9/&gt;de &lt;s10/&gt;2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But by the early years of the new century, people were complaining that health care reform had meant that doctors were too expensive to see, that housing reform meant that homes were too expensive to purchase, and that educational reform meant that parents could not afford to send their children to school.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T222741Z" creationid="pibe bazooka" creationdate="20160913T222741Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
