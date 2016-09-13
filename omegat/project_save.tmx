@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3120,6 +3120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But a combination of forces appears to be making deepening reform more difficult.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T223356Z" creationid="XP" creationdate="20160913T223356Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But as social inequalities grew,  new  doubts  and  debates  broke  out,  particularly  starting  in  2004.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160910T011942Z">
@@ -5380,8 +5388,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Hu Jintao and Wen Jiabao appear aware of this potential, hence their reaffirmation of reform at theMarch 2006 meeting of the NPC.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160913T223307Z" creationid="XP" creationdate="20160913T222149Z">
-        <seg>Hu Jintao and Wen Jiabao parecen estar al tanto de esto, razón por la cual reafirmaron la feforma en la reunión de marzo de 2006  .</seg>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T223328Z" creationid="XP" creationdate="20160913T222149Z">
+        <seg>Hu Jintao and Wen Jiabao parecen estar al tanto de esto, razón por la cual reafirmaron la feforma en la reunión de la ANP de marzo de 2006 .</seg>
       </tuv>
     </tu>
     <tu>
