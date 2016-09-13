@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8738,8 +8738,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Politically the early hope offered by village-level elections faded as expectations that they would move up the political hierarchy at least to the township level never materialized (despite a few pioneering efforts in places like Buyun in Sichuan and Dapeng in Shenzhen).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T214646Z" creationid="pibe bazooka" creationdate="20160913T213800Z">
-        <seg>Desde el punto de vista político, el optimismo que había surgido a raíz de las elecciones en el circuito de villas se desvaneció, ya que las expectativas de escalar la jerarquía, al menos hasta conformarse como distritos, no lograron concretarse ( .</seg>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T214817Z" creationid="pibe bazooka" creationdate="20160913T213800Z">
+        <seg>Desde el punto de vista político, el optimismo que había surgido a raíz de las elecciones en el circuito de villas se desvaneció, ya que las expectativas de escalar la jerarquía, al menos hasta conformarse como distritos, no lograron concretarse ( a pesar de haber existido esta iniciativa pionera en lugares como Buyun en Sichuan y Dapeng en Shenzhen) .</seg>
       </tuv>
     </tu>
     <tu>
