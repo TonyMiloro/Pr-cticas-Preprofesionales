@@ -2010,8 +2010,8 @@
       <tuv lang="EN-US">
         <seg>After a quarter of a century of looking to the West for inspiration, one senses that there is a turn inward to find a more “Chinese” model of development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160913T213651Z" creationid="XP" creationdate="20160913T212110Z">
-        <seg>Despúes de un cuarto de siglo de buscar inspiración en occidente, se percive un cambio de foco hacia adentro del país con el finde encontrar un modelo de desarrollo más propio de China.</seg>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T214354Z" creationid="XP" creationdate="20160913T212110Z">
+        <seg>Despúes de un cuarto de siglo de buscar inspiración en occidente, se percive un cambio de foco hacia adentro del país con el finde encontrar un modelo de desarrollo más "propio de China".</seg>
       </tuv>
     </tu>
     <tu>
@@ -10527,6 +10527,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160908T182506Z">
         <seg>Estos campesinos comenzaron a organizarse en 1992 para reclamar por los elevados impuestos (mayores que lo permitido por las políticas centrales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The plenum approved a resolution calling for the creation of a “harmonious society,” bringing together the various themes that Hu had been emphasizing since his elevation to general secretary four years earlier: creating a “people-centered” society, using the scientific development concept to guide the economy, developing socialist democracy, the rule of law, and social justice, and improving the governing capabilities of the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="XP" changedate="20160913T214331Z" creationid="XP" creationdate="20160913T214331Z">
+        <seg>The plenum approved a resolution calling for the creation of a “harmonious society,” bringing together the various themes that Hu had been emphasizing since his elevation to general secretary four years earlier: creating a “people-centered” society, using the scientific development concept to guide the economy, developing socialist democracy, the rule of law, and social justice, and improving the governing capabilities of the Party</seg>
       </tuv>
     </tu>
     <tu>
