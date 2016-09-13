@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7715,6 +7715,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nevertheless, the new middle class, including the much more prosperous nouveau riche, drove the new consumerism of the 1990s and so changed the nature and role of culture in Chinese society by commercializing it and diversifying it.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T135314Z" creationid="Lucrecia" creationdate="20160913T135314Z">
+        <seg>No obstante, la nueva clase media, inluyendo la "nouveau riche" que era más próspera, impulsó el nuevo consumerismo de 1990 y, por lo tanto, cambió la naturaleza y rol de la cultura en la sociedad china ya que comenzó a comercializarla y diversificarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nevertheless, the report called for a quadrupling of the GDP by the year 2020 and emphasized science and technology as drivers of economic growth.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160908T004815Z">
@@ -10315,6 +10323,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160905T015838Z">
         <seg>Los roles de Zhu y de la Oficina de la Procucción se ampliaron aún más en mayo de 1993 cuando este organizmo se expandió y se constituyó como la Comisión Estatal de Economía y Comercio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The seamy side of this story is that those who did the best in this new economy – and some did very well indeed – almost always seemed to have strong political connections.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T135535Z" creationid="Lucrecia" creationdate="20160913T135535Z">
+        <seg>La parte escandalosa de la historia es que a los que les fue bien con esta nueva economía (y a algunos les fue muy bien de verdad) casi siempre parecían tener fuertes conexiones políticas.</seg>
       </tuv>
     </tu>
     <tu>
