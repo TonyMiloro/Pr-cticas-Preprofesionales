@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9919,6 +9919,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024657Z">
         <seg>El fallo del Sexto Pleno desilusionó no solo a muchos intelectuales sino también a algunos de los asesores políticos de Jiang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Three Represents jettisoned notions of class conflict, but it inspired much cynicism as it looked &lt;t0/&gt;to&lt;t1/&gt; many as transparent cover for solidifying the place of an emerging bureaucratic capitalist class.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T220038Z" creationid="pibe bazooka" creationdate="20160913T220038Z">
+        <seg>La Triple Representatividad descartó toda noción de lucha de clases,  &lt;t0/&gt;to&lt;t1/&gt; many as transparent cover for solidifying the place of an emerging bureaucratic capitalist class.</seg>
       </tuv>
     </tu>
     <tu>
