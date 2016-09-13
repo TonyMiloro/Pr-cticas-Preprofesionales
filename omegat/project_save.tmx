@@ -7549,8 +7549,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Market-oriented reforms, decentralization, and opening to the outside world all threatened these beliefs and interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T205729Z" creationid="Nadine" creationdate="20160913T205729Z">
-        <seg>Reformas de mercado, descentralizaciónMarket-oriented reforms, decentralization, and opening to the outside world all threatened these beliefs and interests.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T205816Z" creationid="Nadine" creationdate="20160913T205729Z">
+        <seg>Las reformas de mercado, la descentralización y la apertura al mundo exterior, todo amenzaba estas creencias e intereses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10915,6 +10915,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110106Z">
         <seg>Estos pasos eran necesarios para que Jiang pudiera atender con éxito el primordial asunto del momento, la reforma económica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These very different orientations underlay the mounting tensions in the Party in the late 1980s, and the anger and frustration of the left wing of the Party came pouring out in the aftermath of Tiananmen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T210117Z" creationid="Nadine" creationdate="20160913T210117Z">
+        <seg>Estas orientaciones muy diferentes subyacíanThese very different orientations underlay the mounting tensions in the Party in the late 1980s, and the anger and frustration of the left wing of the Party came pouring out in the aftermath of Tiananmen.</seg>
       </tuv>
     </tu>
     <tu>
