@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5852,8 +5852,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In July it was  reported that Zhu Junyi, the director of the bureau, had been accused of receiving bribes and misusing some three billion yuan (about $400 million) in funds.&lt;t0/&gt;118&lt;t1/&gt; The Shanghai case took on a more political color when Qin Yu, a former secretary to Party Secretary Chen Liangyu, was arrested in August.&lt;t2/&gt;119&lt;t3/&gt; Finally, on September 24, Chen himself was removed &lt;t4/&gt;from office for his involvement in a pension fund scandal.&lt;t5/&gt;120&lt;t6/&gt; Chen, who had been elevated to Party secretary and then Politburo member when Huang Ju was promoted at the Sixteenth Party Congress, had long been a thorn in the side of the Hu–Wen administration, repeatedly refusing to slow investment in accordance with Beijing’s directives.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160906T033321Z">
-        <seg>En julio se informó que Zhu Junyi, el director de la oficina, había sido acusado de recibir sobornos y por el uso indebido de fondos - casi tres billones de yuanes (cerca de USD 400 millones).&lt;t0/&gt;118&lt;t1/&gt; &lt;t2/&gt;119&lt;t3/&gt; &lt;t4/&gt; &lt;t5/&gt;120&lt;t6/&gt;</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T004458Z">
+        <seg>En julio se informó que Zhu Junyi, el director de la oficina, había sido acusado de recibir sobornos y por el uso indebido de fondos - casi tres billones de yuanes (cerca de USD 400 millones).&lt;t0/&gt;118&lt;t1/&gt; El caso de Shanghái tomó un tinte más político en agosto después de la detención de Qin Yu, exsecretario de Chen Liangyu, el Secretario del Partido.&lt;t2/&gt;119&lt;t3/&gt; Finalmente, el 24 de septiembre, el mismo Chen fue despedido de su puesto debido a su involucración en un escándalo por mal manejo de fondos de pensiones.&lt;t4/&gt; &lt;t5/&gt;120&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10663,14 +10663,6 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160908T182506Z">
         <seg>Estos campesinos comenzaron a organizarse en 1992 para reclamar por los elevados impuestos (mayores que lo permitido por las políticas centrales).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The plenum approved a resolution calling for the creation of a “harmonious society,” bringing together the various themes that Hu had been emphasizing since his elevation to general secretary four years earlier: creating a “people-centered” society, using the scientific development concept to guide the economy, developing socialist democracy, the rule of law, and social justice, and improving the governing capabilities of the Party.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160913T214331Z" creationid="XP" creationdate="20160913T214331Z">
-        <seg>The plenum approved a resolution calling for the creation of a “harmonious society,” bringing together the various themes that Hu had been emphasizing since his elevation to general secretary four years earlier: creating a “people-centered” society, using the scientific development concept to guide the economy, developing socialist democracy, the rule of law, and social justice, and improving the governing capabilities of the Party</seg>
       </tuv>
     </tu>
     <tu>
