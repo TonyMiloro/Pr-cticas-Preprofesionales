@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5620,8 +5620,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>If Jiang was able to forge an informal coalition among political, economic, and intellectual elites, unanticipated in the &lt;t0/&gt;wake of Tiananmen, he also presided over a vast growth in vested interests – those who had done well, sometimes very well, by cooperating with, and being coopted by, the political system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T015514Z" creationid="pibe bazooka" creationdate="20160914T014044Z">
-        <seg>Jiang pudo formar una alianza informal entre grupos políticos, económicos e intelectuales de elite, algo sin precedentes desde antes de lo ocurrido en Tiananmen .&lt;t0/&gt;También estuvo al mando del amplio creciemiento de los intereses de estos grupos, algunos de los cuales se vieron bastante beneficiados por cooperar, y  .</seg>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T015805Z" creationid="pibe bazooka" creationdate="20160914T014044Z">
+        <seg>Jiang pudo formar una alianza informal entre grupos políticos, económicos e intelectuales de elite, algo sin precedentes desde antes de lo ocurrido en Tiananmen .&lt;t0/&gt;También estuvo al mando del amplio creciemiento de los intereses de estos grupos, algunos de los cuales se vieron bastante beneficiados por cooperar con el sistema político.</seg>
       </tuv>
     </tu>
     <tu>
