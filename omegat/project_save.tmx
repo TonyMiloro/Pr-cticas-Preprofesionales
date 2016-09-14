@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2876,6 +2876,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131342Z">
         <seg>Además, muchos de los consejeros de los líderes, ya sea desde cargos en el gobierno, o desde puestos en universidades o laboratorios de ideas, son intelectuales altamente calificados.&lt;t25/&gt;&lt;t26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the same time, some old cadres were heard to mutter&lt;t10/&gt; &lt;t11/&gt;that the government’s readiness to accept globalization was like Wang &lt;t12/&gt;Jingwei’s&lt;t13/&gt; &lt;t14/&gt;willingness to serve as head of Japan’s puppet government in occupied&lt;t15/&gt; &lt;t16/&gt;China during World War Two.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T002937Z" creationid="Jesica" creationdate="20160914T002937Z">
+        <seg>Al mismo tiempo, algunos viejos cuadros escucharon el murmuro que la disposición del govierno  para aceptar la globalizacion como la voluntad Wang Jingwei para servir como la cabeza del titere del gobierno japones en China ocupada durante la Segunda Guerra Mundial   .</seg>
       </tuv>
     </tu>
     <tu>
@@ -6995,6 +7003,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034815Z">
         <seg>18 de enero-21 de febrero	El "viaje al sur" de Deng Xiaoping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang &lt;t0/&gt;Zemin’s&lt;t1/&gt; own position was very delicate.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T003006Z" creationid="Jesica" creationdate="20160914T003006Z">
+        <seg>La posición de Jian Zemin era muy delicada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12513,6 +12529,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T194213Z">
         <seg>Dentro del propio entorno de Jiang había funcionarios conservadores, como Teng Wensheng (protegido de Deng Liqun), quien encabezó la Oficina de Investigación Política del Comité Central&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;y Ding Guan'gen (el jefe conservador del Departamento de Propaganda), a quien Jiang continuó empleando a pesar de su gran impopularidad dentro del partido, por no mencionar su impopularidad dentro entre los intelectuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Within the government,&lt;t2/&gt; &lt;t3/&gt;Jiang was widely seen as “soft” on the United States and as a strong advocate&lt;t4/&gt; &lt;t5/&gt;of WTO membership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T003051Z" creationid="Jesica" creationdate="20160914T003051Z">
+        <seg>Dentro del govberno</seg>
       </tuv>
     </tu>
     <tu>
