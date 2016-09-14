@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3482,8 +3482,8 @@
       <tuv lang="EN-US">
         <seg>Chen Liangyu was also the highest ranking Party official to be cashiered since Jiang Zemin had removed Chen Xitong in 1996, and his arrest marked a significant diminution in the influence of the so-called Shanghai gang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T010856Z" creationid="Pablo" creationdate="20160914T010856Z">
-        <seg>Chen Liangyu era también el oficial del Partido de mayor rango en haber sido destituido desde que Jiang Zemin expulsó a Chen Xitong en 1996, y si detención significó una disminución importante en la influencia de la llamada Banda de Shanghái.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T010954Z" creationid="Pablo" creationdate="20160914T010856Z">
+        <seg>Chen Liangyu fue también el oficial del Partido de mayor rango en haber sido destituido desde que Jiang Zemin expulsó a Chen Xitong en 1996, y su detención significó una disminución importante en la influencia de la llamada Banda de Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
