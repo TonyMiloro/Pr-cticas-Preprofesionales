@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8620,6 +8620,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160908T224416Z">
         <seg>Otros miembros plenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Others called Zhu &lt;t17/&gt;Rongji’s&lt;t18/&gt; compromises in&lt;t19/&gt; &lt;t20/&gt;Washington the “new 21 demands selling out the country” – a reference to&lt;t21/&gt; &lt;t22/&gt;Japan’s infamous demands of 1915 that sought to reduce China to a colony.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T010113Z" creationid="Jesica" creationdate="20160914T010113Z">
+        <seg>Otros llaman los compromisos de Zhu Rongji en Washington " las 21 nuevas demandas que venden el país"- una referencia a las demandas infame  de Japón en 1915 que buscaban reducir China a una colonia.</seg>
       </tuv>
     </tu>
     <tu>
