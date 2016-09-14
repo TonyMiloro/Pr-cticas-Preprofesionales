@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1972,6 +1972,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T212258Z">
         <seg>Según He, el auge del mercado inmobiliario enriqueció a aquellos con contactos a expensas de la gente común, obstruyó la formación de un mecanismo de competencia leal, y fomentó una corrupción rampante. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to many reports, Jiang Zemin himself approved of Chen’s removal, but Jiang was under tremendous pressure, including apparently investigations into the financial activities of his own son, Jiang Mianhong.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T012205Z" creationid="Pablo" creationdate="20160914T012205Z">
+        <seg>Según varios informes, el mismo Jiang Zemin dio el visto bueno a la destitución de Chen, pero Jiang se encontraba bajo una tremenda presión, incluyendo supuestas investigaciones en las actividades financieras de su propio hijo, Jiang Mianhong.</seg>
       </tuv>
     </tu>
     <tu>
