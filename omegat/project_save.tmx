@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10010,8 +10010,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>That this explosion of anti-American anger came a month before the tenth&lt;t0/&gt; &lt;t1/&gt;anniversary of the Tiananmen crackdown was certainly a plus from the&lt;t2/&gt; &lt;t3/&gt;Party’s point of view.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T023705Z" creationid="Jesica" creationdate="20160914T023705Z">
-        <seg>que esta explosión de enojo anti americano surgió un mes antes del décimo aniversario de</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T024029Z" creationid="Jesica" creationdate="20160914T023705Z">
+        <seg>que esta explosión de enojo anti americano surgió un mes antes del décimo aniversario de las médidas energéticas de Tiananmén fue sin duda un plus para el punto de vista del partido </seg>
       </tuv>
     </tu>
     <tu>
@@ -12705,6 +12705,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011159Z">
         <seg>Sin la presión de inversiones extranjeras, ¿cómo se podría esperar que las empresas tras muros de protección hagan un reajuste?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without understanding the change in&lt;t14/&gt; &lt;t15/&gt;political atmosphere and public opinion described in the previous chapters,&lt;t16/&gt; &lt;t17/&gt;neither the actions of the government nor those of the students in the spring&lt;t18/&gt; &lt;t19/&gt;of 1999 makes sense.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T024234Z" creationid="Jesica" creationdate="20160914T024234Z">
+        <seg>sin endender el cambio en la atmosfera politica y la opinion publica descripta en los capitulos anteriores, ni las acciones del gobierno ni esos estudiantes de 1999 tuvieron sentido..</seg>
       </tuv>
     </tu>
     <tu>
