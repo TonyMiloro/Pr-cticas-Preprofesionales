@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11099,6 +11099,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There were rumblings that the real “traitor” was&lt;t6/&gt; &lt;t7/&gt;not Zhu &lt;t8/&gt;Rongji&lt;t9/&gt; but rather Jiang &lt;t10/&gt;Zemin&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T011022Z" creationid="Jesica" creationdate="20160914T011022Z">
+        <seg>Habían peleas acerca de que el traidor real no era Zhu Rongji pero Jiang Zemin.&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thereafter, peasant organizations, although not formally recognized, became a part of the &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;de facto &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;reality in this part of Hunan.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160912T154825Z" creationid="Monzon" creationdate="20160912T154825Z">
@@ -12543,8 +12551,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>Within the government,&lt;t2/&gt; &lt;t3/&gt;Jiang was widely seen as “soft” on the United States and as a strong advocate&lt;t4/&gt; &lt;t5/&gt;of WTO membership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T003051Z" creationid="Jesica" creationdate="20160914T003051Z">
-        <seg>Dentro del govberno</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T010709Z" creationid="Jesica" creationdate="20160914T003051Z">
+        <seg>Dentro del gobierno, Jian se lo consideraba como "indulgente" en Estados Unidos y como un fuerte partidario de la membresía de la OMC.  </seg>
       </tuv>
     </tu>
     <tu>
