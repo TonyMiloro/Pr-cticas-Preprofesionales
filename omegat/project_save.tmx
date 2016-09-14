@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10551,6 +10551,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T223039Z">
         <seg>El gobierno fomentaba el sentimiento nacionalista a través de campañas de educación patriótica y, por lo general, se oponía a que estas “manchas negras” formaran parte de su historia.&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The growth of interests, one could argue, provided a sort of political stability under a neoconservative framework, but it also stood in the way of efforts to deepen reform, particularly thorough-going legal and political reforms.&lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;At&lt;t4/&gt; the same time, such interests generated intense societal opposition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T021131Z" creationid="pibe bazooka" creationdate="20160914T020820Z">
+        <seg>Puede suponerse que el crecimiento de intereses contribuyó a cierto equilibrio político en un marco neoconservador, pero también se interpuso en los intentos de permear reformas, en especial, aquellas reformas legales y políticas exhaustivas.&lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;Al&lt;t4/&gt; mismo tiempo, estos intereses generaban una intensa oposición en la sociedad.</seg>
       </tuv>
     </tu>
     <tu>
