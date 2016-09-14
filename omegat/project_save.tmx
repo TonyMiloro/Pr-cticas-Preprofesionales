@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2546,8 +2546,8 @@
       <tuv lang="EN-US">
         <seg>Articles on the Internet and&lt;t3/&gt; &lt;t4/&gt;student demonstrators labeled him &lt;t5/&gt;a “traitor” (&lt;t6/&gt;maiguozei&lt;t7/&gt;) following the&lt;t8/&gt; &lt;t9/&gt;embassy bombing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T002119Z" creationid="Jesica" creationdate="20160914T002119Z">
-        <seg>artículos en la Web y demonstraciones estudiantiles lo etiquetaron como un "traidor" (maiguozei) y luego del atentado a la embajada.</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T004345Z" creationid="Jesica" creationdate="20160914T002119Z">
+        <seg>Artículos en la Web y demonstraciones estudiantiles lo etiquetaron como un "traidor" (maiguozei) y luego del atentado a la embajada.</seg>
       </tuv>
     </tu>
     <tu>
