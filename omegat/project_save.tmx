@@ -5620,8 +5620,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>If Jiang was able to forge an informal coalition among political, economic, and intellectual elites, unanticipated in the &lt;t0/&gt;wake of Tiananmen, he also presided over a vast growth in vested interests – those who had done well, sometimes very well, by cooperating with, and being coopted by, the political system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T015805Z" creationid="pibe bazooka" creationdate="20160914T014044Z">
-        <seg>Jiang pudo formar una alianza informal entre grupos políticos, económicos e intelectuales de elite, algo sin precedentes desde antes de lo ocurrido en Tiananmen .&lt;t0/&gt;También estuvo al mando del amplio creciemiento de los intereses de estos grupos, algunos de los cuales se vieron bastante beneficiados por cooperar con el sistema político.</seg>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T020355Z" creationid="pibe bazooka" creationdate="20160914T014044Z">
+        <seg>Jiang pudo formar una alianza informal entre grupos políticos, económicos e intelectuales de elite, algo sin precedentes desde antes de lo ocurrido en Tiananmen .&lt;t0/&gt;También estuvo al mando del amplio creciemiento de los intereses de estos grupos, que han hecho bien, a veces más que bien, en cooperar con el sistema político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10551,6 +10551,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T223039Z">
         <seg>El gobierno fomentaba el sentimiento nacionalista a través de campañas de educación patriótica y, por lo general, se oponía a que estas “manchas negras” formaran parte de su historia.&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The growth of vested interests distinguished China in the early twenty-first century from the situation in 1989 when societal interests were much weaker.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T020419Z" creationid="pibe bazooka" creationdate="20160914T020419Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
