@@ -9728,6 +9728,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of the criticisms of reform that have emerged over the past few years are certainly justified.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T132626Z" creationid="pibe bazooka" creationdate="20160914T132626Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of these works defend the government’s position while others are openly critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T183957Z">
@@ -10179,8 +10187,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>The New Left and nationalist critiques explored in Chapters 4 and 5 anticipated the populist support for Larry Lang and the opposition to the Property Rights Law.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T132554Z" creationid="pibe bazooka" creationdate="20160914T132505Z">
-        <seg>Las críticas nacionalistas y de la nueva Izquierda analizadas en los capítulos 4 y 5 anticiparon el apoyo populista a Larry Lang y la oposición a Ley de Derechos .</seg>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T132615Z" creationid="pibe bazooka" creationdate="20160914T132505Z">
+        <seg>Las críticas nacionalistas y de la nueva Izquierda analizadas en los capítulos 4 y 5 anticiparon el apoyo populista a Larry Lang y la oposición a Ley de Derechos de Propiedad.</seg>
       </tuv>
     </tu>
     <tu>
