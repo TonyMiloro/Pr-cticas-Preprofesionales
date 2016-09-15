@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6909,8 +6909,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, the author argued that the richest villages in contemporary China, such as Henan’s Nanjie Village, are all run as collectives with a leader acting wholeheartedly in the public interest.&lt;/f24&gt;&lt;f25&gt;80 &lt;/f25&gt;&lt;f26&gt;The introduction of individualism, based on the concept of economic man, is not the solution to problems in socialism but on the contrary can only exacerbate those problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T232335Z" creationid="marcelo lavarda" creationdate="20160915T232221Z">
-        <seg>En efecto, el autor sostenía que los pueblos más afluentes de la China contemporánea, como por ejemplo Henan's Nanjie, funcionan colectivamente con un líder a la cabeza que actúa por el bien común. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T232508Z" creationid="marcelo lavarda" creationdate="20160915T232221Z">
+        <seg>En efecto, el autor sostenía que los pueblos más afluentes de la China contemporánea, como por ejemplo Henan's Nanjie, funcionan colectivamente con un líder a la cabeza que actúa por el bien común. La introducción del individualismo, basado en el concepto de homo economicus, no es la solución a los problemas del socialismo, sino que más bien los exacerba.</seg>
       </tuv>
     </tu>
     <tu>
