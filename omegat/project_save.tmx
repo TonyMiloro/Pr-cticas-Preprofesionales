@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11981,8 +11981,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>This interpretation&lt;t14/&gt; &lt;t15/&gt;jibes with reports of Jiang adopting harsh rhetoric in internal meetings –&lt;t16/&gt; &lt;t17/&gt;saying, for instance, that US imperialism &lt;t18/&gt;will not die (&lt;t19/&gt;wangwozhixin&lt;t20/&gt; &lt;t21/&gt;busi&lt;t22/&gt;,&lt;t23/&gt; &lt;t24/&gt;an evocative expression used by Mao Zedong) and calling for “biding time&lt;t25/&gt; &lt;t26/&gt;while nurturing grievances” (&lt;t27/&gt;woxin&lt;t28/&gt; &lt;t29/&gt;changtan&lt;t30/&gt;).46</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160915T235124Z" creationid="Jesica" creationdate="20160915T235124Z">
-        <seg>La interpretacion se burla de los reportes de Jian al adoptar una retorica dura en sus reuniones internas, y dice, por ejemplo This interpretation&lt;t14/&gt; &lt;t15/&gt;jibes with reports of Jiang adopting harsh rhetoric in internal meetings –&lt;t16/&gt; &lt;t17/&gt;saying, for instance, that US imperialism &lt;t18/&gt;will not die (&lt;t19/&gt;wangwozhixin&lt;t20/&gt; &lt;t21/&gt;busi&lt;t22/&gt;,&lt;t23/&gt; &lt;t24/&gt;an evocative expression used by Mao Zedong) and calling for “biding time&lt;t25/&gt; &lt;t26/&gt;while nurturing grievances” (&lt;t27/&gt;woxin&lt;t28/&gt; &lt;t29/&gt;changtan&lt;t30/&gt;).46</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160915T235436Z" creationid="Jesica" creationdate="20160915T235124Z">
+        <seg>La interpretacion se burla de los reportes de Jian al adoptar una retorica dura en sus reuniones internas, y dice, por ejemplo, que el imperialismo de E.E. U.U. no morirá (wangwozhixin busi, una expresion evocativa ducha por  Mao Zedong) y exige " </seg>
       </tuv>
     </tu>
     <tu>
