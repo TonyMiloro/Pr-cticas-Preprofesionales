@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9434,8 +9434,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Rather than express a point of view different from that of Jiang &lt;t0/&gt;Zemin&lt;t1/&gt;,&lt;t2/&gt; &lt;t3/&gt;these articles were intended to show the military and other critics that&lt;t4/&gt; &lt;t5/&gt;his government could be just as harsh on the United States as they were.&lt;t6/&gt; &lt;t7/&gt;These articles, which were evidently approved by Ding &lt;t8/&gt;Guan’gen&lt;t9/&gt;, head of&lt;t10/&gt; &lt;t11/&gt;the Propaganda Department, suggest the degree of threat that Jiang felt&lt;t12/&gt; &lt;t13/&gt;in the immediate aftermath of the embassy bombing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160915T234336Z" creationid="Jesica" creationdate="20160915T234336Z">
-        <seg>En vez de expresar una perspectiva diferente a la de Jiang Zemin, se escribieron estos articulos con la intencion de mostrar el ejercito y otras criticas que su gobierno pudo ser simplemente tan duro con Estados Unidos como fueron. Estos articulos, que los aprobó Ding Gua´gen,</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160915T234556Z" creationid="Jesica" creationdate="20160915T234336Z">
+        <seg>En vez de expresar una perspectiva diferente a la de Jiang Zemin, se escribieron estos articulos con la intencion de mostrar el ejercito y otras criticas que su gobierno pudo ser simplemente tan duro con Estados Unidos como lo fueron ellos. Estos articulos, que los aprobó Ding Gua´gen, director del departamento de propagandas, sugieren el grado de amenaza que sintion Jelt en la inmediata repercusión del atentado de la embajada </seg>
       </tuv>
     </tu>
     <tu>
