@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1295,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;hapter 7</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T234300Z" creationid="marcelo lavarda" creationdate="20160915T234300Z">
+        <seg>Capítulo 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;CENTER&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;PROVINCIAL CONFLICT OVER THE EIGHTH FIVE&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;-&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;YEAR PLAN&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160902T213746Z">
@@ -1331,6 +1339,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T232705Z">
         <seg>&lt;f0&gt;Deng parece haber estado bien familiarizado con el trabajo y las habilidades de Zhu, desde por lo menos los comienzos de 1980, cuando Zhu fue promovido al cargo de vicepresidente de la Comisión Estatal&lt;/f0&gt;&lt;f1&gt;de Economía.&lt;/f1&gt;&lt;f2&gt;18&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Cuando la Comisión Estatal de Economía fue eliminada en 1988, Zhu fue enviado a Shanghai para ocupar el cargo de Intendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Elite&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;politics&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;in&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;an&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;era&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;of&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;globalization and&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;nationalism&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T234306Z" creationid="marcelo lavarda" creationdate="20160915T234306Z">
+        <seg>[parcial]Élite política en una era de globalización y nacionalismo 197</seg>
       </tuv>
     </tu>
     <tu>
