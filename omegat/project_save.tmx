@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6622,6 +6622,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T195711Z">
         <seg>En el transcurso de los años siguientes, Jiang trató de gobernar entre las demandas conflictivas de la  "izquierda" y de la "derecha" y  las tensiones entre estos polos se reflejaron algunas veces en los roces dentro del grupo y entorno a Jiang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the face of this rising tide&lt;t12/&gt; &lt;t13/&gt;of hostility, Jiang &lt;t14/&gt;Zemin&lt;t15/&gt; told an internal meeting that China had waited&lt;t16/&gt; &lt;t17/&gt;thirteen years to join the WTO (GATT) and it could wait another thirteen&lt;t18/&gt; &lt;t19/&gt;years.40 But Jiang and other top leaders also recognized the importance of&lt;t20/&gt; &lt;t21/&gt;the US relationship: without the trade benefits it provides, developing the&lt;t22/&gt; &lt;t23/&gt;economy would be impossible to continue; and without a reasonably good&lt;t24/&gt; &lt;t25/&gt;political relationship, many resources would have to be devoted to building&lt;t26/&gt; &lt;t27/&gt;up the military.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160915T232135Z" creationid="Jesica" creationdate="20160915T232135Z">
+        <seg>puede esperar otros trece años. Sin embargo, Jiand y otros lideres de alto rango tambien reconocieron la importancia de la relacion de E.E. U.U., sin los beneficios del .</seg>
       </tuv>
     </tu>
     <tu>
