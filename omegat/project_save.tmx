@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5116,8 +5116,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For&lt;t8/&gt; &lt;t9/&gt;instance, in Jiang’s May 13 speech welcoming the return of embassy staff&lt;t10/&gt; &lt;t11/&gt;from Yugoslavia, he reiterated that China “must continue to unswervingly&lt;t12/&gt; &lt;t13/&gt;take economic construction as the central task.”41 A series of editorials in&lt;t14/&gt; &lt;t15/&gt;the People’s Daily emphasized that policy would not change and concluded&lt;t16/&gt; &lt;t17/&gt;with the declaration that China wants to “develop amity and cooperation&lt;t18/&gt; &lt;t19/&gt;with developed countries in the West, including the United States.”42 On&lt;t20/&gt; &lt;t21/&gt;June 12, Vice Prime Minister &lt;t22/&gt;Qian&lt;t23/&gt; &lt;t24/&gt;Qichen&lt;t25/&gt; declared, “China does not want&lt;t26/&gt; &lt;t27/&gt;confrontation with the United States.”43</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160915T233310Z" creationid="Jesica" creationdate="20160915T232717Z">
-        <seg>Por ejemplo, en el discurso de Jian del 13 de mayo que les deba la bienvenida  al personal de la embajada por el regreso de Yugoslavia, reitero que China debe seguir con la contruccion economica de una manera inquebrantable como su tarea central. una serie de editoriales en Pueblo en Línea  enfatizó la politica que nunca cambiaría y concluyó con una declaración que China quiere desarrollar </seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160915T233506Z" creationid="Jesica" creationdate="20160915T232717Z">
+        <seg>Por ejemplo, en el discurso de Jian del 13 de mayo que les deba la bienvenida  al personal de la embajada por el regreso de Yugoslavia, reitero que China debe seguir con la contruccion economica de una manera inquebrantable como su tarea central. una serie de editoriales en Pueblo en Línea  enfatizó la politica que nunca cambiaría y concluyó con una declaración que China quiere "desarrollar una amistad y cooperacion con los paises desarrollados en el Occidente, incluyendo los E.E. U.U."  El 12 de junio, el vice primer ministro Quian Qichen declaro, "China no quiere una confrontacion con Estados Unidos.</seg>
       </tuv>
     </tu>
     <tu>
