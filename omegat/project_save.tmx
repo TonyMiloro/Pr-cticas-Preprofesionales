@@ -2842,8 +2842,8 @@
       <tuv lang="EN-US">
         <seg>At the same time that post-1989 China has witnessed a shift in public policy from the highly ideological and politically contentious debates of the immediate post-Tiananmen period to the neoconservatism and east coast developmentalism of Jiang Zemin to the more populist and inland directed policies of Hu Jintao, the political process has remained fraught with difficulties.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160915T041340Z" creationid="XP" creationdate="20160915T041305Z">
-        <seg>Al mismo tiempo en que la China posterior a 1989 ha sido testigo de un cambio en las políticas públicas que fue de los altamente ideológicos y políticamente controversiales debates del período inmediatamente posterior a la masacre de Tiananmen al neoconservadurismo y desarrollismo de Jiang Zemin y, finalmente, a las políticas más populistas y centradas en el interior del país de Hu Jintao, los procesos políticos se han mantenido plagados de dificultades.</seg>
+      <tuv lang="ES-US" changeid="XP" changedate="20160915T041701Z" creationid="XP" creationdate="20160915T041305Z">
+        <seg>Al mismo tiempo en que la China posterior a 1989 ha sido testigo de un cambio en las políticas públicas que fue de los debates altamente ideológicos y políticamente controversiales del período inmediatamente posterior a la masacre de Tiananmen al neoconservadurismo y desarrollismo de Jiang Zemin y, finalmente, a las políticas más populistas y centradas en el interior del país de Hu Jintao, los procesos políticos se han mantenido plagados de dificultades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3036,6 +3036,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T163140Z">
         <seg>Como la defunción de Deng ya se venía anticipando y las actividades relacionadas a los acontecimientos ocurrieron con una fluidez orquestada, su impacto fue eclipsado/opacado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because ideological issues are not as contentious as they were and because the political elite seem more conscious of their collective vulnerability to political breakdown, elite politics appears to be more institutionalized than in years past.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="XP" changedate="20160915T041623Z" creationid="XP" creationdate="20160915T041623Z">
+        <seg>Debido a que las cuestiones ideológicas ya no son tan controversiales </seg>
       </tuv>
     </tu>
     <tu>
