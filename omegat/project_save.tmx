@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2418,8 +2418,8 @@
       <tuv lang="EN-US">
         <seg>Although “Realistic &lt;/f0&gt;&lt;f1&gt;Responses” called for readjusting central–local relations in favor of the center and rejected blind faith in market forces as “utopian capitalism,” it did not reconcile that agenda with either its acceptance of market forces (shy of blind faith) or with the continuing poor performance of stateowned enterprises and the rapid growth of the non-state sector that had accompanied the growth of market forces.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T034808Z">
-        <seg>Aunque “Realistic &lt;/f0&gt;&lt;f1&gt;Responses” exigía un reajuste de las relaciones centrales-locales a favor del centro y rechazaba la fe ciega en las fuerzas del mercado como "capitalismo utópico", no reconcilió esa agenda ya sea con su aceptación de la fuerzas del mercado (tímida de fe ciega) o con el bajo desempeño continuo de las empresas estatales y el rápido crecimiento del sector no estatal que había acompañado el crecimiento de las fuerzas del mercado</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160915T213721Z">
+        <seg>Aunque “Realistic &lt;/f0&gt;&lt;f1&gt;Responses” exigía un reajuste de las relaciones centrales-locales a favor del centro y rechazaba la fe ciega en las fuerzas del mercado como "capitalismo utópico", no reconcilió esa agenda ya sea con su aceptación de la fuerzas del mercado (tímida de fe ciega) o con el bajo desempeño continuo de las empresas estatales y el rápido crecimiento del sector no estatal que había acompañado el crecimiento de las fuerzas del mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10557,8 +10557,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The appearance of “RealisticResponses” in 1991 marked a certain coming of age of these ideas, not so much a political manifesto of the “princeling faction” (taizidang) – though that element was present – as an argument that China’s future lay in pioneering a “third way,” rejecting both Marxism–Leninism (as traditionally understood) and Western capitalism.1 Such a third way would include an assertion of nationalism, but it was not clear what such a nationalism would espouse since it somewhat paradoxically incorporated both an assertion of Chinese identity and an adoption of “Western rationalism.” There were also hints of populism that coexisted uneasily with implicit assumptions of elite control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T043530Z">
-        <seg>La aparición de “Realistic Responses” (política que enfatizaba el tamaño, la pobreza y la superpoblación de China para persuadir a la población) en1991 marcó una cierta madurez de estas ideas, no tanto un manifiesto político de la facción de los “princelings” o también llamada el partido de los príncipes (taizidang), aunque ese elemento estaba presente, como un argumento de que el futuro de China radicaba en liderar una "tercer vía", que rechazaría tanto el marxismo-leninismo (tal como se los entiende tradicionalmente) como el capitalismo occidental1. Esta tercer vía incluiría una afirmación de nacionalismo, pero no estaba claro qué apoyaría este nacionalismo, ya que en cierto modo incorporaba paradójicamente tanto una afirmación de la identidad de China como una adopción del "racionalismo occidental". Había, además, indicios de populismo que coexistían preocupadamente con supuestos implícitos del control de la élite.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160915T213715Z">
+        <seg>La aparición de “Realistic Responses” (política que enfatizaba el tamaño, la pobreza y la superpoblación de China para persuadir a la población) en 1991 marcó una cierta madurez de estas ideas, no tanto un manifiesto político de la facción de los “princelings” o también llamada el partido de los príncipes (taizidang), aunque ese elemento estaba presente, como un argumento de que el futuro de China radicaba en liderar una "tercer vía", que rechazaría tanto el marxismo-leninismo (tal como se los entiende tradicionalmente) como el capitalismo occidental1. Esta tercer vía incluiría una afirmación de nacionalismo, pero no estaba claro qué apoyaría este nacionalismo, ya que en cierto modo incorporaba paradójicamente tanto una afirmación de la identidad de China como una adopción del "racionalismo occidental". Había, además, indicios de populismo que coexistían preocupadamente con supuestos implícitos del control de la élite.</seg>
       </tuv>
     </tu>
     <tu>
