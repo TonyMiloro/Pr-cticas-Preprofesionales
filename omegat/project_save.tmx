@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6620,8 +6620,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>In the months leading up to President Clinton’s visit, China&lt;t20/&gt; &lt;t21/&gt;evinced considerable interest in joining the WTO, but US negotiators were&lt;t22/&gt; &lt;t23/&gt;convinced that China was still hoping for a “political pass” – that is, an&lt;t24/&gt; &lt;t25/&gt;agreement allowing them into the WTO out of consideration for Sino–US&lt;t26/&gt; &lt;t27/&gt;relations rather than an offer requiring serious economic commitments.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160915T174429Z" creationid="Sabri" creationdate="20160915T174429Z">
-        <seg>En los meses previos a la visita del presidente Clinton, China&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;convinced that China was still hoping for a “political pass” – that is, an&lt;t24/&gt; &lt;t25/&gt;agreement allowing them into the WTO out of consideration for Sino–US&lt;t26/&gt; &lt;t27/&gt;relations rather than an offer requiring serious economic commitments.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160915T174512Z" creationid="Sabri" creationdate="20160915T174429Z">
+        <seg>En los meses previos a la visita del presidente Clinton, China&lt;t20/&gt; &lt;t21/&gt;demostró un interés considerable en unirse a la OMC, pero los negociadores estadounidenses estaban&lt;t22/&gt; &lt;t23/&gt;convinced that China was still hoping for a “political pass” – that is, an&lt;t24/&gt; &lt;t25/&gt;agreement allowing them into the WTO out of consideration for Sino–US&lt;t26/&gt; &lt;t27/&gt;relations rather than an offer requiring serious economic commitments.</seg>
       </tuv>
     </tu>
     <tu>
