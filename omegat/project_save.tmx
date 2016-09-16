@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1489,8 +1489,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Qiao, who ranked higher than Jiang Zemin in the Shanghai underground in the late &lt;/f0&gt;&lt;f1&gt;1940&lt;/f1&gt;&lt;f2&gt;s, frequently challenged Jiang by being out in front of him on reform issues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T234941Z" creationid="marcelo lavarda" creationdate="20160915T234011Z">
-        <seg>Qiao, con mayor popularidad que Jiang Zemin en Shanghái a fines de la década de los cuarenta, desafiaba con frecuencia a Jiang en asuntos de reforma. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T012430Z" creationid="marcelo lavarda" creationdate="20160915T234011Z">
+        <seg>Qiao, con mayor popularidad que Jiang Zemin enntre los peces gordos de Shanghái a fines de la década de los cuarenta, desafiaba con frecuencia a Jiang en asuntos de reforma. </seg>
       </tuv>
     </tu>
     <tu>
