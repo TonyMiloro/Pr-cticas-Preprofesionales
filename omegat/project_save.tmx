@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7811,6 +7811,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160905T020158Z">
         <seg>Li Peng y Yao Yilin, como Deng con desdén notó, eran muy conservadores para su satisfacción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li &lt;t23/&gt;Peng&lt;t24/&gt; opposed China’s efforts to join the WTO –&lt;t25/&gt; &lt;t26/&gt;at least on terms that came close to being “commercially viable” – on</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160916T013240Z" creationid="Sabri" creationdate="20160916T013240Z">
+        <seg>Li &lt;t23/&gt;Peng&lt;t24/&gt; ose opuso a los esfuerzos de China para unirse a la OCM–&lt;t25/&gt; &lt;t26/&gt;al menos en términos que se asimilaban a ser "comercialmente posible" – tanto en</seg>
       </tuv>
     </tu>
     <tu>
