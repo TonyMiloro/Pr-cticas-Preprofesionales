@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13400,8 +13400,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>Whereas A Third Eye focused primarily on domestic social and political issues with a nationalistic slant, China Can Say No was an unabashed outpouring of nationalistic feeling with little attention to domestic issues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T140446Z" creationid="Administrador" creationdate="20160916T134954Z">
-        <seg>Mientras que Un tercer ojo se enfocaba principalmente en temas sociales y políticos internos con un enfoque nacionalista, China puede decir no fue un desahogo descarado de un sentimiento nacionalista con poca atención a los temas interiores.   Whereas A Third Eye focused primarily on domestic social and political issues with a nationalistic slant, China Can Say No was an unabashed outpouring of nationalistic feeling with little attention to domestic issues.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T140551Z" creationid="Administrador" creationdate="20160916T134954Z">
+        <seg>Mientras que Un tercer ojo se enfocaba principalmente en temas sociales y políticos internos con un enfoque nacionalista, China puede decir no fue un desahogo descarado de un sentimiento nacionalista con poco interés hacia temas interiores.   Whereas A Third Eye focused primarily on domestic social and political issues with a nationalistic slant, China Can Say No was an unabashed outpouring of nationalistic feeling with little attention to domestic issues.</seg>
       </tuv>
     </tu>
     <tu>
