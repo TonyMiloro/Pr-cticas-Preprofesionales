@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4526,6 +4526,14 @@
         <seg>
 El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera internacional que prevaleció en los años posteriores a Tiananmén.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describing discussions over the text of Li Peng’s “GovernmentWork Report” made to the NPC in the spring of 1989, Zhao said that Li’s draft had “repeatedly” used the words “for many years” when discussing problems in economic work.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T233459Z" creationid="Lorena Baretto" creationdate="20160916T233418Z">
+        <seg>Al describir discusiones acerca del texto de Li Peng</seg>
       </tuv>
     </tu>
     <tu>
