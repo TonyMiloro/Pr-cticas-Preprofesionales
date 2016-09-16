@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13931,8 +13931,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>Zhao argued that everything he had done had been intended to “ease the confrontation” and to “gradually calm down the student unrest.” He also refuted many of the charges raised by Premier Li.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T222151Z" creationid="Lorena Baretto" creationdate="20160916T221918Z">
-        <seg>Zhao sostuvo que todo lo que hizo fue con el objetivo de "disminuir la confrontación" y de " </seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T222434Z" creationid="Lorena Baretto" creationdate="20160916T221918Z">
+        <seg>Zhao sostuvo que todo lo que hizo fue con el objetivo de "disminuir la confrontación" y de "apaciguar gradualmente la agitación estudiantil".</seg>
       </tuv>
     </tu>
     <tu>
