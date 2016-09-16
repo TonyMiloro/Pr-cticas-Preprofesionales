@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3666,8 +3666,8 @@
       <tuv lang="EN-US">
         <seg>Cadres who did not fulfill their revenue collection assignments were not paid their wages, and cadre performance evaluations were based largely on their ability to collect taxes and fees.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160916T235343Z" creationid="Monzon" creationdate="20160916T235343Z">
-        <seg>Los cuadros dirigentes que no cumplían con sus tareas de recolección de .</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160916T235510Z" creationid="Monzon" creationdate="20160916T235343Z">
+        <seg>Los cuadros dirigentes que no cumplían con sus tareas de recolección de ingresos no recibían su paga.</seg>
       </tuv>
     </tu>
     <tu>
