@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9067,8 +9067,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Oddly, the People’s Daily even ran a picture of Party leaders attending the Fourth Plenum that included the back of Zhao’s head.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T221231Z" creationid="Lorena Baretto" creationdate="20160916T221231Z">
-        <seg>Curiosamente, </seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T221345Z" creationid="Lorena Baretto" creationdate="20160916T221231Z">
+        <seg>Curiosamente, el periódico People´s Daily </seg>
       </tuv>
     </tu>
     <tu>
