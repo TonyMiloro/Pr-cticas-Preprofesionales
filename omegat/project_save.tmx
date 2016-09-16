@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7465,8 +7465,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang Zemin, no ideologue by nature, would have to feel his way in these turbulent waters.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T010718Z" creationid="Lorena Baretto" creationdate="20160916T010611Z">
-        <seg>Jiang Zemin, un no ideólogo por naturaleza, habría ido a tientas en caminos pedregozos.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T010746Z" creationid="Lorena Baretto" creationdate="20160916T010611Z">
+        <seg>Jiang Zemin, un no ideólogo por naturaleza, habría ido a tientas en caminos pedregosos.</seg>
       </tuv>
     </tu>
     <tu>
