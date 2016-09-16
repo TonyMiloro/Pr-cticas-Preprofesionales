@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12192,8 +12192,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>They cited US efforts to block China’s bid to host the 2000 Olympics, the Yin He incident, opposition to China’s GATT/WTO bid, the Taiwan issue (especially Lee Teng-hui’s visit to the US), American support for Tibet, and alleged CIA activity in China to account for their &lt;t0/&gt;changed attitudes.74 They had come to realize, they claimed, that the United States was not the bastion of idealism that it claimed to be; “human rights” was merely a fac¸ade behind which America pursued its national interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T150717Z" creationid="Administrador" creationdate="20160916T145359Z">
-        <seg>En su libro citaron los esfuerzos de EE.UU para impedir la oferta que habia hecho China para recibir los Juegos Olímpicos 2000; el incidente de Yin He, la oposición a la oferta de GATT/WTO; los problemas de Taiwán (en especial la visita de Lee Teng-hui's a Estados Unidos); el apoyo de Estados Unidos a Tibet; la supuesta participación de la CIA en China para informar los &lt;t0/&gt;cambios de actitud. Aseguraron también que se dieron cuenta de que Estados Unidos no era el bastión de idealismo que decía ser: los ''derechos humanos'' solo eran una fachada detrás de la cual estaban los intereses nacionales que Estados Unidos perseguía. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T213051Z" creationid="Administrador" creationdate="20160916T145359Z">
+        <seg>En su libro citaron los esfuerzos de EE.UU para impedir la oferta que habia hecho China para recibir los Juegos Olímpicos 2000; el incidente de Yin He, la oposición a la oferta de GATT/WTO; los problemas de Taiwán (en especial la visita de Lee Teng-hui's a Estados Unidos); el apoyo de Estados Unidos a Tibet; la supuesta participación de la CIA en China para informar los &lt;t0/&gt;cambios de actitud. Aseguraron también que se dieron cuenta de que Estados Unidos no era el bastión del idealismo que decía ser: los ''derechos humanos'' solo eran una fachada detrás de la cual estaban los intereses nacionales que Estados Unidos perseguía. </seg>
       </tuv>
     </tu>
     <tu>
