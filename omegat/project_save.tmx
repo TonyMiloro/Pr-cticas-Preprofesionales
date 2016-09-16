@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6983,6 +6983,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T182522Z">
         <seg>De hecho, Jiang se había ganado en sus primeros años gran parte del apoyo de la izquierda del Partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, Wang suggests that “people may discover that some ideas from the Cultural Revolution are wise and prescient.”&lt;/f2&gt;&lt;f3&gt;59&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160916T133818Z" creationid="Usuario-Pc" creationdate="20160916T133818Z">
+        <seg>De hecho, Wang sugiere que "”&lt;/f2&gt;&lt;f3&gt;59&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
