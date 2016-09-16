@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11426,6 +11426,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T223039Z">
         <seg>El gobierno fomentaba el sentimiento nacionalista a través de campañas de educación patriótica y, por lo general, se oponía a que estas “manchas negras” formaran parte de su historia.&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The greatest tension across these different groups of thinkers is centered on the figure of Zhu Rongji.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160916T224406Z" creationid="Flor" creationdate="20160916T224333Z">
+        <seg>La mayor tensión entre estos grupos de pensadores se centra en la figura pública de Zhu Rongji.</seg>
       </tuv>
     </tu>
     <tu>
