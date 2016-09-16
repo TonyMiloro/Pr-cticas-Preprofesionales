@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13747,6 +13747,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T225314Z">
         <seg>puede ser &lt;t0/&gt;calmo y estable". Al enfatizar su crítica implícita pero provocadora sobre el pensamiento de Chen Yun, que había sido respaldado nuevamente por el Séptimo Pleno en diciembre de 1990, Deng continuó: “Debemos prestar atención al desarrollo estable y coordinado de la economía, pero estable y coordinado es algo relativo, no absoluto”. Luego recurrió a Guangdong para que se ponga al día con los “cuatro tigres asiáticos” (South Korea, Taiwan, Singapore, and Hong Kong) en veinte años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>both foreign policy and protectionist grounds.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160916T013404Z" creationid="Sabri" creationdate="20160916T013404Z">
+        <seg>bases de política exterior y proteccionistas.</seg>
       </tuv>
     </tu>
     <tu>
