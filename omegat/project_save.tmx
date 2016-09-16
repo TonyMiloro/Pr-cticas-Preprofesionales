@@ -1201,8 +1201,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Aiding Qiao in this effort was Tian Jiyun, the Politburo member whose withering criticism of leftism in April &lt;/f0&gt;&lt;f1&gt;1992 &lt;/f1&gt;&lt;f2&gt;may have cost him a seat on the Politburo Standing Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T124344Z" creationid="marcelo lavarda" creationdate="20160916T124023Z">
-        <seg>Qiao recibió la ayuda del miembro del Buró Político Tian Jiyun, cuya fuerte crítica a la izquierda extremista en abril de 1992 pudo haberle costado un puesto en el Comité Permanente del Buró. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T124444Z" creationid="marcelo lavarda" creationdate="20160916T124023Z">
+        <seg>Qiao recibió la ayuda del miembro del Buró Político Tian Jiyun, cuya fuerte crítica a la izquierda extremista en abril de 1992 pudo haberle costado el puesto en el Comité Permanente del Buró. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4590,6 +4590,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T173305Z">
         <seg>Basándose principalmente en la tradición liberal del marxismo y en ocasiones en el liberalismo occidental, buscaban crear un estado que pusiera un énfasis sin precedentes en los seres humanos, lo que implicaba crear un orden democrático más liberal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the March &lt;/f2&gt;&lt;f3&gt;1995 &lt;/f3&gt;&lt;f4&gt;session of the NPC, Tian listened sympathetically to Guangdong delegates, who complained that China’s rulers were not allowing the NPC to function as the “highest administrative organ” as called for by the constitution.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T124441Z" creationid="marcelo lavarda" creationdate="20160916T124441Z">
+        <seg>Durante la sesión de la APN de marzo de 1995, Tian </seg>
       </tuv>
     </tu>
     <tu>
