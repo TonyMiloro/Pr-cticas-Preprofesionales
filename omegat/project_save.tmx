@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -873,8 +873,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt; argues that the reform period eroded faith in Marxism–Leninism, undermined the power and authority of the Party and state, and unleashed a host of social problems – including corruption, crime, economic polarization, and moral decay – that the government, given its weakened authority, is increasingly unable to deal with.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160916T143716Z" creationid="Usuario-Pc" creationdate="20160916T140112Z">
-        <seg>&lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt;sostiene que el periodo de reforma mermó la fe en el Marxismo- Leninismo, debilitó el poder y autoridad del Partido y del estado y desató un sinfín de problemas sociales- entre ellos, corrupción crimen, polarización economica y  </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160916T144400Z" creationid="Usuario-Pc" creationdate="20160916T140112Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt;sostiene que el periodo de reforma mermó la fe en el Marxismo- Leninismo, debilitó el poder y autoridad del Partido y del estado y desató un sinfín de problemas sociales - entre ellos, corrupción, crimen, polarización economica y deterioro moral - que son cada vez mas dificiles de tratar para el gobierno debido a su autoridad debilitada.    </seg>
       </tuv>
     </tu>
     <tu>
