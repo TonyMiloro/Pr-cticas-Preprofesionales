@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3844,6 +3844,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T134418Z">
         <seg>La cultura China en sí misma esta pasando de ser "conservadora, cerrada, subjetiva y arbitraria" a ser "renovada, abierta, objetiva y democrática": Wang advirtió que "Sin un sistema político altamente democrático, es dificil de establecerse como un país modernizado y fuerte entre los países avanzados del mundo".&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China’s efforts to join the WTO were coordinated by Vice-Premier&lt;t8/&gt; &lt;t9/&gt;Li &lt;t10/&gt;Lanqing&lt;t11/&gt;, who was known to be close to Jiang (as well as to Li &lt;t12/&gt;Peng&lt;t13/&gt;) and&lt;t14/&gt; &lt;t15/&gt;enjoyed a reputation as a strong supporter of China’s bid.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160916T004558Z" creationid="Sabri" creationdate="20160916T004558Z">
+        <seg>El vice Primer Ministro Li Lanqing coordinó los esfuerzos&lt;t8/&gt; &lt;t9/&gt;Li &lt;t10/&gt;Lanqing&lt;t11/&gt;, who was known to be close to Jiang (as well as to Li &lt;t12/&gt;Peng&lt;t13/&gt;) and&lt;t14/&gt; &lt;t15/&gt;enjoyed a reputation as a strong supporter of China’s bid.</seg>
       </tuv>
     </tu>
     <tu>
