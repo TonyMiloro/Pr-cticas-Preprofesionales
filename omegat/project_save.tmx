@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3850,8 +3850,8 @@
       <tuv lang="EN-US">
         <seg>China’s efforts to join the WTO were coordinated by Vice-Premier&lt;t8/&gt; &lt;t9/&gt;Li &lt;t10/&gt;Lanqing&lt;t11/&gt;, who was known to be close to Jiang (as well as to Li &lt;t12/&gt;Peng&lt;t13/&gt;) and&lt;t14/&gt; &lt;t15/&gt;enjoyed a reputation as a strong supporter of China’s bid.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160916T004854Z" creationid="Sabri" creationdate="20160916T004558Z">
-        <seg>Los esfuerzos de China para unirse a la OCM fueron coordinados por el vice Primer Ministro&lt;t8/&gt;Li&lt;t9/&gt; &lt;t10/&gt;Lanqing&lt;t11/&gt;, quien era públicamente cercano a Jiang (como también a Li &lt;t12/&gt;Peng&lt;t13/&gt;) and&lt;t14/&gt; &lt;t15/&gt;enjoyed a reputation as a strong supporter of China’s bid.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160916T012457Z" creationid="Sabri" creationdate="20160916T004558Z">
+        <seg>Los esfuerzos de China para unirse a la OCM fueron coordinados por el vice Primer Ministro&lt;t8/&gt;Li&lt;t9/&gt; &lt;t10/&gt;Lanqing&lt;t11/&gt;, quien era públicamente cercano a Jiang (como también a Li &lt;t12/&gt;Peng&lt;t13/&gt;) y&lt;t14/&gt; &lt;t15/&gt;disfrutaba de una reputación como partidario firme del pedido de China.</seg>
       </tuv>
     </tu>
     <tu>
