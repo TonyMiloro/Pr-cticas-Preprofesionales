@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8940,6 +8940,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143550Z">
         <seg>Por otro lado, tanto el programa reformista como los reformistas individuales, en particular el primer ministro (y luego secretario general) Zhao Ziyang, enfrentaban un bombardeo de críticas progresivo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the question of Zhao, the Fourth Plenum charged that, “[a]t the critical juncture involving the life and death of the Party and state, he made the mistake of supporting turmoil and splitting the Party, and he bears unshirkable responsibility for the formation and development of the turmoil.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T011041Z" creationid="Lorena Baretto" creationdate="20160916T011041Z">
+        <seg>Sobre la cuestión de Zhao, el Cuarto Pleno denunció que</seg>
       </tuv>
     </tu>
     <tu>
