@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10981,6 +10981,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The authors soon followed with a sequel,76 and imitators sprouted up “like bamboo shoots after a spring rain.”77 Within government circles, it appears that there was at first a sense that someone had finally expressed their frustrations with the United States.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T215532Z" creationid="Administrador" creationdate="20160916T215506Z">
+        <seg>Los autos </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The basic problem was that globalization and marketization did not lead to the “good society.” China’s reform had indeed marketized the economy and linked it to the world, as enlightenment intellectuals had urged, but the result was not fairness and social justice – much less political democracy</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T215508Z">
@@ -11007,8 +11015,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The book quickly sold almost two million copies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T214833Z" creationid="Administrador" creationdate="20160916T152426Z">
-        <seg>El libro vendió unos dos millones de ejemplares.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T215538Z" creationid="Administrador" creationdate="20160916T152426Z">
+        <seg>El libro vendió casi dos millones de ejemplares.</seg>
       </tuv>
     </tu>
     <tu>
