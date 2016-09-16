@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12721,6 +12721,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224707Z">
         <seg>Utilizando un lenguaje que no se había visto desde el apogeo de la reforma durante el final de la década de 1980, las columnas vituperaron un "pensamiento anquilosado" y llamaron en reiteradas oportunidades a una nueva ola de "emancipación de la mente". Por ejemplo, un artículo declaró que China "perdería una buena oportunidad" si se enreda preocupándose sobre si algo es capitalista o socialista, &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;10&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;mientras que otra citaba a Deng, quien decía que la sociedad capitalista es "muy audaz en el descubrimiento y uso de gente talentosa" e instó la promoción de una gran cantidad de "personas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Veteran economic planner Song Ping and Tianjin mayor Li Ruihuan were added to the Politburo Standing Committee along with JiangZemin, while LiRuihuan and DingGuan’gen (Deng’s bridge partner) were added to the Secretariat.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T010254Z" creationid="Lorena Baretto" creationdate="20160916T010254Z">
+        <seg>El planificador económico veterano Song Ping y el intendente de Tianjin se incorporaron al Buró Permanente del Comité Central junto con  JiangZemin, mientras que LiRuihuan y DingGuan’gen (compañero de ¿) se incorporaron al Secretariado.</seg>
       </tuv>
     </tu>
     <tu>
