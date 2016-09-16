@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9310,6 +9310,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T214227Z">
         <seg>Uno de los problemas del auge en el mercado inmobiliario es que fue acrecentado  por una fiebre especulativa que creó una burbuja económica que podría, como un investigador dijo, "desaparecer sin aviso".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One reason was that many government officials share – even if on a more sophisticated level – the authors’ view that US actions are guided by national interest, that concern with human rights is a smoke screen for opposing China, and that US policy is based on containment and/or subversion.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T220912Z" creationid="Administrador" creationdate="20160916T220912Z">
+        <seg>Una razón era que muchos funcionarios gubernamentales compartían, aún en un nivel más sofisticado, la visión de los autores en </seg>
       </tuv>
     </tu>
     <tu>
