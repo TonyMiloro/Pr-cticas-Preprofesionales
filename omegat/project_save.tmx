@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8034,8 +8034,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Li declared that bourgeois liberalization “spread rampantly” after Zhao became general secretary; Zhao, the premier charged, “accommodated, encouraged, and supported bourgeois liberalization.” Specifically, he alleged that, at a Secretariat meeting in January 1987, Zhao had declared that of the four cardinal principles they should emphasize only Party leadership and not mention the other three – the socialist road, Marxism–Leninism– MaoZedong Thought, and the people’s democratic dictatorship.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T212655Z" creationid="Lorena Baretto" creationdate="20160916T212655Z">
-        <seg>Li manifestó </seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T212723Z" creationid="Lorena Baretto" creationdate="20160916T212655Z">
+        <seg>Li manifestó que la liberalización burgueza "se </seg>
       </tuv>
     </tu>
     <tu>
