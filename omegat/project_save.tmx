@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3826,8 +3826,8 @@
       <tuv lang="EN-US">
         <seg>China Can Say No was striking not just because of its highly emotional tone but also because the authors all claimed to have been strongly influ-enced by the United States, only to have become disillusioned in the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T144356Z" creationid="Administrador" creationdate="20160916T143400Z">
-        <seg>China puede decir no fue impactante no solo porque tiene un tono emocional alto sino también porque los autores reclamaron el haber tenido una gran influencia por parte de Estados Unidos, solo para desilucionarse en la década de los 90. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T144822Z" creationid="Administrador" creationdate="20160916T143400Z">
+        <seg>China puede decir no fue impactante no solo porque tiene un tono emocional alto sino también porque los autores reclamaron el haber tenido una gran influencia por parte de Estados Unidos, solo para decepcionarse en la década de los 90. </seg>
       </tuv>
     </tu>
     <tu>
