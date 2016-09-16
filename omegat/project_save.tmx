@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10755,6 +10755,14 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That anti-American sentiments were widespread at the time is supported not only by sales figures but also by survey research.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T222907Z" creationid="Administrador" creationdate="20160916T222802Z">
+        <seg>Ese sentimiento antiestadounidense se expandió  en el momento en que era apoyado no solo por figuras de venta sino también  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That argument is likely to last a considerable length of time.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="XP" changedate="20160915T034720Z" creationid="XP" creationdate="20160915T034557Z">
@@ -14700,8 +14708,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>“Let the United States taste some of its own medicine” seems to have been a fairly common sentiment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T222642Z" creationid="Administrador" creationdate="20160916T222353Z">
-        <seg>Parecía que ''Dejemos que Estados Unidos pruebe un poco de su propia medicina'' era un sentimiento bastante común.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T222734Z" creationid="Administrador" creationdate="20160916T222353Z">
+        <seg>Parece ser que ''Dejemos que Estados Unidos pruebe un poco de su propia medicina'' era un sentimiento bastante común.</seg>
       </tuv>
     </tu>
     <tu>
