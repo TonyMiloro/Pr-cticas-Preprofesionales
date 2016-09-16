@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9780,8 +9780,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Public opinion on foreign policy questions is a politically sensitive topic, and few surveys are allowed (or allowed to be published).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T223753Z" creationid="Administrador" creationdate="20160916T223508Z">
-        <seg>.La opinión pública con respecto a preguntas de política exterior es un tema político muy sensible. Debido a eso se permiten pocas investigaciones (o no se permite su publicación) </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T223813Z" creationid="Administrador" creationdate="20160916T223508Z">
+        <seg>.La opinión pública con respecto a preguntas de política exterior es un tema político muy sensible. Debido a eso se permiten pocas investigaciones (o no se permite su publicación). </seg>
       </tuv>
     </tu>
     <tu>
