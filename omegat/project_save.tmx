@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5308,8 +5308,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Given the delicacy of Jiang’s position and the genuine anger felt in&lt;t0/&gt; &lt;t1/&gt;student circles, the Party quickly made the decision to channel public&lt;t2/&gt; &lt;t3/&gt;opinion by providing buses for students to go into the embassy district&lt;t4/&gt; &lt;t5/&gt;from the universities in the &lt;t6/&gt;Haidian&lt;t7/&gt; district (in northwestern Beijing).&lt;t8/&gt; &lt;t9/&gt;Students got off the buses and walked past the US ambassador’s residence,&lt;t10/&gt; &lt;t11/&gt;throwing stones as they went, and then on to the embassy building and&lt;t12/&gt; &lt;t13/&gt;chancellery – throwing more bricks, stones, ink bottles, and occasionally&lt;t14/&gt; &lt;t15/&gt;feces.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160916T000159Z" creationid="Jesica" creationdate="20160916T000018Z">
-        <seg>Debido a la delicadeza de la posicion de Jian y el enojo genuino de los circulos estudiantiles, el partido rapidamente decidio transmitir una opinion publica y proveyó servicios de transporte para los estudiantes para ir al districto de la embajada desde las universidades del districto Haidian (en el noroeste de Beijing). </seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160916T000416Z" creationid="Jesica" creationdate="20160916T000018Z">
+        <seg>Debido a la delicadeza de la posicion de Jian y el enojo genuino de los circulos estudiantiles, el partido rapidamente decidio transmitir una opinion publica y proveyó servicios de transporte para los estudiantes para ir al districto de la embajada desde las universidades del districto Haidian (en el noroeste de Beijing). Los estudiantes se bajaron de los autobuses y caminaron por la residencia del embajador de E.E. U.U., tiraban piedras mientras caminaban, y luego al establecimiento de la embajada y el consejo, tiraron mas ladrillos, piedras, y heces con</seg>
       </tuv>
     </tu>
     <tu>
