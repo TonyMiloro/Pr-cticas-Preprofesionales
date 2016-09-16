@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2316,6 +2316,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160914T152529Z">
         <seg>Aunque no estaba del todo claro en ese momento, un gran escándalo de corrupción en el Ministerio de Trabajo, Empleo y Seguridad Social de Shanghái estaba a punto de convertirse en un embrollo político que se llevaría consigo al líder del Partido en Shanghái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although many intellectuals pointed out that the book was shallow, poorly written, and overly emotional, it is also apparent that many read it and perhaps even enjoyed the venting of the frustration that they shared (though perhaps not to the same degree).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T152815Z" creationid="Administrador" creationdate="20160916T152815Z">
+        <seg>A pesar de que muchos intelectuales señalaron que el libro </seg>
       </tuv>
     </tu>
     <tu>
