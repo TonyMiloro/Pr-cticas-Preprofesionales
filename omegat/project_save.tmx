@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5365,8 +5365,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For the summer, central and provincial leaders stopped voicing concerns about emancipating the mind or not worrying about whether a given reform was socialist or capitalist.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T230925Z">
-        <seg>Durante el verano, los líderes centrales y provinciales dejaron de plantear sus preocupaciones por la emancipación la mente o  por si una reforma era socialista o capitalista..</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160917T223119Z">
+        <seg>Durante el verano, los líderes centrales y provinciales dejaron de plantear sus preocupaciones por la emancipación la mente o  por si una reforma era socialista o capitalista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14086,8 +14086,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>With the publication of the People’s Daily’s excerpt of the article from Contemporary Trends and other attacks on the themes raised by the &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping commentaries, reformers fell quiet.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160917T222855Z">
-        <seg>Debido a  la publicación del periódico People Daily del fragmento del artículo perteneciente a la revista Contemporary Trends, y a otros ataques a los temas generados por los comentarios de  &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping, los reformistas se quedaron tranquilos.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160917T223112Z">
+        <seg>Debido a  la publicación del periódico People Daily del fragmento del artículo perteneciente a la revista Contemporary Trends, y a otros ataques a los temas generados por los comentarios de  &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping, los reformistas se tranquilizaron.</seg>
       </tuv>
     </tu>
     <tu>
