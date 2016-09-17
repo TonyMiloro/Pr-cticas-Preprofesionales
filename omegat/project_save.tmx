@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4934,6 +4934,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T190225Z">
         <seg>Era evidente que He veía a Estados Unidos como la mayor amenaza estratégica (a pesar de haber insistido reiteradas veces en que estaba en un proceso de deterioro), así que abandonó los temores previos de Japón e insistió en una alianza con éste (de hecho, para llegar a ser como "carne y uña").&lt;t22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting &lt;t2/&gt;neoclassical economics&lt;t3/&gt; was one of the tools by which the United States sought to dominate the world, as was so vividly demonstrated by the results of radical price reform in the Soviet Union; shock therapy, He said, was simply “economic suicide.” Chinese intellectuals were susceptible to the in&lt;t4/&gt;ﬂ&lt;t5/&gt;uence of neoclassical economics, particularly after 1984, because of their anxiety for quick success – another manifestation of the “romantic” mood that swept China in the late 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T062253Z" creationid="Usuario" creationdate="20160917T062253Z">
+        <seg>La exportación de la economía neoclásica era uno de los medios por lo que Estados Unidos trataba de dominar el mundo, como quedó claramente demostrado en los resultados de la reforma radical de precios en la Unión Soviética. Exporting &lt;t2/&gt;neoclassical economics&lt;t3/&gt; was one of the tools by which the United States sought to dominate the world, as was so vividly demonstrated by the results of radical price reform in the Soviet Union; shock therapy, He said, was simply “economic suicide.” Chinese intellectuals were susceptible to the in&lt;t4/&gt;ﬂ&lt;t5/&gt;uence of neoclassical economics, particularly after 1984, because of their anxiety for quick success – another manifestation of the “romantic” mood that swept China in the late 1980s.</seg>
       </tuv>
     </tu>
     <tu>
