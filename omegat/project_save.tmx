@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4420,6 +4420,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160914T024523Z" creationid="Pablo" creationdate="20160914T024523Z">
         <seg>Deng Xiaoping falleció en 1997, Zhao Ziyang en 2005, y Li Peng se retiró de su último cargo oficial en 2003.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Xiaoping praised the work, and – not surprisingly – state resources were then lavished on the “national conditions research group” at CAS that Hu worked with.&lt;/f7&gt;&lt;f9&gt;3&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160917T223928Z" creationid="Flor" creationdate="20160917T223612Z">
+        <seg>Deng Xiaoping elogió el trabajo y, como era de esperarse, los recursos del Estado llegaron en generosas cantidades al Centro de Investigación de las Condiciones Nacionales de la CAS, lugar en el que trabajaba Hu.&lt;/f7&gt;&lt;f9&gt;3&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
