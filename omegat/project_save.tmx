@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10478,8 +10478,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
         <seg>Some wanted to pursue the issue of Zhao’s guilt, apparently to the point of
 criminal prosecution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T000143Z" creationid="Lorena Baretto" creationdate="20160916T212029Z">
-        <seg>Algunos querían continuar con el tema de la responsabilidad de Zhao, aparentemente al punto de acusarlo penalmente. </seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T000242Z" creationid="Lorena Baretto" creationdate="20160916T212029Z">
+        <seg>Algunos querían continuar con el tema de la responsabilidad de Zhao, al punto de acusarlo penalmente según parece.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11531,8 +11531,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
 the “past few years” in the report.28[11]
 Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting the Party – charges Zhao asked the Party to reconsider in his rebuttal – it could not reach a resolution on his case, declaring only that the Party would “continue to investigate his problem.”29[12] The plenum’s failure to conclude Zhao’s case reflected the depth of division within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T235532Z" creationid="Lorena Baretto" creationdate="20160916T234416Z">
-        <seg>Esta situación sin salida se resolvió focalizándo el trabajo del informe solo en los años precedentes, pero Zhao expresó que [a]lgunos compañeros lo habían criticado por no permitirle a Li discutir los errores de "algunos años atrás" en el informe. 28 A pesar de que el Cuarto Pleno lo acusó a Zhao de apoyar la agitación y dividir el partido. La incapacidad del Pleno de no resolver el caso de Zhao demuestran la profunda división dentro del partido.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T000359Z" creationid="Lorena Baretto" creationdate="20160916T234416Z">
+        <seg>Esta situación sin salida se resolvió focalizándo el trabajo del informe solo en los años precedentes, pero Zhao expresó que [a]lgunos compañeros lo habían criticado por no permitirle a Li discutir los errores de "algunos años atrás" en el informe. 28 A pesar de que el Cuarto Pleno lo acusó a Zhao de apoyar la agitación y dividir el partido (...) La incapacidad del Pleno de no resolver el caso de Zhao demuestran la profunda división dentro del partido.</seg>
       </tuv>
     </tu>
     <tu>
