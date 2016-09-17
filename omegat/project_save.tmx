@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5855,6 +5855,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T021705Z">
         <seg>El autor también considera las corrientes sociales y la forma en que los ciudadanos chinos empiezan a ejercer una influencia significativa en las políticas gubernamentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He’s criticism of late 1980s &lt;t0/&gt;cultural liberalism&lt;t1/&gt; was part of a broader turn against the “&lt;t2/&gt;cultural fever&lt;t3/&gt;” that had dominated the latter part of that decade.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T073325Z" creationid="Usuario" creationdate="20160917T073325Z">
+        <seg>La crítica de He hacia el liberalismo cultural de fines de los años 80 formaba parte de un giro más amplio en contra de la "fiebre cultural" que ejerció dominio sobre la segunda mitad de esa década.</seg>
       </tuv>
     </tu>
     <tu>
