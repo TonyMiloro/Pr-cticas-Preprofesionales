@@ -1687,6 +1687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;While Wang came to the United States for advanced study, Hu stayed in China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160917T213709Z" creationid="Flor" creationdate="20160917T213709Z">
+        <seg>&lt;f0&gt;Mientras Wang se especializaba en Estados Unidos, Hu se quedó en China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wu Jinglian,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Jihua jingji haishi shichang jingji&lt;/f2&gt;&lt;f3&gt;, pp.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211215Z">
