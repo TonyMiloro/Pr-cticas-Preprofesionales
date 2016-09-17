@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2065,8 +2065,8 @@
       <tuv lang="EN-US">
         <seg>Accepting neoclassical economics would lead to China’s further integration in the world economy; He argued that this would bene&lt;t6/&gt;ﬁ&lt;t7/&gt;t US interests, not Chinese interests, because the United States was able to dominate international trade through its monopoly position.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T065716Z" creationid="Usuario" creationdate="20160917T064139Z">
-        <seg>La aceptación de la economía neoclásica permitiría una mayor integración de China en la economía mundial. Accepting neoclassical economics would lead to China’s further integration in the world economy; He argued that this would bene&lt;t6/&gt;ﬁ&lt;t7/&gt;t US interests, not Chinese interests, because the United States was able to dominate international trade through its monopoly position.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T071144Z" creationid="Usuario" creationdate="20160917T064139Z">
+        <seg>La aceptación de la economía neoclásica permitiría una mayor integración de China en la economía mundial. Según He, esto beneficiaría los intereses estadounidenses, no los chinos, ya que Estados Unidos podía dominar el comercio internacional por medio de su posición monopólica. </seg>
       </tuv>
     </tu>
     <tu>
