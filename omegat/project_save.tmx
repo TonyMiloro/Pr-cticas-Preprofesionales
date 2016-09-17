@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11209,8 +11209,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The authors charged that the Chinese government had been naive and soft in its dealings with the United States, that it should be more forthright in just saying “no,” and that the government was neither confident enough nor competent enough – it was too wrapped up in the past and insufficiently bold in engineering China’s modernization.82 China Can Say No had a populist edge that was highly skeptical of the government.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160917T070517Z" creationid="Administrador" creationdate="20160917T064050Z">
-        <seg>Los autores acusaron al gobierno chino de haber sido ingenuo y sumiso en su trato con Estados Unidos, ya que se esperaba una actitud más directa y decir simplemente ''no''. Además, se culpó al gobierno por no ser lo suficientemente seguro y competente por estar muy inmerso en el pasado y osado sin necesidad por contruir una China moderna. El libro China puede decir no tuvo un tope populista que fue muy escéptico del gobierno. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160917T070851Z" creationid="Administrador" creationdate="20160917T064050Z">
+        <seg>Los autores acusaron al gobierno chino de haber sido ingenuo y sumiso en su trato con Estados Unidos, ya que se esperaba una actitud más directa para decir simplemente ''no''. Además, se culpó al gobierno por no ser lo suficientemente seguro y competente por estar muy inmerso en el pasado y osado sin necesidad por contruir una China moderna. El libro China puede decir no tuvo un tope populista que fue muy escéptico del gobierno. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13814,8 +13814,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>Whereas A Third Eye focused primarily on domestic social and political issues with a nationalistic slant, China Can Say No was an unabashed outpouring of nationalistic feeling with little attention to domestic issues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T142209Z" creationid="Administrador" creationdate="20160916T134954Z">
-        <seg>Mientras que Un tercer ojo se enfocaba principalmente en temas sociales y políticos internos con un enfoque nacionalista, China puede decir no fue un desahogo descarado de un sentimiento nacionalista con muy poco interés hacia temas internos.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160917T071147Z" creationid="Administrador" creationdate="20160916T134954Z">
+        <seg>Mientras que Un tercer ojo retomaba principalmente en temas sociales y políticos internos con un enfoque nacionalista, China puede decir no fue un desahogo descarado de un sentimiento nacionalista con muy poco interés hacia temas internos.</seg>
       </tuv>
     </tu>
     <tu>
