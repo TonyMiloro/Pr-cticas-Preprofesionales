@@ -12682,6 +12682,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This book was published internally in 1989 but not openly until 1996.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160917T220130Z" creationid="Flor" creationdate="20160917T220130Z">
+        <seg>Dicho libro se publicó de manera interna en 1989 pero no salió a la luz hasta 1996.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This book – more than any other – explains the forces that have shaped China since Tiananmen.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173344Z">
