@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2876,6 +2876,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="XP" changedate="20160915T165034Z" creationid="XP" creationdate="20160915T051623Z">
         <seg>Tal como se menciona en el último capítulo de este libro, Hu trabajó cuidadosamente  para diseñar su agenda como una “extensión” de la Triple Representatividad de Jiang y no como un cuestionamiento  directo, luego se las arregló para persuadir a Jiang de retirarse de la CMC, y finalmente golpeó duro a la “banda de Shanghái” deteniendo a Chen Liangyu bajo cargos de corrupción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As this argument suggests, He Xin expressed repeated concern about &lt;t0/&gt;cultural imperialism&lt;t1/&gt;, which he regarded as the essence of “peaceful evolution” and which, as we will see, would become a major concern of many intellectuals in the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T054839Z" creationid="Usuario" creationdate="20160917T054839Z">
+        <seg>Tal como sugiere este argumento, He Xin demostraba reiterada preocupación por el imperialismo cultural al que llamaba la esencia de la "evolución pacífica" y la que, como veremos, llegaría a ser una preocupación fundamental de numerosos intelectuales de los años 90. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7546,6 +7554,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T172757Z">
         <seg>No fue hasta junio de 1990 que a Fang Lizhi se le permitió abandonar el país. El astro físico chino se refugió en la embajada estadounidense en Pekín ante las severas medidas tomadas después del 4 de junio&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was on that basis that He argued for a return to Chinese values and an emphasis on nationalism and restoration of political authority.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T054534Z" creationid="Usuario" creationdate="20160917T054534Z">
+        <seg>Sobre esa base fue que He instó a regresar a los valores chinos, a un énfasis en el nacionalismo y a la restauración de la autoridad política.</seg>
       </tuv>
     </tu>
     <tu>
