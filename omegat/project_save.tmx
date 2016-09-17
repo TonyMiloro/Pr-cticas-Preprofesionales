@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13392,6 +13392,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131330Z">
         <seg>En la actualidad, tanto el líder del partido Hu Jintao como el primer ministro Wen Jiabao son egresados de la Universidad de Qinghua.&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Together they worked on a research report entitled “Strengthen the Guid-ing Role of the Central Government during the Transition to a Market Economy: On China’s State Capacity.” In trying to “operationalize” the concept of state capacity, Hu and Wang focused on the state’s extractive capacity, not only because it is easy to measure – making it easy to compare trends across both time and space – but also because, in their opinion, it was the pressing issue of the day.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160917T225848Z" creationid="Flor" creationdate="20160917T225531Z">
+        <seg>Juntos trabajaron en un artículo de investigación llamado "Fortalecer el liderazgo del gobierno central durante la transición hacia una economía de mercado: la capacidad del Estado de China". Al tratar de "operacionalizar" el concepto de capacidad del Estado, Hu y Wang se enfocaron en la capacidad extractiva del Estado, no solo porque es fácil de medir, lo que facilita la comparación de tendencias tanto en tiempo como en espacio, </seg>
       </tuv>
     </tu>
     <tu>
