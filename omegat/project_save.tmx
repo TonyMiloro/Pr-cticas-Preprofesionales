@@ -7978,8 +7978,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Just as they had raised the specter of national disintegration in their report on state capacity, they suggested that, left unaddressed, social tensions in China could lead to the collapse of the system, as it had in Indonesia.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160917T004807Z" creationid="Monzon" creationdate="20160917T004510Z">
-        <seg>Así como habían advertido acerca del fantasma de la desintegración nacional en el informe sobre capacidad estatal, sugerían que, de no resolverse, las tensiones sociales en China podrían provocar que el sistema colapse Indonesia.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160917T004815Z" creationid="Monzon" creationdate="20160917T004510Z">
+        <seg>Así como habían advertido acerca del fantasma de la desintegración nacional en el informe sobre capacidad estatal, sugerían que, de no resolverse, las tensiones sociales en China podrían provocar que el sistema colapse, tal como había ocurrido en Indonesia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12398,6 +12398,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160909T120437Z">
         <seg>Nunca llegaron a la conferencia; por el contrario, fueron despedidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They pointed to the more than 48 million workers dismissed from state-owned and collective enterprises as one source of instability (they state that 100–200 million people report being dissatisfied with their living conditions), and a combination of dissatisfaction with living conditions and complaints about corruption, income inequality, and employment as another potential cause of popular anger.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160917T004841Z" creationid="Monzon" creationdate="20160917T004841Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
