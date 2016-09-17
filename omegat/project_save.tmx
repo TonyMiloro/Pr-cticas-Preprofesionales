@@ -5619,6 +5619,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Graduating from the Tangshan Institute of Technology, Hu got a job at the Chinese Academy of Sciences (CAS).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160917T215026Z" creationid="Flor" creationdate="20160917T215026Z">
+        <seg>Luego de recibirse del Instituto de Tecnología de Tangshan, Hu consiguió trabajo en la Academia China de Ciencias (CAS, por sus siglas en inglés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Growth rates were high.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160905T213421Z">
@@ -11627,6 +11635,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T181416Z">
         <seg>La primera y (que se puede debatir) más crucial de las decisiones llegó en marzo cuando se difundió entre los funcionarios un borrador del informe de Jiang al XV Congreso del Partido Comunista para que realizaran observaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first book on which he was a major collaborator was&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Survival and Development&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160917T215247Z" creationid="Flor" creationdate="20160917T215247Z">
+        <seg>El primer libro en el que fue colaborador principal fue&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Supervivencia y Desarrollo&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
