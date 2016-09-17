@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12778,6 +12778,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This was a very bad development for China.” Tiananmen, He argued, was the result of such trends.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T051728Z" creationid="Usuario" creationdate="20160917T051634Z">
+        <seg>Esto era un desarrollo negativo para China", expresó He. Argumentaba que Tiananmen fue el resultado de esas tendencias. This was a very bad development for China.” Tiananmen, He argued, was the result of such trends.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This was an enormous change with profound social, psychological, and political implications.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T134615Z" creationid="Lucrecia" creationdate="20160913T134615Z">
@@ -14847,8 +14855,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>“For a while,” He said, “American culture became the main current and major tone of literature.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T051350Z" creationid="Usuario" creationdate="20160917T051145Z">
-        <seg>"Durante un rato, la cultura estadounidense llegó a ser la corriente principal y el tono fundamental de la literatura", expresó He..  “For a while,” He said, “American culture became the main current and major tone of literature.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T051644Z" creationid="Usuario" creationdate="20160917T051145Z">
+        <seg>"Durante un rato, la cultura estadounidense llegó a ser la corriente principal y el tono fundamental de la literatura".</seg>
       </tuv>
     </tu>
     <tu>
