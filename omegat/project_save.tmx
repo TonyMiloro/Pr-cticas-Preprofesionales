@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7126,8 +7126,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In writing a nationalistic best seller, the authors of China Can Say No demonstrated that the same broadening of mass culture that had previously been evident in popular literature, television, and the entertainment industry was also available for political mobilization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T143336Z" creationid="Administrador" creationdate="20160916T142944Z">
-        <seg>Al escribir un best seller nacionalista, los autores de China puede decir no demostraron que la misma cultura de masas que antes se había hecho evidente en la literatura popular, en la televisión y en la industria del entretenimiento también se encontraba disponible para una movilización política.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160917T071359Z" creationid="Administrador" creationdate="20160916T142944Z">
+        <seg>Al escribir un best seller nacionalista, los autores de China puede decir no demostraron que la misma cultura de masas que tuvo lugar en la literatura popular, en la televisión y en la industria del entretenimiento también se encontraba disponible para una movilización política.</seg>
       </tuv>
     </tu>
     <tu>
