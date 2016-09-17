@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3946,8 +3946,8 @@
       <tuv lang="EN-US">
         <seg>China could not simply follow the Western model of allowing some people to become very affluent.&lt;/f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Fortunately for Hu, the book was passed to Deng Nan, Deng Xiaoping’s daughter, who then passed it (or a summary) on to her father.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160917T222841Z" creationid="Flor" creationdate="20160917T222525Z">
-        <seg>El país no podía tan solo seguir el modelo occidental que permitía a algunas personas volverse acaudaladas.&lt;/f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Por suerte para Hu, el libro llegó a las manos de Deng Nan, la hija de Deng Xiaoping, quien luego se lo hizo llegar a su padre -o al menos un resumen.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160917T223240Z" creationid="Flor" creationdate="20160917T222525Z">
+        <seg>El país no podía tan solo seguir el modelo occidental que permitía a algunas personas volverse acaudaladas.&lt;/f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Por suerte para Hu, el libro llegó a las manos de Deng Nan, la hija de Deng Xiaoping, quien luego se lo hizo llegar a su padre -o al menos un resumen del ibro.</seg>
       </tuv>
     </tu>
     <tu>
