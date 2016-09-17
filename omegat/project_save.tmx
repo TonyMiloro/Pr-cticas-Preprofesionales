@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14841,6 +14841,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T020128Z">
         <seg> Deng le dijo a sus colegas: “no crean que involucrarse en la economía de mercado es [tomar] el camino capitalista; no es así.” </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“For a while,” He said, “American culture became the main current and major tone of literature.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T051350Z" creationid="Usuario" creationdate="20160917T051145Z">
+        <seg>"Durante un rato, la cultura estadounidense llegó a ser la corriente principal y el tono fundamental de la literatura", expresó He..  “For a while,” He said, “American culture became the main current and major tone of literature.</seg>
       </tuv>
     </tu>
     <tu>
