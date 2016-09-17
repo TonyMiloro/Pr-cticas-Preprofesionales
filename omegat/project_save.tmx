@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10868,6 +10868,14 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE TURN AWAY FROM CULTURAL LIBERALISM</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T071918Z" creationid="Usuario" creationdate="20160917T071918Z">
+        <seg>El abandono de la cultura liberalista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table I:&lt;s0/&gt;&lt;f1&gt;Leadership of the Chinese Communist Party&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160909T014648Z">
@@ -12870,6 +12878,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160917T051807Z" creationid="Usuario" creationdate="20160917T051634Z">
         <seg>Esto era un desarrollo negativo para China", expresó He. Argumentaba que Tiananmen era el resultado de esas tendencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was an argument that would be reprised in the early twenty-&lt;t8/&gt;ﬁ&lt;t9/&gt;rst century as opposition to &lt;t10/&gt;“neoliberal” economics&lt;t11/&gt; (see Chapter 8).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T071829Z" creationid="Usuario" creationdate="20160917T071829Z">
+        <seg>Esta era una disputa que se retomaría a principios del siglo XXI en contraposición con la economía "neoliberal". (Véase el capítulo 8).</seg>
       </tuv>
     </tu>
     <tu>
