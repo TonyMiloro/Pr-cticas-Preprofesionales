@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3050,8 +3050,8 @@
       <tuv lang="EN-US">
         <seg>At least prior to China’s final push to join the World Trade Organization (WTO), neostatists like Hu Angang and Wang Shaoguang were interested in influencing state policy and in appeal-ing to Zhu.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160917T204634Z" creationid="Flor" creationdate="20160917T204634Z">
-        <seg>Por lo menos hasta antes de que China intentara unirse a la Organización Mundial del Comercio (OMC) por última vez, los neostatistas como Hu Angang y Wang Shaoguang estaban interesados en influir la política de estado y en recurrir a Zhu.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160918T221104Z" creationid="Flor" creationdate="20160917T204634Z">
+        <seg>Al menos hasta antes de que China intentara unirse a la Organización Mundial del Comercio (OMC) por última vez, los neostatistas como Hu Angang y Wang Shaoguang estaban interesados en influir la política de estado y en recurrir a Zhu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9051,8 +9051,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nationalists share the neostatists’ desire to strengthen the state but are skeptical of the present political lead-ership’s ability to govern successfully, to articulate China’s national interests forcefully, or to use state power to bring about social justice.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160917T212018Z" creationid="Flor" creationdate="20160917T212018Z">
-        <seg>Los nacionalistas comparten el deseo neostatista de fortalecer al Estado pero son escépticos hacia la habilidad del liderazgo político actual para gobernar con éxito, para articular los intereses nacionales de China con contundencia, o para usar el poder del Estado para proporcionar justicia social.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160918T221217Z" creationid="Flor" creationdate="20160917T212018Z">
+        <seg>Los nacionalistas comparten el deseo neostatista de fortalecer al Estado, pero son escépticos hacia la habilidad del liderazgo político actual para gobernar con éxito, para articular los intereses nacionales de China con contundencia, o para usar el poder del Estado para proporcionar justicia social.</seg>
       </tuv>
     </tu>
     <tu>
