@@ -4042,8 +4042,8 @@
       <tuv lang="EN-US">
         <seg>China’s ambassador congratulated the perpetrators of the coup, and conservative elder Wang Zhen, then in Xinjiang, called on China’s Party leaders “never to deviate” from Marxism– Leninism–Mao Zedong Thought and to “fight to the death” for communism.38 During his trip in the province, Wang gave a number of “fiery speeches,”39 while back in Beijing, leftists called a number of meetings to consider their response.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160904T150614Z">
-        <seg>El embajador de China felicitó a los perpetradores del golpe de estado, y Wang Zhen </seg>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160918T160807Z">
+        <seg>El embajador de China felicitó a los perpetradores del golpe de estado, y el veterano conservativo Wang Zhen, en ese momento en Xinjiang, instó a los líderes del partido de China a "nunca desviarse" del pensamiento -Marxista-Leninista- Mao Zedong y a "pelear a muerte" por el comunismo. 38 Durante su viaje por la provincia, Wang dió varios "discursos intensos", 39 mientras en Beijing, los izquierdistas llamaron a varias reuniones para considerar su respuesta. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11579,6 +11579,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T114715Z">
         <seg>La perspectiva de este grupo surgía por un lado de las diferencias generacionales y por otro de su propia identificación  &lt;t36/&gt;con la gente&lt;t37/&gt; común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ebullient mood did not last long.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160918T160857Z" creationid="Luisina" creationdate="20160918T160857Z">
+        <seg>El entusiasmo no duró mucho.</seg>
       </tuv>
     </tu>
     <tu>
