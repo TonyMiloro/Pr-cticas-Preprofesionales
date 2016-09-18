@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2970,8 +2970,8 @@
       <tuv lang="EN-US">
         <seg>As we saw in the first two chapters, elite politics in the immediate aftermath of Tiananmen was an inside game.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160918T185829Z" creationid="Lucia Cipolatti" creationdate="20160918T182314Z">
-        <seg>Como se planteó en los dos primeros capítulos, la élite política en la repercución inmediata a los sucesos de Tienanmén fue un juego interno. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160918T232722Z" creationid="Lucia Cipolatti" creationdate="20160918T182314Z">
+        <seg>Como se planteó en los dos primeros capítulos, la politica elitista en la repercución inmediata a los sucesos de Tienanmén fue un juego interno. </seg>
       </tuv>
     </tu>
     <tu>
