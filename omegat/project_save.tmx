@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6797,8 +6797,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In focusing on extractive capacity, Hu and Wang chose to ignore other, more difficult (but nonetheless important) components of state capacity, such as legitimation capacity, corruption, and bureaucratic efficiency.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160917T231417Z" creationid="Flor" creationdate="20160917T231001Z">
-        <seg>Al enfocarse en la capacidad extractiva, Hu y Wang optaron por ignorar componentes de la capacidad del Estado que son más complejos, pero no menos importantes, como ser la capacidad de institucionalizar su autoridad, la corrupción, y la eficiencia burocrática.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160918T221900Z" creationid="Flor" creationdate="20160917T231001Z">
+        <seg>Al enfocarse en la capacidad extractiva, Hu y Wang optaron por ignorar componentes de la capacidad del Estado que son más complejos, y a su vez importantes, como ser la capacidad de institucionalizar su autoridad, la corrupción, y la eficiencia burocrática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6909,8 +6909,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In particular, China’s large population and consequent low per-capita resource base meant that China would need a strong government that could “coordinate” (&lt;/f3&gt;&lt;f4&gt;xietiao&lt;/f4&gt;&lt;f5&gt;) the various demands on resources.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160917T222147Z" creationid="Flor" creationdate="20160917T221517Z">
-        <seg>Debido a la población extensa y, en consecuencia, el bajo PBI, China necesitaría un gobierno fuerte que pudiera "coordinar" (&lt;/f3&gt;&lt;f4&gt;xietiao&lt;/f4&gt;&lt;f5&gt;) las diversas demandas de recursos.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160918T221543Z" creationid="Flor" creationdate="20160917T221517Z">
+        <seg>Debido a la población extensa y, en consecuencia, al bajo PBI, China necesitaría un gobierno fuerte que pudiera "coordinar" (&lt;/f3&gt;&lt;f4&gt;xietiao&lt;/f4&gt;&lt;f5&gt;) las diversas demandas de recursos.</seg>
       </tuv>
     </tu>
     <tu>
