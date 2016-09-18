@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1241,8 +1241,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Although the neostatist desire to increase state capacity appears at first glance to move in the opposite direction from popular nationalism and its criticisms of the existing government – and both of these seem distant from the New Left concerns discussed in Chapter&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;4&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;– in fact, all three of these trends share a basic intellectual orientation, and personal relations across them tend to be quite close.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160908T014432Z">
-        <seg>&lt;f0&gt;A pesar de que el deseo neoestatista de incrementar la capacidad estatal parece en principio ir en dirección opuesta al nacionalismo popular y sus críticas hacia el gobierno actual (y ambas posturas parecen distantes de los intereses de la Nueva Izquierda presentados en el Capítulo&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;4&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;), en realidad las tres corrientes comparten una orientación intelectual básica y las relaciones personales entre ellas tienden a ser muy cercanas.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160918T220807Z">
+        <seg>&lt;f0&gt;A pesar de que el deseo neoestatista de incrementar la capacidad del Estado parece en principio ir en dirección opuesta al nacionalismo popular y sus críticas hacia el gobierno actual (y ambas posturas parecen distantes de los intereses de la Nueva Izquierda presentados en el Capítulo&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;4&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;), en realidad las tres corrientes comparten una orientación intelectual básica y las relaciones personales entre ellas tienden a ser muy cercanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5140,8 +5140,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Finally, all three approaches share a populist orientation, although the neostatist is characterized by a concern for state building that popular nationalists like Wang Xiaodong do not display.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160908T014908Z">
-        <seg>Por último, todos comparten una orientación populista, aunque los neoestatistas se destacan por un interés en la construcción estatal que los nacionalistas populares como Wang Xiaodong no demuestran.&lt;/f6&gt;</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160918T220820Z">
+        <seg>Por último, todos comparten una orientación populista, aunque los neoestatistas se destacan por un interés en la construcción del Estado que los nacionalistas populares como Wang Xiaodong no demuestran.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14438,8 +14438,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>Yet as social thinkers like Wang Hui, Cui Zhiyuan, and others began to explore new understandings of “modernity” and different development paths, other scholars – particularly Hu Angang and Wang Shaoguang, whose ideas are discussed shortly – turned their attention to the issue of “state capacity.” State capacity is an old issue in American political science that received an infusion of new intellectual vitality in the 1980s as</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160908T014117Z">
-        <seg>Pero mientras algunos pensadores como Wang Hui y Cui Zhiyuan comenzaron a explorar nuevos conceptos de "modernidad" y distintos caminos hacia el desarrollo, otros investigadores, en especial Hu Angang y Wang Shaoguang, cuyas ideas presentaremos más adelante,desviaron su atención hacia la "capacidad estatal". La capacidad estatal es un concepto antiguo de las ciencias políticas estadounidenses que recibió una inyección de vitalidad intelectual en la década de los 80 cuando</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160918T220742Z">
+        <seg>Pero mientras algunos pensadores como Wang Hui y Cui Zhiyuan comenzaron a explorar nuevos conceptos de "modernidad" y distintos caminos hacia el desarrollo, otros investigadores, en especial Hu Angang y Wang Shaoguang, cuyas ideas presentaremos más adelante,desviaron su atención hacia la "capacidad del Estado". La capacidad del Estado es un concepto antiguo de las ciencias políticas estadounidenses que recibió una inyección de vitalidad intelectual en la década de los 80 cuando</seg>
       </tuv>
     </tu>
     <tu>
