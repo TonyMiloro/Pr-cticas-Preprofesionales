@@ -6701,8 +6701,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In any event, with the publication of Jiang Zemin’s speech on the 70th anniversary of the CCP on July 1, 1991, it became clear that reform was once again on hold.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160918T225241Z" creationid="carolaamiel" creationdate="20160918T225241Z">
-        <seg>En cualquier caso, con la publicacion de </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160918T225807Z" creationid="carolaamiel" creationdate="20160918T225241Z">
+        <seg>En cualquiera de los casos, con la publicación del discurso de Jiang Zemin por el 70 aniversario del CCP el 1 de julio de 1991, se hizo claro que una vez más la reforma estaba en suspenso. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8124,6 +8124,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011707Z">
         <seg>La relación de Jiang con Li Xiannian parece haber sido particularmente cercana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang’s speech reflected the sharply conflicting opinions within the Party, affirming reformist themes but stressing conservative concerns.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160918T225910Z" creationid="carolaamiel" creationdate="20160918T225910Z">
+        <seg>El discurso de Jiang reflejaba las opiniones conflictivas dentro del partido y afirmaba los temas reformistas pero.</seg>
       </tuv>
     </tu>
     <tu>
