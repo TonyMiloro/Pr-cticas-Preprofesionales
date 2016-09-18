@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1931,6 +1931,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131128Z">
         <seg>En primer lugar, entre algunos intelectuales ha habido una tendencia marcada que se aleja del rol tradicional de los intelectuales como la conciencia de la sociedad, un rol que tiene raices en el pasado confusiano de China. Atacado por la comercialización y la profesionalización, el rol tradicional del intelectual como generalista que da sabios consejos morales a los líderes políticos, el rol que tenía el intelectual en la historia de Qu Yuan, el consejero del siglo II a.C. que se ahogó cuando la desgracia cayó sobre el rey que había ignorado sus consejos, ha disminuido porque muchos se han exiliado a la torre de marfil. El profesionalismo, sin embargo, no es necesariamente contradictorio con expresar opiniones morales, por lo que una segunda tendencia ha consistido en combinar la especialización con el consejo político.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;For instance, Jiang returned to the issue he had raised in his 1989 National Day address: the need to differentiate two types of reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160918T233244Z" creationid="carolaamiel" creationdate="20160918T233244Z">
+        <seg>o &lt;t2/&gt;Por ejemplo, Jiang retom en el discurso de 1989 en ell Día Nacional de China: la necesidad de diferenciar los dos tipos de reforma.</seg>
       </tuv>
     </tu>
     <tu>
