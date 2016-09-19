@@ -1399,6 +1399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;For all of Wang Shan’s disdain of officialdom and intellectuals (whom he accuses of being destructive), he is clearly in favor of autocracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T160047Z" creationid="Usuario-Pc" creationdate="20160919T160047Z">
+        <seg>&lt;f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;For an influential study of this issue, which will be discussed in Chapter&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;5&lt;/f2&gt;&lt;f3&gt;, see Hu Angang and Wang Shaoguang,&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Jiaqiang zhongyang zhengfu zai shichang jingji zhuanxing zhong de zhudao zuoyong&lt;/f5&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212155Z">
@@ -4581,6 +4589,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205648Z">
         <seg>Deng Xiaoping fallece a los 92 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Xiaoping has repeatedly said that the four cardinal principles must be upheld, but how much has really been upheld?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T155956Z" creationid="Usuario-Pc" creationdate="20160919T155722Z">
+        <seg>Deng Xiaoping ha expresado en reiteradas ocasiones que los cuatro principios cardinales deben mantenerse en alto, pero ¿cuánto se ha mantenido realmente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9669,7 +9685,7 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Now, when we look back, what is left of Mao’s inheritance?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T154718Z" creationid="Usuario-Pc" creationdate="20160919T154422Z">
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T155951Z" creationid="Usuario-Pc" creationdate="20160919T154422Z">
         <seg>Y ahora, si miramos hacia atras, ¿qué nos queda del legado de Mao?</seg>
       </tuv>
     </tu>
