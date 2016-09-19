@@ -9589,8 +9589,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nonetheless, the 1990s presented very strong evidence that intellectuals as a group were not valued by Chinese society.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160919T172424Z" creationid="daiana" creationdate="20160919T172424Z">
-        <seg>No obstante, la década de los 90 presentó una evidencia Nonetheless, the 1990s presented very strong evidence that intellectuals as a group were not valued by Chinese society.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160919T172513Z" creationid="daiana" creationdate="20160919T172424Z">
+        <seg>No obstante, la década de los 90 presentó una evidencia muy sólida de que los intelectuales como grupo no eran valorados por la sociedad china.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13418,6 +13418,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173344Z">
         <seg>Este libro, más que cualquier otro, explica las fuerzas que han moldeado a China desde Tiananmén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This change in status came about quickly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160919T172536Z" creationid="daiana" creationdate="20160919T172536Z">
+        <seg>Este cambio de estatus se produjo con rapidez.</seg>
       </tuv>
     </tu>
     <tu>
