@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4205,6 +4205,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T134418Z">
         <seg>La cultura China en sí misma esta pasando de ser "conservadora, cerrada, subjetiva y arbitraria" a ser "renovada, abierta, objetiva y democrática": Wang advirtió que "Sin un sistema político altamente democrático, es dificil de establecerse como un país modernizado y fuerte entre los países avanzados del mundo".&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China’s economic structural reform was really created in this way.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T153159Z" creationid="Usuario-Pc" creationdate="20160919T153116Z">
+        <seg>La reforma de la estructura económica de China fue realmente creada de este modo.</seg>
       </tuv>
     </tu>
     <tu>
