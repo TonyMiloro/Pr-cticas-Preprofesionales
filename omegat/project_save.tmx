@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3317,6 +3317,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T174912Z">
         <seg>A principios del nuevo siglo, el liberalismo aún existe y hasta llegó a mostrar signos de vitalidad a nivel local; sin embargo, ya no es la fe común entre los intelectuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At this time, Chen organized a group of people as the Beijing Young Economists Association&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;(Beijing qingnian jingji gongzuozhe xiehui)&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;to study economic theory and formulate Beijing development strategy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160919T185641Z" creationid="Franco" creationdate="20160919T185641Z">
+        <seg>Por esta época, Chen organizó un grupo de personas en la Asociación de jóvenes economistas de Pekín, the Beijing Young Economists Association,&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;(Beijing qingnian jingji gongzuozhe xiehui)&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;para estudiar teoría económica y formular estrategias de desarrollo de Pekín.</seg>
       </tuv>
     </tu>
     <tu>
