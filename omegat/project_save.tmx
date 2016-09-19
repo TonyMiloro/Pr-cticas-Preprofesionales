@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2946,16 +2946,16 @@
       <tuv lang="EN-US">
         <seg>As soon as one problem is solved, another emerges.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T150143Z" creationid="Usuario-Pc" creationdate="20160919T150143Z">
-        <seg>En cuanto un problema se resuelve, otro emerge.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T150600Z" creationid="Usuario-Pc" creationdate="20160919T150143Z">
+        <seg>Una vez que un problema se resuelve, otro emerge.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>As soon as the traditional ideology of Mao Zedong’s idealism begins to be broken, then the government’s defense line must retreat step by step.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T150324Z" creationid="Usuario-Pc" creationdate="20160919T150223Z">
-        <seg>En cuanto la ideologia tradicional del idealismo de Mao Zedong</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T150715Z" creationid="Usuario-Pc" creationdate="20160919T150223Z">
+        <seg>Una vez que la ideologia tradicional del idealismo de Mao Zedong comience a desintegrarse, la linea de defensa del gobierno deberá </seg>
       </tuv>
     </tu>
     <tu>
