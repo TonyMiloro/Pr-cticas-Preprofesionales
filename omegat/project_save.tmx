@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2152,6 +2152,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accepting neoclassical economics would lead to China’s further integration in the world economy; He argued that this would &lt;t4/&gt;beneﬁt&lt;t5/&gt; US interests, not Chinese interests, because the United States was able to dominate international trade through its monopoly position.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232411Z" creationid="Melanie" creationdate="20160919T232411Z">
+        <seg>La aceptación de la economía neoclásica permitiría una mayor integración de China en la economía mundial. Según He, esto beneficiaría los intereses estadounidenses, no los chinos, ya que Estados Unidos podía dominar el comercio internacional por medio de su posición monopólica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accepting neoclassical economics would lead to China’s further integration in the world economy; He argued that this would bene&lt;t6/&gt;ﬁ&lt;t7/&gt;t US interests, not Chinese interests, because the United States was able to dominate international trade through its monopoly position.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160917T071144Z" creationid="Usuario" creationdate="20160917T064139Z">
@@ -3077,6 +3085,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="XP" changedate="20160915T165034Z" creationid="XP" creationdate="20160915T051623Z">
         <seg>Tal como se menciona en el último capítulo de este libro, Hu trabajó cuidadosamente  para diseñar su agenda como una “extensión” de la Triple Representatividad de Jiang y no como un cuestionamiento  directo, luego se las arregló para persuadir a Jiang de retirarse de la CMC, y finalmente golpeó duro a la “banda de Shanghái” deteniendo a Chen Liangyu bajo cargos de corrupción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As this argument suggests, He &lt;t0/&gt;Xin&lt;t1/&gt; expressed repeated concern about cultural imperialism, which he regarded as the essence of “peaceful evolution” and which, as we will see, would become a major concern of many intellectuals in the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232351Z" creationid="Melanie" creationdate="20160919T232351Z">
+        <seg>Tal como sugiere este argumento, He Xin demostraba reiterada preocupación por el imperialismo cultural al que llamaba la esencia de la "evolución pacífica" y el que, como veremos, llegaría a ser una preocupación fundamental de numerosos intelectuales de los años 90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5219,6 +5235,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enlightenment, in the view of many intellectuals, entailed a remaking of Chinese culture, exorcising the “feudal” elements of tradition, and opening up to &lt;t0/&gt;inﬂuences&lt;t1/&gt; from the West.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232534Z" creationid="Melanie" creationdate="20160919T232534Z">
+        <seg>La Iluminación implicaba, para muchos intelectuales, una reconfección de la cultura China echando fuera los elementos "feudales" de la tradición y abriéndose a influencias occidentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enlightenment, in the view of many intellectuals, entailed a remaking of Chinese culture, exorcising the “feudal” elements of tradition, and opening up to in&lt;t0/&gt;ﬂ&lt;t1/&gt;uences from the West.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160918T061453Z" creationid="Usuario" creationdate="20160918T061453Z">
@@ -5351,6 +5375,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160917T064808Z" creationid="Usuario" creationdate="20160917T062253Z">
         <seg>La exportación de la economía neoclásica era uno de los medios por lo que Estados Unidos trataba de dominar el mundo, como quedó claramente demostrado en los resultados de la reforma radical de precios en la Unión Soviética. He decía que la terapia de choque era tan sólo "suicidio económico". Los intelectuales chinos eran propensos a ser influenciados por la economía neoclásica, en especial después del año 1984 a causa de su ansiedad por alcazar un éxito rápido, lo que era otra manifestación del ánimo "romántico" que se propagó en China a fines de 1980. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting neoclassical economics was one of the tools by which the United States sought to dominate the world, as was so vividly demonstrated by the results of radical price reform in the Soviet Union; shock therapy, He said, was simply “economic suicide.” Chinese intellectuals were susceptible to the &lt;t2/&gt;inﬂuence&lt;t3/&gt; of neoclassical economics, particularly after 1984, because of their anxiety for quick success – another manifestation of the “romantic” mood that swept China in the late 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232402Z" creationid="Melanie" creationdate="20160919T232402Z">
+        <seg>La exportación de la economía neoclásica era uno de los medios por lo que Estados Unidos trataba de dominar el mundo, como quedó claramente demostrado en los resultados de la reforma radical de precios en la Unión Soviética. He decía que la terapia de choque era tan sólo "suicidio económico". Los intelectuales chinos eran propensos a ser influenciados por la economía neoclásica, en especial después del año 1984 a causa de su ansiedad por alcazar un éxito rápido, lo que era otra manifestación del ánimo "romántico" que se propagó en China a fines de 1980.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6388,6 +6420,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He’s criticism of late 1980s cultural liberalism was part of a broader turn against the “cultural fever” that had dominated the latter part of that decade.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232447Z" creationid="Melanie" creationdate="20160919T232447Z">
+        <seg>La crítica de He hacia el liberalismo cultural de fines de los años 80 formaba parte de un giro más amplio en contra de la "fiebre cultural" que ejerció dominio sobre la segunda mitad de esa década.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ho Te-hsu, “China Has Crossed the Nadir of the Valley but Is Still Climbing Up from the Trough.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211159Z">
@@ -7420,6 +7460,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In many ways, these intellectuals picked up where the May Fourth generation of intellectuals had left off.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232507Z" creationid="Melanie" creationdate="20160919T232507Z">
+        <seg>En muchos sentidos, estos intelectuales retomaban en donde había dejado la generación de intelectuales del Movimiento del Cuatro de Mayo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to defend his vision of reform against his critics’ arguments, Deng reiterated the theoretically unsophisticated but ultimately effective argument that he had put forth in Shanghai the previous year: planning and markets, far from being distinguishing characteristics of socialism and capitalism, were simply economic “methods” possessed by both types of systems.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T223813Z">
@@ -7821,6 +7869,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this &lt;t0/&gt;ﬁlm&lt;t1/&gt;, the dry, arid, exhausted soil – and culture – of the northwest (the cradle of Chinese civilization) is contrasted with the fertility, dynamism, and openness of the blue sea.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232603Z" creationid="Melanie" creationdate="20160919T232603Z">
+        <seg>En el filme el suelo seco, árido y agotado (y la cultura) del noroeste (la cuna de la civilización china) se contrasta con la fertilidad, el dinamismo y la apertura del mar azul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this way, He became &lt;t4/&gt;identiﬁed&lt;t5/&gt; as a exemplar of what might be called a “muscular” or assertive &lt;t6/&gt;neoconservatism&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191749Z">
@@ -7977,6 +8033,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160919T131752Z" creationid="Sabri" creationdate="20160919T131718Z">
         <seg>De hecho, uno podría decir que el efecto (negativo) más grande de Li sobre&lt;t28/&gt; &lt;t29/&gt;el gobierno de China era su disposición a dejar que las cosas fluyan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, one of the primary intellectual &lt;t0/&gt;inﬂuences&lt;t1/&gt; at the time was the work of Li &lt;t2/&gt;Zehou&lt;t3/&gt;, a philosopher at CASS, who argued that China’s “enlightenment” project, inaugurated by the New Culture Movement (1915–20), had been constantly interrupted and deferred by “national salvation” movements that had grown up in response to foreign threat and war.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232519Z" creationid="Melanie" creationdate="20160919T232519Z">
+        <seg>De hecho, en ese momento una de las influencias intelectuales principales fue el trabajo de Li Zehou, un filósofo que trabaja en la Academina China de Ciencias Sociales (CASS), quien argumentaba que el proyecto de la "iluminación de China", iniciada por el Movimiento de la Nueva Cultura (1915-1920), había sido interrumpido y suspendido de manera constante por los movimientos de "salvación nacional" que habían surgido como respuesta a la amenaza y guerra extranjeras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12008,9 +12072,25 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;ﬁlm&lt;t1/&gt; asks pointedly such questions as, “Why did China fail to maintain the great lead it used to have .</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232630Z" creationid="Melanie" creationdate="20160919T232630Z">
+        <seg>Puntualmente, el filme hacía preguntas como: "¿Por qué no pudo China mantener el liderazgo que supo tener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t2/&gt;ﬁ&lt;t3/&gt;lm captured the con&lt;t4/&gt;ﬁ&lt;t5/&gt;dence and optimism of many at the time that reform could be accomplished relatively quickly and easily if only the country would rally behind an enlightened leader, turn its back &lt;t6/&gt;ﬁ&lt;t7/&gt;rmly on its “feudal” past, and embrace the outside world wholeheartedly.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160919T052432Z" creationid="Usuario" creationdate="20160919T052127Z">
+        <seg>El filme captaba la confianza y el optimismo que muchos tenían en ese momento de que la reformación podía lograrse relativamente rápido y fácil sólo si el país era guiado por un líder iluminado, si le daba la espalda a su pasado "feudal" y si abrazaba el mundo exterior de verdad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t2/&gt;ﬁlm&lt;t3/&gt; captured the &lt;t4/&gt;conﬁdence&lt;t5/&gt; and optimism of many at the time that reform could be accomplished relatively quickly and easily if only the country would rally behind an enlightened leader, turn its back &lt;t6/&gt;ﬁrmly&lt;t7/&gt; on its “feudal” past, and embrace the outside world wholeheartedly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232617Z" creationid="Melanie" creationdate="20160919T232617Z">
         <seg>El filme captaba la confianza y el optimismo que muchos tenían en ese momento de que la reformación podía lograrse relativamente rápido y fácil sólo si el país era guiado por un líder iluminado, si le daba la espalda a su pasado "feudal" y si abrazaba el mundo exterior de verdad.</seg>
       </tuv>
     </tu>
@@ -13950,6 +14030,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This mood was well captured by &lt;t2/&gt;Gan&lt;t3/&gt; Yang, editor of the &lt;t4/&gt;inﬂuential&lt;t5/&gt; Culture: China and the World (&lt;t6/&gt;Wenhua&lt;t7/&gt;: &lt;t8/&gt;Zhongguo&lt;t9/&gt; &lt;t10/&gt;yu&lt;t11/&gt; &lt;t12/&gt;shijie&lt;t13/&gt; &lt;t14/&gt;congshu&lt;t15/&gt;) book series, who pleaded for cosmopolitanism and cultural renovation: “China must enter the world, so naturally its culture must also enter the world; China must modernize, so naturally we must realize the ‘modernization of Chinese culture’ – this is the common faith of every person of foresight in the 1980s, this is the logical necessity of the great historical take-off of contemporary China.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232545Z" creationid="Melanie" creationdate="20160919T232545Z">
+        <seg>Este ánimo fue plasmado de manera correcta por Gan Yang, editor de la serie influyente Cultura: China y el mundo (Wenhua: Zhongguo yu shijie congshu), quien defendía la cosmopolitanisación y la renovación cultural: "China debe ingresar al mundo, por lo que obviamente, su cultura debe hacerlo también. China debe modernizarse, por lo que obviamente, debemos concretar la ´modernización de la cultura china´ - esta es la fe en común de todo aquél con visión en los años 80. Esta es la necesidad lógica del gran despegue histórico de la China contemporánea".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This mood was well captured by Gan Yang, editor of the in&lt;t2/&gt;ﬂ&lt;t3/&gt;uential Culture: China and the World (Wenhua: Zhongguo yu shijie congshu) book series, who pleaded for cosmopolitanism and cultural renovation: “China must enter the world, so naturally its culture must also enter the world; China must modernize, so naturally we must realize the ‘modernization of Chinese culture’ – this is the common faith of every person of foresight in the 1980s, this is the logical necessity of the great historical take-off of contemporary China.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160918T064844Z" creationid="Usuario" creationdate="20160918T063114Z">
@@ -14126,10 +14214,26 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This was a very bad development for China.”  Tiananmen, He argued, was the result of such trends.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232338Z" creationid="Melanie" creationdate="20160919T232338Z">
+        <seg>Esto era un desarrollo negativo para China", expresó He. Argumentaba que Tiananmen era el resultado de esas tendencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This was a very bad development for China.” Tiananmen, He argued, was the result of such trends.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160917T051807Z" creationid="Usuario" creationdate="20160917T051634Z">
         <seg>Esto era un desarrollo negativo para China", expresó He. Argumentaba que Tiananmen era el resultado de esas tendencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was an argument that would be reprised in the early twenty-&lt;t6/&gt;ﬁrst&lt;t7/&gt; century as opposition to “neoliberal” economics (see Chapter 8).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232429Z" creationid="Melanie" creationdate="20160919T232429Z">
+        <seg>Esta era una disputa que se retomaría a principios del siglo XXI en contraposición con la economía "neoliberal". (Véase el capítulo 8).</seg>
       </tuv>
     </tu>
     <tu>
