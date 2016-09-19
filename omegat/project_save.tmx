@@ -1745,8 +1745,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;fear that reform will be too destabilizing.&lt;/f0&gt;&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt; As he puts it: “What I fear most is that as soon as revolutionary thought or theories are imported into China they will stimulate the division of strata, which has already started, and bring about a destructive revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T203008Z" creationid="Usuario-Pc" creationdate="20160919T203008Z">
-        <seg>&lt;f0&gt;teme que la reforma .&lt;/f0&gt;&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt; As he puts it: “What I fear most is that as soon as revolutionary thought or theories are imported into China they will stimulate the division of strata, which has already started, and bring about a destructive revolution.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T203658Z" creationid="Usuario-Pc" creationdate="20160919T203008Z">
+        <seg>&lt;f0&gt;teme que la reforma sea muy desestabilizadora.&lt;/f0&gt;&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt; En sus palabras: "Lo que mas temo es que en cuanto los pensamientos y teorias revolucionarias se importen en China, provocarán la división de estratos, que ya ha comenzado, y ocasionarán una revolución destructiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4181,6 +4181,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T044117Z">
         <seg>Es posible que China emerja como una nación democrática, pero, de ser ese el caso, el camino será mucho más extenso y complicado de lo que se asumía con tanta seguridad a principios de la década de los 909. Contrariamente a esas expectativas occidentales, una gran cantidad de intelectuales en China desarrollaron concepciones de su sociedad y del orden internacional muy diferentes a las que los intelectuales de Occidente asumían que tenían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China needs stability.”&lt;/f2&gt;&lt;f3&gt;64&lt;/f3&gt;&lt;f4&gt; In order to enhance stability and stop the decline in morals in society, Wang unabashedly favors raising high the banner of communism, “so that it becomes the banner flying above our heads and becomes our common faith (&lt;/f4&gt;&lt;f5&gt;xinyang&lt;/f5&gt;&lt;f6&gt;) and religion (&lt;/f6&gt;&lt;f7&gt;zongjiao&lt;/f7&gt;&lt;f8&gt;).”&lt;/f8&gt;&lt;f9&gt;65&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T203804Z" creationid="Usuario-Pc" creationdate="20160919T203804Z">
+        <seg>China necesita estabilidad”.&lt;/f2&gt;&lt;f3&gt;64&lt;/f3&gt;&lt;f4&gt; Para lograg la estabilidad y frenar el  (&lt;/f4&gt;&lt;f5&gt;xinyang&lt;/f5&gt;&lt;f6&gt;) and religion (&lt;/f6&gt;&lt;f7&gt;zongjiao&lt;/f7&gt;&lt;f8&gt;).”&lt;/f8&gt;&lt;f9&gt;65&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
