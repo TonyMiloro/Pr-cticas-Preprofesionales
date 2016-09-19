@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10382,8 +10382,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Over the summer of 2007, tens of retired cadres wrote a strongly worded letter to the Central Committee, "Have we lost our correct orientation?" The letter goes on and says that "The reforms now being carried out in China are reforms for turning the public ownership system into the private ownership system and for turning socialism into capitalism."</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T224212Z" creationid="cintia soler" creationdate="20160919T222955Z">
-        <seg> Durante el verano de 2007, docenas de delegados retirados redactaron una carta bastante clara y concisa dirigida al Comité Central, "¿Hemos perdido nuestra orientación correcta?" La carta continúa y agrega que "Las reformas llevadas a cabo actualmente en China son reformas con el propósito de convertir  </seg>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T224836Z" creationid="cintia soler" creationdate="20160919T222955Z">
+        <seg> Durante el verano de 2007, docenas de delegados retirados redactaron una carta bastante clara y concisa dirigida al Comité Central, "¿Hemos perdido nuestra orientación correcta?" La carta continúa y agrega que "Las reformas llevadas a cabo actualmente en China son reformas con el propósito de convertir el sistema de propiedad pública en el sistema de propiedad privada y para convertir el socialismo en capitalismo". </seg>
       </tuv>
     </tu>
     <tu>
