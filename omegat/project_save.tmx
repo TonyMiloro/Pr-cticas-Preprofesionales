@@ -1665,8 +1665,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang’s diagnosis of China’s social ills and his hope that the CCP could provide stability in a period of transition is related to an unabashed nation-alism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T210734Z" creationid="Usuario-Pc" creationdate="20160919T210734Z">
-        <seg>&lt;f0&gt;El diagnóstico de Wang con respecto a los males sociales de China y la esperanza de que el CCP podría proveer estabilidad en un período de transición esta relacionado con un nacionalismo descarado. </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T211410Z" creationid="Usuario-Pc" creationdate="20160919T210734Z">
+        <seg>&lt;f0&gt;El diagnóstico de Wang con respecto a los males sociales de China y la esperanza de que el PCC podría proveer estabilidad en un período de transición esta relacionado con un nacionalismo descarado. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14644,6 +14644,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160905T215850Z">
         <seg>Wang había elegido el nombre de un diccionario que transliteraba nombres extranjeros. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang makes clear his belief that the student demonstrations of spring 1989 were encouraged and supported (if not instigated) by the United States and were aimed at overthrowing the CCP because America feared China’s nuclear power.&lt;/f0&gt;&lt;f1&gt;66&lt;/f1&gt;&lt;f2&gt; Like other nationalists, he asserts not only that the United States is in moral and social decline but also that the cure to the ills gener-ated by an “economic mechanism flooded with liberalism” could only lie in the East.&lt;/f2&gt;&lt;f3&gt;67&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T211404Z" creationid="Usuario-Pc" creationdate="20160919T211404Z">
+        <seg>Wang deja en claro su idea de que las manifestaciones estudiantiles de la primavera de 1989 fueron impulsadas y apoyadas (y hasta incluso incitadas) por Estados Unidos con el objetivo de derrocar al CCP&lt;/f2&gt;&lt;f3&gt;67&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
