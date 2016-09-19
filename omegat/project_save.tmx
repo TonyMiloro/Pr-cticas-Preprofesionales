@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2386,8 +2386,8 @@
       <tuv lang="EN-US">
         <seg>Although it was enthusiastically supported by reform-minded intellectuals and by then-&lt;t0/&gt;General Secretary&lt;t1/&gt; Zhao Ziyang (who ironically presented a copy of the series to visiting Singapore senior minister Lee Kuan Yew, an outspoken champion of traditional Chinese values), River Elegy aroused a storm of criticism from different points along the ideological spectrum.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T055921Z" creationid="Usuario" creationdate="20160919T055616Z">
-        <seg>Aunque La elegia del río estaba respaldado con estusiasmo por intelectuales reformistas y la entonces Secretaria General, Zhao Ziyang (quien irónicamente le entregó una copia de la serie a Lee Kuan Yew, un defensor declarado de los valores chinos y estaba de visita  Although it was enthusiastically supported by reform-minded intellectuals and by then-&lt;t0/&gt;General Secretary&lt;t1/&gt; Zhao Ziyang (who ironically presented a copy of the series to visiting Singapore senior minister Lee Kuan Yew, an outspoken champion of traditional Chinese values), River Elegy aroused a storm of criticism from different points along the ideological spectrum.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T060153Z" creationid="Usuario" creationdate="20160919T055616Z">
+        <seg>Aunque La elegia del río estaba respaldado con estusiasmo por intelectuales reformistas y la entonces Secretaria General, Zhao Ziyang (quien irónicamente le entregó una copia de la serie a Lee Kuan Yew, un alto ministro de Singapore y defensor declarado de los valores chinos y que estaba de visita), el filme recibió numerosas críticas de distintos sectores del espectro ideológico. </seg>
       </tuv>
     </tu>
     <tu>
