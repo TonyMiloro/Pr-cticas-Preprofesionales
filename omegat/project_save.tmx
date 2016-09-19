@@ -519,14 +519,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>58</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022348Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>59</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022413Z">
@@ -567,14 +559,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>63</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022538Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>64</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022550Z">
@@ -594,14 +578,6 @@
         <seg>65</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022557Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>66</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022605Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -10751,8 +10727,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Rule by law is unreliable.”&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T180214Z" creationid="Usuario-Pc" creationdate="20160919T180214Z">
-        <seg>El gobierno a traves de la ley no es confiable”.&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T180617Z" creationid="Usuario-Pc" creationdate="20160919T180214Z">
+        <seg>El gobierno a través de la ley no es confiable”.&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
