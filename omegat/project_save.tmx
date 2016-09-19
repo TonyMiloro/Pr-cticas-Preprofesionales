@@ -6220,6 +6220,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How much is left?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T154652Z" creationid="Usuario-Pc" creationdate="20160919T154652Z">
+        <seg>Cuanto nos queda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, Clinton’s domestic advisers – Treasury&lt;t14/&gt; &lt;t15/&gt;Secretary Robert Rubin, National Economic Council head Gene &lt;t16/&gt;Sperling&lt;t17/&gt;,&lt;t18/&gt; &lt;t19/&gt;and domestic political adviser John &lt;t20/&gt;Podesta&lt;t21/&gt; – argued that if there were&lt;t22/&gt; &lt;t23/&gt;no guaranteed protections for labor unions and industries that competed&lt;t24/&gt; &lt;t25/&gt;directly with their Chinese counterparts then Congress would vote to&lt;t26/&gt; &lt;t27/&gt;kill the deal, and that would be worse for US–China relations than no&lt;t28/&gt; &lt;t29/&gt;agreement at all.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160915T175239Z">
@@ -8837,8 +8845,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Local governments continuously extend their hands asking for new “policies” and the central government has no choice but to compromise in the face of solving new problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T152749Z" creationid="Usuario-Pc" creationdate="20160919T151046Z">
-        <seg>Los gobiernos locales estan permanentemente pidiendo nuevas "politicas" al gobierno central quien no tiene otra opción más que asumir el compromiso ante nuevas dificultades.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T154443Z" creationid="Usuario-Pc" creationdate="20160919T151046Z">
+        <seg>Los gobiernos locales estan  pidiendo de forma continua nuevas "politicas" al gobierno central quien no tiene otra opción más que asumir el compromiso ante nuevas dificultades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9639,6 +9647,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034347Z">
         <seg>Transmisión de la serie televisiva Yearnings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, when we look back, what is left of Mao’s inheritance?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T154641Z" creationid="Usuario-Pc" creationdate="20160919T154422Z">
+        <seg>Y ahora, si miramos hacia atras, que es lo queda del legado de Mao?</seg>
       </tuv>
     </tu>
     <tu>
