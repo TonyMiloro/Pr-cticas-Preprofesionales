@@ -7638,8 +7638,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, one could argue that Li’s greatest (negative) effect on&lt;t28/&gt; &lt;t29/&gt;China’s government was his willingness to let things drift.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160919T131718Z" creationid="Sabri" creationdate="20160919T131718Z">
-        <seg>De hecho, uno podría decir que el efecto (negativo) más grande de Li sobre&lt;t28/&gt; &lt;t29/&gt;el gobierno de China era su predisposición a dejar que las cosas fluyan.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160919T131752Z" creationid="Sabri" creationdate="20160919T131718Z">
+        <seg>De hecho, uno podría decir que el efecto (negativo) más grande de Li sobre&lt;t28/&gt; &lt;t29/&gt;el gobierno de China era su disposición a dejar que las cosas fluyan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8508,6 +8508,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151029Z">
         <seg>PENSAMIENTO LIBERAL EN LA CHINA CONTEMPORÁNEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lacking vision&lt;t30/&gt; &lt;t31/&gt;and unwilling to ride roughshod over inefficient bureaucrats, Li allowed&lt;t32/&gt; &lt;t33/&gt;China’s SOEs to become ever more inefficient and eventually to threaten&lt;t34/&gt; &lt;t35/&gt;the solvency of the banking system.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160919T131823Z" creationid="Sabri" creationdate="20160919T131823Z">
+        <seg>Al faltarle visión &lt;t30/&gt; &lt;t31/&gt; y negarse a , Li allowed&lt;t32/&gt; &lt;t33/&gt;China’s SOEs to become ever more inefficient and eventually to threaten&lt;t34/&gt; &lt;t35/&gt;the solvency of the banking system.</seg>
       </tuv>
     </tu>
     <tu>
