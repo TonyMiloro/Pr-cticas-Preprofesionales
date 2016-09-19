@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8829,8 +8829,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Local governments continuously extend their hands asking for new “policies” and the central government has no choice but to compromise in the face of solving new problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T151046Z" creationid="Usuario-Pc" creationdate="20160919T151046Z">
-        <seg>los gobiernos locales .</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T152057Z" creationid="Usuario-Pc" creationdate="20160919T151046Z">
+        <seg>Los gobiernos locales estan constantemente pidiendole al gobierno central nuevas "politicas" .</seg>
       </tuv>
     </tu>
     <tu>
