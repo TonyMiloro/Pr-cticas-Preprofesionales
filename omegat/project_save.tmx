@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3115,8 +3115,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As this argument suggests, He &lt;t0/&gt;Xin&lt;t1/&gt; expressed repeated concern about cultural imperialism, which he regarded as the essence of “peaceful evolution” and which, as we will see, would become a major concern of many intellectuals in the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232351Z" creationid="Melanie" creationdate="20160919T232351Z">
-        <seg>Tal como sugiere este argumento, He Xin demostraba reiterada preocupación por el imperialismo cultural al que llamaba la esencia de la "evolución pacífica" y el que, como veremos, llegaría a ser una preocupación fundamental de numerosos intelectuales de los años 90.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T235846Z" creationid="Melanie" creationdate="20160919T232351Z">
+        <seg>Tal como sugiere este argumento, He Xin demostraba reiterada preocupación por el imperialismo cultural al que llamaba la esencia de la "evolución pacífica" y el que, como veremos, llegaría a ser una preocupación fundamental para numerosos intelectuales en los años 90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8481,8 +8481,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It was on that basis that He argued for a return to Chinese values and an emphasis on nationalism and restoration of political authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T054534Z" creationid="Usuario" creationdate="20160917T054534Z">
-        <seg>Sobre esa base fue que He instó a regresar a los valores chinos, a un énfasis en el nacionalismo y a la restauración de la autoridad política.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T235728Z" creationid="Usuario" creationdate="20160917T054534Z">
+        <seg>Sobre esa base fue que He instó a regresar a los valores chinos y a un énfasis en el nacionalismo y en la restauración de la autoridad política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14352,8 +14352,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This was a very bad development for China.”  Tiananmen, He argued, was the result of such trends.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232338Z" creationid="Melanie" creationdate="20160919T232338Z">
-        <seg>Esto era un desarrollo negativo para China", expresó He. Argumentaba que Tiananmen era el resultado de esas tendencias.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T235605Z" creationid="Melanie" creationdate="20160919T232338Z">
+        <seg>Esto era un desarrollo negativo para China". Argumentaba que Tiananmen era el resultado de esas tendencias.</seg>
       </tuv>
     </tu>
     <tu>
