@@ -2954,8 +2954,8 @@
       <tuv lang="EN-US">
         <seg>As soon as the traditional ideology of Mao Zedong’s idealism begins to be broken, then the government’s defense line must retreat step by step.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T150715Z" creationid="Usuario-Pc" creationdate="20160919T150223Z">
-        <seg>Una vez que la ideologia tradicional del idealismo de Mao Zedong comience a desintegrarse, la linea de defensa del gobierno deberá </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T150912Z" creationid="Usuario-Pc" creationdate="20160919T150223Z">
+        <seg>Una vez que la ideologia tradicional del idealismo de Mao Zedong comience a desintegrarse, la linea de defensa del gobierno deberá retirarse paso a paso. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8814,6 +8814,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160908T201119Z">
         <seg>Los cuadros de dirigentes locales tomaron por la fuerza a varios líderes, los ataron y colgaron carteles en sus cuellos para doblegar a los "voceros de los reclamos y opositores de la opresión". Luego, realizaron &lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;una reunión para juzgarlos y denunciarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local governments continuously extend their hands asking for new “policies” and the central government has no choice but to compromise in the face of solving new problems.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T151046Z" creationid="Usuario-Pc" creationdate="20160919T151046Z">
+        <seg>los gobiernos locales .</seg>
       </tuv>
     </tu>
     <tu>
