@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6436,6 +6436,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hu Angang raised this issue in an internal report in early 1994.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160919T224209Z" creationid="Magui" creationdate="20160919T224209Z">
+        <seg>Hu Angang planteó este tema en un informe interno a principios de 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hu Jintao and Wen Jiabao appear aware of this potential, hence their reaffirmation of reform at theMarch 2006 meeting of the NPC.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="XP" changedate="20160915T161809Z" creationid="XP" creationdate="20160913T222149Z">
@@ -12753,6 +12761,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T001154Z" creationid="Lorena Baretto" creationdate="20160916T012514Z">
         <seg>La naturaleza y las consecuencias de sus errores son muy serias".23 El caso público por esta sentencia fue realizado por el alcalde de Pekín Chen Xitong, quien presentó un amplio y detallado informe al Comité Permanente del Congreso Nacional Popular (NPC) el 30 de junio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The need to strengthen the state, implement a universal and centralized tax system, and establish the principle of “fair competition” among the various regions of China led them to argue that the most privileged of all enclaves – the Special Economic Zones – should be abolished.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160919T224053Z" creationid="Magui" creationdate="20160919T224053Z">
+        <seg>La necesidad de fortalecer el estado, implementar un sisteme tributario centralizado y universal  y establecer el principio de "competencia leal" entre las diversas regiones de China los llevó a argumentar que el enclave más privilegiado de todos, las Zonas Económicas Especiales, debería abolirse.</seg>
       </tuv>
     </tu>
     <tu>
