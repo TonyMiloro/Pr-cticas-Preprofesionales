@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12202,8 +12202,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;t5/&gt;ﬁlm&lt;t6/&gt; River Elegy epitomized the tendency in the 1980s for cultural criticism to lead to an all-round criticism of politics and social reality and then to “complete Westernization.” This led to a “new dogmatism” of worshipping Western values.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232217Z" creationid="Melanie" creationdate="20160919T232217Z">
-        <seg>El documental La elegía del río encarnó la tendencia de los años ochenta a fin de que la crítica cultural guiara el paso hacia una crítica completa de la política y la realidad social y luego "completara la occidentalización". Esto llevó a un "dogmatismo nuevo" que veneraba los valores occidentales.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T235514Z" creationid="Melanie" creationdate="20160919T232217Z">
+        <seg>El documental River Elegy (La elegía del río) representó la tendencia de los años ochenta a que la crítica cultural guiara el paso hacia una crítica general de la política y la realidad social y luego a una "occidentalización absoluta". Esto llevó a un "dogmatismo nuevo" que veneraba los valores occidentales.</seg>
       </tuv>
     </tu>
     <tu>
