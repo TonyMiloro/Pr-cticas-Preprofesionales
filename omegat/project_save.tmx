@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13618,6 +13618,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020939Z">
         <seg>Treinta y cinco líderes superiores en la reunión escribieron una carta dura a Deng en la que exigían que se continuara propagando la ideología comunista y que el partido se opusiera con firmeza a la evolución pacífica.&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;No fue sino hasta el 1 de marzo que los comentarios de Deng se difundieron en forma oficial en el seno del Partido a través del Documento Central No. 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This argument was then picked up by the press, with the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Economic Daily&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;writing a series of articles from July 2 to July 6 under the title, “How Will the Special Zones Continue to Be Special?” In August, Hu expanded on the views he had previously expressed internally by writing in the Hong Kong paper&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Ming pao&lt;/f6&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160919T224534Z" creationid="Magui" creationdate="20160919T224534Z">
+        <seg>Luego, la prensa tomó este argumento y, del 2 al 6 de julio, el diario&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Economic Daily&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;escribió una serie de artículos titulados: “How Will the Special Zones Continue to Be Special?” In August, Hu expanded on the views he had previously expressed internally by writing in the Hong Kong paper&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Ming pao&lt;/f6&gt;&lt;f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
