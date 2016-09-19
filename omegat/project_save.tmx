@@ -6051,6 +6051,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He declares that “[a] society without faith is in danger”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt; and argues that the Dengist reforms have progressively eroded Maoist ideology until there is nothing left to inspire people and unify the nation:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T144712Z" creationid="Usuario-Pc" creationdate="20160919T144712Z">
+        <seg>”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt; and argues that the Dengist reforms have progressively eroded Maoist ideology until there is nothing left to inspire people and unify the nation:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He entered Shanghai’s East Normal University during the Cultural Revolution as a “worker-peasant-soldier student” in i974.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T131443Z">
@@ -6381,8 +6389,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Ideology is important for Wang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T141931Z" creationid="Usuario-Pc" creationdate="20160919T141931Z">
-        <seg>La idiología es importante para Wang.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T144738Z" creationid="Usuario-Pc" creationdate="20160919T141931Z">
+        <seg>La idiología es importante para Wang,</seg>
       </tuv>
     </tu>
     <tu>
@@ -14088,8 +14096,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>Unless something is done to reverse the erosion of state authority, the author maintains, China will find itself beset by political and social turmoil.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T144452Z" creationid="Usuario-Pc" creationdate="20160916T150551Z">
-        <seg>A menos que se actúe para revertir la disminución de la autoridad del estado, sostiene el autor, China se encontrará  .</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T144623Z" creationid="Usuario-Pc" creationdate="20160916T150551Z">
+        <seg>A menos que se actúe para revertir la disminución de la autoridad del estado, sostiene el autor, China se encontrará en medio de una gran agitación politica y social.</seg>
       </tuv>
     </tu>
     <tu>
