@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14820,6 +14820,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160909T135954Z">
         <seg>Cuando en una entrevista se le insinuó a Wang que sus novelas daban la impresión de que él era una especie de vándalo de las clases bajas y que odiaba a las clases altas, Wang respondió que la sociedad China siempre ha estado dividida en clase alta (shangliu) y clase baja (xialiu); </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When entrance exams were restored in 1978, Chen tested into the economic man- agement department of the graduate school at CASS, where he studied under the guidance of senior economists Ma Hong and Yu Guangyuan (interestingly, Zhu Rongji was in the same institute at that time).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160919T184134Z" creationid="Franco" creationdate="20160919T184134Z">
+        <seg>Cuando se restablecieron los exámenes de ingreso en 1987, Chen realizó el examen para ingresar al departamento de gestión económica de la escuela de postgrado en la CASS. Allí estudió bajo la guía de los experimentados economistas Ma Hong y Yu Guangyuan (resulta un dato curioso que Zhu Rongji se encontraba en la misma institución en ese momento).</seg>
       </tuv>
     </tu>
     <tu>
