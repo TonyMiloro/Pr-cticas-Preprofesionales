@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12905,6 +12905,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T022031Z">
         <seg>El resultado fue un documento complejo en el que puede verse claramente en cada párrafo el proceso de evaluación que llevó a cabo el Comité para su redacción.&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The revisions to the Party constitution were the most extensive in the reform era and incorporated Hu's scientific development concept, calling it "a major strategic thought that must be upheld and applied in developing socialism with Chinese characteristics." Given how long it took to incorporate Deng Xiaoping's "theory' into the constitution and Jiang Zemin's "Three Represents," this rapid enshrinement of Hu Jintao's scientific development concept and demand to build a harmonious society marks a major achievement and suggests that Hu will be able to put an even greater stamp on the Chinese political system over the next five years.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T195054Z" creationid="cintia soler" creationdate="20160919T195054Z">
+        <seg>Las revisiones a la contitución del partido fueron las mas extensas en la era de la reforma e incorporaron el concepto de desarrollo científico de Hu, refiriéndose a este como "un gran pensamiento estratégico que debe ser sostenido y aplicado en el desarrollo del socialismo con características chinas". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping en la constitución y la "Triple Representatividad" de Jiang Zemin, este rápido reconocimiento del concepto de desarrollo científico de Hu Jintao y la exigencia de construir una sociedad en armonía marca un gran logro e implica que Hu será capaz  </seg>
       </tuv>
     </tu>
     <tu>
