@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15052,6 +15052,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Luisina" changedate="20160918T161030Z" creationid="Luisina" creationdate="20160918T161030Z">
         <seg>Cuando el golpe de estado colapsó luego de tan solo tres días, los líderes chinos estaban desanimados. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the results of the Congress and Plenary Session were announced, it was apparent that Hu had made important gains even while making impor- tant compromises (see Tables 5 and 6). Perhaps the single most important gain was to enforce the retirement age of 68. It will be recalled that at the Fifteenth Party Congress in 1997, Jiang Zemin had been able to force Qiao Shi's retirement by imposing a retirement age of 70 (only to have Bo Yibo say that the 71-year-old Jiang should be exempted from this rule) (see Chapter 7). Five years later, Jiang lowered the retirement age to 68, which necessitated Li Ruihuan's stepping down. Until the CCP is willing to commit itself on paper to a rule governing retirement at the highest level, it has to be assumed that the retirement age adopted at any given Party Congress is subject to negotiation. In the case of the Seventeenth Party Congress, enforcing a retirement age of 68 was important because Zeng Qinghong was 68. Despite reports that Zeng and Hu were working effec- tively together, Zeng remained a formidable political actor, one who could effectively constrain Hu's power and plans. But enforcing the retirement age of 68 also had its costs. It meant that Jia Qinglin, 67, and Li Changchun, 63, would remain on the &lt;t0/&gt;Politburo Standing Committee (PBSC), taking up positions that might otherwise have been used for allies of Hu. In addi- tion, Jia's continuance on the PBSC is awkward at best because Hu has been campaigning vigorously against corruption whereas many Chinese remember Jia's apparent involvement in the Yuan Hua scandal of 1999.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T223252Z" creationid="Bangho" creationdate="20160919T223252Z">
+        <seg>When the results of the Congress and Plenary Session were announced, it was apparent that Hu had made important gains even while making impor- tant compromises (see Tables 5 and 6). Perhaps the single most important gain was to enforce the retirement age of 68. It will be recalled that at the Fifteenth Party Congress in 1997, Jiang Zemin had been able to force Qiao Shi's retirement by imposing a retirement age of 70 (only to have Bo Yibo say that the 71-year-old Jiang should be exempted from this rule) (see Chapter 7). Five years later, Jiang lowered the retirement age to 68, which necessitated Li Ruihuan's stepping down. Until the CCP is willing to commit itself on paper to a rule governing retirement at the highest level, it has to be assumed that the retirement age adopted at any given Party Congress is subject to negotiation. En el caso del Décimoséptimo Congreso del Partido. In the case of the Seventeenth Party Congress, enforcing a retirement age of 68 was important because Zeng Qinghong was 68. Despite reports that Zeng and Hu were working effec- tively together, Zeng remained a formidable political actor, one who could effectively constrain Hu's power and plans. But enforcing the retirement age of 68 also had its costs. It meant that Jia Qinglin, 67, and Li Changchun, 63, would remain on the &lt;t0/&gt;Politburo Standing Committee (PBSC), taking up positions that might otherwise have been used for allies of Hu. In addi- tion, Jia's continuance on the PBSC is awkward at best because Hu has been campaigning vigorously against corruption whereas many Chinese remember Jia's apparent involvement in the Yuan Hua scandal of 1999.</seg>
       </tuv>
     </tu>
     <tu>
