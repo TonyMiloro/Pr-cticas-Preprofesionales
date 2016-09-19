@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5462,6 +5462,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160910T174303Z">
         <seg>Por ejemplo, Yu Haocheng, jurista y editor en jefe de la editorial Masses Publishing House (Qunzhong chubanshe), sostenía que los neoautoritarios básicamente malinterpretaron los hechos, es decir, las condiciones en los “los cuatro tigres asiáticos” (Corea del Sur, Taiwán, Singapur, Hong Kong), en los que se formó gran parte del pensamiento neoautoritario, eran básicamente diferentes de las condiciones en China .10 En los cuatro tigres asiáticos, la economía estaba liberada y tan entrelazada con la economía internacional que sus gobiernos realmente podían tener solo un impacto “minúsculo” a lo hora de condicionar sus economías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, Yuan Mu, hardline spokesman for the State Council and prot´eg´e of Premier Li Peng, stated that Zhao’s case would be handled “in accordance with the criterion based on law,” suggesting the possibility of legal prosecution.30[13] Some Party elders were even blunter.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160919T114510Z" creationid="Carmen" creationdate="20160919T114510Z">
+        <seg>Por ejemplo, Yuan Mu</seg>
       </tuv>
     </tu>
     <tu>
