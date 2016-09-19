@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2104,6 +2104,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A similar sort of criticism came from Wang &lt;t2/&gt;Xiaodong&lt;t3/&gt;, a young intellectual &lt;t4/&gt;afﬁliated&lt;t5/&gt; with the Communist Youth League, who would emerge in the 1990s as one of the main voices of popular nationalism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232743Z" creationid="Melanie" creationdate="20160919T232743Z">
+        <seg>Una crítica similar llegó de Wang Xiaodong, un joven intelectual afiliado a la Liga de la Juventud Comunista de China, quien llegaría a ser en los años 90 una de las voces más importantes del nacionalismo popular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A similar sort of criticism came from Wang Xiaodong, a young intellectual af&lt;t0/&gt;ﬁ&lt;t1/&gt;liated with the Communist Youth League, who would emerge in the 1990s as one of the main voices of popular nationalism.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160919T103524Z" creationid="Usuario" creationdate="20160919T103524Z">
@@ -2469,6 +2477,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160919T060557Z" creationid="Usuario" creationdate="20160919T055616Z">
         <seg>Aunque La elegia del río estaba respaldado con estusiasmo por intelectuales reformistas y la entonces Secretaria General, Zhao Ziyang (quien irónicamente le entregó una copia de la serie a Lee Kuan Yew, un alto ministro de Singapur y defensor declarado de los valores chinos que estaba de visita), el programa recibió numerosas críticas de distintos sectores del espectro ideológico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although it was enthusiastically supported by reform-minded intellectuals and by then-General Secretary Zhao &lt;t0/&gt;Ziyang&lt;t1/&gt; (who ironically presented a copy of the series to visiting Singapore senior minister Lee &lt;t2/&gt;Kuan&lt;t3/&gt; Yew, an outspoken champion of traditional Chinese values), River Elegy aroused a storm of criticism from different points along the ideological spectrum.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232703Z" creationid="Melanie" creationdate="20160919T232703Z">
+        <seg>Aunque La elegia del río estaba respaldado con estusiasmo por intelectuales reformistas y la entonces Secretaria General, Zhao Ziyang (quien irónicamente le entregó una copia de la serie a Lee Kuan Yew, un alto ministro de Singapur y defensor declarado de los valores chinos que estaba de visita), el programa recibió numerosas críticas de distintos sectores del espectro ideológico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4521,6 +4537,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conservative critics of the &lt;t4/&gt;ﬁlm&lt;t5/&gt; blasted it as a prime example of “national nihilism” and bourgeois liberalization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232710Z" creationid="Melanie" creationdate="20160919T232710Z">
+        <seg>La crítica conservadora trató duramente al filme como un ejemplo principal de "nihilismo nacional" y liberalización burguesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conservative strategy in the three years following that incident was apparently to hamstring Deng’s ability to exercise authority but not to challenge directly his “core” position.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160909T012401Z">
@@ -6372,6 +6396,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He returned to &lt;t6/&gt;ﬁnd&lt;t7/&gt; the “cultural fever” of the 1980s in full bloom, and found himself deeply opposed to the cultural cosmopolitanism it expressed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232812Z" creationid="Melanie" creationdate="20160919T232812Z">
+        <seg>Al regresar se encontró con la "fiebre cultural" de los 80 floreciente y se dio cuenta de que estaba profundamente en contra del cosmopolitanismo que expresaba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He was appointed Minister of the Electronics Industry in June 1983.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011321Z">
@@ -7280,6 +7312,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Lu" changedate="20160909T015914Z">
         <seg>De cierta forma, lo sucedido luego de Tiananmén se asemeja a lo ocurrido en 1987 cuándo, cómo consecuencia de las manifestaciones estudiantiles, Deng y los mayores del partido habían descartado bruscamente al secretario general Hu Yaobang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In contrast to Wang Zhen’s emphasis on “national nihilism,” He &lt;t0/&gt;Xin’s&lt;t1/&gt; criticism focused on what he regarded as the misplaced romanticism of the intellectual elite’s cultural project.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232734Z" creationid="Melanie" creationdate="20160919T232734Z">
+        <seg>Contrario al énfaiss en "nihilismo nacional" de Whang Zhen, la crítica de He Xin se centraba en lo que consideraba el romanticismo mal ubicado del proyecto cultural de la elite intelectual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9647,6 +9687,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160919T101338Z" creationid="Usuario" creationdate="20160919T101338Z">
         <seg>En este aspecto, uno de los más vociferantes fue Wang Zhen, un inmortal del Partido, que lo acusó de "negar por completo" la tradición china y de adoptar una visión eurocéntrica de la historia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most vociferous in this regard was Party elder Wang Zhen, who accused it of “completely negating” the Chinese tradition and adopting a “Euro-centric” view of history.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232720Z" creationid="Melanie" creationdate="20160919T232720Z">
+        <seg>En este aspecto, uno de los más vociferantes fue Wang Zhen, un inmortal del Partido, que lo acusó de "negar por completo" la tradición china y de adoptar una visión eurocéntrica de la historia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13710,6 +13758,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These people, Wang believed, &lt;t0/&gt;identiﬁed&lt;t1/&gt; themselves with the West and denigrated the Chinese people on the basis of Western standards – what he would later dub a “reverse racism.”  As he put it, the authors “ridiculed the Chinese peasants’ dull-witted love of the yellow soil and praised highly the courage and insight of Westerners in throwing themselves into myriad &lt;t2/&gt;difﬁculties&lt;t3/&gt;.”  In a later article, Wang argued that, in the 1980s (and even in the 1990s), “Chinese intellectuals were swept up by the thinking that the Chinese culture was an inferior culture and the Chinese people an inferior race” – a trend of thinking that, in his opinion, the government had actually encouraged.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232834Z" creationid="Melanie" creationdate="20160919T232834Z">
+        <seg>Según él creía, estas personas se identificaban con occidente y denigraban al pueblo chino sobre la base de estándares occidentales, algo que él luego catalogaría como "racismo inverso". Como lo describía, los autores "ridiculizaban el amor torpe por la tierra amarilla que sentían los campesinos chinos y veneraban profundamente el valor y la perspicacia de los occidentales al exponerse a dificultades innumerables". En un artículo posterior, Wang manifestó que en lso años 80 (e incluso en los 90) "los intelectuales chinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These state- ments, however, did not quell discussion.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T222646Z" creationid="cintia soler" creationdate="20160919T220817Z">
@@ -15072,6 +15128,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang was neither part of the Old Left nor a cultural conservative, yet he was as harshly critical as others in his condemnation of River Elegy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232821Z" creationid="Melanie" creationdate="20160919T232821Z">
+        <seg>Wang was neither part of the Old Left nor a cultural conservative, yet he was as harshly critical as others in his Él no era ni parte de la Vieja Izquierda ni un conservador cultural, aunque al igual que otros, condenó con dureza La elegia del río.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang was not an intellectual, at least not in the sense of belonging to those in government, think-tanks, and universities who thought and wrote for each other.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160908T130553Z">
@@ -15099,6 +15163,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
         <seg>Wang’s criticism represented the ideological views of the &lt;t8/&gt;Old Left&lt;t9/&gt;, but people quite unsympathetic to the sort of &lt;t10/&gt;leftism &lt;t11/&gt;Wang Zhen represented also had serious reservations about the &lt;t12/&gt;ﬁ&lt;t13/&gt;lm.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160919T101725Z" creationid="Usuario" creationdate="20160919T101716Z">
+        <seg>La crítica de Wang representaba la visión ideológica de la Vieja Izquierda, aunque algunos que no compartían en absoluto el tipo de izquierdismo al que Wang representaba también realizaron duras críticas sobre el filme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang’s criticism represented the ideological views of the Old Left, but people quite unsympathetic to the sort of leftism Wang Zhen represented also had serious reservations about the &lt;t6/&gt;ﬁlm&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232727Z" creationid="Melanie" creationdate="20160919T232727Z">
         <seg>La crítica de Wang representaba la visión ideológica de la Vieja Izquierda, aunque algunos que no compartían en absoluto el tipo de izquierdismo al que Wang representaba también realizaron duras críticas sobre el filme.</seg>
       </tuv>
     </tu>
@@ -15428,6 +15500,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T000606Z">
         <seg>Mientras estas normas partidarias internas estaban en proceso de desarrollo, la sociedad, enconomía y cultura china se volvieron mucho más complejas y se integraron aún más al mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why did China fail to maintain its cultural and political domination over the world?”  As Jing Wang remarked, “[t]he modern elite are, after all, dreaming the same dream as their forebears of the dynastic past: wealth, power, and hegemony.”  River Elegy, like other efforts to renovate China’s culture, was clearly rooted in a nationalistic response to China’s problems but this nationalism sought to modernize China by remaking it in the image of the outside world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232653Z" creationid="Melanie" creationdate="20160919T232653Z">
+        <seg>"¿Por qué no logró China conservar el dominio cultural y político que tuvo en el mundo?".  Tal como recalcó Jing Wang: "la elite moderna, después de todo, está soñando el mismo sueño de sus ancestros del pasado dinástico: riqueza, poder y hegemonía". La elegia del río, al igual que otros esfuerzos realizados para renovar la cultura china, claramente estaba arraigado en una respuesta nacionalista a los problemas del país, aunque este nacionalismo buscaba modernizar la nación a la imagen del mundo exterior.</seg>
       </tuv>
     </tu>
     <tu>
