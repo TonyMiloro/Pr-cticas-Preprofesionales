@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12420,8 +12420,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The roles of Hu Angang and Wang Shaoguang are illustrative in this regard.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T050107Z" creationid="Lucia Cipolatti" creationdate="20160919T050056Z">
-        <seg>Las funciones de Hu Angang y Wang Shaoguang son ilustrativas en este sentido.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T051448Z" creationid="Lucia Cipolatti" creationdate="20160919T050056Z">
+        <seg>Las funciones de Hu Angang y Wang Shaoguang son ilustrativas en este sentido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14416,6 +14416,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160909T182026Z">
         <seg>Ya sea debido a la transición de liderazgo que estaba por ocurrir&lt;t7/&gt; &lt;t8/&gt;en&lt;t9/&gt;la&lt;t10/&gt;APN&lt;t11/&gt; o&lt;t12/&gt;el&lt;t13/&gt; &lt;t14/&gt;impulso&lt;t15/&gt; &lt;t16/&gt;habitual&lt;t17/&gt; &lt;t18/&gt;del&lt;t19/&gt; &lt;t20/&gt;PCCh&lt;t21/&gt; &lt;t22/&gt;de&lt;t23/&gt;no&lt;t24/&gt;comunicar&lt;t25/&gt;los &lt;t26/&gt;problemas&lt;t27/&gt; &lt;t28/&gt;abiertamente&lt;t29/&gt;, &lt;t30/&gt;el&lt;t31/&gt; &lt;t32/&gt;gobierno&lt;t33/&gt;decidió&lt;t34/&gt;no informar con honestidad sobre el avance del sras.&lt;t35/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether because of the semireformed nature of the system or the specific interests of the people involved, these reforms often contributed to the corruption, abuse of power, and income inequality that made so many intellectuals skeptical of capitalist solutions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T051517Z" creationid="Lucia Cipolatti" creationdate="20160919T051517Z">
+        <seg>Ya sea por la naturaleza semireformada</seg>
       </tuv>
     </tu>
     <tu>
