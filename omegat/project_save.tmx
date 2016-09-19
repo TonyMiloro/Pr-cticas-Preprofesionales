@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13702,8 +13702,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>To the extent that there was a common interest in problem solving, intellectuals could, by the mid-1990s, take up roles as advisers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T045741Z" creationid="Lucia Cipolatti" creationdate="20160919T045518Z">
-        <seg>En la medida en que existiese un interés común en la resolución de problemas, a mediados de los 90, los intelectuales pudian asumir funciones de consejeros.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T045934Z" creationid="Lucia Cipolatti" creationdate="20160919T045518Z">
+        <seg>En la medida en que existiese un interés común en la resolución de problemas, a mediados de los 90, los intelectuales podían asumir funciones de consejeros.</seg>
       </tuv>
     </tu>
     <tu>
