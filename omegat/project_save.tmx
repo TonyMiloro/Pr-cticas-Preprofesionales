@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14486,8 +14486,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>Why did China fail to maintain its cultural and political domination over the world?” As Jing Wang remarked, “[t]he modern elite are, after all, dreaming the same dream as their forebears of the dynastic past: wealth, power, and hegemony.” River Elegy, like other efforts to renovate China’s culture, was clearly rooted in a nationalistic response to China’s problems but this nationalism sought to modernize China by remaking it in the image of the outside world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T054141Z" creationid="Usuario" creationdate="20160919T054141Z">
-        <seg>"¿Por qué no logró China conservar el dominio cultural y político que tuvo en el mundo?". Why did China fail to maintain its cultural and political domination over the world?” As Jing Wang remarked, “[t]he modern elite are, after all, dreaming the same dream as their forebears of the dynastic past: wealth, power, and hegemony.” River Elegy, like other efforts to renovate China’s culture, was clearly rooted in a nationalistic response to China’s problems but this nationalism sought to modernize China by remaking it in the image of the outside world.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T054619Z" creationid="Usuario" creationdate="20160919T054141Z">
+        <seg>"¿Por qué no logró China conservar el dominio cultural y político que tuvo en el mundo?".  Tal como recalcó Jing Wang: "la elite moderna, después de todo, está soñando el mimso sueño de sus precesores del pasado dinástico: riqueza, poder y hegemonía". La elegia del río, al igual que otros esfuerzos realizados para renovar ChinaWhy did China fail to maintain its cultural and political domination over the world?” As Jing Wang remarked, “[t]he modern elite are, after all, dreaming the same dream as their forebears of the dynastic past: wealth, power, and hegemony.” River Elegy, like other efforts to renovate China’s culture, was clearly rooted in a nationalistic response to China’s problems but this nationalism sought to modernize China by remaking it in the image of the outside world.</seg>
       </tuv>
     </tu>
     <tu>
