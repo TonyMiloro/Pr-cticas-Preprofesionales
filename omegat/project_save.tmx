@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10509,8 +10509,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, although the government shared and encouraged the nationalism of many intellectuals, it did not share the populism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T060804Z" creationid="Lucia Cipolatti" creationdate="20160919T060804Z">
-        <seg>En segundo lugar, aunque el gobierno estaba de acuerdo y </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T061156Z" creationid="Lucia Cipolatti" creationdate="20160919T060804Z">
+        <seg>En segundo lugar, aunque el gobierno compartía y fomentabay </seg>
       </tuv>
     </tu>
     <tu>
