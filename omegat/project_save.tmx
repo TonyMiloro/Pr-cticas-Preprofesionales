@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3985,6 +3985,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CPPCC</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T232752Z" creationid="Bangho" creationdate="20160919T232752Z">
+        <seg>CCPPC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cadres who did not fulfill their revenue collection assignments were not paid their wages, and cadre performance evaluations were based largely on their ability to collect taxes and fees.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160916T235627Z" creationid="Monzon" creationdate="20160916T235343Z">
@@ -4389,6 +4397,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T010210Z">
         <seg>La marina de los EE. UU. detiene al buque chino "Yin He"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chr., CPPCC</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T232728Z" creationid="Bangho" creationdate="20160919T232728Z">
+        <seg>Presidente, CCPPC</seg>
       </tuv>
     </tu>
     <tu>
