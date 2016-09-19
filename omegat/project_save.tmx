@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14422,8 +14422,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>Whether because of the semireformed nature of the system or the specific interests of the people involved, these reforms often contributed to the corruption, abuse of power, and income inequality that made so many intellectuals skeptical of capitalist solutions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T051756Z" creationid="Lucia Cipolatti" creationdate="20160919T051517Z">
-        <seg>Ya sea por la naturaleza casi reformada del sistema o por los intereces particulares de las personas invoucradas, estas reformas a menudo contribuyeron con la corrupción, el abuso de poder y la divergencia de ingreso que hizo que muchos intelectuales se volvieran </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T051841Z" creationid="Lucia Cipolatti" creationdate="20160919T051517Z">
+        <seg>Ya sea por la naturaleza casi reformada del sistema o por los intereces particulares de las personas invoucradas, estas reformas a menudo contribuyeron con la corrupción, el abuso de poder y la desigualdad de ingreso que hizo que muchos intelectuales se volvieran </seg>
       </tuv>
     </tu>
     <tu>
