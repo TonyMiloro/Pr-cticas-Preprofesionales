@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5487,6 +5487,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160910T210510Z" creationid="User" creationdate="20160910T210510Z">
         <seg>El primero era que, en los&lt;t20/&gt; &lt;t21/&gt;principios de la crisis financiera de Asia, las exportaciones en china estaban sufriendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, it reaffirmed "reform and opening up." This reaffirmation may not seem strange until one recalls the very heated debates about reform pol- icy discussed in Chapter 8.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T215049Z" creationid="cintia soler" creationdate="20160919T214929Z">
+        <seg>Primero, reafirmó "la reforma y la apertura". Esta ratificación no deberia sonar como algo extraño hasta que uno evoca los intensos debates sobre las politicas de reforma discutidas en el capítulo 8.</seg>
       </tuv>
     </tu>
     <tu>
