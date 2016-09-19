@@ -1679,6 +1679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Wang’s desire for elite rule is rooted in his passion for stability.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T180242Z" creationid="Usuario-Pc" creationdate="20160919T180242Z">
+        <seg>&lt;f0&gt;El deseo de gobierno de elite .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;What attracted even greater attention, though it carried less weight, was a vigorous defense (the likes of which had not been seen in over two years) of learning from &lt;/f0&gt;&lt;f1&gt;capitalism&lt;/f1&gt;&lt;f2&gt; by Fang Sheng, an economist at Chinese People’s University.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020200Z">
@@ -7006,8 +7014,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In an interview, writer Liu Zhifeng says, “[y]ou hint that China needs a god like Mao Zedong, a great idol”; Wang replies, “[y]es, but I can’t easily say this.” Liu continues: “My understanding is that you are saying that China needs a period of rule by man, of elite rule, and cannot very quickly institute rule by law.” Wang’s response: “Yes, elite rule.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T174948Z" creationid="Usuario-Pc" creationdate="20160919T173300Z">
-        <seg>El escritor Lui Zhifengm, durante una entrevista, expresa: "uno puede darse cuenta de que China necesita un dios como Mao Zedong, un gran ídolo"; y Wang responde,  "si, pero no me es facil decirlo". y continúa: .</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T180038Z" creationid="Usuario-Pc" creationdate="20160919T173300Z">
+        <seg>El escritor Lui Zhifengm, durante una entrevista, expresa: "te das cuenta de que China necesita un dios como Mao Zedong, un gran ídolo"; a lo que Wang responde:  "si, pero no me es facil decirlo". Entonces Lui continúa: "Lo que entiendo es que estas expresando que China necesita un período de gobierno de los hombres, de gobierno de la elite, y que no se puede instaurar el gobierno a través la ley". La respuesta de Wang es: "Si, gobierno de la elite. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10737,6 +10745,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160908T224841Z">
         <seg>Al menos retóricamente, el estatus de Deng se volvió comparable a, o incluso más alto que, el de Mao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rule by law is unreliable.”&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T180214Z" creationid="Usuario-Pc" creationdate="20160919T180214Z">
+        <seg>El gobierno a traves de la ley no es confiable”.&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
