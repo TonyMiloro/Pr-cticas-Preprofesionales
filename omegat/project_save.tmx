@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3957,6 +3957,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T213920Z">
         <seg>Crítica al proyecto de la ilustración del cuatro de mayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CDIC</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T233441Z" creationid="Bangho" creationdate="20160919T233441Z">
+        <seg>Comisión Central de Inspección de Disciplina</seg>
       </tuv>
     </tu>
     <tu>
@@ -10780,6 +10788,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pol.-Legal Affairs</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T233646Z" creationid="Bangho" creationdate="20160919T233646Z">
+        <seg>Asuntos Pol. y Jurídicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Politburo</seg>
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160908T224407Z">
@@ -14924,6 +14940,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T001507Z" creationid="Lorena Baretto" creationdate="20160916T010254Z">
         <seg>El planificador económico veterano Song Ping y el alcalde de Tianjin se incorporaron al Buró Permanente del Comité Central junto con JiangZemin, mientras que LiRuihuan y DingGuan’gen (compañero de ¿) se incorporaron al secretariado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vice premier</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T233458Z" creationid="Bangho" creationdate="20160919T233458Z">
+        <seg>Viceprimer Ministro</seg>
       </tuv>
     </tu>
     <tu>
