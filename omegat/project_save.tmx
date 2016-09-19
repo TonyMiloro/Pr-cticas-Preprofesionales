@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>.?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T053852Z" creationid="Usuario" creationdate="20160919T053852Z">
-        <seg>?".</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T054150Z" creationid="Usuario" creationdate="20160919T053852Z">
+        <seg>?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14480,6 +14480,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T000606Z">
         <seg>Mientras estas normas partidarias internas estaban en proceso de desarrollo, la sociedad, enconomía y cultura china se volvieron mucho más complejas y se integraron aún más al mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why did China fail to maintain its cultural and political domination over the world?” As Jing Wang remarked, “[t]he modern elite are, after all, dreaming the same dream as their forebears of the dynastic past: wealth, power, and hegemony.” River Elegy, like other efforts to renovate China’s culture, was clearly rooted in a nationalistic response to China’s problems but this nationalism sought to modernize China by remaking it in the image of the outside world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T054141Z" creationid="Usuario" creationdate="20160919T054141Z">
+        <seg>"¿Por qué no logró China conservar el dominio cultural y político que tuvo en el mundo?". Why did China fail to maintain its cultural and political domination over the world?” As Jing Wang remarked, “[t]he modern elite are, after all, dreaming the same dream as their forebears of the dynastic past: wealth, power, and hegemony.” River Elegy, like other efforts to renovate China’s culture, was clearly rooted in a nationalistic response to China’s problems but this nationalism sought to modernize China by remaking it in the image of the outside world.</seg>
       </tuv>
     </tu>
     <tu>
