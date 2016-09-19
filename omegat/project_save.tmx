@@ -503,14 +503,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>55</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022312Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>56</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022326Z">
@@ -6365,8 +6357,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022524Z">
-        <seg></seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T142133Z">
+        <seg>ibid.,</seg>
       </tuv>
     </tu>
     <tu>
@@ -14096,8 +14088,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>Unless something is done to reverse the erosion of state authority, the author maintains, China will find itself beset by political and social turmoil.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T142048Z" creationid="Usuario-Pc" creationdate="20160916T150551Z">
-        <seg>A menos que s.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T142414Z" creationid="Usuario-Pc" creationdate="20160916T150551Z">
+        <seg>A menos que se actúe para .</seg>
       </tuv>
     </tu>
     <tu>
