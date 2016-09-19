@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13422,8 +13422,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>This was, after all, a government that believed it had to forge ahead with economic reform without questioning the official judgment on Tiananmen, a government that needed to deal with many of the social, economic, and political problems that had given rise to the more conservative intellectual atmosphere in the first place: growing regional inequality, income polarization, central–provincial relations, corruption, internal migration, crime, tense Sino–US relations, and so on.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T044007Z" creationid="Lucia Cipolatti" creationdate="20160919T043858Z">
-        <seg>Este fue, después de todo, un gobierno que creyó que tenia que avanzar  </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T044112Z" creationid="Lucia Cipolatti" creationdate="20160919T043858Z">
+        <seg>Este fue, después de todo, un gobierno que creyó que tenia que adelantarse con la reforma económica sin cuestionar el   </seg>
       </tuv>
     </tu>
     <tu>
