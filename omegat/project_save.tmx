@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11385,6 +11385,14 @@ criminal prosecution.</seg>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T215055Z">
         <seg>Es por eso que no tienen dinero para financiar a los campesinos”. Por lo tanto, la especulación en la costa del mercado inmobiliario exacerbó las tensiones en el campo.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t2/&gt;ﬁ&lt;t3/&gt;lm captured the con&lt;t4/&gt;ﬁ&lt;t5/&gt;dence and optimism of many at the time that reform could be accomplished relatively quickly and easily if only the country would rally behind an enlightened leader, turn its back &lt;t6/&gt;ﬁ&lt;t7/&gt;rmly on its “feudal” past, and embrace the outside world wholeheartedly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T052432Z" creationid="Usuario" creationdate="20160919T052127Z">
+        <seg>El filme captaba la confianza y el optimismo que muchos tenían en ese momento de que la reformación podía lograrse relativamente rápido y fácil sólo si el país era guiado por un líder iluminado, si le daba la espalda a su pasado "feudal" y si abrazaba el mundo exterior de verdad.</seg>
       </tuv>
     </tu>
     <tu>
