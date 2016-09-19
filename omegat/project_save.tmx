@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6334,8 +6334,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He also urged supporting Germany in any disputes with the United States (suggesting that China should urge Germany to withdraw from NATO) and supporting Southeast Asia, lest America return to that region of the world and threaten China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232056Z" creationid="Melanie" creationdate="20160919T232056Z">
-        <seg>También instó a respaldar a Alemania en toda disputa con Estados Unidos (insinuando que Alemania debía retirarse de la OTAN) y al Sudeste Asiático por temor a que Estados Unidos regresara a aquella región y amenazara a China..</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T233321Z" creationid="Melanie" creationdate="20160919T232056Z">
+        <seg>También instó a respaldar a Alemania en toda disputa con Estados Unidos (insinuando que Alemania debía retirarse de la OTAN) y al Sudeste Asiático por temor a que Estados Unidos regresara a aquella región y amenazara a China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7446,8 +7446,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In his opinion, it does not matter what type of policy China adopts internally (i.e., whether it supports human rights or becomes a democracy), since US policy will not change; the United States simply does not want to see a “strong, &lt;t0/&gt;uniﬁed&lt;t1/&gt;, prosperous, and industrialized modern China.”  In He’s view, American demands for human rights and democracy were merely a part of its strategy to weaken and hopefully divide China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232130Z" creationid="Melanie" creationdate="20160919T232130Z">
-        <seg>A su parecer, no importa qué clase de polítca interna adopta China (es decir, si apoya los derechos humanos o se convierte en una democracia), ya que la política estadounidense no va a cambiar. En términos simples, Estados Unidos no desea ver una "China moderna robusta, unificada, próspera e industrializada". Para He, las demandas estadounidenses de proteger los derechos humanos y la democracia eran una mera parte de su estrategia para debilitar y con suerte dividir China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T233928Z" creationid="Melanie" creationdate="20160919T232130Z">
+        <seg>A su parecer, no importa qué clase de polítca interna adopta China (es decir, si apoya los derechos humanos o se convierte en una democracia), ya que la política estadounidense no va a cambiar. En términos simples, Estados Unidos no desea ver una "China moderna, poderosa, unificada, próspera e industrializada". Para He, las demandas estadounidenses para proteger los derechos humanos y la democracia eran una mera parte de su estrategia para debilitar y, con suerte, dividir China.</seg>
       </tuv>
     </tu>
     <tu>
