@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11786,6 +11786,22 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045446Z">
         <seg>Sexto pleno del Décimo Sexto Comité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Social fairness was a moral issue in the general sense that reforms creating winners and losers also created a moral obligation to help those who lost from reform – as well as in the specific sense that growing income inequalities undermined the egalitarian commitments that underlay much of the Communist Party’s claim to legitimacy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T004505Z" creationid="Magui" creationdate="20160920T004505Z">
+        <seg>En general, es un problema moral porque las reformas que crean ganadores y perdedores también crearon la obligación moral de ayudar a los que salieron perdiendo con la reforma y en particular, porque las desigualdades salariales crecientes socavaron las responsabilidades igualitarias que sustentaban gran parte del derecho a la legitimidad del Partido Comunista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Social fairness was a political issue because, as Hu Angang argued, the sense of injustice was fueling social tensions and outbreaks of violence.&lt;/f0&gt;&lt;f1&gt;24&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T004808Z" creationid="Magui" creationdate="20160920T004550Z">
+        <seg>La justicia social era también un problema político porque, como Hu Angang sostuvo, el sentido de la injusticia estaba exacerbando las tensiones sociales y los brotes de violencia.&lt;/f0&gt;&lt;f1&gt;24&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
