@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15432,8 +15432,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This was certainly the case following the Cultural Revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160906T154429Z">
-        <seg>Sin dudas esto fue lo que ocurrió luego de la Revolución Cultural.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160920T185117Z">
+        <seg>Sin dudas, esto fue lo que ocurrió luego de la Revolución Cultural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16538,8 +16538,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Mao’s death in 1976 brought that cataclysm to an end, intellectuals once again resumed their “proper” role in Chinese society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T012931Z">
-        <seg>Cuando la muerte de Mao en 1976 le puso un fin a ese cataclismo, los intelectuales asumieron una vez más su papel “correcto” en la sociedad china.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160920T185139Z">
+        <seg>Cuando la muerte de Mao en 1976 puso un fin a ese cataclismo, los intelectuales asumieron una vez más su papel “correcto” en la sociedad china.</seg>
       </tuv>
     </tu>
     <tu>
