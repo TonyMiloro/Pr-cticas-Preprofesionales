@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17242,8 +17242,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhu is clearly&lt;t12/&gt; &lt;t13/&gt;someone who is very possessive of his power as premier, and he moved&lt;t14/&gt; &lt;t15/&gt;vigorously to centralize control over the economy in his office.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160831T214055Z">
-        <seg>Zhu es claramente&lt;t12/&gt; &lt;t13/&gt;alguien muy posesivo de su poder como primer ministro, y actuaba con vigor &lt;t14/&gt; &lt;t15/&gt;para centralizar el control sobre la economía en su gobierno.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T232202Z">
+        <seg>Zhu es claramente&lt;t12/&gt; &lt;t13/&gt;una persona muy posesiva de su poder como primer ministro, y actuaba con vigor &lt;t14/&gt; &lt;t15/&gt;para centralizar el control sobre la economía en su gobierno.</seg>
       </tuv>
     </tu>
     <tu>
