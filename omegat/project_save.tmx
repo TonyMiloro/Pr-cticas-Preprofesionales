@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -554,6 +554,14 @@
         <seg>6</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160920T092348Z" creationid="Administrador" creationdate="20160920T092348Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 China since Tiananmen</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145523Z" creationid="Administrador" creationdate="20160920T145523Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -2669,6 +2677,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160907T173510Z">
         <seg>Aunque el apoyo al acceso de China&lt;t2/&gt; &lt;t3/&gt;a la OMC parece haber aumentado en los años anteriores,&lt;t4/&gt; &lt;t5/&gt;todavía existían las mismas divisiones que plagaban los esfuerzos previos de China&lt;t6/&gt; &lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although the Jiang Zemin era saw considerable efforts to reconcile these conflicting aspects of the political system, particularly with Jiang’s enunci-ation of the “Three Represents,” which permitted entrepreneurs to join the CCP, there has been a surprising re-emphasis on ideology, not to mention a tightened control over media and crackdown on those who pursue rights</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145519Z" creationid="Administrador" creationdate="20160920T145519Z">
+        <seg>Por esta razón, se realizaron esfuerzos considerables en la era Jiang Zemin para renconcilar estos aspectos conflictivos del sistema político, particularmente con la introducción de Jiang de Three Represents (la "Triple representatividad") que permitió a emprendedores formar parte de la PCCh; sin embaro, hubo un nuevo y sorpresivo énfasis en ideología, sin mencionar un estricto control sobre los medios y medidas represivas para aquellos que reclamaban por sus derechos,</seg>
       </tuv>
     </tu>
     <tu>
@@ -8292,6 +8308,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the same period, the number of private enterprises had grown from 10,667, &lt;t0/&gt;employing 9.7 million people, to 123,820, employing over 34.5 million workers.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145408Z" creationid="Administrador" creationdate="20160920T145408Z">
+        <seg>En el mismo período, la cantidad de empresas privadas había crecido de 10 667, con 9,7 millones de personas contratadas, a 123 820, empleando más de 34,5 millones de trabajadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the same period, the number of private enterprises had grown from 10,667, employing 9.7 million people, to 123,820, employing over 34.5 million workers.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T221849Z">
@@ -11620,6 +11644,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Political systems confronted by socioeconomic change can respond in a variety of ways, not all of which are “rational” from the perspective of enhancing the overall performance of the system.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145601Z" creationid="Administrador" creationdate="20160920T145601Z">
+        <seg>Un sistema político que se ve enfrentado a cambios socioenconómicos puede responder de muchas maneras que pueden no todas considerarse "racionales" desde una perspectiva que apunta a un mejoramiento del desempeño integral del sistema. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Politically the early hope offered by village-level elections faded as expectations that they would move up the political hierarchy at least to the township level never materialized (despite a few pioneering efforts in places like Buyun in Sichuan and Dapeng in Shenzhen).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T214828Z" creationid="pibe bazooka" creationdate="20160913T213800Z">
@@ -12466,6 +12498,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160909T155833Z">
         <seg>Desde su fundación, Contemporary Trends había publicado varios artículos por los altos funcionarios extremistas, incluídos Deng Liqun y Wang Zhen, y había publicado numerosos artículos criticando la liberalización burguesa en términos extremadamente severos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the revival of the National People’s Congress (NPC) in the late 1970s, the process of law-making has become more institution-alized and rationalized – though there is still a long way to go.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145415Z" creationid="Administrador" creationdate="20160920T145415Z">
+        <seg>Desde el resurgimiento de la ANP a finales de los 80, el proceso legislativo se ha institucionalizado y racionalizo más, aunque todavía hay mucho camino por recorrer6. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16612,6 +16652,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160825T145953Z">
         <seg>Mientras que anteriormente tenian dudas sobre el rumbo de los cambios económicos y culturales en China, en 1989 se terminaron de convencer de que la reforma iba por mal camino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whereas the former trends point to a growing pluralization of Chinese society and governance, the lat-ter suggest a continuing institutional and cultural rejection of pluralism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145506Z" creationid="Administrador" creationdate="20160920T145506Z">
+        <seg>Mientras que estas primeras tendencias apuntan a un incremento en la pluralización de la sociedad y del gobierno chino, las últimas sugieren un constante rechazo institucional y cultural del pluralismo7. </seg>
       </tuv>
     </tu>
     <tu>
