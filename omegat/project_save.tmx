@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1793,8 +1793,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;policy on regional differences was more palpable: the 1994 NPC meeting drew considerable attention to regional inequalities, Jiang Zemin explic-itly called for reducing regional gaps in his speech to the Fifth Plenum in September 1995, and in 2000 the development of western China was made a major theme of the NPC meeting.&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160919T235540Z" creationid="Magui" creationdate="20160919T235540Z">
-        <seg>&lt;f0&gt;oficiales referidas a las diferencias regionales fue más evidente: .&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T001611Z" creationid="Magui" creationdate="20160919T235540Z">
+        <seg>&lt;f0&gt;oficiales referidas a las diferencias regionales fue más evidente: la reunión de la APN en 1994 le dedicó una atención considerable a las desigualdades regionales; Jiang Zemin pidió explíctiamente reducir las brechas regionales en su discurso durante el Quinto Pleno en septiembre de 1995; en el año 2000 el desarrollo de China occidental se volvió un tema principal de la reunión de la APN.&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
