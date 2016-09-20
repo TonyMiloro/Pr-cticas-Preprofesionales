@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11069,6 +11069,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public Security</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T003119Z" creationid="Bangho" creationdate="20160920T003119Z">
+        <seg>Seguridad Pública</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Public opinion on foreign policy questions is a politically sensitive topic, and few surveys are allowed (or allowed to be published).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160917T072401Z" creationid="Administrador" creationdate="20160916T223508Z">
@@ -14756,6 +14764,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173640Z">
         <seg>Represión de Tiananmén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tianjin CCP sec.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T003147Z" creationid="Bangho" creationdate="20160920T003147Z">
+        <seg>Secretario General PCCh. en Tianjin</seg>
       </tuv>
     </tu>
     <tu>
