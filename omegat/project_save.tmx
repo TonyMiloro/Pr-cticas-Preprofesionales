@@ -6494,8 +6494,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He returned to &lt;t6/&gt;ﬁnd&lt;t7/&gt; the “cultural fever” of the 1980s in full bloom, and found himself deeply opposed to the cultural cosmopolitanism it expressed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232812Z" creationid="Melanie" creationdate="20160919T232812Z">
-        <seg>Al regresar se encontró con la "fiebre cultural" de los 80 floreciente y se dio cuenta de que estaba profundamente en contra del cosmopolitanismo que expresaba.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T010057Z" creationid="Melanie" creationdate="20160919T232812Z">
+        <seg>Al regresar se encontró con la "fiebre cultural" de los años 80 en plena floración y se dio cuenta de que estaba profundamente en contra del cosmopolitismo que expresaba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15248,6 +15248,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang &lt;t0/&gt;reﬂected&lt;t1/&gt; a visceral nationalism that reacted against the cosmopolitanism of River Elegy; at the same time, he &lt;t2/&gt;reﬂected&lt;t3/&gt; a populist sentiment that rejected the elitism of those who had dominated discussions of Chinese culture in the 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T010058Z" creationid="Melanie" creationdate="20160920T010058Z">
+        <seg>Wang &lt;t0/&gt;reﬂected&lt;t1/&gt; a visceral nationalism that reacted against the cosmopolitismo of River Elegy; at the same time, he &lt;t2/&gt;reﬂected&lt;t3/&gt; a populist sentiment that rejected the elitism of those who had dominated discussions of Chinese culture in the 1980s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang Guangze, a journalist at the 21st</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044313Z">
@@ -15434,8 +15442,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang was neither part of the Old Left nor a cultural conservative, yet he was as harshly critical as others in his condemnation of River Elegy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232821Z" creationid="Melanie" creationdate="20160919T232821Z">
-        <seg>Wang was neither part of the Old Left nor a cultural conservative, yet he was as harshly critical as others in his Él no era ni parte de la Vieja Izquierda ni un conservador cultural, aunque al igual que otros, condenó con dureza La elegia del río.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T010242Z" creationid="Melanie" creationdate="20160919T232821Z">
+        <seg>Él no era ni parte de la Vieja Izquierda ni un conservador cultural, aunque al igual que otros, condenó con dureza a River Elegy.</seg>
       </tuv>
     </tu>
     <tu>
