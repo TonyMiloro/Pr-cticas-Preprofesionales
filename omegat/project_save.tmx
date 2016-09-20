@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6392,6 +6392,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160916T063754Z" creationid="Usuario" creationdate="20160916T063754Z">
         <seg>Argumentaba que el mundo iba en camino hacia la unidad, pero que tal unidad podría darse bajo el dominio estadounidense o integrarse sobre la base de "igualdad, soberanía equitativa, interés común y cooperación". "Si Estados Unidos logra alcanzar sus ambiciones a nivel mundial, el mundo entrará en una era oscura y caótica", advertió. El mayor obstáculo para que se concreten las ambiciones estadounidenses es China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He declared the need to build a "resource-saving and environment-friendly society." Such calls are consis- tent with the policies Hu and Wen have been articulating in recent years, but implementing policies based on these goals with be difficult.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T003459Z" creationid="cintia soler" creationdate="20160920T003123Z">
+        <seg>Ademas mamanifestó la necesidad de construir "una sociedad que proteja los recursos y el medio ambiente". Esas demandas son consistentes con las politicas que Hu y Wen han estado señalando estos ultimos años, pero implementar politicas que se basen en estos objetivos va a ser muy dificil. </seg>
       </tuv>
     </tu>
     <tu>
