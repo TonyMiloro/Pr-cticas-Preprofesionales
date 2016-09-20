@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4235,8 +4235,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Chen was more interested in policy than power, and he seemed both content and determined to force Deng to accept a diminished role in policy-making.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T003424Z" creationid="Usuario" creationdate="20160920T003424Z">
-        <seg>Cheng estaba mas interesado en las políticas que en el poder, y parecía conforme y decidido a onligar a Deng a aceptar.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T003938Z" creationid="Usuario" creationdate="20160920T003424Z">
+        <seg>Cheng estaba mas interesado en las políticas que en el poder, y parecía conforme y decidido a obligar a Deng a que acepte un rol mas reducido en la toma de decisiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7776,6 +7776,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160909T222617Z">
         <seg>En términos de política de&lt;t4/&gt; &lt;t5/&gt;élite, la retórica y el conflicto resaltaban esta postura de "mitad sí, mitad no"&lt;t6/&gt; &lt;t7/&gt;del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In terms of political strategy, Deng clearly tried to relax the political atmosphere by responding to the popular resentments that had underlain the Tiananmen demonstrations, by trying to play down ideological tensions, and by ameliorating international tensions to the greatest extent possible.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T010836Z" creationid="Usuario" creationdate="20160920T003700Z">
+        <seg>En terminos de estrategia politica, claramente Deng intentó relajar el ambiente político respondiendo a los enojos populares que subyacía a las demostraciones de Tiananment, minimizando las tensiones ideológicas y aliviando las tensiones internacionales en la mayor medida posible..</seg>
       </tuv>
     </tu>
     <tu>
