@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3645,6 +3645,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T212426Z">
         <seg>La Universidad de Pekín celebra su centésimo aniversario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beijing University celebrates its 100th anniversary</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T025858Z" creationid="PC" creationdate="20160920T025858Z">
+        <seg>La universidad de Pekín celebra su centésimo aniversário</seg>
       </tuv>
     </tu>
     <tu>
@@ -9073,6 +9081,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>July 22 Jiang Zemin calls on Chinese military to withdraw from business</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T030024Z" creationid="PC" creationdate="20160920T030024Z">
+        <seg>22 de julio - Jiang Zemin ordena que las fuerzas armadas chinas se retiren del negocio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>July 9</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215249Z">
@@ -9101,6 +9117,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T212437Z">
         <seg>27 de junio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>June 27 President Clinton arrives in Beijing</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T025919Z" creationid="PC" creationdate="20160920T025919Z">
+        <seg>27 de junio - El presidente Clinton llega a Pekín</seg>
       </tuv>
     </tu>
     <tu>
@@ -9655,6 +9679,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T210755Z">
         <seg>5–19 de marzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>March 5–19 NPC meeting announces major government restructuring</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T025823Z" creationid="PC" creationdate="20160920T025823Z">
+        <seg>5 -19 de marzo - Se anuncia una importante reorganización del gobierno en la reunión de l NPC</seg>
       </tuv>
     </tu>
     <tu>
