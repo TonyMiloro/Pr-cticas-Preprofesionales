@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2130,8 +2130,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>A similar sort of criticism came from Wang &lt;t2/&gt;Xiaodong&lt;t3/&gt;, a young intellectual &lt;t4/&gt;afﬁliated&lt;t5/&gt; with the Communist Youth League, who would emerge in the 1990s as one of the main voices of popular nationalism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232743Z" creationid="Melanie" creationdate="20160919T232743Z">
-        <seg>Una crítica similar llegó de Wang Xiaodong, un joven intelectual afiliado a la Liga de la Juventud Comunista de China, quien llegaría a ser en los años 90 una de las voces más importantes del nacionalismo popular.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T005539Z" creationid="Melanie" creationdate="20160919T232743Z">
+        <seg>Una crítica similar provino de Wang Xiaodong, un joven intelectual afiliado a la Liga de la Juventud Comunista de China, quien llegaría a ser en los años 90 una de las voces más importantes del nacionalismo popular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,8 +3667,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Born in 1955, Wang studied mathematics at Beijing University and then went to Japan for further study.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T103731Z" creationid="Usuario" creationdate="20160919T103731Z">
-        <seg>Wang nación en 1955 y estudió matemáticas en la Universidad de Beijing y luego viajó a Japón para continuar estudiando.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T005602Z" creationid="Usuario" creationdate="20160919T103731Z">
+        <seg>Wang nació en 1955, estudió matemáticas en la Universidad de Beijing y luego viajó a Japón para continuar estudiando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7414,8 +7414,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In contrast to Wang Zhen’s emphasis on “national nihilism,” He &lt;t0/&gt;Xin’s&lt;t1/&gt; criticism focused on what he regarded as the misplaced romanticism of the intellectual elite’s cultural project.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232734Z" creationid="Melanie" creationdate="20160919T232734Z">
-        <seg>Contrario al énfaiss en "nihilismo nacional" de Whang Zhen, la crítica de He Xin se centraba en lo que consideraba el romanticismo mal ubicado del proyecto cultural de la elite intelectual.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T005510Z" creationid="Melanie" creationdate="20160919T232734Z">
+        <seg>Contrario al énfasis puesto en el "nihilismo nacional" por Whang Zhen, la crítica de He Xin se centraba en lo que él consideraba como el romanticismo mal ubicado del proyecto cultural de la elite intelectual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15458,8 +15458,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang’s criticism represented the ideological views of the Old Left, but people quite unsympathetic to the sort of leftism Wang Zhen represented also had serious reservations about the &lt;t6/&gt;ﬁlm&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T005231Z" creationid="Melanie" creationdate="20160919T232727Z">
-        <seg>La crítica de Wang representaba la visión ideológica de la Vieja Izquierda, aunque algunos que no compartían completamente el tipo de izquierdismo que Wang representaba también tenían  sobre el filme.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T005249Z" creationid="Melanie" creationdate="20160919T232727Z">
+        <seg>La crítica de Wang representaba la visión ideológica de la Vieja Izquierda, aunque algunos que no compartían completamente el tipo de izquierdismo que Wang representaba también tenían serias reservas sobre el filme.</seg>
       </tuv>
     </tu>
     <tu>
