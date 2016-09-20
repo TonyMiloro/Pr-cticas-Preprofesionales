@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13233,6 +13233,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160919T224053Z" creationid="Magui" creationdate="20160919T224053Z">
         <seg>La necesidad de fortalecer el estado, implementar un sisteme tributario centralizado y universal  y establecer el principio de "competencia leal" entre las diversas regiones de China los llevó a argumentar que el enclave más privilegiado de todos, las Zonas Económicas Especiales, debería abolirse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neostatist approach touted by Hu and Wang clearly resonates within the halls of government.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T005230Z" creationid="Magui" creationdate="20160920T005230Z">
+        <seg>El enfoque neoestatista promovido por Hu y Wang resuena de manera clara entre las salas de gobierno.</seg>
       </tuv>
     </tu>
     <tu>
