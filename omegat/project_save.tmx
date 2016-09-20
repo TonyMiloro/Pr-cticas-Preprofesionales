@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9747,6 +9747,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>March 2004 An Investigation of China’s Peasants by Chen Guidi and Chu Tao is banned</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T034704Z" creationid="PC" creationdate="20160920T034704Z">
+        <seg>Marzo de 2004 - Censuran el trabajo de Chen Guidi y Chu Tao, An Investigation of China's Peasants (Investigación sobre los campesinos de China)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>March 22</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T235154Z">
@@ -11977,6 +11985,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T233156Z">
         <seg>2 de septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 2 Xiao Weibi, editor of the liberal, Guangdong-based Tongzhou gongjin is dismissed for publishing an interview with</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T034910Z" creationid="PC" creationdate="20160920T034910Z">
+        <seg>2 de septiembre - El editor del periódico liberal con base en Tongzhou gongjin, Xiao Weibi, es desplazado de su cargo por publicar una entrevista con </seg>
       </tuv>
     </tu>
     <tu>
