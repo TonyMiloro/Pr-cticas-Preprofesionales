@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1897,8 +1897,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;that certainly would have erupted from such an elitist system by bringing about a non-bureaucratic, classless, and democratic society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T222004Z">
-        <seg>&lt;f0&gt;que sin duda iban a desencadenarse de un sistema elitista, a través del desarrollo de una sociedad democrática, no burocrática donde no existe la división de clases. </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182253Z">
+        <seg>&lt;f0&gt;que sin duda iban a desencadenarse de un sistema elitista, a través del desarrollo de una sociedad democrática no burocrática donde no existe la división de clases. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4523,8 +4523,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>China since Tiananmen</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T093730Z" creationid="Administrador" creationdate="20160920T093730Z">
-        <seg></seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182237Z" creationid="Administrador" creationdate="20160920T093730Z">
+        <seg>China desde Tianamén</seg>
       </tuv>
     </tu>
     <tu>
@@ -8487,8 +8487,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, Wang suggests that “people may discover that some ideas from the Cultural Revolution are wise and prescient.”&lt;/f2&gt;&lt;f3&gt;59&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160916T134554Z" creationid="Usuario-Pc" creationdate="20160916T133818Z">
-        <seg>De hecho, Wang sugiere que "es muy probable que la gente descubra que varias ideas de la Revolución Cultural son sabias y premonitorias”.&lt;/f2&gt;&lt;f3&gt;59&lt;/f3&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182434Z" creationid="Usuario-Pc" creationdate="20160916T133818Z">
+        <seg>De hecho, Wang sugiere que "es muy probable que el pueblo descubra que varias ideas de la Revolución Cultural son sabias y premonitorias”.&lt;/f2&gt;&lt;f3&gt;59&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14456,8 +14456,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The tragedy of Mao was that Chinese society did not have the conditions for such a demo-cratic society and thus his effort failed.&lt;/f0&gt;&lt;f1&gt;58&lt;/f1&gt;&lt;f2&gt; But Mao, the author argues, was not wrong in his initial motivation; the mistakes that resulted in tragedy occurred later (and were largely the fault of Jiang Qing and Lin Biao).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T222342Z">
-        <seg>La tragedia de Mao se generó porque la sociedad de China no contaba con las condiciones necesarias para crear esa sociedad democrática; entonces, su esfuerzo fracazó. Sin embargo, sostiene el autor, Mao no estaba equivocado con respecto a sus motivos iniciales; los errores que resultaron en tragedia ocurrieron mas tarde (debido a Jiang Qing y Lin Biao principalmente).&lt;/f0&gt;&lt;f1&gt;58&lt;/f1&gt;&lt;f2&gt; </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182409Z">
+        <seg>La tragedia de Mao se generó porque la sociedad China no contaba con las condiciones necesarias para crear esa sociedad democrática; entonces, su esfuerzo fracazó. Sin embargo, sostiene el autor, Mao no estaba equivocado con respecto a sus motivos iniciales; los errores que resultaron en tragedia ocurrieron mas tarde, debido a Jiang Qing y Lin Biao principalmente.&lt;/f0&gt;&lt;f1&gt;58&lt;/f1&gt;&lt;f2&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -16226,8 +16226,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang describes Mao as having been “like a good and patient family head, thinking of the whole country as a ‘large family’.” He also declares that “Mao was a god, and people are perhaps only beginning to understand him several years later.”&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; Mao’s initiation of the Cultural Revolution is depicted as the effort of an idealist to overcome the gap between the com-mon people and officials; his motive was to pre-empt the political crises&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182120Z">
-        <seg>Wang describe la figura de Mao "como un jefe de familia bueno y paciente, que considera al país entero como una 'gran familia' ”. También expresa que "Mao era un Dios, y que la gente comienza a  comprenderlo varios años mas tarde".&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; El inicio de la  Revolución Cultural por parte de Mao esta representado como el esfuerzo realizado por un idealista para poder destruir la brecha existente entre la gente común y los oficiales; su motivo principal era prevenir crisis políticas. &lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182149Z">
+        <seg>Wang describe la figura de Mao "como un jefe de familia bueno y paciente, que considera al país entero como una 'gran familia' ”. También expresa que "Mao era un Dios, y que la gente comienza a  comprenderlo varios años mas tarde".&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; El inicio de la  Revolución Cultural por parte de Mao esta representado como el esfuerzo realizado por un idealista para poder destruir la brecha existente entre la gente común y los oficiales; su motivo principal era prevenir crisis políticas&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
