@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9973,8 +9973,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>March 17 Jiao Guobiao is dismissed from Peking University</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T041336Z" creationid="PC" creationdate="20160920T041336Z">
-        <seg>17 de marzo - Jiao Guobiao es expulsado de la Univeridad de Pekín</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183524Z" creationid="PC" creationdate="20160920T041336Z">
+        <seg>17 de marzo Jiao Guobiao es expulsado de la Univeridad de Pekín</seg>
       </tuv>
     </tu>
     <tu>
@@ -10693,8 +10693,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>November 11 Propaganda Department issues Document Number 29</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T040509Z" creationid="PC" creationdate="20160920T040509Z">
-        <seg>11 de noviembre - El departamento de propaganda emite el Documento Número 29</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183714Z" creationid="PC" creationdate="20160920T040509Z">
+        <seg>11 de noviembre El departamento de propaganda emite el Documento Número 29</seg>
       </tuv>
     </tu>
     <tu>
@@ -10973,8 +10973,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>October Heart-to-Heart Talks with the General Secretary published</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T181743Z" creationid="PC" creationdate="20160920T024957Z">
-        <seg>Octubre - Publicación del libro Heart-to-Heart Talks with the General Secretary (Charla franca con el secretario general)</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183516Z" creationid="PC" creationdate="20160920T024957Z">
+        <seg>Octubre Publicación del libro Heart-to-Heart Talks with the General Secretary (Charla franca con el secretario general)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12231,8 +12231,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 13 Yitahutu chatroom is closed down</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T040049Z" creationid="PC" creationdate="20160920T040049Z">
-        <seg>13 de septiembre - Se cierra el foro de discución en línea Yitahutu</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183531Z" creationid="PC" creationdate="20160920T040049Z">
+        <seg>13 de septiembre Se cierra el foro de discución en línea Yitahutu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12255,8 +12255,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 16–19 Fourth Plenary Session of the SixteenthCentral Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T040125Z" creationid="PC" creationdate="20160920T040125Z">
-        <seg>16 -19 de sepiembre - Cuarto pleno del Décimo Sexto Comité Central</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183701Z" creationid="PC" creationdate="20160920T040125Z">
+        <seg>16 -19 de sepiembre Cuarto pleno del Décimo Sexto Comité Central</seg>
       </tuv>
     </tu>
     <tu>
@@ -12271,8 +12271,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 19 Jiang Zemin retires from the Central Military Commission</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T040336Z" creationid="PC" creationdate="20160920T040233Z">
-        <seg>19 de septiembre - Jiang Zemin se retira de la Comisión Militar Central </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183705Z" creationid="PC" creationdate="20160920T040233Z">
+        <seg>19 de septiembre Jiang Zemin se retira de la Comisión Militar Central </seg>
       </tuv>
     </tu>
     <tu>
@@ -12319,8 +12319,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 22 Strategy and Management is closed down</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T040435Z" creationid="PC" creationdate="20160920T040435Z">
-        <seg>22 de septiembre - Se deja de publicar la revista Strategy and Management</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183709Z" creationid="PC" creationdate="20160920T040435Z">
+        <seg>22 de septiembre Se deja de publicar la revista Strategy and Management</seg>
       </tuv>
     </tu>
     <tu>
@@ -12399,8 +12399,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 8 Southern Personalities Weekly publishes list of the 50 most influential Chinese public intellectuals</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T040010Z" creationid="PC" creationdate="20160920T040010Z">
-        <seg>8 de septiembre - Southern Personalities Weekly publiica una lista de los 50 intelectuales chinos más influyentes</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183527Z" creationid="PC" creationdate="20160920T040010Z">
+        <seg>8 de septiembre Southern Personalities Weekly publiica una lista de los 50 intelectuales chinos más influyentes</seg>
       </tuv>
     </tu>
     <tu>
