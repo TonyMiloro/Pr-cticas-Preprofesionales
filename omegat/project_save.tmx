@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6876,6 +6876,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hu Jintao visits the revolutionary base of Xibaipo</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T033622Z" creationid="PC" creationdate="20160920T033622Z">
+        <seg>Hu Jintao visita la base revolucionario de Xibaipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hu Jintao, in his first public appearance as</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225904Z">
@@ -6886,8 +6894,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu Jintao, in his first public appearance as general secretary, speaks at celebration commemorating the 20th anniversity of the 1982 constitution</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T033455Z" creationid="PC" creationdate="20160920T033455Z">
-        <seg>Durante su primera aparición como Secretario General</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T033555Z" creationid="PC" creationdate="20160920T033455Z">
+        <seg>Durante su primera aparición como Secretario General, Hu Jintao toma la palabra en la celebración del vigésimo aniversario de la Constitución de 1982</seg>
       </tuv>
     </tu>
     <tu>
