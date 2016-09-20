@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2917,6 +2917,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214459Z">
         <seg>6 de abril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>April 6 Premier Zhu Rongji arrives in Washington to discuss WTO</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T030646Z" creationid="PC" creationdate="20160920T030646Z">
+        <seg>6 de abril - El primer ministro Zh Rongji llega a Washington para tratar la OMC</seg>
       </tuv>
     </tu>
     <tu>
@@ -9727,6 +9735,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T204016Z">
         <seg>8 de marzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>March &lt;f0&gt;23 &lt;/f0&gt;United States starts bombing Serbian forces in Kosovo</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T030505Z" creationid="PC" creationdate="20160920T030505Z">
+        <seg>&lt;f0&gt;23 &lt;/f0&gt;de marzo - EE. UU. comienza el bombardeo a las fuerzas serbias en Kosovo</seg>
       </tuv>
     </tu>
     <tu>
