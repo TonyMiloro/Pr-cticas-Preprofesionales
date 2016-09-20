@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13489,6 +13489,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Carmen" changedate="20160919T140539Z" creationid="Carmen" creationdate="20160919T134018Z">
         <seg>La reforma de la que hablo es diferente". Recogiendo el pensamiento de Deng y  formulando la pregunta como lo hizo él, Jiang plantea la cuestión que dominaría a los politicos chinos por mas de dos años: ¿qué era socialista y que era capitalista?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The report was subsequently reprinted in the Central Policy Research Office’s publication&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Internal Information&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;(&lt;/f13&gt;&lt;f15&gt;Neibu xinxi&lt;/f15&gt;&lt;f16&gt;), which is directed at the top leadership, and then, in a longer version, in the&lt;s17/&gt;&lt;/f16&gt;&lt;f18&gt;People’s Daily&lt;/f18&gt;&lt;f19&gt;’s internal pub-lication,&lt;s20/&gt;&lt;/f19&gt;&lt;f21&gt;Internal Reference Reading&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;(&lt;/f22&gt;&lt;f24&gt;Neibu canyue&lt;/f24&gt;&lt;f25&gt;), which has a much wider circulation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T012423Z" creationid="Magui" creationdate="20160920T012423Z">
+        <seg>Luego, el informe fue reimpreso en la publicación de la Oficina de Investigación de Políticas del Comité Central&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Internal Information&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;(&lt;/f13&gt;&lt;f15&gt;Neibu xinxi&lt;/f15&gt;&lt;f16&gt;), que está dirigido a los máximos líderes, y más tarde fue publicado en una versión más larga en la publicación interna de&lt;s17/&gt;&lt;/f16&gt;&lt;f18&gt;People’s Daily&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;&lt;/f19&gt;&lt;f21&gt;Internal Reference Reading&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;(&lt;/f22&gt;&lt;f24&gt;Neibu canyue&lt;/f24&gt;&lt;f25&gt;), que cuenta con una difusión mucho más amplia.</seg>
       </tuv>
     </tu>
     <tu>
