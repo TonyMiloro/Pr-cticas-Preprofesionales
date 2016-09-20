@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15298,8 +15298,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang &lt;t0/&gt;reﬂected&lt;t1/&gt; a visceral nationalism that reacted against the cosmopolitanism of River Elegy; at the same time, he &lt;t2/&gt;reﬂected&lt;t3/&gt; a populist sentiment that rejected the elitism of those who had dominated discussions of Chinese culture in the 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T011702Z" creationid="Melanie" creationdate="20160920T010058Z">
-        <seg>Wang era un reflejo del nacionalismo Wang &lt;t0/&gt;reﬂected&lt;t1/&gt; a visceral nationalism that reacted against the cosmopolitismo of River Elegy; at the same time, he &lt;t2/&gt;reﬂected&lt;t3/&gt; a populist sentiment that rejected the elitism of those who had dominated discussions of Chinese culture in the 1980s.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T011942Z" creationid="Melanie" creationdate="20160920T010058Z">
+        <seg>Wang era un reflejo del nacionalismo visceral que había reaccionado contra el cosmopolitismo de River Elegy, al mismo tiempo que denotaba un sentimiento populista que rechazaba el elitismo de aquellos que habían dominado las discusiones sobre la cultura china en los años 80.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15628,6 +15628,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T010329Z" creationid="Usuario" creationdate="20160919T104744Z">
         <seg>Lo que le molestaba era lo que percibía como el elitismo de los autores de River Elegy y la elite cultural de la que formaban parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What differentiated Wang’s critique from that of the Old Left (as &lt;t4/&gt;reﬂected&lt;t5/&gt; in Wang Zhen’s article) and foreshadowed trends in the 1990s was the combination of populism, nationalism, and disregard of communist values.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012050Z" creationid="Melanie" creationdate="20160920T012050Z">
+        <seg>Lo que diferenciaba a la crítica de Wang de aquella de la Vieja Izquierda (cómo se puede ver en el artículo de Wang Zhen) y What differentiated Wang’s critique from that of the Old Left (as &lt;t4/&gt;reﬂected&lt;t5/&gt; in Wang Zhen’s article) and foreshadowed trends in the 1990s was the combination of populism, nationalism, and disregard of communist values.</seg>
       </tuv>
     </tu>
     <tu>
