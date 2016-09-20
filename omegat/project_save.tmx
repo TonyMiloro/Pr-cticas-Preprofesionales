@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5589,8 +5589,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Finally, and potentially most interesting, in a section on building "social- ist democracy," Hu called for an "organic integration of CCP leadership, the position of the people as masters of the country, and the rule of law," though he did not note the seeming incompatibility of these goals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T004805Z" creationid="cintia soler" creationdate="20160920T004133Z">
-        <seg>Finalmente, y potencialmente mas interesante, en una sección sobre la construcción de una "democracia socialista", Hu hizo un llamado a una "integración orgánica del liderazgo del PCCh, a que la postura que tome la gente sea la de  </seg>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T005102Z" creationid="cintia soler" creationdate="20160920T004133Z">
+        <seg>Finalmente, y potencialmente mas interesante, en una sección sobre la construcción de una "democracia socialista", Hu hizo un llamado a una "integración orgánica del liderazgo del PCCh, a que la postura que tome la gente sea la de amos del pais, y que gobierne la ley", aunque no tuvo en cuenta la aparente incompatibilidad de estos objetivos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9951,6 +9951,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T132411Z">
         <seg>Sin embargo, Wang se las ingenió para llenar sus trabajos con varias de las preocupaciones de las ciencias políticas Occidentales, lo que le dio a sus ensayos una originalidad que carecían en muchos otros trabajos ya publicados. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, his call for improving "restraint and supervision" over power, especially his invocation of "sunlight" provisions give hope that more efforts will be made to finds ways to make the exercise of power less arbitrary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T005134Z" creationid="cintia soler" creationdate="20160920T005134Z">
+        <seg>Sin embargo, su llamado hacia </seg>
       </tuv>
     </tu>
     <tu>
