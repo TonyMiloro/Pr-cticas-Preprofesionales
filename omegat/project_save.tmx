@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1599,6 +1599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Table 6:&lt;/f0&gt;&lt;f1&gt; The Secretariat &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T003426Z" creationid="Bangho" creationdate="20160920T003426Z">
+        <seg>&lt;f0&gt;Table 6:&lt;/f0&gt;&lt;f1&gt; Secretaría General &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The Fourth Plenary Session of the Fourteenth Central Committee convened in Beijing on September 25–28, 1994.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160908T181649Z">
@@ -2349,6 +2357,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T212134Z">
         <seg>Ya para 1992, Qinglian sostuvo que las empresas conjuntas habían perdido unos 46 000 millones de yuanes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternate</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T003406Z" creationid="Bangho" creationdate="20160920T003406Z">
+        <seg>Suplente</seg>
       </tuv>
     </tu>
     <tu>
@@ -11589,6 +11605,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Seventeenth Party Congress</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T003533Z" creationid="Bangho" creationdate="20160920T003533Z">
+        <seg>Décimoséptimo Congreso del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Several contradictory trends &lt;t0/&gt;can be observed&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131420Z">
@@ -11712,8 +11736,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Sixteenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160909T231725Z">
-        <seg>Décimo Sexto Congreso del Partido</seg>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T003453Z">
+        <seg>Décimosexto Congreso del Partido</seg>
       </tuv>
     </tu>
     <tu>
