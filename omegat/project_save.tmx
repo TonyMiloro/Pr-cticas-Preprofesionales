@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1737,8 +1737,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang also casts a sympathetic eye on the Cultural Revolution, particu-larly on Mao’s motivations in initiating it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T181756Z">
-        <seg>Wang también le da una mirada positiva a la Revolución Cultural, particularmente a los motivos que tuvo Mao para iniciarla.&lt;f0&gt;.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T181827Z">
+        <seg>&lt;f0&gt;Wang también le da una mirada positiva a la Revolución Cultural, particularmente a los motivos que tuvo Mao para iniciarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8078,8 +8078,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In striking contrast to the Mao who is known to the West and older intellectuals in China, Wang depicts him as a benevolent, idealistic leader, one even given at times to sentimen-talism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221530Z">
-        <seg>A diferencia del Mao conocido por mundo Occidental y los antiguos intelectuales de China, Wang lo presenta como un líder caritativo e idealista, y a veces envuelto en sentimentalismo.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T181933Z">
+        <seg>A diferencia del Mao presentado por el mundo Occidental y los antiguos intelectuales de China, Wang lo presenta como un líder caritativo e idealista, y a veces envuelto en sentimentalismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16226,8 +16226,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang describes Mao as having been “like a good and patient family head, thinking of the whole country as a ‘large family’.” He also declares that “Mao was a god, and people are perhaps only beginning to understand him several years later.”&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; Mao’s initiation of the Cultural Revolution is depicted as the effort of an idealist to overcome the gap between the com-mon people and officials; his motive was to pre-empt the political crises&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221732Z">
-        <seg>Wang describe la figura de Mao "como un jefe de familia bueno y paciente, que considera al país entero como una 'gran familia' ”. También expresa que "Mao era un Dios, y que la gente comienza a  comprenderlo varios años mas tarde".&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; El inicio de la  Revolución Cultural por parte de Mao esta representado como el esfuerzo de un idealista para destruir la brecha entre la gente común y los oficiales; su motivo principal era prevenir las crisis políticas &lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182120Z">
+        <seg>Wang describe la figura de Mao "como un jefe de familia bueno y paciente, que considera al país entero como una 'gran familia' ”. También expresa que "Mao era un Dios, y que la gente comienza a  comprenderlo varios años mas tarde".&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; El inicio de la  Revolución Cultural por parte de Mao esta representado como el esfuerzo realizado por un idealista para poder destruir la brecha existente entre la gente común y los oficiales; su motivo principal era prevenir crisis políticas. &lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
