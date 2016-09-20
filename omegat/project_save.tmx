@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2893,6 +2893,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214942Z">
         <seg>20 de abril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>April 20 Health Minister Zhang Wenkang and Beijing Mayor Meng Xuenong are dismissed from their posts</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T034133Z" creationid="PC" creationdate="20160920T034133Z">
+        <seg>20 de abril - El ministro de salud Zhang Wenkang y el prefecto de Pekín Meng Xuenong son desplazados de los cargos</seg>
       </tuv>
     </tu>
     <tu>
@@ -9903,6 +9911,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T232539Z">
         <seg>1 de mayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May 1 Hu Jintao calls to launch a “people’s war” against SARS</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T034236Z" creationid="PC" creationdate="20160920T034236Z">
+        <seg>1 de mayo - Hu Jintao insta a comenzar una "guerra del pueblo" contra el SRAG</seg>
       </tuv>
     </tu>
     <tu>
