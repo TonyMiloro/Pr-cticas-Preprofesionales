@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3573,6 +3573,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160909T140614Z">
         <seg>Antes de eso, todos los estratos de la sociedad china habían mejorado desde la reforma; luego de ese momento el poder y el mercado emergieron entonces un estrato empezó a explotar al otro.47 Como dijo Xu Bing, amigo y agente literario de Wang, antes de 1992, Wang era un "partidario determinado y entusiasta de la reforma", pero para la primavera y el verano de ese año, "su apoyo se volvió racional y condicional".48 Wang no era el único que dudaba del curso de la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beijing CCP sec.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002504Z" creationid="Bangho" creationdate="20160920T002504Z">
+        <seg>Secretario General PCCh. en Beijing</seg>
       </tuv>
     </tu>
     <tu>
@@ -10572,6 +10580,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Organization</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002402Z" creationid="Bangho" creationdate="20160920T002402Z">
+        <seg>Organización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Originally&lt;t10/&gt; &lt;t11/&gt;intended as a short campaign to intimidate &lt;t12/&gt;Milosovic&lt;t13/&gt; into compliance, it&lt;t14/&gt; &lt;t15/&gt;encountered unexpectedly stiff resistance, including the expulsion of many&lt;t16/&gt; &lt;t17/&gt;Kosovars from their homeland, and thus had to be extended – ultimately&lt;t18/&gt; &lt;t19/&gt;for 78 days until &lt;t20/&gt;Milosovic&lt;t21/&gt; capitulated.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160915T141827Z" creationid="User" creationdate="20160913T135134Z">
@@ -14880,6 +14896,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>United Front</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002612Z" creationid="Bangho" creationdate="20160920T002612Z">
+        <seg>Frente Unido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>United States and China reach agreement on</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T165544Z">
@@ -14992,6 +15016,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>V. Chr., CMC</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002350Z" creationid="Bangho" creationdate="20160920T002350Z">
+        <seg>presidente, CMC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Veteran economic planner Song Ping and Tianjin mayor Li Ruihuan were added to the Politburo Standing Committee along with JiangZemin, while LiRuihuan and DingGuan’gen (Deng’s bridge partner) were added to the Secretariat.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T001507Z" creationid="Lorena Baretto" creationdate="20160916T010254Z">
@@ -15003,6 +15035,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
         <seg>Vice premier</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160919T233458Z" creationid="Bangho" creationdate="20160919T233458Z">
+        <seg>Viceprimer Ministro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vice-Premier</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002427Z" creationid="Bangho" creationdate="20160920T002427Z">
         <seg>Viceprimer Ministro</seg>
       </tuv>
     </tu>
@@ -15788,6 +15828,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044619Z">
         <seg>La agencia de noticias Xinhua emite una propuesta de ley de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xinjiang CCP sec.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002548Z" creationid="Bangho" creationdate="20160920T002548Z">
+        <seg>Secretario General PCCh. en Xinjiang</seg>
       </tuv>
     </tu>
     <tu>
