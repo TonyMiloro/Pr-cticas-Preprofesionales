@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1737,8 +1737,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang also casts a sympathetic eye on the Cultural Revolution, particu-larly on Mao’s motivations in initiating it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T221447Z">
-        <seg>Wang también le dió una mirada positiva a la Revolución Cultural, particularmente a los motivos que tuvo Mao para iniciarla.&lt;f0&gt;.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T181756Z">
+        <seg>Wang también le da una mirada positiva a la Revolución Cultural, particularmente a los motivos que tuvo Mao para iniciarla.&lt;f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3699,8 +3699,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Because of this, they cannot unite with the ruling Party, the state power, and the primary forces that are leading the people forward and thereby bring their great ability to bear.”&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T181202Z">
-        <seg>Por esa razón, no pueden unirse con el Partido gobernante, el poder estatal y las fuerzas más importantes que dirigen la población hacia el progreso y de este modo mantienen firme  gran habilidad”.&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T181602Z">
+        <seg>Por esa razón, no pueden unirse con el Partido gobernante, el poder estatal y las fuerzas más importantes que dirigen el pueblo hacia el progreso y así pueda aportar su gran capacidad".&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
