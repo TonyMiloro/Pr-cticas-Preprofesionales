@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10816,6 +10816,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160913T035909Z" creationid="Sofia" creationdate="20160912T010229Z">
         <seg>Parte de la respuesta a esta pregunta es la globalización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Particu- larly intriguing in this regard was his support for the "practice in which candidates for leading positions in grassroots party organizations are rec- ommended by both Party members and the public in an open manner and by the Party organization at the next highest level" and to "gradually extend direct election [zhijie xuanju] of leading members in grass-roots party orga- nizations to more places."&lt;t0/&gt; Although the text makes clear that Hu's reference to "direct election" was limited to inner-Party elections of grassroots leaders, his use of the term "public" (qunzhong, literally, the masses) in reference to recommending local leaders appears to give the green light to local experiments in which non-Party members of the public have played some role in selecting local Party leaders.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T010211Z" creationid="cintia soler" creationdate="20160920T010211Z">
+        <seg>Lo particularmente intrigante es </seg>
       </tuv>
     </tu>
     <tu>
