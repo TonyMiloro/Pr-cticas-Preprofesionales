@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14296,8 +14296,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This mood was well captured by &lt;t2/&gt;Gan&lt;t3/&gt; Yang, editor of the &lt;t4/&gt;inﬂuential&lt;t5/&gt; Culture: China and the World (&lt;t6/&gt;Wenhua&lt;t7/&gt;: &lt;t8/&gt;Zhongguo&lt;t9/&gt; &lt;t10/&gt;yu&lt;t11/&gt; &lt;t12/&gt;shijie&lt;t13/&gt; &lt;t14/&gt;congshu&lt;t15/&gt;) book series, who pleaded for cosmopolitanism and cultural renovation: “China must enter the world, so naturally its culture must also enter the world; China must modernize, so naturally we must realize the ‘modernization of Chinese culture’ – this is the common faith of every person of foresight in the 1980s, this is the logical necessity of the great historical take-off of contemporary China.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232545Z" creationid="Melanie" creationdate="20160919T232545Z">
-        <seg>Este ánimo fue plasmado de manera correcta por Gan Yang, editor de la serie influyente Cultura: China y el mundo (Wenhua: Zhongguo yu shijie congshu), quien defendía la cosmopolitanisación y la renovación cultural: "China debe ingresar al mundo, por lo que obviamente, su cultura debe hacerlo también. China debe modernizarse, por lo que obviamente, debemos concretar la ´modernización de la cultura china´ - esta es la fe en común de todo aquél con visión en los años 80. Esta es la necesidad lógica del gran despegue histórico de la China contemporánea".</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T003749Z" creationid="Melanie" creationdate="20160919T232545Z">
+        <seg>Este ánimo fue plasmado de manera correcta por Gan Yang, editor de la influyente serie de libros "Cultura: China y el mundo (Wenhua: Zhongguo yu shijie congshu)", quien defendía el cosmopolitismo y la renovación cultural: "China debe ingresar al mundo, por lo que obviamente su cultura debe hacerlo también. China debe modernizarse, por lo que obviamente debemos concretar la 'modernización de la cultura china' - esta es la fe común de todo aquél con visión en los años 80. Esta es la necesidad lógica del gran despegue histórico de la China contemporánea".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14602,8 +14602,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This “cultural fever” culminated in the 1988 television series River Elegy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T042521Z" creationid="Usuario" creationdate="20160918T071307Z">
-        <seg>Esta "fiebre cultural" alcanzó un punto culminante en la serie televisiva de 1998 llamada La elegia del río. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T003903Z" creationid="Usuario" creationdate="20160918T071307Z">
+        <seg>Esta "fiebre cultural" desembocó en la serie televisiva de 1998 llamada River Elegy. </seg>
       </tuv>
     </tu>
     <tu>
