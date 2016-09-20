@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9291,6 +9291,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like many younger intellectuals, Wang evinced no faith in socialist values and yet rejected the Western capitalist and cultural tropes that had dominated discourse in the 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T011343Z" creationid="Melanie" creationdate="20160920T011343Z">
+        <seg>Como muchos intelectuales jóvenes, Wang demostraba ninguna fe en valores socialistas e incluso rechazaba Like many younger intellectuals, Wang evinced no faith in socialist values and yet rejected the Western capitalist and cultural tropes that had dominated discourse in the 1980s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like other New Left intellectuals, Hu and Wang focused on the problem of social fairness, which was both a moral and a political issue.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160920T002914Z" creationid="Magui" creationdate="20160920T002914Z">
@@ -15354,8 +15362,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang argued that China needed nationalism and believed that the nationalism emerging in the 1990s, of which he was a tireless promoter, was a “normal nationalism” that corrected the abnormal situation that had prevailed in the 1980s and was not threatening to the outside world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T010937Z" creationid="Melanie" creationdate="20160920T010937Z">
-        <seg>Wang argumentó que China necesitaba del nacionalismo y creía el nacionalismo argued that China needed nationalism and believed that the nationalism emerging in the 1990s, of which he was a tireless promoter, was a “normal nationalism” that corrected the abnormal situation that had prevailed in the 1980s and was not threatening to the outside world.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T011145Z" creationid="Melanie" creationdate="20160920T010937Z">
+        <seg>Wang argumentó que China necesitaba del nacionalismo y creía que el nacionalismo que estaba emergiendo en los años 90, del cual él era un partidario incansable, era un "nacionalismo normal" que corregiría la situación anormal que se había impuesto en los años 80 y que no era amenzador para el resto del mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15508,6 +15516,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T005249Z" creationid="Melanie" creationdate="20160919T232727Z">
         <seg>La crítica de Wang representaba la visión ideológica de la Vieja Izquierda, aunque algunos que no compartían completamente el tipo de izquierdismo que Wang representaba también tenían serias reservas sobre el filme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang’s critique was not rooted in a Marxist–Leninist world view.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T011245Z" creationid="Melanie" creationdate="20160920T011245Z">
+        <seg>La crítica de Wang no estaba arraigada en una visión del mundo Marxista-Leninista.</seg>
       </tuv>
     </tu>
     <tu>
