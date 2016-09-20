@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14842,8 +14842,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, Hu tried to influence government opinion at different levels by circulating his ideas through various internal publications, and these efforts certainly fed into the government’s decision (in the summer&lt;/f25&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T012836Z" creationid="Magui" creationdate="20160920T012836Z">
-        <seg>De esta manera, Hu intentó influir en la opinión del gobierno a diferentes niveles difundiendo sus ideas a través de diversas publicaciones internas y estos esfuerzos, sin dudas, repercutieron en la decisión del gobiern (en el verano&lt;/f25&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T021723Z" creationid="Magui" creationdate="20160920T012836Z">
+        <seg>De esta manera, Hu intentó influir en la opinión del gobierno en diferentes niveles difundiendo sus ideas a través de diversas publicaciones internas y estos esfuerzos, sin dudas, repercutieron en la decisión del gobierno (en el verano&lt;/f25&gt;</seg>
       </tuv>
     </tu>
     <tu>
