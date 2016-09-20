@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9325,8 +9325,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Like other New Left intellectuals, Hu and Wang focused on the problem of social fairness, which was both a moral and a political issue.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T002914Z" creationid="Magui" creationdate="20160920T002914Z">
-        <seg>Igual que otros intelecturales de la Nueva Izquierda, Hu y Wang se centraron en el problema de la justicia social, que era un tema tanto moral como político.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T020520Z" creationid="Magui" creationdate="20160920T002914Z">
+        <seg>Igual que otros intelecturales de la Nueva Izquierda, Hu y Wang se centraron en el problema de la equidad social, que era un tema tanto moral como político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11880,8 +11880,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Social fairness was a political issue because, as Hu Angang argued, the sense of injustice was fueling social tensions and outbreaks of violence.&lt;/f0&gt;&lt;f1&gt;24&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T004808Z" creationid="Magui" creationdate="20160920T004550Z">
-        <seg>La justicia social era también un problema político porque, como Hu Angang sostuvo, el sentido de la injusticia estaba exacerbando las tensiones sociales y los brotes de violencia.&lt;/f0&gt;&lt;f1&gt;24&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T020530Z" creationid="Magui" creationdate="20160920T004550Z">
+        <seg>La equidad social era también un problema político porque, como Hu Angang sostuvo, el sentido de la injusticia estaba exacerbando las tensiones sociales y los brotes de violencia.&lt;/f0&gt;&lt;f1&gt;24&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
