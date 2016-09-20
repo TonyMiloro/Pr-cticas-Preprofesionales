@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6734,8 +6734,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He declares that “[a] society without faith is in danger”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt; and argues that the Dengist reforms have progressively eroded Maoist ideology until there is nothing left to inspire people and unify the nation:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T145839Z" creationid="Usuario-Pc" creationdate="20160919T144712Z">
-        <seg>quien declara que "[una] sociedad sin fe se encuentra en peligro”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt; Además sostiene que las reformas Dengistas han disminuido la ideología Maoista de forma progresiva a tal punto que no quede nada ni nadie que inspire a la población y unifique la nación:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183508Z" creationid="Usuario-Pc" creationdate="20160919T144712Z">
+        <seg>quien declara que "[una] sociedad sin fe se encuentra en peligro”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt; Y sostiene, además, que las reformas Dengistas han disminuido la ideología Maoista de forma progresiva a tal punto que no quede nada ni nadie que inspire a la población y unifique la nación:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15970,8 +15970,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Unless something is done to reverse the erosion of state authority, the author maintains, China will find itself beset by political and social turmoil.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T144623Z" creationid="Usuario-Pc" creationdate="20160916T150551Z">
-        <seg>A menos que se actúe para revertir la disminución de la autoridad del estado, sostiene el autor, China se encontrará en medio de una gran agitación politica y social.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183418Z" creationid="Usuario-Pc" creationdate="20160916T150551Z">
+        <seg>Según sostiene el autor, a menos que se actúe para revertir la disminución de la autoridad estatal, China se encontrará en medio de una gran agitación politica y social.</seg>
       </tuv>
     </tu>
     <tu>
