@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9435,8 +9435,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>July 22 Jiang Zemin calls on Chinese military to withdraw from business</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T030024Z" creationid="PC" creationdate="20160920T030024Z">
-        <seg>22 de julio - Jiang Zemin ordena que las fuerzas armadas chinas se retiren del negocio</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T182133Z" creationid="PC" creationdate="20160920T030024Z">
+        <seg>22 de julio - Jiang Zemin ordena que las Fuerzas Armadas chinas se retiren del negocio</seg>
       </tuv>
     </tu>
     <tu>
