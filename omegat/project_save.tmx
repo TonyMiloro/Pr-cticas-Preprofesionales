@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1811,6 +1811,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T124503Z">
         <seg>&lt;f0&gt;Nuevo&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;autoritarismo&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;y&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;neoconservadurismo&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;of 1993) to revamp the tax system.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Certainly the constant attention Hu and Wang have drawn t&lt;/f2&gt;&lt;f4&gt;https://github.com/TonyMiloro/Pr-cticas-Preprofesionales&lt;/f4&gt;&lt;f5&gt;o the problems of regional inequality and political instability have similarly influenced the government’s willingness to address such issues, most recently in the decision to develop the west.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T013321Z" creationid="Magui" creationdate="20160920T013321Z">
+        <seg>&lt;f0&gt;de1993) de reformar el sistema tributario.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Desde luego, la atención constante que le dedicaron Hu y Wang&lt;/f2&gt;&lt;f4&gt;https://github.com/TonyMiloro/Pr-cticas-Preprofesionales&lt;/f4&gt;&lt;f5&gt;a los problemas de desigualdad regional e inestabilidad política han influido, de un modo similar, en la disposición del gobierno de abordar dichas problemáticas, más recientemente en la decisión de desarrollar el oeste.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14820,6 +14828,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160905T022831Z">
         <seg>Entonces, Deng puso su mirada en otros miembros del Politburó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, Hu tried to influence government opinion at different levels by circulating his ideas through various internal publications, and these efforts certainly fed into the government’s decision (in the summer&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T012836Z" creationid="Magui" creationdate="20160920T012836Z">
+        <seg>De esta manera, Hu intentó influir en la opinión del gobierno a diferentes niveles difundiendo sus ideas a través de diversas publicaciones internas y estos esfuerzos, sin dudas, repercutieron en la decisión del gobiern (en el verano&lt;/f25&gt;</seg>
       </tuv>
     </tu>
     <tu>
