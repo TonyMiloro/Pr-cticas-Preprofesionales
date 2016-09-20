@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4373,6 +4373,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160912T203036Z" creationid="pibe bazooka" creationdate="20160912T203036Z">
         <seg>La condición de China fue óptima durante los 90´ y a principios del nuevo siglo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China has come a long way from the deep divisions that were so apparent in the period before and after Tiananmen; power is now exercised in a way that both allows for both a primus inter pares and also a balancing of competing interests within the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T033532Z" creationid="cintia soler" creationdate="20160920T033532Z">
+        <seg>China ha avanzado bastante desde las profundas divisiones que eran tan aparentes durante el período anterior y posterior a Tiananmen; el poder ahora es ejercido  </seg>
       </tuv>
     </tu>
     <tu>
@@ -14562,6 +14570,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160908T013410Z">
         <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han surgido en paralelo con lo presentado en el Capítulo&lt;s7/&gt;&lt;/f6&gt;&lt;a8&gt;&lt;f9&gt;4&lt;/f9&gt;&lt;f10&gt;.&lt;s11/&gt;&lt;/f10&gt;&lt;/a8&gt;&lt;f12&gt;Nos centraremos, en especial, en dos acontecimientos que a simple vista parecen contradictorios: por un lado, la aparición de un organismo de pensamiento neoestatista basado en la "capacidad del Estado", y por el otro, el surgimiento del nacionalismo populista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This context implies a long period of navigating among competing interests.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T033245Z" creationid="cintia soler" creationdate="20160920T033245Z">
+        <seg>Este contexto implica un largo período de navegar entre intereses competitivos.</seg>
       </tuv>
     </tu>
     <tu>
