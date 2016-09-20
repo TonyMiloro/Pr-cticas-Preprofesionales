@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4225,6 +4225,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chen was more interested in policy than power, and he seemed both content and determined to force Deng to accept a diminished role in policy-making.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T003424Z" creationid="Usuario" creationdate="20160920T003424Z">
+        <seg>Cheng estaba mas interesado en las políticas que en el poder, y parecía conforme y decidido a onligar a Deng a aceptar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cheng also berated conservatives as people who “have doubts and misgivings” about reform and have “lost the courage to make positive explorations.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;15&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202904Z">
@@ -8065,6 +8073,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175253Z">
         <seg>Con frecuencia había incidentes importantes, que a veces involucraban a miles o incluso decenas de miles de personas, y en ocasiones llegaban a ser violentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, Chen seemed to enjoy prestige in the Party at least in part because he was not personally ambitious.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T002543Z" creationid="Usuario" creationdate="20160920T002543Z">
+        <seg>De hecho, Cheng parecía gozar de prestigio dentrp del partido al menos en gran parte ya que no era particularmente ambicioso.</seg>
       </tuv>
     </tu>
     <tu>
