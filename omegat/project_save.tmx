@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1465,8 +1465,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hu Angang and Wang Shaoguang opposed the negotiated relationship between the central government and the provinces (devolving authority and establishing fiscal contracts) because it had led, in their opinion, to the creation of privileged enclaves and vested interests with special privileges.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160919T223057Z" creationid="Magui" creationdate="20160919T223057Z">
-        <seg>&lt;f0&gt;Hu Angang y Wang Shaoguang estuvieron en contra de la relación entre el gobierno central y las provincias (que delegaba la autoridad y establecía contratos fiscales) porque había desencadenado, en su opinión, la creación de enclaves privilegiados y derechos adquiridos con privilegios especiales.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T145500Z" creationid="Magui" creationdate="20160919T223057Z">
+        <seg>&lt;f0&gt;Hu Angang y Wang Shaoguang estaban en contra de la relación que se había negociado entre el gobierno central y las provincias (que delegaba la autoridad y establecía contratos fiscales) porque había desencadenado, en su opinión, la creación de enclaves privilegiados y derechos adquiridos con privilegios especiales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6662,8 +6662,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He also expounded his views in a lecture to provincial governors at the Central Party School in June.&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160919T225636Z" creationid="Magui" creationdate="20160919T225636Z">
-        <seg>También expuso su postura en una conferencia para gobernadores provinciales en la Escuela Central del Partido Comunista en junio.&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T145719Z" creationid="Magui" creationdate="20160919T225636Z">
+        <seg>También expuso su postura en una conferencia para gobernadores de las provincias en la Escuela Central del Partido Comunista en junio.&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
