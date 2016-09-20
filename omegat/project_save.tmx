@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12966,6 +12966,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020204Z">
         <seg>El libro que anunció el debate sobre los valores asiáticos fue El Japón que puede decir no de Shintaro Ishihara publicado en 1989.27  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bottom line is that as Hu Jintao moves into his second term as general secretary, the Seventeenth Party Congress has given him a substantial, but not unlimited, mandate to pursue his agenda of addressing inequity in society, pursuing growth in ways that are more compatible with sustainable development, and the implementation of Party building efforts that will incorporate a greater degree of inner-Party democracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T032355Z" creationid="cintia soler" creationdate="20160920T032010Z">
+        <seg>El hecho crucial es que a medida que Hu Jintao avanza hacia su segundo periodo como secretario general, el Congreso Decimoseptimo del Partido le ha ofrecido un mandato sustancial, pero no ilimitado, para continuar con su agenda que aborda la inequidad en la sociedad, que persigue el crecimiento de maneras que son mas compatibles con  </seg>
       </tuv>
     </tu>
     <tu>
