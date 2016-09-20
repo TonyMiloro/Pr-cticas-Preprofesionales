@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11062,8 +11062,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Particu- larly intriguing in this regard was his support for the "practice in which candidates for leading positions in grassroots party organizations are rec- ommended by both Party members and the public in an open manner and by the Party organization at the next highest level" and to "gradually extend direct election [zhijie xuanju] of leading members in grass-roots party orga- nizations to more places."&lt;t0/&gt; Although the text makes clear that Hu's reference to "direct election" was limited to inner-Party elections of grassroots leaders, his use of the term "public" (qunzhong, literally, the masses) in reference to recommending local leaders appears to give the green light to local experiments in which non-Party members of the public have played some role in selecting local Party leaders.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T014212Z" creationid="cintia soler" creationdate="20160920T010211Z">
-        <seg>Lo particularmente intrigante en este respecto fue su respaldo a la "práctica en la que los candidatos a posiciones de liderazgo en organizaciones partidarias basicas sean recomendados por miembros de ambos partidos y el público de forma abierta, y  por la organización del partido en el nivel mas alto siguiente" y además a "extender de forma gradual la elección directa (zhijie xuanjiu) de los miembros destacados en organizaciones partidarias basicas hacia otros lugares". Aunque el texto deja bien claro que la </seg>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T030051Z" creationid="cintia soler" creationdate="20160920T010211Z">
+        <seg>Lo particularmente intrigante en este respecto fue su respaldo a la "práctica en la que los candidatos a posiciones de liderazgo en organizaciones partidarias basicas son recomendados por miembros de ambos partidos y el público de forma abierta, y  por la organización del partido en el nivel siguiente mas alto" y además a "extender de forma gradual la elección directa (zhijie xuanjiu) de los miembros destacados en organizaciones partidarias basicas hacia otros lugares". Aunque el texto deja bien claro que la referencia que hace Hu a la "elección directa" solo se limitaba a las elecciones intrapartidarias de los lideres basicos, el uso que hace del termino "publico" (qunzhong, en forma literal, las masas) con referencia a la recomendacion de los lideres localesparece dar luz verde a los experimentos en los cuales los miembros del publico que no pertenecen al partido han tenido una participacion importante en la seleccion de los lideres locales del partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12379,6 +12379,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013435Z">
         <seg>Estos grandes logros diplomáticos ejercieron presión sobre Taiwán, pero no fueron muy útiles para normalizar las relaciones de China con Estados Unidos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such experiments have been highly con- troversial, and while this statement falls far short of what many outside observers would like, it nevertheless represents an important affirmation of inner-Party reform thinking.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="cintia soler" changedate="20160920T031239Z" creationid="cintia soler" creationdate="20160920T031239Z">
+        <seg>Esos experimentos han generado bastante controversia, y aunque este experimento está lejos de alcanzar lo que les gustaria a muchos  </seg>
       </tuv>
     </tu>
     <tu>
