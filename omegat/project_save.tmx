@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5317,8 +5317,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Enlightenment, in the view of many intellectuals, entailed a remaking of Chinese culture, exorcising the “feudal” elements of tradition, and opening up to &lt;t0/&gt;inﬂuences&lt;t1/&gt; from the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232534Z" creationid="Melanie" creationdate="20160919T232534Z">
-        <seg>La Iluminación implicaba, para muchos intelectuales, una reconfección de la cultura China echando fuera los elementos "feudales" de la tradición y abriéndose a influencias occidentales.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T003150Z" creationid="Melanie" creationdate="20160919T232534Z">
+        <seg>La Ilustración implicaba, para muchos intelectuales, una reconfección de la cultura China echando fuera los elementos "feudales" de la tradición y abriéndose a influencias occidentales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8151,8 +8151,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, one of the primary intellectual &lt;t0/&gt;inﬂuences&lt;t1/&gt; at the time was the work of Li &lt;t2/&gt;Zehou&lt;t3/&gt;, a philosopher at CASS, who argued that China’s “enlightenment” project, inaugurated by the New Culture Movement (1915–20), had been constantly interrupted and deferred by “national salvation” movements that had grown up in response to foreign threat and war.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T002928Z" creationid="Melanie" creationdate="20160919T232519Z">
-        <seg>De hecho, en ese momento una de las principales influencias intelectuales fue el trabajo de Li Zehou, un filósofo que trabaja en la Academina China de Ciencias Sociales (CASS), quien argumentaba que el proyecto de la "iluminación de China", iniciada por el Movimiento de la Nueva Cultura (1915-1920), había sido interrumpido y suspendido de manera constante por los movimientos de "salvación nacional" que habían surgido como respuesta a la amenaza y guerra extranjeras.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T003106Z" creationid="Melanie" creationdate="20160919T232519Z">
+        <seg>De hecho, en ese momento una de las principales influencias intelectuales fue el trabajo de Li Zehou, un filósofo que trabaja en la Academina China de Ciencias Sociales (CASS), quien argumentaba que el proyecto de la "Ilustración" de China, iniciado por el Movimiento de la Nueva Cultura (1915-1920), había sido interrumpido y suspendido de manera constante por los movimientos de "salvación nacional" que habían surgido como respuesta a la amenaza y guerra extranjeras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8555,8 +8555,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was time to get back to the enlightenment project.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160918T054232Z" creationid="Usuario" creationdate="20160918T054232Z">
-        <seg>Era hora de volver al proyecto de la Iluminación de China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T003121Z" creationid="Usuario" creationdate="20160918T054232Z">
+        <seg>Era hora de volver al Proyecto de la Ilustración de China.</seg>
       </tuv>
     </tu>
     <tu>
