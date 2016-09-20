@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6196,6 +6196,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guangdong CCP sec.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002740Z" creationid="Bangho" creationdate="20160920T002740Z">
+        <seg>Secretario General PCCh. en Guangdong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guangdong-based Tongzhou gongjin is</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T233352Z">
@@ -6728,6 +6736,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T193344Z" creationid="cintia soler" creationdate="20160919T193344Z">
         <seg>Los logros alcanzados por Hu en este Congreso del Partido fueron reflejados en los dos eventos anteriormente mencionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hubei CCP sec.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002717Z" creationid="Bangho" creationdate="20160920T002717Z">
+        <seg>Secretario General PCCh. en Hubei</seg>
       </tuv>
     </tu>
     <tu>
@@ -11557,6 +11573,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shanghai CCP sec.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002929Z" creationid="Bangho" creationdate="20160920T002929Z">
+        <seg>Secretario General PCCh. en Shanghai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shanghai CPP sec.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002322Z" creationid="Bangho" creationdate="20160920T002322Z">
@@ -14724,6 +14748,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T173640Z">
         <seg>Represión de Tiananmén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tianjin mayor</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002910Z" creationid="Bangho" creationdate="20160920T002910Z">
+        <seg>Alcalde de Tianjin</seg>
       </tuv>
     </tu>
     <tu>
