@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16441,8 +16441,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This was a critique that mostly festered in intellectual circles, but it could on occasion – most notably, following the US bombing of the Chinese Embassy in Belgrade – burst into full view.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160921T183758Z" creationid="Lucia Cipolatti" creationdate="20160921T180229Z">
-        <seg>Esta ideología se intensificó principalmente entre los círculos intelectuales, pero en ocaciones, en especial luego del bombardeo de Estados Unidos sobre la embajada china en Belgrado, se hizo conocer/floreció plenamente.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160921T185618Z" creationid="Lucia Cipolatti" creationdate="20160921T180229Z">
+        <seg>Esta ideología se intensificó principalmente entre los círculos intelectuales, pero en ocaciones, en especial luego del bombardeo de Estados Unidos sobre la embajada china en Belgrado, se hizo notar plenamente.</seg>
       </tuv>
     </tu>
     <tu>
