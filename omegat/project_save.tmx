@@ -4331,8 +4331,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>CDIC Central Discipline Inspection Commission</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T021125Z" creationid="PC" creationdate="20160921T021125Z">
-        <seg>CDIC Comisión</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T021202Z" creationid="PC" creationdate="20160921T021125Z">
+        <seg>CDIC Comisión Central de Inspección Diciplinaria</seg>
       </tuv>
     </tu>
     <tu>
@@ -4373,6 +4373,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160906T003422Z">
         <seg>China desde Tiananmén: desde Deng Xiaoping hasta Hu Jintao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CMC Central Military Commission</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T021212Z" creationid="PC" creationdate="20160921T021212Z">
+        <seg>CMC Comision </seg>
       </tuv>
     </tu>
     <tu>
