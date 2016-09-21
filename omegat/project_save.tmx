@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15023,8 +15023,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The juxtaposition of a very wealthy &lt;f0&gt;nouveau riche&lt;/f0&gt; urban elite and a still struggling rural population and now a new urban poor class has proven a fertile ground for those who question the direction of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T015201Z">
-        <seg>La yuxtaposición de una acaudalada élite urbana, &lt;f0&gt;nouveau riche,&lt;/f0&gt;  una población rural aún en apuros, y ahora una nueva clase urbana de pobres ha probado ser un suelo fértil para quienes cuestionan la ORIENTACIÓN/DIRECCIÓN de la reforma.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T182451Z">
+        <seg>La yuxtaposición de una acaudalada élite urbana, &lt;f0&gt;nouveau riche,&lt;/f0&gt;  una población rural aún en apuros, y ahora una nueva clase urbana de pobres favorece a quienes cuestionan la regulación de la reforma.</seg>
       </tuv>
     </tu>
     <tu>
