@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14771,6 +14771,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160920T145921Z" creationid="Magui" creationdate="20160919T233753Z">
         <seg>El desarrollo de las distintas regiones se promueve entre ellas; un desarrollo no niega el otro”.&lt;/f16&gt;&lt;f18&gt;21&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;En junio de 1994, Jiang Zemin visitó Shenzhen y en un intento por enfriar el debate declaró que las políticas del Partido y del Estado hacia las Zonas Económicas Especiales no habían cambiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their rejection of Deng’s efforts to reduce&lt;s1/&gt;tensions was based not only on the depth of division within the Party but also on the collapse of socialism in Eastern Europe.60 On December 15, Wang Renzhi, the conservative head of the Propaganda Department, launched a blistering attack on bourgeois liberalization in a talk to a Party building class.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T004316Z" creationid="Candelaria" creationdate="20160921T004316Z">
+        <seg>Su rechazo a los esfuerzos de Deng de reducir&lt;s1/&gt;tensions was based not only on the depth of division within the Party but also on the collapse of socialism in Eastern Europe.60 On December 15, Wang Renzhi, the conservative head of the Propaganda Department, launched a blistering attack on bourgeois liberalization in a talk to a Party building class.</seg>
       </tuv>
     </tu>
     <tu>
