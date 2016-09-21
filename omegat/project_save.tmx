@@ -12239,8 +12239,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Pan clearly had political ambitions and fostered neoconservative discussions among young intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160921T235711Z" creationid="pauli" creationdate="20160921T235405Z">
-        <seg>Evidentemente, Pan tenía ambiciones políticas y fomentaba el debate neoconservador entre jóvenes intelectuales .</seg>
+      <tuv lang="ES-US" changeid="pauli" changedate="20160921T235721Z" creationid="pauli" creationdate="20160921T235405Z">
+        <seg>Evidentemente, Pan tenía ambiciones políticas y fomentaba el debate neoconservador entre jóvenes intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16901,6 +16901,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160904T183424Z">
         <seg>Hasta cierto punto, el gobierno debe competir en este mercado de ideas también.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To a certain extent, “Realistic Responses” was a result of such efforts.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="pauli" changedate="20160921T235821Z" creationid="pauli" creationdate="20160921T235821Z">
+        <seg>Hasta cierto punto, "Respuestas realistas" fue el resultado de esa labor.</seg>
       </tuv>
     </tu>
     <tu>
