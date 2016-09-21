@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7645,6 +7645,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Tiananmen reflected a political breakdown, how was the political system put back together?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160921T235913Z" creationid="marielaromina" creationdate="20160921T235913Z">
+        <seg>Si Tiananmen reflejó una </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If he had, he probably would have been retained as a member of the Central Committee.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160913T213750Z" creationid="Nadine" creationdate="20160913T213709Z">
@@ -14837,8 +14845,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The first is politics, particularly elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160921T235524Z" creationid="marielaromina" creationdate="20160921T235524Z">
-        <seg>El primero es la política, en particular la </seg>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160921T235753Z" creationid="marielaromina" creationdate="20160921T235524Z">
+        <seg>El primero es la política, en particular la política de élite.</seg>
       </tuv>
     </tu>
     <tu>
