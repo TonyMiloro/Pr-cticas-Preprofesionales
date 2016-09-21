@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9786,6 +9786,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T013521Z" creationid="PC" creationdate="20160921T013521Z">
+        <seg>Izquierda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leftist ideology also appealed to the vast numbers of Party cadres who worked in state-owned enterprises and whose relevance was thrown into question by the economic reforms.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160909T002036Z">
@@ -12190,6 +12198,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T013528Z" creationid="PC" creationdate="20160921T013528Z">
+        <seg>Derecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rule by law is unreliable.”&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T180617Z" creationid="Usuario-Pc" creationdate="20160919T180214Z">
@@ -12238,10 +12254,26 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STATE</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T013438Z" creationid="PC" creationdate="20160921T013438Z">
+        <seg>ESTADO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STRATEGY AND MANAGEMENT</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T114525Z">
         <seg>Gestión y Estrategia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schematic overview of Chinese political spectrum</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T013432Z" creationid="PC" creationdate="20160921T013432Z">
+        <seg>Diagrama general del espectro político en China</seg>
       </tuv>
     </tu>
     <tu>
@@ -13565,6 +13597,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T132056Z" creationid="pibe bazooka" creationdate="20160914T132056Z">
         <seg>La nueva Izquierda se vio a sí misma como la representante de los pobres en China, y se unió a las líneas de otros movimientos populistas emergentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Political Center</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T013513Z" creationid="PC" creationdate="20160921T013513Z">
+        <seg>El Centro Político</seg>
       </tuv>
     </tu>
     <tu>
