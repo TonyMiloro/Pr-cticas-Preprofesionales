@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2677,6 +2677,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160908T142008Z">
         <seg>Aunque en 1993 había muchos artículos&lt;t0/&gt; en los que se expresaban sentimientos&lt;t1/&gt; nacionalistas, solo algunos hacían referencia a la idea del nacionalismo de manera abierta y directa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although circulated internally, the document was soon leaked to the outside world, quickly becoming the subject of much commentary and sharp criticism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T160025Z" creationid="Melanie" creationdate="20160921T160025Z">
+        <seg>A pesar de que fue pensado para circulación interna, el artículo pronto se filtró al mundo exterior y se convirtió rápidamente en tema central de muchos comentarios y críticas intensas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14567,6 +14575,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T215759Z" creationid="cintia soler" creationdate="20160919T215759Z">
         <seg>El debate se volvió tan intenso que Hu Jintao y Wen Jiabao fueron obligados a hacer fuertes declaraciones reafirmando la reforma y la apertura durante la reunión de la APN de marzo de 2006. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document was written by Yang Ping, then the leading manager of the ideological and theoretical section at China Youth Daily and a close friend of Wang &lt;t0/&gt;Xiaodong&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T160223Z" creationid="Melanie" creationdate="20160921T160223Z">
+        <seg>El documento fue escrito por Yang Ping, el entonces gerente principal de la sección ideológica y teórica del China Youth Daily y también amigo cercando de Wang &lt;t0/&gt;Xiaodong&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
