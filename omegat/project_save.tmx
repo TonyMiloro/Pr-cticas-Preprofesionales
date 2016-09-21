@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1569,8 +1569,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hu and Wang’s criticisms of “devolving authority and granting benefits” and of regional inequalities were clearly intended as critiques of the Deng Xiaoping reform program, and in this sense their views were clearly a part of the broader intellectual reflection on the “failings” of the 1980s and particularly of the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T153252Z" creationid="Magui" creationdate="20160920T002815Z">
-        <seg>&lt;f0&gt;Las críticas de Hu y Wang sobre "delegar la autoridad y otorgar beneficios" y sobre las desigualdades regionales tenían, sin dudas, la intención de criticar el programa de reforma de Deng Xiaoping. En este sentido, sus opiniones fueron claramente parte de la reflexión intelectual más amplia sobre las "fallas" de la década de los 80 y en particular de los 90.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T164417Z" creationid="Magui" creationdate="20160920T002815Z">
+        <seg>&lt;f0&gt;Las críticas de Hu y Wang acerca de "delegar la autoridad y otorgar beneficios" y sobre las desigualdades regionales tenían, sin dudas, la intención de criticar el programa de reforma de Deng Xiaoping. En este sentido, sus opiniones fueron claramente parte de la reflexión intelectual más amplia sobre las "fallas" de la década de los 80 y en particular de los 90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1961,8 +1961,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;policy on regional differences was more palpable: the 1994 NPC meeting drew considerable attention to regional inequalities, Jiang Zemin explic-itly called for reducing regional gaps in his speech to the Fifth Plenum in September 1995, and in 2000 the development of western China was made a major theme of the NPC meeting.&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T153158Z" creationid="Magui" creationdate="20160919T235540Z">
-        <seg>&lt;f0&gt;oficiales referidas a las diferencias regionales fue más evidente: la reunión de la APN en 1994 le dedicó bastante atención a las desigualdades regionales; Jiang Zemin pidió explícitamente reducir las brechas regionales en su discurso durante el Quinto Pleno en septiembre de 1995; y en el año 2000, el desarrollo de China occidental se volvió un tema principal de la reunión de la APN.&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T164353Z" creationid="Magui" creationdate="20160919T235540Z">
+        <seg>&lt;f0&gt;oficiales referidas a las diferencias regionales fue más evidente: la reunión de la APN en 1994 le dedicó bastante atención a las desigualdades regionales; Jiang Zemin pidió explícitamente reducir las brechas regionales en su discurso durante el Quinto Pleno en septiembre de 1995; y en el año 2000, el desarrollo de la China occidental se volvió un tema principal de la reunión de la APN.&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11150,8 +11150,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, Hu felt partial vindication when Zhu Rongji told Lee Hsien Loong (son of Singapore senior minis-ter Lee Kuan Yew and later prime minister) in October of that year that, although the basic policies would remain unchanged, “some readjustment and improvement” was needed in specific measures.&lt;/f19&gt;&lt;f21&gt;22&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;The change in official&lt;/f22&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T150029Z" creationid="Magui" creationdate="20160919T235313Z">
-        <seg>Sin embargo, Hu se sintió en parte reivindicado en octubre de ese año cuando Zhu Rongji le dijo a Lee Hsien Loong (hijo del entonces viceprimer ministro de Singapur Lee Kuan Yew y futuro primer ministro) que, aunque las políticas básicas permanecerían iguales, "algunos reajustes y mejoras" eran necesarios en algunas medidas específicas.&lt;/f19&gt;&lt;f21&gt;22&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;El cambio en las políticas&lt;/f22&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T164305Z" creationid="Magui" creationdate="20160919T235313Z">
+        <seg>Sin embargo, Hu se sintió en parte reivindicado en octubre de ese año cuando Zhu Rongji le dijo a Lee Hsien Loong (hijo del entonces viceprimer ministro de Singapur Lee Kuan Yew y futuro primer ministro) que, aunque las políticas básicas permanecerían iguales, "algunos reajustes y mejoras" eran necesarios en medidas específicas.&lt;/f19&gt;&lt;f21&gt;22&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;El cambio en las políticas&lt;/f22&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13441,8 +13441,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Social fairness was a moral issue in the general sense that reforms creating winners and losers also created a moral obligation to help those who lost from reform – as well as in the specific sense that growing income inequalities undermined the egalitarian commitments that underlay much of the Communist Party’s claim to legitimacy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T004505Z" creationid="Magui" creationdate="20160920T004505Z">
-        <seg>En general, es un problema moral porque las reformas que crean ganadores y perdedores también crearon la obligación moral de ayudar a los que salieron perdiendo con la reforma y en particular, porque las desigualdades salariales crecientes socavaron las responsabilidades igualitarias que sustentaban gran parte del derecho a la legitimidad del Partido Comunista.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T164524Z" creationid="Magui" creationdate="20160920T004505Z">
+        <seg>En general, era un problema moral porque las reformas que crearon ganadores y perdedores también crearon la obligación moral de ayudar a los que salieron perdiendo con la reforma; y en particular, porque las desigualdades salariales crecientes socavaron las responsabilidades igualitarias que sustentaban gran parte del derecho a la legitimidad del Partido Comunista.</seg>
       </tuv>
     </tu>
     <tu>
