@@ -3107,8 +3107,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April &lt;f0&gt;14 &lt;/f0&gt;Management buyouts of large state-owned</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T011138Z" creationid="PC" creationdate="20160921T011138Z">
-        <seg>&lt;f0&gt;14 &lt;/f0&gt;de abril Se prohíbe  MBO de </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011310Z" creationid="PC" creationdate="20160921T011138Z">
+        <seg>&lt;f0&gt;14 &lt;/f0&gt;de abril Se prohíben los MBO para las grandes </seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,8 +10126,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>March 17 Jiao Guobiao is dismissed from Peking University</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183524Z" creationid="PC" creationdate="20160920T041336Z">
-        <seg>17 de marzo Jiao Guobiao es expulsado de la Univeridad de Pekín</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011317Z" creationid="PC" creationdate="20160920T041336Z">
+        <seg>17 de marzo Jiao Guobiao es expulsado de la Univeridad de Pekín.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10886,8 +10886,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>November 23 Wang Guangze, a journalist at the 21st Century Business Herald, is fired</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T040603Z" creationid="PC" creationdate="20160920T040603Z">
-        <seg>23 de noviembre - Wang Guangze, un periodísta del 21st Century Business Herald, es despedido</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011347Z" creationid="PC" creationdate="20160920T040603Z">
+        <seg>23 de noviembre - Despiden a Wang Guangze, un periodísta del 21st Century Business Herald.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12785,8 +12785,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Small- and medium-sized SOEs must clarify who is funding a buyout and who will manage the business before any MBO can be approved</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T011026Z" creationid="PC" creationdate="20160920T041546Z">
-        <seg>Pequeñas y medianas empresas estatales deben aclarar quien financia la compra y quien manejará el negocio antes de que sea aprobada el MBO</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011325Z" creationid="PC" creationdate="20160920T041546Z">
+        <seg>Pequeñas y medianas empresas estatales deben aclarar quien financia la compra y quien manejará el negocio antes de que sea aprobada el MBO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17694,6 +17694,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044806Z">
         <seg>la propuesta de ley de propiedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>enterprises are banned</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011250Z" creationid="PC" creationdate="20160921T011250Z">
+        <seg>empresas estatales.</seg>
       </tuv>
     </tu>
     <tu>
