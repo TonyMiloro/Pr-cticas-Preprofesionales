@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3379,8 +3379,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As noted in the previous chapter, the abortive August 1991 coup in the Soviet Union marked a watershed in Chinese elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T150315Z" creationid="Melanie" creationdate="20160921T150001Z">
-        <seg>Como se indicó en el capítulo anterior, el intento fallido de golpe de estado de agosto de 1991 en la Unión Soviética marcó un punto de inflexión en los políticos de elite chinos.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T150428Z" creationid="Melanie" creationdate="20160921T150001Z">
+        <seg>Como se indicó en el capítulo anterior, el intento fallido de golpe de estado en la Unión Soviética que ocurrió en agosto de 1991 marcó un punto de inflexión en las políticas de elite chinas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3621,6 +3621,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160909T222738Z">
         <seg>Además de (o quizás detrás &lt;t4/&gt; &lt;t5/&gt;de) tales preocupaciones ideológicas habían intereses muy diferentes, tanto&lt;t6/&gt; &lt;t7/&gt;políticos como económicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At &lt;t0/&gt;ﬁrst&lt;t1/&gt; overjoyed by news of the coup, conservative critics of Deng Xiaoping began celebrating and holding meetings.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T150726Z" creationid="Melanie" creationdate="20160921T150726Z">
+        <seg>Al &lt;t0/&gt;principio&lt;t1/&gt;, deleitados por las noticias del golpe de estado, los críticos conservativos de Dend Xiaoping comenzaron a celebrar y a , conservative critics of Deng Xiaoping began celebrating and holding meetings.</seg>
       </tuv>
     </tu>
     <tu>
