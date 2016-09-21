@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12423,8 +12423,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Populism, as we have noted, was inevitably directed against the government elite, and as the critical perspectives of New Left intellectuals blended with the popular nationalism of people like Wang Xiaodong, a powerful critique emerged of a weak and corrupt government selling out&lt;s0/&gt;the Chinese people in the interests of the government and international corporations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160921T173923Z" creationid="Lucia Cipolatti" creationdate="20160921T172110Z">
-        <seg>El populismo, como ya se mencionó, se dirigía inevitablemente contra la élite gobernante, y debido a que los puntos críticos de la Nueva Izquierda se combinaron con las del nacionalismo popular de personas como Wang Xiaodong, una crítica poderosa surgió a partir de un gobierno corrupto y débil,  &lt;segmento 10626&gt;il, </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160921T174628Z" creationid="Lucia Cipolatti" creationdate="20160921T172110Z">
+        <seg>El populismo, como ya se mencionó, se dirigía inevitablemente contra la élite gobernante, y debido a que los puntos críticos de la Nueva Izquierda se combinaron con las del nacionalismo popular de personas como Wang Xiaodong, una crítica poderosa surgió a partir de un gobierno corrupto y débil que traicionaba a  &lt;segmento 10626&gt;il, </seg>
       </tuv>
     </tu>
     <tu>
