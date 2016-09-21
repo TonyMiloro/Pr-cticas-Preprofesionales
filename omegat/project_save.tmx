@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>17th Party Congress 280</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T024153Z" creationid="PC" creationdate="20160921T024153Z">
+        <seg>XVII Congreso del Partido 280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>18; He Xin, “Dangdai &lt;t0/&gt;shijie jingji xingshi fenxi,” p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="pauli" changedate="20160908T193459Z">
@@ -344,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>4 Frequency of formulations 253</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T024009Z" creationid="PC" creationdate="20160921T024009Z">
-        <seg>4 Frecuencia de </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T024056Z" creationid="PC" creationdate="20160921T024009Z">
+        <seg>4 Frecuencia de formulaciones 253</seg>
       </tuv>
     </tu>
     <tu>
@@ -487,6 +495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 Politburo membership before and after the</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T024134Z" creationid="PC" creationdate="20160921T024134Z">
+        <seg>5 Miembros del Politburó antes y después del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>503.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023009Z">
@@ -611,6 +627,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160920T092336Z" creationid="Administrador" creationdate="20160920T092336Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 The Secretariat 281</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T024158Z" creationid="PC" creationdate="20160921T024158Z">
+        <seg>6 </seg>
       </tuv>
     </tu>
     <tu>
