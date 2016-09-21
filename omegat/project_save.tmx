@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1953,8 +1953,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;of 1993) to revamp the tax system.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Certainly the constant attention Hu and Wang have drawn t&lt;/f2&gt;&lt;f4&gt;https://github.com/TonyMiloro/Pr-cticas-Preprofesionales&lt;/f4&gt;&lt;f5&gt;o the problems of regional inequality and political instability have similarly influenced the government’s willingness to address such issues, most recently in the decision to develop the west.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T153930Z" creationid="Magui" creationdate="20160920T013321Z">
-        <seg>&lt;f0&gt;de1993) de reformar el sistema tributario.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Desde luego, la atención constante que le dedicaron Hu y Wang&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;a los problemas de desigualdad regional e inestabilidad política ha influido, de un modo similar, en la disposición del gobierno de abordar dichas problemáticas, como en la reciente decisión de desarrollar el oeste.&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T165331Z" creationid="Magui" creationdate="20160920T013321Z">
+        <seg>&lt;f0&gt;de 1993) de reformar el sistema tributario.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Desde luego, la atención constante que le dedicaron Hu y Wang&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;a los problemas de desigualdad regional e inestabilidad política ha influido, de un modo similar, en la disposición del gobierno de abordar dichas problemáticas, como en la reciente decisión de desarrollar el oeste.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9322,8 +9322,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It is not that people in the government, particularly the Ministry of Finance, had not thought of implementing tax reform – indeed, Lou Jiwei was appointed vice-minister of finance largely to draft a reform of the tax system – but that Hu and Wang’s report on state capacity packaged the idea in a compelling fashion that helped persuade political elites outside the ministry to accept ideas they had previously rejected.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T153445Z" creationid="Magui" creationdate="20160920T010523Z">
-        <seg>Esto no significa que las personas en el gobierno, en particular el Ministro de Economía, no hayan pensado en implementar una reforma tributaria (de hecho, Lou Jiwei fue designado viceministro de economía en gran parte para hacer un borrador de dicha reforma), pero el informe sobre capacidad del Estado de Hu y Wang planteaba la idea de una manera tan convincente que ayudaba a persuadir a elites políticas por fuera del ministerio a aceptar las ideas que antes habían rechazado.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T164618Z" creationid="Magui" creationdate="20160920T010523Z">
+        <seg>Esto no significa que los miembros del gobierno, en particular el Ministro de Economía, no hayan pensado en implementar una reforma tributaria (de hecho, Lou Jiwei fue designado viceministro de Economía en gran parte para hacer un borrador de dicha reforma), pero el informe sobre capacidad del Estado de Hu y Wang planteaba la idea de una manera tan convincente que ayudaba a persuadir a elites políticas por fuera del ministerio a aceptar las ideas que antes habían rechazado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15288,8 +15288,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The report was subsequently reprinted in the Central Policy Research Office’s publication&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Internal Information&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;(&lt;/f13&gt;&lt;f15&gt;Neibu xinxi&lt;/f15&gt;&lt;f16&gt;), which is directed at the top leadership, and then, in a longer version, in the&lt;s17/&gt;&lt;/f16&gt;&lt;f18&gt;People’s Daily&lt;/f18&gt;&lt;f19&gt;’s internal pub-lication,&lt;s20/&gt;&lt;/f19&gt;&lt;f21&gt;Internal Reference Reading&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;(&lt;/f22&gt;&lt;f24&gt;Neibu canyue&lt;/f24&gt;&lt;f25&gt;), which has a much wider circulation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T153819Z" creationid="Magui" creationdate="20160920T012423Z">
-        <seg>Luego, el informe fue reimpreso en la publicación de la Oficina de Investigación de Políticas del Comité Central&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Internal Information&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;(&lt;/f13&gt;&lt;f15&gt;Neibu xinxi&lt;/f15&gt;&lt;f16&gt;), dirigida a los máximos líderes, y más tarde fue publicado en una versión más larga en la publicación interna de&lt;s17/&gt;&lt;/f16&gt;&lt;f18&gt;People’s Daily&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;&lt;/f19&gt;&lt;f21&gt;Internal Reference Reading&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;(&lt;/f22&gt;&lt;f24&gt;Neibu canyue&lt;/f24&gt;&lt;f25&gt;), que cuenta con una difusión mucho más amplia.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T164732Z" creationid="Magui" creationdate="20160920T012423Z">
+        <seg>Luego, el informe fue reimpreso en la publicación de la Oficina de Investigación de Políticas del Comité Central,&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Internal Information&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;(&lt;/f13&gt;&lt;f15&gt;Neibu xinxi&lt;/f15&gt;&lt;f16&gt;), dirigida a los máximos líderes, y más tarde fue publicado en una versión más larga en la publicación interna de&lt;s17/&gt;&lt;/f16&gt;&lt;f18&gt;People’s Daily,&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;&lt;/f19&gt;&lt;f21&gt;Internal Reference Reading&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;(&lt;/f22&gt;&lt;f24&gt;Neibu canyue&lt;/f24&gt;&lt;f25&gt;), que cuenta con una difusión mucho más amplia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16675,8 +16675,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, Hu tried to influence government opinion at different levels by circulating his ideas through various internal publications, and these efforts certainly fed into the government’s decision (in the summer&lt;/f25&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T153837Z" creationid="Magui" creationdate="20160920T012836Z">
-        <seg>De esta manera, Hu intentó influir en la opinión del gobierno en diferentes niveles haciendo circular sus ideas a través de diversas publicaciones internas y estos esfuerzos, sin dudas, repercutieron en la decisión del gobierno (en el verano&lt;/f25&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T164739Z" creationid="Magui" creationdate="20160920T012836Z">
+        <seg>De esta manera, Hu intentó influir en la opinión del gobierno en diferentes niveles haciendo circular sus ideas a través de diversas publicaciones internas, y estos esfuerzos, sin dudas, repercutieron en la decisión del gobierno (en el verano&lt;/f25&gt;</seg>
       </tuv>
     </tu>
     <tu>
