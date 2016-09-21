@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3693,6 +3693,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045152Z">
         <seg>10 de agosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>August 10 Selected Works of Jiang Zemin are published</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T012355Z" creationid="PC" creationdate="20160921T012355Z">
+        <seg>10 de agosto Se publican obras selectas de Jiang Zemin</seg>
       </tuv>
     </tu>
     <tu>
@@ -10228,6 +10236,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>March 5–14 Fourth Session of the Tenth National People’s Congress meeting discusses Eleventh Five-Year Program</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T012332Z" creationid="PC" creationdate="20160921T012332Z">
+        <seg>5 - 14 de marzo Cuarta sesión plenaria de la reunión del Décimo Congreso Nacional del Pueblo trata el Décimo Primer Programa de Cinco Años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>March 5–16</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045619Z">
@@ -12550,6 +12566,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>September 24 Party Secretary of Shanghai Chen Liangyu is removed from office for his involvement in a security fund scandal</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T012513Z" creationid="PC" creationdate="20160921T012513Z">
+        <seg>24 de septiembre El secretario del partido de Shanghai, Chen Liangyu es removido del crgo por su participación en el escándalos de los fondos de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>September 25–28</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015727Z">
@@ -12795,6 +12819,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045446Z">
         <seg>Sexto pleno del Décimo Sexto Comité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sixth Plenary Session of the Sixteenth Central Committee</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T012538Z" creationid="PC" creationdate="20160921T012538Z">
+        <seg>Sexta sesión plenaria del Décimo Sexto Comité Central </seg>
       </tuv>
     </tu>
     <tu>
