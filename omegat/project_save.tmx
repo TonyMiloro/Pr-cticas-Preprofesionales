@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3373,6 +3373,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T012942Z" creationid="marcelo lavarda" creationdate="20160916T012640Z">
         <seg>Como ya se ha mencionado, Qiao apoyó la campaña de reforma de Deng durante la primavera de 1992, mucho antes de que Jiang Zemin saliera a su favor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As noted in the previous chapter, the abortive August 1991 coup in the Soviet Union marked a watershed in Chinese elite politics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T150315Z" creationid="Melanie" creationdate="20160921T150001Z">
+        <seg>Como se indicó en el capítulo anterior, el intento fallido de golpe de estado de agosto de 1991 en la Unión Soviética marcó un punto de inflexión en los políticos de elite chinos.</seg>
       </tuv>
     </tu>
     <tu>
