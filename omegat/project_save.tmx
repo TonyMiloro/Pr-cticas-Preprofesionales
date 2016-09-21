@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10854,8 +10854,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>November 11 Propaganda Department issues Document Number 29</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183714Z" creationid="PC" creationdate="20160920T040509Z">
-        <seg>11 de noviembre El departamento de propaganda emite el Documento Número 29</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011358Z" creationid="PC" creationdate="20160920T040509Z">
+        <seg>11 de noviembre El departamento de propaganda emite el Documento Número 29.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12424,8 +12424,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 13 Yitahutu chatroom is closed down</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183531Z" creationid="PC" creationdate="20160920T040049Z">
-        <seg>13 de septiembre Se cierra el foro de discución en línea Yitahutu</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011414Z" creationid="PC" creationdate="20160920T040049Z">
+        <seg>13 de septiembre Se cierra el foro de discución en línea Yitahutu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12464,8 +12464,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 19 Jiang Zemin retires from the Central Military Commission</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183705Z" creationid="PC" creationdate="20160920T040233Z">
-        <seg>19 de septiembre Jiang Zemin se retira de la Comisión Militar Central </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011407Z" creationid="PC" creationdate="20160920T040233Z">
+        <seg>19 de septiembre Jiang Zemin se retira de la Comisión Militar Central. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12512,8 +12512,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 22 Strategy and Management is closed down</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183709Z" creationid="PC" creationdate="20160920T040435Z">
-        <seg>22 de septiembre Se deja de publicar la revista Strategy and Management</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011403Z" creationid="PC" creationdate="20160920T040435Z">
+        <seg>22 de septiembre Se deja de publicar la revista Strategy and Management.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12592,8 +12592,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>September 8 Southern Personalities Weekly publishes list of the 50 most influential Chinese public intellectuals</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183527Z" creationid="PC" creationdate="20160920T040010Z">
-        <seg>8 de septiembre Southern Personalities Weekly publiica una lista de los 50 intelectuales chinos más influyentes</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011419Z" creationid="PC" creationdate="20160920T040010Z">
+        <seg>8 de septiembre Southern Personalities Weekly publiica una lista de los 50 intelectuales chinos más influyentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17193,6 +17193,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Xinhua News Agency issues draft Property Law</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011521Z" creationid="PC" creationdate="20160921T011521Z">
+        <seg>La agencia de noticias Xinhua emite una propuesta de ley de propiedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Xinjiang CCP sec.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002548Z" creationid="Bangho" creationdate="20160920T002548Z">
@@ -17756,8 +17764,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>former Guangdong Party Secretary Ren Zhongyi</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T035909Z" creationid="PC" creationdate="20160920T035507Z">
-        <seg>el ex secretario del partido de Cantón Ren Zhongyi</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011423Z" creationid="PC" creationdate="20160920T035507Z">
+        <seg>el ex secretario del partido de Cantón Ren Zhongyi.</seg>
       </tuv>
     </tu>
     <tu>
