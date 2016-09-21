@@ -4291,8 +4291,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>CAC Central Advisory Commission</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T020920Z" creationid="PC" creationdate="20160921T020920Z">
-        <seg>CCC Comisión Consultiva Central</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T021041Z" creationid="PC" creationdate="20160921T020920Z">
+        <seg>CAC Comisión Consultiva Central</seg>
       </tuv>
     </tu>
     <tu>
@@ -4307,8 +4307,16 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>CASS Chinese Academy of Social Sciences</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T021036Z" creationid="PC" creationdate="20160921T021036Z">
-        <seg>CASS Academi China de Ciencias Sociales</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T021048Z" creationid="PC" creationdate="20160921T021036Z">
+        <seg>CASS Academia China de Ciencias Sociales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CCP Chinese Communist Party</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T021108Z" creationid="PC" creationdate="20160921T021108Z">
+        <seg>CCP Partido Comunista Chino</seg>
       </tuv>
     </tu>
     <tu>
@@ -4317,6 +4325,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160919T233441Z" creationid="Bangho" creationdate="20160919T233441Z">
         <seg>Comisión Central de Inspección de Disciplina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CDIC Central Discipline Inspection Commission</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T021125Z" creationid="PC" creationdate="20160921T021125Z">
+        <seg>CDIC Comisión</seg>
       </tuv>
     </tu>
     <tu>
