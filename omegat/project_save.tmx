@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7905,6 +7905,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160917T205608Z" creationid="Flor" creationdate="20160917T205608Z">
         <seg>A diferencia de los neostatistas, los Izquierdistas se preocupaban por la institucionalización "prematura", el esclarecimiento de los derechos de propiedad, las relaciones de poder escondidas detrás relaciones capitalistas, y la integración de la economía de China en la economía internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In direct opposition to Deng’s theses that economic development would promote social stability and that ideological debates should be put off – or better, not taken up – Wang argued that stability could only&lt;s2/&gt;be built on the basis of Marxist ideology.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T005405Z" creationid="Candelaria" creationdate="20160921T005405Z">
+        <seg>La oposición directa a las tésis de Deng sobre el desarrollo económico que promovería la estabilidad social y los debates ideológicos deberían ser desplazados, o quizás, no llevados a cabo, Wang discutió que la estabilidad solo podría&lt;s2/&gt; ser construída sobre la base de la ideología Marxista.</seg>
       </tuv>
     </tu>
     <tu>
