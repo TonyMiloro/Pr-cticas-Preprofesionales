@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2627,8 +2627,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although China remains a state-dominated country, public opinion is challenging and inﬂuencing state policy in ways not evident a decade ago.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T012420Z">
-        <seg>A pesar de que China se mantiene como un país dominado por el estado, la opinión pública está desafiando e influenciando a las políticas estatales de tales formas que no se habían manifestado una década atrás.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T183057Z">
+        <seg>A pesar de que China se mantiene como un país dominado por el estado, la opinión pública está desafiando e influenciando a las políticas estatales de formas que no se habían manifestado una década atrás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,8 +4147,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>But as social inequalities grew, &lt;s1/&gt;new &lt;s2/&gt;doubts &lt;s3/&gt;and &lt;s4/&gt;debates &lt;s5/&gt;broke &lt;s6/&gt;out, &lt;s7/&gt;particularly &lt;s8/&gt;starting &lt;s9/&gt;in &lt;s10/&gt;2004.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160905T021211Z">
-        <seg>Sin embargo, a medida que las inequidades sociales crecían, &lt;s1/&gt; &lt;s2/&gt;se desencadenaron dudas &lt;s3/&gt;y &lt;s4/&gt;debates nuevos&lt;s5/&gt; &lt;s6/&gt;, &lt;s7/&gt;en particular &lt;s8/&gt;a comienzos &lt;s9/&gt;de &lt;s10/&gt;2004.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T183022Z">
+        <seg>Sin embargo, a medida que las desigualdades sociales crecían, &lt;s1/&gt; &lt;s2/&gt;se desencadenaron dudas &lt;s3/&gt;y &lt;s4/&gt;debates nuevos&lt;s5/&gt; &lt;s6/&gt;, &lt;s7/&gt;en particular &lt;s8/&gt;a comienzos &lt;s9/&gt;de &lt;s10/&gt;2004.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14010,8 +14010,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>That deadlock was broken by Deng Xiaoping’s journey to the south in early 1992, and reform regained momentum.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T011141Z">
-        <seg>El viaje de Deng Xiaoping al sur en 1992 los sacó del punto muerto, y la reforma retomó impulso.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T182927Z">
+        <seg>El viaje de Deng Xiaoping al sur a principios de 1992 quebró el impasse, y la reforma retomó impulso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17123,8 +17123,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Unlike the earlier round of debates, the more recent ones have reﬂected the growth of an urban public opinion and a populist urge backed up by the growth of the Internet and other technologies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T012318Z">
-        <seg>A diferencia de las rondas de debate anteriores, los más recientes han reflejado el crecimiento de una opinión pública urbana y una necesidad populista respaldada por el crecimiento de internet y otras tecnologías.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T183044Z">
+        <seg>A diferencia de las rondas de debate anteriores, las más recientes han reflejado el crecimiento de una opinión pública urbana y una necesidad populista respaldada por el crecimiento de internet y otras tecnologías.</seg>
       </tuv>
     </tu>
     <tu>
