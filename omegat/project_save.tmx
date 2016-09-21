@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7847,8 +7847,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In September, Li asked in a sharply worded interview with the PRC-owned Hong Kong paper Ta kung pao: “Why do we always have to go to excess?” Berating conservative ideologues, Li said that “[w]e must not use dogmatic and rigid methods to criticize bourgeois liberalization.”47</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160921T015044Z" creationid="Usuario" creationdate="20160921T011501Z">
-        <seg>En septiembre, Li preguntó en una entrevista en términos incisivos con  el diario Ta Kung Pao de Hong Kong</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160921T021017Z" creationid="Usuario" creationdate="20160921T011501Z">
+        <seg>En septiembre, Li preguntó en una entrevista en términos incisivos con  el diario Ta Kung Pao de Hong Kong del Partido Comunista de China: "Por qué siempre tenemos que ser tan excesivos" Regañando las ideologias conservadoras, Li dijo que "No debemos utilizar métodos dogmáticos y rigidos ara criticar la liberalización burguesa". 47</seg>
       </tuv>
     </tu>
     <tu>
