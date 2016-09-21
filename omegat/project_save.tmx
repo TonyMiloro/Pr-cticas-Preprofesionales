@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4611,8 +4611,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Certainly not all government–business relationships are corrupt, but entrepreneurs do cultivate political relationships and the fabric of such relationships distorts public policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T233846Z">
-        <seg>Sin duda no todas las relaciones entre gobiernos y empresas son corruptas, pero los empresarios sÍ cultivan relaciones políticas, y el entretejido de esas relaciones distorsiona las políticas públicas.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T180257Z">
+        <seg>Sin duda no todas las relaciones entre gobiernos y empresas son corruptas, pero los empresarios sí cultivan relaciones políticas, y el entretejido de esas relaciones distorsiona las políticas públicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13762,8 +13762,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Such cases – and many more – reﬂect the density of corrupt relationships that bind many ofﬁcials and entrepreneurs together.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T233353Z">
-        <seg>Estos casos - entre otros- reflejan la firmeza de las relaciones corruptas que une a muchos funcionarios y empresarios.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T180450Z">
+        <seg>Estos casos, entre otros, reflejan la densidad de las relaciones corruptas que vinculan a muchos funcionarios y empresarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15657,8 +15657,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There have been spectacular cases of corruption revealed over recent years, such as the Xiamen smuggling operation uncovered in 1998 and the Zhou Zhengyi land development case revealed in Shanghai in 2004.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160909T232706Z">
-        <seg>Hubo casos increíbles de corrupción que se han dado a conocer durante los últimos años, entre ellos, la operación de contrabando en Xiamen descubierto en 1998 y el caso de desarrollo inmobiliario de Zhou Zhengyi descubierto en Shanghai en 2004.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T180357Z">
+        <seg>Hubo casos increíbles de corrupción que se han dado a conocer durante los últimos años, entre ellos, la operación de contrabando en Xiamen descubierta en 1998 y el caso de desarrollo inmobiliario de Zhou Zhengyi descubierto en Shanghai en 2004.</seg>
       </tuv>
     </tu>
     <tu>
