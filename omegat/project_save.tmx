@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11921,6 +11921,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160920T200244Z" creationid="Flor" creationdate="20160920T200244Z">
         <seg>Uno de los aspectos más notables de la crisis del sras es que no causó un cuestionamiento masivo a las autoridades gubernamentales ni se exigieron reformas políticas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of those at the discussion meeting was Jiang Hong, who later became deputy head of the State Asset Management Bureau.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T161615Z" creationid="Melanie" creationdate="20160921T161505Z">
+        <seg>Uno de los presentes en el debate fue Jiang Hong, quien luego se convirtió en subdirector de la Agencia Estatal de Administración de Activos.e</seg>
       </tuv>
     </tu>
     <tu>
