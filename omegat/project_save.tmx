@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9630,6 +9630,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160915T175239Z" creationid="Sabri" creationdate="20160915T175018Z">
         <seg>El apoyo por parte de Jiang &lt;t2/&gt;Zemin&lt;t3/&gt; para&lt;t4/&gt; &lt;t5/&gt;el ingreso de China en la GATT/OMC puede ser rastreado hacia el período de&lt;t6/&gt; &lt;t7/&gt;1993-4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang &lt;t4/&gt;reﬂected&lt;t5/&gt; the sometimes erratic paths, in careers and thinking, taken by young people between the late 1970s and the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T161946Z" creationid="Melanie" creationdate="20160921T161946Z">
+        <seg>Jiang &lt;t4/&gt;reflejaba&lt;t5/&gt; los ocasionales caminos erráticos que tomaban los jóvenes entre los años 70 y 90, con respecto a sus carerras y formas de pensar.</seg>
       </tuv>
     </tu>
     <tu>
