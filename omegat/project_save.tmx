@@ -13947,8 +13947,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>The CCP did restore its dominance over society remarkably quickly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T031034Z" creationid="PC" creationdate="20160921T031034Z">
-        <seg>El PCC recobró su poder en la sociedad </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T031202Z" creationid="PC" creationdate="20160921T031034Z">
+        <seg>El PCC recobró su poder en la sociedad en tiempo récord.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14375,6 +14375,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160910T025945Z">
         <seg>La decisión de publicar dichos detalles, sin informar a los chinos, habría venido de la Casa Blanca. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The deep differences of opinion within the party were muted if not eliminated by the purge of Party head Zhao Ziyang and other top leaders.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T031318Z" creationid="PC" creationdate="20160921T031318Z">
+        <seg>Las diferencias de oponión más contrastantes dentro del partido fueron silencidas, sino eliminadas, tras la limpieza del </seg>
       </tuv>
     </tu>
     <tu>
