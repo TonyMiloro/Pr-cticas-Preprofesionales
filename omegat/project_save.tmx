@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12649,8 +12649,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Since that time, the Fifth Plenum decision declared, economic policy had ignored China’s “national strength,” allowed aggregate demand to “far, far” exceed aggregate supply, permitted the balance between industry and agriculture to be thrown off, ignored basic industries, and overly dispersed financial resources, thus eroding the state’s ability to exercise macroeconomic control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T001616Z" creationid="Candelaria" creationdate="20160921T001353Z">
-        <seg>Desde entonces, la quinta asamblea, decilaró que la política económica había ignorado el "potencial nacional" de China, permitiendo una demanda total hacia un abastecimiento total en exceso "lejano, lejano", lo que permitió que el balance entre la industria agropecuaria e industrial sea lanzado, ignorando las industrias básicas; y dispersando los recursos financieros en demasía, y por lo tanto, la erosión de la habilidad del estado para ejercer un control macroeconómico. Since that time, the Fifth Plenum decision declared, economic policy had ignored China’s “national strength,” allowed aggregate demand to “far, far” exceed aggregate supply, permitted the balance between industry and agriculture to be thrown off, ignored basic industries, and overly dispersed financial resources, thus eroding the state’s ability to exercise macroeconomic control.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T001622Z" creationid="Candelaria" creationdate="20160921T001353Z">
+        <seg>Desde entonces, la quinta asamblea, decilaró que la política económica había ignorado el "potencial nacional" de China, permitiendo una demanda total hacia un abastecimiento total en exceso "lejano, lejano", lo que permitió que el balance entre la industria agropecuaria e industrial sea lanzado, ignorando las industrias básicas; y dispersando los recursos financieros en demasía, y por lo tanto, la erosión de la habilidad del estado para ejercer un control macroeconómico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15011,6 +15011,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T013013Z" creationid="Melanie" creationdate="20160919T232834Z">
         <seg>Según él creía, estas personas &lt;t0/&gt;se identificaban&lt;t1/&gt; con occidente y denigraban al pueblo chino sobre la base de estándares occidentales, algo que él luego catalogaría como "racismo inverso". Como él lo describía, los autores "ridiculizaban el amor torpe por la tierra amarilla que sentían los campesinos chinos y veneraban profundamente el valor y la perspicacia de los occidentales al exponerse a &lt;t2/&gt;dificultades&lt;t3/&gt; innumerables". En un artículo posterior, Wang manifestó que en los años 80 (e incluso en los 90) "los intelectuales chinos se dejaron llevar por la idea de que la cultura china era inferior y que la población china era una raza inferior", lo cual constituía una tendencia de pensamiento que, según Wang, el gobierno había fomentado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These problems, the decision declared, constituted a “mortal wound” (zhimingshang) to the economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T001841Z" creationid="Candelaria" creationdate="20160921T001841Z">
+        <seg>Estos problemas declarados por la desición, constituyeron una "herida mortal" (zhimingshang) para la economía.</seg>
       </tuv>
     </tu>
     <tu>
