@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15569,8 +15569,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;responded with a series of highly vitriolic and personal attacks on&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu, and the&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Enlightenment Daily&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;ran an article arguing that the zones should be made even more special.&lt;/f13&gt;&lt;f15&gt;20&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;The crux of the responses was (1) that the SEZs were still necessary to introduce and experiment with various forms of man-agement and government–enterprise relations and (2) that Hu’s arguments did not take the realities of China into account, that to eliminate the SEZ’s special role would amount to “contemporary egalitarianism”: “The special zones’ development does not hinder other regions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T153153Z" creationid="Magui" creationdate="20160919T232853Z">
-        <seg>El periódico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;respondió con una serie de ataques personales y ponzoñosos hacia&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu y el diario&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Enlightenment Daily&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;publicó un artículo que sostenía que las zonas deberían ser todavía más especiales.&lt;/f13&gt;&lt;f15&gt;20&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;La esencia de las respuestas era, en primer lugar, que las Zonas Económicas Especiales todavía eran necesarias para introducir y experimentar las diversas formas de administración y relaciones entre el gobierno y las empresas y, en segundo lugar, que los argumentos de Hu no tenían en cuenta las realidades de China y que eliminar el rol especial de las Zonas Económicas Especiales llevaría a un "igualitarismo contemporáneo": "El desarrollo de las Zonas Económicas Especiales no perjudica a las otras regiones.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T163646Z" creationid="Magui" creationdate="20160919T232853Z">
+        <seg>El periódico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;respondió con una serie de ataques personales y ponzoñosos hacia&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu y el diario&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Enlightenment Daily&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;publicó un artículo que sostenía que las zonas deberían ser todavía más especiales.&lt;/f13&gt;&lt;f15&gt;20&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;La esencia de las respuestas era, en primer lugar, que las Zonas Económicas Especiales todavía eran necesarias para introducir y experimentar las diversas formas de administración y relaciones entre el gobierno y las empresas y, en segundo lugar, que los argumentos de Hu no tenían en cuenta las realidades de China y que eliminar el rol especial de las Zonas Económicas Especiales llevaría a un "igualitarismo contemporáneo": "El desarrollo de las ZEE no perjudica a las otras regiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15585,8 +15585,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Their development and the development of other regions can only promote one another; they do not negate one another.”&lt;/f16&gt;&lt;f18&gt;21&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;In June 1994 Jiang Zemin visited Shenzhen and tried to dampen the debate by declaring that the Party’s and state’s policies toward the SEZs had not changed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T145921Z" creationid="Magui" creationdate="20160919T233753Z">
-        <seg>El desarrollo de las distintas regiones se promueve entre ellas; un desarrollo no niega el otro”.&lt;/f16&gt;&lt;f18&gt;21&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;En junio de 1994, Jiang Zemin visitó Shenzhen y en un intento por enfriar el debate declaró que las políticas del Partido y del Estado hacia las Zonas Económicas Especiales no habían cambiado.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T163737Z" creationid="Magui" creationdate="20160919T233753Z">
+        <seg>Ese desarrollo y el de las otras regiones solo puede promover más desarrollo para ambos grupos; el desarrollo  de un grupo no resulta incompatible con el del otro”.&lt;/f16&gt;&lt;f18&gt;21&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;En junio de 1994, Jiang Zemin visitó Shenzhen y en un intento por enfriar el debate declaró que las políticas del Partido y del Estado hacia las Zonas Económicas Especiales no habían cambiado.</seg>
       </tuv>
     </tu>
     <tu>
