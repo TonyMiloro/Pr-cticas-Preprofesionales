@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10076,6 +10076,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mainstream</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T014426Z" creationid="PC" creationdate="20160921T014426Z">
+        <seg>Corriente principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many conservative Party elders – including Li &lt;t0/&gt;Xiannian&lt;t1/&gt;, Hu &lt;t2/&gt;Qiaomu&lt;t3/&gt;, Wang &lt;t4/&gt;Renzhong&lt;t5/&gt;, and Chen Yun – had died.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T184925Z">
@@ -10832,6 +10840,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160903T220509Z">
         <seg>Sin embargo,&lt;t2/&gt; &lt;t3/&gt;la misma seriedad de esa crisis impulsó nuevos esfuerzos para mejorar&lt;t4/&gt; &lt;t5/&gt;las relaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Nationalists</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T014507Z" creationid="PC" creationdate="20160921T014507Z">
+        <seg>Nuevos nacionalistas</seg>
       </tuv>
     </tu>
     <tu>
@@ -12126,6 +12142,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quest for Truth</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T014352Z" creationid="PC" creationdate="20160921T014352Z">
+        <seg>Quest for Truth (En búsqueda de la verdad)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quoted in Meng Fanhua, Zhongshen kuanghuan, p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023116Z">
@@ -12274,6 +12298,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160828T210611Z">
         <seg>CAMBIO SOCIAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOCIETY</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T014431Z" creationid="PC" creationdate="20160921T014431Z">
+        <seg>SOCIEDAD</seg>
       </tuv>
     </tu>
     <tu>
@@ -13605,6 +13637,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T173646Z">
         <seg>El Movimiento del Cuatro de Mayo (1919) fue parte de un movimiento más amplio denominado Movimiento de la Nueva Cultura (1915-20), que se inspiró en la Ilustración europea y, por lo tanto, se denominó “Ilustración china”. En sintonía con esto, los intelectuales de la década de los 80 se conocían (y se consideraban a sí mismos) como “intelectuales de la Ilustración”; de hecho, una de las revistas científicas liberales fundadas a finales de la década de los 80 se conocía con el nombre de la Nueva Ilustración (Xin qimeng).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The New Left</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T014446Z" creationid="PC" creationdate="20160921T014446Z">
+        <seg>La nueva izquierda</seg>
       </tuv>
     </tu>
     <tu>
