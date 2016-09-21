@@ -7373,6 +7373,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IMF International Monetary Fund</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T021558Z" creationid="PC" creationdate="20160921T021558Z">
+        <seg>FMI Fondo Monetario Internacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ibid., p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T142133Z">
