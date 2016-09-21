@@ -13624,6 +13624,14 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TMD Theater Missile Defense</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T023300Z" creationid="PC" creationdate="20160921T023300Z">
+        <seg>TMD Sistema de Defensa de Misiles de Teatro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table I:&lt;s0/&gt;&lt;f1&gt;Leadership of the Chinese Communist Party&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160909T014648Z">
