@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14437,8 +14437,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The conservative Li Ximing, targeted by Deng during his southern tour, was removed from the Politburo and subsequently replaced as Beijing Party secretary by Chen Xitong, who had responded loyally to Deng’s “emancipate the mind” campaign in 1991, despite his hardline stance during the 1989 protest movement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160921T150712Z" creationid="constanza" creationdate="20160921T144016Z">
-        <seg>El conservador Li Ximing, targeted by Deng during his southern tour, fue removido del Politburó y reemplazado como secretario del partido en Beijing por Chen Xitong, quién había respondido con lealtad al la campaña de 1991 de Deng "emacipar la mente" , despite his hardline stance during the 1989 protest movement.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160921T152118Z" creationid="constanza" creationdate="20160921T144016Z">
+        <seg>El conservador Li Ximing, tquien había sido el objetivo de Deng en su gira por el sur, fue removido del Politburó y reemplazado como secretario del partido en Beijing por Chen Xitong, quién había respondido con lealtad al la campaña de 1991 de Deng "emacipar la mente" , despite his hardline stance during the 1989 protest movement.</seg>
       </tuv>
     </tu>
     <tu>
