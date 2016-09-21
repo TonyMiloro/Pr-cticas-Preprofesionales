@@ -4289,6 +4289,30 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAC Central Advisory Commission</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T020920Z" creationid="PC" creationdate="20160921T020920Z">
+        <seg>CCC Comisión Consultiva Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CAS Chinese Academy of Sciences</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T020952Z" creationid="PC" creationdate="20160921T020952Z">
+        <seg>CAS Academia de Ciencias de China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CASS Chinese Academy of Social Sciences</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T021036Z" creationid="PC" creationdate="20160921T021036Z">
+        <seg>CASS Academi China de Ciencias Sociales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CDIC</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160919T233441Z" creationid="Bangho" creationdate="20160919T233441Z">
