@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14845,8 +14845,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The government had an indispensable role to play.&lt;/f5&gt;&lt;f7&gt;17&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;A state could take effective action only if it had both a strong desire to address regional inequalities and a strong capacity to do so.&lt;/f8&gt;&lt;f10&gt;18&lt;/f10&gt;&lt;f11&gt;&lt;s12/&gt;Thus, their research on regional inequalities reinforced their conclusions in the report on state capacity – namely, that the fiscal strength of the state needed to be increased and the&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T145334Z" creationid="Magui" creationdate="20160919T222429Z">
-        <seg>El gobierno tenía que desempeñar un papel indispensable.&lt;/f5&gt;&lt;f7&gt;17&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;Un Estado podía actuar de manera efectiva solo si contaba con un gran deseo de abordar las desigualdades regionales y, al mismo tiempo, con una gran capacidad de llevarlo a cabo.&lt;/f8&gt;&lt;f10&gt;18&lt;/f10&gt;&lt;f11&gt;&lt;s12/&gt;Por lo tanto, la investigación sobre desigualdades regionales reforzó las conclusiones de su informe sobre capacidad del Estado (concretamente, que la fuerza fiscal del Estado necesitaba aumentar y la&lt;/f11&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T162539Z" creationid="Magui" creationdate="20160919T222429Z">
+        <seg>El gobierno tenía que desempeñar un papel indispensable.&lt;/f5&gt;&lt;f7&gt;17&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;Un Estado podía actuar de manera efectiva solo si contaba con un gran deseo de abordar las desigualdades regionales y, al mismo tiempo, con una gran capacidad para llevarlo a cabo.&lt;/f8&gt;&lt;f10&gt;18&lt;/f10&gt;&lt;f11&gt;&lt;s12/&gt;Por lo tanto, la investigación sobre desigualdades regionales reforzó las conclusiones de su informe sobre capacidad del Estado (concretamente, que la fuerza fiscal del Estado debía aumentar y la&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15072,8 +15072,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The need to strengthen the state, implement a universal and centralized tax system, and establish the principle of “fair competition” among the various regions of China led them to argue that the most privileged of all enclaves – the Special Economic Zones – should be abolished.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T152815Z" creationid="Magui" creationdate="20160919T224053Z">
-        <seg>La necesidad de fortalecer el estado, implementar un sistema tributario centralizado y universal  y establecer el principio de "competencia leal" entre las diversas regiones de China los llevó a argumentar que el enclave más privilegiado de todos, las Zonas Económicas Especiales, debería abolirse.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160921T162712Z" creationid="Magui" creationdate="20160919T224053Z">
+        <seg>La necesidad de fortalecer el Estado, implementar un sistema tributario centralizado y universal  y establecer el principio de "competencia leal" entre las diversas regiones de China los llevó a argumentar que el enclave más privilegiado de todos, las Zonas Económicas Especiales, debía abolirse.</seg>
       </tuv>
     </tu>
     <tu>
