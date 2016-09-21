@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8609,6 +8609,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T135711Z">
         <seg>Durante los días inmediatamente después de Tiananmen, sin embargo, Deng Xiaoping parece haber compartido algunas de las sospechas de sus colegas más conservadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the immediate aftermath of Tiananmen, there were widespread predic-tions among Chinese and foreign observers alike that the Chinese Commu-nist Party (CCP) would collapse within a short period.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T025134Z" creationid="PC" creationdate="20160921T025134Z">
+        <seg>Como consecuencia de Tiananmén, hubo una serie de predicciones tanto entre los ciudadanos chinos como entre observadores internacionales  </seg>
       </tuv>
     </tu>
     <tu>
