@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12752,8 +12752,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Rural incomes grew very slowly from the mid-1980s to the early 2000s; meanwhile, urban incomes grew rapidly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T003728Z">
-        <seg>Las ganancias rurales se incrementaron paulatinamente desde mediados de 1980 hasta comienzos del 2000; mientras que las urbanas aumentaron rápidamente.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T180807Z">
+        <seg>Los ingresos rurales se incrementaron paulatinamente desde mediados de los 80 hasta comienzos de la primera década de este siglo; mientras que las urbanas aumentaron rápidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17139,8 +17139,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Urbanization may be the only long-term solution to this urban–rural gap, but that is a very long-term proposition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T003747Z">
-        <seg>La urbanización es quizás la única solución a largo plazo para reducir esta brecha urbano-rural, pero es una propuesta a largo plazo.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160921T181058Z">
+        <seg>La urbanización es quizás la única solución a largo plazo para reducir esta brecha urbano rural, pero es una propuesta a largo plazo.</seg>
       </tuv>
     </tu>
     <tu>
