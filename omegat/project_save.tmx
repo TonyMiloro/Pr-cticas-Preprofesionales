@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13616,6 +13616,14 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TABLES</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T023515Z" creationid="PC" creationdate="20160921T023515Z">
+        <seg>TABLAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE TURN AWAY FROM CULTURAL LIBERALISM</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T002307Z" creationid="Usuario" creationdate="20160917T071918Z">
@@ -13628,6 +13636,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160921T023300Z" creationid="PC" creationdate="20160921T023300Z">
         <seg>TMD Sistema de Defensa de Misiles de Teatro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TVE Township and Village Enterprise</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T023414Z" creationid="PC" creationdate="20160921T023414Z">
+        <seg>EPA Empresas de poblados y aldeas</seg>
       </tuv>
     </tu>
     <tu>
@@ -16601,6 +16617,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>USTR United States Trade Representative</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T023451Z" creationid="PC" creationdate="20160921T023451Z">
+        <seg>USTR Representante Comercial de EE. UU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Understanding the changing world of China’s intellectuals and their relationship to the political system is one aspect of the larger task of looking at  a  rapidly  changing  Chinese  society,  which  is  the  fourth  area  of  concern.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160909T231020Z">
@@ -16813,6 +16837,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160912T201258Z" creationid="pibe bazooka" creationdate="20160912T200608Z">
         <seg>Aquellos que visitaban China quedaban deslumbrados no sólo por la modernidad que ostentaba Shanghai (tomando en cuenta que el distrito financiero de Pudong apenas había comenzado en 1992) y por la imponente arquitectura de Beijing, sino que también daban esa impresión ciudades más pequeñas como Suzhou y Wuxi en Jiangsu, y Wenzhou en Zhejiang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WTO World Trade Organization</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T023601Z" creationid="PC" creationdate="20160921T023508Z">
+        <seg>OMC Organización Mundial del Comercio</seg>
       </tuv>
     </tu>
     <tu>
