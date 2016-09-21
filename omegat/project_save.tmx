@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3627,8 +3627,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At &lt;t0/&gt;ﬁrst&lt;t1/&gt; overjoyed by news of the coup, conservative critics of Deng Xiaoping began celebrating and holding meetings.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T150726Z" creationid="Melanie" creationdate="20160921T150726Z">
-        <seg>Al &lt;t0/&gt;principio&lt;t1/&gt;, deleitados por las noticias del golpe de estado, los críticos conservativos de Dend Xiaoping comenzaron a celebrar y a , conservative critics of Deng Xiaoping began celebrating and holding meetings.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T150906Z" creationid="Melanie" creationdate="20160921T150726Z">
+        <seg>Al &lt;t0/&gt;principio&lt;t1/&gt;, deleitados por las noticias del golpe de estado, los críticos conservativos de Deng Xiaoping comenzaron a celebrar y a reunirse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17765,6 +17765,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160911T182721Z" creationid="Sofia" creationdate="20160911T182550Z">
         <seg>Una vez que el congreso estableció la distribución básica del poder y la confirmación de la reforma, al menos de manera temporal, se pudo poner atención al tipo de estado que los líderes políticos querían (o podían) construir en el período posterior a Tienanmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the collapse of the coup, Deng moved quickly to reassert his vision of reform, leading to his trip to the south and the Fourteenth Party Congress.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T151051Z" creationid="Melanie" creationdate="20160921T151051Z">
+        <seg>Pero With the collapse of the coup, Deng moved quickly to reassert his vision of reform, leading to his trip to the south and the Fourteenth Party Congress.</seg>
       </tuv>
     </tu>
     <tu>
