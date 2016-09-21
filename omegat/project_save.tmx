@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3101,6 +3101,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160920T182619Z" creationid="PC" creationdate="20160920T030646Z">
         <seg>6 de abril El primer ministro Zhu Rongji llega a Washington para tratar la OMC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>April &lt;f0&gt;14 &lt;/f0&gt;Management buyouts of large state-owned</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011138Z" creationid="PC" creationdate="20160921T011138Z">
+        <seg>&lt;f0&gt;14 &lt;/f0&gt;de abril Se prohíbe  MBO de </seg>
       </tuv>
     </tu>
     <tu>
@@ -12777,8 +12785,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Small- and medium-sized SOEs must clarify who is funding a buyout and who will manage the business before any MBO can be approved</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T041546Z" creationid="PC" creationdate="20160920T041546Z">
-        <seg>Pequeñas y medianas empresas estatales deben aclarar quien financia </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160921T011026Z" creationid="PC" creationdate="20160920T041546Z">
+        <seg>Pequeñas y medianas empresas estatales deben aclarar quien financia la compra y quien manejará el negocio antes de que sea aprobada el MBO</seg>
       </tuv>
     </tu>
     <tu>
