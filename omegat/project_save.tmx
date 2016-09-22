@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3309,6 +3309,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160914T004345Z" creationid="Jesica" creationdate="20160914T002119Z">
         <seg>Artículos en la Web y demonstraciones estudiantiles lo etiquetaron como un "traidor" (maiguozei) y luego del atentado a la embajada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As Deng and Li Ruihuan tried to cool the ideological atmosphere and refocus the Party’s attention on reform and opening up, conservatives were determined to press their advantage.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T173158Z" creationid="Usuario" creationdate="20160922T173158Z">
+        <seg>Mientras que  Deng y Li Ruihuan intentaban calmar la atmosfera ideológica y enfocar la atención del partido en la reforma y la expansión, los conservadores estaban decididos a añrovechar su ventaja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8159,8 +8167,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In Deng’s talk on the eve of the Fourth Plenum, he also called for “doing some things to satisfy the people.”48 In response, the State Council in July passed a resolution on resolving problems the people were concerned about, especially restricting the activities of leading cadres’ families, and on reorganizing suspect companies.49</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160921T023455Z" creationid="Usuario" creationdate="20160921T022828Z">
-        <seg>En el discurso en la vispera del cuarto Pleno, tambien llamó a " Realizar algunas cosas para saisfacer al pueblo".48. En respuesta, el Consejo de Estado en julio paso una resolución para resolver los problemas que preocupaban a las personas</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T153647Z" creationid="Usuario" creationdate="20160921T022828Z">
+        <seg>VERRRRRRRRRRRRRRREn el discurso en la vispera del cuarto Pleno, tambien llamó a " Realizar algunas cosas para saisfacer al pueblo".48. En respuesta, el Consejo de Estado en julio aprobó una resolución para resolver los problemas que preocupaban a las personas, especialmente para restringir las actividades de cuadros de familias dirigentes y reorganizar companias sospechosas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8249,6 +8257,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160921T021017Z" creationid="Usuario" creationdate="20160921T011501Z">
         <seg>En septiembre, Li preguntó en una entrevista en términos incisivos con  el diario Ta Kung Pao de Hong Kong del Partido Comunista de China: "Por qué siempre tenemos que ser tan excesivos" Regañando las ideologias conservadoras, Li dijo que "No debemos utilizar métodos dogmáticos y rigidos ara criticar la liberalización burguesa". 47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In September, on the eve of the Party’s Fifth Plenum, Deng told American physicist T. D. Lee that “reform and opening up will certainly be continued.”51 The message of reform and opening up was pressed by a People’s Daily editorial six days later which strongly reiterated that reform would be continued and declared, “[w]e certainly must not stop eating for fear of choking.”52</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T161605Z" creationid="Usuario" creationdate="20160922T155209Z">
+        <seg>VER En septiembre, en la vispera del Quinto Pleno del Partido, Deng le comentó al físico estadounidese T.D.Lee que "Sin duda, la reforma y la expansión van a continuar". 51. El mensaje de reforma y expansión fue publicado por una editorial de People´s Daily seis dias después, donde se reiteró fuertemente que la reforma iba a continuar se declaraba que "Definitivamente no tenemos que parar de comer por miedo a ahogarnos".52. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13751,6 +13767,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similarly, Deng harped on the issue of stability – eventually coining the phrase “stability overrides everything” (wending yadao yiqie) 50 – and emphasized the continuity of reform and opening up.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T154654Z" creationid="Usuario" creationdate="20160922T153641Z">
+        <seg>VERRRRR De forma similar, Deng seguía insistiendo sobre el asunto de la estabilidad, y eventualmente acuñó la frase "La estabilidad se antepone a todo" (wending yadao yiqie)50, y enfatizó la continuidad de la reforma y la expansión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similarly, although Chen Yuan sought ways to combine market economics with a stronger central government, he never developed a systematic conceptual approach.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T015150Z">
@@ -19198,6 +19222,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160904T181246Z">
         <seg>La respuesta conservadora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>conservatives press their advantage</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T162425Z" creationid="Usuario" creationdate="20160922T162425Z">
+        <seg>Los conservadores aprovechan su ventaja.</seg>
       </tuv>
     </tu>
     <tu>
