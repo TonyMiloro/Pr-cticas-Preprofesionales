@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3473,6 +3473,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As intellec-tuals have come to know the United States better, they have acquired the knowledge and the boldness to become more critical.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160922T204647Z" creationid="Gime" creationdate="20160922T204647Z">
+        <seg>A medida que los intelectuales conocían mejor Estados Unidos, adquirieron el conocimiento y la audacia para ser más críticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As just discussed, intellectuals such as Wu Jiaxiang and Zhang Bingjiu argued that authority needed to be recentralized in the hands of the cen&lt;/f0&gt;&lt;f1&gt;­tral government — not, as conservatives would have it, to restore the old Marxist—Leninist order, but to use the strength of the central government to push the marketization of the economy against local forces that supported decentralization but not marketization.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T125231Z">
@@ -3725,6 +3733,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Yani" changedate="20160922T183939Z" creationid="Yani" creationdate="20160922T183852Z">
         <seg>Como se verá, Hu fue capaz de consolidar un poder de importancia en un destacado corto período de tiempo, pero las tensiones permanecieron durante su primer mandato como secretario general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As works by such influential scholars as Edward Said, Michel Foucault, and Fredric Jameson were introduced into China, there was a growing interest in and acceptance of postmodernism and deconstructionism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160922T210201Z" creationid="Gime" creationdate="20160922T210201Z">
+        <seg>La introduccion de los trabajos de eruditos influyentes tales como Edward Said, Michael Foucault y Fredric Jameson en China generaron un creciente interés y aceptación del posmodernismo y el decontruccionismo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4093,6 +4109,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T222611Z">
         <seg>Debido a que el término "izquierda" tiene connotaciones negativas para los intelectuales, al llamar a este grupo la nueva Izquierda se intenta desacreditarlos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Becoming familiar with the variety of the critiques of capitalism and capital-ist society that abound in academia and reflecting on the situation in China, these scholars began to doubt whether China could, or should, follow the “Western route.” This made the goal of reform more obscure than it had seemed only a few years earlier.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160922T203919Z" creationid="Gime" creationdate="20160922T203852Z">
+        <seg>Al familiarizarse con la variedad de críticas que abundan en el ámbito académico sobre  capitalismo y su sociedad y al considerar la situacion en China, estos estudiantes dudaban de si China podría, o debería, seguir la "Ruta Occidental". Esto hizo que el objetivo de la reforma se volviera más oscuro de lo que habia parecido apenas unos años antes. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8769,6 +8793,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T140553Z" creationid="Lucrecia" creationdate="20160913T140553Z">
         <seg>En otras palabras, la corrupción (la corrupción masiva) formó una gran parte de la historia de la redistribución de ingresos en 1990.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In part, as Suisheng Zhao commented, the “demythification” of the West that is central to this critique was the product of wider and more frequent exchanges with the United States.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160922T204215Z" creationid="Gime" creationdate="20160922T204215Z">
+        <seg>En parte, como indicó Suisheng Zhao, la "desmitificación" de Occidente que es central para esta crítica fue el resultado de intercambios más amplios y frecuentes con Estados Unidos.</seg>
       </tuv>
     </tu>
     <tu>
