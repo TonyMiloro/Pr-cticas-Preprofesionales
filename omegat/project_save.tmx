@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7761,6 +7761,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010722Z">
         <seg> Publicación del artículo "¿Choque de civilizaciones?", escrito por Huntington</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hu’s succession was more the result of a balance of power in the Party, Hu’s own talents as a political leader, and the weight of Deng Xiaoping’s arrangements than it was an indication of institutionalization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Yani" changedate="20160922T185446Z" creationid="Yani" creationdate="20160922T185446Z">
+        <seg>La sucesión de Hu fue más el resultado del equilibrio de poder en el partido, de los talentos propios de Hu como líder político y del peso de los arreglos de Deng Xiaoping que un indicio de institucionalización.</seg>
       </tuv>
     </tu>
     <tu>
