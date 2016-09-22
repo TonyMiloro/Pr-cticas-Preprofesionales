@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7831,8 +7831,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If Hu Jintao was to be able to put his own stamp on the new leadership, there would have to be some mix of institutional procedures and non-institutional bargaining.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T183944Z">
-        <seg>Si Hu Jintao era capaz de dejar su propia impronta en el nuevo liderazgo, entonces tendría que haber algún tipo de combinación de procesos institucionales y negociaciones no institucionales.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T183344Z">
+        <seg>Si Hu Jintao quría segur influyendo en los altos mandos, entonces tendría que haber algún tipo de combinación de procesos institucionalizados y negociaciones no institucionalizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15704,8 +15704,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The ouster of Shanghai Party Secretary Chen Liangyu in September 2006 (see Chapter 8) was the inevitable opening shot in the informal political bargaining that would take place.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T191926Z">
-        <seg>La destitución de Chen Liangyu, secretario general del Partido Comunista chino en Shanghai, en septiembre de 2006 (véase capítulo 8) significó la inevitable apertura de negociaciones políticas informales que tendrían lugar. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T183524Z">
+        <seg>La destitución de Chen Liangyu, secretario general del Partido Comunista chino en Shanghái, en septiembre de 2006 (véase capítulo 8) fue el anticipo inevitable de futuras negociaciones políticas informales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16625,8 +16625,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Third, to what extent would the Seventeenth Party Congress ratify Hu Jintao's ideas, such as the scientific development concept?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T175022Z">
-        <seg>Tercero, ¿hasta qué punto ratificaría el décimo séptimo Congreso del Partido las ideas de Hu Jintao tales como el concepto científico de desarrollo? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T183611Z">
+        <seg>En tercer lugar, ¿hasta qué punto ratificaría el décimo séptimo Congreso del Partido las ideas de Hu Jintao tales como el concepto científico de desarrollo? </seg>
       </tuv>
     </tu>
     <tu>
