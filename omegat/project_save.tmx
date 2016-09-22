@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7831,8 +7831,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If the rules of political struggle in the twentieth century have been domi-nated by the perception that actors were in a game to win all, it is neverthe-less true that the inauguration of reform has posed a significant challenge to this perception.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T152917Z" creationid="marielaromina" creationdate="20160922T152731Z">
-        <seg>Si las reglas de la lucha por el poder político del siglo veinte las diseñaron en base a la percepción de que los participantes del juego estaban allí para ganarlo todo, no se puede negar que el concepto de la reforma ha significado un verdadero desafío para dicha percepción. </seg>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T153000Z" creationid="marielaromina" creationdate="20160922T152731Z">
+        <seg>Si las reglas de las luchas políticas del siglo veinte las diseñaron en base a la percepción de que los participantes del juego estaban allí para ganarlo todo, no se puede negar que el concepto de la reforma ha significado un verdadero desafío para dicha percepción. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9202,6 +9202,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160919T131752Z" creationid="Sabri" creationdate="20160919T131718Z">
         <seg>De hecho, uno podría decir que el efecto (negativo) más grande de Li sobre&lt;t28/&gt; &lt;t29/&gt;el gobierno de China era su disposición a dejar que las cosas fluyan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, one of the major thrusts of reform was to curtail</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T153137Z" creationid="marielaromina" creationdate="20160922T153137Z">
+        <seg>De hecho, una de las motivaciones más importantes era la de limitar</seg>
       </tuv>
     </tu>
     <tu>
