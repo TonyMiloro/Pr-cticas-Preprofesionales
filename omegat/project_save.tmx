@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16233,8 +16233,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The “CCP Central Committee Decision on Furthering Improvement and Rectification and Deepening Reform” (frequently referred to as “The 39 Points”) that was adopted by the plenum laid out a systematic, though implicit, critique of Zhao’s management of the economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T194951Z" creationid="Usuario" creationdate="20160922T194853Z">
-        <seg>La "Decisión del Comité Central CCP de seguir mejorando, corrigiendo y profundizando la reforma".</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T195329Z" creationid="Usuario" creationdate="20160922T194853Z">
+        <seg>La "Decisión del Comité Central CCP de seguir mejorando, corrigiendo y profundizando la reforma" (Conocida mas frecuentemente por "Los 39 puntos") que fue aprobada por el Pleno expuso una crítica sistemática,pero implícta, del manejo económico de Zhao.</seg>
       </tuv>
     </tu>
     <tu>
