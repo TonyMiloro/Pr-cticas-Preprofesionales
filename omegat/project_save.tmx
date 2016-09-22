@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6494,8 +6494,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>First, could the post-revolutionary generation manage leadership succession issues in the absence of the revolutionary giants of the past?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T182024Z">
-        <seg>Primero, ¿podría la generación posrevolucionaria resolver los problemas de sucesión de poder en ausencia de los grandes revolucionarios del pasado? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T182702Z">
+        <seg>En primer lugar, ¿podría la generación posrevolucionaria resolver los problemas de sucesión de poder en ausencia de los grandes revolucionarios del pasado? </seg>
       </tuv>
     </tu>
     <tu>
@@ -13344,8 +13344,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, in part because Jiang Zemin was so successful in promoting his prot&lt;f0&gt;égé&lt;/f0&gt; to the Politburo at the Sixteenth Party Congress, the Seventeenth Party Congress could not rely simply on promotion by seniority to choose a new leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T175329Z">
-        <seg>Segundo, debido a que en parte Jiang Zemin tuvo éxito en promover a su protegido al Politburó en el décimo sexto Congreso del Partido, el décimo séptimo Congreso del Partido, que debía elegir al nuevo líder, no tendría que contar solemente con el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T182843Z">
+        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el Décimo Sexto Congreso del Partido, el décimo séptimo Congreso del Partido, que debía elegir al nuevo líder, no tendría que contar solemente con el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
