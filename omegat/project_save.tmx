@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4333,6 +4333,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160908T013932Z">
         <seg>Sin embargo, tal y como se mencionó en el capítulo anterior, para los años 1992 y 1993 las bases económicas y sociales habían evolucionado y logrado una aceptación intelectual más amplia de las ideas de Nueva Izquierda que hubiesen sido consideradas "conservadoras" apenas unos años antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By 1994, however, the situation had changed significantly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T172609Z" creationid="José Ignacio" creationdate="20160922T172609Z">
+        <seg>En1994, sin embargo, la situación cambió drásticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17429,6 +17437,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T014506Z">
         <seg>Hasta ese punto, la discusión era bastante abstracta, como en muchos de los textos de este género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To the extent that he did speak out, he was extremely cautious – and thus incurred the wrath of Deng Xiaoping.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T172538Z" creationid="José Ignacio" creationdate="20160922T172538Z">
+        <seg>Al momento de hablar, fue extremadamente cauteloso – lo que porvocó la ira de Deng Xiaoping.</seg>
       </tuv>
     </tu>
     <tu>
