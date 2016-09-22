@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3693,6 +3693,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T045257Z">
         <seg>A medida que transcurría la década de los 80, el establishment intelectual se diversificaba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the authors put it, it was necessary to emphasize “uniting Marxism with Chinese reality .</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T233033Z" creationid="Melanie" creationdate="20160922T233019Z">
+        <seg>Como lo explicaron los autores, era necesario poner énfasis en la "unión del Marxismo con la realidad china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19259,8 +19267,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the &lt;t4/&gt;ﬁrst&lt;t5/&gt; pillar severely shaken (and indeed about to disappear), it was all the more necessary to emphasize the “&lt;t6/&gt;Chineseness&lt;t7/&gt;” of the Chinese revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T232529Z" creationid="Melanie" creationdate="20160922T232506Z">
-        <seg>Debido a tener sus pilares&lt;t4/&gt;principales&lt;t5/&gt; pillar severely shaken (and indeed about to disappear), it was all the more necessary to emphasize the “&lt;t6/&gt;Chineseness&lt;t7/&gt;” of the Chinese revolution.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T232921Z" creationid="Melanie" creationdate="20160922T232506Z">
+        <seg>Debido a tener sus pilares&lt;t4/&gt;principales&lt;t5/&gt; severamente sacudidos (y de hecho, a punto de desaparecer) era mas que necesario enfatizaer en el “&lt;t6/&gt;aspecto chino&lt;t7/&gt;” de la revolución china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20463,6 +20471,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160922T181844Z">
         <seg>Hu se supo manejar con una gran habilidad y logró articular su propia ideología y promover gente de su propia base política; la Liga de la Juventud Comunista (CYL). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with emphasis on China’s national condition.”  In the &lt;t8/&gt;Yan’an&lt;t9/&gt; days of the revolution, Mao had de-emphasized the &lt;t10/&gt;speciﬁcally&lt;t11/&gt; Marxist aspects of his evolving ideological system by demanding that Marxism be combined with Chinese reality.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T233242Z" creationid="Melanie" creationdate="20160922T233242Z">
+        <seg>resaltando la condición nacional de China".  En los días de la revolución de &lt;t8/&gt;Yan’an&lt;t9/&gt;, Mao quitó el énfasis en los aspectos &lt;t10/&gt;específicamente&lt;t11/&gt; Marxistas de su sistema ideológico  aspects of his evolving ideological system by demanding that Marxism be combined with Chinese reality.</seg>
       </tuv>
     </tu>
     <tu>
