@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15634,6 +15634,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T213537Z" creationid="cintia soler" creationdate="20160919T195054Z">
         <seg>Las revisiones a la contitución del partido fueron las mas extensas en la era de la reforma e incorporaron el concepto de desarrollo científico de Hu, refiriéndose a este como "un gran pensamiento estratégico que debe ser sostenido y aplicado en el desarrollo del socialismo con características chinas". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping en la constitución y la "Triple Representatividad" de Jiang Zemin, este rápido reconocimiento del concepto de desarrollo científico de Hu Jintao y la exigencia de construir una sociedad en armonía marca un gran logro e implica que Hu podrá poner un sello aun mayor en el sistema político de China durante los próximos cinco años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rhetorical status given to peasants and &lt;t2/&gt;workers, the egalitarian distri&lt;t3/&gt;bution system, the effort to eliminate income differences across regions, the commune movement during the Great Leap Forward, and the criticism of Soviet “revisionism” and of “bourgeois rights” during the Cultural R&lt;t4/&gt;evolu&lt;t5/&gt;tion all reflected populist values.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T142102Z" creationid="José Ignacio" creationdate="20160922T142102Z">
+        <seg>La condición retórica que se le dio a los campesinos y &lt;t2/&gt;trabajadores, la distribución igualitaria&lt;t3/&gt; del sistema, el esfuerzo para eliminar las diferencias de ingresos a lo largo de las regiones, el movimiento de la comuna durante el  Great Leap Forward, and the criticism of Soviet “revisionism” and of “bourgeois rights” during the Cultural R&lt;t4/&gt;evolu&lt;t5/&gt;tion all reflected populist values.</seg>
       </tuv>
     </tu>
     <tu>
