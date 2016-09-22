@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5243,8 +5243,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Compromises were made.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T043321Z" creationid="Mariela" creationdate="20160922T043224Z">
-        <seg>Se llegó a un compromiso.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T190529Z" creationid="Mariela" creationdate="20160922T043224Z">
+        <seg>Se llegó a un acuerdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15293,8 +15293,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The evidence coming out of the Congress suggests that Hu Jintao was quite successful, if not as successful as he perhaps would have wanted to be.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T175210Z">
-        <seg>La evidencia que surgía del Congreso indica que Hu Jintao triunfaría ampliamente, si no es que triunfaba tanto como quizá le hubiera gustado. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T190510Z">
+        <seg>La evidencia que surgió del Congreso indica que Hu Jintao tuvo bastante éxito, quizás tanto como él hubiera querido. </seg>
       </tuv>
     </tu>
     <tu>
