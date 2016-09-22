@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12473,6 +12473,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160914T012246Z" creationid="Jesica" creationdate="20160914T012203Z">
         <seg>Por otro lado, las declaraciones publicas de Jiang Zemin y las editoriales autoritarias emitidas por el Pueblo en Línea subrayó la continuidad de la politica aun cuando se expresaba la indignación por el atentado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the one hand, it criticized “utopian socialism” – the Old Left – for continually relying on mass movements, which (the authors believed) would end up destroying the very socialism that it purportedly wanted to save.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T215440Z" creationid="Usuario" creationdate="20160922T215440Z">
+        <seg>Por una parte, criticaba al socialismo utópica de la Vieja Izquierda por depender </seg>
       </tuv>
     </tu>
     <tu>
