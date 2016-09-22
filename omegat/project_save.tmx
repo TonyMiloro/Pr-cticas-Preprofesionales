@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5749,8 +5749,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Deng’s trip to the south had set off a new round of rapid economic growth and reform, while Zhu Rongji’s appointment as vice-premier had placed a solid reformer in charge of the economy, effectively eclipsing Premier Li Peng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T173234Z" creationid="José Ignacio" creationdate="20160922T172957Z">
-        <seg>El viaje al sur de Deng causó una serie de reformas y crecimiento económico, mientras que la designación de Zhu Rongji como vice primer ministro puso a un sólido reformista a cargo de la economía, y opacando eficazmente a Premier Li Peng.</seg>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T173511Z" creationid="José Ignacio" creationdate="20160922T172957Z">
+        <seg>El viaje al sur de Deng causó una serie de reformas y crecimiento económico, mientras que la designación de Zhu Rongji como vice primer ministro puso a un sólido reformista a cargo de la economía, y opacando eficazmente al ministro Li Peng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10122,6 +10122,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jiang’s closest political supporter, former president Li Xiannian, died in June 1992, followed soon thereafter by the Party’s most authoritative ideologue, Hu Qiaomu, in September 1992.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T173502Z" creationid="José Ignacio" creationdate="20160922T173502Z">
+        <seg>El partidario político más cercano de Jiang, former president Li Xiannian, died in June 1992, followed soon thereafter by the Party’s most authoritative ideologue, Hu Qiaomu, in September 1992.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jiang’s intimation of important changes to come was perhaps as much a reflection of the dilemmas facing the Party as it was of personal ambition.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T175632Z">
@@ -11192,6 +11200,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T041119Z" creationid="Candelaria" creationdate="20160921T035220Z">
         <seg>Además , la estrategia de reforma ha llevado a unainclinación regional como TVEs a lo largo de la costa oriental que ha crecido y desarrollado mientras que el nivel de vida en el interior ha decaido por detrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, the actuarial tables were beginning to have an important impact on elite politics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T173408Z" creationid="José Ignacio" creationdate="20160922T173408Z">
+        <seg>Además la tabla de mortalidad había empezado a tener un impacto significativo en las elites políticas.</seg>
       </tuv>
     </tu>
     <tu>
