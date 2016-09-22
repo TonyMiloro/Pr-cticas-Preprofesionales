@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18027,8 +18027,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, it combined the &lt;t10/&gt;incrementalism&lt;t11/&gt; called for by people like &lt;t12/&gt;Sheng&lt;t13/&gt; Hong with the criticism of the feudal-lord economy called for by Chen Yuan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T233558Z" creationid="Usuario" creationdate="20160922T220451Z">
-        <seg>De este modo se combinaba la &lt;t10/&gt;incrementación&lt;t11/&gt; exigida por personas como &lt;t12/&gt;Sheng&lt;t13/&gt; Hong con la crítica a la economía feudal exigida por Chen Yuan.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T233656Z" creationid="Usuario" creationdate="20160922T220451Z">
+        <seg>De este modo se combinaba la &lt;t10/&gt;incrementación&lt;t11/&gt; exigida por personas como &lt;t12/&gt;Sheng&lt;t13/&gt; Hong con la crítica a la economía de señores feudales exigida por Chen Yuan.</seg>
       </tuv>
     </tu>
     <tu>
