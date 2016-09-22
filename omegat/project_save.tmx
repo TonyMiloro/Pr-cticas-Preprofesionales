@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3043,8 +3043,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the authors did not elaborate in detail, obviously they were exploring, however tentatively, efforts to establish viable political institutions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T231408Z" creationid="Melanie" creationdate="20160922T231408Z">
-        <seg>A pesar de que los autores no profundizaron en el tema, es evidente que estaban analizandoo, de forma tentativa, los esfuerzos para establecer instituciones políticas viables.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T231744Z" creationid="Melanie" creationdate="20160922T231408Z">
+        <seg>A pesar de que los autores no profundizaron en el tema, es evidente que estaban analizando, de forma tentativa, los esfuerzos para establecer instituciones políticas viables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15363,6 +15363,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The authors &lt;t2/&gt;reﬂected&lt;t3/&gt; great awareness of the CCP’s fragile legitimacy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T231839Z" creationid="Melanie" creationdate="20160922T231839Z">
+        <seg>Los autores &lt;t2/&gt;denotaban&lt;t3/&gt; gran great awareness of the CCP’s fragile legitimacy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The authors charged that the Chinese government had been naive and soft in its dealings with the United States, that it should be more forthright in just saying “no,” and that the government was neither confident enough nor competent enough – it was too wrapped up in the past and insufficiently bold in engineering China’s modernization.82 China Can Say No had a populist edge that was highly skeptical of the government.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160917T072751Z" creationid="Administrador" creationdate="20160917T064050Z">
@@ -17171,6 +17179,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160917T204911Z" creationid="Flor" creationdate="20160917T204911Z">
         <seg>Veían a Zhu como alguien que podía tanto centralizar el poder del Estado como mercadizar la economía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They were not abandoning the ruling role of the CCP but rather were trying to &lt;t0/&gt;ﬁgure&lt;t1/&gt; out institutional arrangements through which it might be able to preserve political stability.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T231813Z" creationid="Melanie" creationdate="20160922T231741Z">
+        <seg>No estaban abandonando el rol dominante del PCCh, estaban tratando de &lt;t0/&gt;descifrar&lt;t1/&gt; planes institucionales a traves de los cuales podrían mantener la estabilidad política.</seg>
       </tuv>
     </tu>
     <tu>
