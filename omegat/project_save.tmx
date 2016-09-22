@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6576,6 +6576,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131117Z">
         <seg>Por último, existe un grupo grande e improtante de intelectuales públicos: la "Nueva Izquierda" (un grupo variado de intelectuales que critican tanto la ortodoxia marxista como el liberalismo occidental, ver Capítulo 4), que siguen lidiando con lo que consideran son las principales preocupaciones del momento, no solo desde la perspectiva liberal a la que se acostumbraron los observadores occidentales.&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, “Realistic Responses” emphasized the importance of stability, which in terms of economic policy meant that the emphasis should be on “digesting” previous reforms rather than on making new breakthroughs.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T220714Z" creationid="Usuario" creationdate="20160922T220714Z">
+        <seg>Finalmente, </seg>
       </tuv>
     </tu>
     <tu>
