@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18313,6 +18313,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang agreed with Nye that, with the end of the Cold War, the importance of “hard power” has declined while that of “soft power” has increased – but this did not necessarily make the world a less threatening place.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T212652Z" creationid="Usuario" creationdate="20160922T212652Z">
+        <seg>Wang coincidió con Nye en que, con la finalización de la Guerra Fría, la importancia del "poder duro" ha  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang argued that China needed nationalism and believed that the nationalism emerging in the 1990s, of which he was a tireless promoter, was a “normal nationalism” that corrected the abnormal situation that had prevailed in the 1980s and was not threatening to the outside world.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T011145Z" creationid="Melanie" creationdate="20160920T010937Z">
@@ -18331,8 +18339,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang connected Huntington’s discussion of culture and cultural conflict to the notion of “soft power” discussed by Joseph Nye and others.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T130122Z" creationid="Usuario" creationdate="20160922T130122Z">
-        <seg>Wang </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T210747Z" creationid="Usuario" creationdate="20160922T130122Z">
+        <seg>Wang asoció el discurso de Huntington sobre cultura y conflicto cultural a la noción de "poder blando" expuesto por Joseph Nye entre otros.</seg>
       </tuv>
     </tu>
     <tu>
