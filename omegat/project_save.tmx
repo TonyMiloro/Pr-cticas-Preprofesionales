@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9702,6 +9702,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160919T234152Z" creationid="Usuario" creationdate="20160916T065341Z">
         <seg>Fue con el próposito de debilitar y dividir a China que Estados Unidos agravó la crisis política de Tiananmen a través de La Voz de Estados Unidos y otros medios. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was widely believed among the veteran cadres who returned to power in the late 1970s that “normal” Party life had been badly disrupted and was in urgent need of restoration.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T154606Z" creationid="marielaromina" creationdate="20160922T154606Z">
+        <seg>Las clases sociales dirigentes más veteranas que volvieron al poder </seg>
       </tuv>
     </tu>
     <tu>
