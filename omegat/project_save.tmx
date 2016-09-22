@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1491,6 +1491,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212936Z">
         <seg>&lt;f0&gt;Los líderes conservadores, con frecuencia bastante a hostiles hacia los Estados Unidos, eran&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;según los comentarios&lt;/f3&gt;&lt;f5&gt;de &lt;/f5&gt;&lt;f6&gt;Deng&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;,&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;capaces de improvisar una campaña contra la&lt;s11/&gt;&lt;/f9&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;f13&gt;evolución pacífica&lt;/f13&gt;&lt;f14&gt;".&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;Estos conservadores denunciaban que los Estados Unidos, al no haber podido contener y derrocar al socialismo en los 50, había puesto sus esperanzas en las generaciones más jóvened de chinos, quien podían ser má suceptibles a las influencias occidentales y de este modo provocar el cambio desde adentro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Cultural imperialism, in short, is a cheap way of achieving the goals that states formerly employed hard power to attain.&lt;/f0&gt;&lt;f1&gt;40&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T221642Z" creationid="Usuario" creationdate="20160922T221642Z">
+        <seg>El imperialismo cultural, en resumen, es una manera fácil de lograr los objetivos que previamente los estados utilizaban el poder duro para conseguie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8087,8 +8095,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If one nation-state is able to support an international regime, and other nation-states are all willing to go through this regime to coordinate their activities, then it [the first nation-state] has no need to pay the high price of hard power.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T220804Z" creationid="Usuario" creationdate="20160922T220804Z">
-        <seg>Si un estado nación puede</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T221448Z" creationid="Usuario" creationdate="20160922T220804Z">
+        <seg>Si un estado nación puede apoyar un régimen internacional, y otros estados naciones están dispuestos a soportar este régimen para coordinar sus actividades, entonces el primer estado nación no tiene la necesidad de pagar el alto precio del poder duro.</seg>
       </tuv>
     </tu>
     <tu>
