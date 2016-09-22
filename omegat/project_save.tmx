@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16989,6 +16989,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160910T174143Z">
         <seg>Los que estaban a favor del neoautoritarismo no se oponían a la democracia, sino que, por el contrario,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those in the Soviet Union and Eastern Europe imploded, while those in Cuba and North Korea have resisted reform; China and Vietnam have reformed economically but political reform has been limited (though recently Vietnam has made important strides).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T151419Z" creationid="marielaromina" creationdate="20160922T151419Z">
+        <seg>Los de la Unión Soviética y Europa del Este colapsaron, mientras que los de Cuba y Corea del Norte resistieron al cambio; China y Vietnam se han reformado economicamente</seg>
       </tuv>
     </tu>
     <tu>
