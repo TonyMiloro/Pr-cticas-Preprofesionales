@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1761,8 +1761,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Politburo membership before and after the Seventeenth &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T234852Z">
-        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del Décimo séptimo &lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200419Z">
+        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del Décimo Séptimo &lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7039,8 +7039,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T193727Z" creationid="Bangho" creationdate="20160919T231755Z">
-        <seg>ecretario General</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200655Z" creationid="Bangho" creationdate="20160919T231755Z">
+        <seg>Secretario General</seg>
       </tuv>
     </tu>
     <tu>
@@ -8383,8 +8383,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addi- tion, Jia's continuance on the PBSC is awkward at best because Hu has been campaigning vigorously against corruption whereas many Chinese remember Jia's apparent involvement in the Yuan Hua scandal of 1999.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200036Z" creationid="Mariela" creationdate="20160922T195700Z">
-        <seg>Además, la continuidad de Jia en el PBSC resultaba, en el mejor de los casos, incómoda ya que Hu había llevado a cabo una fuerte campaña en contra de la corrupción; sin embargo, muchos chinos recuerdan que Jia podría haber estado involucrado en el escandalo de Yuan Hua en 1999. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200632Z" creationid="Mariela" creationdate="20160922T195700Z">
+        <seg>Además, la continuidad de Jia en el PBSC resultaba, en el mejor de los casos, incómoda ya que Hu había llevado a cabo una fuerte campaña en contra de la corrupción; sin embargo, muchos chinos recuerdan que Jia podría haber estado involucrado en el escándalo de Yuan Hua en 1999.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13480,8 +13480,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Secretary</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T053203Z" creationid="Mariela" creationdate="20160922T053203Z">
-        <seg>Secretario del partido en Pekín.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200706Z" creationid="Mariela" creationdate="20160922T053203Z">
+        <seg>Secretario del Partido en Pekín.</seg>
       </tuv>
     </tu>
     <tu>
