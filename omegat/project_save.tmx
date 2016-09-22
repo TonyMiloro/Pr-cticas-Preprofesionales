@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16649,8 +16649,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Third, to what extent would the Seventeenth Party Congress ratify Hu Jintao's ideas, such as the scientific development concept?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T183700Z">
-        <seg>En tercer lugar, ¿hasta qué punto ratificaría el décimo séptimo Congreso del Partido las ideas de Hu Jintao, tales como el concepto científico de desarrollo? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T190309Z">
+        <seg>En tercer lugar, ¿hasta qué punto ratificaría el Décimo Séptimo Congreso del Partido las ideas de Hu Jintao, tales como el concepto científico de desarrollo? </seg>
       </tuv>
     </tu>
     <tu>
