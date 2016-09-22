@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3701,6 +3701,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="XP" changedate="20160915T165034Z" creationid="XP" creationdate="20160915T051623Z">
         <seg>Tal como se menciona en el último capítulo de este libro, Hu trabajó cuidadosamente  para diseñar su agenda como una “extensión” de la Triple Representatividad de Jiang y no como un cuestionamiento  directo, luego se las arregló para persuadir a Jiang de retirarse de la CMC, y finalmente golpeó duro a la “banda de Shanghái” deteniendo a Chen Liangyu bajo cargos de corrupción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As they noted, there were historically two bases for the CCP’s legitimacy, the October Revolution in Russia and the “Marxism of the mountains and valleys” of Mao Zedong.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T232434Z" creationid="Melanie" creationdate="20160922T232205Z">
+        <seg>Como bien ellos notaron, históricamente había dos bases para la legitimidad del PCCh: la Revolución de Octubre en Rusia y el "Marxismo de las montañas y valles" de Mao Zedong.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15365,8 +15373,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The authors &lt;t2/&gt;reﬂected&lt;t3/&gt; great awareness of the CCP’s fragile legitimacy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T231839Z" creationid="Melanie" creationdate="20160922T231839Z">
-        <seg>Los autores &lt;t2/&gt;denotaban&lt;t3/&gt; gran great awareness of the CCP’s fragile legitimacy.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T232043Z" creationid="Melanie" creationdate="20160922T231839Z">
+        <seg>Los autores &lt;t2/&gt;denotaban&lt;t3/&gt; gran conocimiento de la legitimidad frágil del PCCh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19245,6 +19253,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160919T055140Z" creationid="Usuario" creationdate="20160919T054141Z">
         <seg>"¿Por qué no logró China conservar el dominio cultural y político que tuvo en el mundo?".  Tal como recalcó Jing Wang: "la elite moderna, después de todo, está soñando el mismo sueño de sus ancestros del pasado dinástico: riqueza, poder y hegemonía". La elegia del río, al igual que otros esfuerzos realizados para renovar la cultura china, claramente estaba arraigado en una respuesta nacionalista a los problemas del país, aunque este nacionalismo buscaba modernizar la nación a la imagen del mundo exterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the &lt;t4/&gt;ﬁrst&lt;t5/&gt; pillar severely shaken (and indeed about to disappear), it was all the more necessary to emphasize the “&lt;t6/&gt;Chineseness&lt;t7/&gt;” of the Chinese revolution.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T232529Z" creationid="Melanie" creationdate="20160922T232506Z">
+        <seg>Debido a tener sus pilares&lt;t4/&gt;principales&lt;t5/&gt; pillar severely shaken (and indeed about to disappear), it was all the more necessary to emphasize the “&lt;t6/&gt;Chineseness&lt;t7/&gt;” of the Chinese revolution.</seg>
       </tuv>
     </tu>
     <tu>
