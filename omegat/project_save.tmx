@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2371,6 +2371,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160920T195105Z" creationid="Flor" creationdate="20160920T195105Z">
         <seg>&lt;t52/&gt;Wu y Wang ya eran muy conocidos por la comunidad extranjera. Como Jefe del Ministerio de Comercio Exterior y Cooperación Económica (MOFTEC, luego renombrado MOFCOM, Ministerio de Comercio), Wu había sido esencial en las negociaciones para que China ingresara a la Organización Mundial del Comercio.&lt;t53/&gt; &lt;t54/&gt;&lt;t55/&gt; &lt;t56/&gt;&lt;t57/&gt; &lt;t58/&gt;&lt;t59/&gt; &lt;t60/&gt;&lt;t61/&gt; &lt;t62/&gt;&lt;t63/&gt; &lt;t64/&gt;&lt;t65/&gt; &lt;t66/&gt;&lt;t67/&gt; &lt;t68/&gt;&lt;t69/&gt; &lt;t70/&gt;&lt;t71/&gt; &lt;t72/&gt;&lt;t73/&gt; &lt;t74/&gt;&lt;t75/&gt; &lt;t76/&gt;&lt;t77/&gt; &lt;t78/&gt;&lt;t79/&gt; &lt;t80/&gt;&lt;t81/&gt;&lt;t82/&gt;&lt;t83/&gt;&lt;t84/&gt;&lt;t85/&gt; &lt;t86/&gt;&lt;t87/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t6/&gt;Neoconservatism&lt;t7/&gt;, the article said, converged with Western rationalism in its opposition to radicalism and emphasis on gradualism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T230800Z" creationid="Melanie" creationdate="20160922T230800Z">
+        <seg>El &lt;t6/&gt;Neoconservadurismo&lt;t7/&gt;, según el artículo, convergía con el racionalismo occidental en su oposición al radicalismo y el converged with Western rationalism in its opposition to radicalism and emphasis on gradualism.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16130,6 +16138,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T143607Z" creationid="Lorena Baretto" creationdate="20160916T010420Z">
         <seg>El nuevo Buró Permanente del Comité Central era más conservador que antes, pero era mucho más representativo de lo que se podía haber esperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new ideological orientation of the regime, the authors hoped, would &lt;t2/&gt;ﬁght&lt;t3/&gt; against “ideological superstition” while maintaining control; &lt;t4/&gt;sufﬁcient&lt;t5/&gt; space would be allowed for theoretical exploration.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T230659Z" creationid="Melanie" creationdate="20160922T230436Z">
+        <seg>Los autores esperaban que esta nueva orientación ideológica del régimen&lt;t2/&gt;se opusiera&lt;t3/&gt; a la "superstición ideologica" y mantubiera el control. De esa forma, se permitiría un espacio &lt;t4/&gt;suﬁciente&lt;t5/&gt; para la exploración teórica.</seg>
       </tuv>
     </tu>
     <tu>
