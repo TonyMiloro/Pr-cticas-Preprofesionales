@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4629,6 +4629,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T145221Z" creationid="Usuario-Pc" creationdate="20160919T145221Z">
         <seg>2Cambridge Modern China Series</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can China chart a path that might lead to liberalization and perhaps to democratization?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T151741Z" creationid="marielaromina" creationdate="20160922T151741Z">
+        <seg>¿Puede China trazar un camino que pueda llevar hacia la liberalización y tal vez hacia la democratización?</seg>
       </tuv>
     </tu>
     <tu>
