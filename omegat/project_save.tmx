@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5861,8 +5861,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the seeming long odds of holding onto power, Jiang managed to maneuver, build coalitions, and gradually consolidate his power.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T200821Z">
-        <seg>A pesar de las pocas probabilidades de permanecer en el poder, Jiang logró realizar algunas maniobras, formar coaliciones y consolidar su poder de manera gradual. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T175046Z">
+        <seg>A pesar de las pocas probabilidades de permanecer en el poder, Jiang supo manejarse en la política, formando coaliciones y consolidando su poder de a poco. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11558,8 +11558,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, in 1992, Deng Xiaoping selected Hu Jintao, then only 50 years of age, to the Politburo Standing Committee (PBSC) at the Fourteenth Party Congress, apparently naming him internally as Jiang's successor.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T201748Z">
-        <seg>Sin embrago, en 1922, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, para formar parte del Comité Permanente del Politburó (PBSC) en el décimo cuarto Congreso del Partido. Al parecer, el fin era nombrar a Hu internamente el sucesor de Jiang.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T175225Z">
+        <seg>Sin embargo, en 1992, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, para formar parte del Comité Permanente del Politburó (PBSC) en el décimo cuarto Congreso del Partido. Al parecer, el fin era nombrar a Hu internamente el sucesor de Jiang.</seg>
       </tuv>
     </tu>
     <tu>
