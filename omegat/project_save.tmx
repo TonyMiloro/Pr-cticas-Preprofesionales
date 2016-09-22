@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5743,6 +5743,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
         <seg>
 El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera internacional que prevaleció en los años posteriores a Tiananmén.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng’s trip to the south had set off a new round of rapid economic growth and reform, while Zhu Rongji’s appointment as vice-premier had placed a solid reformer in charge of the economy, effectively eclipsing Premier Li Peng.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T173234Z" creationid="José Ignacio" creationdate="20160922T172957Z">
+        <seg>El viaje al sur de Deng causó una serie de reformas y crecimiento económico, mientras que la designación de Zhu Rongji como vice primer ministro puso a un sólido reformista a cargo de la economía, y opacando eficazmente a Premier Li Peng.</seg>
       </tuv>
     </tu>
     <tu>
