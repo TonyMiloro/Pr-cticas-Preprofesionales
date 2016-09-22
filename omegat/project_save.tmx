@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3141,6 +3141,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160920T095546Z" creationid="Administrador" creationdate="20160920T092014Z">
         <seg>Y no está claro si Hu será capaz de traspasar el poder a un sucesor de una manera diplomática e institucionalizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And it was at this time that &lt;t1/&gt;Hu &lt;t2/&gt;Jintao &lt;t3/&gt;r&lt;t4/&gt;ecast&lt;t5/&gt; &lt;t6/&gt;J&lt;t7/&gt;iang&lt;t8/&gt;’&lt;t9/&gt;s&lt;t10/&gt; &lt;t11/&gt;Th&lt;t12/&gt;r&lt;t13/&gt;ee&lt;t14/&gt; &lt;t15/&gt;R&lt;t16/&gt;ep&lt;t17/&gt;r&lt;t18/&gt;esents&lt;t19/&gt; &lt;t20/&gt;to&lt;t21/&gt; &lt;t22/&gt;better&lt;t23/&gt; &lt;t24/&gt;fit&lt;t25/&gt; &lt;t26/&gt;his&lt;t27/&gt; &lt;t28/&gt;(&lt;t29/&gt;H&lt;t30/&gt;u&lt;t31/&gt;’&lt;t32/&gt;s)&lt;t33/&gt; &lt;t34/&gt;ideological&lt;t35/&gt; &lt;t36/&gt;needs&lt;t37/&gt; &lt;t38/&gt;b&lt;t39/&gt;y &lt;t40/&gt;giving an unusual speech on July &lt;t41/&gt;1&lt;t42/&gt;, the eighty-second anniversary of the founding of the CCP.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160922T213132Z" creationid="Flor" creationdate="20160922T213132Z">
+        <seg>&lt;t1/&gt;Y fue la primera vez que Hu Jintao reestructuró la triple representatividad de Jiang para amoldarla a sus necesidades ideológicas y dio un particular discurso el 1 de julio, en el octogésimo segundo aniversario de fundación del PCCh.&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;&lt;t25/&gt; &lt;t26/&gt;&lt;t27/&gt; &lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;&lt;t35/&gt; &lt;t36/&gt;&lt;t37/&gt; &lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt;</seg>
       </tuv>
     </tu>
     <tu>
