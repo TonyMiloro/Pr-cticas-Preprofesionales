@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8815,7 +8815,7 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In part, as Suisheng Zhao commented, the “demythification” of the West that is central to this critique was the product of wider and more frequent exchanges with the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160922T204215Z" creationid="Gime" creationdate="20160922T204215Z">
+      <tuv lang="ES-US" changeid="Gime" changedate="20160922T210954Z" creationid="Gime" creationdate="20160922T204215Z">
         <seg>En parte, como indicó Suisheng Zhao, la "desmitificación" de Occidente que es central para esta crítica fue el resultado de intercambios más amplios y frecuentes con Estados Unidos.</seg>
       </tuv>
     </tu>
@@ -9201,6 +9201,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012049Z">
         <seg>En la primavera, la APN (Asamblea Popular Nacional) se comprometió a mantener la inflación por debajo del 10 % (un poco menos que el 13 % que se registró en 1993).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the wake of Tiananmen, the development of postmodernism, deconstructionism, studies of neocolonialism, and other critical method-ologies – like the revival of interest in traditional culture – began to mark a major departure from the May Fourth tradition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160922T211814Z" creationid="Gime" creationdate="20160922T211814Z">
+        <seg>Tras el Tiananmen, el desarrollo del posmodernismo, del decontruccionismo, de los estudios del neoclasicismo y de otras metodologías críticas (tales como el resurgimiento del interés en la cultura tradicional) marcaron una desviación importante de la tradición del cuatro de mayo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15765,6 +15773,14 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The introduction of such crit-ical methodologies marked a new turn in the old debate about the relative merits of “Eastern” (meaning Chinese) culture and “Western” (mostly US) culture.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160922T211105Z" creationid="Gime" creationdate="20160922T210911Z">
+        <seg>La inserción de dichas metodologías críticas marcaron un nuevo rumbo en el antiguo debate sobre los méritos relativos de la cultura de "Oriente" (es decir de China)  y de la de "Occidente" (en particular de Estados Unidos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The issue of China’s relations with the outside world has continued to intrude into Chinese domestic politics throughout the post-Tiananmen period as ﬁrst Eastern Europe and then the Soviet Union rejected communism, as relations with the United States remained generally strained through much of the 1990s, and as closer ties with East Asia have suggested alternative development models.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160912T013553Z">
@@ -18861,6 +18877,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160921T183210Z">
         <seg>Que estas tendencias sean "buenas" depende de la postura adoptada en estos debates de política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While such methodologies can provide valuable insights by uncovering forgotten voices and offering new explanations, there has been a marked tendency in recent years to deconstruct Western narratives of Chinese his-tory.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160922T212706Z" creationid="Gime" creationdate="20160922T211929Z">
+        <seg>A pesar de que dichas metodologías puedan brindar perspectivas valiosas al descubrir voces olvidadas y al ofrecer nuevas explicaciones, hubo una tendencia marcada en los ultimos años para deconstruir narrativas occidentales de la historia de China.</seg>
       </tuv>
     </tu>
     <tu>
