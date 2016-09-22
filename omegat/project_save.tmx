@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14001,8 +14001,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Since the Sixteenth Party Congress, the new leadership collective with Comrade &lt;t0/&gt;Hu&lt;t1/&gt; &lt;t2/&gt;Jintao&lt;t3/&gt; &lt;t4/&gt;as&lt;t5/&gt; &lt;t6/&gt;general&lt;t7/&gt; &lt;t8/&gt;secretary&lt;t9/&gt; &lt;t10/&gt;has&lt;t11/&gt; &lt;t12/&gt;worked&lt;t13/&gt; &lt;t14/&gt;in&lt;t15/&gt; &lt;t16/&gt;a&lt;t17/&gt; &lt;t18/&gt;down-to-earth&lt;t19/&gt; &lt;t20/&gt;manner,&lt;t21/&gt; &lt;t22/&gt;opened&lt;t23/&gt; &lt;t24/&gt;new advance&lt;t25/&gt;s, has emphasized studying and implementing the important thinking of &lt;t26/&gt;the&lt;t27/&gt; &lt;t28/&gt;“&lt;t29/&gt;Th&lt;t30/&gt;r&lt;t31/&gt;ee&lt;t32/&gt; &lt;t33/&gt;R&lt;t34/&gt;ep&lt;t35/&gt;r&lt;t36/&gt;esents”&lt;t37/&gt; &lt;t38/&gt;and&lt;t39/&gt; &lt;t40/&gt;the&lt;t41/&gt; &lt;t42/&gt;spirit&lt;t43/&gt; &lt;t44/&gt;of&lt;t45/&gt; &lt;t46/&gt;the&lt;t47/&gt; &lt;t48/&gt;S&lt;t49/&gt;ixteenth&lt;t50/&gt; &lt;t51/&gt;P&lt;t52/&gt;a&lt;t53/&gt;r&lt;t54/&gt;ty&lt;t55/&gt; &lt;t56/&gt;Cong&lt;t57/&gt;r&lt;t58/&gt;ess.&lt;t59/&gt; &lt;t60/&gt;They&lt;t61/&gt; &lt;t62/&gt;ha&lt;t63/&gt;v&lt;t64/&gt;e &lt;t65/&gt;grasped&lt;t66/&gt; &lt;t67/&gt;development&lt;t68/&gt; &lt;t69/&gt;–&lt;t70/&gt; &lt;t71/&gt;this&lt;t72/&gt; &lt;t73/&gt;most&lt;t74/&gt; &lt;t75/&gt;important&lt;t76/&gt; &lt;t77/&gt;task&lt;t78/&gt; &lt;t79/&gt;in&lt;t80/&gt; &lt;t81/&gt;this&lt;t82/&gt; &lt;t83/&gt;ruling&lt;t84/&gt; &lt;t85/&gt;Party&lt;t86/&gt; &lt;t87/&gt;and&lt;t88/&gt; &lt;t89/&gt;in&lt;t90/&gt; &lt;t91/&gt;making</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160922T210216Z" creationid="Flor" creationdate="20160922T210216Z">
-        <seg>&lt;t0/&gt;“Desde el XVI Congreso Nacional del Partido Comunista de China, el nuevo liderazgo en acción conjunta con el camarada Hu Jintao como Secretario General ha funcionado de una manera sensata, ha permitido nuevos avances, ha remarcado el estudio y la implementación tanto del importante pensamiento de la “triple representatividad” como del espíritu del XVI Congreso Nacional del Partido Comunista de China. Han traído desarrollo, la labor más importante para este partido gobernante y para la prosperidad del país. &lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt; &lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt; &lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt; &lt;t38/&gt;&lt;t39/&gt; &lt;t40/&gt;&lt;t41/&gt; &lt;t42/&gt;&lt;t43/&gt; &lt;t44/&gt;&lt;t45/&gt; &lt;t46/&gt;&lt;t47/&gt; &lt;t48/&gt;&lt;t49/&gt;&lt;t50/&gt; &lt;t51/&gt;&lt;t52/&gt;&lt;t53/&gt;&lt;t54/&gt;&lt;t55/&gt; &lt;t56/&gt;&lt;t57/&gt;&lt;t58/&gt;&lt;t59/&gt; &lt;t60/&gt;&lt;t61/&gt; &lt;t62/&gt;&lt;t63/&gt;&lt;t64/&gt;&lt;t65/&gt;&lt;t66/&gt; &lt;t67/&gt;&lt;t68/&gt; &lt;t69/&gt;&lt;t70/&gt; &lt;t71/&gt;&lt;t72/&gt; &lt;t73/&gt;&lt;t74/&gt; &lt;t75/&gt;&lt;t76/&gt; &lt;t77/&gt;&lt;t78/&gt; &lt;t79/&gt;&lt;t80/&gt; &lt;t81/&gt;&lt;t82/&gt; &lt;t83/&gt;&lt;t84/&gt; &lt;t85/&gt;&lt;t86/&gt; &lt;t87/&gt;&lt;t88/&gt; &lt;t89/&gt;&lt;t90/&gt; &lt;t91/&gt;</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160922T210420Z" creationid="Flor" creationdate="20160922T210216Z">
+        <seg>&lt;t0/&gt;“Desde el XVI Congreso Nacional del Partido Comunista de China, el nuevo liderazgo en acción conjunta con el camarada Hu Jintao como Secretario General ha funcionado de una manera sensata, ha permitido nuevos avances, ha remarcado el estudio y la implementación tanto del importante pensamiento de la “triple representatividad” como del espíritu del XVI Congreso Nacional del Partido Comunista de China. Han traído desarrollo, la labor más importante para este partido gobernante &lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt; &lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt; &lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt; &lt;t38/&gt;&lt;t39/&gt; &lt;t40/&gt;&lt;t41/&gt; &lt;t42/&gt;&lt;t43/&gt; &lt;t44/&gt;&lt;t45/&gt; &lt;t46/&gt;&lt;t47/&gt; &lt;t48/&gt;&lt;t49/&gt;&lt;t50/&gt; &lt;t51/&gt;&lt;t52/&gt;&lt;t53/&gt;&lt;t54/&gt;&lt;t55/&gt; &lt;t56/&gt;&lt;t57/&gt;&lt;t58/&gt;&lt;t59/&gt; &lt;t60/&gt;&lt;t61/&gt; &lt;t62/&gt;&lt;t63/&gt;&lt;t64/&gt;&lt;t65/&gt;&lt;t66/&gt; &lt;t67/&gt;&lt;t68/&gt; &lt;t69/&gt;&lt;t70/&gt; &lt;t71/&gt;&lt;t72/&gt; &lt;t73/&gt;&lt;t74/&gt; &lt;t75/&gt;&lt;t76/&gt; &lt;t77/&gt;&lt;t78/&gt; &lt;t79/&gt;&lt;t80/&gt; &lt;t81/&gt;&lt;t82/&gt; &lt;t83/&gt;&lt;t84/&gt; &lt;t85/&gt;&lt;t86/&gt; &lt;t87/&gt;&lt;t88/&gt; &lt;t89/&gt;&lt;t90/&gt; &lt;t91/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19919,6 +19919,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T153247Z" creationid="marielaromina" creationdate="20160922T153247Z">
         <seg>los abusos de autoridad asociados con el gobierno de Mao, particularmente durante la Revolución Cultural China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the country prosperous.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160922T210429Z" creationid="Flor" creationdate="20160922T210429Z">
+        <seg> y para la prosperidad del país.</seg>
       </tuv>
     </tu>
     <tu>
