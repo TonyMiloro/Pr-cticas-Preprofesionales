@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15506,6 +15506,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160905T020558Z">
         <seg>Este nuevo organizmo tenía un rango burocrático similar al de la&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;CEPD y marginaba de manera efectiva a esta última organización, haciéndose cargo de la administración diaria de la economía, y dejando que la CEPD se ocupase de la macroeconomía .&lt;/f3&gt;&lt;f5&gt;24&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Es más, Zhu tuvo éxito, al menos temporalmente, al reducir el problema de la deuda interempresarial  &lt;/f6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The norm of democratic centralism also contained a sense that there were procedures to be followed in convening Party meetings so that one person could not arbitrarily impose his or her will on the Party or its management – including, for example, such issues as recruitment, evalua-tion, and promotion of cadres.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T155739Z" creationid="marielaromina" creationdate="20160922T155739Z">
+        <seg>Esta norma de centralismo democrátio también incluía los procedimientos que se debían realizar en las reuniones de toma de decisón del partido, de modo que una persona no pueda imponerse arbitrariamente dentro del partido o en la dirigencia -- esto incluye, por ejemplo, los asuntos de reclutamiento, evaluación, y promoción de la clase dirigente.</seg>
       </tuv>
     </tu>
     <tu>
