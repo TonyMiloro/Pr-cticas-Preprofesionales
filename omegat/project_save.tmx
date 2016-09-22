@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16587,6 +16587,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T012134Z">
         <seg>El año finalizaría con una tasa de inflación anual del 21,7 %&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “&lt;t0/&gt;ossiﬁed&lt;t1/&gt;” thinking of such socialism only caused “resentment” among the people.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T230010Z" creationid="Melanie" creationdate="20160922T225749Z">
+        <seg>La forma de pensar &lt;t0/&gt;"aniquilosada"&lt;t1/&gt; de esa clase de socialismo solo provocaba "resentimientos" entre la gente.</seg>
       </tuv>
     </tu>
     <tu>
