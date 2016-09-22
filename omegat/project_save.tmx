@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2283,6 +2283,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131138Z">
         <seg>Ya no necesitan recibir consejos generales sobre si reformar o no, necesitan consejos altamente específicos, que solo pocos especialistas académicos pueden darles, sobre cómo reformar.24 Cuando los intelectuales expresan su preocupación por el estado de la sociedad china contemporánea, sobre tod sobre temas relacionados a la reforma política, los burócratas del gobierno los suelen considerar irrelevantes, y en este sentido la brecha entre el estado y los intelectuales aumentó.&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t33/&gt;We &lt;t34/&gt;should say that these tasks have been grasped accurately and effectively; they are a good start in implementing the spirit of the Sixteenth Party Congress.&lt;t35/&gt;52</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160922T211147Z" creationid="Flor" creationdate="20160922T211147Z">
+        <seg>&lt;t33/&gt;Podemos decir que estas tareas han sido realizadas con precisión y efectividad; son un buen comienzo para la implementación del espíritu del XVI Congreso Nacional del Partido Comunista de China”.&lt;t34/&gt;&lt;t35/&gt;52</seg>
       </tuv>
     </tu>
     <tu>
