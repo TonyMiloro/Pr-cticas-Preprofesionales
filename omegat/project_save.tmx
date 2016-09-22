@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14204,6 +14204,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T163241Z">
         <seg>De manera sutil reiterando su propia oposición al rechazo de Deng para ceder el paso a un liderazgo conjunto, Chen presentó a los líderes de Shanghai una copla con rimas que les ordenaba a "no simplemente seguir los que los superiores o los libros decían" sino también a "actuar solo de acuerdo con la realidad".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Succession in Leninist systems remains difficult.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Yani" changedate="20160922T190322Z" creationid="Yani" creationdate="20160922T190322Z">
+        <seg>La sucesión en los sistemas lenistas permanece complicada. </seg>
       </tuv>
     </tu>
     <tu>
