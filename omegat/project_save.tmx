@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -985,8 +985,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f0&gt;Hu nevertheless maneuvered .</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T175335Z">
-        <seg>Sin embargo, Hu logró realizar algunas maniobras &lt;/f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T181903Z">
+        <seg>Sin embargo,&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17419,8 +17419,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, there were three interesting questions to be tackled at the Sev- enteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173715Z">
-        <seg>De este modo, había tres temas importantes que se debían resolver en el décimo séptimo Congreso del Partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T181929Z">
+        <seg>De este modo, había tres temas importantes que se debían resolver en el Décimo Séptimo Congreso del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19741,8 +19741,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>with considerable skill to articulate his own ideology and begin to promote people from his own power base, the Communist Youth League (CYL).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160908T173648Z">
-        <seg>con una gran habidad con el fin de articular su propia ideología y promover gente de su misma base del poder; la Liga de la Juventud Comunista (CYL).  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T181844Z">
+        <seg>Hu se supo manejar con una gran habilidad y logró articular su propia ideología y promover gente de su propia base política; la Liga de la Juventud Comunista (CYL). </seg>
       </tuv>
     </tu>
     <tu>
