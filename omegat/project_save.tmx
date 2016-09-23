@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15503,6 +15503,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160908T120743Z">
         <seg>El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos que le quedaba, por lo que debía utilizar cualquier conflicto que hubiera entre éste y otras naciones. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The brunt of Zhang’s argument, however, is not his critique of Western distortions of China but rather the acceptance by Chinese intellectuals of these Western portrayals.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160923T003433Z" creationid="Gime" creationdate="20160923T003433Z">
+        <seg>El impacto principal del argumento de Zhang, sin embargo, no es su crítica a las distorciones de China realizadas por los Occidentales sino a la aceptación de estas descripciones por parte de los intelectuales Chinos.</seg>
       </tuv>
     </tu>
     <tu>
