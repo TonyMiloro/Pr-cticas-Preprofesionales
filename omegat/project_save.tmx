@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5331,8 +5331,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Chongqing CCP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T000419Z" creationid="Bangho" creationdate="20160919T235857Z">
-        <seg>Secretario General PCCh. en Chongqing</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200121Z" creationid="Bangho" creationdate="20160919T235857Z">
+        <seg>Secretariado del PCCh. en Chongqing</seg>
       </tuv>
     </tu>
     <tu>
@@ -14256,8 +14256,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Shanghai CPP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200827Z" creationid="Bangho" creationdate="20160920T002322Z">
-        <seg>Secretario General CPP de Shanghái</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200212Z" creationid="Bangho" creationdate="20160920T002322Z">
+        <seg>Secretariado del CPP en Shanghái</seg>
       </tuv>
     </tu>
     <tu>
@@ -18627,8 +18627,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Vice-chair, CMC</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T235720Z" creationid="Bangho" creationdate="20160919T235720Z">
-        <seg>Vicepresidente, CMC</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200027Z" creationid="Bangho" creationdate="20160919T235720Z">
+        <seg>Vicepresidente de Comisión Militar Central</seg>
       </tuv>
     </tu>
     <tu>
