@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12070,8 +12070,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, as we have suggested, many of these dis-cussions contained a populist element – whether it was Wang Xiaodong’s excoriation of the cultural elite who authored and directed&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;River Elegy&lt;/f2&gt;&lt;f3&gt;, He Xin’s efforts to rally support for a beleaguered government, or the economic democracy touted by Cui Zhiyuan and many others.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T123219Z" creationid="Usuario" creationdate="20160922T230655Z">
-        <seg>Sin embargo, como hemos sugerido, muchas de estas discusiones contenían un elemento populista, ya sea la crítica de Wang Xiaodong hacia la élite cultural que escribió y dirigió River Elegy, los esfuerzos de He Xin en reunir apoyo para un gobierno muy criticado o la democracia económica solicitada por Cui Zhiyuan y muchos otros.&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T131247Z" creationid="Usuario" creationdate="20160922T230655Z">
+        <seg>Sin embargo, como hemos sugerido, muchas de estas discusiones contenían un elemento populista, ya sea la crítica de Wang Xiaodong hacia la élite cultural que escribió y dirigió&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt; River elegy&lt;/f2&gt;&lt;f3&gt;, los esfuerzos de He Xin en reunir apoyo para un gobierno muy criticado o la democracia económica solicitada por Cui Zhiyuan y muchos otros.</seg>
       </tuv>
     </tu>
     <tu>
