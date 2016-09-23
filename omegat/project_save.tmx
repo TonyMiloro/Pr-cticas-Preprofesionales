@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>.?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160919T054150Z" creationid="Usuario" creationdate="20160919T053852Z">
-        <seg>?.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T014958Z" creationid="Usuario" creationdate="20160919T053852Z">
+        <seg>?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6525,8 +6525,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Exporting neoclassical economics was one of the tools by which the United States sought to dominate the world, as was so vividly demonstrated by the results of radical price reform in the Soviet Union; shock therapy, He said, was simply “economic suicide.” Chinese intellectuals were susceptible to the &lt;t2/&gt;inﬂuence&lt;t3/&gt; of neoclassical economics, particularly after 1984, because of their anxiety for quick success – another manifestation of the “romantic” mood that swept China in the late 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012545Z" creationid="Melanie" creationdate="20160919T232402Z">
-        <seg>La exportación de la economía neoclásica era uno de los medios con los que Estados Unidos trataba de dominar el mundo, como quedó claramente demostrado con los resultados de la reforma radical de precios en la Unión Soviética. He decía que la terapia de choque era "suicidio económico". Los intelectuales chinos eran propensos a ser &lt;t2/&gt;influenciados&lt;t3/&gt; por la economía neoclásica, en especial después del año 1984, a causa de su ansiedad por alcazar un éxito rápido, lo que era otra manifestación del ánimo "romántico" que se propagó en China a fines de los años 80.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015540Z" creationid="Melanie" creationdate="20160919T232402Z">
+        <seg>La exportación de la economía neoclásica era uno de los medios con los que Estados Unidos trataba de dominar el mundo, como quedó claramente demostrado con los resultados de la reforma radical de precios en la Unión Soviética. He decía que la terapia de choque era "suicidio económico". Los intelectuales chinos eran propensos a ser &lt;t2/&gt;influenciados&lt;t3/&gt; por la economía neoclásica, en especial después del año 1984, a causa de su ansiedad por alcanzar un éxito rápido, lo que era otra manifestación del ánimo "romántico" que se propagó en China a fines de los años 80.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7583,8 +7583,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He argued that the world was headed toward unity,  but that it could be united either under US domination or be integrated on the basis of “fairness, equal sovereignty, common interest, and cooperation.”  If America succeeds in its global ambitions, he warned, “the world will enter into a dark and chaotic age.”  The biggest obstacle to the realization of US ambitions is China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232117Z" creationid="Melanie" creationdate="20160919T232117Z">
-        <seg>Argumentaba que el mundo iba en camino hacia la unidad, pero que tal unidad podría darse bajo el dominio estadounidense o integrarse sobre la base de "igualdad, soberanía equitativa, interés común y cooperación". "Si Estados Unidos logra alcanzar sus ambiciones a nivel mundial, el mundo entrará en una era oscura y caótica", advertió. El mayor obstáculo para que se concreten las ambiciones estadounidenses es China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015401Z" creationid="Melanie" creationdate="20160919T232117Z">
+        <seg>Argumentaba que el mundo iba en camino hacia la unidad, pero que tal unidad podría darse bajo el dominio estadounidense o integrarse sobre la base de "igualdad, soberanía equitativa, interés común y cooperación". "Si Estados Unidos logra alcanzar sus ambiciones a nivel mundial, el mundo entrará en una era oscura y caótica", advirtió. El mayor obstáculo para que se concreten las ambiciones estadounidenses es China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8951,8 +8951,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In his opinion, it does not matter what type of policy China adopts internally (i.e., whether it supports human rights or becomes a democracy), since US policy will not change; the United States simply does not want to see a “strong, &lt;t0/&gt;uniﬁed&lt;t1/&gt;, prosperous, and industrialized modern China.”  In He’s view, American demands for human rights and democracy were merely a part of its strategy to weaken and hopefully divide China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012416Z" creationid="Melanie" creationdate="20160919T232130Z">
-        <seg>A su parecer, no importa qué clase de polítca interna adopte China (es decir, si apoya los derechos humanos o se convierte en una democracia), ya que la política estadounidense no va a cambiar. En términos simples, Estados Unidos no desea ver una "China moderna, poderosa, &lt;t0/&gt;unificada&lt;t1/&gt;, próspera e industrializada". Para He, las demandas estadounidenses para proteger los derechos humanos y la democracia eran una mera parte de su estrategia para debilitar y, con suerte, dividir China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015414Z" creationid="Melanie" creationdate="20160919T232130Z">
+        <seg>A su parecer, no importa qué clase de política interna adopte China (es decir, si apoya los derechos humanos o se convierte en una democracia), ya que la política estadounidense no va a cambiar. En términos simples, Estados Unidos no desea ver una "China moderna, poderosa, &lt;t0/&gt;unificada&lt;t1/&gt;, próspera e industrializada". Para He, las demandas estadounidenses para proteger los derechos humanos y la democracia eran una mera parte de su estrategia para debilitar y, con suerte, dividir China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9263,8 +9263,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the 1980s, impatient intellectuals, wondering why reforms had not developed more quickly than they had, turned increasingly to dissecting their own culture.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T002729Z" creationid="Usuario" creationdate="20160917T074132Z">
-        <seg>En los años 80, los intelectuales impacientes que se preguntaban por qué las reformas no se habían desarrollado más rápidamente recurrieron cada vez más a analizar minusciosamente su propia cultura.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015551Z" creationid="Usuario" creationdate="20160917T074132Z">
+        <seg>En los años 80, los intelectuales impacientes que se preguntaban por qué las reformas no se habían desarrollado más rápidamente recurrieron cada vez más a analizar minuciosamente su propia cultura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9744,8 +9744,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, one of the primary intellectual &lt;t0/&gt;inﬂuences&lt;t1/&gt; at the time was the work of Li &lt;t2/&gt;Zehou&lt;t3/&gt;, a philosopher at CASS, who argued that China’s “enlightenment” project, inaugurated by the New Culture Movement (1915–20), had been constantly interrupted and deferred by “national salvation” movements that had grown up in response to foreign threat and war.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012620Z" creationid="Melanie" creationdate="20160919T232519Z">
-        <seg>De hecho, en ese momento una de las principales &lt;t0/&gt;influencias&lt;t1/&gt; intelectuales fue el trabajo de Li &lt;t2/&gt;Zehou&lt;t3/&gt;, un filósofo que trabaja en la Academina China de Ciencias Sociales (CASS), quien argumentaba que el proyecto de la "Ilustración" de China, iniciado por el Movimiento de la Nueva Cultura (1915-1920), había sido interrumpido y suspendido de manera constante por los movimientos de "salvación nacional" que habían surgido como respuesta a la amenaza y guerra extranjeras.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015603Z" creationid="Melanie" creationdate="20160919T232519Z">
+        <seg>De hecho, en ese momento una de las principales &lt;t0/&gt;influencias&lt;t1/&gt; intelectuales fue el trabajo de Li &lt;t2/&gt;Zehou&lt;t3/&gt;, un filósofo que trabaja en la Academia China de Ciencias Sociales (CASS), quien argumentaba que el proyecto de la "Ilustración" de China, iniciado por el Movimiento de la Nueva Cultura (1915-1920), había sido interrumpido y suspendido de manera constante por los movimientos de "salvación nacional" que habían surgido como respuesta a la amenaza y guerra extranjeras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10260,8 +10260,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was to weaken China that the United States aggravated the political crisis of Tiananmen, using the Voice of America and other means to try to split China apart.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T234152Z" creationid="Usuario" creationdate="20160916T065341Z">
-        <seg>Fue con el próposito de debilitar y dividir a China que Estados Unidos agravó la crisis política de Tiananmen a través de La Voz de Estados Unidos y otros medios. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015435Z" creationid="Usuario" creationdate="20160916T065341Z">
+        <seg>Fue con el propósito de debilitar y dividir a China que Estados Unidos agravó la crisis política de Tiananmen a través de La Voz de Estados Unidos y otros medios. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11974,8 +11974,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nationalism was another force propelling changes in the way Chinese intellectuals and policy-makers viewed the world in the period following &lt;t0/&gt;Tianan&lt;t1/&gt;- men.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T194931Z">
-        <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y responsables políticos chinos en el período pos- &lt;t0/&gt;Tianan&lt;t1/&gt;men.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015233Z">
+        <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y responsables políticos chinos en el período pos-&lt;t0/&gt;Tianan&lt;t1/&gt;men.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13664,8 +13664,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Reﬂecting&lt;t0/&gt; on the decade of reform prior to Tiananmen, He regarded the 1984–8 period as one of “romanticism.” In his opinion, reform in this period not only shifted from the countryside to the cities but also branched out from economics into other spheres of activity, creating an atmosphere that disregarded the &lt;t1/&gt;difﬁculty&lt;t2/&gt; and length of time that reform would take.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012450Z" creationid="Melanie" creationdate="20160919T232157Z">
-        <seg>Habiendo reflexionado &lt;t0/&gt;sobre la década de reforma anterior a Tiananmen, He consideró al periodo 1984-8 como un periodo de "romaticismo". Para él, la reforma en este período no solo se trasladó del campo a las ciudades sino que también se expandió desde la economía hacia otras esferas de actividad, lo que creó una atmósfera que no tuvo en cuenta la &lt;t1/&gt;dificultad&lt;t2/&gt; que presentaría y el largo tiempo que llevaría la reforma.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015522Z" creationid="Melanie" creationdate="20160919T232157Z">
+        <seg>Habiendo reflexionado &lt;t0/&gt;sobre la década de reforma anterior a Tiananmen, He consideró al periodo 1984-8 como un periodo de "romanticismo". Para él, la reforma en este período no solo se trasladó del campo a las ciudades sino que también se expandió desde la economía hacia otras esferas de actividad, lo que creó una atmósfera que no tuvo en cuenta la &lt;t1/&gt;dificultad&lt;t2/&gt; que presentaría y el largo tiempo que llevaría la reforma.</seg>
       </tuv>
     </tu>
     <tu>
