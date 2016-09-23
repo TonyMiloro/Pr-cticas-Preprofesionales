@@ -158,14 +158,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>1941</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T195024Z" creationid="Mariela" creationdate="20160923T195024Z">
-        <seg>1041</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>1970s.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T225326Z">
@@ -11918,8 +11910,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>NPC</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T232212Z" creationid="Bangho" creationdate="20160919T232212Z">
-        <seg>ANP</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T195046Z" creationid="Bangho" creationdate="20160919T232212Z">
+        <seg>APN</seg>
       </tuv>
     </tu>
     <tu>
