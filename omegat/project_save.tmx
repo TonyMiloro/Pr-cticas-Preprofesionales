@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17265,8 +17265,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These were filled by Li Yuanchao, who will take over the Organization Department and help shape a Party leadership more in Hu's image; Wang Qishan, an experienced banker who is likely to be named a vice-premier at the NPC meeting in March 2008; Liu Yandong, a CYL cadre who has good ties with Zeng Qinghong for historical reasons; Bo Xilai, the son of the late Party elder Bo Yibo; Zhang Gaoli, who replaced Zhang Lichang as Party secretary of Tianjin, one of the three municipalities that are granted seats on the Politburo; and Xu Caihou, a vice-chairman of the CMC who replaces the retiring Cao Gangchuan and maintains the PLA tradition of having two seats on the Politburo.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T191353Z" creationid="cintia soler" creationdate="20160919T174444Z">
-        <seg>Estas vacantes fueron ocupadas por Li Yuanchao, quién estará a cargo del Departamento de la Organización y además contribuirá a dar forma al liderazgo del partido que se adecúe a la imágen de Hu; Wang Qishan, un empleado de banco especialista quién es probable que sea nombrado Vice Primer Ministro en la la reunión de la APN (Asamblea Popular Nacional) en marzo de 2008; Liu Yandong, un delegado de CYL, quien tiene un buen vinculo con Zeng Qinghong debido a razones políticas; Bo Xilai, hijo del último miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del Partido de Tianjin, uno de los tres municipios que recibe bancas en el Politburó; y Xu Caihou, vice presidente de la CMC quien reemplaza a Cao Ganchuan, quien esta a punto de jubilarse, y mantiene la tradicion de la EPL que consiste en tener dos bancas en el Politburó.  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T204738Z" creationid="cintia soler" creationdate="20160919T174444Z">
+        <seg>Estas vacantes fueron ocupadas por: Li Yuanchao, quién estará a cargo del Departamento de Organización y además contribuirá a dar forma al liderazgo del Partido para que se adecúe a la imágen de Hu; Wang Qishan, un bancario con experiencia quien es probable que sea nombrado Vice Primer Ministro en la la reunión de la APN (Asamblea Popular Nacional) en marzo de 2008; Liu Yandong, un delegado de CYL, quien tiene un buen vinculo con Zeng Qinghong debido a razones políticas; Bo Xilai, hijo del último miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del Partido de Tianjin, uno de los tres municipios que recibe bancas en el Politburó; y Xu Caihou, vice presidente de la CMC quien reemplaza a Cao Ganchuan, quien esta a punto de jubilarse, y mantiene la tradicion de la EPL que consiste en tener dos bancas en el Politburó.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -19459,8 +19459,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the decision to promote He Guo- qiang and Zhou Yongkang to the PBSC, there were seven slots (including that opened by Chen Liangyu's arrest).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T204311Z" creationid="cintia soler" creationdate="20160919T173720Z">
-        <seg>Luego de la decisión de ascender a He Guoqiang y Zhou Yongkang al PBSC, había siete puestos vacantes (entre las que se incluye el que quedó luego del arresto de Chen Lyangyu).</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T204337Z" creationid="cintia soler" creationdate="20160919T173720Z">
+        <seg>Luego de la decisión de ascender a He Guoqiang y Zhou Yongkang al PBSC, había siete puestos vacantes (entre los que se incluye el que quedó luego del arresto de Chen Lyangyu).</seg>
       </tuv>
     </tu>
     <tu>
