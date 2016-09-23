@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1385,8 +1385,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;As Wang Huning’s argument suggests, many in China saw Huntington’s thesis from the perspective of ongoing discussions of “Orientalism,” believ-ing that there was a need to strengthen Chinese culture in order to meet the challenge of the clash of civilizations.&lt;/f0&gt;&lt;f1&gt;41&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Others sought to meet this chal-lenge by bolstering Chinese culture with nationalism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T132521Z" creationid="Usuario" creationdate="20160922T222046Z">
-        <seg>&lt;f0&gt;Como sugieren los argumentos de Wang Huning, muchas personas en China veían la tesis de Huntington desde la perspectiva de debates en curso sobre "Orientalismo" y creían que existía la necesidad de fortalecer la cultura china para cumplir con el desafío del choque de civilizaciones.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt; Otros buscaban cumplir este desafío al reforzar la cultura china con nacionalismo.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T133446Z" creationid="Usuario" creationdate="20160922T222046Z">
+        <seg>&lt;f0&gt;Como sugieren los argumentos de Wang Huning, muchas personas en China veían la tesis de Huntington desde la perspectiva de debates en curso sobre "Orientalismo" y creían que existía la necesidad de fortalecer la cultura china para cumplir con el desafío del choque de civilizaciones&lt;/f0&gt;&lt;f1&gt;41&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;. Otros buscaban cumplir este desafío al reforzar la cultura china con nacionalismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1505,8 +1505,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cultural imperialism, in short, is a cheap way of achieving the goals that states formerly employed hard power to attain.&lt;/f0&gt;&lt;f1&gt;40&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T132453Z" creationid="Usuario" creationdate="20160922T221642Z">
-        <seg>&lt;f0&gt;El imperialismo cultural, en resumen, es una manera fácil de lograr los objetivos. Anteriormente los estados utilizaban el poder duro para conseguirlos.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T133428Z" creationid="Usuario" creationdate="20160922T221642Z">
+        <seg>&lt;f0&gt;El imperialismo cultural, en resumen, es una manera fácil de lograr los objetivos. Anteriormente los estados utilizaban el poder duro para conseguirlos&lt;/f0&gt;&lt;f1&gt;40&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7439,8 +7439,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Having escaped the “cultural hegemonism” of the West, China would not now accept Western values as its own.&lt;/f2&gt;&lt;f4&gt;43&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T232119Z" creationid="Usuario" creationdate="20160922T225619Z">
-        <seg>Al haber escapado del "hegemonismo cultural" de Occidente, ahora China no aceptaría los valores occidentales como suyos.&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T133530Z" creationid="Usuario" creationdate="20160922T225619Z">
+        <seg>Al haber escapado del "hegemonismo cultural" de Occidente, ahora China no aceptaría los valores occidentales como suyos&lt;/f2&gt;&lt;f4&gt;43&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19884,8 +19884,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>[W]hat they brought to Asia was primarily colonial culture.” Jiang viewed Huntington’s argument about the clash of civilizations and his extolling of Western values as universal val-ues&lt;/f0&gt;&lt;f1&gt;42&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;as a continuation of this imperialist past.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T122418Z" creationid="Usuario" creationdate="20160922T223547Z">
-        <seg>Lo que trajeron a Asia fue principalmente una cultura colonial". Jiang vio el argumento de Huntington como una continuación de su pasado imperialista. Este argumento está basado en el choque de civilizaciones y sus elogios a los valores occidentales como valores universales.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T133514Z" creationid="Usuario" creationdate="20160922T223547Z">
+        <seg>Lo que trajeron a Asia fue principalmente una cultura colonial". Jiang vio el argumento de Huntington como una continuación de su pasado imperialista. Este argumento está basado en el choque de civilizaciones y sus elogios a los valores occidentales como valores universales&lt;/f0&gt;&lt;f1&gt;42&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
