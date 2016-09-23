@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8047,8 +8047,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu's achievements at this Party Congress were reﬂected in both these events.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T193344Z" creationid="cintia soler" creationdate="20160919T193344Z">
-        <seg>Los logros alcanzados por Hu en este Congreso del Partido fueron reflejados en los dos eventos anteriormente mencionados.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T211801Z" creationid="cintia soler" creationdate="20160919T193344Z">
+        <seg>Los logros alcanzados por Hu en el Congreso del Partido se vieron reflejados en estos hechos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8719,8 +8719,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition to selecting a new leadership, Party congresses typically revise the Party constitution to reﬂect changed political thinking and listen to the general secretary give a report that lays out the Party's vision for the next five years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T211456Z" creationid="cintia soler" creationdate="20160919T192825Z">
-        <seg>Además de elegir un nuevo líder político, a menudo, los congresistas del Partido modifican la constitución para reflejar cambios en el pensamiento politico y tienen en cuenta el reporte hecho por el secretario general que establece la visión que tendrá el partido en los próximos cinco años.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T211709Z" creationid="cintia soler" creationdate="20160919T192825Z">
+        <seg>Además de elegir un nuevo líder político, a menudo, los congresistas del Partido modifican la constitución para reflejar cambios en el pensamiento politico y tienen en cuenta el reporte hecho por el secretario general que muestra la visión que tendrá el partido en los próximos cinco años.</seg>
       </tuv>
     </tu>
     <tu>
