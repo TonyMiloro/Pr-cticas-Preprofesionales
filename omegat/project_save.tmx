@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13440,8 +13440,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Premier</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T232234Z" creationid="Bangho" creationdate="20160919T232234Z">
-        <seg>Primer Ministro</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T195300Z" creationid="Bangho" creationdate="20160919T232234Z">
+        <seg>Primer ministro</seg>
       </tuv>
     </tu>
     <tu>
@@ -18997,6 +18997,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="XP" changedate="20160913T191352Z" creationid="XP" creationdate="20160913T191111Z">
         <seg>Los servicios sociales que beneficiaron a las urbes no se extendieron a las áreas rurales .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wen Jiabao</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T195200Z" creationid="Mariela" creationdate="20160923T195200Z">
+        <seg>W</seg>
       </tuv>
     </tu>
     <tu>
