@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2723,8 +2723,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Almost heretically – given the strong Chinese approval of the coup in the Soviet Union and the equally strong sense of despair after it failed – the authors argued that it would not necessarily have been to China’s advantage had the coup succeeded.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T013210Z" creationid="Melanie" creationdate="20160923T013113Z">
-        <seg>Casi heréticamente, debido al fuerte apoyo chino que tuvo el golpe de estado en la Unión Sovietica y a la fuerte sensación de desesperanza luego de su fracaso, los autores argumentaron que el éxito del golpe podría no haber sido ventajoso para China. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020318Z" creationid="Melanie" creationdate="20160923T013113Z">
+        <seg>Casi heréticamente, debido al fuerte apoyo chino que tuvo el golpe de estado en la Unión Soviética y a la fuerte sensación de desesperanza luego de su fracaso, los autores argumentaron que el éxito del golpe podría no haber sido ventajoso para China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9039,8 +9039,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In opposing “peaceful evolution,” the state should emphasize nationalism and patriotism as well as the national interest and China’s unique “national characteristics” (&lt;t0/&gt;guoqing&lt;t1/&gt;).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T012631Z" creationid="Melanie" creationdate="20160923T012631Z">
-        <seg>Al oponerse a una "evolución pacífica", el Estado debía enfatizar en el nacionalismo y el patriotismo, como tambien en el interés nacional y en las "características nacionales" (&lt;t0/&gt;guoqing&lt;t1/&gt;) únicas de China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020245Z" creationid="Melanie" creationdate="20160923T012631Z">
+        <seg>Al oponerse a una "evolución pacífica", el Estado debía enfatizar en el nacionalismo y el patriotismo, como también en el interés nacional y en las "características nacionales" (&lt;t0/&gt;guoqing&lt;t1/&gt;) únicas de China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9536,8 +9536,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In this regard, the article called for jettisoning the remaining ideological elements from China’s foreign policy and focusing exclusively on China’s national interest.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T012856Z" creationid="Melanie" creationdate="20160923T012856Z">
-        <seg>En este aspecto, el artículo alentaba a tirar por la borda los elementos ideológicos de la política extranjera de China que todavía permanecían y a encofarse exclusivamente en el interés nacional de China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020252Z" creationid="Melanie" creationdate="20160923T012856Z">
+        <seg>En este aspecto, el artículo alentaba a tirar por la borda los elementos ideológicos de la política extranjera de China que todavía permanecían y a enfocarse exclusivamente en el interés nacional de China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9856,8 +9856,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Instead of these two extremes, the authors called for a program of “social stability and gradual reform” that drew on both Western rationalism (Bertrand Russell, Karl Popper, and Frederick von Hayek are cited as examples of rational thinkers) and Chinese tradition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T222208Z" creationid="Usuario" creationdate="20160922T222208Z">
-        <seg>En lugar de estos dos extremos, los autores exigían un pograma de "estabilidad social y reformas graduales" que se inspirara tanto en el racionalismo occidental (Bertrand Russel, Karl Popper y Frederick von Hayek son ejemplos de pensadores racionales) como en la tradición china.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020022Z" creationid="Usuario" creationdate="20160922T222208Z">
+        <seg>En lugar de estos dos extremos, los autores exigían un programa de "estabilidad social y reformas graduales" que se inspirara tanto en el racionalismo occidental (Bertrand Russel, Karl Popper y Frederick von Hayek son ejemplos de pensadores racionales) como en la tradición china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16296,8 +16296,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The new ideological orientation of the regime, the authors hoped, would &lt;t2/&gt;ﬁght&lt;t3/&gt; against “ideological superstition” while maintaining control; &lt;t4/&gt;sufﬁcient&lt;t5/&gt; space would be allowed for theoretical exploration.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T230659Z" creationid="Melanie" creationdate="20160922T230436Z">
-        <seg>Los autores esperaban que esta nueva orientación ideológica del régimen&lt;t2/&gt;se opusiera&lt;t3/&gt; a la "superstición ideologica" y mantubiera el control. De esa forma, se permitiría un espacio &lt;t4/&gt;suﬁciente&lt;t5/&gt; para la exploración teórica.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020122Z" creationid="Melanie" creationdate="20160922T230436Z">
+        <seg>Los autores esperaban que esta nueva orientación ideológica del régimen &lt;t2/&gt;se opusiera&lt;t3/&gt; a la "superstición ideológica" y mantuviera el control. De esa forma, se permitiría un espacio &lt;t4/&gt;suﬁciente&lt;t5/&gt; para la exploración teórica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16512,8 +16512,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The result might well have been a stronger, more nationalistic Soviet Union on China’s northern border.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T233455Z" creationid="Usuario" creationdate="20160922T221815Z">
-        <seg>El resultado prodría haber sido una Unión Soviética más fuerte y más nacionalista en la frontera norte de China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020326Z" creationid="Usuario" creationdate="20160922T221815Z">
+        <seg>El resultado podría haber sido una Unión Soviética más fuerte y más nacionalista en la frontera norte de China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17297,8 +17297,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They were not abandoning the ruling role of the CCP but rather were trying to &lt;t0/&gt;ﬁgure&lt;t1/&gt; out institutional arrangements through which it might be able to preserve political stability.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T231813Z" creationid="Melanie" creationdate="20160922T231741Z">
-        <seg>No estaban abandonando el rol dominante del PCCh, estaban tratando de &lt;t0/&gt;descifrar&lt;t1/&gt; planes institucionales a traves de los cuales podrían mantener la estabilidad política.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020140Z" creationid="Melanie" creationdate="20160922T231741Z">
+        <seg>No estaban abandonando el rol dominante del PCCh, estaban tratando de &lt;t0/&gt;descifrar&lt;t1/&gt; planes institucionales a través de los cuales podrían mantener la estabilidad política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19363,8 +19363,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the &lt;t4/&gt;ﬁrst&lt;t5/&gt; pillar severely shaken (and indeed about to disappear), it was all the more necessary to emphasize the “&lt;t6/&gt;Chineseness&lt;t7/&gt;” of the Chinese revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T232921Z" creationid="Melanie" creationdate="20160922T232506Z">
-        <seg>Debido a tener sus pilares&lt;t4/&gt;principales&lt;t5/&gt; severamente sacudidos (y de hecho, a punto de desaparecer) era mas que necesario enfatizaer en el “&lt;t6/&gt;aspecto chino&lt;t7/&gt;” de la revolución china.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020206Z" creationid="Melanie" creationdate="20160922T232506Z">
+        <seg>Debido a tener sus pilares &lt;t4/&gt;principales&lt;t5/&gt; severamente sacudidos (y de hecho, a punto de desaparecer) era más que necesario enfatizar en el “&lt;t6/&gt;aspecto chino&lt;t7/&gt;” de la revolución china.</seg>
       </tuv>
     </tu>
     <tu>
