@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7633,6 +7633,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012954Z" creationid="Melanie" creationdate="20160919T232812Z">
         <seg>Al regresar &lt;t6/&gt;se encontró&lt;t7/&gt; con la "fiebre cultural" de los años 80 en plena floración y se dio cuenta de que estaba profundamente en contra del cosmopolitismo que expresaba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He stated further that many contemporary American scholars of China were trained by the military in order to “understand the enemy,” ignoring the many China scholars who courageously opposed US policy toward China in the years after World War Two.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160923T001544Z" creationid="Gime" creationdate="20160923T001544Z">
+        <seg>Además expuso que muchos de los eruditos contemporáneos estadounidenses de China fueron entrenados por el ejército para "entender al enemigo", ignorando a muchos de los eruditos chinos que valientemente se opusieron a la política que Estados Unidos adoptó con respecto a China en los años siguientes a la Segunda Guerra Mundial.</seg>
       </tuv>
     </tu>
     <tu>
