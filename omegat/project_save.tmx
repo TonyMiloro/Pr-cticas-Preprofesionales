@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8143,8 +8143,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If Hu Jintao was to be able to put his own stamp on the new leadership, there would have to be some mix of institutional procedures and non-institutional bargaining.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T183344Z">
-        <seg>Si Hu Jintao quría segur influyendo en los altos mandos, entonces tendría que haber algún tipo de combinación de procesos institucionalizados y negociaciones no institucionalizadas.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T184512Z">
+        <seg>Si Hu Jintao quería segur influyendo en los altos mandos, entonces tendría que haber algún tipo de combinación de procesos institucionalizados y negociaciones no institucionalizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13896,8 +13896,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, in part because Jiang Zemin was so successful in promoting his prot&lt;f0&gt;égé&lt;/f0&gt; to the Politburo at the Sixteenth Party Congress, the Seventeenth Party Congress could not rely simply on promotion by seniority to choose a new leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T183136Z">
-        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el Décimo Sexto Congreso del Partido, el Décimo Séptimo Congreso del Partido, que debía elegir al nuevo líder, no podía hacerlo teniendo en cuenta solemente el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T184435Z">
+        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el Décimo Sexto Congreso del Partido, el Décimo Séptimo Congreso del Partido, que debía elegir al nuevo líder, no podía hacerlo teniendo en cuenta solamente el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17377,8 +17377,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Third, to what extent would the Seventeenth Party Congress ratify Hu Jintao's ideas, such as the scientific development concept?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T190309Z">
-        <seg>En tercer lugar, ¿hasta qué punto ratificaría el Décimo Séptimo Congreso del Partido las ideas de Hu Jintao, tales como el concepto científico de desarrollo? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T184630Z">
+        <seg>En tercer lugar, ¿hasta qué punto ratificaría el Décimo Séptimo Congreso del Partido las ideas de Hu Jintao, tales como el concepto de desarrollo científico? </seg>
       </tuv>
     </tu>
     <tu>
