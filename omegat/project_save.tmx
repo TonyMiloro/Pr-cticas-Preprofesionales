@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10838,6 +10838,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160914T230821Z">
         <seg>Al mismo tiempo que estas noticias  aparecían en la prensa china, Hu Jintao subía la apuesta en su discurso para el octogésimo quinto aniversario de la fundación del PCCh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just how big a step they had in mind was suggested by their call to emphasize the “rational elements” of China’s traditional culture.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T001550Z" creationid="Usuario" creationdate="20160923T001550Z">
+        <seg>Su llamado a enfatizar los "aspectos racionales" de la cultura tradicional china insinuaba qué tan adelante pretendían llegar.</seg>
       </tuv>
     </tu>
     <tu>
