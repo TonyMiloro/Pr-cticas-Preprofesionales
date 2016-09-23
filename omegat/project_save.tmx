@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6790,8 +6790,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>First, it reaffirmed "reform and opening up." This reaffirmation may not seem strange until one recalls the very heated debates about reform pol- icy discussed in Chapter 8.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T215049Z" creationid="cintia soler" creationdate="20160919T214929Z">
-        <seg>Primero, reafirmó "la reforma y la apertura". Esta ratificación no deberia sonar como algo extraño hasta que uno evoca los intensos debates sobre las politicas de reforma discutidas en el capítulo 8.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T214139Z" creationid="cintia soler" creationdate="20160919T214929Z">
+        <seg>Primero, reafirmó "la reforma y la apertura". Esta ratificación puede no parecer extraña hasta que uno evoca los intensos debates sobre las politicas de reforma discutidas en el capítulo 8.</seg>
       </tuv>
     </tu>
     <tu>
