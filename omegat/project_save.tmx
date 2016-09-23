@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2717,6 +2717,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="daiana" changedate="20160920T061748Z" creationid="daiana" creationdate="20160920T061748Z">
         <seg>Todo lo que soñamos hoy y esperamos para el futuro es sexo y dinero&lt;/f7&gt;&lt;f8&gt;11"&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Almost heretically – given the strong Chinese approval of the coup in the Soviet Union and the equally strong sense of despair after it failed – the authors argued that it would not necessarily have been to China’s advantage had the coup succeeded.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T013113Z" creationid="Melanie" creationdate="20160923T013113Z">
+        <seg>Casi heréticamente, debido al fuerte apoyo chino que tuvo el golpe de estado en la Unión Sovietica y a la fuerte sensación de desesperanza luego de su fracaso, los autores argumentaron que </seg>
       </tuv>
     </tu>
     <tu>
@@ -9522,6 +9530,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012754Z" creationid="Melanie" creationdate="20160919T232603Z">
         <seg>En este &lt;t0/&gt;filme&lt;t1/&gt;, el suelo seco, árido y agotado (y la cultura) del noroeste (la cuna de la civilización china) se contrasta con la fertilidad, el dinamismo y la apertura del mar azul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this regard, the article called for jettisoning the remaining ideological elements from China’s foreign policy and focusing exclusively on China’s national interest.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T012856Z" creationid="Melanie" creationdate="20160923T012856Z">
+        <seg>En este aspecto, el artículo alentaba a tirar por la borda los elementos ideológicos de la política extranjera de China que todavía permanecían y a encofarse exclusivamente en el interés nacional de China.</seg>
       </tuv>
     </tu>
     <tu>
