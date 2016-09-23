@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15461,8 +15461,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The authors argued for “steady reform” and continued “experiments,” particularly in smaller enterprises, but called for “attack[&lt;t0/&gt;ing&lt;t1/&gt;] and contain[&lt;t2/&gt;ing&lt;t3/&gt;] radical reformism” such as the continued “devolution of authority and granting of &lt;t4/&gt;beneﬁts&lt;t5/&gt;” (&lt;t6/&gt;fangquan&lt;t7/&gt; &lt;t8/&gt;rangli&lt;t9/&gt;) and the rapid implementation of price reform and the shareholding system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T013323Z" creationid="Usuario" creationdate="20160923T000157Z">
-        <seg>Los autores peleaban por "reformas sostenidas" y "experimentos" constantes, particularmente en proyectos pequeños, pero exigían "atacar y contener el reformismo extremista" que se veía manifestado en la constante "descentralización de la autoridad y el otorgamiento de beneficios" (fangqun rangli) y la rápida implementación de reformas en los precios y en la participación accionaria. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T013720Z" creationid="Usuario" creationdate="20160923T000157Z">
+        <seg>Los autores peleaban por "reformas sostenidas" y "experimentos" constantes, particularmente en proyectos pequeños, pero exigían "atacar&lt;t0/&gt;&lt;t1/&gt; y contener&lt;t2/&gt;&lt;t3/&gt; el reformismo extremista" que se veía manifestado en la constante "descentralización de la autoridad y el otorgamiento de &lt;t4/&gt;beneficios&lt;t5/&gt;" (&lt;t6/&gt;fangqun&lt;t7/&gt; &lt;t8/&gt;rangli&lt;t9/&gt;) y la rápida implementación de reformas en los precios y del sistema de participación accionaria.</seg>
       </tuv>
     </tu>
     <tu>
