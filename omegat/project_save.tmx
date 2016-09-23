@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2417,8 +2417,8 @@
       <tuv lang="EN-US">
         <seg>A deci- sion not to name any alternates to the Politburo allowed Wang Gang to be elevated to full membership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T210838Z" creationid="cintia soler" creationdate="20160919T192015Z">
-        <seg>La decisión de no nombrar a ningún suplente al Politburó permitió que Wang Gang ascendiera y tuviera plena adhesión al Partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T210928Z" creationid="cintia soler" creationdate="20160919T192015Z">
+        <seg>La decisión de no nombrar a ningún suplente al Politburó permitió que Wang Gang ascendiera y tuviera plena adhesión en el Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8719,8 +8719,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition to selecting a new leadership, Party congresses typically revise the Party constitution to reﬂect changed political thinking and listen to the general secretary give a report that lays out the Party's vision for the next five years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T192825Z" creationid="cintia soler" creationdate="20160919T192825Z">
-        <seg>Ademas de la elección de un nuevo liderazgo, a menudo los congresistas del partido revisan la constittución del partido para reflejar cambios en el pensamiento politico y prestar atención a la secretaria general que ofrece un reporte que plantea la vision del partido para los próximos cinco años.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T210953Z" creationid="cintia soler" creationdate="20160919T192825Z">
+        <seg>Además de la elección de un nuevo liderazgo, a menudo los congresistas del partido revisan la constittución del partido para reflejar cambios en el pensamiento politico y prestar atención a la secretaria general que ofrece un reporte que plantea la vision del partido para los próximos cinco años.</seg>
       </tuv>
     </tu>
     <tu>
