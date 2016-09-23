@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8735,8 +8735,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition, Hu was able to secure the appointments of Ling Jihua, Hu's former secretary, and Li Yuanchao, another &lt;f0&gt;prot&lt;/f0&gt;&lt;f1&gt;é&lt;/f1&gt;&lt;f2&gt;g&lt;/f2&gt;&lt;f3&gt;é &lt;/f3&gt;&lt;f4&gt;from&lt;/f4&gt; the CYL, to the Secretariat (see Table 6), enhancing ege &lt;s5/&gt;Hu's control over the day-to-day operation of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T203122Z" creationid="Mariela" creationdate="20160923T203122Z">
-        <seg>Además, Hu pudo asegurar los nombramientos a la Secretaría General de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos del CYL (ver Tabla 6), lo cual aumenta en control de &lt;s5/&gt;Hu sobre las operaciones diarias del Partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T203231Z" creationid="Mariela" creationdate="20160923T203122Z">
+        <seg>Además, Hu pudo asegurar los nombramientos al Secretarido de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos del CYL (ver Tabla 6), lo cual aumenta en control de &lt;s5/&gt;Hu sobre las operaciones diarias del Partido.</seg>
       </tuv>
     </tu>
     <tu>
