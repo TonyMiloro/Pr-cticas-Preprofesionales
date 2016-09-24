@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160908T224648Z">
         <seg>*Murió en febrero de 1993</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235035Z" creationid="Melanie" creationdate="20160924T235035Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -6397,8 +6405,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Enlightenment, in the view of many intellectuals, entailed a remaking of Chinese culture, exorcising the “feudal” elements of tradition, and opening up to &lt;t0/&gt;inﬂuences&lt;t1/&gt; from the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012631Z" creationid="Melanie" creationdate="20160919T232534Z">
-        <seg>La Ilustración implicaba, para muchos intelectuales, una reconfección de la cultura China echando fuera los elementos "feudales" de la tradición y abriéndose a &lt;t0/&gt;influencias&lt;t1/&gt; occidentales.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234835Z" creationid="Melanie" creationdate="20160919T232534Z">
+        <seg>La Ilustración implicaba, para muchos intelectuales, una reconfección de la cultura China quitando los elementos "feudales" de la tradición y abriéndose a &lt;t0/&gt;influencias&lt;t1/&gt; occidentales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8183,8 +8191,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If China hoped to revitalize its ancient civilization, the program suggested, it must look to the outside world, and particularly to the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T004056Z" creationid="Usuario" creationdate="20160919T045930Z">
-        <seg>Si China esperaba revitalizar su antigua civilización, según el programa, debía mirar hacia afuera, en especial hacia occidente.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235004Z" creationid="Usuario" creationdate="20160919T045930Z">
+        <seg>Si China esperaba revitalizar su antigua civilización, según el documental, debía mirar al exterior, en especial hacia occidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9592,8 +9600,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In this &lt;t0/&gt;ﬁlm&lt;t1/&gt;, the dry, arid, exhausted soil – and culture – of the northwest (the cradle of Chinese civilization) is contrasted with the fertility, dynamism, and openness of the blue sea.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012754Z" creationid="Melanie" creationdate="20160919T232603Z">
-        <seg>En este &lt;t0/&gt;filme&lt;t1/&gt;, el suelo seco, árido y agotado (y la cultura) del noroeste (la cuna de la civilización china) se contrasta con la fertilidad, el dinamismo y la apertura del mar azul.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234939Z" creationid="Melanie" creationdate="20160919T232603Z">
+        <seg>En este &lt;t0/&gt;filme&lt;t1/&gt;, el suelo seco, árido y agotado (como la cultura) del noroeste (la cuna de la civilización china) se contrasta con la fertilidad, el dinamismo y la apertura del mar azul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9816,8 +9824,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, one of the primary intellectual &lt;t0/&gt;inﬂuences&lt;t1/&gt; at the time was the work of Li &lt;t2/&gt;Zehou&lt;t3/&gt;, a philosopher at CASS, who argued that China’s “enlightenment” project, inaugurated by the New Culture Movement (1915–20), had been constantly interrupted and deferred by “national salvation” movements that had grown up in response to foreign threat and war.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015603Z" creationid="Melanie" creationdate="20160919T232519Z">
-        <seg>De hecho, en ese momento una de las principales &lt;t0/&gt;influencias&lt;t1/&gt; intelectuales fue el trabajo de Li &lt;t2/&gt;Zehou&lt;t3/&gt;, un filósofo que trabaja en la Academia China de Ciencias Sociales (CASS), quien argumentaba que el proyecto de la "Ilustración" de China, iniciado por el Movimiento de la Nueva Cultura (1915-1920), había sido interrumpido y suspendido de manera constante por los movimientos de "salvación nacional" que habían surgido como respuesta a la amenaza y guerra extranjeras.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234817Z" creationid="Melanie" creationdate="20160919T232519Z">
+        <seg>De hecho, en ese momento, una de las principales &lt;t0/&gt;influencias&lt;t1/&gt; intelectuales fue el trabajo de Li &lt;t2/&gt;Zehou&lt;t3/&gt;, un filósofo que trabaja en la Academia China de Ciencias Sociales (CASS), quien argumentaba que el proyecto de la "Ilustración" de China, iniciado por el Movimiento de la Nueva Cultura (1915-1920), había sido interrumpido y suspendido de manera constante por los movimientos de "salvación nacional" que habían surgido como respuesta a la amenaza y guerra extranjeras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15251,8 +15259,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;t2/&gt;ﬁlm&lt;t3/&gt; captured the &lt;t4/&gt;conﬁdence&lt;t5/&gt; and optimism of many at the time that reform could be accomplished relatively quickly and easily if only the country would rally behind an enlightened leader, turn its back &lt;t6/&gt;ﬁrmly&lt;t7/&gt; on its “feudal” past, and embrace the outside world wholeheartedly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012855Z" creationid="Melanie" creationdate="20160919T232617Z">
-        <seg>El &lt;t2/&gt;filme&lt;t3/&gt; captaba la &lt;t4/&gt;confianza&lt;t5/&gt; y el optimismo que muchos tenían en ese momento de que la reforma podía lograrse relativamente rápido y fácil solo si el país era guiado por un líder ilustrado, si le daba la espalda &lt;t6/&gt;&lt;t7/&gt;a su pasado "feudal" y si abrazaba el mundo exterior con entusiasmo.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235014Z" creationid="Melanie" creationdate="20160919T232617Z">
+        <seg>El &lt;t2/&gt;filme&lt;t3/&gt; captaba la &lt;t4/&gt;confianza&lt;t5/&gt; y el optimismo que muchos tenían en ese momento de que la reforma podía lograrse relativamente rápido y fácil solo si el país era guiado por un líder ilustrado, si le daba la espalda &lt;t6/&gt;&lt;t7/&gt;a su pasado "feudal" y abrazaba el mundo exterior con entusiasmo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17713,8 +17721,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This mood was well captured by &lt;t2/&gt;Gan&lt;t3/&gt; Yang, editor of the &lt;t4/&gt;inﬂuential&lt;t5/&gt; Culture: China and the World (&lt;t6/&gt;Wenhua&lt;t7/&gt;: &lt;t8/&gt;Zhongguo&lt;t9/&gt; &lt;t10/&gt;yu&lt;t11/&gt; &lt;t12/&gt;shijie&lt;t13/&gt; &lt;t14/&gt;congshu&lt;t15/&gt;) book series, who pleaded for cosmopolitanism and cultural renovation: “China must enter the world, so naturally its culture must also enter the world; China must modernize, so naturally we must realize the ‘modernization of Chinese culture’ – this is the common faith of every person of foresight in the 1980s, this is the logical necessity of the great historical take-off of contemporary China.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012743Z" creationid="Melanie" creationdate="20160919T232545Z">
-        <seg>Este ánimo fue plasmado de manera correcta por &lt;t2/&gt;Gan&lt;t3/&gt;Yang, editor de la &lt;t4/&gt;influyente&lt;t5/&gt; serie de libros "Cultura: China y el mundo (&lt;t6/&gt;Wenhua&lt;t7/&gt;: &lt;t8/&gt;Zhongguo&lt;t9/&gt; &lt;t10/&gt;yu&lt;t11/&gt; &lt;t12/&gt;shijie&lt;t13/&gt; &lt;t14/&gt;congshu&lt;t15/&gt;)", quien defendía el cosmopolitismo y la renovación cultural: "China debe ingresar al mundo, por lo que obviamente su cultura debe hacerlo también. China debe modernizarse, por lo que obviamente debemos concretar la 'modernización de la cultura china' - esta es la fe común de todo aquél con visión en los años 80. Esta es la necesidad lógica del gran despegue histórico de la China contemporánea".</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234915Z" creationid="Melanie" creationdate="20160919T232545Z">
+        <seg>Este ánimo fue plasmado de manera correcta por &lt;t2/&gt;Gan&lt;t3/&gt; Yang, editor de la &lt;t4/&gt;influyente&lt;t5/&gt; serie de libros "Cultura: China y el mundo (&lt;t6/&gt;Wenhua&lt;t7/&gt;: &lt;t8/&gt;Zhongguo&lt;t9/&gt; &lt;t10/&gt;yu&lt;t11/&gt; &lt;t12/&gt;shijie&lt;t13/&gt; &lt;t14/&gt;congshu&lt;t15/&gt;)", quien defendía el cosmopolitismo y la renovación cultural: "China debe ingresar al mundo, por lo que obviamente su cultura debe hacerlo también. China debe modernizarse, por lo que obviamente debemos concretar la 'modernización de la cultura china'; esta es la fe común de todo aquel que fuera visionario en los años 80. Esta es la necesidad lógica del gran despegue histórico de la China contemporánea".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18051,8 +18059,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This “cultural fever” culminated in the 1988 television series River Elegy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T193136Z" creationid="Usuario" creationdate="20160918T071307Z">
-        <seg>Esta "fiebre cultural" desembocó en la serie televisiva de 1998 llamada La elegía del río. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234928Z" creationid="Usuario" creationdate="20160918T071307Z">
+        <seg>Esta "fiebre cultural" alcanzó su punto máximo en la serie televisiva de 1998 llamada La elegía del río. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19475,8 +19483,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Why did China fail to maintain its cultural and political domination over the world?”  As Jing Wang remarked, “[t]he modern elite are, after all, dreaming the same dream as their forebears of the dynastic past: wealth, power, and hegemony.”  River Elegy, like other efforts to renovate China’s culture, was clearly rooted in a nationalistic response to China’s problems but this nationalism sought to modernize China by remaking it in the image of the outside world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T221625Z" creationid="Melanie" creationdate="20160919T232653Z">
-        <seg>¿Por qué China no logró conservar el dominio cultural y político que tuvo sobre el mundo?" Tal como recalcó Jing Wang: "la elite moderna, después de todo, está soñando el mismo sueño de sus ancestros del pasado dinástico: riqueza, poder y hegemonía". La elegía del río, al igual que otros esfuerzos realizados para renovar la cultura china, claramente estaba arraigado en una respuesta nacionalista a los problemas del país, aunque este nacionalismo buscaba modernizar la nación a la imagen del mundo exterior.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235122Z" creationid="Melanie" creationdate="20160919T232653Z">
+        <seg>¿Por qué China no logró conservar el dominio cultural y político que tuvo sobre el mundo?" Tal como recalcó Jing Wang: "La elite moderna, después de todo, está soñando el mismo sueño de sus ancestros del pasado dinástico: riqueza, poder y hegemonía". La elegía del río, al igual que otros esfuerzos realizados para renovar la cultura china, claramente estaba arraigado en una respuesta nacionalista a los problemas del país, aunque este nacionalismo buscaba modernizar la nación a la imagen del mundo exterior.</seg>
       </tuv>
     </tu>
     <tu>
