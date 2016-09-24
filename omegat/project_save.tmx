@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3723,8 +3723,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As stability was re- established following Tiananmen, He argued that people came to realize that Western thought really could not solve China’s problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160917T054243Z" creationid="Usuario" creationdate="20160917T052957Z">
-        <seg>Debido a que la estabilidad fue restaurada después de Tiananmen, He afirmaba que la gente llegó a darse cuenta de que el pensamiento occidental no podía resolver los problemas de China realmente.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234410Z" creationid="Usuario" creationdate="20160917T052957Z">
+        <seg>Debido a que se restauró la estabilidad fue restaurada después de Tiananmen, He afirmaba que la gente llegó a darse cuenta de que el pensamiento occidental no podía resolver de verdad los problemas de China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10306,8 +10306,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It was on that basis that He argued for a return to Chinese values and an emphasis on nationalism and restoration of political authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T235728Z" creationid="Usuario" creationdate="20160917T054534Z">
-        <seg>Sobre esa base fue que He instó a regresar a los valores chinos y a un énfasis en el nacionalismo y en la restauración de la autoridad política.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234452Z" creationid="Usuario" creationdate="20160917T054534Z">
+        <seg>Basado en estos argumentos, He insistió a regresar a los valores chinos y a un énfasis en el nacionalismo y en la restauración de la autoridad política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13768,8 +13768,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Reﬂecting&lt;t0/&gt; on the decade of reform prior to Tiananmen, He regarded the 1984–8 period as one of “romanticism.” In his opinion, reform in this period not only shifted from the countryside to the cities but also branched out from economics into other spheres of activity, creating an atmosphere that disregarded the &lt;t1/&gt;difﬁculty&lt;t2/&gt; and length of time that reform would take.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015522Z" creationid="Melanie" creationdate="20160919T232157Z">
-        <seg>Habiendo reflexionado &lt;t0/&gt;sobre la década de reforma anterior a Tiananmen, He consideró al periodo 1984-8 como un periodo de "romanticismo". Para él, la reforma en este período no solo se trasladó del campo a las ciudades sino que también se expandió desde la economía hacia otras esferas de actividad, lo que creó una atmósfera que no tuvo en cuenta la &lt;t1/&gt;dificultad&lt;t2/&gt; que presentaría y el largo tiempo que llevaría la reforma.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234227Z" creationid="Melanie" creationdate="20160919T232157Z">
+        <seg>Tras reflexionar &lt;t0/&gt;sobre la década de reforma anterior a Tiananmen, He consideró al período 1984-8 como uno de "romanticismo". Para él, la reforma en este período no solo se trasladó del campo a las ciudades, sino que también se expandió desde la economía hacia otras esferas de actividad. Esto creó una atmósfera que no tenía en cuenta la &lt;t1/&gt;dificultad&lt;t2/&gt; que presentaría y el largo tiempo que llevaría la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15259,8 +15259,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;t5/&gt;ﬁlm&lt;t6/&gt; River Elegy epitomized the tendency in the 1980s for cultural criticism to lead to an all-round criticism of politics and social reality and then to “complete Westernization.” This led to a “new dogmatism” of worshipping Western values.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T193335Z" creationid="Melanie" creationdate="20160919T232217Z">
-        <seg>El &lt;t5/&gt;documental&lt;t6/&gt; La elegía del río representó la tendencia de los años ochenta a que la crítica cultural guiara el paso hacia una crítica general de la política y la realidad social y luego a una "occidentalización absoluta". Esto llevó a un "dogmatismo nuevo" que veneraba los valores occidentales.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234257Z" creationid="Melanie" creationdate="20160919T232217Z">
+        <seg>El &lt;t5/&gt;documental&lt;t6/&gt; La elegía del río representó la tendencia en los años 80 de que la crítica cultural derivara en una crítica general de la política y la realidad social y luego a una "occidentalización absoluta". Esto llevó a un "dogmatismo nuevo" que veneraba los valores occidentales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17929,8 +17929,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This was a very bad development for China.”  Tiananmen, He argued, was the result of such trends.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T235605Z" creationid="Melanie" creationdate="20160919T232338Z">
-        <seg>Esto era un desarrollo negativo para China". Argumentaba que Tiananmen era el resultado de esas tendencias.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234337Z" creationid="Melanie" creationdate="20160919T232338Z">
+        <seg>Este acontecimiento fue negativo para China". También argumentaba que Tiananmen fue el resultado de esas tendencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20813,8 +20813,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>“For a while,” He said, “American culture became the main current and major tone of literature.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T232311Z" creationid="Usuario" creationdate="20160917T051145Z">
-        <seg>Según He "Por un tiempo, la cultura estadounidense llegó a ser la corriente principal y el tono fundamental de la literatura.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234311Z" creationid="Usuario" creationdate="20160917T051145Z">
+        <seg>Según He, "por un tiempo, la cultura estadounidense llegó a ser la corriente principal y el tono fundamental de la literatura.</seg>
       </tuv>
     </tu>
     <tu>
