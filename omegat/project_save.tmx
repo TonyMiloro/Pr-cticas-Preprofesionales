@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9039,8 +9039,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In late 1988, he wrote that the United States had entered a period of inevitable decline and that, by the early part of the twenty-&lt;t4/&gt;ﬁrst&lt;t5/&gt; century, it would be reduced to a large regional power without the strength to bother the East.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T200259Z">
-        <seg>A fines de 1988, escribió que Estados Unidos había ingresado a un período de deterioro inevitable y que para principios del siglo &lt;t4/&gt;XXI&lt;t5/&gt; iba a ser reducido a un gran poder regional sin la fuerza suficiente como para preocupar a Oriente.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233800Z">
+        <seg>A fines de 1988, escribió que Estados Unidos había ingresado en un período de deterioro inevitable y que para principios del siglo &lt;t4/&gt;XXI&lt;t5/&gt; iba a quedar reducido a un gran poder regional sin la fuerza suficiente como para preocupar a Oriente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9616,8 +9616,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In this way, He became &lt;t4/&gt;identiﬁed&lt;t5/&gt; as a exemplar of what might be called a “muscular” or assertive &lt;t6/&gt;neoconservatism&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191749Z">
-        <seg>De esta forma, He comenzó a ser &lt;t4/&gt;identificado&lt;t5/&gt; como un modelo a seguir de lo que se podría llama &lt;t6/&gt;neoconservadurismo&lt;t7/&gt; "poderoso" o autoritario.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233724Z">
+        <seg>De esta forma, He comenzó a ser &lt;t4/&gt;identificado&lt;t5/&gt; como un modelo a seguir de lo que se podría llamar &lt;t6/&gt;neoconservadurismo&lt;t7/&gt; "poderoso" o autoritario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12062,8 +12062,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nationalism was another force propelling changes in the way Chinese intellectuals and policy-makers viewed the world in the period following &lt;t0/&gt;Tianan&lt;t1/&gt;- men.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Giuliano" changedate="20160924T203650Z">
-        <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y formador de políticas chinos en el período pos&lt;t0/&gt;tianan&lt;t1/&gt;men.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233611Z">
+        <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y formadores de políticas chinos en el período pos&lt;t0/&gt;tianan&lt;t1/&gt;men.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12911,8 +12911,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One of the &lt;t6/&gt;ﬁrst&lt;t7/&gt; (and certainly one of the loudest) voices of the new nationalism was that of &lt;t8/&gt;He&lt;t9/&gt; &lt;t10/&gt;Xin&lt;t11/&gt;, an erstwhile literary critic who turned his attention to economics, politics, and international relations in the late 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T195753Z">
-        <seg>Una de las &lt;t6/&gt;primeras&lt;t7/&gt; voces (y con certeza una de las más prominentes) del nuevo nacionalismo fue la de &lt;t8/&gt;He&lt;t9/&gt;&lt;t10/&gt; Xin&lt;t11/&gt;, un ex crítico literario que fijó su atención en la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233713Z">
+        <seg>Una de las &lt;t6/&gt;primeras&lt;t7/&gt; voces (y con certeza una de las más escuchadas) del nuevo nacionalismo fue la de &lt;t8/&gt;He&lt;t9/&gt;&lt;t10/&gt; Xin&lt;t11/&gt;, un ex crítico literario que fijó su atención en la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
       </tuv>
     </tu>
     <tu>
