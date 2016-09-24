@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4435,8 +4435,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>But before celebrating the apparent stability of the political system, it is important to keep in mind the very deep debates of recent years - debates that seem likely to continue into the future - and the risks that could develop if stability develops into stasis.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T003509Z" creationid="cintia soler" creationdate="20160920T034134Z">
-        <seg>Pero antes de celebrar la aparente estabilidad del sistema político, es importante tener en cuenta los profundos debates de los ultimos años- debates que probablemente continuarán en el futuro- y los riesgos que se pueden desarrollar si la estabilidad se convierte en estancamiento.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T003707Z" creationid="cintia soler" creationdate="20160920T034134Z">
+        <seg>Pero antes de celebrar la aparente estabilidad del sistema político, es importante tener en cuenta los profundos debates de los últimos años (debates que probablemente continuarán en el futuro) y los conflictos que se podrían desarrollar si la estabilidad se paralizara.</seg>
       </tuv>
     </tu>
     <tu>
