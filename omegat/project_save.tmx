@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8695,8 +8695,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In September, Li asked in a sharply worded interview with the PRC-owned Hong Kong paper Ta kung pao: “Why do we always have to go to excess?” Berating conservative ideologues, Li said that “[w]e must not use dogmatic and rigid methods to criticize bourgeois liberalization.”47</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160921T021017Z" creationid="Usuario" creationdate="20160921T011501Z">
-        <seg>En septiembre, Li preguntó en una entrevista en términos incisivos con  el diario Ta Kung Pao de Hong Kong del Partido Comunista de China: "Por qué siempre tenemos que ser tan excesivos" Regañando las ideologias conservadoras, Li dijo que "No debemos utilizar métodos dogmáticos y rigidos ara criticar la liberalización burguesa". 47</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160924T213840Z" creationid="Usuario" creationdate="20160921T011501Z">
+        <seg>En septiembre, Li preguntó en una entrevista en términos incisivos con  el diario Ta Kung Pao de Hong Kong del Partido Comunista de China: "Por qué siempre tenemos que ser tan excesivos". Regañando las ideologias conservadoras, Li dijo que "No debemos utilizar métodos dogmáticos y rigidos para criticar la liberalización burguesa". 47</seg>
       </tuv>
     </tu>
     <tu>
@@ -13167,8 +13167,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Over the summer, Li spoke on the issue of pornography many times.46 It was a clever ploy that left conservatives nonplussed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160921T003101Z" creationid="Usuario" creationdate="20160921T002456Z">
-        <seg>Durante el verano, Li discutió sobre el tema de la pornografía muchas veces.46 Fue una estrategia astuta que dejó a los conservadores desconcertados.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160924T213735Z" creationid="Usuario" creationdate="20160921T002456Z">
+        <seg>Durante el verano, Li discutió sobre el tema de la pornografía muchas veces.46. Fue una estrategia astuta que dejó a los conservadores desconcertados.</seg>
       </tuv>
     </tu>
     <tu>
