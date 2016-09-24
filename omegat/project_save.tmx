@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1841,8 +1841,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The most eye-catching feature of the volume – apart from the picture of Jiang on the cover – was the preface and endorsement by Liu&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Ji, vice- president of CASS.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Vere" changedate="20160912T234133Z" creationid="Vere" creationdate="20160912T234133Z">
-        <seg>&lt;f0&gt;La característica más llamativa del volumen, además de la fotografía de Jiang que estaba en la portada, era el prefacio y la aprobación de Liu&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Ji, vicepresidente del CASS.</seg>
+      <tuv lang="ES-US" changeid="Vere" changedate="20160924T232735Z" creationid="Vere" creationdate="20160912T234133Z">
+        <seg>&lt;f0&gt;La característica más llamativa del volumen, además de la fotografía de Jiang en la portada, era el prefacio y la aprobación de Liu&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Ji, vicepresidente de la CASS.</seg>
       </tuv>
     </tu>
     <tu>
