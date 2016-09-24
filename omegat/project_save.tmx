@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2859,8 +2859,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although circulated internally, the document was soon leaked to the outside world, quickly becoming the subject of much commentary and sharp criticism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T160025Z" creationid="Melanie" creationdate="20160921T160025Z">
-        <seg>A pesar de que fue pensado para circulación interna, el artículo pronto se filtró al mundo exterior y se convirtió rápidamente en tema central de muchos comentarios y críticas intensas.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235808Z" creationid="Melanie" creationdate="20160921T160025Z">
+        <seg>A pesar de que fue pensado para circulación interna, el artículo pronto se filtró al exterior y se convirtió rápidamente en tema central de muchos comentarios y críticas intensas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3651,8 +3651,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As noted in the previous chapter, the abortive August 1991 coup in the Soviet Union marked a watershed in Chinese elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212740Z" creationid="Melanie" creationdate="20160921T150001Z">
-        <seg>Como se indicó en el capítulo anterior, el intento fallido de golpe de estado en la Unión Soviética que ocurrió en agosto de 1991 marcó un punto de inflexión en las políticas de élite chinas.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235727Z" creationid="Melanie" creationdate="20160921T150001Z">
+        <seg>Como se indicó en el capítulo anterior, el intento fallido de golpe de estado en la Unión Soviética que ocurrió en agosto de 1991 marcó un punto de inflexión en las políticas de elite chinas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3939,8 +3939,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At &lt;t0/&gt;ﬁrst&lt;t1/&gt; overjoyed by news of the coup, conservative critics of Deng Xiaoping began celebrating and holding meetings.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212753Z" creationid="Melanie" creationdate="20160921T150726Z">
-        <seg>Al &lt;t0/&gt;principio&lt;t1/&gt;, deleitados por las noticias del golpe de estado, los críticos conservadores de Deng Xiaoping comenzaron a celebrar y a reunirse.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235735Z" creationid="Melanie" creationdate="20160921T150726Z">
+        <seg>Al &lt;t0/&gt;principio&lt;t1/&gt;, deleitados con las noticias del golpe de estado, los críticos conservadores de Deng Xiaoping comenzaron a celebrar y a reunirse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7719,8 +7719,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He returned to &lt;t6/&gt;ﬁnd&lt;t7/&gt; the “cultural fever” of the 1980s in full bloom, and found himself deeply opposed to the cultural cosmopolitanism it expressed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012954Z" creationid="Melanie" creationdate="20160919T232812Z">
-        <seg>Al regresar &lt;t6/&gt;se encontró&lt;t7/&gt; con la "fiebre cultural" de los años 80 en plena floración y se dio cuenta de que estaba profundamente en contra del cosmopolitismo que expresaba.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235538Z" creationid="Melanie" creationdate="20160919T232812Z">
+        <seg>Al volver &lt;t6/&gt;se encontró&lt;t7/&gt; con la "fiebre cultural" de los años 80 en plena floración y se dio cuenta de que estaba profundamente en contra de este cosmopolitismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11254,8 +11254,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Like many younger intellectuals, Wang evinced no faith in socialist values and yet rejected the Western capitalist and cultural tropes that had dominated discourse in the 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T011515Z" creationid="Melanie" creationdate="20160920T011343Z">
-        <seg>Como muchos intelectuales jóvenes, Wang demostraba ninguna fe en valores socialistas e incluso rechazaba los tropos capitalistas y culturales de occidente que habían dominado los discursos en los años 80.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235707Z" creationid="Melanie" creationdate="20160920T011343Z">
+        <seg>Como muchos intelectuales jóvenes, Wang no demostraba ninguna fe en valores socialistas e incluso rechazaba los tropos capitalistas y culturales de occidente que habían dominado los discursos en los años 80.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17297,8 +17297,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These people, Wang believed, &lt;t0/&gt;identiﬁed&lt;t1/&gt; themselves with the West and denigrated the Chinese people on the basis of Western standards – what he would later dub a “reverse racism.”  As he put it, the authors “ridiculed the Chinese peasants’ dull-witted love of the yellow soil and praised highly the courage and insight of Westerners in throwing themselves into myriad &lt;t2/&gt;difﬁculties&lt;t3/&gt;.”  In a later article, Wang argued that, in the 1980s (and even in the 1990s), “Chinese intellectuals were swept up by the thinking that the Chinese culture was an inferior culture and the Chinese people an inferior race” – a trend of thinking that, in his opinion, the government had actually encouraged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T013013Z" creationid="Melanie" creationdate="20160919T232834Z">
-        <seg>Según él creía, estas personas &lt;t0/&gt;se identificaban&lt;t1/&gt; con occidente y denigraban al pueblo chino sobre la base de estándares occidentales, algo que él luego catalogaría como "racismo inverso". Como él lo describía, los autores "ridiculizaban el amor torpe por la tierra amarilla que sentían los campesinos chinos y veneraban profundamente el valor y la perspicacia de los occidentales al exponerse a &lt;t2/&gt;dificultades&lt;t3/&gt; innumerables". En un artículo posterior, Wang manifestó que en los años 80 (e incluso en los 90) "los intelectuales chinos se dejaron llevar por la idea de que la cultura china era inferior y que la población china era una raza inferior", lo cual constituía una tendencia de pensamiento que, según Wang, el gobierno había fomentado.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235644Z" creationid="Melanie" creationdate="20160919T232834Z">
+        <seg>Según creía, estas personas &lt;t0/&gt;se identificaban&lt;t1/&gt; con Occidente y denigraban al pueblo chino sobre la base de estándares occidentales, algo que él luego catalogaría como "racismo inverso". En sus palabras, los autores "ridiculizaban el amor torpe por la tierra amarilla que sentían los campesinos chinos y veneraban profundamente el valor y la perspicacia de los occidentales al exponerse a &lt;t2/&gt;dificultades&lt;t3/&gt; innumerables". En un artículo posterior, Wang manifestó que en los años 80 (e incluso en los 90) "los intelectuales chinos se dejaron llevar por la idea de que la cultura china era inferior y que la población china era una raza inferior", lo cual constituía una tendencia de pensamiento que, según Wang, el gobierno había fomentado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18891,8 +18891,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang argued that China needed nationalism and believed that the nationalism emerging in the 1990s, of which he was a tireless promoter, was a “normal nationalism” that corrected the abnormal situation that had prevailed in the 1980s and was not threatening to the outside world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015726Z" creationid="Melanie" creationdate="20160920T010937Z">
-        <seg>Wang argumentó que China necesitaba del nacionalismo y creía que el nacionalismo que estaba emergiendo en los años 90, del cual él era un partidario incansable, era un "nacionalismo normal" que corregiría la situación anormal que se había impuesto en los años 80 y que no era amenazador para el resto del mundo.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235653Z" creationid="Melanie" creationdate="20160920T010937Z">
+        <seg>Wang argumentó que China necesitaba del nacionalismo y creía que el nacionalismo que estaba emergiendo en los años 90, del cual él era un partidario incansable, era un "nacionalismo normal" que corregiría la situación anormal que se había impuesto en los años 80 y que no era una amenzada para el resto del mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19011,8 +19011,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang was neither part of the Old Left nor a cultural conservative, yet he was as harshly critical as others in his condemnation of River Elegy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T193136Z" creationid="Melanie" creationdate="20160919T232821Z">
-        <seg>Él no era ni parte de la Vieja Izquierda ni un conservador cultural, aunque al igual que otros, condenó con dureza a La elegía del río.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235555Z" creationid="Melanie" creationdate="20160919T232821Z">
+        <seg>Wang no era ni parte de la Vieja Izquierda ni un conservador cultural, aunque al igual que otros, condenó con dureza a La elegía del río.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19171,8 +19171,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>What differentiated Wang’s critique from that of the Old Left (as &lt;t4/&gt;reﬂected&lt;t5/&gt; in Wang Zhen’s article) and foreshadowed trends in the 1990s was the combination of populism, nationalism, and disregard of communist values.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T013049Z" creationid="Melanie" creationdate="20160920T012050Z">
-        <seg>La combinación de populismo, nacionalismo y desconsideración de los valores comunistas era lo que diferenciaba la crítica de Wang de aquella de la Vieja Izquierda (&lt;t4/&gt;cómo se puede ver&lt;t5/&gt; en el artículo de Wang Zhen) y presagiaba las tendencias en los años 90.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235719Z" creationid="Melanie" creationdate="20160920T012050Z">
+        <seg>La combinación de populismo, nacionalismo y desconsideración de los valores comunistas era lo que diferenciaba la crítica de Wang de aquella de la Vieja Izquierda (&lt;t4/&gt;como se puede ver&lt;t5/&gt; en el artículo de Wang Zhen) y presagiaba las tendencias de los años 90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19523,8 +19523,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the collapse of the coup, Deng moved quickly to reassert his vision of reform, leading to his trip to the south and the Fourteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212813Z" creationid="Melanie" creationdate="20160921T151051Z">
-        <seg>Pero con el fracaso del golpe, Deng aprovechó rápidamente para reafirmar su visión de una reforma, lo que resultó en su viaje al Sur y en el XIV Congreso Nacional del Partido Comunista de China. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235741Z" creationid="Melanie" creationdate="20160921T151051Z">
+        <seg>Pero con el fracaso del golpe, Deng aprovechó rápidamente para reafirmar su visión de una reforma, lo que resultó en su viaje al sur y en el XIV Congreso Nacional del Partido Comunista de China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19587,8 +19587,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Within days of the failure of the coup, a number of young intellectuals associated with the theoretical department of China Youth Daily circulated a paper entitled “Realistic Responses and Strategic Options for China after the Soviet Upheaval.” This paper drew heavily on the ideas that have been discussed in the preceding pages, and indeed it marked the &lt;t2/&gt;ﬁrst&lt;t3/&gt; systematic attempt to draw together the diverse strains into a reasonably coherent program of &lt;t4/&gt;neoconservatism&lt;t5/&gt; (a term used in the document).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015824Z" creationid="Melanie" creationdate="20160921T154940Z">
-        <seg>A pocos días del fallido golpe de estado, un grupo de jóvenes intelectuales asociados con el área teorética del diario China Youth Daily hicieron circular un artículo titulado "Respuestas realistas y alternativas estratégicas para una China pos-revuelta política soviética". Este artículo se basaba fuertemente en las ideas que han sido tratadas en las páginas anteriores, y marcaba el &lt;t2/&gt;primer&lt;t3/&gt; intento sistemático de unir esfuerzos diversos en un programa razonablemente coherente de &lt;t4/&gt;neoconservadurismo&lt;t5/&gt; (término utilizado en el artículo ya mencionado).</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235758Z" creationid="Melanie" creationdate="20160921T154940Z">
+        <seg>A pocos días del fallido golpe de estado, un grupo de jóvenes intelectuales asociados con el área teorética del diario China Youth Daily hicieron circular un artículo titulado "Respuestas realistas y alternativas estratégicas para una China posterior a la revuelta política soviética". Este artículo se basaba en las ideas que han sido tratadas en las páginas anteriores, y marcaba el &lt;t2/&gt;primer&lt;t3/&gt; intento sistemático de unir esfuerzos diversos en un programa razonablemente coherente de &lt;t4/&gt;neoconservadurismo&lt;t5/&gt; (término utilizado en el artículo ya mencionado).</seg>
       </tuv>
     </tu>
     <tu>
