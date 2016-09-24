@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2506,8 +2506,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>A year or so later, He seemed less certain of the inevitable decline of the United States and more worried about the failure of reform in the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T115618Z">
-        <seg>Pasado un año o más, parecía que He estaba menos seguro del deterioro inevitable de los Estados Unidos y más preocupado por la ineficacia de las reformas en la Unión Soviética. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233901Z">
+        <seg>Un año o más después, parecía que He estaba menos seguro del deterioro inevitable de los Estados Unidos y más preocupado por la ineficacia de las reformas en la Unión Soviética. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6549,8 +6549,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Evidently viewing America as the more serious strategic threat (despite insisting repeatedly that it was in decline), He dropped his previous fears of Japan and urged allying with Japan (indeed, to become like “lips and teeth”).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T122337Z">
-        <seg>Era evidente que He veía a Estados Unidos como la mayor amenaza estratégica (a pesar de haber insistido reiteradas veces en que estaba en un proceso de deterioro), así que abandonó los temores previos de Japón e insistió en una alianza con éste (de hecho, para llegar a ser como "carne y uña"). </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234003Z">
+        <seg>Era evidente que He veía a Estados Unidos como la mayor amenaza estratégica (a pesar de haber insistido reiteradas veces en que estaba en un proceso de deterioro), así que dejó de lado los temores previos a Japón e insistió en aliarse con ellos (de hecho, llegaron a ser como "carne y uña"). </seg>
       </tuv>
     </tu>
     <tu>
@@ -7631,16 +7631,16 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He also urged supporting Germany in any disputes with the United States (suggesting that China should urge Germany to withdraw from NATO) and supporting Southeast Asia, lest America return to that region of the world and threaten China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160919T233321Z" creationid="Melanie" creationdate="20160919T232056Z">
-        <seg>También instó a respaldar a Alemania en toda disputa con Estados Unidos (insinuando que Alemania debía retirarse de la OTAN) y al Sudeste Asiático por temor a que Estados Unidos regresara a aquella región y amenazara a China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234016Z" creationid="Melanie" creationdate="20160919T232056Z">
+        <seg>También insistió a respaldar a Alemania en toda disputa con Estados Unidos (insinuando que Alemania debía retirarse de la OTAN) y al Sudeste Asiático por temor a que Estados Unidos regresara a aquella región y amenazara a China.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>He argued that the world was headed toward unity,  but that it could be united either under US domination or be integrated on the basis of “fairness, equal sovereignty, common interest, and cooperation.”  If America succeeds in its global ambitions, he warned, “the world will enter into a dark and chaotic age.”  The biggest obstacle to the realization of US ambitions is China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015401Z" creationid="Melanie" creationdate="20160919T232117Z">
-        <seg>Argumentaba que el mundo iba en camino hacia la unidad, pero que tal unidad podría darse bajo el dominio estadounidense o integrarse sobre la base de "igualdad, soberanía equitativa, interés común y cooperación". "Si Estados Unidos logra alcanzar sus ambiciones a nivel mundial, el mundo entrará en una era oscura y caótica", advirtió. El mayor obstáculo para que se concreten las ambiciones estadounidenses es China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234053Z" creationid="Melanie" creationdate="20160919T232117Z">
+        <seg>He argumentaba que el mundo iba en camino hacia la unidad, pero que tal unidad podría darse bajo el dominio estadounidense o integrarse sobre la base de "igualdad, soberanía equitativa, interés común y cooperación". Si Estados Unidos logra alcanzar sus ambiciones a nivel mundial, "el mundo entrará en una era oscura y caótica", advirtió. El mayor obstáculo para que se concreten las ambiciones estadounidenses es China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9015,8 +9015,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In his opinion, it does not matter what type of policy China adopts internally (i.e., whether it supports human rights or becomes a democracy), since US policy will not change; the United States simply does not want to see a “strong, &lt;t0/&gt;uniﬁed&lt;t1/&gt;, prosperous, and industrialized modern China.”  In He’s view, American demands for human rights and democracy were merely a part of its strategy to weaken and hopefully divide China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015414Z" creationid="Melanie" creationdate="20160919T232130Z">
-        <seg>A su parecer, no importa qué clase de política interna adopte China (es decir, si apoya los derechos humanos o se convierte en una democracia), ya que la política estadounidense no va a cambiar. En términos simples, Estados Unidos no desea ver una "China moderna, poderosa, &lt;t0/&gt;unificada&lt;t1/&gt;, próspera e industrializada". Para He, las demandas estadounidenses para proteger los derechos humanos y la democracia eran una mera parte de su estrategia para debilitar y, con suerte, dividir China.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234126Z" creationid="Melanie" creationdate="20160919T232130Z">
+        <seg>A su parecer, no importa qué clase de política interna adopte China (es decir, si apoya los derechos humanos o se convierte en una democracia), ya que la política estadounidense no va a cambiar. En términos simples, Estados Unidos no desea ver una "China moderna, poderosa, &lt;t0/&gt;unificada&lt;t1/&gt;, próspera e industrializada". Para He, los pedidos de Estados Unidos para que se protejan los derechos humanos y la democracia eran una mera parte de su estrategia para debilitar y, con suerte, dividir China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15629,8 +15629,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The breakup of the Soviet Union would cause China to lose its last strategic shield against the United States, so China should make use of any &lt;t6/&gt;conﬂict&lt;t7/&gt; between other countries and the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T191830Z">
-        <seg>El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos que le quedaba, por lo que debía utilizar cualquier &lt;t6/&gt;conflicto&lt;t7/&gt; que hubiera entre éste y otras naciones.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233924Z">
+        <seg>El quiebre de la Unión Soviética provocaría que China perdiera el último escudo estratégico contra Estados Unidos, por lo que debía utilizar cualquier &lt;t6/&gt;conflicto&lt;t7/&gt; que hubiera entre este país y otras naciones.</seg>
       </tuv>
     </tu>
     <tu>
