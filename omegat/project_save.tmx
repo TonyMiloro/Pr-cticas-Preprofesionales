@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3683,8 +3683,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As perhaps the only intellectual to support the government in the days following Tiananmen, He quickly became a very public, and often reviled, &lt;t12/&gt;ﬁgure&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160908T195820Z">
-        <seg>Como fue tal vez el único intelectual que apoyó al gobierno en los días que siguieron a Tiananmen, He se convirtió rápidamente en una &lt;t12/&gt;figura&lt;t13/&gt; muy pública y a menudo injuriada.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T195844Z">
+        <seg>Como fue tal vez el único intelectual que apoyó al gobierno en los días que siguieron a Tiananmen, He se convirtió rápidamente en una &lt;t12/&gt;figura&lt;t13/&gt; muy expuesta y a menudo injuriada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12919,8 +12919,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One of the &lt;t6/&gt;ﬁrst&lt;t7/&gt; (and certainly one of the loudest) voices of the new nationalism was that of &lt;t8/&gt;He&lt;t9/&gt; &lt;t10/&gt;Xin&lt;t11/&gt;, an erstwhile literary critic who turned his attention to economics, politics, and international relations in the late 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T194937Z">
-        <seg>Una de las &lt;t6/&gt;primeras&lt;t7/&gt; voces (y con certeza una de las más prominentes) del nuevo nacionalismo fue la de &lt;t8/&gt;He&lt;t9/&gt;&lt;t10/&gt; Xin&lt;t11/&gt;, un crítico literario que volvió su mirada hacia la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T195753Z">
+        <seg>Una de las &lt;t6/&gt;primeras&lt;t7/&gt; voces (y con certeza una de las más prominentes) del nuevo nacionalismo fue la de &lt;t8/&gt;He&lt;t9/&gt;&lt;t10/&gt; Xin&lt;t11/&gt;, un ex crítico literario que fijó su atención en la economía, la política y las relaciones internacionales a fines de los años 80.</seg>
       </tuv>
     </tu>
     <tu>
