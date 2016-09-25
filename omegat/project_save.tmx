@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3323,8 +3323,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And the nationalist edge evident in so much of this rhetoric could lead to new frictions in implementing WTO regulations, protecting intellectual property rights, understandings of “economic security,” and perhaps national security (which goes beyond the scope of this book).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160925T221555Z" creationid="rona" creationdate="20160925T221555Z">
-        <seg>Y el frente nacionalista .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160925T224132Z" creationid="rona" creationdate="20160925T221555Z">
+        <seg>Y el frente nacionalista, evidente en gran parte de esta retórica, podría conducir a nuevos roces en la implementación de regulaciones de la OMC, la protección de derechos de propiedad intelectual, el entendimiento de "seguridad ecnonómica", y tal vez el de seguridad nacional (que . </seg>
       </tuv>
     </tu>
     <tu>
