@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3163,8 +3163,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although their critiques of insider deals and other abuses of reform shine a useful light on the dark corners of reform, it is not yet evident that the exposure of scandals is leading to better corporate governance and healthier legal institutions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160921T183559Z">
-        <seg>Aunque sus críticas sobre acuerdos internos y otros abusos de la reforma iluminan oportunamente las oscuros rincones de la reforma, sin embargo, no existe evidencia alguna que la revelación de los escándalos lleve a una mejor gobernación ni a instituciones legales más saludables.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160925T224738Z">
+        <seg>Aunque sus críticas sobre acuerdos internos y otros abusos de la reforma clarifican oportunamente las oscuros rincones de la reforma, sin embargo, no existe evidencia alguna que la revelación de los escándalos lleve a una mejor gobernación ni a instituciones legales más saludables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13401,6 +13401,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160908T192417Z">
         <seg>como India".52 Mao trató de transformar a los campesinos, pero después del Gran Salto Adelante ellos revelaron "espontáneas tendencias capitalistas" y desafiaron al Partido con su pereza, migración y los mercados negros, y confirmaron así los miedos de Mao de que la sociedad rural fuera un "hervidero de enfermedades y gérmenes". Al final, Wang sugiere que fueron los campesinos quienes traicionaron a Mao y no al revés, pero aun así "usualmente nos encontramos con que los chinos simplemente no entienden o no aman a su líder Mao Zedong".53  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PART I</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160925T224436Z" creationid="rona" creationdate="20160925T224436Z">
+        <seg>PARTE I</seg>
       </tuv>
     </tu>
     <tu>
