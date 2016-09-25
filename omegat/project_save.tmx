@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3525,6 +3525,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160914T004345Z" creationid="Jesica" creationdate="20160914T002119Z">
         <seg>Artículos en la Web y demonstraciones estudiantiles lo etiquetaron como un "traidor" (maiguozei) y luego del atentado a la embajada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As China’s revolution had increasingly criticized “capitalism,” trying desperately in the course of the Cultural Revolution to “cut off the tail of capitalism” and to criticize “bourgeois rights,” feudalism had flourished.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160925T234006Z" creationid="LENOVO" creationdate="20160925T233905Z">
+        <seg>Debido a que la revolución china había criticado al "capitalismo" en gran medida, en un intento desesperado durante la Revolución Cultural de "cortarle la cola al capitalismo" y de criticar a los "derechos burgueses", el feudalismo se había fortalecido.</seg>
       </tuv>
     </tu>
     <tu>
