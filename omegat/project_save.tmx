@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4917,6 +4917,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175741Z">
         <seg>CAPÍTULO 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER I</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160925T225938Z" creationid="rona" creationdate="20160925T225938Z">
+        <seg>CAPÍTULO I</seg>
       </tuv>
     </tu>
     <tu>
@@ -11440,6 +11448,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T194223Z">
         <seg>Lin atribuyó el rápido crecimiento que Guangdong había disfrutado durante la década anterior, a la implementación de políticas orientadas al mercado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line struggle revisited: the attack on Deng’s reform program</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160925T225925Z" creationid="rona" creationdate="20160925T225625Z">
+        <seg>Reconsideración de las línea de lucha: el ataque al programa de la reforma de Deng</seg>
       </tuv>
     </tu>
     <tu>
