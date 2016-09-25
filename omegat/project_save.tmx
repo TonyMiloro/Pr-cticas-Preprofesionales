@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3045,6 +3045,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T201004Z">
         <seg>A pesar de que la mayoría de los intelectuales continuaron inclinándose hacia el liberalismo, su habilidad para influenciar el discurso público se veia limitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although reﬂections and introspections began almost immediately, it would be over two years before intellectuals began to regain their voice, and when they did it was not only a different voice that emerged but also a very changed and divided community.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160925T230304Z" creationid="rona" creationdate="20160925T230304Z">
+        <seg>Aunque las reflexiones y la instropección .</seg>
       </tuv>
     </tu>
     <tu>
@@ -15445,6 +15453,14 @@ criminal prosecution.</seg>
       <tuv lang="ES-US" changeid="PC" changedate="20160924T174901Z">
         <seg>
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;s0/&gt;violence &lt;s1/&gt;of &lt;s2/&gt;June &lt;s3/&gt;4, &lt;s4/&gt;1989 &lt;s5/&gt;stunned &lt;s6/&gt;China’s &lt;s7/&gt;intellectual &lt;s8/&gt;community.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160925T230139Z" creationid="rona" creationdate="20160925T230139Z">
+        <seg>La &lt;s0/&gt;violencia &lt;s1/&gt;del &lt;s2/&gt;4 de &lt;s3/&gt;junio de &lt;s4/&gt;1989 &lt;s5/&gt;impactó &lt;s6/&gt;a la comunidad china&lt;s7/&gt;de intelectuales &lt;s8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
