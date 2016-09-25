@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -258,6 +258,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T154015Z">
         <seg>No se darían por vencidos sin una disputa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>26 de agosto</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Antonio" changedate="20160925T181640Z" creationid="Antonio" creationdate="20160925T181640Z">
+        <seg>aaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6687,6 +6695,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160909T153057Z">
         <seg>Date of delivery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fecha de cobro</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Antonio" changedate="20160925T181642Z" creationid="Antonio" creationdate="20160925T181642Z">
+        <seg>aaaa</seg>
       </tuv>
     </tu>
     <tu>
