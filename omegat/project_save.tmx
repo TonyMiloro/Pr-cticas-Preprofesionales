@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17859,6 +17859,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160918T064844Z" creationid="Usuario" creationdate="20160918T063114Z">
         <seg>Este ánimo fue plasmado de manera correcta por Gan Yang, editor de la serie influyente Cultura: China y el mundo (Wenhua: Zhongguo yu shijie congshu), quien defendía la cosmopolitanisación y la renovación cultural: "China debe ingresar al mundo, por lo que obviamente, su cultura debe hacerlo también. China debe modernizarse, por lo que obviamente, debemos concretar la ´modernización de la cultura china´ - esta es la fe en común de todo aquél con visión en los años 80. Esta es la necesidad lógica del gran despegue histórico de la China contemporánea". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This move caused obvious anxieties in China and prompted conservatives to take an even harder line.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T211213Z" creationid="carolaamiel" creationdate="20160925T210544Z">
+        <seg>Este cambio generó preocupaciones en China and le dió pie a los conservadores para adoptar una postura más firme.</seg>
       </tuv>
     </tu>
     <tu>
