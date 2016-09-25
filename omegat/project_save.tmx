@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8415,8 +8415,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If such hostile forces won, the commentator article warned, it would be a “retrogression of history and a catastrophe for the people.”35 The tone of other, less authoritative articles likewise suggests a major conservative push in reaction to events in the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T222751Z" creationid="carolaamiel" creationdate="20160925T222247Z">
-        <seg>El autor del artículo advirtió que si tales fuerzas hostiles ganaban, sería un “retroceso en la historia y una catástrofe para la gente". 35 El tono de otros artículos menos fidedignos insinúan una  a major conservative push in como reacción a lo sucedido en la Unión Soviética.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T224036Z" creationid="carolaamiel" creationdate="20160925T222247Z">
+        <seg>El autor del artículo advirtió que si tales fuerzas hostiles ganaban, sería un “retroceso en la historia y una catástrofe para la gente". 35 El tono de otros artículos menos fidedignos insinúan ungran impulso conservador como reacción a lo sucedido en la Unión Soviética.</seg>
       </tuv>
     </tu>
     <tu>
