@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20404,8 +20404,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>conservative&lt;t0/&gt; spin on Jiang’s CCP anniversary speech, calling for building a “great wall of steel against peaceful evolution” in order to protect the country from “hostile forces” at home and abroad.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T221110Z" creationid="carolaamiel" creationdate="20160925T221110Z">
-        <seg>conservative&lt;t0/&gt; spin on Jiang’s CCP discurso de aniversario de Jiang del CCP, calling for building a “great wall of steel against peaceful evolution” in order to protect the country from “hostile forces” at home and abroad.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T221541Z" creationid="carolaamiel" creationdate="20160925T221110Z">
+        <seg> conservative&lt;t0/&gt; spin on Jiang’s CCP discurso de Jiang por el aniversario del CCP, calling for building a “un gran muro de hierro en contra de la evolución pacífica”para protejer al país de las “fuerzas hostiles” nacionales y en el exterior.</seg>
       </tuv>
     </tu>
     <tu>
