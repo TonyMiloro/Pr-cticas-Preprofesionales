@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9161,14 +9161,6 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160908T032346Z">
         <seg>A finales de 1993, una revista conocida como Gestión y Estrategia (Zhanlu¨e yu guanli) comenzó a publicarse y se convirtió rápidamente en un foro de nuevas ideas y a veces críticas, entre ellas la idea de nacionalismo y populismo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In late July 1991, the Soviet Communist Party (CPSU) surrendered its monopoly on political power and moved its ideological stance toward democratic socialism.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T205739Z" creationid="carolaamiel" creationdate="20160925T205613Z">
-        <seg>A finales de julio de 1991,  el Partido Comunista de la Unión Soviética (CPSU) abandono su monopolio del poder politico y cambio su and moved its ideological stance toward democratic socialism.</seg>
       </tuv>
     </tu>
     <tu>
