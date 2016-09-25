@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4435,8 +4435,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Born in the Jiangsu city of Yangzhou in 1926, Jiang received a mixed classical Chinese and Western education.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T202350Z">
-        <seg>Yangshou nació en la ciudad de Jiangsu en 1926, Jiang recibió una clásica educación mixta china y occidental.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002831Z">
+        <seg> Jiang nació en la ciudad de Jiangsu en Yangzhou en 1926; recibió una clásica educación mixta china y occidental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5107,8 +5107,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Chen Xitong might have been a logical choice; he had long served in the Beijing Municipal Party apparatus and had cultivated ties with Deng and other Party  elders.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T023055Z">
-        <seg>Chen Xitong podría haber sido una elección lógica; ya había estado sirviendo en el aparato del Partido Municipal de Pekín y había creado lazos con Deng y otros integrantes antiguos del Partido.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002404Z">
+        <seg>Chen Xitong podría haber sido una elección lógica; ya había sirvido por un tiempo en el aparato del Partido Municipal de Pekín y había creado lazos con Deng y otros integrantes antiguos del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5795,8 +5795,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Dashing their hopes, Deng on May 31 informed Li Peng and Politburo Standing Committee member Yao Yilin that the Party leadership (Deng said that he had conferred with Party elders Chen Yun and Li Xiannian, giving a fairly accurate sense of who constituted the Party leadership) had decided that Jiang Zemin, then CCP secretary of Shanghai, would be plucked from relative obscurity to become the “core” of the third generation of CCP leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T032906Z">
-        <seg>Deng terminó con sus expectativas el 31 de mayo cuando le informó a Li Peng y a uno de los miembros del Comité Permanente del Politburó Yao Yilin que el dirigente del Partido había decidido sacar de una relativa oscuridad a Jiang Zemin, el entonces secretario del PCCh de Shanghai, y convertirlo en el "cabeza" de la tercera generación de dirigentes del PCCh.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T234759Z">
+        <seg>Deng terminó con sus expectativas el 31 de mayo cuando le informó a Li Peng y a uno de los miembros del Comité Permanente del Politburó Yao Yilin que el dirigente del Partido (Deng dijo que él y antiguos miembros del partido Chen Yun y Li Xiannian resolvieron que le darían un análisis justo y certero de quíen sería el próximo líder del partido) había decidido sacar de una relativa oscuridad a Jiang Zemin, el entonces secretario del PCCh de Shanghai, y convertirlo en la "cabeza" de la tercera generación de dirigentes del PCCh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5987,8 +5987,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng also tried to forestall an all-out attack on Zhao’s policies (and himself) by declaring that “the political report of the Thirteenth Party Congress was passed by the representatives of the Party to the congress; even one character must not be changed.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T031840Z">
-        <seg>Deng incluso intentó prevenir un ataque fatal a las políticas de Zhao (y a él mismo) al declarar que "el informe de las políticas del Décimotercer Congreso del Partido fue promulgada por los representantes del Partido en el congreso; ni una sola letra podía ser alterada".</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T230116Z">
+        <seg>Deng incluso intentó prevenir un ataque fatal a las políticas de Zhao (y a él mismo) al declarar que "el informe de las políticas del Decimotercer Congreso del Partido fue promulgado por los representantes del partido en el congreso; ni una sola letra podía ser alterada".</seg>
       </tuv>
     </tu>
     <tu>
@@ -6011,8 +6011,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng did have that status within the Party, and thus replaced Hua and emerged as the core of the “second generation” of CCP leadership (as Deng put it, ignoring the fact that he was really part of the ﬁrst generation of leadership).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T025952Z">
-        <seg>Deng sí tenía ese estatus dentro del Partido, por eso reemplazo a Hua y surgío como la cabeza de la "segunda generación" del liderazgo del PCCh (como decía Deng, dejando de lado el hecho de que él en realidad era parte de la primera generación del liderazgo).</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T215253Z">
+        <seg>Deng sí tenía ese estatus dentro del partido, por eso reemplazó a Hua y surgío como la cabeza de la "segunda generación" del liderazgo del PCCh (como decía Deng, dejando de lado el hecho de que él en realidad era parte de la primera generación del liderazgo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6051,8 +6051,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng might have added that the choice of either one would have decisively shifted the balance of the Party; maintaining balance – albeit with a bias toward reform – was the only way to maintain both a semblance of stability within the Party and the continuation of Deng’s line of reform and opening up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T021354Z">
-        <seg>Deng debió agregar que elegir a alguno de ellos hubiera alterado decisivamente el balance del Partido; mantener el balance - - era la única forma de mantener un aspecto de estabilidad dentro del Partido y la continuidad de la línea de reforma y desarrollo de Deng.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T001250Z">
+        <seg>Deng debió agregar que elegir a alguno de ellos hubiera alterado decisivamente el balance del Partido; mantener el balance -aunque con una INCLINACIÓN A la reforma- era la única forma de mantener un aspecto de estabilidad dentro del Partido y la continuidad de la línea de reforma y apertura de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8485,18 +8485,26 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If we put up a front so that people feel that it is an ossiﬁed leadership, a conservative leadership, or if the people believe that it is a mediocre leadership that cannot reﬂect the future of China, then there will be constant trouble and there will never be a peaceful day.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T000103Z" creationid="bluebird" creationdate="20160913T000103Z">
+        <seg>Si ponemos un frente para que las personas sientan que es un liderazgo fosilizado, un liderazgo conservador, o si las personas creen que es un liderazgo mediocre que no puede reflejar el futuro de China, entonces habría constantes problemas y no habría ni un día de paz".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1937 he tested into the prestigious Yangzhou Middle School, where he pursued his interests in literature and music.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T203036Z">
-        <seg>En 1937 tomó los exámenes para la prestigiosa escuela secundaria Yangzhou, donde siguió el trayecto literario y musical.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002949Z">
+        <seg>En 1937 tomó los exámenes para la prestigiosa escuela secundaria de Yangzhou, donde siguió el trayecto literario y musical.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In 1939, at the age of 13, Jiang was adopted into the family of his uncle, Jiang Shangqing, who had been martyred as a result of his revolutionary activities.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160902T210402Z">
-        <seg>En 1939, cuando tenía 13 años, a Jiang lo adopto la familia de su tío, Jiang Shangqing, quien había sido martirizado como consecuencia de sus actividades revolucionarias.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T003039Z">
+        <seg>En 1939, cuando tenía 13 años, Jiang fue adoptado por la familia de su tío, Jiang Shangqing, quien había sido martirizado como consecuencia de sus actividades revolucionarias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8631,8 +8639,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1989, Deng could use his core status to stress continuity and to dominate decisions on leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T030044Z">
-        <seg>En 1989, Deng aprovechó su estatus central para recalcar continuidad y dominar las decisiones del liderazgo.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T222156Z">
+        <seg>En 1989, Deng aprovechó su estatus central para subrayar continuidad y dominar las decisiones del liderazgo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11268,7 +11276,7 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Li  Peng  and  Yao  Yilin,  as  Deng  scornfully noted, were too conservative to satisfy him.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T020158Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T000739Z">
         <seg>Li Peng y Yao Yilin, como Deng con desdén notó, eran muy conservadores para su satisfacción.</seg>
       </tuv>
     </tu>
@@ -11292,8 +11300,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Li Ruihuan was another possibility, but his weak educational background no doubt eliminated him as a serious contender.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T195837Z">
-        <seg>Li Ruihuan era otra opción, pero su formación limitada sin duda lo descalificó como un serio aspirante.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002600Z">
+        <seg>Li Ruihuan era otra opción, pero su formación limitada sin duda lo descalificó como un aspirante serio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12470,8 +12478,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>No doubt, given the defense of the Party against the so-called counter- revolutionary rebellion and the discrediting of Zhao Ziyang, conservatives hoped that one of their own – perhaps Premier Li Peng, economic planner Yao Yilin, or even former Propaganda Department head Deng Liqun – might replace Zhao as general secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T032644Z">
-        <seg>Sin duda, dado a que la defensa de la rebelión de los llamados antireformistas y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos - quizá el Primer Ministro Li PEng, el planeador económico Yao Yilin, o incluso el ex presidente de la secretaría de difusión Deng Liqun - reemplazarían a Zhao como secretario general.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T232859Z">
+        <seg>Sin duda, dado a que la defensa de la rebelión de la llamada rebelión contra-revolucionaria y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos - quizá el Primer Ministro Li PEng, el planeador económico Yao Yilin, o inclusive el ex presidente de la secretaría de difusión Deng Liqun - reemplazarían a Zhao como secretario general.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13599,8 +13607,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Perhaps the most important advantage that Deng’s core status conferred was the authority to have the ﬁnal word on high-level leadership decisions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T032057Z">
-        <seg>Quizá la ventaja más importante que otorgaba el estatus central de Deng fue gozar de la autoridad para tomar las decisiones más importantes con respecto al liderazgo.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T232106Z">
+        <seg>Quizá la ventaja más importante que otorgaba el estatus central de Deng era gozar de la autoridad para tomar las decisiones más importantes con respecto al liderazgo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13896,8 +13904,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Qiao seems not to have been the power player that his background in intelligence led many to believe he was, and in any case he was too close to Zhao Ziyang to satisfy conservatives.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T022524Z">
-        <seg>Qiao no parecia ser el jugador estratégico que por su formación muchos creía que era y de todos modos él era muy cercano a Zhao Ziyang para complacer a los conservadores.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T001908Z">
+        <seg>Qiao no parecia ser el jugador estratégico que por su formación muchos creía que era, y de todos modos él era muy cercano a Zhao Ziyang para complacer a los conservadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14905,8 +14913,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Some reports maintain that Deng asked Qiao to be general secretary, but that seems unlikely.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T021911Z">
-        <seg>Algunos informes sostienen que Deng sugirió a Qiao ser secretario general, pero parece algo remoto.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002007Z">
+        <seg>En algunos informes se sostiene que Deng ofreció a Qiao ser secretario general, pero parece ser algo dudoso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15428,6 +15436,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160921T235319Z" creationid="marielaromina" creationdate="20160921T235319Z">
         <seg>Esto es lo que busca hacer este libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That left Qiao Shi.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T001431Z" creationid="bluebird" creationdate="20160913T001431Z">
+        <seg>Lo que descalificó a Qiao Shi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18451,8 +18467,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus began Deng’s efforts to install a new leadership – his third attempt following the dismissals of Hu Yaobang and Zhao Ziyang – and so guarantee the continuation of his policies after his death.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T012528Z">
-        <seg>Así los esfuerzos de Deng comenzaron a instarlar un nuevo liderazgo - el tercer intento después de la expulsión de Hu Yaobang y Zhao Ziyang- y así se aseguró que sus políticas peredurarían después de su muerte. </seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T000327Z">
+        <seg>Así comenzaron los esfuerzos de Deng para instarlar un nuevo liderazgo - el tercer intento después de la expulsión de Hu Yaobang y Zhao Ziyang- y así se aseguró que sus políticas perdurarían después de su muerte. </seg>
       </tuv>
     </tu>
     <tu>
@@ -18771,8 +18787,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Two  of  these,  Zhao  Ziyang  and Hu Qili, were disqualiﬁed because they had been too tolerant toward the Tiananmen  demonstrations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160905T013257Z">
-        <seg>Dos de ellos, Zhao Ziyang y Hu Qili, fueron descalificados porque habían sido muy tolerantes durante las manifestaciones en Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T000538Z">
+        <seg>Dos de ellos, Zhao Ziyang y Hu Qili, fueron descalificados porque habían sido muy tolerantes durante las manifestaciones en Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19523,8 +19539,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Deng met with leaders of martial law troops on June 9, he declared that the line of “one center and two basic points” (economic development was the center; the two basic points were reform and opening up on the one hand and opposition to “bourgeois liberalization” on the other), which had been ofﬁcially adopted at the Thirteenth Party Congress in 1987, was correct and that reform and opening up needed to be pursued even more vigorously.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T031346Z">
-        <seg>Cuando Deng se ruinió con los líderes de las tropas de ley marcial el 9 de junio, declaró que la tedencia de "un centro y dos puntos básicos" (desarrollo económico era el centro; reforma y desarrollo por un lado y oposición a la "liberación burguesa" por otro), adoptado oficialmente en el Décimotercer Congreso del Partido en 1987, era correcta y que se debía luchar por la reforma y el desarrollo con más vigorocidad.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T225631Z">
+        <seg>Cuando Deng se ruinió con los líderes de las tropas de ley marcial el 9 de junio, declaró que la línea de "un centro y dos puntos básicos" (desarrollo económico era el centro; reforma y apertura por un lado y oposición a la "liberación burguesa" por otro), adoptado oficialmente en el Decimotercer Congreso del Partido en 1987, era correcta y que era necesario luchar por la reforma y el desarrollo con más vigorocidad.</seg>
       </tuv>
     </tu>
     <tu>
