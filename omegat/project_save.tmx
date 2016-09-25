@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235035Z" creationid="Melanie" creationdate="20160924T235035Z">
-        <seg></seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000403Z" creationid="Melanie" creationdate="20160925T000403Z">
+        <seg>..</seg>
       </tuv>
     </tu>
     <tu>
@@ -2393,8 +2393,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t6/&gt;Neoconservatism&lt;t7/&gt;, the article said, converged with Western rationalism in its opposition to radicalism and emphasis on gradualism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T230909Z" creationid="Melanie" creationdate="20160922T230800Z">
-        <seg>El &lt;t6/&gt;Neoconservadurismo&lt;t7/&gt;, según el artículo, convergía con el racionalismo occidental en su oposición al radicalismo y el énfasis en el gradualismo.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000150Z" creationid="Melanie" creationdate="20160922T230800Z">
+        <seg>El &lt;t6/&gt;Neoconservadurismo&lt;t7/&gt;, según el artículo, convergía con el racionalismo occidental en su oposición al radicalismo y al énfasis en el gradualismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3755,8 +3755,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As the authors put it, it was necessary to emphasize “uniting Marxism with Chinese reality .</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212950Z" creationid="Melanie" creationdate="20160922T233019Z">
-        <seg>Como lo explicaron los autores, era necesario poner énfasis en la "unión del marxismo con la realidad china.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000401Z" creationid="Melanie" creationdate="20160922T233019Z">
+        <seg>Como lo explicaron los autores, era necesario hacer hincapié en la "unión del marxismo con la realidad china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5947,8 +5947,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng had carried this process further by emphasizing “seek truth from facts” and by calling for building “socialism with Chinese characteristics.” Now the authors of “Realistic Responses” were calling for taking this process another step forward.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T013252Z" creationid="Usuario" creationdate="20160923T001116Z">
-        <seg>Deng había llevado este proceso más allá al enfatizar "la búsqueda de la verdad basándose en los hechos" y al exigir la construcción de un "socialismo con características chinas". Los autores de "Respuestas realistas" pretendían llevar este proceso un paso más adelante.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000452Z" creationid="Usuario" creationdate="20160923T001116Z">
+        <seg>Deng había desarrollado aún más este proceso al enfocarse en "la búsqueda de la verdad basándose en los hechos" y al exigir la construcción de un "socialismo con características chinas". Los autores de "Respuestas realistas" pretendían llevar este proceso un paso más adelante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15669,8 +15669,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The central concern of the article was how the CCP had to change from a revolutionary party to a ruling party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T230949Z" creationid="Melanie" creationdate="20160922T231147Z">
-        <seg>El asunto central del artículo era cómo el PCCh (Partido Comunista de China) se había trasformado de un partido revolucionario a un partido dominante.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000159Z" creationid="Melanie" creationdate="20160922T231147Z">
+        <seg>El asunto central del artículo era cómo el PCCh (Partido Comunista de China) pasó de ser un partido revolucionario a un partido dominante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17417,8 +17417,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They were not abandoning the ruling role of the CCP but rather were trying to &lt;t0/&gt;ﬁgure&lt;t1/&gt; out institutional arrangements through which it might be able to preserve political stability.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020140Z" creationid="Melanie" creationdate="20160922T231741Z">
-        <seg>No estaban abandonando el rol dominante del PCCh, estaban tratando de &lt;t0/&gt;descifrar&lt;t1/&gt; planes institucionales a través de los cuales podrían mantener la estabilidad política.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000229Z" creationid="Melanie" creationdate="20160922T231741Z">
+        <seg>No estaban abandonando el rol dominante del PCCh, sino que estaban tratando de &lt;t0/&gt;descifrar&lt;t1/&gt; planes institucionales a través de los que pudieran mantener la estabilidad política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19499,8 +19499,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the &lt;t4/&gt;ﬁrst&lt;t5/&gt; pillar severely shaken (and indeed about to disappear), it was all the more necessary to emphasize the “&lt;t6/&gt;Chineseness&lt;t7/&gt;” of the Chinese revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020206Z" creationid="Melanie" creationdate="20160922T232506Z">
-        <seg>Debido a tener sus pilares &lt;t4/&gt;principales&lt;t5/&gt; severamente sacudidos (y de hecho, a punto de desaparecer) era más que necesario enfatizar en el “&lt;t6/&gt;aspecto chino&lt;t7/&gt;” de la revolución china.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000341Z" creationid="Melanie" creationdate="20160922T232506Z">
+        <seg>Debido a que la &lt;t4/&gt;primera&lt;t5/&gt; base se encontraba debilitada (y, de hecho, a punto de desaparecer) era más que necesario enfatizar el “&lt;t6/&gt;aspecto chino&lt;t7/&gt;” de la revolución china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20717,8 +20717,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>with emphasis on China’s national condition.”  In the &lt;t8/&gt;Yan’an&lt;t9/&gt; days of the revolution, Mao had de-emphasized the &lt;t10/&gt;speciﬁcally&lt;t11/&gt; Marxist aspects of his evolving ideological system by demanding that Marxism be combined with Chinese reality.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212958Z" creationid="Melanie" creationdate="20160922T233242Z">
-        <seg>resaltando la condición nacional de China".  En los días de la revolución de &lt;t8/&gt;Yan’an&lt;t9/&gt;, Mao quitó el énfasis en los aspectos &lt;t10/&gt;específicamente&lt;t11/&gt; marxistas de su sistema ideológico de evolución al exigir que el marxismo se combinara con la realidad china.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000418Z" creationid="Melanie" creationdate="20160922T233242Z">
+        <seg>resaltando la condición nacional de China".  En los días de la revolución de &lt;t8/&gt;Yan’an&lt;t9/&gt;, Mao quitó el énfasis en los aspectos &lt;t10/&gt;específicamente&lt;t11/&gt; marxistas de su sistema ideológico en evolución al exigir que el marxismo se combinara con la realidad china.</seg>
       </tuv>
     </tu>
     <tu>
