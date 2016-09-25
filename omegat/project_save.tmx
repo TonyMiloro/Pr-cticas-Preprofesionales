@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2939,8 +2939,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although influence is a notoriously difficult force to measure, there is reason to believe that their advocacy of tax reform played an important role in the reform of 1994.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T005825Z" creationid="Magui" creationdate="20160920T005825Z">
-        <seg>Si bien la influencia es una fuerza obviamente difícil de medir, hay motivos para creer que su adhesión a la reforma tributaria desempeñó un papel importante en la reforma de 1994.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160925T175748Z" creationid="Magui" creationdate="20160920T005825Z">
+        <seg>Si bien la influencia es una fuerza obviamente difícil de medir, hay motivos para creer que su adhesión a la reforma tributaria tuvo un papel importante en la reforma de 1994.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11318,8 +11318,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Like other New Left intellectuals, Hu and Wang focused on the problem of social fairness, which was both a moral and a political issue.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T153258Z" creationid="Magui" creationdate="20160920T002914Z">
-        <seg>De la misma manera que lo hicieron otros intelectuales de la Nueva Izquierda, Hu y Wang se centraron en el problema de la equidad social, que era un tema tanto moral como político.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160925T175555Z" creationid="Magui" creationdate="20160920T002914Z">
+        <seg>De la misma manera que lo hicieron otros intelectuales de la nueva izquierda, Hu y Wang se centraron en el problema de la equidad social, que era un tema tanto moral como político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16472,8 +16472,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The neostatist approach touted by Hu and Wang clearly resonates within the halls of government.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160920T005230Z" creationid="Magui" creationdate="20160920T005230Z">
-        <seg>El enfoque neoestatista promovido por Hu y Wang resuena de manera clara entre las salas de gobierno.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160925T175735Z" creationid="Magui" creationdate="20160920T005230Z">
+        <seg>El enfoque neoestatista promovido por Hu y Wang resuena de manera clara entre las salas del gobierno.</seg>
       </tuv>
     </tu>
     <tu>
