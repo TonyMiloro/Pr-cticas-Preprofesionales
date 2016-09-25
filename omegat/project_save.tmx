@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17081,8 +17081,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Their development and the development of other regions can only promote one another; they do not negate one another.”&lt;/f16&gt;&lt;f18&gt;21&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;In June 1994 Jiang Zemin visited Shenzhen and tried to dampen the debate by declaring that the Party’s and state’s policies toward the SEZs had not changed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160925T174812Z" creationid="Magui" creationdate="20160919T233753Z">
-        <seg>Ese desarrollo y el de las otras regiones solo puede promover más desarrollo para ambos grupos; el progresp de un grupo no resulta incompatible con el del otro”.&lt;/f16&gt;&lt;f18&gt;21&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;En junio de 1994, Jiang Zemin visitó Shenzhen y en un intento por enfriar el debate declaró que las políticas del Partido y del Estado hacia las Zonas Económicas Especiales no habían cambiado.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160925T182656Z" creationid="Magui" creationdate="20160919T233753Z">
+        <seg>Ese desarrollo y el de las otras regiones solo puede promover más desarrollo para ambos grupos; el progreso de un grupo no resulta incompatible con el del otro”.&lt;/f16&gt;&lt;f18&gt;21&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;En junio de 1994, Jiang Zemin visitó Shenzhen y en un intento por enfriar el debate declaró que las políticas del Partido y del Estado hacia las Zonas Económicas Especiales no habían cambiado.</seg>
       </tuv>
     </tu>
     <tu>
