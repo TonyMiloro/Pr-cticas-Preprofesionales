@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5035,8 +5035,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Central planning is of primary importance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T124506Z">
-        <seg>La planificación central es de mayor importancia.</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T223414Z">
+        <seg>La planificación central es de mayor importancia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11844,6 +11844,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Market regulation is supple-mentary.”&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;78&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; This, of course, was standard conservative rhetoric.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T223447Z" creationid="Evelyn" creationdate="20160925T223403Z">
+        <seg>, mientras que la regulación del mercado es suplementaria”&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;78&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; Esto, por supuesto, fue típica retórica conservadora&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Market-oriented reforms, decentralization, and opening to the outside world all threatened these beliefs and interests.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160913T205816Z" creationid="Nadine" creationdate="20160913T205729Z">
@@ -16045,8 +16053,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The difference between this concept of planning and the provincial interest in continuing the existing patterns of reform came to a head at the September 1990 Economic Work Conference.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="usuario" changedate="20160903T125002Z">
-        <seg>La diferencia entre este concepto de planificación  el interés provincial en seguir los patrones actuales de reforma surgieron en la Conferencia de Trabajo Económico en septiembre de 1990.</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T223341Z">
+        <seg>La diferencia entre este concepto de planificación  el interés provincial en seguir los patrones existentes de reforma surgieron en la Conferencia de Trabajo Económico en septiembre de 1990.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20173,6 +20181,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160920T232748Z">
         <seg>El apoyo de Zhu al ingreso de China a la&lt;t16/&gt; &lt;t17/&gt;OMC aparentemente había aumentado en los meses anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zou Jiahua, vice-premier and head of the State Planning Commission (the orga-nization with primary responsibility for drafting the plan), put it as follows: “The integration of central planning and market regulation is a basic prin-&lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;ciple” of economic policy-making, but “the two do not have equal status.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T223542Z" creationid="Evelyn" creationdate="20160925T223542Z">
+        <seg>Zou Jiahua, vice primer ministro y jefe de la Comisión Estatal de Planificación de Desarrollo (la organización en mayor parte responsable por la redacción del plan), lo explicó de la siguiente manera: “La integración de la planificación central y de la regulación de mercado es un principio &lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt; básico” para crear políticas económicas, pero “las dos no tienen el mismo estatus..</seg>
       </tuv>
     </tu>
     <tu>
