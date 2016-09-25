@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16279,6 +16279,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160902T220133Z">
         <seg>La primer cifra, según Wang, había caído desde el curso de la reforma de 31.9% en 1979 hasta solo 22% en 1987.&lt;/f0&gt;&lt;f1&gt;75&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Los economistas conservadores se quejaron de manera abierta de que las políticas de decentralización aplicadas en el transcurso de la reforma habían ocasionado un sistema de "economías de señores feudales" (&lt;/f2&gt;&lt;f4&gt;Zhuhou jingji&lt;/f4&gt;&lt;f5&gt;), donde cada provincia era en esencia una unidad económica autónoma sobre las que Pekín ejercía poco control.&lt;/f5&gt;&lt;f6&gt;76&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Los conservadores pedían una recentralización del poder económico y político.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The former figure, said Wang, had fallen over the course of reform from 31.9 percent in 1979 to only 22 percent in 1987.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;75&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Conservative economists complained loudly that the decentralization policies pursued in the course of reform had brought about a system of “feudal-lord economies” (&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;zhuhou jingji&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;), where each province was essentially a self-contained eco-nomic unit over which Beijing had little control.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;76&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Conservatives demanded a recentralization of economic and political power.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T223945Z" creationid="Evelyn" creationdate="20160925T223945Z">
+        <seg>La primera cifra, según Wang, había caído durante la reforma de 31,9 % en 1979 hasta solo 22 % en 1987.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;75&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;  Los economistas conservadores se quejaron de manera abierta de que las políticas de decentralización aplicadas en el transcurso de la reforma habían ocasionado un sistema de “economías de señores feudales” &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;zhuhou jingji&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;), donde cada provincia era, en esencia, una unidad económica autónoma sobre la que Pekín ejercía poco control.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;76&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Los conservadores pedían una recentralización del poder económico y político.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
