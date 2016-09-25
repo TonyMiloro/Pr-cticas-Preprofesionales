@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20668,8 +20668,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>strength of the state used to address the moral, social, and political problems presented by regional inequality.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160919T222540Z" creationid="Magui" creationdate="20160919T222455Z">
-        <seg>fuerza del Estado solía abordar los problemas morales, sociales y políticos que causaba la desigualdad regional).</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160925T185009Z" creationid="Magui" creationdate="20160919T222455Z">
+        <seg>fuerza del Estado solía abordar los problemas morales, sociales y políticos que la desigualdad regional causaba).</seg>
       </tuv>
     </tu>
     <tu>
