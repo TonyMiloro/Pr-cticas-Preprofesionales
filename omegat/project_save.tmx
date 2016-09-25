@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5723,8 +5723,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Cultural nationalism arose in response both to the perceived decline in values in China and to the belief that Western values could not solve the problems of the modern world.&lt;/f6&gt;&lt;f7&gt;20 &lt;/f7&gt;&lt;f8&gt;As noted in the previous chapter, interest in China’s tradition had been stimulated by the efforts of several well-known overseas Chinese scholars in the mid-1980s, and this had resulted in the establishment of one of the major popular (&lt;/f8&gt;&lt;f9&gt;minjian&lt;/f9&gt;&lt;f10&gt;) cultural groups of that era: theAcademy of Chinese &lt;s11/&gt;Culture, formed by a number of Beijing University professors.&lt;/f10&gt;&lt;f12&gt;21 &lt;/f12&gt;&lt;f13&gt;Despite the interest the lectures and writings of the academy attracted, revival of traditional Chinese culture and studies on Confucianism were not viewed as being on the intellectual cutting edge in the 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160925T212146Z" creationid="LENOVO" creationdate="20160925T211520Z">
-        <seg>El nacionalismo cultural surgió como respuesta al deterioro ya percibido de los valores en China, así como también a la creencia de que los valores Occidentales no podían resolver los problemas del mundo moderno.&lt;/f6&gt;&lt;f7&gt;20 &lt;/f7&gt;&lt;f8&gt;Como se mencionó en el capítulo anterior, el interés en la tradición china había sido estimulado por los esfuerzos de diversos estudiosos chinos bien conocidos en el extranjero en la mitad de la década de los '80(&lt;/f8&gt;&lt;f9&gt;minjian&lt;/f9&gt;&lt;f10&gt;) cultural groups of that era: theAcademy of Chinese &lt;s11/&gt;Culture, formed by a number of Beijing University professors.&lt;/f10&gt;&lt;f12&gt;21 &lt;/f12&gt;&lt;f13&gt;Despite the interest the lectures and writings of the academy attracted, revival of traditional Chinese culture and studies on Confucianism were not viewed as being on the intellectual cutting edge in the 1980s.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160925T212234Z" creationid="LENOVO" creationdate="20160925T211520Z">
+        <seg>El nacionalismo cultural surgió como respuesta al deterioro ya percibido de los valores en China, así como también a la creencia de que los valores Occidentales no podían resolver los problemas del mundo moderno.&lt;/f6&gt;&lt;f7&gt;20 &lt;/f7&gt;&lt;f8&gt;Como se mencionó en el capítulo anterior, el interés en la tradición china había sido estimulado por los esfuerzos de diversos estudiosos chinos bien conocidos en el extranjero en la mitad de la década de los '80, lo que resultó en el establecimiento de uno de los más populares grupos culturales(&lt;/f8&gt;&lt;f9&gt;minjian&lt;/f9&gt;&lt;f10&gt;) cultural groups of that era: theAcademy of Chinese &lt;s11/&gt;Culture, formed by a number of Beijing University professors.&lt;/f10&gt;&lt;f12&gt;21 &lt;/f12&gt;&lt;f13&gt;Despite the interest the lectures and writings of the academy attracted, revival of traditional Chinese culture and studies on Confucianism were not viewed as being on the intellectual cutting edge in the 1980s.</seg>
       </tuv>
     </tu>
     <tu>
