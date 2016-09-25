@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16794,6 +16794,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T145956Z" creationid="José Ignacio" creationdate="20160922T142102Z">
         <seg>La condición retórica que se le dio a los campesinos y &lt;t2/&gt;trabajadores, la distribución igualitaria&lt;t3/&gt; del sistema, el esfuerzo para eliminar las diferencias de ingresos a lo largo de las regiones, el movimiento de la comuna durante el Gran Salto Adelante, y la crítica del "revisionismo" soviético y de “los derechos burgueses” durante la Revolución&lt;t4/&gt;Cultu&lt;t5/&gt;ral reflejaron valores populistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rise of national studies in the &lt;/f5&gt;&lt;f6&gt;1990s marked an assertion of cultural nationalism, but it was not without a certain amount of official sponsorship.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160925T205923Z" creationid="LENOVO" creationdate="20160925T205923Z">
+        <seg>El surgimiento de los estudios nacionales &lt;/f5&gt;&lt;f6&gt;1990s marked an assertion of cultural nationalism, but it was not without a certain amount of official sponsorship.</seg>
       </tuv>
     </tu>
     <tu>
