@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5445,6 +5445,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225013Z">
         <seg>El avión de combate chino F-8 choca contra un avión de reconocimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chinese intellectuals would re-emerge in a very different society, and their reactions to the surrounding socioeconomic and political events polarized them in a way not apparent in the 1980s or even, perhaps, before.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160925T231557Z" creationid="rona" creationdate="20160925T231249Z">
+        <seg>Los intelectuales chinos resurgirían a una sociedad muy distinta, y sus reacciones ante los eventos socioeconómicos y políticos circundantes .</seg>
       </tuv>
     </tu>
     <tu>
