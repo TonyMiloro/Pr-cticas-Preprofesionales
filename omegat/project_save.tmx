@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19027,8 +19027,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang Huning, then about to move to Beijing to work with Jiang Zemin, offered a more subtle critique, one that reflected the cultural concerns taken up in New Left critiques.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T125859Z" creationid="Usuario" creationdate="20160922T130118Z">
-        <seg>Wang Huning, en ese momento a punto de mudarse a Beijing para trabajar con Jiang Zemin, ofreció una crítica más sutil, una que reflejaba las preocupaciones culturales abordadas por las críticas de la nueva izquierda.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160925T222850Z" creationid="Usuario" creationdate="20160922T130118Z">
+        <seg>En ese momento a punto de mudarse a Beijing para trabajar con Jiang Zemin, Wang Huning ofreció una crítica más sutil, una que reflejaba las preocupaciones culturales abordadas por las críticas de la nueva izquierda.</seg>
       </tuv>
     </tu>
     <tu>
