@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2441,8 +2441,8 @@
       <tuv lang="EN-US">
         <seg>A key player in the democracy wall movement of 1978–9, Jiang shifted his thinking after Tiananmen and became deeply involved in the still shadowy maneuvers of neoconservatives in the government.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160922T224525Z" creationid="pauli" creationdate="20160921T213718Z">
-        <seg>Jiang, actor clave para el Movimento del Muro de la Democracia de 1978-9, cambió su forma de pensar luego de Tiananmen y se vio profundamente involucrado en las aún confusas maniobras de los neoconservadores dentro del gobierno. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235902Z" creationid="pauli" creationdate="20160921T213718Z">
+        <seg>Jiang, actor clave para el Movimiento del Muro de la Democracia de 1978-9, cambió su forma de pensar luego de Tiananmen y se vio profundamente involucrado en las aún confusas maniobras de los neoconservadores dentro del gobierno. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9944,8 +9944,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Instead of these two extremes, the authors called for a program of “social stability and gradual reform” that drew on both Western rationalism (Bertrand Russell, Karl Popper, and Frederick von Hayek are cited as examples of rational thinkers) and Chinese tradition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020022Z" creationid="Usuario" creationdate="20160922T222208Z">
-        <seg>En lugar de estos dos extremos, los autores exigían un programa de "estabilidad social y reformas graduales" que se inspirara tanto en el racionalismo occidental (Bertrand Russel, Karl Popper y Frederick von Hayek son ejemplos de pensadores racionales) como en la tradición china.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000052Z" creationid="Usuario" creationdate="20160922T222208Z">
+        <seg>En lugar de estos dos extremos, los autores exigían un programa de "estabilidad social y reformas graduales" que se inspirara tanto en el racionalismo occidental (Bertrand Russell, Karl Popper y Frederick von Hayek son ejemplos de pensadores racionales) como en la tradición china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10532,8 +10532,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang &lt;t4/&gt;reﬂected&lt;t5/&gt; the sometimes erratic paths, in careers and thinking, taken by young people between the late 1970s and the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T015858Z" creationid="Melanie" creationdate="20160921T161946Z">
-        <seg>Jiang &lt;t4/&gt;reflejaba&lt;t5/&gt; los ocasionales caminos erráticos que tomaban los jóvenes entre los años 70 y 90, con respecto a sus carreras y formas de pensar.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235852Z" creationid="Melanie" creationdate="20160921T161946Z">
+        <seg>Jiang &lt;t4/&gt;reflejaba&lt;t5/&gt; los ocasionales caminos erráticos que tomaban los jóvenes entre los años 70 y 90 con respecto a sus carreras y formas de pensar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10708,8 +10708,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang was a close friend of Chen Yuan, Chen &lt;t6/&gt;Yun’s&lt;t7/&gt; son, and Pan &lt;t8/&gt;Yue&lt;t9/&gt;, the son-in-law of Liu &lt;t10/&gt;Huaqing&lt;t11/&gt;, the PLA general promoted to the Politburo Standing Committee and vice- chairmanship of the CMC at the Fourteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212855Z" creationid="pauli" creationdate="20160921T234437Z">
-        <seg>Jiang era amigo de Chen Yuan, hijo de Chen &lt;t6/&gt;Yun&lt;t7/&gt;, y Pan &lt;t8/&gt;Yue&lt;t9/&gt;, el yerno de Liu &lt;t10/&gt;Huaqing&lt;t11/&gt;, era el comandante del Ejército Popular de Liberación ascendido al Comité Permanente del Politburó y el vicepresidente de la CMC en el XIV Congreso Nacional del Partido Comunista de China. </seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235942Z" creationid="pauli" creationdate="20160921T234437Z">
+        <seg>Jiang era amigo de Chen Yuan, hijo de Chen &lt;t6/&gt;Yun&lt;t7/&gt;, y Pan &lt;t8/&gt;Yue&lt;t9/&gt;, el yerno de Liu &lt;t10/&gt;Huaqing&lt;t11/&gt;, era el comandante del Ejército Popular de Liberación ascendido al Comité Permanente del Politburó y el vicepresidente de la CMC (Comisión MIlitar Cental) en el XIV Congreso Nacional del Partido Comunista de China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12823,8 +12823,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On the one hand, it criticized “utopian socialism” – the Old Left – for continually relying on mass movements, which (the authors believed) would end up destroying the very socialism that it purportedly wanted to save.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212913Z" creationid="Usuario" creationdate="20160922T215440Z">
-        <seg>Por una parte, criticaba al "socialismo utópico" de la Vieja Izquierda por depender constantemente de movimiento de masas que, según diferentes autores, terminaría destruyendo el tipo de socialismo que supuestamente quería salvar.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000000Z" creationid="Usuario" creationdate="20160922T215440Z">
+        <seg>Por una parte, criticaba al "socialismo utópico" de la Vieja Izquierda por depender constantemente de movimientos de masas que, según diferentes autores, terminaría destruyendo el tipo de socialismo que supuestamente quería salvar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12863,8 +12863,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On the other hand, it criticized “utopian capitalism” – liberal reformers – for advocating a type of “radical reformism” that was ultimately unwilling to stop short of destroying the entire present order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T220131Z" creationid="Usuario" creationdate="20160922T215725Z">
-        <seg>Por otra parte, criticaba al "capitalismo utópico", a los reformistas liberales, por defender un tipo de "reformismo extremista" que básicamente podría llegar a destruir el orden actual.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000026Z" creationid="Usuario" creationdate="20160922T215725Z">
+        <seg>Por otra parte, criticaba al "capitalismo utópico" (los reformistas liberales), por defender un tipo de "reformismo extremista" que básicamente podría llegar a destruir el orden actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15186,8 +15186,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>That does not mean, however, that Yang and Wang were unfamiliar with the thinking of some people at higher levels.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T160739Z" creationid="Melanie" creationdate="20160921T160739Z">
-        <seg>Sin embargo, eso no significa que Yang y Wang no conocían la forma de pensar de algunas personas de clases más altas.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235835Z" creationid="Melanie" creationdate="20160921T160739Z">
+        <seg>Sin embargo, eso no significa que Yang y Wang no conocieran la forma de pensar de algunas personas de clases más altas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16416,8 +16416,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The new ideological orientation of the regime, the authors hoped, would &lt;t2/&gt;ﬁght&lt;t3/&gt; against “ideological superstition” while maintaining control; &lt;t4/&gt;sufﬁcient&lt;t5/&gt; space would be allowed for theoretical exploration.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020122Z" creationid="Melanie" creationdate="20160922T230436Z">
-        <seg>Los autores esperaban que esta nueva orientación ideológica del régimen &lt;t2/&gt;se opusiera&lt;t3/&gt; a la "superstición ideológica" y mantuviera el control. De esa forma, se permitiría un espacio &lt;t4/&gt;suﬁciente&lt;t5/&gt; para la exploración teórica.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000120Z" creationid="Melanie" creationdate="20160922T230436Z">
+        <seg>Los autores esperaban que esta nueva orientación ideológica del régimen &lt;t2/&gt;se opusiera&lt;t3/&gt; a la "superstición ideológica" y mantuviera el control. De esa forma, se permitiría un espacio &lt;t4/&gt;suﬁciente&lt;t5/&gt; para la exploración teóretica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19747,8 +19747,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Yang and Wang called together perhaps a dozen young people, and “Realistic Responses” was a summary of their discussions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160921T160457Z" creationid="Melanie" creationdate="20160921T160457Z">
-        <seg>Yang y Wang convocaron a aproximadamente una decena de jóvenes, y el artículo "Respuestas Realistas" constituyó un resumen del debate llevado a cabo.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235818Z" creationid="Melanie" creationdate="20160921T160457Z">
+        <seg>Yang y Wang convocaron a aproximadamente una decena de jóvenes, y el artículo "Respuestas realistas" constituyó un resumen del debate llevado a cabo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20861,8 +20861,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>“Realistic Responses” tried to place itself between two ideological extremes.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pauli" changedate="20160921T235945Z" creationid="pauli" creationdate="20160921T235945Z">
-        <seg>“Respuestas realistas" intentaba situarse en el punto medio entre dos ideologías opuestas.</seg>
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235952Z" creationid="pauli" creationdate="20160921T235945Z">
+        <seg>Este artículo intentaba situarse en el punto medio entre dos ideologías opuestas.</seg>
       </tuv>
     </tu>
     <tu>
