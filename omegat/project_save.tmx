@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1609,8 +1609,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hu Angang and Wang Shaoguang opposed the negotiated relationship between the central government and the provinces (devolving authority and establishing fiscal contracts) because it had led, in their opinion, to the creation of privileged enclaves and vested interests with special privileges.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160925T191103Z" creationid="Magui" creationdate="20160919T223057Z">
-        <seg>&lt;f0&gt;Hu Angang y Wang Shaoguang estaban en contra de la relación que se había negociado entre el gobierno central y las provincias (que delegaba la autoridad y establecía contratos fiscales) porque había desencadenado, en su opinión, que se crearan enclaves privilegiados e intereses con privilegios especiales.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160920T145500Z" creationid="Magui" creationdate="20160919T223057Z">
+        <seg>&lt;f0&gt;Hu Angang y Wang Shaoguang estaban en contra de la relación que se había negociado entre el gobierno central y las provincias (que delegaba la autoridad y establecía contratos fiscales) porque había desencadenado, en su opinión, la creación de enclaves privilegiados y derechos adquiridos con privilegios especiales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17057,8 +17057,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;responded with a series of highly vitriolic and personal attacks on&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu, and the&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Enlightenment Daily&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;ran an article arguing that the zones should be made even more special.&lt;/f13&gt;&lt;f15&gt;20&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;The crux of the responses was (1) that the SEZs were still necessary to introduce and experiment with various forms of man-agement and government–enterprise relations and (2) that Hu’s arguments did not take the realities of China into account, that to eliminate the SEZ’s special role would amount to “contemporary egalitarianism”: “The special zones’ development does not hinder other regions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160925T191209Z" creationid="Magui" creationdate="20160919T232853Z">
-        <seg>El periódico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;respondió con una serie de ataques personales y ponzoñosos hacia&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu y el diario&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Enlightenment Daily&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;publicó un artículo que sostenía que las zonas debían ser todavía más especiales.&lt;/f13&gt;&lt;f15&gt;20&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;Las reacciones tenían dos puntos cruciales. En primer lugar, que las Zonas Económicas Especiales todavía eran necesarias para introducir y experimentar las diversas formas de administración y relaciones entre el gobierno y las empresas y, en segundo lugar, que los argumentos de Hu no tenían en cuenta las realidades de China y que eliminar el rol especial de las Zonas Económicas Especiales llevaría a un "igualitarismo contemporáneo": "El desarrollo de las ZEE no perjudica a las otras regiones.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160925T174727Z" creationid="Magui" creationdate="20160919T232853Z">
+        <seg>El periódico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;respondió con una serie de ataques personales y ponzoñosos hacia&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu y el diario&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Enlightenment Daily&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;publicó un artículo que sostenía que las zonas debían ser todavía más especiales.&lt;/f13&gt;&lt;f15&gt;20&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;La esencia de las reacciones era, en primer lugar, que las Zonas Económicas Especiales todavía eran necesarias para introducir y experimentar las diversas formas de administración y relaciones entre el gobierno y las empresas y, en segundo lugar, que los argumentos de Hu no tenían en cuenta las realidades de China y que eliminar el rol especial de las Zonas Económicas Especiales llevaría a un "igualitarismo contemporáneo": "El desarrollo de las ZEE no perjudica a las otras regiones.</seg>
       </tuv>
     </tu>
     <tu>
