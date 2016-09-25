@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1265,8 +1265,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;The gist of Deng’s talks in Shanghai was summarized in four commen-taries carried in the Shanghai Party paper, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, under the pen name “Huangfu Ping” (which can be translated as “Shanghai Commen-tator”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T215813Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Lo esencial de las charlas de Deng en Shanghai se sintetizó en cuatro columnas de análisis en el diario del Partido de Shanghai &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, bajo el seudónimo “Huangfu Ping” (que se puede traducir como "el cronista de Shanghai”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T222604Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Lo esencial de las charlas de Deng en Shanghai se sintetizó en cuatro columnas de análisis en el diario del partido de Shanghái &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, bajo el seudónimo “Huangfu Ping” (que se puede traducir como "el cronista de Shanghai”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1297,8 +1297,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;persons.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; A third article directly refuted conservative ideologue He Xin’s argument (see Chapter &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) that foreign investment had led to the poverty of the Third World by calling on Shanghai leaders to “courageously take a risk, boldly use foreign capital, and turn Shanghai into a commercial, financial, and information center.”&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T220107Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;sensatas”.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Un tercer artículo refutó directamente el argumento del ideólogo conservador He Xin (ver Capítulo &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) que decía que la inversión extranjera había conducido a la pobreza del Tercer Mundo, al apelar a los líderes de Shanghai a "tomar riesgos con coraje, a utilizar capital extranjero con valentía, y a convertir a Shanghai en un centro comercial, financiero y de información".&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T222650Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;sensatas”.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;11&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Un tercer artículo refutó directamente el argumento del ideólogo conservador He Xin (ver Capítulo &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;) que decía que la inversión extranjera había conducido a la pobreza del Tercer Mundo, al apelar a los líderes de Shanghái a "tomar riesgos con coraje, a utilizar capital extranjero con valentía, y a convertir a Shanghái en un centro comercial, financiero y de información".&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;12&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7159,8 +7159,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For instance, whereas the commu-nique´ adopted by the Party’s Seventh Plenum in December 1990 “highly evaluated” China’s “tremendous achievements” in reform and opening up, it nevertheless went on to stress the “integration of the planned economy with market &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulation&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;” and to repeat such staples of Chen Yun’s economic&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T214931Z">
-        <seg>Por ejemplo, mientras el comunicado adoptado por el Séptimo Plenario del Partido en diciembre de 1990 “evaluó positivamente” los “grandes logros” de China en la reforma y la apertura, enfatizó, sin embargo, la “integración de una economía planificada con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulación del mercado&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;” y reiteró los principios del pensamiento económico de Chen Yun &lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T222509Z">
+        <seg>Por ejemplo, mientras el comunicado adoptado por el Séptimo Plenario del partido en diciembre de 1990 “evaluó positivamente” los “grandes logros” de China en la reforma y la apertura, enfatizó, sin embargo, la “integración de una economía planificada con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;regulación del mercado&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;” y reiteró los principios del pensamiento económico de Chen Yun &lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17209,8 +17209,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Their writing and publication were overseen by Deng’s daughter Deng Nan and Shanghai Party secretary Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; The first commen-tary was published under photographs of Deng Xiaoping, Yang Shangkun, and Li Xiannian conveying lunar New Year’s greetings to Shanghai lead-ers, thus visually emphasizing the authoritative nature of the commentary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T215849Z">
-        <seg>Su escritura y publicación fueron supervisados por la hija de Deng, Deng Nan, y el secretario del Partido de Shanghai Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; La primera columna fue publicada debajo de las fotografías de Deng Xiaoping, Yang Shangkun, y Li Xiannian expresando buenos deseos por el Año Nuevo Lunar a los líderes de Shanghai, enfatizando, de esta manera, el carácter autorizado de este escrito.</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T222621Z">
+        <seg>Su escritura y publicación fueron supervisados por la hija de Deng, Deng Nan, y el secretario del Partido de Shanghai Zhu Rongji.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;9&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; La primera columna fue publicada debajo de las fotografías de Deng Xiaoping, Yang Shangkun, y Li Xiannian expresando buenos deseos por el Año Nuevo Lunar a los líderes de Shanghái, enfatizando, de esta manera, el carácter autorizado de este escrito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21053,8 +21053,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>“If such a state of affairs continues, I have no choice but to go to Shang-hai to issue my articles there.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; So saying, Deng traveled to the east-coast metropolis and proceeded to give a number of talks intended to rekindle reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T215330Z">
-        <seg>“Si esta situación continúa, no me quedará otra opción que ir a Shanghai para publicar mis artículos ahí”.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Dicho esto, Deng viajó a la metrópolis de la costa este y se dedicó a dar una cantidad de charlas con la intención de reavivar la reforma.</seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T222530Z">
+        <seg>“Si esta situación continúa, no me quedará otra opción que ir a Shanghái para publicar mis artículos ahí”.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Dicho esto, Deng viajó a la metrópolis de la costa este y se dedicó a dar una cantidad de charlas con la intención de reavivar la reforma.</seg>
       </tuv>
     </tu>
     <tu>
