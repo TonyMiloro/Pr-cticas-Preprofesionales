@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7657,14 +7657,6 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T163004Z" creationid="Magui" creationdate="20160919T225636Z">
         <seg>También expuso su postura en una conferencia para gobernadores en la Escuela Central del Partido Comunista en junio.&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He also linked domestic class struggle to international class struggle and emphasized that “the ideological arena is an important arena for the struggle between peaceful evolution and anti-peaceful evolution.” Moreover, with regard to economic policy, Jiang emphasized that “large- and medium-sized &lt;t3/&gt;stateowned&lt;t4/&gt; enterprises are the backbone strength of the socialist economy” and that “shaking public ownership of the means of production would shake the economic foundation of socialism and harm the fundamental interests of the whole people, to say nothing of socialism.”34 In short, it was a speech that, despite its bows in a reformist direction, clearly reflected conservative dominance over the overall ideological and policy agenda.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T192814Z" creationid="carolaamiel" creationdate="20160925T192705Z">
-        <seg>Tambien asocio la lucha de clases con la lucha internacional de clases class struggle and emphasized that “the ideological arena is an important arena for the struggle between peaceful evolution and anti-peaceful evolution.” Moreover, with regard to economic policy, Jiang emphasized that “large- and medium-sized &lt;t3/&gt;stateowned&lt;t4/&gt; enterprises are the backbone strength of the socialist economy” and that “shaking public ownership of the means of production would shake the economic foundation of socialism and harm the fundamental interests of the whole people, to say nothing of socialism.”34 In short, it was a speech that, despite its bows in a reformist direction, clearly reflected conservative dominance over the overall ideological and policy agenda.</seg>
       </tuv>
     </tu>
     <tu>
