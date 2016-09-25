@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15989,8 +15989,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The deepening cultural and moral crises suggested that the problem lay not in China’s traditional culture, as adherents of theMay Fourth tradition believed, but rather in the decline of traditional values.&lt;/f0&gt;&lt;f1&gt;22 &lt;/f1&gt;&lt;f2&gt;This understanding was bolstered by the rapid development of Japan and the “four small dragons” with attendant discussions of “Confucian capitalism,” as Western social scientists and Asian commentators alike rediscovered the positive aspects of Confucianism for economic development: the frugality, work ethic, probity, respect for family and education, and acceptance of authority were all seen as reinforcing economic development and even as defining a uniquely Asian path to development.&lt;/f2&gt;&lt;f3&gt;23 &lt;/f3&gt;&lt;f4&gt;In 1991, Ji Xianlin, a well-known scholar of Chinese literature at Beijing University, published an article that looked at the cyclical rise and fall of civilizations and &lt;s5/&gt;concluded that Chinese civilization would rise again.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160925T214510Z" creationid="LENOVO" creationdate="20160925T214510Z">
-        <seg>T.&lt;/f0&gt;&lt;f1&gt;22 &lt;/f1&gt;&lt;f2&gt;This understanding was bolstered by the rapid development of Japan and the “four small dragons” with attendant discussions of “Confucian capitalism,” as Western social scientists and Asian commentators alike rediscovered the positive aspects of Confucianism for economic development: the frugality, work ethic, probity, respect for family and education, and acceptance of authority were all seen as reinforcing economic development and even as defining a uniquely Asian path to development.&lt;/f2&gt;&lt;f3&gt;23 &lt;/f3&gt;&lt;f4&gt;In 1991, Ji Xianlin, a well-known scholar of Chinese literature at Beijing University, published an article that looked at the cyclical rise and fall of civilizations and &lt;s5/&gt;concluded that Chinese civilization would rise again.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160925T215034Z" creationid="LENOVO" creationdate="20160925T214510Z">
+        <seg>Las crecientes crisis culturales y morales señalaron que el problema no radicaba en la cultura tradicional de China,como adherentes de la tradición del 4 de Mayo creían,sino en el deterioro de los valores tradicionales.&lt;/f0&gt;&lt;f1&gt;22 &lt;/f1&gt;&lt;f2&gt;Este entendimiento estaba reforzado por el rápido desarrollo de Japón y "Los cuatro Dragones", con debates sobre el "Capitalismo Confunciano".&lt;/f2&gt;&lt;f3&gt;23 &lt;/f3&gt;&lt;f4&gt;In 1991, Ji Xianlin, a well-known scholar of Chinese literature at Beijing University, published an article that looked at the cyclical rise and fall of civilizations and &lt;s5/&gt;concluded that Chinese civilization would rise again.</seg>
       </tuv>
     </tu>
     <tu>
