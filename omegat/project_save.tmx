@@ -2367,6 +2367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;6&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T124454Z" creationid="Flor" creationdate="20160926T124454Z">
+        <seg>&lt;t1/&gt;&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t105/&gt;They also contrasted wi&lt;t106/&gt;th Jiang &lt;t107/&gt;Zemin’s &lt;t108/&gt;absence from the &lt;t109/&gt; &lt;t110/&gt;media.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160920T203603Z" creationid="Flor" creationdate="20160920T203603Z">
