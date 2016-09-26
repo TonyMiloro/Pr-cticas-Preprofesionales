@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18193,8 +18193,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These intellectuals either stayed in theWest, taking up university or other positions, or returned to China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T140841Z" creationid="Edgardo" creationdate="20160926T140841Z">
-        <seg>Estos intelectuales se quedaban en Occidente, .</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T141128Z" creationid="Edgardo" creationdate="20160926T140841Z">
+        <seg>Estos intelectuales se quedaban en Occidente, y aceptaban puestos universitarios, u otros puestos,  .</seg>
       </tuv>
     </tu>
     <tu>
