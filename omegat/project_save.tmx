@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9008,8 +9008,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If there was a premise underlying neoconservativism, it was that China would be able to outgrow the social and political tensions that had underlain Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T222509Z" creationid="pibe bazooka" creationdate="20160913T222013Z">
-        <seg>La premisa del neoconservadurismo, de haberla, era que China tenía la capacidad de superar los conflictos sociales y políticos que desataron el conflicto en Tiananmen .</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T202647Z" creationid="pibe bazooka" creationdate="20160913T222013Z">
+        <seg>La premisa del neoconservadurismo, de haberla, era que China sería capaz de superar los conflictos sociales y políticos que habían desatado el conflicto en Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
