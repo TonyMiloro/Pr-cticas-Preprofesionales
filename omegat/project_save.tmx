@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17088,8 +17088,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The silence and general irrelevance of the intellectual community in the wake of Tiananmen contrasted vividly with the turmoil among the political elite.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T013506Z" creationid="rona" creationdate="20160926T013506Z">
-        <seg>El silencio y la irrelevancia general de la comunidad intelectual en el despertar de Tiananmén .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T013857Z" creationid="rona" creationdate="20160926T013506Z">
+        <seg>El silencio y la irrelevancia general de la comunidad intelectual en el despertar de Tiananmén contrastaba vívidamente con la agitación entre la élite política.</seg>
       </tuv>
     </tu>
     <tu>
