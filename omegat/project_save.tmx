@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21132,8 +21132,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhang argues that humanism contains within it the anti-humanist values that became the basis of colonialism and culminated in the Holocaust: “The evil perpetuated on the Jews under German fascism was the inevitable [result] of the logical development of enlightenment discourse; it returned the anti-humanist practice hidden in the humanist faith from the colonies back to Europe.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T174939Z" creationid="ROMI" creationdate="20160926T174939Z">
-        <seg>Zhang argumenta que el humanismo contiene dentro de él valores antihumanistas los cuales se convertian en la base del colonialismo y culminaba en el Holocausto: "La maldad</seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T175330Z" creationid="ROMI" creationdate="20160926T174939Z">
+        <seg>Zhang argumenta que el humanismo contiene dentro de él valores antihumanistas los cuales se convertian en la base del colonialismo y culminaba en el Holocausto: "La maldad que perpetua en los judios bajo el fascismo alemán era el resultado inevitable del dearrollo lógico del discurso de la Ilustración, le devolvió la práctica antihumanista escondida en la fe humanista desde las colonias de vuelta hacia Europa".</seg>
       </tuv>
     </tu>
     <tu>
