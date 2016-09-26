@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11333,8 +11333,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was widely believed that America was perfectly happy to watch Russia and the other republics of the former Soviet Union fall into a position from which</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T230024Z" creationid="Edgardo" creationdate="20160926T225109Z">
-        <seg>Se creía ampliamente que América estaba muy feliz de ver a Rusia y a las otras repúblicas de la ex Unión Soviética caer en una posición de la cual </seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T230619Z" creationid="Edgardo" creationdate="20160926T225109Z">
+        <seg>Se creía ampliamente que Estados Unidos estaba muy feliz de ver a Rusia y a las otras repúblicas de la ex Unión Soviética caer en una posición de la cual </seg>
       </tuv>
     </tu>
     <tu>
