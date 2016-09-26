@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16255,6 +16255,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T044907Z" creationid="Candelaria" creationdate="20160921T044054Z">
         <seg>La Comisión de Producción del Consejo del Estado incorporó oficinas que alguna vez pertenecieron al SEC, incluyendo el control de la producción y los departamentos de transformación tecnológica, que habían sido ubicados bajo el control del SPC, y la Oficina de Administración de Empresa, que había sido asignada a la Comisión de Resstructuración Económica del Estado.64 más que reestablecer el SEC, que muchas veces actuó como un vocero para los intereses de la industria y tuvoenfrentamientos con más conservadores de la SPC, la nueva Comisión de Producción de Consejo del Estadotenía intenciones claras de sersubordinado al del SPC. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Third Plenary Session of the Sixteenth Central Committee marked an important turning point.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T135427Z" creationid="Flor" creationdate="20160926T135427Z">
+        <seg>La III Sesión Plenaria del XVI Comité Central dio una importante vuelta de tuerca.</seg>
       </tuv>
     </tu>
     <tu>
