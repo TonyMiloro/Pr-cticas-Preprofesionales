@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4427,8 +4427,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Behind [the divisions] there still existed a common ideological platform [&lt;/f2&gt;&lt;f4&gt;sixiang pingtai&lt;/f4&gt;&lt;f5&gt;], namely enlightenment discourse.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T035231Z" creationid="Edgardo" creationdate="20160926T035016Z">
-        <seg>Detrás de [las divisiones] aún existía una plataforma ideológica en común  [&lt;/f2&gt;&lt;f4&gt;sixiang pingtai&lt;/f4&gt;&lt;f5&gt;], en concreto, .</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T035434Z" creationid="Edgardo" creationdate="20160926T035016Z">
+        <seg>Detrás de [las divisiones] aún existía una plataforma ideológica en común  [&lt;/f2&gt;&lt;f4&gt;sixiang pingtai&lt;/f4&gt;&lt;f5&gt;], en concreto, el discurso de la Ilustración.</seg>
       </tuv>
     </tu>
     <tu>
