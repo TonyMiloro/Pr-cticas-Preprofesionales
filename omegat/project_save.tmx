@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1375,6 +1375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Although Jiang chose caution in the fall of &lt;/f0&gt;&lt;f1&gt;1996&lt;/f1&gt;&lt;f2&gt;, he and his advisers were clearly exploring alternative approaches at the same time.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T014427Z" creationid="Nuevo" creationdate="20160926T014427Z">
+        <seg>&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;A pesar de que en otoño de 1996 Jiang eligió ser cauto, al mismo tiempo, él y sus asesores estaban claramente explorando enfoques alternativos.&lt;/f1&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Although such advocates did not carry the day, their views certainly influenced China’s top leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T143654Z">
@@ -1787,6 +1795,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T012430Z" creationid="marcelo lavarda" creationdate="20160915T234011Z">
         <seg>Qiao, con mayor popularidad que Jiang Zemin enntre los peces gordos de Shanghái a fines de la década de los cuarenta, desafiaba con frecuencia a Jiang en asuntos de reforma. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;R&lt;/f0&gt;&lt;f1&gt;EVIVING REFORM&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T014339Z" creationid="Nuevo" creationdate="20160926T014339Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Reestablecimiento de la reforma&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
