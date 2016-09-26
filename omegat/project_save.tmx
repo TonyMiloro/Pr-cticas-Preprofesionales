@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19531,8 +19531,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Was reform, as Party documents repeatedly proclaimed, about the “self-perfection” of socialism or was reform leading China away from socialism?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T020454Z" creationid="rona" creationdate="20160926T015831Z">
-        <seg>¿La reforma se trataba acerca del perfeccionamiento del socialismo, como se proclamaba repetidas veces en los documentos del partido, o se trataba de  </seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T020743Z" creationid="rona" creationdate="20160926T015831Z">
+        <seg>¿La reforma se trataba acerca del perfeccionamiento del socialismo, como se proclamaba repetidas veces en los documentos del partido, o se trataba de alejar a China del socialismo?.</seg>
       </tuv>
     </tu>
     <tu>
