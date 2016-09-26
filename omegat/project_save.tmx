@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9649,6 +9649,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T140553Z" creationid="Lucrecia" creationdate="20160913T140553Z">
         <seg>En otras palabras, la corrupción (la corrupción masiva) formó una gran parte de la historia de la redistribución de ingresos en 1990.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, the only member of the CMC, other than Jiang Zemin, &lt;t119/&gt;not &lt;t120/&gt;to attend the forum was &lt;t121/&gt;Hu &lt;t122/&gt;Jintao &lt;t123/&gt;– &lt;t124/&gt;whose name was not mentioned in the various &lt;t125/&gt; &lt;t126/&gt;reports.&lt;t127/&gt;55</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T132222Z" creationid="Flor" creationdate="20160926T132222Z">
+        <seg>&lt;t119/&gt;Dicho de otra forma, el único miembro de la CMC, con excepción de Jiang Zemin, que no asistió al foro fue Hu Jintao, cuyo nombre se omitió en varios informes.&lt;t120/&gt;&lt;t121/&gt; &lt;t122/&gt; &lt;t123/&gt; &lt;t124/&gt;&lt;t125/&gt; &lt;t126/&gt;&lt;t127/&gt;</seg>
       </tuv>
     </tu>
     <tu>
