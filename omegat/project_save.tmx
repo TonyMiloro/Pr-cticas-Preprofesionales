@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12141,6 +12141,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many believed that it should not.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T142555Z" creationid="rona" creationdate="20160926T142555Z">
+        <seg>Muchos creían que no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many conservative Party elders – including Li &lt;t0/&gt;Xiannian&lt;t1/&gt;, Hu &lt;t2/&gt;Qiaomu&lt;t3/&gt;, Wang &lt;t4/&gt;Renzhong&lt;t5/&gt;, and Chen Yun – had died.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T184925Z">
@@ -17551,10 +17559,18 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The question of the content of reform – or, in Chinese jargon, the political line – was related to a &lt;s0/&gt;number of &lt;s1/&gt;state–society questions: the relations between the central government and the localities, the rapidly changing social structure of Chinese society (including the emergence of a &lt;f2&gt;nouveau&lt;/f2&gt; &lt;f3&gt;riche&lt;/f3&gt; class, the growing independence of the intellectual elite, and the rising expectations of society), and the very real fears of many people that reform might hurt rather than help their interests.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T142747Z" creationid="rona" creationdate="20160926T142747Z">
+        <seg>La pregunta sobre el contenido de la reforma, o en jerga china, la línea pollítica,  &lt;s0/&gt;number of &lt;s1/&gt;state–society questions: the relations between the central government and the localities, the rapidly changing social structure of Chinese society (including the emergence of a &lt;f2&gt;nouveau&lt;/f2&gt; &lt;f3&gt;riche&lt;/f3&gt; class, the growing independence of the intellectual elite, and the rising expectations of society), and the very real fears of many people that reform might hurt rather than help their interests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The question thrown open by Tiananmen, then, was the nature of Deng’s leadership and thus whether or not the Party should continue reform as it had been deﬁned by Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T142422Z" creationid="rona" creationdate="20160926T141800Z">
-        <seg>La pregunta sobre Tiananmén que permanecia abierta, fue luego la naturaleza del liderazgo de Deng y, por consiguiente, en si el partido debería continuar la reforma como  .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T142540Z" creationid="rona" creationdate="20160926T141800Z">
+        <seg>La pregunta sobre Tiananmén que permanecia abierta fue luego la naturaleza del liderazgo de Deng y, por consiguiente, en si el partido debería continuar la reforma como venía siendo definida por Deng.</seg>
       </tuv>
     </tu>
     <tu>
