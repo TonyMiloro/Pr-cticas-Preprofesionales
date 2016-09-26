@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15562,8 +15562,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Socially, growing income inequality, corruption, and worsening relations between cadres and peasants were generating growing numbers of social conflicts and petitions to higher levels.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T221352Z" creationid="pibe bazooka" creationdate="20160913T220656Z">
-        <seg>Desde el punto de vista social, la creciente desigualdad de ingresos, corrupción y el deterioro de las relaciones entre dirigentes y campesinos comenzaban a multiplicar los conflictos sociales y las demandas.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T202416Z" creationid="pibe bazooka" creationdate="20160913T220656Z">
+        <seg>Desde el punto de vista social, la creciente desigualdad de ingresos, corrupción y el deterioro de las relaciones entre cuadros políticos y campesinos comenzaban a multiplicar los conflictos sociales y las demandas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16510,8 +16510,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The Three Represents jettisoned notions of class conflict, but it inspired much cynicism as it looked &lt;t0/&gt;to&lt;t1/&gt; many as transparent cover for solidifying the place of an emerging bureaucratic capitalist class.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T220517Z" creationid="pibe bazooka" creationdate="20160913T220038Z">
-        <seg>La Triple Representatividad descartó toda noción de lucha de clases, pero devino en gran cinismo ya que para muchos&lt;t0/&gt;parecía&lt;t1/&gt; un velo sobre el cual podían solidificarse los cimientos de una clase burocrática capitalista emergente .</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T202311Z" creationid="pibe bazooka" creationdate="20160913T220038Z">
+        <seg>La Triple Representatividad descartó toda noción de lucha de clases, pero devino en gran cinismo ya que para muchos &lt;t0/&gt;parecía&lt;t1/&gt; una forma de encubrir la solidificación de una clase burocrática capitalista emergente.</seg>
       </tuv>
     </tu>
     <tu>
