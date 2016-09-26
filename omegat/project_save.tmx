@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8826,6 +8826,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T134927Z" creationid="LENOVO" creationdate="20160926T134812Z">
         <seg>Si discusiones entre Estados Unidos y otros países de Occidente en los '80 eran superficiales,&lt;s12/&gt;era porque el foco no era entender como estos sistemas funcionaban sino proveer de un punto de apoyo para criticar las fallas del sistema chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If globalization and commercialization were two major economic and social phenomena sweeping across the landscape in the early 1990s, a new &lt;/f0&gt;&lt;f1&gt;willingness (some might say eagerness) to reflect on the failings of reform &lt;/f1&gt;&lt;f2&gt;was another.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T145037Z" creationid="Edgardo" creationdate="20160926T145037Z">
+        <seg> &lt;/f0&gt;&lt;f1&gt;willingness (some might say eagerness) to reflect on the failings of reform &lt;/f1&gt;&lt;f2&gt;was another.</seg>
       </tuv>
     </tu>
     <tu>
