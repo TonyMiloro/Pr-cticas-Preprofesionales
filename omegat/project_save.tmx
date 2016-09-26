@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2893,6 +2893,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160921T005127Z" creationid="Usuario" creationdate="20160921T004727Z">
         <seg>Después de todo, la pornografía estaba relacionada con las influencias Occidentales, pero dificilmente planteaba los problemas ideológicos centrales que los conservadores deseaban perseguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After giving due deference to Jiang Zemin, &lt;t0/&gt;Hu &lt;t1/&gt;elaborated his ideas around&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;theme&lt;t6/&gt; &lt;t7/&gt;of&lt;t8/&gt; &lt;t9/&gt;“building&lt;t10/&gt; &lt;t11/&gt;a&lt;t12/&gt; &lt;t13/&gt;Party&lt;t14/&gt; &lt;t15/&gt;that&lt;t16/&gt; &lt;t17/&gt;s&lt;t18/&gt;erves&lt;t19/&gt; &lt;t20/&gt;the&lt;t21/&gt; &lt;t22/&gt;interests&lt;t23/&gt; &lt;t24/&gt;of&lt;t25/&gt; &lt;t26/&gt;the&lt;t27/&gt; &lt;t28/&gt;public &lt;t29/&gt;and&lt;t30/&gt; &lt;t31/&gt;g&lt;t32/&gt;o&lt;t33/&gt;v&lt;t34/&gt;erns&lt;t35/&gt; &lt;t36/&gt;for&lt;t37/&gt; &lt;t38/&gt;the&lt;t39/&gt; &lt;t40/&gt;peopl&lt;t41/&gt;e&lt;t42/&gt;”&lt;t43/&gt; &lt;t44/&gt;(&lt;t45/&gt;lidang&lt;t46/&gt; &lt;t47/&gt;w&lt;t48/&gt;eigong,&lt;t49/&gt; &lt;t50/&gt;zhizheng&lt;t51/&gt; &lt;t52/&gt;w&lt;t53/&gt;eimi&lt;t54/&gt;n&lt;t55/&gt;),&lt;t56/&gt; &lt;t57/&gt;a&lt;t58/&gt; &lt;t59/&gt;phrase &lt;t60/&gt;originally introduced by Jiang in his July &lt;t61/&gt;1&lt;t62/&gt;, &lt;t63/&gt;2001 &lt;t64/&gt;speech, but which &lt;t65/&gt;Hu &lt;t66/&gt;emphasized by repeating ten times.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T130840Z" creationid="Flor" creationdate="20160926T130840Z">
+        <seg>&lt;t0/&gt;Luego de mostrar el debido respeto a Jiang Zemin, Hu desarrolló sus ideas en torno a “construir un partido que responda a los intereses del pueblo y gobierne para el pueblo” (lidang weigong, zhizheng weimin), una frase que fue introducida originalmente por Jiang en su discurso del 1 de julio del 2001 pero que Hu enfatizó diez veces durante su discurso.  &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;&lt;t25/&gt; &lt;t26/&gt;&lt;t27/&gt; &lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt; &lt;t36/&gt;&lt;t37/&gt; &lt;t38/&gt;&lt;t39/&gt; &lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt; &lt;t44/&gt;&lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt;&lt;t48/&gt;&lt;t49/&gt; &lt;t50/&gt;&lt;t51/&gt; &lt;t52/&gt;&lt;t53/&gt;&lt;t54/&gt;&lt;t55/&gt;&lt;t56/&gt; &lt;t57/&gt;&lt;t58/&gt; &lt;t59/&gt; &lt;t60/&gt;&lt;t61/&gt;&lt;t62/&gt;&lt;t63/&gt;&lt;t64/&gt;&lt;t65/&gt;&lt;t66/&gt;</seg>
       </tuv>
     </tu>
     <tu>
