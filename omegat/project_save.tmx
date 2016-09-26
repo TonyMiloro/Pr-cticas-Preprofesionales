@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8559,8 +8559,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1943, the Party recognized Mao’s unique status by declaring that he would have the decisive vote even if his colleagues on the Secretariat (the equivalent of the later Politburo) disagreed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T024354Z">
-        <seg>En 1943, el partido reconoció su posición única al declarar que él tendría el voto decisivo aunque los miembros de la Secretaría (más tarde Politburo) no estuvieran de acuerdo.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T005746Z">
+        <seg>En 1943, el partido reconoció su posición única al declarar que él tendría el voto decisivo aunque los miembros del Secretariado (más tarde Politburó) no estuvieran de acuerdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8839,8 +8839,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In June 1989, a shaken and divided Party leadership tried to begin the process of reconstituting itself while sorting out how its domestic and foreign policies should or should not be changed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T015546Z">
-        <seg>En junio de 1989, el liderazgo de un partido sacudido y dividido trataba de comenzar el proceso de reconstitución mientras intentaban definir cómo debían o no cambiar las políticas internas y externas.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T005537Z">
+        <seg>En junio de 1989, el liderazgo de un partido sacudido y dividido trataba de comenzar el proceso de reconstitución mientras intentaban definir cómo debían o no cambiar las políticas internas y exteriores.</seg>
       </tuv>
     </tu>
     <tu>
