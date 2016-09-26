@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1409,8 +1409,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;As Wang Huning’s argument suggests, many in China saw Huntington’s thesis from the perspective of ongoing discussions of “Orientalism,” believ-ing that there was a need to strengthen Chinese culture in order to meet the challenge of the clash of civilizations.&lt;/f0&gt;&lt;f1&gt;41&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Others sought to meet this chal-lenge by bolstering Chinese culture with nationalism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160925T223035Z" creationid="Usuario" creationdate="20160922T222046Z">
-        <seg>&lt;f0&gt;Como sugieren los argumentos de Wang Huning, muchas personas en China veían la tesis de Huntington desde la perspectiva de los debates en curso sobre "Orientalismo" y creían que existía la necesidad de fortalecer la cultura china para cumplir con el desafío del choque de civilizaciones&lt;/f0&gt;&lt;f1&gt;41&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;. Otros buscaban cumplir este desafío al reforzar la cultura china con nacionalismo.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T001249Z" creationid="Usuario" creationdate="20160922T222046Z">
+        <seg>&lt;f0&gt;Como sugieren los argumentos de Wang Huning, muchos en China veían la tesis de Huntington desde la perspectiva de los debates en curso sobre "Orientalismo" y creían que existía la necesidad de fortalecer la cultura china para cumplir con el desafío del choque de civilizaciones&lt;/f0&gt;&lt;f1&gt;41&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;. Otros buscaban cumplir este desafío al reforzar la cultura china con nacionalismo.</seg>
       </tuv>
     </tu>
     <tu>
