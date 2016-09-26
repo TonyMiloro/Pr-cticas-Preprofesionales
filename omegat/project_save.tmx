@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5475,8 +5475,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Chinese intellectuals would re-emerge in a very different society, and their reactions to the surrounding socioeconomic and political events polarized them in a way not apparent in the 1980s or even, perhaps, before.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160925T232016Z" creationid="rona" creationdate="20160925T231249Z">
-        <seg>Los intelectuales chinos resurgirían a una sociedad muy distinta, y sus reacciones ante los eventos socioeconómicos y políticos circundantes los polarizaron de una forma que no era aparante en 1980 o incluso, tal vez, antes.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T013232Z" creationid="rona" creationdate="20160925T231249Z">
+        <seg>Los intelectuales chinos resurgirían en una sociedad muy distinta, y sus reacciones ante los eventos socioeconómicos y políticos circundantes los polarizaron de una forma que no era aparante en 1980 o incluso, tal vez, antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17082,6 +17082,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T161307Z">
         <seg>rEl ataque más ácido entre ellos, y sobre todo a Deng, fue el artículo de opinión en el diario conservador Contemporary Trends (Dangfai sichao) que fue publicado poco después in el People´s Daily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The silence and general irrelevance of the intellectual community in the wake of Tiananmen contrasted vividly with the turmoil among the political elite.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T013506Z" creationid="rona" creationdate="20160926T013506Z">
+        <seg>El silencio y la irrelevancia general de la comunidad intelectual en el despertar de Tiananmén .</seg>
       </tuv>
     </tu>
     <tu>
