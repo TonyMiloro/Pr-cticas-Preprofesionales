@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10339,6 +10339,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234939Z" creationid="Melanie" creationdate="20160919T232603Z">
         <seg>En este &lt;t0/&gt;filme&lt;t1/&gt;, el suelo seco, árido y agotado (como la cultura) del noroeste (la cuna de la civilización china) se contrasta con la fertilidad, el dinamismo y la apertura del mar azul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this regard, Zhang is critical both of contem-porary manifestations of Orientalism in China and of the broader enlight-enment tradition in modern Chinese thinking.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T153024Z" creationid="ROMI" creationdate="20160926T153024Z">
+        <seg>Con respecto a esto, Zhang</seg>
       </tuv>
     </tu>
     <tu>
