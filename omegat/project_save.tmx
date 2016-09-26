@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21070,6 +21070,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T164523Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang argues that their success is built on pandering to Western images of China; they have, he says, “used some fantastic and unreasonable things to make Westerners feel stimulated, intoxicated, or nauseated, to make West-ern audiences or readers feel what aesthetics call ‘sublime’ [chonggaogan] and compassionate and to have a sense of racial and cultural superiority [zhongzuwenhuashangdeyouyuegan].</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T163638Z" creationid="ROMI" creationdate="20160926T163333Z">
+        <seg>Zhang argumenta que sus éxitos se basan en consentir la imágenes Occidentales de China. Él dice que ellos han usado algunas cosas fantásticas e irracionales para hacer que los Occidentales se sientan estimulados, intoxicados o asqueados, para hacer que el público o los lectores occidentales sientan lo que los estéticos llaman "sublime" [chonggaogan] </seg>
       </tuv>
     </tu>
     <tu>
