@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16195,8 +16195,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>That this explosion of anti-American anger came a month before the tenth&lt;t0/&gt; &lt;t1/&gt;anniversary of the Tiananmen crackdown was certainly a plus from the&lt;t2/&gt; &lt;t3/&gt;Party’s point of view.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T024029Z" creationid="Jesica" creationdate="20160914T023705Z">
-        <seg>que esta explosión de enojo anti americano surgió un mes antes del décimo aniversario de las médidas energéticas de Tiananmén fue sin duda un plus para el punto de vista del partido </seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205100Z" creationid="Jesica" creationdate="20160914T023705Z">
+        <seg>Esta explosión de enojo anti americano que surgió un mes antes del décimo aniversario de las médidas energéticas de Tiananmén fue sin duda un plus para el punto de vista del partido </seg>
       </tuv>
     </tu>
     <tu>
@@ -17737,8 +17737,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The reaction in China was extraordinary because it was the first time&lt;t0/&gt; &lt;t1/&gt;since1949 that elite politics, bureaucratic interests, intellectual opinion, and&lt;t2/&gt; &lt;t3/&gt;broader (but still urban) public opinion came together to oppose the official&lt;t4/&gt; &lt;t5/&gt;position on an important foreign policy issue.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160915T150200Z" creationid="Jesica" creationdate="20160915T150200Z">
-        <seg>Esta reaccion en China fue extraordinaria porquen fue la primera vez desde 1949 que una politica élitaria, intereses burocráticos, opiniones intelectuales, y una amplia (pero aun urbana) opinion publica se unió para oponerse a la posición oficial en una importante cuestion politica del exterior.</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205147Z" creationid="Jesica" creationdate="20160915T150200Z">
+        <seg>Esta reaccion en China fue extraordinaria porquen fue la primera vez desde 1949 que una politica élitaria, intereses burocráticos, opiniones intelectuales, y una amplia (pero aun urbana) opinion publica se unieron para oponerse a la posición oficial en una importante cuestion politica del exterior.</seg>
       </tuv>
     </tu>
     <tu>
