@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5611,8 +5611,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>China did remarkably well in the 1990s and into the new century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160912T203036Z" creationid="pibe bazooka" creationdate="20160912T203036Z">
-        <seg>La condición de China fue óptima durante los 90´ y a principios del nuevo siglo.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T195552Z" creationid="pibe bazooka" creationdate="20160912T203036Z">
+        <seg>La condición de China fue óptima durante la década de los 90 y a principios del nuevo siglo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6613,8 +6613,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite his early diatribes against “peaceful evolution” (and his continuing warnings of “hostile” efforts to “divide” China and “Westernize” it), Jiang presided over a remarkable improvement in China’s diplomatic position, led China into the WTO, and deflected the pressures that stemmed from the Asian financial crisis.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160912T205720Z" creationid="pibe bazooka" creationdate="20160912T205125Z">
-        <seg>A pesar de sus intentos de censurar "la evolución pacífica" y sus constantes advertencias sobre los intentos "hostiles" de "dividir" China y "Occidentalizarla", Jiang logró llevar a cabo reformas importantes en la posición diplomática de China, colocó al país dentro de la OMC y pudo esquivar los embates de las crisis financieras de Asia.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T195846Z" creationid="pibe bazooka" creationdate="20160912T205125Z">
+        <seg>A pesar de sus intentos de censurar "la evolución pacífica" (y sus constantes advertencias sobre los intentos "hostiles" de "dividir" China y "Occidentalizarla"), Jiang logró llevar a cabo mejoras significativas en la posición diplomática de China, colocó al país dentro de la OMC y pudo esquivar los embates de la crisis financiera de Asia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8864,8 +8864,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If Jiang never captured people’s imagination, and, indeed, tended to alienate many with his over-the-top personality and windy speeches, he nevertheless performed considerably better in office than any dared hope when he moved to Beijing in those dark days after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T160527Z" creationid="pibe bazooka" creationdate="20160912T211949Z">
-        <seg>Jiang jamás logró atraer la imaginación del pueblo y de hecho, atinó a marginalizar a muchos con su personalidad exagerada y sus discursos verborrágicos; sin embargo, su desempeño fue mucho mejor de lo que se hubiera esperado cuando se mudó a Beijing en esos días oscuros que siguieron a la masacre de Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T200518Z" creationid="pibe bazooka" creationdate="20160912T211949Z">
+        <seg>Jiang jamás logró atraer la imaginación del pueblo y de hecho, atinó a marginalizar a muchos con su personalidad exagerada y sus discursos verborrágicos; sin embargo, el desempeño en su función fue mucho mejor de lo que se hubiera esperado cuando se mudó a Beijing en esos días oscuros que siguieron a la masacre de Tiananmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18938,8 +18938,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This move pushed the Party definitively away from atavistic ideological ideas and toward – but not to – the idea of a “party of the whole people” (as much as Chinese ideologues tried to deny it) and closer to global norms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160912T211622Z" creationid="pibe bazooka" creationdate="20160912T210640Z">
-        <seg>Tal maniobra provocó que el Partido desechara por completo ideologías arcaicas y considerara la idea de un "partido de todo el pueblo", no así adoptarla por completo (algo que muchos ideólogos chinos intentaron negar), y que así también alcanzara condiciones globales .</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T200211Z" creationid="pibe bazooka" creationdate="20160912T210640Z">
+        <seg>Tal maniobra provocó que el Partido desechara por completo ideologías arcaicas y considerara la idea de un "partido para todos los ciudadanos", no así adoptarla por completo (algo que muchos ideólogos chinos intentaron negar), y que así también alcanzara condiciones globales .</seg>
       </tuv>
     </tu>
     <tu>
