@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20620,8 +20620,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Whereas reformers in the 1980s could look to the old system as the negative image they wanted to escape and to the West as holding out solutions they wanted to move toward, by the 1990s there was less certainty about the goal of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T165236Z" creationid="Edgardo" creationdate="20160926T164152Z">
-        <seg>Mientras que los reformadores en la década de los 80 podían recurrir al viejo sistema para ver la imagen negativa de la cual querían escapar, y también podían recurrir a Occidente para ofrecer soluciones a las cuales querían acercarse.</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T165445Z" creationid="Edgardo" creationdate="20160926T164152Z">
+        <seg>Mientras que los reformadores en la década de los 80 podían recurrir al viejo sistema para ver la imagen negativa de la cual querían escapar, y también podían recurrir a Occidente que ofrecía soluciones a las cuales querían acercarse, en la décadad .</seg>
       </tuv>
     </tu>
     <tu>
