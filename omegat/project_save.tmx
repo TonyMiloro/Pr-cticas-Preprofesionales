@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11413,8 +11413,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang Zemin may not have presided over political reform, but he took considerable pride in leading &lt;t0/&gt;China through the crises of the early 1990s, through the Asian financial crisis, and into the front ranks of economic powers in the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T195141Z" creationid="pibe bazooka" creationdate="20160912T202655Z">
-        <seg>Tal vez Jiang Zemin no haya estado al mando de una reforma política, pero sí se enorgulleció en gran medida de conducir &lt;t0/&gt; China a través de la crisis de principios de los 90´ y de las crisis financieras de Asia,  y de colocar al país dentro de las primeras potencias económicas del mundo .</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T195520Z" creationid="pibe bazooka" creationdate="20160912T202655Z">
+        <seg>Tal vez Jiang Zemin no haya estado al mando de una reforma política, pero sí se enorgulleció en gran medida de haber conducido a &lt;t0/&gt; China a través de la crisis de principios de la década de los 90 y de la crisis financiera de Asia, y de haber colocado al país entre las primeras potencias económicas del mundo.</seg>
       </tuv>
     </tu>
     <tu>
