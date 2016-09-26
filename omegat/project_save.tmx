@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14352,8 +14352,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>People began talking darkly about the “Latin American disease” – great gaps between rich and poor and stagnating growth after early promise.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160926T204816Z">
-        <seg>Se comenzó entonces a hablar  con pesimismo sobre "el sídrome de Latinoamérica", la gran brecha entre ricos y pobres, y del crecimiento estancado.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T205518Z" creationid="pibe bazooka" creationdate="20160913T225946Z">
+        <seg>Se comenzó entonces a hablar con pesimismo sobre "el sídrome de Latinoamérica", la gran brecha entre ricos y pobres, y del crecimiento estancado, contrario a lo que se esperaba inicialmente.</seg>
       </tuv>
     </tu>
     <tu>
