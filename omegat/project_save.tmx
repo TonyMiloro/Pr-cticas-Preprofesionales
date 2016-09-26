@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8225,6 +8225,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011727Z">
         <seg>Por consiguiente, él era considerado aceptable para las figuras destacadas en el Partido, y eso se lo consideraba como una característica importante para el liderazgo.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He&lt;t69/&gt; &lt;t70/&gt;did&lt;t71/&gt; &lt;t72/&gt;so&lt;t73/&gt; &lt;t74/&gt;by&lt;t75/&gt; &lt;t76/&gt;never&lt;t77/&gt; &lt;t78/&gt;directly&lt;t79/&gt; &lt;t80/&gt;challenging&lt;t81/&gt; &lt;t82/&gt;Jiang’s&lt;t83/&gt; &lt;t84/&gt;legacy,&lt;t85/&gt; &lt;t86/&gt;preferring&lt;t87/&gt; &lt;t88/&gt;instead&lt;t89/&gt; &lt;t90/&gt;to</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T135136Z" creationid="Flor" creationdate="20160926T135136Z">
+        <seg>&lt;t69/&gt;Hu nunca desafió directamente el legado de Jiang, en cambio prefirió reformularlo.&lt;t70/&gt;&lt;t71/&gt;&lt;t72/&gt;&lt;t73/&gt;&lt;t74/&gt;&lt;t75/&gt;&lt;t76/&gt;&lt;t77/&gt;&lt;t78/&gt;&lt;t79/&gt;&lt;t80/&gt;&lt;t81/&gt;&lt;t82/&gt;&lt;t83/&gt; &lt;t84/&gt;&lt;t85/&gt; &lt;t86/&gt;&lt;t87/&gt; &lt;t88/&gt;&lt;t89/&gt; &lt;t90/&gt;</seg>
       </tuv>
     </tu>
     <tu>
