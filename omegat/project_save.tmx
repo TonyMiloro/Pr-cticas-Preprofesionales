@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4115,8 +4115,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As we have&lt;t16/&gt; &lt;t17/&gt;seen, he quickly elevated the SETC above other bureaucratic interests; he&lt;t18/&gt; &lt;t19/&gt;also undercut the authority of the various vice-premiers – including Li&lt;t20/&gt; &lt;t21/&gt;Lanqing&lt;t22/&gt;, who had good relations with both Jiang &lt;t23/&gt;Zemin&lt;t24/&gt; and Li &lt;t25/&gt;Peng&lt;t26/&gt; and&lt;t27/&gt; &lt;t28/&gt;had been touted as a possible candidate for premier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160903T210835Z">
-        <seg>Como hemos &lt;t16/&gt; &lt;t17/&gt;visto, rápidamente le dio más importance a el SETC que a otros intereses burocráticos; &lt;t18/&gt; &lt;t19/&gt;también debilitó la autoridad de los vice-ministros, incluído Li&lt;t20/&gt; &lt;t21/&gt;Lanqing&lt;t22/&gt;, que tenían buena relación con Jiang &lt;t23/&gt;Zemin&lt;t24/&gt; y Li &lt;t25/&gt;Peng&lt;t26/&gt; y&lt;t27/&gt; &lt;t28/&gt;que fueron propuestos como posibles candidatos a primer ministro.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T131023Z">
+        <seg>Como hemos &lt;t16/&gt; &lt;t17/&gt;visto, rápidamente le dio más importancia a el SETC que a otros intereses burocráticos; &lt;t18/&gt; &lt;t19/&gt;también debilitó la autoridad de los vice-ministros, incluído Li&lt;t20/&gt; &lt;t21/&gt;Lanqing&lt;t22/&gt;, que tenían buena relación con Jiang &lt;t23/&gt;Zemin&lt;t24/&gt; y Li &lt;t25/&gt;Peng&lt;t26/&gt; y&lt;t27/&gt; &lt;t28/&gt;que fueron propuestos como posibles candidatos a primer ministro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10900,8 +10900,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was only in&lt;t2/&gt; &lt;t3/&gt;the fall of 1998 that the issue moved back onto the agenda, and it seems&lt;t4/&gt; &lt;t5/&gt;to have done so largely at the initiative of the American government.&lt;t6/&gt; &lt;t7/&gt;At the time, a number of issues were once again roiling the bilateral&lt;t8/&gt; &lt;t9/&gt;relationship: China was cracking down on the China Democracy Party;&lt;t10/&gt; &lt;t11/&gt;there were reports of illegal contributions to the Democratic Party; and,&lt;t12/&gt; &lt;t13/&gt;most sensational of all, Congressman &lt;t14/&gt;Christopher Cox began investigating&lt;t15/&gt; &lt;t16/&gt;allegations that China had engaged in extensive nuclear spying.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T232315Z">
-        <seg>Fue recién en&lt;t2/&gt; &lt;t3/&gt;el otoño de 1998 que el asunto volvió a ser parte de la agenda, y parece que fue&lt;t4/&gt; &lt;t5/&gt;así en mayor parte por la iniciativa del gobierno estadounidense.&lt;t6/&gt; &lt;t7/&gt;En ese momento, varios asuntos volvían a agitar la relación&lt;t8/&gt; &lt;t9/&gt;bilateral: China estaba aplicando mano dura en el Partido Democrático de China;&lt;t10/&gt; &lt;t11/&gt;había informes de contribuciones ilegales al Partido Democrático; y,&lt;t12/&gt; &lt;t13/&gt;todavía más increíble, el congresista &lt;t14/&gt;Christopher Cox comenzó a investigar&lt;t15/&gt; &lt;t16/&gt;alegatos sobre la participación de China en espionaje nuclear.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T131221Z">
+        <seg>Fue recién en&lt;t2/&gt; &lt;t3/&gt;el otoño de 1998 que el asunto volvió a ser parte de la agenda, y parece que fue&lt;t4/&gt; &lt;t5/&gt;así en mayor parte por la iniciativa del gobierno estadounidense.&lt;t6/&gt; &lt;t7/&gt;En ese momento, varios asuntos volvían a agitar la relación&lt;t8/&gt; &lt;t9/&gt;bilateral: China estaba aplicando mano dura en el Partido Democrático de China;&lt;t10/&gt; &lt;t11/&gt;había informes de contribuciones ilegales al Partido Democrático; y,&lt;t12/&gt; &lt;t13/&gt;aún más increíble, el congresista &lt;t14/&gt;Christopher Cox comenzó a investigar&lt;t15/&gt; &lt;t16/&gt;alegatos sobre la participación de China en espionaje nuclear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12582,8 +12582,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>NATIONALISM, ELITE POLITICS, AND THE WTO</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160901T195250Z">
-        <seg>NACIONALISMO, POLÍTICA DE ÉLITE, Y LA ORGANIZACIÓN MUNDIAL DEL COMERCIO</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T130800Z">
+        <seg>NACIONALISMO, POLÍTICA DE ÉLITE, Y LA ORGANIZACIÓN MUNDIAL DEL COMERCIO </seg>
       </tuv>
     </tu>
     <tu>
@@ -20699,8 +20699,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhu focused primarily on domestic reform,&lt;t6/&gt; &lt;t7/&gt;particularly the plight of SOEs, and seems to have worried that international&lt;t8/&gt; &lt;t9/&gt;competition would make his task harder, not easier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160831T212344Z">
-        <seg>Zhu se enfocó principalmente en la reforma doméstica,&lt;t6/&gt; &lt;t7/&gt;en la complicada situación de las empresas estatales en particular, y parece que le preocupaba que la competencia&lt;t8/&gt; &lt;t9/&gt;internacional le haría más dificil esta tarea en vez de facilitársela.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T130837Z">
+        <seg>Zhu se enfocó principalmente en la reforma doméstica,&lt;t6/&gt; &lt;t7/&gt;en la complicada situación de las empresas estatales en particular, y parece que le preocupaba que la competencia&lt;t8/&gt; &lt;t9/&gt;internacional en vez de facilitarle esta tarea se la haría más dificil.</seg>
       </tuv>
     </tu>
     <tu>
