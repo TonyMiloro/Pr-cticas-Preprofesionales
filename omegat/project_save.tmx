@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10625,7 +10625,7 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, more than any other&lt;t6/&gt; &lt;t7/&gt;issues, China’s proposed membership in the WTO and the reaction to the&lt;t8/&gt; &lt;t9/&gt;embassy bombing demonstrate the coming together – at least temporarily&lt;t10/&gt; &lt;t11/&gt;– &lt;t12/&gt;ofelite&lt;t13/&gt; politics and public opinion.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205347Z" creationid="Jesica" creationdate="20160915T145529Z">
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205347Z">
         <seg>De hecho, más que cualquier otro problema, China había propuesto la membresía en la OMC y la reaccion ante el bombardeo a la embajada  que demostró la unión, por lo menos temporal, de politicas élitarias y las opiniones públicas.  .</seg>
       </tuv>
     </tu>
@@ -14352,7 +14352,7 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>People began talking darkly about the “Latin American disease” – great gaps between rich and poor and stagnating growth after early promise.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T205659Z" creationid="pibe bazooka" creationdate="20160913T225946Z">
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T205659Z">
         <seg>Se comenzó entonces a hablar con pesimismo sobre "el sídrome de Latinoamérica", la gran brecha entre ricos y pobres, y el crecimiento estancado, contrario a lo que se esperaba inicialmente.</seg>
       </tuv>
     </tu>
@@ -17152,6 +17152,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160910T174327Z">
         <seg>El ejemplo de un período de “luna de miel” entre los ciudadanos comunes y los monarcas de Europa (otro argumento de los neoautoritarios) era irrelevante para China, que no había tenido una economía feudal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fact that Wu&lt;t24/&gt; &lt;t25/&gt;played such a public role in the domestic controversy indicates that he had&lt;t26/&gt; &lt;t27/&gt;strong political backing, backing that could only have come from former&lt;t28/&gt; &lt;t29/&gt;premier Li &lt;t30/&gt;Peng&lt;t31/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160926T205913Z">
+        <seg>El hecho de que Wu tenía semejante papel público en la controversia interna señala que él tenía un fuerte respaldo político, el cual solo pudo haber venido de anterior primer ministro Li Peng.</seg>
       </tuv>
     </tu>
     <tu>
