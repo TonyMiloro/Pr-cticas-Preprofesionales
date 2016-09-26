@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11598,8 +11598,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Line struggle revisited: the attack on Deng’s reform program</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160925T225925Z" creationid="rona" creationdate="20160925T225625Z">
-        <seg>Reconsideración de las línea de lucha: el ataque al programa de la reforma de Deng</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T015240Z" creationid="rona" creationdate="20160925T225625Z">
+        <seg>Reconsideración de la línea de lucha: el ataque al programa de la reforma de Deng</seg>
       </tuv>
     </tu>
     <tu>
@@ -14046,6 +14046,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Questions about the goals of reform had simmered just below the surface for years.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T015508Z" creationid="rona" creationdate="20160926T015508Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quoted in Meng Fanhua, Zhongshen kuanghuan, p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023116Z">
@@ -15771,8 +15779,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>The Party leadership was neither cowed into silence nor irrelevant, but it was shaken badly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T014838Z" creationid="rona" creationdate="20160926T014527Z">
-        <seg>El liderazgo del partido no fue forzado a guardar silencio ni .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T015450Z" creationid="rona" creationdate="20160926T014527Z">
+        <seg>El liderazgo del partido no fue forzado a guardar silencio ni a mostrarse irrelevante, pero fue gravemente sacudido.</seg>
       </tuv>
     </tu>
     <tu>
