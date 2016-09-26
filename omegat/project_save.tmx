@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18218,8 +18218,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There was more of a sense that China should concentrate less on “isms” and more on “problems.” Nevertheless, these reflections on the problems China faced raised new questions about where reform was going.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T174948Z" creationid="Edgardo" creationdate="20160926T174440Z">
-        <seg>Todo indica que China debería concentrarse menos en los “ismos” y más en los “problemas". Aún así, estas reflexiones acerca de los problemas que enfrentaba China.</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T175133Z" creationid="Edgardo" creationdate="20160926T174440Z">
+        <seg>Todo indica que China debería concentrarse menos en los “ismos” y más en los “problemas". Aún así, estas reflexiones acerca de los problemas que enfrentaba China pusieron sobre el tapeta nuevas preguntas acerca de dónde iba la reforma.</seg>
       </tuv>
     </tu>
     <tu>
