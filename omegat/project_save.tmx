@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9626,6 +9626,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T142051Z" creationid="Edgardo" creationdate="20160926T141659Z">
         <seg>En cualquier caso, hablaban más con chinos fuera de China y estaban más informados de las corrientes intelectuales y académicas de Occidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In examining the broader question of Chinese images of the West, Zhang adopts the term “Occidentalism” as the opposite of Orientalism to indi-cate distorted presentations of Western reality.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T164247Z" creationid="ROMI" creationdate="20160926T164247Z">
+        <seg>Al examinar la cuestión más amplia de las imágenes chinas del Occidente, Zhang adopta el término "</seg>
       </tuv>
     </tu>
     <tu>
@@ -19446,6 +19454,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160914T011146Z" creationid="Jesica" creationdate="20160914T011146Z">
         <seg>Sin embargo, la relación se considera simplemente muy valiosa para sacrificarla para la emoción del momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, their works are popular and sell well.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T163948Z" creationid="ROMI" creationdate="20160926T163948Z">
+        <seg>De este modo sus obras son populares y se venden bien".</seg>
       </tuv>
     </tu>
     <tu>
