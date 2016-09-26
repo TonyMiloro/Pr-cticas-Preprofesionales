@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11317,8 +11317,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was widely believed after the Soviet Union had done everything that the United States had asked, including getting rid of socialism, that the United States had done little to help the peoples of the former Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T224639Z" creationid="Edgardo" creationdate="20160926T224408Z">
-        <seg>Se creía ampliamente que luego de que la Unión Soviética hiciera todo lo que Estados Unidos había pedido, incluido .</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T224821Z" creationid="Edgardo" creationdate="20160926T224408Z">
+        <seg>Se creía ampliamente que luego de que la Unión Soviética hiciera todo lo que Estados Unidos había pedido, y eso incluía deshacerse del socialismo, Estados Unidos había hecho poco para ayudar a la gente de las  .</seg>
       </tuv>
     </tu>
     <tu>
