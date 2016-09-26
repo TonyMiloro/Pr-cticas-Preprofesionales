@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14641,8 +14641,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Reformers had consistently pushed for more reform, worrying that conservative forces would stop reform but not that reform itself might create new problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T154204Z" creationid="Edgardo" creationdate="20160926T154134Z">
-        <seg>Los reformadores .</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T154417Z" creationid="Edgardo" creationdate="20160926T154134Z">
+        <seg>Los reformadores habían presionado a favor de más reforma de manera  .</seg>
       </tuv>
     </tu>
     <tu>
