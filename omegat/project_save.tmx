@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2025,8 +2025,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The difference in intellectual mode between the 1990s and the 1980s is that in the 1980s, even though there were all sorts of debates and ideological differences, the intellectual background, assumptions of thought [&lt;/f0&gt;&lt;f1&gt;sixiang yushe&lt;/f1&gt;&lt;f2&gt;], and value tendencies that lay behind these various divisions &lt;s3/&gt;were fundamentally the same.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T034708Z">
-        <seg>&lt;f0&gt;La diferencia en el modo intelectual entre la década de los 90 y la década de los 80 es que en la década de los 80 aunque había debates de todo tipo y diferencias ideológicas, el trasfondo intelectual, los supuestos de pensamiento  [&lt;/f0&gt;&lt;f1&gt;sixiang yushe&lt;/f1&gt;&lt;f2&gt;], y las inclinaciones hacia ciertos valores que subyacían en estas diversas divisiones &lt;s3/&gt;eran básicamente los mismos.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215326Z">
+        <seg>&lt;f0&gt;La diferencia en el modo intelectual entre la década de los 90 y la década de los 80 es que en la década de los 80 aunque había debates de todo tipo y diferencias ideológicas, el trasfondo intelectual, los supuestos de pensamiento [&lt;/f0&gt;&lt;f1&gt;sixiang yushe&lt;/f1&gt;&lt;f2&gt;], y las inclinaciones hacia ciertos valores que subyacían en estas diversas divisiones &lt;s3/&gt;eran básicamente los mismos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4691,8 +4691,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Behind [the divisions] there still existed a common ideological platform [&lt;/f2&gt;&lt;f4&gt;sixiang pingtai&lt;/f4&gt;&lt;f5&gt;], namely enlightenment discourse.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T035434Z">
-        <seg>Detrás de [las divisiones] aún existía una plataforma ideológica en común  [&lt;/f2&gt;&lt;f4&gt;sixiang pingtai&lt;/f4&gt;&lt;f5&gt;], en concreto, el discurso de la Ilustración.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215346Z">
+        <seg>Detrás de [las divisiones] aún existía una plataforma ideológica en común [&lt;/f2&gt;&lt;f4&gt;sixiang pingtai&lt;/f4&gt;&lt;f5&gt;], en concreto, el discurso de la Ilustración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7566,8 +7566,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, Wang Shuo, the popular novelist and champion of the underside of Chinese life, embraced the new commercialization and flaunted the opportunity to throw off the constraints imposed by the cultural elite.&lt;/f1&gt;&lt;f2&gt;16 &lt;/f2&gt;&lt;f3&gt;To the surprise of many, Wang Meng, a liberal writer andMinister of Culture in the late 1980s, came out in defense of Wang Shuo.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160925T161620Z">
-        <seg>Por ejemplo, Wang Shuo, conocido novelista y figura de la faceta más oscura de la vida en China, adaptó la nueva comercialización y presumió la oportunidad de transgredir los límites impuestos por la elíte cultural.&lt;/f1&gt;&lt;f2&gt;16 &lt;/f2&gt;&lt;f3&gt;Para  sorpresa de muchos, Wang Meng, un escritor liberal y Ministro de Cultura a fines de la década del '80, defendió a Wang Shuo.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215405Z">
+        <seg>Por ejemplo, Wang Shuo, conocido novelista y figura de la faceta más oscura de la vida en China, adaptó la nueva comercialización y presumió la oportunidad de transgredir los límites impuestos por la elíte cultural.&lt;/f1&gt;&lt;f2&gt;16 &lt;/f2&gt;&lt;f3&gt;Para sorpresa de muchos, Wang Meng, un escritor liberal y Ministro de Cultura a fines de la década del '80, defendió a Wang Shuo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8520,8 +8520,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However superficial these discussions may have been, they clearly saw themselves as lying within the May Fourth &lt;s13/&gt;enlightenment tradition, and they provided a cosmopolitanism that helped support the political relationship being forged with the &lt;/f10&gt;&lt;f14&gt;West as well as reformers within the Party.&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T135649Z">
-        <seg>Aunque estas discusiones hayan sido superficiales, es claro que se consideraban  &lt;s13/&gt;parte de la tradición de la ilustración del Cuatro de Mayo ya que contribuían con un cosmopolitanismo que apoyaba la relación política que se estaba forjando entre &lt;/f10&gt;&lt;f14&gt;el Occidente así como también con los reformistas dentro del Partido.&lt;/f14&gt;</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215427Z">
+        <seg>Aunque estas discusiones hayan sido superficiales, es claro que se consideraban &lt;s13/&gt;parte de la tradición de la ilustración del Cuatro de Mayo ya que contribuían con un cosmopolitanismo que apoyaba la relación política que se estaba forjando entre &lt;/f10&gt;&lt;f14&gt;el Occidente así como también con los reformistas dentro del Partido.&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17681,8 +17681,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The phenomenal growth of the Internet greatly facilitated this &lt;s0/&gt;internationalization of Chinese discourse.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T142532Z">
-        <seg>El extraordinario crecimiento de internet facilitó en gran parte esta  &lt;s0/&gt;internacionalización del discurso chino.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215355Z">
+        <seg>El extraordinario crecimiento de internet facilitó en gran parte esta &lt;s0/&gt;internacionalización del discurso chino.</seg>
       </tuv>
     </tu>
     <tu>
