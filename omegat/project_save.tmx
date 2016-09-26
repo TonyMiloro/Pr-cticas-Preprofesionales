@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4907,8 +4907,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>But by the early 1990s, that positive image began to be replaced by suspicion and sometimes hostility.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T223327Z" creationid="Edgardo" creationdate="20160926T223327Z">
-        <seg>Pero a principios de la década de los 90, esa imagen positiva comenzó a ser reemplazada.</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T223543Z" creationid="Edgardo" creationdate="20160926T223327Z">
+        <seg>Pero a principios de la década de los 90, esa imagen positiva comenzó a reemplazarse por desconfianza y a veces hasta por hostilidad.</seg>
       </tuv>
     </tu>
     <tu>
