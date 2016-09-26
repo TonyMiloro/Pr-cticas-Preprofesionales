@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4139,7 +4139,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As the collapse of socialism in Eastern Europe and the Soviet Union defined one pole in intellectual thinking about the international environment, theUnited States formed the other.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T222355Z" creationid="Edgardo" creationdate="20160926T222142Z">
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T222355Z">
         <seg>Como el colapso del socialismo en Europa oriental y la Unión Soviética constituían un polo en el pensamiento intelectual sobre del ámbito internacional, Estados Unidos constituía el otro polo.</seg>
       </tuv>
     </tu>
@@ -13137,6 +13137,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Giuliano" changedate="20160909T120141Z">
         <seg>El nacionalismo, especialmente el anti-americanismo, era central en las ideas de He Xin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nationalistic sentiment within the government reached a new&lt;t8/&gt; &lt;t9/&gt;peak, and there was real and deep anger among the broader population,&lt;t10/&gt; &lt;t11/&gt;especially students.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160926T222348Z">
+        <seg>El sentimiento nacionalista dentro del gobierno alcanzó un nuevo pico y hubo una profunda indignación por parte de la población en general, en especial de los estudiantes.</seg>
       </tuv>
     </tu>
     <tu>
