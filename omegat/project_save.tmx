@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11446,6 +11446,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T132445Z" creationid="Flor" creationdate="20160926T132445Z">
         <seg>&lt;t0/&gt;A pesar de que no tenía experiencia militar previa cuando fue nombrado jefe del CMC en 1989,  Jiang Zemin fue aclamado por haber creado un corpus de ideas militares a la par de las ideas de Mao Zedong y Deng Xiaoping.&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang&lt;t0/&gt; &lt;t1/&gt;may&lt;t2/&gt; &lt;t3/&gt;well&lt;t4/&gt; &lt;t5/&gt;have&lt;t6/&gt; &lt;t7/&gt;wanted&lt;t8/&gt; &lt;t9/&gt;to&lt;t10/&gt; &lt;t11/&gt;promote&lt;t12/&gt; &lt;t13/&gt;his&lt;t14/&gt; &lt;t15/&gt;confidant&lt;t16/&gt; &lt;t17/&gt;Zeng&lt;t18/&gt; &lt;t19/&gt;Qinghong&lt;t20/&gt; &lt;t21/&gt;to vice-chairman of the CMC, much as he had hoped to promote him to the PBSC in &lt;t22/&gt;2000 &lt;t23/&gt;and &lt;t24/&gt;2001&lt;t25/&gt;, but, if so, he was thwarted in this effort as well.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T141820Z" creationid="Flor" creationdate="20160926T141820Z">
+        <seg>&lt;t0/&gt;Jiang hubiese preferido ascender a su confidente Zeng Qinghong a vice primer ministro de la CMC, de la misma forma que hubiese deseado haberlo ascendido al CPBPCC en 2000 y 2001 pero, en cambio, esta intención también se vio frustrada. &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
