@@ -2728,6 +2728,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A sense of optimism had prevailed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T200948Z" creationid="Edgardo" creationdate="20160926T200948Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A similar sort of criticism came from Wang &lt;t2/&gt;Xiaodong&lt;t3/&gt;, a young intellectual &lt;t4/&gt;afﬁliated&lt;t5/&gt; with the Communist Youth League, who would emerge in the 1990s as one of the main voices of popular nationalism.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T012943Z" creationid="Melanie" creationdate="20160919T232743Z">
@@ -17697,8 +17705,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The question of reform had seemed so easy then; no one thought about reform as a decades-long &lt;s0/&gt;process.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T200232Z" creationid="Edgardo" creationdate="20160926T200005Z">
-        <seg>La cuestión de la reforma había parecido tan fácil en ese momento; nadie había considerado que la reforma podía ser un proceso  &lt;s0/&gt;process.</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T200411Z" creationid="Edgardo" creationdate="20160926T200005Z">
+        <seg>La cuestión de la reforma había parecido tan fácil en ese momento; nadie había considerado que la reforma podía ser un proceso&lt;s0/&gt; que duraría décadas.</seg>
       </tuv>
     </tu>
     <tu>
