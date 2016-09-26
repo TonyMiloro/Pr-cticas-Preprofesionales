@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4811,8 +4811,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>But beyond their personal dislike of Zhao was a broader concern about the content of reform as a whole, and that concern centered on the ﬁgure of Zhao’s patron, senior leader Deng Xiaoping.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T135820Z" creationid="rona" creationdate="20160926T024858Z">
-        <seg>Pero más allá del desagrado personal por Zhao, había una preocupación mayor acerca del contenido de la reforma en su totalidad, y esa preocupación se centraba en la figura del  .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T141448Z" creationid="rona" creationdate="20160926T024858Z">
+        <seg>Pero más allá del desagrado personal por Zhao, había una preocupación mayor acerca del contenido de la reforma en su totalidad, y esa preocupación se centraba en la figura del PROTECTOR de Zhao, el mayor líder Deng Xiaoping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17522,6 +17522,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Pc" changedate="20160909T174554Z">
         <seg>La finalidad de la Parte II es enfocarse en los desarrollos intelectuales de los 90. En la Parte III estudiaremos la interacción gubernamental e intelectual con más detalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The question thrown open by Tiananmen, then, was the nature of Deng’s leadership and thus whether or not the Party should continue reform as it had been deﬁned by Deng.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T141800Z" creationid="rona" creationdate="20160926T141800Z">
+        <seg>la pregunta sobre Tiananmén que permanecia abierta, fue luego la naturaleza del liderazgo de Deng  .</seg>
       </tuv>
     </tu>
     <tu>
