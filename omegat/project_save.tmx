@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14635,6 +14635,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160917T072411Z" creationid="Administrador" creationdate="20160917T035300Z">
         <seg>Siendo cínicos acerca de los motivos estadounidenses, el 85.4 porciento creía que Estados Unidos formó parte de la Guerra del Golfo ''por fuera de sus intereses''. Un ensayo final argumentó que el nacionalismo reflejado en las encuestas mostró que China ''todavía tiene esperanzas''. Al poner los resultados de las encuestas contra los debates recientes sobre globalización, el autor (o autores) anunció con la mejor tradición realista que el mundo todavía se encuentra divido en estados-naciones. Esta línea divisora que separa los estados-naciones era mucho más fuerte que cualquier otra, y que también abarca la cultura (con referencia a Huntington). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reformers had consistently pushed for more reform, worrying that conservative forces would stop reform but not that reform itself might create new problems.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T154204Z" creationid="Edgardo" creationdate="20160926T154134Z">
+        <seg>Los reformadores .</seg>
       </tuv>
     </tu>
     <tu>
