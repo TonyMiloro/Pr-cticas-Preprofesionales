@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17158,8 +17158,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The fact that Wu&lt;t24/&gt; &lt;t25/&gt;played such a public role in the domestic controversy indicates that he had&lt;t26/&gt; &lt;t27/&gt;strong political backing, backing that could only have come from former&lt;t28/&gt; &lt;t29/&gt;premier Li &lt;t30/&gt;Peng&lt;t31/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="alumno" changedate="20160926T205913Z">
-        <seg>El hecho de que Wu tenía semejante papel público en la controversia interna señala que él tenía un fuerte respaldo político, el cual solo pudo haber venido de anterior primer ministro Li Peng.</seg>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160926T205956Z">
+        <seg>El hecho de que Wu tenía semejante papel público en la controversia interna señala que él tenía un fuerte respaldo político, respaldo que solo pudo haber venido del anterior primer ministro Li Peng.</seg>
       </tuv>
     </tu>
     <tu>
