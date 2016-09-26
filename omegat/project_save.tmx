@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3563,8 +3563,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And Larry Lang, whatever his intent, was certainly right that many, if not most, MBOs were insider deals that benefited a few entrepreneurs (mostly former officials) at the expense of both workers and the state.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160926T233744Z">
-        <seg>Larry Lang, más allá de sus intenciones, estaba en lo cierto: muchas, sino la gran mayoría, de las compras de empresas por sus directivos eran parte de negocios internos que beneficiaron a sólo unos poco empresarios (mayormente ex-oficiales) a expensas de los trabajadores y el estado .</seg>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160926T233954Z">
+        <seg>Larry Lang, más allá de sus intenciones, estaba en lo cierto: muchas, sino la gran mayoría, de las compras de empresas por sus directivos eran parte de negocios internos que beneficiaron a sólo unos poco empresarios (mayormente exfuncionarios) a expensas de los trabajadores y el estado .</seg>
       </tuv>
     </tu>
     <tu>
