@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4163,8 +4163,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As time passed, neoconservatism seemed to cover up more problems than it resolved.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T161458Z" creationid="pibe bazooka" creationdate="20160913T161458Z">
-        <seg>A medida que pasaba el tiempo, el neoconservadursimo parecía tapar más problemas de los que resolvía.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T201010Z" creationid="pibe bazooka" creationdate="20160913T161458Z">
+        <seg>A medida que pasaba el tiempo, el neoconservadursimo parecía cubrir más problemas de los que resolvía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8872,8 +8872,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If Jiang never captured people’s imagination, and, indeed, tended to alienate many with his over-the-top personality and windy speeches, he nevertheless performed considerably better in office than any dared hope when he moved to Beijing in those dark days after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T200518Z" creationid="pibe bazooka" creationdate="20160912T211949Z">
-        <seg>Jiang jamás logró atraer la imaginación del pueblo y de hecho, atinó a marginalizar a muchos con su personalidad exagerada y sus discursos verborrágicos; sin embargo, el desempeño en su función fue mucho mejor de lo que se hubiera esperado cuando se mudó a Beijing en esos días oscuros que siguieron a la masacre de Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T200836Z" creationid="pibe bazooka" creationdate="20160912T211949Z">
+        <seg>Jiang jamás logró atraer la imaginación del pueblo y de hecho, terminó alienando a muchos con su personalidad exagerada y sus discursos verborrágicos; sin embargo, el desempeño en su función fue mucho mejor de lo que se hubiera esperado cuando se mudó a Beijing en esos días oscuros que siguieron a la masacre de Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11501,8 +11501,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang and his colleagues adopted a neoconservative approach to governing, but neoconservatism promised stability rather than inspiring hope.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T161324Z" creationid="pibe bazooka" creationdate="20160913T161112Z">
-        <seg>Jiang y su equipo adoptaron un enfoque neoconservador para su gobierno, pero el neoconservadursimo prometía estabilidad más que alimentar la esperanza.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T200938Z" creationid="pibe bazooka" creationdate="20160913T161112Z">
+        <seg>Jiang y su equipo adoptaron un enfoque neoconservador para su gobierno, pero el neoconservadursimo prometía más estabilidad que esperanza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14448,8 +14448,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Politically the early hope offered by village-level elections faded as expectations that they would move up the political hierarchy at least to the township level never materialized (despite a few pioneering efforts in places like Buyun in Sichuan and Dapeng in Shenzhen).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160913T214828Z" creationid="pibe bazooka" creationdate="20160913T213800Z">
-        <seg>Desde el punto de vista político, el optimismo que había surgido a raíz de las elecciones en el circuito de villas se desvaneció, ya que las expectativas de escalar la jerarquía, al menos hasta conformarse como distritos, no lograron concretarse ( a pesar de haber existido esta iniciativa pionera en lugares como Buyun en Sichuan y Dapeng en Shenzhen).</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T201137Z" creationid="pibe bazooka" creationdate="20160913T213800Z">
+        <seg>Desde el punto de vista político, el optimismo que había surgido inicialmente a raíz de las elecciones en el circuito de villas se desvaneció, ya que las expectativas de escalar la jerarquía, al menos hasta conformarse como distritos, no lograron concretarse ( a pesar de haber existido esta iniciativa pionera en lugares como Buyun en Sichuan y Dapeng en Shenzhen).</seg>
       </tuv>
     </tu>
     <tu>
