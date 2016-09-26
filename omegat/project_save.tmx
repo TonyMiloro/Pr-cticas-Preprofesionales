@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16159,6 +16159,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T044907Z" creationid="Candelaria" creationdate="20160921T044054Z">
         <seg>La Comisión de Producción del Consejo del Estado incorporó oficinas que alguna vez pertenecieron al SEC, incluyendo el control de la producción y los departamentos de transformación tecnológica, que habían sido ubicados bajo el control del SPC, y la Oficina de Administración de Empresa, que había sido asignada a la Comisión de Resstructuración Económica del Estado.64 más que reestablecer el SEC, que muchas veces actuó como un vocero para los intereses de la industria y tuvoenfrentamientos con más conservadores de la SPC, la nueva Comisión de Producción de Consejo del Estadotenía intenciones claras de sersubordinado al del SPC. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Third Plenary Session of the Sixteenth Central Committee, which &lt;t0/&gt;con&lt;t1/&gt;v&lt;t2/&gt;ened&lt;t3/&gt; &lt;t4/&gt;O&lt;t5/&gt;ctober&lt;t6/&gt; &lt;t7/&gt;11&lt;t8/&gt;–&lt;t9/&gt;14&lt;t10/&gt;,&lt;t11/&gt; &lt;t12/&gt;2003&lt;t13/&gt;,&lt;t14/&gt; &lt;t15/&gt;was&lt;t16/&gt; &lt;t17/&gt;in&lt;t18/&gt; &lt;t19/&gt;fact&lt;t20/&gt; &lt;t21/&gt;the&lt;t22/&gt; &lt;t23/&gt;first&lt;t24/&gt; &lt;t25/&gt;plena&lt;t26/&gt;r&lt;t27/&gt;y&lt;t28/&gt; &lt;t29/&gt;session&lt;t30/&gt; &lt;t31/&gt;since &lt;t32/&gt;Hu &lt;t33/&gt;had&lt;t34/&gt; &lt;t35/&gt;been&lt;t36/&gt; &lt;t37/&gt;named&lt;t38/&gt; &lt;t39/&gt;general&lt;t40/&gt; &lt;t41/&gt;secretary&lt;t42/&gt; &lt;t43/&gt;for&lt;t44/&gt; &lt;t45/&gt;which&lt;t46/&gt; &lt;t47/&gt;he&lt;t48/&gt; &lt;t49/&gt;had&lt;t50/&gt; &lt;t51/&gt;been&lt;t52/&gt; &lt;t53/&gt;able&lt;t54/&gt; &lt;t55/&gt;to&lt;t56/&gt; &lt;t57/&gt;set&lt;t58/&gt; &lt;t59/&gt;the agenda (the Second Plenary Session, which met in &lt;t60/&gt;February, &lt;t61/&gt;approved the personnel arrangements for the March NPC meeting).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T133305Z" creationid="Flor" creationdate="20160926T133305Z">
+        <seg>&lt;t0/&gt;La III Sesión Plenaria del XVI Comité Central, convocada desde el 11 hasta el 14 de octubre del año 2003 fue, de hecho, la primera sesión plenaria desde que Hu fue nombrado Secretario General y, por lo tanto, tuvo la posibilidad de establecer el programa (la II Sesión Plenaria que se celebró en febrero autorizó las disposiciones del personal para la junta de la APN en marzo).&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt; &lt;t43/&gt;&lt;t44/&gt; &lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt;&lt;t48/&gt; &lt;t49/&gt;&lt;t50/&gt; &lt;t51/&gt;&lt;t52/&gt; &lt;t53/&gt;&lt;t54/&gt; &lt;t55/&gt;&lt;t56/&gt; &lt;t57/&gt;&lt;t58/&gt; &lt;t59/&gt; &lt;t60/&gt; &lt;t61/&gt;</seg>
       </tuv>
     </tu>
     <tu>
