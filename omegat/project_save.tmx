@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14048,8 +14048,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Questions about the goals of reform had simmered just below the surface for years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T015508Z" creationid="rona" creationdate="20160926T015508Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T015800Z" creationid="rona" creationdate="20160926T015508Z">
+        <seg>Las preguntas a cerca de los objetivos de la reforma han estado muy cerca de la superficie por años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19525,6 +19525,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212710Z" creationid="Melanie" creationdate="20160920T011245Z">
         <seg>La crítica de Wang no estaba arraigada en una visión del mundo marxista-leninista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Was reform, as Party documents repeatedly proclaimed, about the “self-perfection” of socialism or was reform leading China away from socialism?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T015831Z" creationid="rona" creationdate="20160926T015831Z">
+        <seg>¿La reforma </seg>
       </tuv>
     </tu>
     <tu>
