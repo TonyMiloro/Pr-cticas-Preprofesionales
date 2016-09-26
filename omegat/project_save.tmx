@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9817,6 +9817,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160920T093826Z">
         <seg>Resumiendo, no deberíamos asumir que estos cambios que se observan en los ámbitos sociales y políticos van a estar necesariamente reflejados en el sistema político de China. Con certeza, no habrá una correspondencia unívoca. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In short, the transfer of power would not be complete until &lt;t107/&gt;Hu &lt;t108/&gt;had taken over as head of the &lt;t109/&gt; &lt;t110/&gt;military.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T135858Z" creationid="Flor" creationdate="20160926T135825Z">
+        <seg> En síntesis, la transferencia de poder no se completaría hasta que Hu tomase control sobre la milicia.&lt;t107/&gt;&lt;t108/&gt;&lt;t109/&gt;&lt;t110/&gt;</seg>
       </tuv>
     </tu>
     <tu>
