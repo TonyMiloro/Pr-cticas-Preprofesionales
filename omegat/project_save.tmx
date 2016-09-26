@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7101,8 +7101,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Far more than the Sixteenth Party Congress report of 2002, the Sixth Plenum resolution emphasized the need to “gradually reverse” the increasing regional income gaps, promising to use transfer payments from the central treasury to improve the infrastructure, educational facilities, health care, and other needs in the central and western regions of the country.&lt;t0/&gt;121&lt;t1/&gt; The Jiang Zemin era was clearly waning as Hu Jintao moved to consolidate political and ideological authority</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T024401Z" creationid="Pablo" creationdate="20160914T022602Z">
-        <seg>la resolución del Sexto Pleno enfatizó la necesidad de "revertir gradualmente" la creciente brecha de ingresos regionales, y prometió utilizar transferencias de fondos desde el tesoro central para mejorar infraestructuras, establecimientos educacionales, centros de salud y otras necesidades en las regiones del centro y el oeste del país.&lt;t0/&gt;121&lt;t1/&gt; La era de Jiang Zemin estaba claramente en decadencia, mientras Hu Jintao se movilizaba para consolidar su autoridad política e ideológica.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T191324Z" creationid="Pablo" creationdate="20160914T022602Z">
+        <seg>La resolución del Sexto Pleno enfatizó la necesidad de "revertir gradualmente" la creciente brecha de ingresos regionales, y prometió utilizar transferencias de fondos desde el tesoro central para mejorar infraestructuras, establecimientos educacionales, centros de salud y otras necesidades en las regiones del centro y el oeste del país.&lt;t0/&gt;121&lt;t1/&gt; La era de Jiang Zemin estaba claramente en decadencia, mientras Hu Jintao se movilizaba para consolidar su autoridad política e ideológica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17585,8 +17585,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The plenum approved a resolution calling for the creation of a “harmonious society,” bringing together the various themes that Hu had been emphasizing since his elevation to general secretary four years earlier: creating a “people-centered” society, using the scientific development concept to guide the economy, developing socialist democracy, the rule of law, and social justice, and improving the governing capabilities of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T234459Z" creationid="Pablo" creationdate="20160914T021516Z">
-        <seg>El pleno aprobó una resolución que pedía a la creación de una "sociedad en armonía", reuniendo varios ejes temáticos que Hu venía enfatizando desde su ascenso a secretario general cuatro años atrás, como la creación de una sociedad "centrada en los ciudadanos", el uso del concepto de desarrollo científico para guiar la economía, el desarrollo de una democracia socialista, el imperio de la ley y la justicia socal, y el perfeccionamiento de la capacidad de gobierno del Partido.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T191054Z" creationid="Pablo" creationdate="20160914T021516Z">
+        <seg>El pleno aprobó una resolución que llamaba la creación de una "sociedad en armonía", reuniendo varios ejes temáticos que Hu venía enfatizando desde su ascenso al cargo de Secretario General del Partido cuatro años atrás, como la creación de una sociedad "centrada en los ciudadanos", el uso del concepto de desarrollo científico como guía de la economía, el desarrollo de una democracia socialista, el imperio de la ley y la justicia socal, y el perfeccionamiento de la capacidad de gobierno del Partido.</seg>
       </tuv>
     </tu>
     <tu>
