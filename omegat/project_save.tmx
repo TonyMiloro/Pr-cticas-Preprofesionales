@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4451,8 +4451,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time, the People’s Daily also published a series of very harsh&lt;t0/&gt; &lt;t1/&gt;articles signed “observer” (&lt;t2/&gt;guanchajia&lt;t3/&gt;).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T012459Z" creationid="Jesica" creationdate="20160914T012459Z">
-        <seg>Al mismo tiempo, Pueblo en Línea también publico una serie de crudos artículos firmados por "observador" (guanchajia).</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T203100Z" creationid="Jesica" creationdate="20160914T012459Z">
+        <seg>Al mismo tiempo,¨People´s Daily también publico una serie de crudos artículos firmados por "observador" (guanchajia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15915,8 +15915,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Such observer articles are published&lt;t4/&gt; &lt;t5/&gt;rarely, which indicates their importance, but they are not as authoritative&lt;t6/&gt; &lt;t7/&gt;as editorials, which are approved by the top leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T012747Z" creationid="Jesica" creationdate="20160914T012747Z">
-        <seg>los artículos del observador se publicaban muy rara vez, lo cual indica su importancia, pero no eran tan autoritarios como las editoriales, que los prueba el dirigente máximo.</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T203146Z" creationid="Jesica" creationdate="20160914T012747Z">
+        <seg>los artículos del observador se publican muy rara vez, lo cual indica su importancia, pero no eran tan autoritarios como las editoriales, que los aprueba el dirigente máximo.</seg>
       </tuv>
     </tu>
     <tu>
