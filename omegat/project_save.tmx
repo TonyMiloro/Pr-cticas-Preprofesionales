@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4587,7 +4587,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Baquero</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Antonio" changedate="20160926T213358Z" creationid="Antonio" creationdate="20160926T213358Z">
+      <tuv lang="ES-US" changeid="Antonio" changedate="20160926T213358Z">
         <seg>hhhhh</seg>
       </tuv>
     </tu>
@@ -4725,6 +4725,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160920T025858Z">
         <seg>La universidad de Pekín celebra su centésimo aniversário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beijing’s initial reaction was one of shock and&lt;t6/&gt; &lt;t7/&gt;confusion.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160926T213505Z">
+        <seg>La primera reacción en Pekín fue una de conmoción y confusión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6283,7 +6291,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Democracy activists and their supporters in theWest continued to see issues largely as they had in the 1980s, hoping that a democratic movement would &lt;f0&gt;bring down the old order and bring forth a new democratic order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T214608Z" creationid="Edgardo" creationdate="20160926T212941Z">
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T214608Z">
         <seg>Estos activistas en favor de la democracia y sus adeptos en Occidente continuaron viendo asuntos en gran medida como lo habían hecho en la década de los 80, con la esperanza de que un gobierno democrático&lt;f0&gt; abatiera el viejo orden y diera lugar a un nuevo orden democrático.</seg>
       </tuv>
     </tu>
@@ -17416,7 +17424,7 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The intellectual atmosphere in China had changed dramatically.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T220002Z" creationid="Edgardo" creationdate="20160926T215903Z">
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T220002Z">
         <seg>El ambiente intelectual en China había cambiado radicalmente.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
@@ -18218,7 +18226,7 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;possibility of such a scenario ending in social chaos was rarely discussed, and this is why democratic activists found themselves isolated not only from the Chinese government but also from many of the same intellectuals who had supported them in the heady days of spring 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T215729Z" creationid="Edgardo" creationdate="20160926T214801Z">
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T215729Z">
         <seg>La &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;posibilidad de que tal escenario terminara en un caos social se discutió pocas veces, y es por eso que los activistas en favor de la democracia se encontraron apartados no solo del gobierno chino sino de muchos de los mismos intelectuales quienes los habían apoyado en los días vertiginosos de la primavera de 1989.</seg>
       </tuv>
     </tu>
@@ -18396,6 +18404,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160915T174918Z">
         <seg>Claramente había factores políticos domésticos en China que bloqueaban&lt;t0/&gt; &lt;t1/&gt;el progreso hacia un acuerdo sobre la OMC en este período.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were clearly expressions of outrage within the Chinese&lt;t8/&gt; &lt;t9/&gt;government, but it appears that the top leadership quickly came to the&lt;t10/&gt; &lt;t11/&gt;conclusion that the bombing was either accidental, as the United States&lt;t12/&gt; &lt;t13/&gt;claimed, or that it reflected a low-level conspiracy within the depths of&lt;t14/&gt; &lt;t15/&gt;some bureaucracy and not government policy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="alumno" changedate="20160926T220017Z">
+        <seg>Claramente hubo muestras de furia dentro del gobierno chino, pero parece que el mando superior llegó rápidamente a la conclusión de que el bombardeo fue fortuito, como aseguró Estados Unidos, o que reflejó una conspiración de bajo nivel dentro de las profundidades de alguna burocracia y no de la política del gobierno.</seg>
       </tuv>
     </tu>
     <tu>
