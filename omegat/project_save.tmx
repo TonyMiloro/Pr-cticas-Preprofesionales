@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4421,6 +4421,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160909T140614Z">
         <seg>Antes de eso, todos los estratos de la sociedad china habían mejorado desde la reforma; luego de ese momento el poder y el mercado emergieron entonces un estrato empezó a explotar al otro.47 Como dijo Xu Bing, amigo y agente literario de Wang, antes de 1992, Wang era un "partidario determinado y entusiasta de la reforma", pero para la primavera y el verano de ese año, "su apoyo se volvió racional y condicional".48 Wang no era el único que dudaba del curso de la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Behind [the divisions] there still existed a common ideological platform [&lt;/f2&gt;&lt;f4&gt;sixiang pingtai&lt;/f4&gt;&lt;f5&gt;], namely enlightenment discourse.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T035016Z" creationid="Edgardo" creationdate="20160926T035016Z">
+        <seg>Más alla [de las divisiones] aún existía una plataforma ideológica en común  [&lt;/f2&gt;&lt;f4&gt;sixiang pingtai&lt;/f4&gt;&lt;f5&gt;], namely enlightenment discourse.</seg>
       </tuv>
     </tu>
     <tu>
