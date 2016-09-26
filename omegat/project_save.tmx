@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10345,8 +10345,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In this regard, Zhang is critical both of contem-porary manifestations of Orientalism in China and of the broader enlight-enment tradition in modern Chinese thinking.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T153948Z" creationid="ROMI" creationdate="20160926T153024Z">
-        <seg>Con respecto a esto, Zhang es crítico tanto en las manifestaciones contemporáneas del Orientalismo en China como en la amplia tradición de la ilustración en el pensamiento chino moderno. </seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T154211Z" creationid="ROMI" creationdate="20160926T153024Z">
+        <seg>Con respecto a esto, Zhang critica tanto las manifestaciones contemporáneas del Orientalismo en China como  la amplia tradición de la ilustración en el pensamiento chino moderno. </seg>
       </tuv>
     </tu>
     <tu>
