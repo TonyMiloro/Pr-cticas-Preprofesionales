@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9305,6 +9305,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160923T211709Z" creationid="cintia soler" creationdate="20160919T192825Z">
         <seg>Además de elegir un nuevo líder político, a menudo, los congresistas del Partido modifican la constitución para reflejar cambios en el pensamiento politico y tienen en cuenta el reporte hecho por el secretario general que muestra la visión que tendrá el partido en los próximos cinco años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the no&lt;t4/&gt;tion of comprehen- sive planning, &lt;t5/&gt;Hu &lt;t6/&gt;used such phrases as “building a Party that serves the &lt;t7/&gt;inte&lt;t8/&gt;r&lt;t9/&gt;ests&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;public&lt;t16/&gt; &lt;t17/&gt;and&lt;t18/&gt; &lt;t19/&gt;g&lt;t20/&gt;o&lt;t21/&gt;v&lt;t22/&gt;erns&lt;t23/&gt; &lt;t24/&gt;for&lt;t25/&gt; &lt;t26/&gt;the&lt;t27/&gt; &lt;t28/&gt;peopl&lt;t29/&gt;e&lt;t30/&gt;”&lt;t31/&gt; &lt;t32/&gt;that&lt;t33/&gt; &lt;t34/&gt;took&lt;t35/&gt; &lt;t36/&gt;the&lt;t37/&gt; &lt;t38/&gt;Th&lt;t39/&gt;r&lt;t40/&gt;ee &lt;t41/&gt;Represents in a more populist direction.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T134658Z" creationid="Flor" creationdate="20160926T134658Z">
+        <seg>&lt;t4/&gt;Además del concepto de la planificación integral, utilizó frases como “construir un partido que atienda a los intereses del público y gobierne para la gente” que llevaron a la Triple Representatividad en una dirección más popular.&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;&lt;t35/&gt; &lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;</seg>
       </tuv>
     </tu>
     <tu>
