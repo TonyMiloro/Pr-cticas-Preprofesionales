@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -513,8 +513,8 @@
       <tuv lang="EN-US">
         <seg>43 Jiang Yihua, “Lun dongya xiandaihua jinchengzhong de xinlixing zhuyi wenhua.” P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 Neostatism and popular nationalism 153 class (xialiu); elsewhere he comments that he represents the lower ranks of officialdom.44 Born in 1952, Wang was the youngest of those known as laosanjie, the three classes (which “graduated” from high school in 1966, 1967, and 1968) who made up the Red Guard generation and were sent to the country- side when Mao had seen enough of the chaos they had generated.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T124935Z">
-        <seg>en cualquier otro lado el siempre menciona que es el representante de los rangos bajos de la burocracia44. Nacido en 1952, Wang era el más joven de los llamados laosanjie, las tres clases (que se "graduaron" de la escuela secundaria en 1966, 1967 y 1968) que constituyen la generación de la Guardia Roja y que fueron enviados al campo cuando Mao vio el caos que habían generado.   </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123411Z">
+        <seg>en cualquier otro lado el siempre menciona que es el representante de los rangos bajos del funcionariado44. Nacido en 1952, Wang era el más joven de los llamados laosanjie, las tres clases (que se "graduaron" de la escuela secundaria en 1966, 1967 y 1968) que constituyen la generación de la Guardia Roja y que fueron enviados al campo cuando Mao vio el caos que habían generado.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -8783,8 +8783,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1970, perhaps using his father’s connections (his father was a military cadre), Wang joined the PLA, where he served for seven years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160902T134756Z">
-        <seg>En 1970, quizás gracias a las conexiones de su padre (su padre era un cuadro militar), Wang se unió al Ejército Popular de Liberación donde sirvió durante 7 años.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123437Z">
+        <seg>En 1970, quizás gracias a las conexiones de su padre (su padre era militar), Wang se unió al Ejército Popular de Liberación donde sirvió durante 7 años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9735,8 +9735,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the 1980s, he became director of the Great Wall Social Research Institute (Changcheng shehui yanjiusuo).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T194430Z">
-        <seg>En los 80, se convirtió en director del Great Wall Social Research Institute (Instituto de investigación social Great Wall).</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123506Z">
+        <seg>En los 80, se convirtió en director del Changcheng shehui yanjiusuo (Instituto de investigación social de la gran muralla).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19587,8 +19587,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang seems to be an unsatisfied and intemperate person; his literary agent noted that Wang switched jobs frequently, and “always inexplicably ended by being fired.”45 Wang declared that the greatest influences on his thinking were a “sense of responsibility” bequeathed by his father’s generation to carry on the task of the revolution and the “heroic thought” (yingxiong zhuyi sichao) of tempering oneself through struggle, something he apparently cultivated during the Cultural Revolution.46 Unlike most of those older than himself, Wang obviously retained a romantic attachment to the Cultural Revolution and to the figure of Mao Zedong, a passion that flared up with Deng’s trip to the south in 1992 and the resulting wave of speculation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T180913Z">
-        <seg>Wang parecía ser una persona insatisfecha y desmedida; su agente literario notó que Wang cambiaba frecuentemente de trabajo, y que "siempre lo despedían sin explicación".45 Wang declaró que lo que más influenció su pensamiento fue el "sentido de responsabilidad" que le fue transmitido por la generación de su padre para continuar con la tarea de la revolución, y el "pensamiento heroico" de templarse a uno mismo a través de la lucha, algo que aparentemente cultivó durante la revolución cultural.46 A diferencia de aquellos mayores que él, Wang obviamente conservó un apego a la revolución cultural y a la figura de Mao Zedong, una pasión que se encendió con el viaje de Deng al sur en 1992 y la consecuente ola de especulación. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123613Z">
+        <seg>Wang parecía ser una persona insatisfecha y desmedida; su agente literario notó que cambiaba frecuentemente de trabajo, y que "siempre lo despedían sin explicación".45 Wang declaró que la influencia más grande sobre su pensamiento fue el "sentido de responsabilidad" que le transmitió la generación de su padre para continuar con la tarea de la revolución, y el "pensamiento heroico" de templarse a uno mismo a través de la lucha, algo que al parecer cultivó durante la revolución cultural.46 A diferencia de aquellos mayores que él, Wang obviamente conservó un apego a la revolución cultural y a la figura de Mao Zedong, una pasión que se encendió con el viaje de Deng al sur en 1992 y la consecuente ola de especulación. </seg>
       </tuv>
     </tu>
     <tu>
