@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7719,8 +7719,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Given the genuinely frightening circumstances of the SARS crisis, these efforts won plaudits for &lt;t102/&gt;Hu &lt;t103/&gt;Jintao, even on the Internet, and enhanced the credibility of the &lt;t104/&gt;Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160920T203513Z" creationid="Flor" creationdate="20160920T203513Z">
-        <seg>&lt;t102/&gt;Debido a las circunstancias verdaderamente aterradoras de la crisis del sras, estas acciones sumaron adherentes para Hu Jintao, incluso en internet, y fortalecieron la credibilidad del partido.&lt;t103/&gt; &lt;t104/&gt;</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T123449Z" creationid="Flor" creationdate="20160920T203513Z">
+        <seg>&lt;t102/&gt;Debido a las circunstancias verdaderamente aterradoras de la crisis del SARS, estas acciones sumaron adherentes para Hu Jintao, incluso en internet, y fortalecieron la credibilidad del partido.&lt;t103/&gt; &lt;t104/&gt;</seg>
       </tuv>
     </tu>
     <tu>
