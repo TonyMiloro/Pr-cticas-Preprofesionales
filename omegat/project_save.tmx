@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7897,6 +7897,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160923T001544Z" creationid="Gime" creationdate="20160923T001544Z">
         <seg>Además expuso que muchos de los eruditos contemporáneos estadounidenses de China fueron entrenados por el ejército para "entender al enemigo", ignorando a muchos de los eruditos chinos que valientemente se opusieron a la política que Estados Unidos adoptó con respecto a China en los años siguientes a la Segunda Guerra Mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He was anxious to emphasize the distinction Deng had drawn in &lt;t32/&gt;1989 &lt;t33/&gt;between two types of reform, one that upheld the four cardinal princi&lt;t34/&gt;- ples&lt;t35/&gt; &lt;t36/&gt;and&lt;t37/&gt; &lt;t38/&gt;the&lt;t39/&gt; &lt;t40/&gt;other&lt;t41/&gt; &lt;t42/&gt;that&lt;t43/&gt; &lt;t44/&gt;“restored&lt;t45/&gt; &lt;t46/&gt;capitalism”:&lt;t47/&gt; &lt;t48/&gt;the&lt;t49/&gt; &lt;t50/&gt;former&lt;t51/&gt; &lt;t52/&gt;was&lt;t53/&gt; &lt;t54/&gt;correct,&lt;t55/&gt; &lt;t56/&gt;whereas the latter is what had led to the collapse of socialism in Eastern Europe and the Soviet Union.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160926T014319Z" creationid="Eloisa" creationdate="20160926T013716Z">
+        <seg>Estaba ansioso por poner énfasis en la distinción que Deng había establecido en &lt;t32/&gt;1989 &lt;t33/&gt;entre dos tipos de reforma: una que defendía los cuatro pinci&lt;t34/&gt;pios cardinales&lt;t35/&gt; &lt;t36/&gt;y&lt;t37/&gt; &lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;otra&lt;t41/&gt; &lt;t42/&gt;que&lt;t43/&gt; &lt;t44/&gt;“restauraba&lt;t45/&gt; &lt;t46/&gt;el capitalismo”.&lt;t47/&gt; &lt;t48/&gt;La&lt;t49/&gt; &lt;t50/&gt;primera&lt;t51/&gt; &lt;t52/&gt;era&lt;t53/&gt; &lt;t54/&gt;correcta,&lt;t55/&gt; &lt;t56/&gt;mientras que la segunda había ocasionado el colapso del socialismo en Europa Oriental y en la Unión Soviética.</seg>
       </tuv>
     </tu>
     <tu>
