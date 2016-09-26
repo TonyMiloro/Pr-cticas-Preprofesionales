@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10450,8 +10450,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It is apparent from the tone of many of the denunciations of Zhao appearing in the weeks and months following Tiananmen that such conservatives resented Zhao personally; they believed that he had ignored and insulted them, treating their concerns contemptuously.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T023225Z" creationid="rona" creationdate="20160926T022917Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T023846Z" creationid="rona" creationdate="20160926T022917Z">
+        <seg>Por el tono de varias de las acusaciones de Zhao que surgieron en las semanas y meses después de Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
