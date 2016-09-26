@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20966,6 +20966,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160918T220742Z">
         <seg>Pero mientras algunos pensadores como Wang Hui y Cui Zhiyuan comenzaron a explorar nuevos conceptos de "modernidad" y distintos caminos hacia el desarrollo, otros investigadores, en especial Hu Angang y Wang Shaoguang, cuyas ideas presentaremos más adelante,desviaron su atención hacia la "capacidad del Estado". La capacidad del Estado es un concepto antiguo de las ciencias políticas estadounidenses que recibió una inyección de vitalidad intelectual en la década de los 80 cuando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet by the 1990s a considerable number of intellectuals began to worry about the consequences of declining central revenues (in relative terms), increasing income gaps between both classes and regions, corruption, and other problems.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T155234Z" creationid="Edgardo" creationdate="20160926T155234Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
