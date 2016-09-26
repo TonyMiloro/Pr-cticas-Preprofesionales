@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20341,6 +20341,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160910T173657Z">
         <seg>Como Wu, Zhang creía que, si China intentaba avanzar hacia la democracia demasiado rápido, la fusión entre la economía y la política continuaría</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhao Ziyang was a lightning rod for such issues.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T021201Z" creationid="rona" creationdate="20160926T021104Z">
+        <seg>Zhao Ziyang era el pararrayos de esos asuntos.</seg>
       </tuv>
     </tu>
     <tu>
