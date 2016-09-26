@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9774,6 +9774,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In other words, reform had generated a profound range of social changes, and the question that had racked the Party for years was how it should respond to these changes.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T145028Z" creationid="rona" creationdate="20160926T145028Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In other words, the only member of the CMC, other than Jiang Zemin, &lt;t119/&gt;not &lt;t120/&gt;to attend the forum was &lt;t121/&gt;Hu &lt;t122/&gt;Jintao &lt;t123/&gt;– &lt;t124/&gt;whose name was not mentioned in the various &lt;t125/&gt; &lt;t126/&gt;reports.&lt;t127/&gt;55</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T132222Z" creationid="Flor" creationdate="20160926T132222Z">
@@ -17569,8 +17577,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The question of the content of reform – or, in Chinese jargon, the political line – was related to a &lt;s0/&gt;number of &lt;s1/&gt;state–society questions: the relations between the central government and the localities, the rapidly changing social structure of Chinese society (including the emergence of a &lt;f2&gt;nouveau&lt;/f2&gt; &lt;f3&gt;riche&lt;/f3&gt; class, the growing independence of the intellectual elite, and the rising expectations of society), and the very real fears of many people that reform might hurt rather than help their interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T144714Z" creationid="rona" creationdate="20160926T142747Z">
-        <seg>La pregunta sobre el contenido de la reforma, o en jerga china, la línea pollítica, se relacionaba con &lt;s0/&gt;un número de &lt;s1/&gt;preguntas de caracter estatal y social: las relaciones entre el gobierno central y las localidades, la estructura social que cambiaba rápida y permanentemente de la sociedad China (incluyendo el surgimiento de la clase &lt;f2&gt;de&lt;/f2&gt; &lt;f3&gt;nuevos&lt;/f3&gt; ricos, la independencia en expansión de la élite intelectual, .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T144857Z" creationid="rona" creationdate="20160926T142747Z">
+        <seg>La pregunta sobre el contenido de la reforma, o en jerga china, la línea pollítica, se relacionaba con &lt;s0/&gt;un número de &lt;s1/&gt;preguntas de caracter estatal y social: las relaciones entre el gobierno central y las localidades, la estructura social que cambiaba rápida y permanentemente de la sociedad China (incluyendo el surgimiento de la clase &lt;f2&gt;de&lt;/f2&gt; &lt;f3&gt;nuevos&lt;/f3&gt; ricos, la independencia en expansión de la élite intelectual, y las crecientes expectativas de la sociedad),</seg>
       </tuv>
     </tu>
     <tu>
