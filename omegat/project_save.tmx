@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14048,8 +14048,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Reviewing the intellectual scene, the Shanghai-based critic Xu Jilin commented that intellectuals in the latter part of the 1980s really were “intellectual heroes,” treated as celebrities on college campuses and urban streets.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T013353Z" creationid="daiana" creationdate="20160920T061850Z">
-        <seg>Al analizar la escena intelectual, el crítico especialista en Shanghái Xu Jilin,comentó que los intelectuales en la última parte de la década de los 80 eran en verdad "héroes intelectuales", que se los trataba como celebridades en los campus de .</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T013657Z" creationid="daiana" creationdate="20160920T061850Z">
+        <seg>Al analizar la escena intelectual, el crítico especialista en Shanghái Xu Jilin,comentó que los intelectuales en los últimos años de la década de los 80 eran en verdad "héroes intelectuales" a los que se trataba como celebridades en los campus de las universidades y en las calles de la ciudad .</seg>
       </tuv>
     </tu>
     <tu>
