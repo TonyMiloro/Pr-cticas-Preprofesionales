@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9144,8 +9144,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1989 China had a foreign trade of $415 billion; at year-end 2006, foreign trade stood at $1.76 trillion, making China the third largest trading nation in the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T053836Z" creationid="Pablo" creationdate="20160914T044327Z">
-        <seg>En 1989 el comercio exterior de China era de USD 415 billones; a fines de 2006 el comercio exterior llegó a 1,76 trillones, convirtiendo a China en la tercera nación comerciante más grande del mundo.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T193534Z" creationid="Pablo" creationdate="20160914T044327Z">
+        <seg>En 1989 el comercio exterior de China alcanzaba los USD 415 mil millones; a fines de 2006 el comercio exterior llegó a 1,76 billones, convirtiendo a China en la tercera nación más grande del comercio internacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9160,8 +9160,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1989, China had a GDP of 1.7 trillion yuan; by yearend 2006 its GDP stood at 20.9 trillion yuan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T193318Z" creationid="Pablo" creationdate="20160914T030001Z">
-        <seg>En 1989 China tenía una PIB de 1,7 billones de yuanes; a fines de 2006 el PIB ascendió a 20,9 trillones de yuanes.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T193340Z" creationid="Pablo" creationdate="20160914T030001Z">
+        <seg>En 1989 China tenía un PIB de 1,7 billones de yuanes; a fines de 2006 el PIB ascendió a 20,9 billones de yuanes.</seg>
       </tuv>
     </tu>
     <tu>
