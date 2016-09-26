@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7809,6 +7809,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160911T183416Z" creationid="Sofia" creationdate="20160911T183416Z">
         <seg>Debido a la falta de legitimidad del estado y al rol significativo que siempre se le concede a la idología en la China Comunista, los intelectuales tenían un rol que cumplir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given this basic (if somewhat oversimplified) diagnosis of what was wrong with China, it was natural that intellectuals turned to the May Fourth tradition for inspiration and moral sustenance.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T130244Z" creationid="LENOVO" creationdate="20160926T130244Z">
+        <seg>De acuerdo con este diagnóstico básico (o también simplificado) sobre lo que estaba mal en China, era natural que los intelectuales recurrieran a la tradición del Cuatro de mayo en búsqueda de inspiración </seg>
       </tuv>
     </tu>
     <tu>
