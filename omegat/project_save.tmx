@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17553,8 +17553,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The question thrown open by Tiananmen, then, was the nature of Deng’s leadership and thus whether or not the Party should continue reform as it had been deﬁned by Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T141800Z" creationid="rona" creationdate="20160926T141800Z">
-        <seg>la pregunta sobre Tiananmén que permanecia abierta, fue luego la naturaleza del liderazgo de Deng  .</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T142422Z" creationid="rona" creationdate="20160926T141800Z">
+        <seg>La pregunta sobre Tiananmén que permanecia abierta, fue luego la naturaleza del liderazgo de Deng y, por consiguiente, en si el partido debería continuar la reforma como  .</seg>
       </tuv>
     </tu>
     <tu>
