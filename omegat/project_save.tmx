@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18917,6 +18917,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000859Z" creationid="Usuario" creationdate="20160922T220451Z">
         <seg>De este modo, se combinaba el &lt;t10/&gt;incrementalismo&lt;t11/&gt; exigido por personas como &lt;t12/&gt;Sheng&lt;t13/&gt; Hong con la crítica a la economía señorial exigida por Chen Yuan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, it was not unusual for Jiang to commemorate the eightieth anniversary of the Party with a major add&lt;t49/&gt;ress &lt;t50/&gt;– &lt;t51/&gt;his July &lt;t52/&gt;1&lt;t53/&gt;,&lt;t54/&gt; &lt;t55/&gt;2001&lt;t56/&gt;, speech &lt;t57/&gt;– &lt;t58/&gt;but it was highly unusual for &lt;t59/&gt;Hu &lt;t60/&gt;Jintao to give a major speech on the eighty-second anniversary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T130125Z" creationid="Flor" creationdate="20160926T130125Z">
+        <seg>&lt;t49/&gt;Por lo tanto, no fue extraño que Jiang diera un discurso importante en conmemoración del octogésimo aniversario de fundación del partido (su discurso del 1 de julio de 2001) pero sí fue bastante extraño que Hu Jintao diera un gran discurso en el octogésimo segundo aniversario.&lt;t50/&gt; &lt;t51/&gt;&lt;t52/&gt;&lt;t53/&gt;&lt;t54/&gt; &lt;t55/&gt;&lt;t56/&gt;&lt;t57/&gt;&lt;t58/&gt;&lt;t59/&gt; &lt;t60/&gt;</seg>
       </tuv>
     </tu>
     <tu>
