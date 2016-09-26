@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16085,6 +16085,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160926T015450Z" creationid="rona" creationdate="20160926T014527Z">
         <seg>El liderazgo del partido no fue forzado a guardar silencio ni a mostrarse irrelevante, pero fue gravemente sacudido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Politburo is theoretically subordinate to the Central Committee, but it never reported as a body to its supe- &lt;t65/&gt;rior&lt;t66/&gt; &lt;t67/&gt;organization.&lt;t68/&gt; &lt;t69/&gt;H&lt;t70/&gt;o&lt;t71/&gt;w&lt;t72/&gt;e&lt;t73/&gt;v&lt;t74/&gt;e&lt;t75/&gt;r&lt;t76/&gt;,&lt;t77/&gt; &lt;t78/&gt;H&lt;t79/&gt;u,&lt;t80/&gt; &lt;t81/&gt;who&lt;t82/&gt; &lt;t83/&gt;would&lt;t84/&gt; &lt;t85/&gt;make&lt;t86/&gt; &lt;t87/&gt;“&lt;t88/&gt;P&lt;t89/&gt;a&lt;t90/&gt;r&lt;t91/&gt;ty&lt;t92/&gt; &lt;t93/&gt;buildin&lt;t94/&gt;g&lt;t95/&gt;”&lt;t96/&gt; &lt;t97/&gt;and &lt;t98/&gt;regularization of Party procedures a major feature of his administration, gave a work report on behalf of the Politburo.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T133700Z" creationid="Flor" creationdate="20160926T133700Z">
+        <seg>&lt;t65/&gt;En teoría, el Politburó está subordinado al Comité Central, pero nunca rindió cuentas ante su institución superior. Sin embargo, Hu entregó un informe de trabajo en nombre del Politburó (sus procedimientos de “construcción del partido” y de regularización del partido serían las características más sobresalientes de su administración). &lt;t66/&gt; &lt;t67/&gt;&lt;t68/&gt; &lt;t69/&gt;&lt;t70/&gt;&lt;t71/&gt;&lt;t72/&gt;&lt;t73/&gt;&lt;t74/&gt;&lt;t75/&gt;&lt;t76/&gt;&lt;t77/&gt;&lt;t78/&gt;&lt;t79/&gt;&lt;t80/&gt; &lt;t81/&gt;&lt;t82/&gt; &lt;t83/&gt;&lt;t84/&gt; &lt;t85/&gt;&lt;t86/&gt;&lt;t87/&gt;&lt;t88/&gt;&lt;t89/&gt;&lt;t90/&gt;&lt;t91/&gt;&lt;t92/&gt; &lt;t93/&gt;&lt;t94/&gt;&lt;t95/&gt;&lt;t96/&gt; &lt;t97/&gt;&lt;t98/&gt;</seg>
       </tuv>
     </tu>
     <tu>
