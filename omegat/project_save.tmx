@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16760,8 +16760,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The new office had a bureaucratic standing equivalent to the&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;SPC and effectively marginalized the latter organization by taking over day-to-day management of the economy, leaving the SPC to deal with the macroeconomy.&lt;/f3&gt;&lt;f5&gt;24&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Moreover, Zhu was successful, at least temporarily, in reducing the problem of interenterprise d&lt;/f6&gt;&lt;f8&gt;ebt.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160905T020558Z">
-        <seg>Este nuevo organizmo tenía un rango burocrático similar al de la&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;CEPD y marginaba de manera efectiva a esta última organización, haciéndose cargo de la administración diaria de la economía, y dejando que la CEPD se ocupase de la macroeconomía .&lt;/f3&gt;&lt;f5&gt;24&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Es más, Zhu tuvo éxito, al menos temporalmente, al reducir el problema de la deuda interempresarial  &lt;/f6&gt;&lt;f8&gt;.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160926T011127Z">
+        <seg>Este nuevo organizmo tenía un rango burocrático similar al de la&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;CEP y marginaba de manera efectiva a esta última organización, haciéndose cargo de la administración diaria de la economía, y dejando que la CEP se ocupase de la macroeconomía .&lt;/f3&gt;&lt;f5&gt;24&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Es más, Zhu tuvo éxito, al menos temporalmente, al reducir el problema de la deuda interempresarial  &lt;/f6&gt;&lt;f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20332,8 +20332,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zou maintained his position as a vice-premier and head of the SPC (until 1993), but his influence in policy circles was beginning to fade despite his subsequent elevation to the Politburo (but not its Standing Committee) in 1992.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160926T010431Z">
-        <seg>Zhu se mantuvo en su cargo como vice primer ministro y al frente de la CEPD (hasta 1993), pero su influencia en los círculos políticos comenzaba a desvanecerse, a pesar de su posterior ascenso al Politburó (pero no al Comité Permanente) en 1992.&lt;/f9&gt;</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160926T011245Z">
+        <seg>Zhu se mantuvo en su cargo como vice primer ministro y al frente de la CEP (hasta 1993), pero su influencia en los círculos políticos comenzaba a desvanecerse, a pesar de su posterior ascenso al Politburó (pero no al Comité Permanente) en 1992.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
