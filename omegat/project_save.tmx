@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10082,6 +10082,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T195151Z">
         <seg>En la versión publicada en el &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Southern Daily&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Lin argumentó que la planificación tenía que estar basada en la "bolsa de comercio y la ley del valor" y declaró que "esta es una ley objetiva, independientemente de que la gente lo reconozca o no." &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;13&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the &lt;/f2&gt;1980s, criticism of reform came mostly from “conservatives,” primarily those ideologues with ties to the propaganda system, the planned economy, and parts of the military who tried to uphold “socialism” in the face of reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T150820Z" creationid="Edgardo" creationdate="20160926T150820Z">
+        <seg>En la década de &lt;/f2&gt;los 80, .</seg>
       </tuv>
     </tu>
     <tu>
