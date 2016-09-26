@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14072,8 +14072,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Other leaders associated with Tiananmen – such as Beijing city leaders Chen Xitong and Li Ximing, conservative elders Li Xiannian and Chen Yun, and military leaders such as Yang Shangkun – have all either left office or passed away.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T025829Z" creationid="Pablo" creationdate="20160914T025829Z">
-        <seg>Otros líderes asociados con Tiananmén, como Chen Xitong y Li Ximing, que eran líderes en la ciudad de Pekín, los ancianos conservativos Li Xiannian y Chen Yun, y líderes militares como Yang Shangkun, se habían retirado o habían fallecido.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T192655Z" creationid="Pablo" creationdate="20160914T025829Z">
+        <seg>Otros líderes asociados con la masacre de Tiananmén, como Chen Xitong y Li Ximing, que eran líderes en la ciudad de Pekín, los ancianos conservativos Li Xiannian y Chen Yun, y líderes militares como Yang Shangkun, se habían retirado o habían fallecido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21204,8 +21204,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhao’s successor as general secretary, Jiang Zemin, officially retired in 2002, though he retained some important influence in the years after.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T025220Z" creationid="Pablo" creationdate="20160914T025220Z">
-        <seg>Jiang Zemin, el sucesor de Zhao como secretario general, se retiró oficialmente en 2002, aunque conservó una influencia importante por unos años.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T192423Z" creationid="Pablo" creationdate="20160914T025220Z">
+        <seg>Jiang Zemin, el sucesor de Zhao como Secretario General, se retiró oficialmente en 2002, aunque conservó una influencia importante en los años siguientes.</seg>
       </tuv>
     </tu>
     <tu>
