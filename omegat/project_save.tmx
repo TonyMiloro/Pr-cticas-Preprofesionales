@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3381,6 +3381,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160922T231744Z" creationid="Melanie" creationdate="20160922T231408Z">
         <seg>A pesar de que los autores no profundizaron en el tema, es evidente que estaban analizando, de forma tentativa, los esfuerzos para establecer instituciones políticas viables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although the concept of Occidentalism includes denigration of Western culture, Zhang is more concerned with the idealizations of the West that he believes have been prevalent in China since the May Fourth Movement.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T173546Z" creationid="ROMI" creationdate="20160926T173405Z">
+        <seg>Aunque el concepto de Occidentalismo incluye la denigración de la cultura Occidental, Zhang está más preocupado por las idealizaciones del Occidente , las cuales él cree que prevalencen en China desde el movimiento del cuatro de mayo.</seg>
       </tuv>
     </tu>
     <tu>
