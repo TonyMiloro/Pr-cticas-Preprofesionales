@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11189,8 +11189,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was, of course, the May Fourth Movement that introduced and popularized many concepts of the European enlightenment to China; Zhang is so wary of enlighten-ment values that he takes Said to task for basing his criticisms of the West on those values.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T174606Z" creationid="ROMI" creationdate="20160926T174249Z">
-        <seg>Fue, por supuesto, el movimiento del cuatro de mayo el que introdujo y popularizo mucho conceptos de la Ilustración europea a China. Zhang está tan preocupado por los valores de la Ilustración que </seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T174800Z" creationid="ROMI" creationdate="20160926T174249Z">
+        <seg>Fue, por supuesto, el movimiento del cuatro de mayo el que introdujo y popularizo mucho conceptos de la Ilustración europea a China. Zhang está tan preocupado por los valores de la Ilustración que toma a Said y le asigna la tarea de basar esos valores en sus críticas del Occidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21118,6 +21118,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T164523Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang argues that humanism contains within it the anti-humanist values that became the basis of colonialism and culminated in the Holocaust: “The evil perpetuated on the Jews under German fascism was the inevitable [result] of the logical development of enlightenment discourse; it returned the anti-humanist practice hidden in the humanist faith from the colonies back to Europe.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T174939Z" creationid="ROMI" creationdate="20160926T174939Z">
+        <seg>Zhang argumenta que el humanismo contiene dentro de él valores antihumanistas los cuales se convertian en la base del colonialismo y culminaba en el Holocausto: "La maldad</seg>
       </tuv>
     </tu>
     <tu>
