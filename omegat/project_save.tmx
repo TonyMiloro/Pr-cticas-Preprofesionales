@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5451,8 +5451,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Chapter 4</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160902T041212Z">
-        <seg>Capítulo 4</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215009Z">
+        <seg>CAPÍTULO 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -7133,8 +7133,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Facing a commercial culture that has penetrated everywhere, they have painfully recognized that they are no longer cultural heroes and &lt;/f10&gt;&lt;f11&gt;the molders of values.”&lt;/f11&gt;&lt;f12&gt;13&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;It was not just that commercialization presented intellectuals with a profound crisis of identity but also that &lt;s15/&gt;intellectuals began to disintegrate as an identifiable social group.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T024028Z">
-        <seg>Enfrentando a una cultura comercial que se ha insertado en todos los ámbitos, los intelectuales han reconocido plenamente que ya no son héroes culturales ni  &lt;/f10&gt;&lt;f11&gt;los moldeadores de valores.”&lt;/f11&gt;&lt;f12&gt;13&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;No solo la comercialización hizo que los intelectuales presentaran una crisis profunda de identidad, sino que también &lt;s15/&gt;comenzaron a desintegrarse como grupo social reconocible.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215313Z">
+        <seg>Enfrentando a una cultura comercial que se ha insertado en todos los ámbitos, los intelectuales han reconocido plenamente que ya no son héroes culturales ni &lt;/f10&gt;&lt;f11&gt;los moldeadores de valores.”&lt;/f11&gt;&lt;f12&gt;13&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;No solo la comercialización hizo que los intelectuales presentaran una crisis profunda de identidad, sino que también &lt;s15/&gt;comenzaron a desintegrarse como grupo social reconocible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8544,8 +8544,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, by the 1990s this was no longer the case, as intellectuals became marginalized by the changes in social values that accompanied the growth of the economy.&lt;/f0&gt;&lt;f1&gt;12 &lt;/f1&gt;&lt;f2&gt;Similarly, Wang Hui, editor of the country’s most influential intellectual journal &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), wrote that “[i]ntellectuals in the 1980s thought of themselves as cultural heroes &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;and persons of foresight (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), but intellectuals in the 1990s are struggling to find a new way of adapting.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T024302Z">
-        <seg>Sin embargo, en la década de los 90, esa ya no era la situación, ya que los intelectuales se convirtieron en marginados debido a los cambios en los valores sociales que acompañaron el crecimiento de la economía.&lt;/f0&gt;&lt;f1&gt;12 &lt;/f1&gt;&lt;f2&gt;Del mismo modo, Wang Hui, editor de la revista intelectual más influyente del país &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), escribió que “los [i]ntelectuales en la década de los 80 se creían que eran héroes culturales  &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;y personas con previsión (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), pero los intelectuales en la década del 90 están tratando de encontrar la forma de adaptarse .</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215244Z">
+        <seg>Sin embargo, en la década de los 90, esa ya no era la situación, ya que los intelectuales se convirtieron en marginados debido a los cambios en los valores sociales que acompañaron el crecimiento de la economía.&lt;/f0&gt;&lt;f1&gt;12 &lt;/f1&gt;&lt;f2&gt;Del mismo modo, Wang Hui, editor de la revista intelectual más influyente del país &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), escribió que “los [i]ntelectuales en la década de los 80 se creían que eran héroes culturales &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;y personas con previsión (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), pero los intelectuales en la década del 90 están tratando de encontrar la forma de adaptarse .</seg>
       </tuv>
     </tu>
     <tu>
@@ -20020,8 +20020,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Unlike the 1980s, in which the vast majority of people benefited from reform, by the 1990s there was an increasing sense of “winners” and “losers,” both economically and psychologically.&lt;/f8&gt;&lt;f9&gt;4 &lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160919T160703Z">
-        <seg>A diferencia de la década de los 80, en la que la gran mayoría de personas se beneficiaron de la reforma, en la década de los 90 hubo una creciente sensación  de "ganadores" y "perdedores", tanto económica como psicológicamente&lt;/f8&gt;&lt;f9&gt;4. &lt;/f9&gt;</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215226Z">
+        <seg>A diferencia de la década de los 80, en la que la gran mayoría de personas se beneficiaron de la reforma, en la década de los 90 hubo una creciente sensación de "ganadores" y "perdedores", tanto económica como psicológicamente&lt;/f8&gt;&lt;f9&gt;4. &lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
