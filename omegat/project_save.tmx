@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10506,8 +10506,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It was highly unusual for an alternate member of the Central Committee to be promoted to vice-premier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T223915Z">
-        <seg>Era algo extremadamente inusual que un miembro suplente del Comité Central sea promovido al cargo de viceprimer ministro.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160926T003647Z">
+        <seg>Era algo extremadamente inusual que un miembro alterno del Comité Central sea promovido al cargo de vice primer ministro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20275,8 +20275,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhu has&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;drawn intense interest from domestic and foreign observers alike because he is unique in Chinese politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T224131Z">
-        <seg>Zhu había&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;despertado gran interés tanto en observadores locales como internacionales porque era un caso único en la política china.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160926T003738Z">
+        <seg>Zhu había&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;despertado gran interés tanto en observadores locales como internacionales porque él era un caso único en la política china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20340,8 +20340,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zou was a full member of the Central Committee, but Zhu was only an alter-nate member.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160904T223718Z">
-        <seg>Zou era miembro titula del Comité Central, pero Zhu solo era miembro suplente.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160926T003616Z">
+        <seg>Zou era miembro titula del Comité Central, pero Zhu solo era un miembro alterno.</seg>
       </tuv>
     </tu>
     <tu>
