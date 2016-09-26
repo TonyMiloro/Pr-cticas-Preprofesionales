@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18425,8 +18425,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This focus on the dangers of leftism and feudalism assigned a lofty position to theWest – particularly the United States, which took on an aura of modernity that provided a mirror opposite to the leftism that intellectuals sought to root out.Western culture provided fuel for ongoing critiques of Chinese culture, thus continuing the May Fourth rejection of traditional values, while theWestern economic and political systems served as foils to criticize the planned economy and authoritarian political system of China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T134201Z" creationid="LENOVO" creationdate="20160926T134201Z">
-        <seg>Este énfasis en los peligros del izquierdismo y del feudalismo le asignó una posición noble al Occidente, en especial a Estados Unidos, quien adoptó un aura de modernidad que lo posicionó como la cara contraria al izquierdismo que los intelectuales buscaban eliminar.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T134358Z" creationid="LENOVO" creationdate="20160926T134201Z">
+        <seg>Este énfasis en los peligros del izquierdismo y del feudalismo le asignó una posición noble al Occidente, en especial a Estados Unidos, quien adoptó un aura de modernidad que lo posicionó como la cara contraria al izquierdismo que los intelectuales buscaban eliminar. La cultura Occidental impulsó las críticas de la cultura china, lo que extendió el rechazo del Cuatro de Mayo a los valores tradicionales, mientras los sistemas económicas y políicos occidentales </seg>
       </tuv>
     </tu>
     <tu>
