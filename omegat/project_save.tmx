@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_8" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4139,8 +4139,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As the collapse of socialism in Eastern Europe and the Soviet Union defined one pole in intellectual thinking about the international environment, theUnited States formed the other.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T222355Z">
-        <seg>Como el colapso del socialismo en Europa oriental y la Unión Soviética constituían un polo en el pensamiento intelectual sobre del ámbito internacional, Estados Unidos constituía el otro polo.</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T222424Z" creationid="Edgardo" creationdate="20160926T222142Z">
+        <seg>Como el colapso del socialismo en Europa oriental y la Unión Soviética constituían un polo en el pensamiento intelectual sobre el ámbito internacional, Estados Unidos constituía el otro polo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10861,6 +10861,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T055527Z">
         <seg>Los intelectuales tienen un rol extremadamente &lt;s0/&gt;limitado durante este período. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intellectuals held overwhelmingly favorable views of the United States in the 1980s; many initially supported the sanctions imposed by the Bush administration on the Chinese government in the wake of Tiananmen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T222804Z" creationid="Edgardo" creationdate="20160926T222716Z">
+        <seg>Los intelectuales tenían opiniones abrumadoramente favorables de Estados Unidos en la década de los 80; .</seg>
       </tuv>
     </tu>
     <tu>
