@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9696,8 +9696,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In contrast to political liberals, who believed that closer ties with the West would undermine such vested interests by reinforcing legal norms and institutions and eventually bring about democracy, the New Left saw elite interests in China combining, even colluding, with international interests to strengthen the hold of socioeconomic elites and reinforce the gap between rich and poor.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T233215Z">
-        <seg>Los políticos liberales sostenían que vínculos más estrechos con occidente socavarían dichos intereses mediante el fortalecimiento de instituciones y normas legales, causando eventualmente el establecimiento de una democracia. En cambio, para la nueva izquierda, los intereses de la élite china se combinaban e incluso confabulaban con intereses internacionales para fortalecer el control socioeconómico de las elites y perpetrar aún más la brecha entre ricos y pobres.</seg>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160926T232926Z">
+        <seg>Los políticos liberales sostenían que vínculos más estrechos con occidente socavarían dichos intereses mediante el fortalecimiento de instituciones y normas legales, causando eventualmente el establecimiento de una democracia..En cambio, para la nueva izquierda, los intereses de la élite china se combinabane incluso confabulaban con intereses internacionales para fortalecer el control socioeconómico de las elites e incrementar aún más la brecha entre ricos y pobres.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -16379,8 +16379,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>That was why they viewed the WTO with such suspicion, and, as we saw, reacted with such virulence when Zhu Rongji’s commitments to the US were made public in 1999 – especially when the bombing of the Belgrade Embassy followed so quickly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T131848Z">
-        <seg>Es por eso que sospechaban de la OMC y, como hemos visto, reaccionaron con agresividad cuando, en 1999, se hizo pública la agenda de Zhu Rongji con los E.E.U.U., y más aún, cuando el atentado en la Embajada de Blegrado sucedió poco tiempo después. .</seg>
+      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160926T233220Z">
+        <seg>Es por eso que sospechaban de la OMC y, como hemos visto, reaccionaron con agresividad cuando, en 1999, se hizo pública la agenda de Zhu Rongji con los E.E.U.U.,  principalmente con el atentado a la Embajada de Blegrado que sucedió poco tiempo después.</seg>
       </tuv>
     </tu>
     <tu>
