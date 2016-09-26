@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8285,6 +8285,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>His military thought was&lt;t24/&gt; &lt;t25/&gt;now&lt;t26/&gt; &lt;t27/&gt;an&lt;t28/&gt; &lt;t29/&gt;“important&lt;t30/&gt; &lt;t31/&gt;part”&lt;t32/&gt; &lt;t33/&gt;of&lt;t34/&gt; &lt;t35/&gt;the&lt;t36/&gt; &lt;t37/&gt;Three&lt;t38/&gt; &lt;t39/&gt;Represents,&lt;t40/&gt; &lt;t41/&gt;which&lt;t42/&gt; &lt;t43/&gt;previously had&lt;t44/&gt; &lt;t45/&gt;no&lt;t46/&gt; &lt;t47/&gt;military&lt;t48/&gt; &lt;t49/&gt;component.&lt;t50/&gt; &lt;t51/&gt;“Jiang&lt;t52/&gt; &lt;t53/&gt;Zemin’s&lt;t54/&gt; &lt;t55/&gt;thinking&lt;t56/&gt; &lt;t57/&gt;on&lt;t58/&gt; &lt;t59/&gt;nationa&lt;t60/&gt;l&lt;t61/&gt; &lt;t62/&gt;defense and&lt;t63/&gt; &lt;t64/&gt;army&lt;t65/&gt; &lt;t66/&gt;building,”&lt;t67/&gt; &lt;t68/&gt;according&lt;t69/&gt; &lt;t70/&gt;to&lt;t71/&gt; &lt;t72/&gt;CMC&lt;t73/&gt; &lt;t74/&gt;Vice&lt;t75/&gt; &lt;t76/&gt;Chairman&lt;t77/&gt; &lt;t78/&gt;Guo&lt;t79/&gt; &lt;t80/&gt;Boxiong,&lt;t81/&gt; &lt;t82/&gt;“is</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T132735Z" creationid="Flor" creationdate="20160926T132735Z">
+        <seg>&lt;t24/&gt;Sus ideas militares eran ahora una “parte importante” de la Triple Representatividad, que anteriormente no contaba con un componente militar. “El pensamiento de Jiang Zemin sobre el desarrollo de la defensa nacional y del ejército”, según el vicepresidente del CMC Guo Boxiong, &lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt; &lt;t43/&gt;&lt;t44/&gt; &lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt;&lt;t48/&gt; &lt;t49/&gt;&lt;t50/&gt; &lt;t51/&gt;&lt;t52/&gt; &lt;t53/&gt;&lt;t54/&gt; &lt;t55/&gt;&lt;t56/&gt; &lt;t57/&gt;&lt;t58/&gt; &lt;t59/&gt;&lt;t60/&gt;&lt;t61/&gt; &lt;t62/&gt;&lt;t63/&gt; &lt;t64/&gt;&lt;t65/&gt; &lt;t66/&gt;&lt;t67/&gt; &lt;t68/&gt;&lt;t69/&gt; &lt;t70/&gt;&lt;t71/&gt; &lt;t72/&gt;&lt;t73/&gt; &lt;t74/&gt;&lt;t75/&gt; &lt;t76/&gt;&lt;t77/&gt; &lt;t78/&gt;&lt;t79/&gt; &lt;t80/&gt;&lt;t81/&gt; &lt;t82/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ho Te-hsu, “China Has Crossed the Nadir of the Valley but Is Still Climbing Up from the Trough.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211159Z">
@@ -11310,6 +11318,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160914T234215Z" creationid="Pablo" creationdate="20160914T013106Z">
         <seg>Jiang continuaría recibiendo reconocimientos públicos, como lo evidenciaba la publicación de su nuevo libro , "Selected Works", pero su influencia estaba desapareciendo gradualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang&lt;t0/&gt; &lt;t1/&gt;Zemin,&lt;t2/&gt; &lt;t3/&gt;who&lt;t4/&gt; &lt;t5/&gt;had&lt;t6/&gt; &lt;t7/&gt;no&lt;t8/&gt; &lt;t9/&gt;military&lt;t10/&gt; &lt;t11/&gt;experience&lt;t12/&gt; &lt;t13/&gt;prior&lt;t14/&gt; &lt;t15/&gt;to&lt;t16/&gt; &lt;t17/&gt;being&lt;t18/&gt; &lt;t19/&gt;named&lt;t20/&gt; &lt;t21/&gt;head of the CMC in &lt;t22/&gt;1989&lt;t23/&gt;, was lauded for creating a body of military ideas on a par with those of Mao Zedong and Deng Xiaoping.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T132445Z" creationid="Flor" creationdate="20160926T132445Z">
+        <seg>&lt;t0/&gt;A pesar de que no tenía experiencia militar previa cuando fue nombrado jefe del CMC en 1989,  Jiang Zemin fue aclamado por haber creado un corpus de ideas militares a la par de las ideas de Mao Zedong y Deng Xiaoping.&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20790,6 +20806,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160923T140051Z" creationid="Usuario" creationdate="20160922T223547Z">
         <seg>[L]o que trajeron a Asia fue principalmente una cultura colonial". Jiang vio el argumento de Huntington como una continuación de su pasado imperialista. Este argumento está basado en el choque de civilizaciones y sus elogios a los valores occidentales como valores universales&lt;/f0&gt;&lt;f1&gt;42&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a scientific guide to our army building and military development at a new stage&lt;t0/&gt; &lt;t1/&gt;in&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;new&lt;t6/&gt; &lt;t7/&gt;century.”&lt;t8/&gt;56&lt;t9/&gt; &lt;t10/&gt;It&lt;t11/&gt; &lt;t12/&gt;seemed&lt;t13/&gt; &lt;t14/&gt;that&lt;t15/&gt; &lt;t16/&gt;the&lt;t17/&gt; &lt;t18/&gt;military&lt;t19/&gt; &lt;t20/&gt;establishment&lt;t21/&gt; &lt;t22/&gt;was playing an independent role in elite&lt;t23/&gt; &lt;t24/&gt;politics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T132922Z" creationid="Flor" creationdate="20160926T132922Z">
+        <seg>&lt;t0/&gt;“es una guía científica para construir y desarrollar nuestro ejército en el nuevo escenario del próximo siglo”. Al parecer la institución del ejército tenía un rol independiente en las políticas de élite. &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt; &lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;&lt;t23/&gt; &lt;t24/&gt;</seg>
       </tuv>
     </tu>
     <tu>
