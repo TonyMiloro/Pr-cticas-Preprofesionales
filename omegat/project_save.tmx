@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6101,6 +6101,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160921T012849Z" creationid="PC" creationdate="20160921T012849Z">
         <seg>Diciembre El sociólogo Lu Jianhua es sentenciado en secreto&lt;f0&gt;a&lt;/f0&gt;veinte años por filtrar secretos de estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decennial anniversaries are marked &lt;t45/&gt;by major leadership speeches, while non-decennial anniversaries are commemorated more quietly with the &lt;t46/&gt;People’s &lt;t47/&gt;Daily &lt;t48/&gt;running a front- page editorial.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T125954Z" creationid="Flor" creationdate="20160926T125954Z">
+        <seg>Los aniversarios decenales se caracterizan porque los mandatarios dan discursos importantes, mientras que los aniversarios no decenales se conmemoran de una forma más sencilla con una editorial en primera plana del People’s Daily. &lt;t45/&gt;&lt;t46/&gt;&lt;t47/&gt;&lt;t48/&gt;</seg>
       </tuv>
     </tu>
     <tu>
