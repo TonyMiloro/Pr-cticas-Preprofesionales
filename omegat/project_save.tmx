@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1599,6 +1599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Fourteen young scholars, mostly based at the Chinese Academy of Social Sciences, wrote the book (others participated in discussions about its con- tent), which was an extended gloss on Jiang’s &lt;/f0&gt;&lt;f1&gt;1995 &lt;/f1&gt;&lt;f2&gt;speech to the Fifth Plenum on twelve major problems facing China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T014922Z" creationid="Nuevo" creationdate="20160926T014922Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Catorce jóvenes eruditos, en su mayoría de la Academia China de Ciencias Sociales escribieron el libro (otros participaron en discusiones acerca del contenido), el cual fue una glosa extensa del discurso que Jiang brindó en el año 1995 en el Quinto Pleno sobre doce problemas importantes que enfrentaba China. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Gao Xin and He Pin,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Zhu Rongji zhuan&lt;/f2&gt;&lt;f3&gt;, p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212911Z">
@@ -2568,6 +2576,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A year later, these young intellectuals tried to flesh out Jiang’s proposals, dropping some of the balance from the original speech and developing a number of proposals that actually did have implications for the direction in which China was to develop.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T015131Z" creationid="Nuevo" creationdate="20160926T015131Z">
+        <seg>Un año después, estos jóvenes intelectuales trataron de profundizar en las propuestas de Jiang, eliminando parte del discurso original y desarrollando un número de propuestas que en realidad incidieron en la dirección en la cual China se desarrollaría.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A year or so later, He seemed less certain of the inevitable decline of the United States and more worried about the failure of reform in the Soviet Union.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233901Z">
@@ -2893,6 +2909,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T202010Z">
         <seg>A pesar de que Jiang toleraba  la privatización&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;de facto&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;de gran parte de la actividad económica luego del viaje al sur de Deng y de los esfuerzos de Zhu Rongji para eliminar la inflación de la economía, sus declaraciones se mantuvieron ideológicamente cautelosas o conservadoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although Jiang’s speech had been a reasonable and considered look at the difficulties facing China (drawing comparison to Mao’s famous “&lt;/f2&gt;&lt;f3&gt;T&lt;/f3&gt;&lt;f4&gt;en Great Relationships” speech), there had been little follow-up in policy terms.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T015014Z" creationid="Nuevo" creationdate="20160926T015014Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;A pesar de que el discurso de Jiang había sido una mirada razonable y considerada sobre los problemas que enfrentaba China (en comparación con el famoso discurso de Mao “Diez grandes relaciones”), hubo poco seguimiento en términos de política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10134,6 +10158,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indeed, the speech was so well balanced that the policy implications of it were not immediately clear, and the speech soon dropped from public view.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T015039Z" creationid="Nuevo" creationdate="20160926T015039Z">
+        <seg>De hecho, el discurso estuvo tan bien equilibrado que las implicaciones políticas no fueron claras en ese momento y el discurso cayó rápidamente ante la opinión pública.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indeed, there are times when political concerns dominate intellectual discussion to the point where the latter are nearly irrelevant.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T132945Z">
@@ -11006,6 +11038,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160914T234215Z" creationid="Pablo" creationdate="20160914T013106Z">
         <seg>Jiang continuaría recibiendo reconocimientos públicos, como lo evidenciaba la publicación de su nuevo libro , "Selected Works", pero su influencia estaba desapareciendo gradualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang’s &lt;/f2&gt;&lt;f3&gt;1995&lt;/f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;f5&gt;6 &lt;/f5&gt;&lt;f6&gt;talks on distinguishing Marxism from anti-Marxism marked an initial effort, but in the fall of &lt;/f6&gt;&lt;f7&gt;1996 &lt;/f7&gt;&lt;f8&gt;– &lt;/f8&gt;&lt;f9&gt;almost at the very time that the Sixth Plenum was convening to consider the resolution on building spiritual civilization – a&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;volume&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;was&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;published&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;that&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;showed&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;a&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;very&lt;/f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;f25&gt;different&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;side&lt;/f27&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;of&lt;/f29&gt;&lt;f30&gt; &lt;/f30&gt;&lt;f31&gt;Jiang’s&lt;/f31&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;thinking.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T014720Z" creationid="Nuevo" creationdate="20160926T014720Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt; &lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;Las charlas que Jiang brindó en 1995 y 1996 sobre cómo diferenciar el Marxismo del anti-Marxismo marcaron el esfuerzo inicial, pero en otoño de 1996, prácticamente al mismo tiempo que se llevaba a cabo el Sexto Pleno para considerar el fallo para construir una civilización espiritual, se publicó un libro que mostró una forma muy diferente de pensar de Jiang. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17979,6 +18019,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160922T190214Z" creationid="Usuario" creationdate="20160922T190141Z">
         <seg>Este esfuerzo comenzó con la edición de las declaraciones de Deng Xiaoping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This effort to define Jiang’s program in more positive and systematic terms became visible with the October &lt;/f33&gt;&lt;f34&gt;1996 &lt;/f34&gt;&lt;f35&gt;publication of &lt;/f35&gt;&lt;f36&gt;Heart-to-Heart Talks with the General Secretary&lt;/f36&gt;&lt;f37&gt;.&lt;/f37&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T014820Z" creationid="Nuevo" creationdate="20160926T014820Z">
+        <seg>&lt;/f33&gt;&lt;f34&gt;Este esfuerzo para definir el plan de Jiang en términos positivos y sistemáticos se hizo visible en octubre de 1996 con la publicación de las Charlas de corazón a corazón con el Secretario General.&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;</seg>
       </tuv>
     </tu>
     <tu>
