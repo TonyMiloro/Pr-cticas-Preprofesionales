@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17569,8 +17569,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The question of the content of reform – or, in Chinese jargon, the political line – was related to a &lt;s0/&gt;number of &lt;s1/&gt;state–society questions: the relations between the central government and the localities, the rapidly changing social structure of Chinese society (including the emergence of a &lt;f2&gt;nouveau&lt;/f2&gt; &lt;f3&gt;riche&lt;/f3&gt; class, the growing independence of the intellectual elite, and the rising expectations of society), and the very real fears of many people that reform might hurt rather than help their interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T143408Z" creationid="rona" creationdate="20160926T142747Z">
-        <seg>La pregunta sobre el contenido de la reforma, o en jerga china, la línea pollítica, se relacionaba con &lt;s0/&gt;un número de &lt;s1/&gt;preguntas de caracter estatal y social: las rrelaciones entre  &lt;f2&gt;nouveau&lt;/f2&gt; &lt;f3&gt;riche&lt;/f3&gt; class, the growing independence of the intellectual elite, and the rising expectations of society), and the very real fears of many people that reform might hurt rather than help their interests.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T144032Z" creationid="rona" creationdate="20160926T142747Z">
+        <seg>La pregunta sobre el contenido de la reforma, o en jerga china, la línea pollítica, se relacionaba con &lt;s0/&gt;un número de &lt;s1/&gt;preguntas de caracter estatal y social: las relaciones entre el gobierno central y las localidades, la estructura social  &lt;f2&gt;nouveau&lt;/f2&gt; &lt;f3&gt;riche&lt;/f3&gt; class, the growing independence of the intellectual elite, and the rising expectations of society), and the very real fears of many people that reform might hurt rather than help their interests.</seg>
       </tuv>
     </tu>
     <tu>
