@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7847,8 +7847,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Given this basic (if somewhat oversimplified) diagnosis of what was wrong with China, it was natural that intellectuals turned to the May Fourth tradition for inspiration and moral sustenance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T130244Z" creationid="LENOVO" creationdate="20160926T130244Z">
-        <seg>De acuerdo con este diagnóstico básico (o también simplificado) sobre lo que estaba mal en China, era natural que los intelectuales recurrieran a la tradición del Cuatro de mayo en búsqueda de inspiración </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T130314Z" creationid="LENOVO" creationdate="20160926T130244Z">
+        <seg>De acuerdo con este diagnóstico básico (o también simplificado) sobre lo que estaba mal en China, era natural que los intelectuales recurrieran a la tradición del Cuatro de mayo en búsqueda de inspiración y sustento moral. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11654,6 +11654,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160913T000739Z">
         <seg>Li Peng y Yao Yilin, como Deng con desdén notó, eran muy conservadores para su satisfacción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li &lt;/f0&gt;&lt;f1&gt;Zehou, a member of the CASS Philosophy Institute, articulated for his &lt;/f1&gt;&lt;f2&gt;generation of 1980s scholars the need to disentangle the “liberal” elements of the May Fourth tradition – those that emphasized “enlightenment” – from those that were caught up in nationalistic efforts to “save the nation.” Li argued that every time the cultural critique seemed to offer hope of introducing new, enlightenment values into Chinese culture, it was overwhelmed by nationalism (“national salvation”) as China faced one crisis after another.&lt;/f2&gt;&lt;f3&gt;27 &lt;/f3&gt;&lt;f4&gt;Now, in the 1980s, it was finally time to take up the task of enlightenment and carry it through to fruition.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T130556Z" creationid="LENOVO" creationdate="20160926T130556Z">
+        <seg>Li &lt;/f0&gt;&lt;f1&gt;Zehou, miembro del Instituto de Filoso´fia CASS,  &lt;/f1&gt;&lt;f2&gt;generation of 1980s scholars the need to disentangle the “liberal” elements of the May Fourth tradition – those that emphasized “enlightenment” – from those that were caught up in nationalistic efforts to “save the nation.” Li argued that every time the cultural critique seemed to offer hope of introducing new, enlightenment values into Chinese culture, it was overwhelmed by nationalism (“national salvation”) as China faced one crisis after another.&lt;/f2&gt;&lt;f3&gt;27 &lt;/f3&gt;&lt;f4&gt;Now, in the 1980s, it was finally time to take up the task of enlightenment and carry it through to fruition.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15989,6 +15997,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T173646Z">
         <seg>El Movimiento del Cuatro de Mayo (1919) fue parte de un movimiento más amplio denominado Movimiento de la Nueva Cultura (1915-20), que se inspiró en la Ilustración europea y, por lo tanto, se denominó “Ilustración china”. En sintonía con esto, los intelectuales de la década de los 80 se conocían (y se consideraban a sí mismos) como “intelectuales de la Ilustración”; de hecho, una de las revistas científicas liberales fundadas a finales de la década de los 80 se conocía con el nombre de la Nueva Ilustración (Xin qimeng).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The May Fourth tradition had always contained contradictory elements: a radical critique of traditional Chinese culture and a demand to learn from theWest combined with a nationalism that rejected cosmopolitanism in favor of nativism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T130445Z" creationid="LENOVO" creationdate="20160926T130310Z">
+        <seg>La tradición del Cuatro de Mayo siempre se compuso de elementos contradictorios: una crítica radical de la cultural tradicional china y una demanda de aprender del Oeste combinadas con un nacionalismo que rechazaba el cosmpolitanismo en favor del nativismo.</seg>
       </tuv>
     </tu>
     <tu>
