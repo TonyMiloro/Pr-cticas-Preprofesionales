@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12420,6 +12420,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More &lt;t0/&gt;importantly, or at least more observable, was the &lt;t1/&gt;plenum’s &lt;t2/&gt;deci- sion on economic reform, which set a markedly different tone than had&lt;t3/&gt; &lt;t4/&gt;the Sixteenth Party Congress only a year earlier.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T133857Z" creationid="Flor" creationdate="20160926T133857Z">
+        <seg>&lt;t0/&gt;Lo más importante, o al menos lo más apreciable, fue la decisión del pleno sobre la reforma económica, medida que estableció pautas muy diferentes de las del XVI Congreso Nacional del Partido Comunista de China realizado el año anterior. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More important, whatever reformist sentiments there were in Jiang’s speech were soon played down as the Party responded to renewed liberalization in the Soviet Union by circling the wagons even more tightly.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T220901Z" creationid="carolaamiel" creationdate="20160925T215405Z">
@@ -19365,6 +19373,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160917T005840Z" creationid="Monzon" creationdate="20160917T005542Z">
         <seg>Lamentablemente, según su punto de vista, el crecimiento económico en sí mismo no traería estabilidad social (la brecha entre ricos y pobres estaba creciendo, y el patrón de desarrollo económico en China era de "crecimiento sin empleo" o "crecimiento injusto". Si China se enfrentaba a una disminución en el desarrollo económico, la inestabilidad social podía destruir el sistema.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, it was not published.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T133736Z" creationid="Flor" creationdate="20160926T133736Z">
+        <seg>Desafortunadamente nunca se publicó.</seg>
       </tuv>
     </tu>
     <tu>
