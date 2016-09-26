@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12536,6 +12536,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T220901Z" creationid="carolaamiel" creationdate="20160925T215405Z">
         <seg>Aún más importante,cualquier sentimiento reformista que tuviera el discurso de Jiang, se le restó importancia ya que el partido respondió a la liberalización renovada en la Unión Soviética the Party  cerrando filas incluso de manera mas firme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, &lt;t0/&gt;there were indications that the military itself was uncom- fortable with the divided lines of authority.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T141410Z" creationid="Flor" creationdate="20160926T141410Z">
+        <seg>Además, había indicios de que los militares se sentían incómodos con la doble línea de autoridad.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
