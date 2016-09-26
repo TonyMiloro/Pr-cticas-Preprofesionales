@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8633,6 +8633,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160922T121247Z" creationid="Usuario" creationdate="20160922T121247Z">
         <seg>También me cuesta creer que el pueblo estadounidense pragmático esté dispuesto a gastar tanto capital en rodearnos porque creemos en el marxismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I&lt;t0/&gt;n&lt;t1/&gt; &lt;t2/&gt;pa&lt;t3/&gt;r&lt;t4/&gt;ticula&lt;t5/&gt;r&lt;t6/&gt;,&lt;t7/&gt; &lt;t8/&gt;the&lt;t9/&gt; &lt;t10/&gt;plenum&lt;t11/&gt; &lt;t12/&gt;demanded&lt;t13/&gt; &lt;t14/&gt;“&lt;t15/&gt;comp&lt;t16/&gt;r&lt;t17/&gt;ehensi&lt;t18/&gt;v&lt;t19/&gt;e&lt;t20/&gt; &lt;t21/&gt;plannin&lt;t22/&gt;g&lt;t23/&gt;”&lt;t24/&gt; &lt;t25/&gt;(&lt;t26/&gt;tong- &lt;t27/&gt;chou&lt;t28/&gt;) in five areas: urban and rural development, regional development, economic and social development, man and nature (i.e., the environment), and domestic development and international trade.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T134111Z" creationid="Flor" creationdate="20160926T134111Z">
+        <seg>&lt;t0/&gt;En particular, el pleno exigió una ‘planificación extensiva’ (tong- chou) en cinco esferas: desarrollo urbano y rural, desarrollo regional, desarrollo económico y social, humanos y naturaleza (es decir, el medio ambiente) y desarrollo interno y comercio internacional.&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt;</seg>
       </tuv>
     </tu>
     <tu>
