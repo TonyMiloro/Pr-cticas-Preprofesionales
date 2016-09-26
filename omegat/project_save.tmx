@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10444,6 +10444,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131324Z">
         <seg>También resulta de importancia comprobar si la intolerancia que se promueve en las declaraciones en los últimos años forma la base de las movilizaciones populares, como las manifestaciones contra Japón en la primavera de 2005.&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is apparent from the tone of many of the denunciations of Zhao appearing in the weeks and months following Tiananmen that such conservatives resented Zhao personally; they believed that he had ignored and insulted them, treating their concerns contemptuously.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T023225Z" creationid="rona" creationdate="20160926T022917Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
