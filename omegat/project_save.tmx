@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3029,6 +3029,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160909T023334Z">
         <seg>Miembros suplentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although &lt;t0/&gt;Hu &lt;t1/&gt;had continuously supported &lt;t2/&gt;Jiang’s &lt;t3/&gt;Three Represents, he also began introducing his own vocabulary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T134420Z" creationid="Flor" creationdate="20160926T134420Z">
+        <seg>&lt;t0/&gt;A pesar de haber apoyado siempre la Triple Representatividad de Jiang, Hu también comenzó a incluir su propio vocabulario.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
