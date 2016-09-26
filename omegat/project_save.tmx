@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5701,6 +5701,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045141Z">
         <seg>se discute el Décimo Primer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conservative Party leaders believed that Zhao had been leading reform farther and farther from socialism and that Tiananmen was the inevitable and &lt;s0/&gt;foreseeable denouement of &lt;s1/&gt;the &lt;s2/&gt;reform &lt;s3/&gt;program &lt;s4/&gt;that &lt;s5/&gt;Zhao &lt;s6/&gt;led &lt;s7/&gt;and symbolized.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160926T021831Z" creationid="rona" creationdate="20160926T021522Z">
+        <seg>Los líderes del partido conservador creían que Zhao había alejado más y más la reforma del socialismo y que los sucesos de Tiananmén era un deselance inevitable&lt;s0/&gt;y  &lt;s1/&gt;the &lt;s2/&gt;reform &lt;s3/&gt;program &lt;s4/&gt;that &lt;s5/&gt;Zhao &lt;s6/&gt;led &lt;s7/&gt;and symbolized.</seg>
       </tuv>
     </tu>
     <tu>
