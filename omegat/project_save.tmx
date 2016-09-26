@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4427,8 +4427,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time, some old cadres were heard to mutter&lt;t10/&gt; &lt;t11/&gt;that the government’s readiness to accept globalization was like Wang &lt;t12/&gt;Jingwei’s&lt;t13/&gt; &lt;t14/&gt;willingness to serve as head of Japan’s puppet government in occupied&lt;t15/&gt; &lt;t16/&gt;China during World War Two.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T002937Z" creationid="Jesica" creationdate="20160914T002937Z">
-        <seg>Al mismo tiempo, algunos viejos cuadros escucharon el murmuro que la disposición del govierno  para aceptar la globalizacion como la voluntad Wang Jingwei para servir como la cabeza del titere del gobierno japones en China ocupada durante la Segunda Guerra Mundial   .</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T193541Z" creationid="Jesica" creationdate="20160914T002937Z">
+        <seg>Al mismo tiempo, algunos viejos cuadros escucharon el murmuro que la disposición del govierno a aceptar la globalizacion era como la voluntad Wang Jingwei para servir como la cabeza del titere del gobierno japones en China ocupada durante la Segunda Guerra Mundial   .</seg>
       </tuv>
     </tu>
     <tu>
