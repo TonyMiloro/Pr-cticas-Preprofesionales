@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10712,6 +10712,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It &lt;t0/&gt;is unlikely that there was any understanding within the Party about how long Jiang Zemin would continue to head the CMC.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T135635Z" creationid="Flor" creationdate="20160926T135635Z">
+        <seg>Es poco probable que haya habido un acuerdo dentro del partido acerca de cuánto tiempo permanecería Jiang Zemin en su cargo como Presidente de la CMC. &lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It &lt;t0/&gt;was against this background that the campaign to study the Three Represents took on more of a political edge than it would have had in   the absence of the SARS crisis.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T124956Z" creationid="Flor" creationdate="20160922T212523Z">
@@ -21390,6 +21398,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Luisina" changedate="20160918T162005Z" creationid="Luisina" creationdate="20160918T162005Z">
         <seg>su propia &lt;t0/&gt; ley a través del énfasis de la ideología y los valores socialistas, o debería tratar de ganar el apoyo popular y fortalecer a la nación con reformas económicas continuas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>jiang retires from the cmc</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T135532Z" creationid="Flor" creationdate="20160926T135532Z">
+        <seg>Jiang se retira de la CMC</seg>
       </tuv>
     </tu>
     <tu>
