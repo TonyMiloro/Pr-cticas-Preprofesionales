@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2875,8 +2875,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>According to many reports, Jiang Zemin himself approved of Chen’s removal, but Jiang was under tremendous pressure, including apparently investigations into the financial activities of his own son, Jiang Mianhong.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T185143Z" creationid="Pablo" creationdate="20160914T012205Z">
-        <seg>Según varios informes, el mismo Jiang Zemin apoyó la destitución de Chen, pero Jiang se encontraba bajo una tremenda presión, además de sospechar que las actividades financieras de su propio hijo, Jiang Mianhong, estaban bajo investigación.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T185739Z" creationid="Pablo" creationdate="20160914T012205Z">
+        <seg>Según varios informes, el mismo Jiang Zemin apoyó la destitución de Chen, pero Jiang se encontraba bajo una tremenda presión, que provenía, entre otras cosas, de supuestas investigaciones sobre las actividadades financieras de su propio hijo, Jiang Mianhong.</seg>
       </tuv>
     </tu>
     <tu>
