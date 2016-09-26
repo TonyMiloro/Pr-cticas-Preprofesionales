@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5435,8 +5435,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Chen Liangyu was also the highest ranking Party official to be cashiered since Jiang Zemin had removed Chen Xitong in 1996, and his arrest marked a significant diminution in the influence of the so-called Shanghai gang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T233805Z" creationid="Pablo" creationdate="20160914T010856Z">
-        <seg>Chen Liangyu fue también el oficial del Partido de mayor rango en haber sido destituido desde que Jiang Zemin expulsó a Chen Xitong en 1996, y su detención significó una disminución importante en la influencia de la llamada banda de Shanghái.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T184416Z" creationid="Pablo" creationdate="20160914T010856Z">
+        <seg>Chen Liangyu fue también el oficial de mayor rango del Partido en haber sido destituido desde que Jiang Zemin expulsó a Chen Xitong en 1996, y su detención significó una disminución importante en la influencia de la llamada banda de Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9312,8 +9312,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In July it was  reported that Zhu Junyi, the director of the bureau, had been accused of receiving bribes and misusing some three billion yuan (about $400 million) in funds.&lt;t0/&gt;118&lt;t1/&gt; The Shanghai case took on a more political color when Qin Yu, a former secretary to Party Secretary Chen Liangyu, was arrested in August.&lt;t2/&gt;119&lt;t3/&gt; Finally, on September 24, Chen himself was removed &lt;t4/&gt;from office for his involvement in a pension fund scandal.&lt;t5/&gt;120&lt;t6/&gt; Chen, who had been elevated to Party secretary and then Politburo member when Huang Ju was promoted at the Sixteenth Party Congress, had long been a thorn in the side of the Hu–Wen administration, repeatedly refusing to slow investment in accordance with Beijing’s directives.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T181631Z">
-        <seg>En julio se informó que Zhu Junyi, el director del Ministerio, había sido acusado de recibir sobornos y de malversar fondos, casi 3000 millones de yuanes (cerca de USD 400 millones).&lt;t0/&gt;118&lt;t1/&gt; El caso de Shanghái tomó un tinte más político en agosto luego de la detención de Qin Yu, exsecretario de Chen Liangyu, quien era el Secretario General del Partido.&lt;t2/&gt;119&lt;t3/&gt; Finalmente, el 24 de septiembre, el mismo Chen fue despedido &lt;t4/&gt;de su cargo debido a su involucración en un escándalo por malversación de fondos de pensiones.&lt;t5/&gt;120&lt;t6/&gt; Chen, quien había sido ascendido a secretario del Partido y luego a miembro del Politburó cuando Huang Ju fue promovido en el Decimosexto Congreso del Partido, había sido una piedra en el zapato para la administración Hu-Wen, mostrando una constante falta de cooperación con las directivas provenientes de Pekín, que pedían reducir las inversiones.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T184151Z">
+        <seg>En julio se informó que Zhu Junyi, el director del Ministerio, había sido acusado de recibir sobornos y de malversar fondos, casi 3000 millones de yuanes (cerca de USD 400 millones).&lt;t0/&gt;118&lt;t1/&gt; El caso de Shanghái tomó un tinte más político en agosto luego de la detención de Qin Yu, exsecretario de Chen Liangyu, quien era el Secretario General del Partido.&lt;t2/&gt;119&lt;t3/&gt; Finalmente, el 24 de septiembre, el mismo Chen fue despedido &lt;t4/&gt;de su cargo debido a su involucración en un escándalo por malversación de fondos de pensiones.&lt;t5/&gt;120&lt;t6/&gt; Chen, quien había sido ascendido a secretario del Partido y luego a miembro del Politburó cuando Huang Ju fue promovido en el Decimosexto Congreso del Partido, había sido una piedra en el zapato para la administración Hu-Wen, mostrando una reiterada falta de cooperación con las directivas provenientes de Pekín, que pedían reducir las inversiones.</seg>
       </tuv>
     </tu>
     <tu>
