@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9632,8 +9632,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In examining the broader question of Chinese images of the West, Zhang adopts the term “Occidentalism” as the opposite of Orientalism to indi-cate distorted presentations of Western reality.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T164247Z" creationid="ROMI" creationdate="20160926T164247Z">
-        <seg>Al examinar la cuestión más amplia de las imágenes chinas del Occidente, Zhang adopta el término "</seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T173040Z" creationid="ROMI" creationdate="20160926T164247Z">
+        <seg>Al examinar la cuestión más amplia de las imágenes chinas del Occidente, Zhang adopta el término "Occidentalismo" como el opuesto a Orientalismo para señalar proyecciones distorcionadas de la realidad Occidental.</seg>
       </tuv>
     </tu>
     <tu>
