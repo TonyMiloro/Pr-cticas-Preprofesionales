@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -555,6 +555,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022545Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>47&lt;t0/&gt; &lt;t1/&gt;“Zhongxuan&lt;t2/&gt; &lt;t3/&gt;bu&lt;t4/&gt; &lt;t5/&gt;fachu&lt;t6/&gt; &lt;t7/&gt;tongzhi&lt;t8/&gt; &lt;t9/&gt;yaoqiu&lt;t10/&gt; &lt;t11/&gt;dali&lt;t12/&gt; &lt;t13/&gt;hongyang&lt;t14/&gt; &lt;t15/&gt;he&lt;t16/&gt; &lt;t17/&gt;peiyu&lt;t18/&gt; &lt;t19/&gt;minzu&lt;t20/&gt; &lt;t21/&gt;jingshen,&lt;t22/&gt; &lt;t23/&gt;qieshi&lt;t24/&gt; &lt;t25/&gt;jiaqiang&lt;t26/&gt; &lt;t27/&gt;fangzhi feidian&lt;t28/&gt; &lt;t29/&gt;xuanchuan&lt;t30/&gt; &lt;t31/&gt;sixiang&lt;t32/&gt; &lt;t33/&gt;gongzuo.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T123703Z" creationid="Flor" creationdate="20160926T123703Z">
+        <seg>47&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;</seg>
       </tuv>
     </tu>
     <tu>
