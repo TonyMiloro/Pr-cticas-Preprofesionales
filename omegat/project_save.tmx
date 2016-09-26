@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11668,8 +11668,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Li &lt;/f0&gt;&lt;f1&gt;Zehou, a member of the CASS Philosophy Institute, articulated for his &lt;/f1&gt;&lt;f2&gt;generation of 1980s scholars the need to disentangle the “liberal” elements of the May Fourth tradition – those that emphasized “enlightenment” – from those that were caught up in nationalistic efforts to “save the nation.” Li argued that every time the cultural critique seemed to offer hope of introducing new, enlightenment values into Chinese culture, it was overwhelmed by nationalism (“national salvation”) as China faced one crisis after another.&lt;/f2&gt;&lt;f3&gt;27 &lt;/f3&gt;&lt;f4&gt;Now, in the 1980s, it was finally time to take up the task of enlightenment and carry it through to fruition.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T131020Z" creationid="LENOVO" creationdate="20160926T130556Z">
-        <seg>Li &lt;/f0&gt;&lt;f1&gt;Zehou, miembro del Instituto de Filoso´fia CASS, expresó a su &lt;/f1&gt;&lt;f2&gt;generación de estudiosos de la década de los '80 la necesidad de desentrañar los elementos "liberales" de la tradición del Cuatro de Mayo (aquellos que enfatizaban.&lt;/f2&gt;&lt;f3&gt;27 &lt;/f3&gt;&lt;f4&gt;Now, in the 1980s, it was finally time to take up the task of enlightenment and carry it through to fruition.&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160926T131129Z" creationid="LENOVO" creationdate="20160926T130556Z">
+        <seg>Li &lt;/f0&gt;&lt;f1&gt;Zehou, miembro del Instituto de Filoso´fia CASS, expresó a su &lt;/f1&gt;&lt;f2&gt;generación de estudiosos de la década de los '80 la necesidad de desentrañar los elementos "liberales" de la tradición del Cuatro de Mayo, es decir aquellos que enfatizaban la "ilustración", de aquellos que estaban atrapados en los esfuerzos nacionalistas para "salvar la nación".&lt;/f2&gt;&lt;f3&gt;27 &lt;/f3&gt;&lt;f4&gt;Now, in the 1980s, it was finally time to take up the task of enlightenment and carry it through to fruition.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
