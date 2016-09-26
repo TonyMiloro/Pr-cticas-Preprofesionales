@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3611,8 +3611,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And the rise of such questions meant that “isms,” or (more accurately) broad intellectual orientation, could not be dissolved completely into analysis of &lt;t3/&gt;“problems”; indeed, by the end of the 1990s and into the new century there was a new concern with “isms” even as concern with solving “problems” continued.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T194909Z" creationid="Edgardo" creationdate="20160926T182021Z">
-        <seg>Y el incremento de tales preguntas significó que los “ismos,” o (con exactitud) las amplias orientaciones intelectuales, no podían disolverse completamente en el análisis de los&lt;t3/&gt;“problemas”; de hecho, hacia fines de la década de los 90 y a principios del nuevo siglo surgió un nuevo interés por los “ismos”, así como también  “problems” continued.</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T195135Z" creationid="Edgardo" creationdate="20160926T182021Z">
+        <seg>Y el incremento de tales preguntas significó que los “ismos,” o (con exactitud) las amplias orientaciones intelectuales, no podían disolverse completamente en el análisis de los&lt;t3/&gt;“problemas”; de hecho, hacia fines de la década de los 90 y a principios del nuevo siglo surgió un nuevo interés por los “ismos”, aún mientras el interés por resolver “problemas” continuó.</seg>
       </tuv>
     </tu>
     <tu>
