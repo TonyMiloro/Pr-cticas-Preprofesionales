@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6027,8 +6027,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng also tried to forestall an all-out attack on Zhao’s policies (and himself) by declaring that “the political report of the Thirteenth Party Congress was passed by the representatives of the Party to the congress; even one character must not be changed.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T230116Z">
-        <seg>Deng incluso intentó prevenir un ataque fatal a las políticas de Zhao (y a él mismo) al declarar que "el informe de las políticas del Decimotercer Congreso del Partido fue promulgado por los representantes del partido en el congreso; ni una sola letra podía ser alterada".</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T010309Z">
+        <seg>Deng incluso intentó prevenir un ataque fatal a las políticas de Zhao (y a él mismo) al declarar que "el informe de las políticas del XIII Congreso del Partido fue promulgado por los representantes del partido en el congreso; ni una sola letra podía ser alterada".</seg>
       </tuv>
     </tu>
     <tu>
@@ -12534,8 +12534,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>No doubt, given the defense of the Party against the so-called counter- revolutionary rebellion and the discrediting of Zhao Ziyang, conservatives hoped that one of their own – perhaps Premier Li Peng, economic planner Yao Yilin, or even former Propaganda Department head Deng Liqun – might replace Zhao as general secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T232859Z">
-        <seg>Sin duda, dado a que la defensa de la rebelión de la llamada rebelión contra-revolucionaria y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos - quizá el Primer Ministro Li PEng, el planeador económico Yao Yilin, o inclusive el ex presidente de la secretaría de difusión Deng Liqun - reemplazarían a Zhao como secretario general.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T010536Z">
+        <seg>Sin duda, dado a que la defensa de la rebelión de la llamada rebelión contra-revolucionaria y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos - quizá el primer ministro Li PEng, el planeador económico Yao Yilin, o inclusive el ex presidente de la secretaría de difusión Deng Liqun - reemplazarían a Zhao como secretario general.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19595,8 +19595,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Deng met with leaders of martial law troops on June 9, he declared that the line of “one center and two basic points” (economic development was the center; the two basic points were reform and opening up on the one hand and opposition to “bourgeois liberalization” on the other), which had been ofﬁcially adopted at the Thirteenth Party Congress in 1987, was correct and that reform and opening up needed to be pursued even more vigorously.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T225631Z">
-        <seg>Cuando Deng se ruinió con los líderes de las tropas de ley marcial el 9 de junio, declaró que la línea de "un centro y dos puntos básicos" (desarrollo económico era el centro; reforma y apertura por un lado y oposición a la "liberación burguesa" por otro), adoptado oficialmente en el Decimotercer Congreso del Partido en 1987, era correcta y que era necesario luchar por la reforma y el desarrollo con más vigorocidad.</seg>
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T010235Z">
+        <seg>Cuando Deng se ruinió con los líderes de las tropas de ley marcial el 9 de junio, declaró que la línea de "un centro y dos puntos básicos" (desarrollo económico era el centro; reforma y apertura por un lado y oposición a la "liberalización burguesa" por otro), adoptado oficialmente en el Decimotercer Congreso del Partido en 1987, era correcta y que era necesario luchar por la reforma y apertura con más vigorocidad.</seg>
       </tuv>
     </tu>
     <tu>
