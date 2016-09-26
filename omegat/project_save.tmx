@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9567,8 +9567,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In either case, they spoke more with Chinese outside of China and were more aware of intellectual and academic trends in theWest.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T141846Z" creationid="Edgardo" creationdate="20160926T141659Z">
-        <seg>En cualquier caso, hablaban más con chinos fuera de China y estaban más informados de las tendencias intelectuales y académicas de Occidente</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T141952Z" creationid="Edgardo" creationdate="20160926T141659Z">
+        <seg>En cualquier caso, hablaban más con chinos fuera de China y estaban más informados de las corrientes intelectuales y académicas de Occidente</seg>
       </tuv>
     </tu>
     <tu>
