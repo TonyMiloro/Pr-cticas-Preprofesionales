@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>23.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T221914Z" creationid="Franco" creationdate="20160927T221914Z">
+        <seg>&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>25; see also “Yi gaige cu wending zai wending zhong fazhan.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211902Z">
