@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1163,6 +1163,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160926T004255Z">
         <seg>&lt;f0&gt;Deng parece haber estado bien familiarizado con el trabajo y las habilidades de Zhu, desde por lo menos los comienzos de 1980, cuando Zhu fue promovido al cargo de vice presidente de la Comisión Estatal&lt;/f0&gt;&lt;f1&gt;de Economía.&lt;/f1&gt;&lt;f2&gt;18&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Cuando la Comisión Estatal de Economía fue eliminada en 1988, Zhu fue enviado a Shanghai para ocupar el cargo de alcalde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Deng’s criticism of China’s leadership finally stirred Jiang Zemin to&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;action.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173506Z" creationid="Soledad Mori" creationdate="20160927T173506Z">
+        <seg>&lt;f0&gt;La crítica de Deng hacia los líderes de China instó a Jiang Zemin a ponerse en &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;acción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13678,6 +13686,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On June 9, the general secretary followed in the wake of Qiao Shi and Tian Jiyun by giving a major speech at the Central Party School.Jiang at last openly endorsed the view that the “primary focus &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;must be guarding against the ‘left’.” Quoting liberally from Deng’s talks in Shenzhen, Jiang now argued that reform is like “steering a boat against the current.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173651Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
+        <seg>El 9 de junio, el secretario general siguió los pasos de Qiao Shi y Tian Jiyun al dar un importante discurso en la Escuela Central del Partido Comunista Chino. Finalmente mostró abiertamente su adherencia a la idea de que “el enfoque primordial debería estar en prevenir el izquierdismo”. En una cita libre de las charlas que dio Deng en Shenzhen, Jiang ahora argumentaba que la reforma es como “navegar un barco en contracorriente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On June&lt;t7/&gt; &lt;t8/&gt;11&lt;t9/&gt;,&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;People’s&lt;t14/&gt; &lt;t15/&gt;Daily&lt;t16/&gt; &lt;t17/&gt;published&lt;t18/&gt; &lt;t19/&gt;an&lt;t20/&gt; &lt;t21/&gt;authoritative&lt;t22/&gt; &lt;t23/&gt;edit&lt;t24/&gt;orial&lt;t25/&gt; &lt;t26/&gt;that&lt;t27/&gt; &lt;t28/&gt;called&lt;t29/&gt; &lt;t30/&gt;for &lt;t31/&gt;a&lt;t32/&gt; &lt;t33/&gt;“&lt;t34/&gt;n&lt;t35/&gt;e&lt;t36/&gt;w&lt;t37/&gt; &lt;t38/&gt;high&lt;t39/&gt; &lt;t40/&gt;tide”&lt;t41/&gt; &lt;t42/&gt;in&lt;t43/&gt; &lt;t44/&gt;the&lt;t45/&gt; &lt;t46/&gt;study&lt;t47/&gt; &lt;t48/&gt;of&lt;t49/&gt; &lt;t50/&gt;the&lt;t51/&gt; &lt;t52/&gt;Th&lt;t53/&gt;r&lt;t54/&gt;ee&lt;t55/&gt; &lt;t56/&gt;R&lt;t57/&gt;ep&lt;t58/&gt;r&lt;t59/&gt;esents,&lt;t60/&gt; &lt;t61/&gt;and&lt;t62/&gt; &lt;t63/&gt;on&lt;t64/&gt; &lt;t65/&gt;J&lt;t66/&gt;une&lt;t67/&gt; &lt;t68/&gt;22&lt;t69/&gt;,&lt;t70/&gt; &lt;t71/&gt;the &lt;t72/&gt;Party&lt;t73/&gt; &lt;t74/&gt;issued&lt;t75/&gt; &lt;t76/&gt;a&lt;t77/&gt; &lt;t78/&gt;circular&lt;t79/&gt; &lt;t80/&gt;demanding&lt;t81/&gt; &lt;t82/&gt;that&lt;t83/&gt; &lt;t84/&gt;cadres&lt;t85/&gt; &lt;t86/&gt;study&lt;t87/&gt; &lt;t88/&gt;Jiang’s&lt;t89/&gt; &lt;t90/&gt;speeches&lt;t91/&gt; &lt;t92/&gt;“On&lt;t93/&gt; &lt;t94/&gt;the &lt;t95/&gt;‘&lt;t96/&gt;Th&lt;t97/&gt;r&lt;t98/&gt;ee&lt;t99/&gt; &lt;t100/&gt;R&lt;t101/&gt;ep&lt;t102/&gt;r&lt;t103/&gt;esents’”&lt;t104/&gt; &lt;t105/&gt;and&lt;t106/&gt; &lt;t107/&gt;“&lt;t108/&gt;O&lt;t109/&gt;n&lt;t110/&gt; &lt;t111/&gt;P&lt;t112/&gt;a&lt;t113/&gt;r&lt;t114/&gt;ty&lt;t115/&gt; &lt;t116/&gt;Const&lt;t117/&gt;r&lt;t118/&gt;uction”&lt;t119/&gt; &lt;t120/&gt;as&lt;t121/&gt; &lt;t122/&gt;w&lt;t123/&gt;ell&lt;t124/&gt; &lt;t125/&gt;as&lt;t126/&gt; &lt;t127/&gt;selections&lt;t128/&gt; &lt;t129/&gt;f&lt;t130/&gt;r&lt;t131/&gt;om &lt;t132/&gt;Jiang&lt;t133/&gt; &lt;t134/&gt;Zemin&lt;t135/&gt; &lt;t136/&gt;on&lt;t137/&gt; &lt;t138/&gt;Socialism&lt;t139/&gt; &lt;t140/&gt;with&lt;t141/&gt; &lt;t142/&gt;Chinese&lt;t143/&gt; &lt;t144/&gt;Characteristics&lt;t145/&gt;.A&lt;t146/&gt; &lt;t147/&gt;125&lt;t148/&gt;-page&lt;t149/&gt; &lt;t150/&gt;pamphlet, &lt;t151/&gt;Study&lt;t152/&gt; &lt;t153/&gt;Guide&lt;t154/&gt; &lt;t155/&gt;to&lt;t156/&gt; &lt;t157/&gt;the&lt;t158/&gt; &lt;t159/&gt;Important&lt;t160/&gt; &lt;t161/&gt;Thinking&lt;t162/&gt; &lt;t163/&gt;of&lt;t164/&gt; &lt;t165/&gt;the&lt;t166/&gt; &lt;t167/&gt;“Three&lt;t168/&gt; &lt;t169/&gt;Represents,”&lt;t170/&gt; &lt;t171/&gt;was&lt;t172/&gt; &lt;t173/&gt;also &lt;t174/&gt;issued.&lt;t175/&gt;51</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T124203Z">
@@ -20650,6 +20666,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will be driven back if we do not forge ahead.” The Party chief nevertheless refrained from calling for a “socialist market economy,” which would become the keynote of the Fourteenth Party Congress, continuing to refer instead to “market regulation” (though he dropped the formulation “integration of planned economy and market regulation”).90 Jiang’s speech was the occasion of the People’s Daily’s first authoritative comment on reform since February.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173638Z" creationid="Soledad Mori" creationdate="20160927T173638Z">
+        <seg> El mar nos va a devolver a menos que avancemos con pasos agigantados”. El jefe del Partido, sin embargo, se abstuvo de exigir una “economía de mercado socialista”, lo que se convertiría en la idea clave del XIV Congreso Nacional del Partido, por lo que siguió hablando de “regulación de mercado” (aunque dejó de lado la fórmula “integración de economía planificada y regulación de mercado”). El discurso de Jiang fue la oportunidad para el importantísimo diario comunista People’s Daily’ de realizar el primer comentario acreditado sobre la reforma desde febrero.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will examine in this and the following chapters some of the ways in which intellectual concerns have intersected with elite politics.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T165434Z">
@@ -21639,6 +21663,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160926T135150Z">
         <seg>Zhu quería llevar a cabo un plan reestructurador que&lt;t42/&gt; &lt;t43/&gt;que forzaría a las industrias más eficientes a ser más competitvas en el&lt;t44/&gt; &lt;t45/&gt;mercado mundial. De este modo, se convertirían en pilares de una economía estatal principiante. Al mismo tiempo, este plan&lt;t46/&gt; &lt;t47/&gt;forzaría la venta o el cierre de las empresas menos eficientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhu, Deng said, was “quite capable” in economics.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173420Z" creationid="Soledad Mori" creationdate="20160927T173420Z">
+        <seg>Zhu, dijo Den, fue “bastante competente” para la economía.</seg>
       </tuv>
     </tu>
     <tu>
