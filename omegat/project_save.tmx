@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1163,6 +1163,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160902T213746Z">
         <seg>&lt;f0&gt;CONFLICTO&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;CENTRO&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;-&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;PROVINCIAL POR EL OCTAVO PLAN QUINQUENAL&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Chen objected to decentralization both on the grounds that it led to local protectionism and the fragmentation of the national market and, more seriously, on the grounds that the erosion of central resources was resulting in a “weak and powerless central government” surrounded by numerous “feudal lords.” These trends would, he warned, result in “the great socialist mansion that we have built laboriously over many years collapsing” if nothing were done.&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Faced with this dire situation, Chen recommended a “new centralization,” but one, he declared, that would be different from the old planned economy.&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Although Chen wanted to recentralize authority and use the power of the state to readjust China’s industrial structure, he was also very clear that he wanted to develop the role of the market (by breaking down local protectionism and ministerial interference in enterprises) even as he would give a greater role to the state.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T220650Z" creationid="Franco" creationdate="20160927T220650Z">
+        <seg>&lt;f0&gt;Chen se opuso a la descentralización tanto bajo el argumento de que.&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Faced with this dire situation, Chen recommended a “new centralization,” but one, he declared, that would be different from the old planned economy.&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Although Chen wanted to recentralize authority and use the power of the state to readjust China’s industrial structure, he was also very clear that he wanted to develop the role of the market (by breaking down local protectionism and ministerial interference in enterprises) even as he would give a greater role to the state.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
