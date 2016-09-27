@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -857,8 +857,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;regarded as a practice of capitalism.” Reflecting provincial (and Dengist) impatience with conservative leaders, Cheng sharply criticized planners in Beijing who had recentralized authority over the economy, and he demanded that central policies regarding enterprise autonomy be enforced and the Enterprise Law (passed in 1988 but never put into effect) be imple-mented.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T202743Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;como una práctica del capitalismo.” Reflejando impaciencia provincial (y de Deng) con los líderes conservadores, Cheng criticó severamente a los organizadores en Pekín quienes habían recentralizado la autoridad sobre la economía, y exigíó que las políticas centrales relacionadas con la autonomía de las empresas se impongan y que la Ley de compañías (aprobada en 1988 pero nunca puesta en práctica) se implementara. </seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160927T024109Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;como prácticas del capitalismo.” Reflejando impaciencia provincial (y de Deng) con los líderes conservadores, Cheng criticó severamente a los organizadores en Pekín quienes habían recentralizado la autoridad sobre la economía, y exigíó que las políticas centrales relacionadas con la autonomía de las empresas se impongan y que la Ley de compañías (aprobada en 1988 pero nunca puesta en práctica) se implementara. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3795,8 +3795,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time that Tianjin publicized Tan Shaowen’s address, Hebei governor Cheng Weigao (who would be arrested for corruption in 2003) echoed Deng’s Shanghai comments, saying that “the development of the market and display of the market’s regulatory functions must not be</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224131Z">
-        <seg>Mientras Tianjin publicitaba el discurso de Tan Shaowen, el gobernador de Hebei, Cheng Weigao (quien sería arrestado por corrupción en 2003), hizo eco de los comentarios de Deng en Shanghai, y dijo que "el desarrollo del mercado y la demostración de las funciones regulatorias del mercado no se deben considerar </seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160927T024005Z">
+        <seg>Mientras que Tianjin publicitaba el discurso de Tan Shaowen, el gobernador de Hebei, Cheng Weigao, (quien sería arrestado por corrupción en 2003), hizo eco de los comentarios de Deng en Shanghái, y dijo que "el desarrollo del mercado y la demostración de las funciones regulatorias del mercado no se deben considerar </seg>
       </tuv>
     </tu>
     <tu>
