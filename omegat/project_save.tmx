@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16174,8 +16174,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The appearance of “RealisticResponses” in 1991 marked a certain coming of age of these ideas, not so much a political manifesto of the “princeling faction” (taizidang) – though that element was present – as an argument that China’s future lay in pioneering a “third way,” rejecting both Marxism–Leninism (as traditionally understood) and Western capitalism.1 Such a third way would include an assertion of nationalism, but it was not clear what such a nationalism would espouse since it somewhat paradoxically incorporated both an assertion of Chinese identity and an adoption of “Western rationalism.” There were also hints of populism that coexisted uneasily with implicit assumptions of elite control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160927T004312Z">
-        <seg>La aparición de “respuestas realistas” en 1991 marcó una cierta madurez de estas ideas, no tanto un manifiesto político de la facción de los “princelings” o también llamada el partido de los príncipes (taizidang), aunque ese elemento estaba presente, como un argumento de que el futuro de China radicaba en liderar una "tercera vía", que rechazaría tanto el marxismo-leninismo (tal como se los entiende tradicionalmente) como el capitalismo occidental1. Esta tercera vía incluiría una afirmación de nacionalismo, pero no estaba claro qué apoyaría este nacionalismo, ya que en cierto modo incorporaba paradójicamente tanto una afirmación de la identidad de China como una adopción del "racionalismo occidental". Había, además, indicios de populismo que coexistían con preocupación con supuestos implícitos del control de la élite.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T143408Z">
+        <seg>La aparición de “respuestas realistas” en 1991 marcó una cierta madurez en estas ideas, no tanto un manifiesto político de la facción de los “princelings” o también llamada el partido de los príncipes (taizidang), aunque ese elemento estaba presente, como un argumento de que el futuro de China radicaba en liderar una "tercera vía", que rechazaría tanto el marxismo-leninismo (tal como se los entiende tradicionalmente) como el capitalismo occidental. Esta tercera vía incluiría una afirmación de nacionalismo, pero no estaba claro qué apoyaría este nacionalismo, ya que en cierto modo incorporaba paradójicamente tanto una afirmación de la identidad de China como una adopción del "racionalismo occidental". Había, además, indicios de populismo que coexistían con preocupación con supuestos implícitos del control de la élite.n</seg>
       </tuv>
     </tu>
     <tu>
