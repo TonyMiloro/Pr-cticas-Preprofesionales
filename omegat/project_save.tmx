@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3325,6 +3325,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160920T161248Z">
         <seg>Como señala Fewsmith (politólogo respetado y observador experto de la realidad China), este país es un lugar muy distinto a lo que fue dieciocho años atrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As Party elders, they exert an influence out of proportion to their numbers.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T121357Z" creationid="Lucrecia" creationdate="20160927T121357Z">
+        <seg>Debido a que son antiguos en el Partido, ejercen una influencia desmesurada en comparación con sus cifras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10589,6 +10597,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T010503Z">
         <seg>Resulta poco probable que las críticas a las políticas económicas neoliberales y al Consenso de Washington, por parte de nacionalistas por un lado y de ideólogos interesados en afianzar la legitimidad del sistema político por el otro, puedan promover la clase de reformas que China necesita para prevenir las mismas consecuencias que estos críticos dicen querer evitar: una sociedad desigual con el tipo de capitalismo clientelista que tiene el potencial de disminuir o incluso distorsionar el crecimiento económico futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should also be noted that the left champions the interests fear it will hurt their interests.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T121547Z" creationid="Lucrecia" creationdate="20160927T121547Z">
+        <seg>También debe tenerse en cuenta que .</seg>
       </tuv>
     </tu>
     <tu>
@@ -20694,6 +20710,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T233601Z">
         <seg>Xiao Weibi, editor del periódico liberal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xing claimed that there are parts of Marxism that contain universal truth and are still applicable, parts that need to be supplemented, and also parts that are “completely unsuitable for use, which should not be continued and upheld in the present day.”55 Thus, according to Xing: “The criterion for determining the border dividing Marxism and anti-Marxism has to rest on developed Marxism; in present day China the ‘only correct’ criterion for distinguishing Marxism and anti-Marxism is the ‘theory of socialism with Chinese characteristics established by Deng Xiaoping’ – most importantly upholding the ‘one center [economic construction] and two basic points’ [the four cardinal principles and emancipating the mind].” Xing thus juxtaposed “Deng Xiaoping theory” against leftist thought and referred explicitly to the first 10,000 character manifesto when he criticized those who declared that reform had brought about a “new bourgeoisie.” At the same time, Xing defined a “right” that was just as anti-Marxist as the left.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T122411Z" creationid="Lucrecia" creationdate="20160927T122411Z">
+        <seg>Xing claimed that there are parts of Marxism that contain universal truth and are still applicable, parts that need to be supplemented, and also parts that are “completely unsuitable for use, which should not be continued and upheld in the present day.”55 Thus, according to Xing: “The criterion for determining the border dividing Marxism and anti-Marxism has to rest on developed Marxism; in present day China the ‘only correct’ criterion for distinguishing Marxism and anti-Marxism is the ‘theory of socialism with Chinese characteristics established by Deng Xiaoping’ – most importantly upholding the ‘one center [economic construction] and two basic points’ [the four cardinal principles and emancipating the mind].” Xing por lo tanto enfrentó la "teoría de Den Xiaopng" con el pensamiento de izquierda e hizo referencia explícita a los primeros 10 000 caractéres del manifiesto cuando criticó a aquellos que afirman que la reforma creó una "nueva clase media". Al mismo tiempo, Xing definió a una "derecha" que estaba tan en contra del Marxismo como la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
