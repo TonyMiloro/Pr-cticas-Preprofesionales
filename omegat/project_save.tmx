@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2788,6 +2788,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T040107Z">
         <seg>Una plataforma ideológica unificada se ha desintegrado por completo.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A well-known study calls this nouveau riche group the “never-left-out class” (bu luokong jieji) because every time Chinese society entered a new round of adjustment in which resources were reallocated, this group has benefited the most.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T013932Z" creationid="Lucrecia" creationdate="20160927T013932Z">
+        <seg>Este grupo de "nouveau riche" es conocido por un estudio prestigioso como "la clase nunca dejada de lado" (bu luokong jieji) porque cada vez que la sociedad china entraba a una nueva ronda de ajuste en la que los recursos se reacomodaban, este grupo es el que mas se ha beneficiado.</seg>
       </tuv>
     </tu>
     <tu>
