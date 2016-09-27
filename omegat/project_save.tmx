@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -721,16 +721,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Although the &lt;/f1&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;previous chapter&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;&lt;f9&gt;laid out the major differences between the New Left and liberals, attention was focused primarily on differences in their world views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160927T143816Z" creationid="Flor" creationdate="20160927T143655Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;A pesar de que en el&lt;/f1&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;capítulo anterior&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;&lt;f9&gt;se expusieron las diferencias más importantes  entre la Nueva Izquierda y los liberales, el enfoque se puso en mayor parte sobre las distintas maneras que tienen de ver el mundo.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T160655Z" creationid="Flor" creationdate="20160927T143655Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;A pesar de que en el&lt;/f1&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;capítulo anterior&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;&lt;f9&gt;se expusieron las mayores diferencias entre la nueva izquierda y los liberales, el enfoque se puso en mayor parte sobre las distintas maneras que tienen de ver el mundo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Although the neostatist desire to increase state capacity appears at first glance to move in the opposite direction from popular nationalism and its criticisms of the existing government – and both of these seem distant from the New Left concerns discussed in Chapter &lt;/f1&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;&lt;f9&gt;– in fact, all three of these trends share a basic intellectual orientation, and personal relations across them tend to be quite close.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160927T144805Z" creationid="Flor" creationdate="20160927T144805Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;A pesar de que el deseo neoestatista de incrementar la capacidad del Estado parece en principio ir en dirección opuesta al nacionalismo popular y sus críticas hacia el gobierno actual (y ambas posturas parecen distantes de los intereses de la Nueva Izquierda presentados en el Capítulo &lt;/f1&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;&lt;f9&gt;), en realidad las tres corrientes comparten una orientación intelectual básica y las relaciones personales entre ellas tienden a ser muy cercanas.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T161900Z" creationid="Flor" creationdate="20160927T144805Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;A pesar de que el deseo neoestatista de incrementar la capacidad del Estado parece en principio ir en dirección opuesta al nacionalismo popular y sus críticas hacia el gobierno actual, y ambas posturas parecen distantes de los intereses de la nueva izquierda presentados en el Capítulo &lt;/f1&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;&lt;f9&gt;, en realidad las tres corrientes comparten una orientación intelectual básica y las relaciones personales entre ellas tienden a ser muy cercanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4619,8 +4619,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By 1992–3, however, as noted in the previous chapter, the economic and social bases had developed for a broader intellectual acceptance of New Left ideas that would have been considered “conservative” only a few years earlier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160908T013913Z">
-        <seg>Sin embargo, tal y como se mencionó en el capítulo anterior, para los años 1992 y 1993 las bases económicas y sociales habían evolucionado y logrado una aceptación intelectual más amplia de las ideas de Nueva Izquierda que hubiesen sido consideradas "conservadoras" apenas unos años antes.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T161417Z">
+        <seg>Sin embargo, tal y como se mencionó en el capítulo anterior, para los años 1992 y 1993 las bases económicas y sociales habían evolucionado con una aceptación intelectual más amplia de ideas de nueva izquierda que hubiesen sido consideradas "conservadoras" apenas unos años antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5067,8 +5067,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Chapter &lt;/f17&gt;&lt;/f16&gt;&lt;a18&gt;&lt;f19&gt;&lt;f20&gt;3&lt;/f20&gt;&lt;/f19&gt;&lt;/a18&gt;&lt;a21&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;/a21&gt;&lt;f24&gt;&lt;f25&gt;discussed the nationalism of people like He Xin and the recentralizing impulses of people like Chen Yuan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160927T144303Z" creationid="Flor" creationdate="20160927T144303Z">
-        <seg>En el Capítulo &lt;/f17&gt;&lt;/f16&gt;&lt;a18&gt;&lt;f19&gt;&lt;f20&gt;3&lt;/f20&gt;&lt;/f19&gt;&lt;/a18&gt;&lt;a21&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;/a21&gt;&lt;f24&gt;&lt;f25&gt;se habló del nacionalismo de personas como He Xin y de los impulsos de recentralización de personas como Chen Yuan.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T161035Z" creationid="Flor" creationdate="20160927T144303Z">
+        <seg>En el Capítulo &lt;/f17&gt;&lt;/f16&gt;&lt;a18&gt;&lt;f19&gt;&lt;f20&gt;3&lt;/f20&gt;&lt;/f19&gt;&lt;/a18&gt;&lt;a21&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;/a21&gt;&lt;f24&gt;&lt;f25&gt;se analizó el nacionalismo de personas como He Xin y los impulsos de recentralización de personas como Chen Yuan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7086,8 +7086,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>First, there is a common nationalism directed primarily against the United States, both in terms of its presumed desire to control China internationally and in terms of the American model of liberal democracy and neoclassical economics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160908T014549Z">
-        <seg>En primer lugar, hay un nacionalismo común direccionado principalmente en contra de Estados Unidos, tanto por el supuesto deseo del país occidental de querer controlar a China en el ámbito internacional, como por el modelo estadounidense de democracia liberal y economía neoclásica.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T162010Z">
+        <seg>En primer lugar, hay un nacionalismo común dirigido en principio en contra de Estados Unidos, tanto por el supuesto deseo del país occidental de querer controlar a China en el ámbito internacional, como por el modelo estadounidense de democracia liberal y economía neoclásica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11421,8 +11421,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Joel Migdal, John Zysman, and others began to look at how strong states could bring about social change and economic development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160927T144723Z" creationid="Flor" creationdate="20160927T144723Z">
-        <seg>Joel Migdal, John Zysman y otros comenzaron a observar cómo los estados fuertes podían provocar cambio social y desarrollo económico.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T161717Z" creationid="Flor" creationdate="20160927T144723Z">
+        <seg>Joel Migdal, John Zysman y otros comenzaron a observar cómo los Estados fuertes podían provocar un cambio social y un desarrollo económico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14761,8 +14761,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, the approaches share a concern with social justice, though they differ somewhat in their preferred solutions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160908T014742Z">
-        <seg>En segundo lugar, estos tres enfoques comparten un interés por la justicia social, aunque de alguna manera difieren en las posibles soluciones.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T162102Z">
+        <seg>En segundo lugar, los enfoques comparten un interés por la justicia social, aunque de alguna manera difieren en las soluciones que le darían.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18602,8 +18602,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This chapter focuses on more specifically political issues that have arisen parallel to the discussions described in Chapter &lt;/f9&gt;&lt;/f8&gt;&lt;a10&gt;&lt;f11&gt;&lt;f12&gt;4&lt;/f12&gt;&lt;/f11&gt;&lt;/a10&gt;&lt;a13&gt;&lt;f14&gt;&lt;f15&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160927T143900Z" creationid="Flor" creationdate="20160927T143900Z">
-        <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han surgido en paralelo con lo presentado en el Capítulo&lt;/f9&gt;&lt;/f8&gt;&lt;a10&gt;&lt;f11&gt;&lt;f12&gt;4&lt;/f12&gt;&lt;/f11&gt;&lt;/a10&gt;&lt;a13&gt;&lt;f14&gt;&lt;f15&gt;.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T160813Z" creationid="Flor" creationdate="20160927T143900Z">
+        <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han ocurrido en paralelo con lo presentado en el Capítulo&lt;/f9&gt;&lt;/f8&gt;&lt;a10&gt;&lt;f11&gt;&lt;f12&gt;4&lt;/f12&gt;&lt;/f11&gt;&lt;/a10&gt;&lt;a13&gt;&lt;f14&gt;&lt;f15&gt;.</seg>
       </tuv>
     </tu>
     <tu>
