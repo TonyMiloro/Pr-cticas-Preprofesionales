@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -751,6 +751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;At the same time, an ongoing investigation into corruption in Beijing Municipality apparently resulted in the detention of some sixty cadres in the city, including the secretaries of Party chief Chen Xitong and mayor Li Qiyan.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174130Z" creationid="Silvina Nuñez" creationdate="20160927T174130Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Al mismo tiempo, al parecer, una investigación en curso sobre la corrupción en la Municipalidad de Pekín tuvo como consecuencia la detención de unos 60 cuadros en la ciudad, entre los cuales se encontraba el jefe Chen Xitong y el alcalde Li Qiyan, secretarios del partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;By late 1990, Deng seemed visibly distraught by China’s situation and his own inability to reassert his leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T214432Z">
@@ -815,6 +823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;One other aspect of the Chen Xitong case should be mentioned, and that is Chen’s role in Tiananmen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174452Z" creationid="Silvina Nuñez" creationdate="20160927T174452Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Otro aspecto que cabe mencionar con respecto al caso de Chen Xitong es la participación de Chen en el Tiananmén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;R &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ESPONSE FROM THE PROVINCES&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192654Z">
@@ -855,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;The Party had launched a campaign against corruption in the immediate aftermath of Tiananmen, but that had faded away like its predecessors.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T173840Z" creationid="Silvina Nuñez" creationdate="20160927T173840Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;El partido había lanzado una campaña en contra de la corrupción inmediatamente después de la revuelta de Tiananmén, pero se desvaneció como sus predecesores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;The four commentaries were published on February 15, March 2, March 22, and April 12, 1991.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224721Z">
@@ -867,6 +891,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T222604Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Lo esencial de las charlas de Deng en Shanghai se sintetizó en cuatro columnas de análisis en el diario del partido de Shanghái &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Liberation Daily&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, bajo el seudónimo “Huangfu Ping” (que se puede traducir como "el cronista de Shanghai”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;8&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;The ouster and investigation of Chen Xitong reflected old-style politics, as one powerful politician defeated another and increased his hold on power, but it was also part of Jiang’s popular campaign against corruption and was used to burnish the leader’s reputation with the public.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174314Z" creationid="Silvina Nuñez" creationdate="20160927T174314Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La destitución e investigación de Chen Xitong fue reflejo de políticas antiguas: un político poderoso derrotó a otro y ganó más control en el poder; pero también fue parte de la popular campaña anticorrupción de Jiang y se usó para pulir la reputación del líder con el público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Then, in February 1995, Zhou Beifang was arrested.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174017Z" creationid="Silvina Nuñez" creationdate="20160927T174017Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Luego, en febrero de 1995, Zhou Beifang fue arrestado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3625,6 +3665,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a result, they were widely disliked in Beijing.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174947Z" creationid="Silvina Nuñez" creationdate="20160927T174947Z">
+        <seg>Por este motivo, eran sumamente impopulares en Pekín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a wellknown researcher in the State Council’s Development Research Center put it: “Local authorities and banks are ripping off billions of yuan to fund real estate projects.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160924T175409Z">
@@ -4061,6 +4109,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T032713Z">
         <seg>En este encuentro,los líderes del Partido conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización dela burguesía que ha desaparecido poco a poco después de la destitución de Hu Yaobang, trataron de soplar un nuevo fuego dentro del movimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the Party’s Fifth Plenary Session in September 1995, Chen was officially removed as a member of the Politburo and in 1998 was sentenced to sixteen years in jail, though he was later released on medical parole.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;18&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174223Z" creationid="Silvina Nuñez" creationdate="20160927T174223Z">
+        <seg>Durante el Quinto Pleno del partido, en septiembre de 1995, se destituyó oficialmente a Chen como miembro del Politburó y, en 1998, fue sentenciado a 16 años de cárcel, aunque más adelante se le otorgó libertad condicional por motivos médicos&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;18&lt;/f5&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5277,6 +5333,22 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Luisina" changedate="20160918T162548Z">
         <seg>Chen Yun, en un ataque apenas encubierto al recién promovido viceprimer ministro Zhu&lt;t1/&gt;Rongji&lt;t2/&gt;, se dice que advirtió en contra de permitir que una "figura del tipo de Yeltsin" surja en China. 41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chen and then-Beijing Party secretary Li Ximing had played a very active role in urging the Party to adopt a hardline stance in the face of popular demonstrations, apparently writing reports that were biased and inflammatory.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174937Z" creationid="Silvina Nuñez" creationdate="20160927T174937Z">
+        <seg>Chen y Li Ximing, secretario del partido de Pekín en su momento, habrían participado de manera muy activa al instar al partido que adopte una postura firme con respecto a las manifestaciones populares por medio de informes sesgados e incendiarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chen had clearly disdained Jiang, and his removal was critical to the consolidation of Jiang’s power, but Jiang had invoked the campaign against corruption rather than the older tactic of ideological deviance to rid himself of Chen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174244Z" creationid="Silvina Nuñez" creationdate="20160927T174244Z">
+        <seg>Claramente, Chen había menospreciado a Jiang, y su destitución fue clave para la consolidación del poder de Jiang; pero Jiang había acudido a la campaña anticorrupción en vez de a la antigua táctica de alejamiento ideológico para librarse de Chen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7180,6 +7252,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, in the summer of 1993 and amid evidence that corruption was spreading uncontrollably, the Party launched another campaign.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T173850Z" creationid="Silvina Nuñez" creationdate="20160927T173850Z">
+        <seg>Finalmente, en el verano de 1993, ante evidencia de que la corrupción estaba aumentando sin control alguno, el partido lanzó otra campaña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, one must consider the very changed relationship with theUnited States.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T222036Z">
@@ -7601,6 +7681,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160909T224003Z">
         <seg>Por primera vez, el liderazgo del Partido tendría que arreglárselas para ceder la sucesión a una generación joven sin la presencia de Deng Xiaoping ni de otros que pudieran influir en la decisión. ¿Qué mecanismos usarían para elegir al sucesor de Hu Jintao?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the first year of this campaign, it seemed to go pretty much as its predecessors had – catching many flies but few tigers.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;15&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; In the winter of 1994–5, however, the campaign shifted into high gear.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T173931Z" creationid="Silvina Nuñez" creationdate="20160927T173931Z">
+        <seg>Durante el primer año, parecía marchar tal como la de sus predecesores: matando muchas moscas pero pocos trigres&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;15&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;. Sin embargo, en el invierno de 1994-5, la campaña aceleró su ritmo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9326,6 +9414,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a single stroke, Jiang Zemin moved against one of the most entrenched local leaders in the country, made a bid for popular support in the campaign against corruption, and acted against powerful people who might oppose him in the future – including the Deng family and Party elder Wan Li (Wan was a longtime supporter of Shougang and, as a former vice-mayor of Beijing, had close ties to the city’s leadership).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174303Z" creationid="Silvina Nuñez" creationdate="20160927T174303Z">
+        <seg>Jiang Zemin, de un solo golpe, tomó medidas contra los líderes más afianzados del país, apostó por el apoyo popular en la campaña anticorrupción y atentó contra las personas más poderosas que podrían oponerse a él en el futuro, incluida la familia de Deng y uno de los miembros veteranos del partido, Wan Li (Wan había sido colaborador durante mucho tiempo de Shougang y, como ex vicealcalde de Pekín, tenía una estrecha relación con los líderes de la ciudad).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addi- tion, Jia's continuance on the PBSC is awkward at best because Hu has been campaigning vigorously against corruption whereas many Chinese remember Jia's apparent involvement in the Yuan Hua scandal of 1999.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200632Z">
@@ -9362,6 +9458,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T205952Z">
         <seg>Además, se vendieron 428 886 millones de metros cuadrados de viviendas, un aumento del 40 % respecto al año anterior. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, Deng Xiaoping’s son, Deng Zhifang (a manager with Shougang International), was apparently detained and questioned with regard to the case, though no charges were filed against him.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;17&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174118Z" creationid="Silvina Nuñez" creationdate="20160927T174118Z">
+        <seg>Además, el hijo de Deng Xiaoping, Deng Zhifang (director en Shougang International), aparentemente fue detenido e interrogado sobre el caso, aunque no se levantaron cargos en su contra&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;17&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10391,6 +10495,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this, the resolution of the Fourth Plenum appears to have played a significant role.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174406Z" creationid="Silvina Nuñez" creationdate="20160927T174406Z">
+        <seg>Para esto, la resolución final del Cuarto Pleno desempeñó un papel importante, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In traditional authoritarian systems, Zhang maintained, economics and politics were conflated so that economic units could not have real autonomy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160910T173509Z">
@@ -11073,6 +11185,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was additionally a stroke, even if a selective one, in a continuing effort to move toward the rule of law in China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174323Z" creationid="Silvina Nuñez" creationdate="20160927T174323Z">
+        <seg>Además, fue un golpe de suerte, aunque uno selectivo, en un esfuerzo continuo para acercarse más al imperio de la ley en China. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was after that meeting, and apparently because of it, that Deng authorized Zhao’s famous May 13, 1987 speech that closed off the campaign against bourgeois liberalization and prepared the political atmosphere for the Thirteenth&lt;s4/&gt;Party Congress in the fall.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T033619Z">
@@ -11223,6 +11343,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="ROMI" changedate="20160926T174800Z">
         <seg>Fue, por supuesto, el movimiento del cuatro de mayo el que introdujo y popularizo mucho conceptos de la Ilustración europea a China. Zhang está tan preocupado por los valores de la Ilustración que toma a Said y le asigna la tarea de basar esos valores en sus críticas del Occidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will be recalled that Deng visited Shougang in May 1992 as part of his campaign to reinstitute his vision of reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174054Z" creationid="Silvina Nuñez" creationdate="20160927T174054Z">
+        <seg>Cabe recordar que Deng visitó Shougang en mayo de 1992 como parte de su campaña para reinstituir su visión de reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11535,6 +11663,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160903T210955Z">
         <seg>Jiang apenas se había despreocupado de ser acusado, como sus predecesores,&lt;t0/&gt; &lt;t1/&gt;de ser "descuidado con la liberalización burguesa", y era rápido en &lt;t2/&gt; &lt;t3/&gt;dar marcha atrás si la estabilidad económica pareciera amenazada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang hardly had the power of his predecessors Mao and Deng; he had to invoke general rules in order to move against personal political antagonists.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174355Z" creationid="Silvina Nuñez" creationdate="20160927T174355Z">
+        <seg>El poder de Jiang no se acercaba al de sus predecesores Mao y Deng. Tenía que recurrir a reglas generales para oponerse a sus antagonistas políticos personales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12040,6 +12176,14 @@ Putting Zhao on trial, as Deng had the Gang of Four, would have had profound imp
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T191500Z">
         <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt; Luego, Chen fue obligado a dejar el cargo debido a la corrupción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;20&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Now, Chen was forced to step down because of corruption.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T175024Z" creationid="Silvina Nuñez" creationdate="20160927T175024Z">
+        <seg>Luego del viaje de Deng Xiaoping al sur, en el cuál Deng denominó específicamente a Li como “izquierdista”, Li Ximing se vio obligado a renunciar&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;20&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;. Now, Chen was forced to step down because of corruption.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16345,6 +16489,14 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That resolution declared: “The principle of everybody being equal before discipline should be upheld and those Party members who violate discipline should be investigated and dealt with severely.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;19&lt;/f3&gt;&lt;/f2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;f7&gt;&lt;f8&gt;It is not known whether this and other strictures were written into the resolution with the Chen Xitong case in mind.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174437Z" creationid="Silvina Nuñez" creationdate="20160927T174437Z">
+        <seg>ya que la misma decretó: “el principio de que todos deben ser iguales ante la disciplina debe ser respetado y se investigarán y  sancionarán a aquellos miembros del partido que no respeten la disciplina”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;19&lt;/f3&gt;&lt;/f2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;f7&gt;&lt;f8&gt;. No se sabe si esta y otras restricciones se incluyeron en la resolución teniendo en cuenta el caso de Chen Xitong.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That this explosion of anti-American anger came a month before the tenth&lt;t0/&gt; &lt;t1/&gt;anniversary of the Tiananmen crackdown was certainly a plus from the&lt;t2/&gt; &lt;t3/&gt;Party’s point of view.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205100Z">
@@ -17052,6 +17204,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The day after Zhou Beifang was arrested, the elder Zhou retired as head of Shougang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174103Z" creationid="Silvina Nuñez" creationdate="20160927T174103Z">
+        <seg>El día después de que Zhou Beifang fuera arrestado, Zhou se jubiló como jefe de Shougang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The day after this raucous meeting, &lt;/f4&gt;&lt;f5&gt;36 &lt;/f5&gt;&lt;f6&gt;percent of NPC delegates either abstained or voted against&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Jiang&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Chunyun,&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Jiang&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Zemin’s&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;handpicked&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;nominee&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;as&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;vice-premier.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T130357Z">
@@ -17360,6 +17520,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T231050Z">
         <seg>La primera es que, en la primavera de 1991, a Deng le faltó la fuerza política para restablecer su visión de la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first major casualty was Yan Jian- hong, the wife of former Guizhou provincial Party secretary Liu Zhengwei, who was executed in January for taking advantage of her connections in order to embezzle and misappropriate millions of yuan.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;16&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174009Z" creationid="Silvina Nuñez" creationdate="20160927T174009Z">
+        <seg>La primera víctima importante fue Yan Jian- hong, esposa de Liu Zhengwei, secretario del Comité Provincial del partido de Guizhou, a quién se ejecutó en el mes de enero por aprovecharse de sus conexiones para malversar y apropiarse de millones de yuanes&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;16&lt;/f7&gt;&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18360,6 +18528,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The upheaval in the city came to a climax in late April when CCP secretary Chen Xitong, a member of the Politburo and ally of Deng Xiaoping, was removed from office and subsequently placed under investigation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174208Z" creationid="Silvina Nuñez" creationdate="20160927T174208Z">
+        <seg>La conmoción en la ciudad llegó a su punto culminante a fines del mes de abril cuando se destituyó y sometió a investigación al secretario del PCCh, Chen Xitong, miembro del Politburó y aliado de Deng Xiaoping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The writers of the Huangfu Ping articles were Zhou Ruijin, Ling He, and Shi Zhihong.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192210Z">
@@ -18508,6 +18684,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160910T181205Z">
         <seg>Luego por la noche en una reunión de dos horas y media con el primer ministro Zhu en la Casa Blanca, hizo exactamente eso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, in early April, Vice-Mayor Wang Baosen, who had been implicated by the investigation, committed suicide.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174157Z" creationid="Silvina Nuñez" creationdate="20160927T174157Z">
+        <seg>Más adelante, a principios de abril, el vicealcalde Wang Baosen, quién había sido parte de la investigación, se suicidó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21322,6 +21506,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the removal of Chen Xitong, it seemed apparent that the effort to strengthen “democratic centralism,” the campaign against corruption, and the power struggle among the leadership had come together.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174234Z" creationid="Silvina Nuñez" creationdate="20160927T174234Z">
+        <seg>Luego de la destitución de Chen Xitong, se hizo evidente que el esfuerzo de fomentar el “centralismo democrático”, la campaña anticorrupción, y la lucha de poder entre líderes se habían unificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the suppression of the protest movement in Beijing and elsewhere and with the ouster of Zhao Ziyang, conservatives seized the opportunity to criticize Zhao’s leadership over the economy and impose their own interpretation of economic reform.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160927T041446Z">
@@ -21759,6 +21951,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160926T192423Z">
         <seg>Jiang Zemin, el sucesor de Zhao como Secretario General, se retiró oficialmente en 2002, aunque conservó una influencia importante en los años siguientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhou, the head of Shougang (Capital Iron and Steel) International in Hong Kong, is the son of Zhou Guanwu, who was then not only head of the model enterprise Shougang but was well connected to such senior leaders as Wan Li, Peng Zhen, and perhaps Deng Xiaoping himself.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174043Z" creationid="Silvina Nuñez" creationdate="20160927T174043Z">
+        <seg>Zhou, jefe de la compañía Shougang (Capital Iron and Steel) International en Hong Kong, es hijo de Zhou Guanwu, quién, en ese momento, no solo era jefe de la empresa modelo de Shougang, sino que también tenía excelentes conexiones con los principales líderes, tales como Wan Li, Peng Zhen, y quizás, el mismo Deng Xiaoping. </seg>
       </tuv>
     </tu>
     <tu>
