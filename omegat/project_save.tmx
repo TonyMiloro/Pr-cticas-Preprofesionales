@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7232,6 +7232,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160918T232739Z">
         <seg>Por ejemplo, Jiang le rindió tributo al énfasis que Deng puso en la construcción económica, diciendo que “ de principio a fin debemos situar a la construcción económica en el centro", e incluso consiguió incorporar (lo mínimo) los comentarios de Deng en Shanghái diciendo que, "la[p]&lt;t0/&gt;lanificación&lt;t1/&gt;  y el mercado son métodos para la regulación del mercado” y aseveró que “no son señales para diferenciar el el socialismo del capitalismo”. Sin embargo, predominaron los temas conservadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, Qian Jun recalls Edward Said writing about being invited to an Arab country to teach English literature – only to find the English department so dominated by colonial culture that they would only permit him to teach in the traditional English manner and not say anything critical.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160927T160829Z" creationid="Martin" creationdate="20160927T160515Z">
+        <seg>Por ejemplo, Qian Juan se acuerda de la manera en que Edward Said escribia acerca de ser invitando a un país Arabe para enseñar literatura inglesa, solo para encontrar el departamento inglés completamente dominado por la cultura colonial que solo le permitirían enseñar inglés de manera tradicional y no hacer ninguna crítica.  </seg>
       </tuv>
     </tu>
     <tu>
