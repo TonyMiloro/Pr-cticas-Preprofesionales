@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2965,6 +2965,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235252Z">
         <seg>Aunque La elegía del río estaba respaldada con entusiasmo por intelectuales reformistas y el entonces secretario general, Zhao &lt;t0/&gt;Ziyang&lt;t1/&gt; (quien irónicamente le entregó una copia de la serie a Lee &lt;t2/&gt;Kuan&lt;t3/&gt; Yew, un alto ministro de Singapur y defensor declarado de los valores chinos que estaba de visita), el programa recibió numerosas críticas de distintos sectores del espectro ideológico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although it was no doubt connected with his father’s (Chen Yun’s) critique of Deng, it was not simply a repetition of his father’s formulations.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T220046Z" creationid="Franco" creationdate="20160927T220046Z">
+        <seg>Pese a que, sin lugar a dudas, estaba conectado con la crítica de Deng de su padre, Chen Yun, it was not simply a repetition of his father’s formulations.</seg>
       </tuv>
     </tu>
     <tu>
