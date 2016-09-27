@@ -889,8 +889,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1/&gt;Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T025946Z" creationid="Rocio" creationdate="20160927T025946Z">
-        <seg>[parcial]ibid.,</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T030157Z" creationid="Rocio" creationdate="20160927T025946Z">
+        <seg>&lt;f0&gt;&lt;t1/&gt;ibid.,p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -995,6 +995,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160916T224558Z">
         <seg> &lt;f0&gt;A la vez que Jiang recibía presión por parte de la izquierda, también se veía apremiado desde la derecha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;At the same time, economic reform was stimulating a rapid increase in the number of interests and demands in society.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T030354Z" creationid="Rocio" creationdate="20160927T030354Z">
+        <seg>&lt;f0&gt;Al mismo tiempo, la reforma económica estimulaba un incremento rápido en los intereses y demandas en sociedad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14169,8 +14177,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Reform was greatly changing the relationship between central and local governments by diminishing the role of the central gov- ernment in redistribution and by encouraging localities to satisfy their own interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T025926Z" creationid="Rocio" creationdate="20160927T025926Z">
-        <seg>La reforma estaba cambiando enormemente la relación entre los gobiernos locales y el central al .</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T030135Z" creationid="Rocio" creationdate="20160927T025926Z">
+        <seg>La reforma estaba cambiando enormemente la relación entre los gobiernos locales y el central al reducir el rol del gobierno central en la redistribución y al fomentar que las localidades satisficieran sus propias necesidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15301,6 +15309,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160908T111242Z">
         <seg>Tales medidas le permitieron a conservadores con mayor orientación ideológica criticar la "liberación burguesa" por un tiempo, pero sin dudas Deng atenuaría la expresión de tales temas y reenfatizaría el desarrollo económico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such demands were focused on local government, forcing the localities to concentrate ever more attention on their own needs.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T030359Z" creationid="Rocio" creationdate="20160927T030359Z">
+        <seg>ities to concentrate ever more attention on their own needs.</seg>
       </tuv>
     </tu>
     <tu>
