@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18083,6 +18083,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160926T010727Z">
         <seg>Los roles de Zhu y de la Oficina de la Procucción se ampliaron aún más en mayo de 1993 cuando este organismo se expandió y se constituyó como la Comisión Estatal de Economía y Comercio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The same study argues that this group possesses “comprehensive” (zongtixing) capital resources, meaning that it is able to mobilize its multidimensional economic and political contacts to monopolize the best opportunities.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T014514Z" creationid="Lucrecia" creationdate="20160927T014514Z">
+        <seg>El mismo estudio sostiene que este grupo tiene recursos "amplios" (zongtixing) de capital, lo que significa que es capaz de movilizar sus contactos polifacéticos relacionados a la economía y la política para monopolizar las mejores oportunidades.</seg>
       </tuv>
     </tu>
     <tu>
