@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17882,6 +17882,14 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T022056Z" creationid="Lucrecia" creationdate="20160927T022056Z">
         <seg>Los artículos de izquierda (los "manifiestos de 10 000 palabras") que se citaron previamente estaban destinados a ejercer presión sobre Jiang principalmente desde adentro de los círculos de elite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The leftist journal&lt;t1/&gt; &lt;t2/&gt;Mainstream&lt;t3/&gt; &lt;t4/&gt;(&lt;t5/&gt;Zhongliu&lt;t6/&gt;)&lt;t7/&gt; &lt;t8/&gt;published&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt; &lt;t12/&gt;long&lt;t13/&gt; &lt;t14/&gt;critique&lt;t15/&gt; &lt;t16/&gt;of&lt;t17/&gt; &lt;t18/&gt;Heart-to-Heart Talks &lt;t19/&gt;by one Feng Baoxing (apparently a pseudonym).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160927T212059Z" creationid="Eloisa" creationdate="20160927T211959Z">
+        <seg>El diario izquierdista&lt;t1/&gt; &lt;t2/&gt;Mainstream&lt;t3/&gt; &lt;t4/&gt;(&lt;t5/&gt;Zhongliu&lt;t6/&gt;)&lt;t7/&gt; &lt;t8/&gt;publicó&lt;t9/&gt; &lt;t10/&gt;una&lt;t11/&gt; &lt;t12/&gt;crítica&lt;t13/&gt; &lt;t14/&gt;extensa&lt;t15/&gt; &lt;t16/&gt;sobre&lt;t17/&gt; &lt;t18/&gt;Heart-to-Heart Talks &lt;t19/&gt;escrita por Feng Baoxing (apparentemente, un pesudónimo).</seg>
       </tuv>
     </tu>
     <tu>
