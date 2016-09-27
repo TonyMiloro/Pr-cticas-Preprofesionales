@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1505,8 +1505,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The difference in intellectual mode between the 1990s and the 1980s is that in the 1980s, even though there were all sorts of debates and ideological differences, the intellectual background, assumptions of thought [&lt;/f0&gt;&lt;f1&gt;sixiang yushe&lt;/f1&gt;&lt;f2&gt;], and value tendencies that lay behind these various divisions &lt;s3/&gt;were fundamentally the same.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215326Z">
-        <seg>&lt;f0&gt;La diferencia en el modo intelectual entre la década de los 90 y la década de los 80 es que en la década de los 80 aunque había debates de todo tipo y diferencias ideológicas, el trasfondo intelectual, los supuestos de pensamiento [&lt;/f0&gt;&lt;f1&gt;sixiang yushe&lt;/f1&gt;&lt;f2&gt;], y las inclinaciones hacia ciertos valores que subyacían en estas diversas divisiones &lt;s3/&gt;eran básicamente los mismos.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T153544Z">
+        <seg>&lt;f0&gt;La diferencia en el modo intelectual entre la década de los 90 y la década de los 80 es que en la de los 80, aunque había debates de todo tipo y diferencias ideológicas, el trasfondo intelectual, los supuestos de pensamiento [&lt;/f0&gt;&lt;f1&gt;sixiang yushe&lt;/f1&gt;&lt;f2&gt;], y las inclinaciones hacia ciertos valores que subyacían en estas diversas divisiones &lt;s3/&gt;eran básicamente los mismos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3419,8 +3419,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Xu Jilin put it:&lt;/f14&gt;&lt;f16&gt;14&lt;/f16&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T030436Z">
-        <seg>En términos de Xu Jilin:&lt;/f14&gt;&lt;f16&gt;14&lt;/f16&gt;</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T153706Z">
+        <seg>En términos de Xu Jilin&lt;/f14&gt;&lt;f16&gt;14:&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
