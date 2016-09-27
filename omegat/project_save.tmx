@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4875,8 +4875,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>But a combination of forces appears to be making deepening reform more difficult.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160915T022647Z">
-        <seg>Pero una combinación de factores parece están casusando que una reforma profunda sea más difícil.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T004107Z">
+        <seg>Pero una combinación de factores parece estar dificultando que se realice una reforma profunda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8704,8 +8704,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu Jintao and Wen Jiabao appear aware of this potential, hence their reaffirmation of reform at theMarch 2006 meeting of the NPC.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T003450Z">
-        <seg>Hu Jintao and Wen Jiabao parecen estar al tanto de esto,por lo que reafirmaron la reforma durante la reunión de la APN de marzo de 2006.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T003926Z">
+        <seg>Hu Jintao and Wen Jiabao parecen estar al tanto de esto, por lo que reafirmaron la reforma durante la reunión de la APN de marzo de 2006.</seg>
       </tuv>
     </tu>
     <tu>
