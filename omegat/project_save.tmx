@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1851,6 +1851,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160902T215254Z">
         <seg>&lt;f0&gt;la decentralización había conducido a una constante disminución de los ingresos como un porcentaje de la renta nacional y como un porcentaje de todos los ingresos del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;environment had set off demonstrated just how precarious that goal was.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;In 1989 Deng had endorsed the concept of neo-authoritarianism, the idea&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;that the authority of the state could be used to build a strong economy and stable society a la the authoritarian regimes on &lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;China’s periphery.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175116Z" creationid="Soledad Mori" creationdate="20160927T175116Z">
+        <seg>&lt;f0&gt;desataron terribles luchas internas en el partido que demostraron cuan precaria era en realidad esa meta.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;En 1989, Deng respaldó el concepto de neoautoritarismo, la idea de&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;quese podía utilizar la autoridad del estado para construir una economía fuerte y una sociedad estable al estilo de los regímenes autoritarios que se desplegaban en&lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;en las periferias de China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6687,6 +6695,22 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T173305Z">
         <seg>Basándose principalmente en la tradición liberal del marxismo y en ocasiones en el liberalismo occidental, buscaban crear un estado que pusiera un énfasis sin precedentes en los seres humanos, lo que implicaba crear un orden democrático más liberal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During his trip to the south, Deng praised the example of Singapore.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175136Z" creationid="Soledad Mori" creationdate="20160927T175136Z">
+        <seg>En su viaje al sur, Deng exaltó el ejemplo que representaba Singapur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During his visit to Shougang, he signaled that he had found his tool to build such a society: Zhu Rongji.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175209Z" creationid="Soledad Mori" creationdate="20160927T175209Z">
+        <seg>Durante su visita a Shougang, remarcó que había descubierto la herramienta que le permitó construir tal sociedad: Zhu Rongji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15225,8 +15249,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, however, Deng sought a path that might ensure stability after his passing, and the terrible intra-Party struggles that Tiananmen and the ensuing changes in the international&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174711Z" creationid="Soledad Mori" creationdate="20160927T174711Z">
-        <seg>&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174904Z" creationid="Soledad Mori" creationdate="20160927T174711Z">
+        <seg>Por otro lado, sin embargo, Den estaba en busca de un camino que le permitiera asegurar estabilidad luego de su deceso, pero Tiananmén y los cambios resultantes en el ámbito internacional&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
