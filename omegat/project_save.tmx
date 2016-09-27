@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15899,8 +15899,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Since that time, the Fifth Plenum decision declared, economic policy had ignored China’s “national strength,” allowed aggregate demand to “far, far” exceed aggregate supply, permitted the balance between industry and agriculture to be thrown off, ignored basic industries, and overly dispersed financial resources, thus eroding the state’s ability to exercise macroeconomic control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160927T231858Z">
-        <seg>Desde ese momento, la decisión del Quinto Pleno declaró que la política económica había ignorado el "potencial nacional" de China, permitió una demanda agregada que exedía "exageradamente" la oferta agregada, lo que permitió que el balance entre la industria agropecuaria e industrial se desequilibre, ignorando las industrias básicas; y dispersando los recursos financieros en demasía, y por lo tanto, la erosión de la habilidad del estado para ejercer un control macroeconómico.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160927T232407Z">
+        <seg>Desde ese momento, la decisión del Quinto Pleno declaró que la política económica había ignorado el "potencial nacional" de China, permitió una demanda agregada que exedía "exageradamente" la oferta agregada, lo que permitió que el balance entre la industria agropecuaria e industrial sea dejado de lado, ignoró las industrias básicas y dispersó los recursos financieros en demasía; por consiguiente, provocó la disminución de la habilidad del estado para ejercer un control macroeconómico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19219,8 +19219,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These problems, the decision declared, constituted a “mortal wound” (zhimingshang) to the economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T001841Z">
-        <seg>Estos problemas declarados por la desición, constituyeron una "herida mortal" (zhimingshang) para la economía.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160927T232623Z">
+        <seg>Estos problemas, según declaró la desición, constituyeron una "herida mortal" (zhimingshang) para la economía.</seg>
       </tuv>
     </tu>
     <tu>
