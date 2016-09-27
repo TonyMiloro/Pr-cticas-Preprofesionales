@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11267,8 +11267,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It was not only that the enterprises sought help from their supervising administrators but also that the various ministries had an incentive to support even weak SOEs and to encourage production even if it was not economically efficient.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110358Z">
-        <seg>No solo que las empresas recibían apoyo de sus supervisores administrativos sino que también diversos ministerios tenían un incentivo para apoyar incluso a empresas estatales débiles y para promover la producción aun cuando no era económicamente eficiente.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T195609Z">
+        <seg>No solo ocurría que las empresas recibían apoyo de sus supervisores administrativos, sino que también diversos ministerios tenían un incentivo para apoyar incluso a empresas estatales débiles y para promover la producción aun cuando llevar a cabo estas acciones no era económicamente eficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20500,8 +20500,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Unless the apron strings that bound SOEs to state ministries could be severed, there was no way that SOEs, however their ownership structure might be changed, could truly make their way in the market economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110416Z">
-        <seg>Al menos que se ajustara el cordón que unía a las empresas estatales con los ministerios estatales, no había otra forma de que las empresas estatales pudieran salir a flote en la economía de mercado, a pesar de que su estructura de propiedad se pudiera cambiar. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T195806Z">
+        <seg>A menos que se cortara el cordón que unía las empresas estatales con los ministerios estatales, no había forma de que las primeras pudieran salir a flote en la economía de mercado,incluso si su estructura de propiedad se pudiera cambiar. </seg>
       </tuv>
     </tu>
     <tu>
