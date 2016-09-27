@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9752,8 +9752,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the late 1980s, a headline performer might earn as much as 2,000 yuan for a performance; by 1992, such fees had risen to between 5,000 and 7,000 yuan, and by the mid-1990s top performers could earn tens of thousands of yuan for a single performance.&lt;/f0&gt;&lt;f1&gt;9 &lt;/f1&gt;&lt;f2&gt;This &lt;s3/&gt;commercialization of culture was also reflected in such popular writings as Jia Pingwa’s &lt;/f2&gt;&lt;f4&gt;Abandoned Capital&lt;/f4&gt;&lt;f5&gt;, which depicts seamy sex and crass cynicism in a society that has lost its ideals.&lt;/f5&gt;&lt;f6&gt;10 &lt;/f6&gt;&lt;f7&gt;As literary critic Xiao Xialin put it: “Ours is the world of the abandoned capital.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160920T061442Z">
-        <seg>A finales de la década de los 80, un actor principa podía ganar hasta 2.000 yuanes por una actuación; para 1992, estas tasas habían aumentado y ganaban entre 5.000 y 7.000 yuanes; y para mediados de la década de los 90, estos actores podían ganar decenas de miles de yuanes por una sola actuación&lt;/f0&gt;&lt;f1&gt;9. &lt;/f1&gt;&lt;f2&gt;Esta &lt;s3/&gt;comercialización de la cultura se reflejaba también en escritos populares como La capital abandonada &lt;/f2&gt;&lt;f4&gt;de Jia Pingwa&lt;/f4&gt;&lt;f5&gt;, que representa el sexo sórdido y el cinismo burdo en una sociedad que ha perdido sus ideales &lt;/f5&gt;&lt;f6&gt;10. &lt;/f6&gt;&lt;f7&gt;Como el crítico literario Xiao Xialin expresó: "el nuestro es el mundo de la capital abandonada.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160927T122454Z">
+        <seg>A finales de la década de los 80, un actor principal podía ganar hasta 2.000 yuanes por una actuación; para 1992, estas tasas habían aumentado y ganaban entre 5.000 y 7.000 yuanes; y para mediados de la década de los 90, estos actores podían ganar decenas de miles de yuanes por una sola actuación&lt;/f0&gt;&lt;f1&gt;9. &lt;/f1&gt;&lt;f2&gt;Esta &lt;s3/&gt;comercialización de la cultura se reflejaba también en escritos populares como La capital abandonada &lt;/f2&gt;&lt;f4&gt;de Jia Pingwa&lt;/f4&gt;&lt;f5&gt;, que representa el sexo sórdido y el cinismo burdo en una sociedad que ha perdido sus ideales &lt;/f5&gt;&lt;f6&gt;10. &lt;/f6&gt;&lt;f7&gt;Como el crítico literario Xiao Xialin expresó: "el nuestro es el mundo de la capital abandonada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13600,8 +13600,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Only two years later, another television series, China’s first domestically produced soap opera, would reflect an extraordinarily different ethos.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160919T173405Z">
-        <seg>Apenas dos años más tarde, otra serie televisica, la primera telenovela china producida en el país, reflejaría un espíritu extraordinariamente distinto.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160927T122255Z">
+        <seg>Apenas dos años más tarde, otra serie televisiva, la primera telenovela china producida en el país, reflejaría un espíritu extraordinariamente distinto.</seg>
       </tuv>
     </tu>
     <tu>
