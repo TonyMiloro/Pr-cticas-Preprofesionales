@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21134,6 +21134,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160909T120727Z">
         <seg>Al parecer Zhang Wenkang sabía lo que estaba sucediendo, pero no podía controlarlo&lt;t52/&gt; &lt;t53/&gt;&lt;t54/&gt; &lt;t55/&gt; &lt;t56/&gt;.&lt;t57/&gt;44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang Kuan was one of the earliest and most influential participants in discussions on Orientalism and colonial culture, but he was by no means alone.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160927T160112Z" creationid="Martin" creationdate="20160927T155800Z">
+        <seg>Zhang Kuan era uno de los primeros participantes con mayor influencia en discusiones acerca del orientalismo y la cultura colonial, pero </seg>
       </tuv>
     </tu>
     <tu>
