@@ -1711,6 +1711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Thus, the Fourteenth Party Congress that convened in October 1992&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;sought to attain two seemingly contradictory goals: establish the dominance of Deng (and his line of reform and opening up) over the left and deny the fruits of victory to the “bourgeois liberals” within the Party.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175357Z" creationid="Soledad Mori" creationdate="20160927T175357Z">
+        <seg>&lt;f0&gt;De modo que el XIV Congreso Nacional del Partido que fue convocado en octubre de 1992&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;pretendía alcanzar dos metas en apariencia contradictorias entre sí: establecer el dominio de Deng (y su línea de reforma y apertura) por sobre la izquierda, y negarle los frutos de la victoria a los “burgueses liberales” dentro del partido.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Unlike much of the democratic discussions then taking place in China, however, Wang constantly registered a note of caution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160911T234453Z">
@@ -6709,8 +6717,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>During his visit to Shougang, he signaled that he had found his tool to build such a society: Zhu Rongji.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175209Z" creationid="Soledad Mori" creationdate="20160927T175209Z">
-        <seg>Durante su visita a Shougang, remarcó que había descubierto la herramienta que le permitó construir tal sociedad: Zhu Rongji.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175219Z" creationid="Soledad Mori" creationdate="20160927T175209Z">
+        <seg>Durante su visita a Shougang, remarcó que había descubierto la herramienta para construir tal sociedad: Zhu Rongji.</seg>
       </tuv>
     </tu>
     <tu>
