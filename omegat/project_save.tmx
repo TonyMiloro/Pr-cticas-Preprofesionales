@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1323,6 +1323,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T132003Z">
         <seg>&lt;f0&gt;Al final de los años 80, Wang escribió una serie de ensayos que llamaron la atención de varios y que lo consagraron como uno de los jóvenes más iluminados de la escena intelectual. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In the midst of this acrimonious dispute, an enlarged meeting of the Politburo was convened for March 10–12.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T163139Z" creationid="Soledad Mori" creationdate="20160927T163051Z">
+        <seg>En medio de esta severa disputa, se convocó una gran reunión del Politburo desde el 10 al 12 de marzo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -21046,6 +21054,15 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T130730Z">
         <seg>Yang Ping estaba&lt;t28/&gt; interesado en explorar diferentes&lt;t29/&gt; ideas nacionalistas y neoconservadoras para que China logre enfrentar lo que él y muchos otros veían como problemas generados por las reformas de la década de los 80.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yang Shangkun, Deng’s close associate and permanent vice-chairman of the CMC, led the charge by demanding that the body endorse Deng’s view of economic work at the center.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Jiang Zemin offered a self-criticism for his laxity in promoting reform and opening and echoed Yang’s views.72 Politburo member and NPC chairman Wan Li also strongly endorsed Deng’s views, and Politburo Standing Committee member Qiao Shi argued pointedly that the leadership of the Party remained hindered by leftist ideology that interfered with the effective implementation of the Party’s principles and policies.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T163357Z" creationid="Soledad Mori" creationdate="20160927T163357Z">
+        <seg>Yang Shangkun, el socio cercano de Deng y vice-presidente permanente de la Comisión Militar Central, tomó las riendas al exigir que la organización apoye la perspectiva económica de Deng.
+Jiang Zemin hizo una autocrítica por su descuido al promover reforma y apoyar la perspectiva de Yang. Wan Li, presidente de la Legislatura de China y miembro del Politburo, también respaldó firmemente la propuesta de Deng, y Qiao Shi, miembro del Comité Permanente del Politburo, sostuvo que el liderazgo del Partido se encontraba obstaculizado por la ideología de izquierda que interfirió con la efectiva implementación de los principios y normas del Partido.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
