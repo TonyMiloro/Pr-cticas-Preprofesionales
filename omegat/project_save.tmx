@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9800,8 +9800,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the &lt;/f2&gt;1980s, criticism of reform came mostly from “conservatives,” primarily those ideologues with ties to the propaganda system, the planned economy, and parts of the military who tried to uphold “socialism” in the face of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T153926Z">
-        <seg>En la década de &lt;/f2&gt;los 80, gran parte de la crítica a la reforma provenía de los "conservadores", especialmente de aquellos ideólogos con vínculos con el sistema de propaganda, la economía planificada, y sectores de las fuerzas armadas quienes intentaron defender al "socialismo" frente a la reforma.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T155747Z">
+        <seg>En la década de &lt;/f2&gt;los 80, gran parte de la crítica a la reforma provenía de los "conservadores", especialmente de aquellos ideólogos con vínculos con el sistema de propaganda, la economía planificada y sectores de las fuerzas armadas quienes intentaron defender al "socialismo" frente a la reforma.</seg>
       </tuv>
     </tu>
     <tu>
