@@ -3457,6 +3457,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As he put it: “Because the central government depends on the local government to guarantee its fiscal revenue and also depends on the local policies to satisfy localized interests&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;(difanghua de liyi),&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;it must make concessions to regional protectionism.”&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T032332Z" creationid="Rocio" creationdate="20160927T032332Z">
+        <seg>: “Because the central government depends on the local government to guarantee its fiscal revenue and also depends on the local policies to satisfy localized interests&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;(difanghua de liyi),&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;it must make concessions to regional protectionism.”&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As intellec-tuals have come to know the United States better, they have acquired the knowledge and the boldness to become more critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160922T204647Z">
@@ -8840,8 +8848,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In Wang’s view, the restructuring of incentives seriously undermined the ability of the central government to define and implement a policy that took the long-term best interests of the nation into account.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T031811Z" creationid="Rocio" creationdate="20160927T031811Z">
-        <seg>En la perspectiva de Wang, la reestructuración de incentivos socavó seriamente la capacidad del gobierno central de definir e implementar una política que tomara en cuenta los intereses a largo plazo de la nación.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T032428Z" creationid="Rocio" creationdate="20160927T031811Z">
+        <seg>Según la perspectiva de Wang, la reestructuración de incentivos socavó seriamente la capacidad del gobierno central de definir e implementar una política que tomara en cuenta los intereses a largo plazo de la nación.</seg>
       </tuv>
     </tu>
     <tu>
