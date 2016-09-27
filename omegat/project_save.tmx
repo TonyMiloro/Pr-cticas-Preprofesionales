@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12319,8 +12319,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Lin pointedly attributed the rapid growth that Guangdong had enjoyed over the previous decade to the implementation of market-oriented policies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T194223Z">
-        <seg>Lin atribuyó el rápido crecimiento que Guangdong había disfrutado durante la década anterior, a la implementación de políticas orientadas al mercado. </seg>
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160927T022517Z">
+        <seg> Lin atribuyó enfáticamente el rápido crecimiento con el que Guangdong había contado durante la década anterior, a la implementación de políticas orientadas al mercado.</seg>
       </tuv>
     </tu>
     <tu>
