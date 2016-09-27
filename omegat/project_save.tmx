@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8888,8 +8888,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In December 1990, Chen Yuan presented apaper entitled “China’s Deep- Seated Economic Problems and Choices — Several Issues Regarding China’s Economic Development Situation and the Operating Mechanism (Out- line),” which decried many of the decentralizing consequences of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160927T153312Z" creationid="Franco" creationdate="20160927T153312Z">
-        <seg>En diciembre de 1990, Chen Yuan presentó un artículo titulado “China’s Deep- Seated Economic Problems and Choices — Several Issues Regarding China’s Economic Development Situation and the Operating Mechanism (Out- line),” which decried many of the decentralizing consequences of reform.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T153554Z" creationid="Franco" creationdate="20160927T153312Z">
+        <seg>En diciembre de 1990, Chen Yuan presentó un artículo titulado “Los arraigados problemas y elecciones económicas de China — Distintas cuestiones correspondientes a la situación de desarrollo económico de China y los mecanismos operativos (resumen)” which decried many of the decentralizing consequences of reform.</seg>
       </tuv>
     </tu>
     <tu>
