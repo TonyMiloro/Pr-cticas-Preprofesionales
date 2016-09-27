@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>18—19.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T222019Z" creationid="Franco" creationdate="20160927T222019Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1970s.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T225326Z">
@@ -8873,8 +8881,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T142133Z">
-        <seg>ibid.,</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T222022Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
