@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12118,8 +12118,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Just as Party conservatives rejected Deng’s economic line, they spurned efforts to lessen ideological tensions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T003839Z">
-        <seg>Así como El Partido Conservativo rechazó la línea económica de Deng, desdeñaron los efuerszos para disminuír las tensiones ideológicas.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160927T233730Z">
+        <seg>Así como El Partido Conservatdor rechazó la línea económica de Deng, también desdeñaron los efuerszos para disminuír las tensiones ideológicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18875,8 +18875,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Their rejection of Deng’s efforts to reduce&lt;s1/&gt;tensions was based not only on the depth of division within the Party but also on the collapse of socialism in Eastern Europe.60 On December 15, Wang Renzhi, the conservative head of the Propaganda Department, launched a blistering attack on bourgeois liberalization in a talk to a Party building class.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T004923Z">
-        <seg>Su rechazo a los esfuerzos de Deng de reducir&lt;s1/&gt;las tensiones fue basado no sólo en laprofunda división dentro del Partido pero también en el colapso del socialismo en Europa Oriental.60 El 15 de diciembre, Wang Renzhi, el líder del Departamento de Propaganda,lanzó un ataque ardiente hacia la liberalización de la burguesía en una charla para fomentar el Partido de Clases.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160927T234132Z">
+        <seg> Su rechazo a los esfuerzos de Deng de reducir&lt;s1/&gt;las tensiones fue basado no sólo en laprofunda división dentro del Partido pero también en el colapso del socialismo en Europa Oriental.60 El 15 de diciembre, Wang Renzhi, el líder del Departamento de Propaganda,lanzó un ardiente ataque sobre la liberalización de la burguesía en una charla para fomentar el Partido de Clases.</seg>
       </tuv>
     </tu>
     <tu>
