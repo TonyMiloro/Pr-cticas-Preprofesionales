@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9502,6 +9502,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In opposition, Politburo Standing Committee member Yao Yilin argued that Deng’s comments on guarding against leftism referred to the economic field; there were no indications of leftism in other fields.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T163711Z" creationid="Soledad Mori" creationdate="20160927T163711Z">
+        <seg>No obstante, Yao Yilin, miembro del Comité Permanente del Politburo, sostuvo que los comentarios de Deng en contra de la corriente izquierdista se reducen al ámbito económico. No hubo indicios de izquierda en otros sectores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to defend his vision of reform against his critics’ arguments, Deng reiterated the theoretically unsophisticated but ultimately effective argument that he had put forth in Shanghai the previous year: planning and markets, far from being distinguishing characteristics of socialism and capitalism, were simply economic “methods” possessed by both types of systems.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T223813Z">
@@ -16548,6 +16556,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The communiqu´e &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;issued by the Politburo meeting endorsed the “necessity” of upholding the “one center” of economic development and called on the Party to “accelerate the pace of reform and opening to the outside world.” Moreover, it affirmed Deng’s thesis that the main danger the Party faced was leftism.74 Accordingly, China’s central media finally publicized Deng’s trip.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T163832Z" creationid="Soledad Mori" creationdate="20160927T163832Z">
+        <seg>El comunicado&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt; emitido por la reunión del Politburo avaló la "necesidad" de defender "el único centro" de desarrollo económico y le solicitó al Partido "acelerar el paso de la reforma y la apertura al mundo". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The conservative Australian paper the Financial Review summed up the public mood in its headline: “Bush came, Hu conquered.” By 2006, people began talking about China’s emerging “soft power.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160921T170320Z">
@@ -21079,6 +21095,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T223618Z">
         <seg>Yao era miembro del Comité Permanente del&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Politburó, Tian y Wu eran miembros del Politburó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yao’s comments were echoed by Song Ping, also a member of the Standing Committee.73 The outcome favored Deng.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T163755Z" creationid="Soledad Mori" creationdate="20160927T163755Z">
+        <seg>Las observaciones de Yao fueron compartidas por Song Ping, miembro del Comité Permanente. El resultado favoreció a Deng. </seg>
       </tuv>
     </tu>
     <tu>
