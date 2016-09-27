@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3667,8 +3667,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As the 1980s gave way to the 1990s, however, intellectuals found their income shrinking relative to other groups and that their ideas and ethos were no longer esteemed.&lt;/f0&gt;&lt;f1&gt;5 &lt;/f1&gt;&lt;f2&gt;One might argue, as Yu Yingshi has, that intellectuals have been increasingly marginalized throughout the twentieth century, yet intellectuals have been slow to give up the traditional notion that they are the bearers of the highest cultural values of society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160919T172346Z">
-        <seg>Sin embargo, a medida que la década de los 80 daba paso a la de los 90, los intelectuales notaron que sus ingresos se reducían en relación con otro grupos y que sus ideas y valores ya no eran apreciados&lt;/f0&gt;&lt;f1&gt;5. &lt;/f1&gt;&lt;f2&gt;Uno podría argumentar, como lo ha hecho Yu Yingshi, que los intelectuales han sido cada vez más marginados a lo largo del siglo xx, pero han tardado en renunciar a la noción tradicional de ser los portadores de los valores culturales supremos de la sociedad.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T150325Z">
+        <seg>Sin embargo, a medida que la década de los 80 daba paso a la de los 90, los intelectuales notaron que sus ingresos se reducían en relación con otros grupos y que sus ideas y valores ya no eran apreciados&lt;/f0&gt;&lt;f1&gt;5. &lt;/f1&gt;&lt;f2&gt;Uno podría argumentar, como lo ha hecho Yu Yingshi, que los intelectuales han sido cada vez más marginados a lo largo del siglo xx, pero han tardado en renunciar a la noción tradicional de ser los portadores de los valores culturales supremos de la sociedad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8752,8 +8752,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1988, as noted in Chapter &lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;, the television miniseries &lt;/f2&gt;&lt;f3&gt;River Elegy &lt;/f3&gt;&lt;f4&gt;epitomized the intellectual project of a cultural elite (indeed, that is whatWang Xiaodong found so repellant about it), one that conceived of itself as carrying on an intellectual and cultural mission that stems from the May Fourth Movement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160919T172926Z">
-        <seg>En 1988, como se mencionó en el capítulo &lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;, la miniserie de televisión &lt;/f2&gt;&lt;f3&gt;Elegía del río &lt;/f3&gt;&lt;f4&gt;resumió el proyecto intelectual de una élite cultural (de hecho, eso es lo que Wang Xiaodong encontró tan repulsivo de la misma) que se concebía a sí misma como el ejercicio de una misión intelectual y cultural que proviene del Movimiento del Cuatro de Mayo.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T150447Z">
+        <seg>En 1988, como se mencionó en el capítulo &lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;, la miniserie de televisión &lt;/f2&gt;&lt;f3&gt;Elegía del río &lt;/f3&gt;&lt;f4&gt;resumió el proyecto intelectual de una élite cultural (de hecho, eso es lo que Wang Xiaodong encontró tan repulsivo de esta) que se concebía a sí misma como el ejercicio de una misión intelectual y cultural que proviene del Movimiento del Cuatro de Mayo.</seg>
       </tuv>
     </tu>
     <tu>
