@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1218,8 +1218,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Chen obviously had the East Asian developmental state in mind.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160927T222125Z" creationid="Franco" creationdate="20160927T222125Z">
-        <seg>&lt;f0&gt;Por supuesto, Chen tenía en mente el desarrollo del estado de Asia del este.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T222143Z" creationid="Franco" creationdate="20160927T222125Z">
+        <seg>&lt;f0&gt;Por supuesto, Chen tenía en mente el desarrollo del estado de Asia oriental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8299,6 +8299,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234016Z">
         <seg>También insistió a respaldar a Alemania en toda disputa con Estados Unidos (insinuando que Alemania debía retirarse de la OTAN) y al Sudeste Asiático por temor a que Estados Unidos regresara a aquella región y amenazara a China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He argued that the successful experiences of the late industrializing nations proved that the central government has certain unique functions; not every- thing can be left to the whims of the market.&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Chen’s understanding of the role of the central government was also influenced by his view of China’s role in the world economy: whereas China should participate in the inter- national division of labor and economic exchange, at the same time, “China must develop as an economic great power that is not dependent on any other country or group of countries.” China’s developmental path cannot be like that of small countries; China must have a complete and fairly advanced industrial system.&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Market forces alone will never bring about such an economic system; the government should have a clear industrial policy and should direct scarce resources to strategic industries.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T222434Z" creationid="Franco" creationdate="20160927T222316Z">
+        <seg>Argumentó que la experiencias exitosas de las naciones que se habían industrializado de manera tardía probaron que el gobierno central tiene ciertas funciones únicas; no todo puede quedar en el capricho del mercado.&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;El conocimiento de Chen respecto al rol del gobierno central también estaba influenciado por su perspectiva del rol de China en la economía mundial:&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Market forces alone will never bring about such an economic system; the government should have a clear industrial policy and should direct scarce resources to strategic industries.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
