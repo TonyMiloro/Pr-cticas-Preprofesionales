@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13520,8 +13520,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On the one hand, the wave of consumerism contributed to social stability by refocusing urban residents’ attention from politics to material comforts,&lt;/f6&gt;&lt;f7&gt;3 &lt;/f7&gt;&lt;f8&gt;but on the other hand it created resentments and marginalized those left behind.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160919T160504Z">
-        <seg>Por un lado, la ola de consumismo contribuyó a la estabilidad social reorientando la atención de los residentes urbanos de la política a la comodidades materiales&lt;/f6&gt;&lt;f7&gt;3. &lt;/f7&gt;&lt;f8&gt;Pero por otro lado, creó resentimientos y marginó a los que se quedaron atrás.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T145816Z">
+        <seg>Por un lado, la ola de consumismo contribuyó a la estabilidad social reorientando la atención de los residentes urbanos desde la política hacia las comodidades materiales&lt;/f6&gt;&lt;f7&gt;3. &lt;/f7&gt;&lt;f8&gt;Pero por otro lado, creó resentimientos y marginó a los que se quedaron atrás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14281,8 +14281,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Previously marginalized groups – individual entrepreneurs, joint venture employees, and &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;entertainers – began to &lt;/f2&gt;&lt;f3&gt;create a new urban consumer culture.&lt;/f3&gt;&lt;f4&gt;2 &lt;/f4&gt;&lt;f5&gt;With the passing of Tiananmen, &lt;/f5&gt;&lt;f6&gt;Marxist ideology lost whatever residual hold it had maintained on people, and the state implicitly but strongly reaffirmed the social contract that had emerged in the 1980s: economic prosperity in exchange for political quiescence.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160919T160257Z">
-        <seg>Los grupos previamente marginados, entre ellos empresarios individuales, empleados de empresas conjuntas y &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;animadores, comenzaron a &lt;/f2&gt;&lt;f3&gt;crear una nueva cultura de consumo urbana&lt;/f3&gt;&lt;f4&gt;2. &lt;/f4&gt;&lt;f5&gt;Con el paso de Tiananmén, &lt;/f5&gt;&lt;f6&gt;la ideología marxista perdió cualquier valor residual que había mantenido en las personas y el estado reafirmó de manera implícita pero considerable el contrato social que había surgido en la década de los 80: prosperidad económica a cambio de inactividad política.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T145714Z">
+        <seg>Los grupos previamente marginados, entre ellos empresarios individuales, empleados de empresas conjuntas y &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;animadores, comenzaron a &lt;/f2&gt;&lt;f3&gt;crear una nueva cultura de consumo urbana&lt;/f3&gt;&lt;f4&gt;2. &lt;/f4&gt;&lt;f5&gt;Con el paso de Tiananmén, &lt;/f5&gt;&lt;f6&gt;la ideología marxista perdió cualquier valor residual que había mantenido en las personas y el Estado reafirmó de manera implícita pero considerable el contrato social que había surgido en la década de los 80: prosperidad económica a cambio de inactividad política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19788,8 +19788,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Unlike the 1980s, in which the vast majority of people benefited from reform, by the 1990s there was an increasing sense of “winners” and “losers,” both economically and psychologically.&lt;/f8&gt;&lt;f9&gt;4 &lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160926T215226Z">
-        <seg>A diferencia de la década de los 80, en la que la gran mayoría de personas se beneficiaron de la reforma, en la década de los 90 hubo una creciente sensación de "ganadores" y "perdedores", tanto económica como psicológicamente&lt;/f8&gt;&lt;f9&gt;4. &lt;/f9&gt;</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T145922Z">
+        <seg>A diferencia de la década de los 80, en la que la gran mayoría de personas se beneficiaron con la reforma, en la década de los 90 hubo una creciente sensación de "ganadores" y "perdedores", tanto económica como psicológicamente&lt;/f8&gt;&lt;f9&gt;4. &lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
