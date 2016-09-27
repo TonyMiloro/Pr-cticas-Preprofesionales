@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8816,8 +8816,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In September, on the eve of the Party’s Fifth Plenum, Deng told American physicist T. D. Lee that “reform and opening up will certainly be continued.”51 The message of reform and opening up was pressed by a People’s Daily editorial six days later which strongly reiterated that reform would be continued and declared, “[w]e certainly must not stop eating for fear of choking.”52</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T161605Z">
-        <seg>VER En septiembre, en la vispera del Quinto Pleno del Partido, Deng le comentó al físico estadounidese T.D.Lee que "Sin duda, la reforma y la expansión van a continuar". 51. El mensaje de reforma y expansión fue publicado por una editorial de People´s Daily seis dias después, donde se reiteró fuertemente que la reforma iba a continuar se declaraba que "Definitivamente no tenemos que parar de comer por miedo a ahogarnos".52. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T031513Z">
+        <seg>En septiembre, en la vispera del Quinto Pleno del Partido, Deng le comentó al físico estadounidese T.D.Lee que "Sin duda, la reforma y la expansión van a continuar". 51. El mensaje de reforma y expansión fue publicado por una editorial de People´s Daily seis dias después, donde se reiteró fuertemente que la reforma iba a continuar se declaraba que "Definitivamente no tenemos que parar de comer por miedo a ahogarnos".52. </seg>
       </tuv>
     </tu>
     <tu>
