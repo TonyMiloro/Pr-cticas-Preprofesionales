@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3451,8 +3451,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As expert symbol manipulators, they can constrain the actions of the leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T120439Z" creationid="Lucrecia" creationdate="20160927T120439Z">
-        <seg>Como manipuladores expertos de los símbolos, pueden kimitar las acciones de la dirección.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T120707Z" creationid="Lucrecia" creationdate="20160927T120439Z">
+        <seg>Como manipuladores expertos de los símbolos, pueden limitar las acciones de la dirección.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16970,6 +16970,14 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160910T010415Z">
         <seg>La yuxtaposición de una élite urbana adinerada, nouveau riche y una población rural aún en apuros, y ahora una nueva clase urban de pobres ha ratificado suelo fértil para quienes cuestionan la regulación de la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The left further derives influence from the age and long-term service of many of its leaders.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T120718Z" creationid="Lucrecia" creationdate="20160927T120659Z">
+        <seg>La izquierda además está influenciada por la antigua y larga labor de muchos de sus líderes.</seg>
       </tuv>
     </tu>
     <tu>
