@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>20.&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;29&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Ibid., p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T221907Z" creationid="Franco" creationdate="20160927T221907Z">
+        <seg>&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2005</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044402Z">
