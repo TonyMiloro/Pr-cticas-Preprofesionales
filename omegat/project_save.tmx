@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16318,8 +16318,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The decrease in the functions of the central government and correspond- ing increase in the functions of local government resulted in a system in which the power to redistribute resources and satisfy interests was divided; in other words, local governments began to have the political power and economic resources to pursue their own interests at the expense of the central government.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T025047Z" creationid="Rocio" creationdate="20160927T025047Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T025310Z" creationid="Rocio" creationdate="20160927T025047Z">
+        <seg>La disminución de las funciones del gobierno central y el correspondiente incremento de las funciones del gobierno local dieron como resultado un sistema en el que el poder para redistribuir los recursos y satisfacer las necesidades estaba dividido. En otras palabras, los gobiernos locales comenzaron a tener poder político y recursos económicos para perseguir sus propios intereses a expensas del gobierno central.</seg>
       </tuv>
     </tu>
     <tu>
