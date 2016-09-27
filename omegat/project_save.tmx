@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13792,8 +13792,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Overcoming such legacies is not easy, though the creation of institutions, both formal and informal, suggests a possible course of transition to more stable &lt;t0/&gt;politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T012747Z">
-        <seg>Superar esos legados no es sencillo, aunque la creación de instituciones, formales o informales, sugiere un camino de transición hacia una política más estable.</seg>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160927T133200Z">
+        <seg>Superar esos legados no es sencillo, aunque la creación de instituciones, formales o informales, sugiere un camino de transición hacia una política más estable &lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15515,8 +15515,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Such failures manifested a winner-take-all mode of polit-ical contestation in which power is conceived of as “monistic, unitary and indivisible.” Such a tradition, rooted in the imperial past, but reinforced and indeed heightened by the political struggles of the twentieth century, has undermined the creation of political institutions and the emergence of more pluralistic understandings of politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T012353Z">
-        <seg>Aquellas fallas manifestaron una competición por el poder político que solo favorece a los ganadores y que concibe al poder como una unidad "monista, unitaria e indivisible". Aquella tradición, arraigada en un pasado imperial, pero reforzada y de hecho exacerbada por las luchas políticas del siglo veinte, ha perjudicado la creación de instituciones políticas y el surgimiento de una forma más pluralista de entender la política. </seg>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160927T133022Z">
+        <seg>Aquellas fallas manifestaron una competencia por el poder político que solo favorece a los ganadores y que concibe al poder como una unidad "monista, unitaria e indivisible". Aquella tradición, arraigada en un pasado imperial, pero reforzada y de hecho exacerbada por las luchas políticas del siglo veinte, ha perjudicado la creación de instituciones políticas y el surgimiento de una forma más pluralista de entender la política. </seg>
       </tuv>
     </tu>
     <tu>
