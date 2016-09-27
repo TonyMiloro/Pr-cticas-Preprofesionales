@@ -1328,6 +1328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Gao Xin and He Pin,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Zhonggong “taizidang"&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;pp.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T221956Z" creationid="Franco" creationdate="20160927T221956Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Gao Xin and He Pin,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Zhu Rongji zhuan&lt;/f2&gt;&lt;f3&gt;, p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212911Z">
