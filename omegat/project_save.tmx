@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17267,6 +17267,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Edgardo" changedate="20160927T000954Z">
         <seg> El surgimiento de los estudios nacionales &lt;/f5&gt;&lt;f6&gt;en la década de los 90 marcó una afirmación del nacionalismo cultural, pero no sin una cantidad determinada de patrocinio oficial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The role of local government therefore expanded to fill the gap; local government took over economic regulation and helped enterprises secure supplies of materials and markets for their products — functions that would normally be fulfilled by the market.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T024536Z" creationid="Rocio" creationdate="20160927T024536Z">
+        <seg>De esta manera, el rol del gobierno se expandió para cubrir esa necesidad; el gobierno local se hizo cargo de la regulación económica y ay.</seg>
       </tuv>
     </tu>
     <tu>
