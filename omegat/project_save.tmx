@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2645,6 +2645,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160825T151636Z">
         <seg>A pesar de estar dañado políticamente, se encontraba casi sin recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although foreign commentators rarely take leftist pronouncements seriously, the evidence strongly suggests that at various times the left has been an important force in elite politics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T105902Z" creationid="Lucrecia" creationdate="20160927T105902Z">
+        <seg>A pesar de que los cometaristas extranjeros casi nunca toman los comunicados oficiales de la izquierda de forma seria, la evidencia muestra que en mucha ocasiones la izquierda ha sido una fuerza importante en la política de elite.</seg>
       </tuv>
     </tu>
     <tu>
