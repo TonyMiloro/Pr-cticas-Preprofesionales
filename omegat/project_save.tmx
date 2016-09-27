@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2731,8 +2731,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>All we dream of now and hope for in the future are sex and money.”&lt;/f7&gt;&lt;f8&gt;11&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T152058Z">
-        <seg>"Todo lo que soñamos hoy y esperamos para el futuro es sexo y dinero&lt;/f7&gt;&lt;f8&gt;11".&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160927T181052Z">
+        <seg>"Todo lo que soñamos hoy y esperamos para el futuro es sexo y dinero&lt;/f7&gt;&lt;f8&gt;"11.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5787,8 +5787,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Commercialism destroyed the “feeling that a writer is the beloved and needed spokesman of the people and the conscience of society.”&lt;/f14&gt;&lt;f15&gt;8&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160920T060537Z">
-        <seg>El comercialismo destruyó la "sensación de que un escritor es el vocero que la población quiere y necesita, y la consciencia de la sociedad&lt;/f14&gt;&lt;f15&gt;8".&lt;/f15&gt;</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160927T181032Z">
+        <seg>El comercialismo destruyó la "sensación de que un escritor es el vocero que la población quiere y necesita, y la consciencia de la sociedad&lt;/f14&gt;&lt;f15&gt;"8.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8480,8 +8480,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, by the 1990s this was no longer the case, as intellectuals became marginalized by the changes in social values that accompanied the growth of the economy.&lt;/f0&gt;&lt;f1&gt;12 &lt;/f1&gt;&lt;f2&gt;Similarly, Wang Hui, editor of the country’s most influential intellectual journal &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), wrote that “[i]ntellectuals in the 1980s thought of themselves as cultural heroes &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;and persons of foresight (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), but intellectuals in the 1990s are struggling to find a new way of adapting.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T152700Z">
-        <seg>Sin embargo, en la década de los 90, esa ya no era la situación, ya que los intelectuales se convirtieron en marginados debido a los cambios en los valores sociales que acompañaron el crecimiento de la economía.&lt;/f0&gt;&lt;f1&gt;12 &lt;/f1&gt;&lt;f2&gt;Del mismo modo, Wang Hui, editor de la revista intelectual más influyente del país &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), escribió que “los [i]ntelectuales en la década de los 80 se creían héroes culturales &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;y personas con visión (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), pero los intelectuales en la década del 90 están intentando encontrar la forma de adaptarse.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160927T181107Z">
+        <seg>Sin embargo, en la década de los 90, esa ya no era la situación, ya que los intelectuales se convirtieron en marginados debido a los cambios en los valores sociales que acompañaron el crecimiento de la economía&lt;/f0&gt;&lt;f1&gt;12. &lt;/f1&gt;&lt;f2&gt;Del mismo modo, Wang Hui, editor de la revista intelectual más influyente del país &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), escribió que “los [i]ntelectuales en la década de los 80 se creían héroes culturales &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;y personas con visión (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), pero los intelectuales en la década del 90 están intentando encontrar la forma de adaptarse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16918,8 +16918,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The appearance of “RealisticResponses” in 1991 marked a certain coming of age of these ideas, not so much a political manifesto of the “princeling faction” (taizidang) – though that element was present – as an argument that China’s future lay in pioneering a “third way,” rejecting both Marxism–Leninism (as traditionally understood) and Western capitalism.1 Such a third way would include an assertion of nationalism, but it was not clear what such a nationalism would espouse since it somewhat paradoxically incorporated both an assertion of Chinese identity and an adoption of “Western rationalism.” There were also hints of populism that coexisted uneasily with implicit assumptions of elite control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T143408Z">
-        <seg>La aparición de “respuestas realistas” en 1991 marcó una cierta madurez en estas ideas, no tanto un manifiesto político de la facción de los “princelings” o también llamada el partido de los príncipes (taizidang), aunque ese elemento estaba presente, como un argumento de que el futuro de China radicaba en liderar una "tercera vía", que rechazaría tanto el marxismo-leninismo (tal como se los entiende tradicionalmente) como el capitalismo occidental. Esta tercera vía incluiría una afirmación de nacionalismo, pero no estaba claro qué apoyaría este nacionalismo, ya que en cierto modo incorporaba paradójicamente tanto una afirmación de la identidad de China como una adopción del "racionalismo occidental". Había, además, indicios de populismo que coexistían con preocupación con supuestos implícitos del control de la élite.n</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160927T180912Z">
+        <seg>La aparición de “respuestas realistas” en 1991 marcó una cierta madurez en estas ideas, no tanto un manifiesto político de la facción de los “princelings” o también llamada el partido de los príncipes (taizidang), aunque ese elemento estaba presente, como un argumento de que el futuro de China radicaba en liderar una "tercera vía", que rechazaría tanto el marxismo-leninismo (tal como se los entiende tradicionalmente) como el capitalismo occidental1. Esta tercera vía incluiría una afirmación de nacionalismo, pero no estaba claro qué apoyaría este nacionalismo, ya que en cierto modo incorporaba paradójicamente tanto una afirmación de la identidad de China como una adopción del "racionalismo occidental". Había, además, indicios de populismo que coexistían con preocupación con supuestos implícitos del control de la élite.n</seg>
       </tuv>
     </tu>
     <tu>
