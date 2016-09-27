@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2979,8 +2979,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although “Realistic &lt;/f0&gt;&lt;f1&gt;Responses” called for readjusting central–local relations in favor of the center and rejected blind faith in market forces as “utopian capitalism,” it did not reconcile that agenda with either its acceptance of market forces (shy of blind faith) or with the continuing poor performance of stateowned enterprises and the rapid growth of the non-state sector that had accompanied the growth of market forces.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160926T232338Z">
-        <seg>Aunque las “respuestas &lt;/f0&gt;&lt;f1&gt;realistas” exigían un reajuste de las relaciones centrales-locales a favor del centro y rechazaba la fe ciega en las fuerzas del mercado como "capitalismo utópico", no reconcilió esa agenda ya sea con su aceptación de la fuerzas del mercado (tímida de fe ciega) o con el bajo desempeño continuo de las empresas estatales y el rápido crecimiento del sector no estatal que había acompañado el crecimiento de las fuerzas del mercado.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T143815Z">
+        <seg>Aunque las “respuestas &lt;/f0&gt;&lt;f1&gt;realistas” exigían un reajuste de las relaciones centrales-locales a favor del centro y rechazaban la fe ciega en las fuerzas del mercado como "capitalismo utópico", no reconciliaron esa agenda ya sea con su aceptación de la fuerzas del mercado (tímida de fe ciega) o con el bajo desempeño continuo de las empresas estatales y el rápido crecimiento del sector no estatal que había acompañado el crecimiento de las fuerzas del mercado.</seg>
       </tuv>
     </tu>
     <tu>
