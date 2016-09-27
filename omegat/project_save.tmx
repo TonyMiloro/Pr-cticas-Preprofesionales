@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14721,8 +14721,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, with the upsurge of the economy and a loosening of the old rules governing economic activity, China was swept by a wave of commercialism that continues to the present day.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160927T122005Z">
-        <seg>En segundo lugar, con el aumento significativo de la economía y un desprendimiento de las antiguas normas que regulaban la actividad económica, China se vio arrasada por una ola de comercialismo que continúa hasta la actualidad.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T145445Z">
+        <seg>En segundo lugar, con el aumento significativo de la economía y un desprendimiento de las normas antiguas que regulaban la actividad económica, China se vio arrasada por una ola de comercialismo que continúa hasta la actualidad.</seg>
       </tuv>
     </tu>
     <tu>
