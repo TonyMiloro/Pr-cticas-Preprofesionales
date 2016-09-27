@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2611,8 +2611,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although Xing’s criticism of Li and Liu’s book illustrated the need for the Party to respond to intellectual discussions, Xing’s motive here seems to have been to set up a “right” to juxtapose to the “left” of the manifestos.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T123934Z" creationid="Lucrecia" creationdate="20160927T123934Z">
-        <seg>A pesar de que la crítica de Xing al libro de Li y Liu mostaba la necesidad  de un Partido que respondiera a las discusiones intelectuales, el objetivo de Xing parece haber sido crear una "derecha" que sirviera como oposión de la "izquiera" de los manifiestos.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T132436Z" creationid="Lucrecia" creationdate="20160927T123934Z">
+        <seg>A pesar de que la crítica de Xing al libro de Li y Liu mostraba la necesidad  de un Partido que respondiera a las discusiones intelectuales, el objetivo de Xing parece haber sido crear una "derecha" que sirviera como oposición de la "izquierda" de los manifiestos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2659,8 +2659,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although foreign commentators rarely take leftist pronouncements seriously, the evidence strongly suggests that at various times the left has been an important force in elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T105902Z" creationid="Lucrecia" creationdate="20160927T105902Z">
-        <seg>A pesar de que los cometaristas extranjeros casi nunca toman los comunicados oficiales de la izquierda de forma seria, la evidencia muestra que en mucha ocasiones la izquierda ha sido una fuerza importante en la política de elite.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T132528Z" creationid="Lucrecia" creationdate="20160927T105902Z">
+        <seg>A pesar de que los cometaristas extranjeros casi nunca toman los comunicados oficiales de la izquierda de forma seria, la evidencia muestra que en mucha ocasiones la izquierda ha sido una fuerza importante en la política de élite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4425,6 +4425,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But cautiousness implied impotence.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T131852Z" creationid="Lucrecia" creationdate="20160927T131852Z">
+        <seg>Pero prudencia implicó impotencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But conservative opposition remained fierce.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160902T160237Z">
@@ -5267,8 +5275,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>China, she argued, seems to be heading not toward liberal democracy and capitalism but toward a “government and mafia alliance.” These socioeconomic trends quickly became a source of popular discontent, and political and intellectual leaders from across the spectrum – the left, the New Left, neostatists, populist nationalists, and liberals – all responded with diagnoses and prescriptions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T021055Z" creationid="Lucrecia" creationdate="20160927T015927Z">
-        <seg>Ella planteó que parece que China se está dirigiendo no hacia una democracia y capitalismo liberal sino hacia una "alianza del gobierno y la mafia". Estas tendencia socieconómicas se convirtieron rápidamente en una fuente de discontento popular, y los líderes políticos e intelectuales de distintos partidos (tanto la izquierda, como la Nueva izquierda, los populistas y los liberales) contestaron con diagnósticos y prescripciones.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T132650Z" creationid="Lucrecia" creationdate="20160927T015927Z">
+        <seg>Según ella parece que China se está dirigiendo no hacia una democracia y capitalismo liberal sino hacia una "alianza del gobierno y la mafia". Estas tendencia socieconómicas se convirtieron rápidamente en una fuente de descontento popular, y los líderes políticos e intelectuales de distintos partidos (tanto la izquierda, como la Nueva izquierda, los populistas y los liberales) contestaron con diagnósticos y prescripciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5365,6 +5373,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160926T013232Z">
         <seg>Los intelectuales chinos resurgirían en una sociedad muy distinta, y sus reacciones ante los eventos socioeconómicos y políticos circundantes los polarizaron de una forma que no era aparante en 1980 o incluso, tal vez, antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chinese politics since Tiananmen, as in many crisis situations, tended to be defined by polarities: one was either for “upholding socialism” or for “bourgeois liberalization.” Taking heed of the fate of his predecessors, Hu Yaobang and Zhao Ziyang, Jiang spent much of his first six years making sure that no one could accuse him of being “lax” on bourgeois liberalization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T131416Z" creationid="Lucrecia" creationdate="20160927T131416Z">
+        <seg>La política China desde el incidente de Tiananmen, como durante otras crisis, era propensa ser definida por polaridades: uno era "defensor del socialismo" o apoyaba "la liberación burguesa". Jiang siguió el consejo de sus predecesores,Hu Yaobang and Zhao Ziyang, y pasó la mayor parte de sus primeros seis años asegurándose de que nadie lo pudiera acusar de ser "permisivo" con respecto a la liberación burguesa   .</seg>
       </tuv>
     </tu>
     <tu>
@@ -10115,6 +10131,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160924T015552Z">
         <seg>De hecho, fue esta falta de democracia, sostenía Yu, lo que había llevado a la alternancia entre autocracia y anarquía en la historia de China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, it was this proclivity for caution, if not conservatism, that roused Deng’s ire in 1992.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T131819Z" creationid="Lucrecia" creationdate="20160927T131819Z">
+        <seg>De hecho fue esta tendencia a la precaución, o quizás conservadurismo, lo que causó la ira de Deng en 1992.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20740,16 +20764,16 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Xing cited several manifestations of rightism, including “privatization” and revisionist interpretations of Chinese history that implied that China had taken the wrong road in pursuing the revolutionary path and that it was now necessary to say “farewell to revolution.” This was a reference to the well-known book (discussed in Chapter 3) by prominent philosopher Li Zehou and leading literary critic Liu Zaifu.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T123634Z" creationid="Lucrecia" creationdate="20160927T123634Z">
-        <seg>Xing citó varias declaraciones de derechismo, incluyendo la "privatización" y las interpretaciones revisionistas de la historia de China que sugerían que China tomó el camino equivocado al elegir ir detrás de la revolución y que ahora era necesario decirle "adiós a la revolución". Esto hace referenca al conocido libro (tratado en el Capítulo 3) escrito por el notorio filósofo Li Zehou y la principal crítica litereria Liu Zaifu.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T132411Z" creationid="Lucrecia" creationdate="20160927T123634Z">
+        <seg>Xing citó varias declaraciones de derechismo, incluyendo la "privatización" y las interpretaciones revisionistas de la historia de China que sugerían que China tomó el camino equivocado al elegir ir detrás de la revolución y que ahora era necesario decirle "adiós a la revolución". Esto hace referencia al conocido libro (tratado en el Capítulo 3) escrito por el notorio filósofo Li Zehou y la principal crítica literaria Liu Zaifu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Xing claimed that there are parts of Marxism that contain universal truth and are still applicable, parts that need to be supplemented, and also parts that are “completely unsuitable for use, which should not be continued and upheld in the present day.”55 Thus, according to Xing: “The criterion for determining the border dividing Marxism and anti-Marxism has to rest on developed Marxism; in present day China the ‘only correct’ criterion for distinguishing Marxism and anti-Marxism is the ‘theory of socialism with Chinese characteristics established by Deng Xiaoping’ – most importantly upholding the ‘one center [economic construction] and two basic points’ [the four cardinal principles and emancipating the mind].” Xing thus juxtaposed “Deng Xiaoping theory” against leftist thought and referred explicitly to the first 10,000 character manifesto when he criticized those who declared that reform had brought about a “new bourgeoisie.” At the same time, Xing defined a “right” that was just as anti-Marxist as the left.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T122411Z" creationid="Lucrecia" creationdate="20160927T122411Z">
-        <seg>Xing claimed that there are parts of Marxism that contain universal truth and are still applicable, parts that need to be supplemented, and also parts that are “completely unsuitable for use, which should not be continued and upheld in the present day.”55 Thus, according to Xing: “The criterion for determining the border dividing Marxism and anti-Marxism has to rest on developed Marxism; in present day China the ‘only correct’ criterion for distinguishing Marxism and anti-Marxism is the ‘theory of socialism with Chinese characteristics established by Deng Xiaoping’ – most importantly upholding the ‘one center [economic construction] and two basic points’ [the four cardinal principles and emancipating the mind].” Xing por lo tanto enfrentó la "teoría de Den Xiaopng" con el pensamiento de izquierda e hizo referencia explícita a los primeros 10 000 caractéres del manifiesto cuando criticó a aquellos que afirman que la reforma creó una "nueva clase media". Al mismo tiempo, Xing definió a una "derecha" que estaba tan en contra del Marxismo como la izquierda.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T132934Z" creationid="Lucrecia" creationdate="20160927T122411Z">
+        <seg>Xing claimed that there are parts of Marxism that contain universal truth and are still applicable, parts that need to be supplemented, and also parts that are “completely unsuitable for use, which should not be continued and upheld in the present day.”55 Thus, according to Xing: “The criterion for determining the border dividing Marxism and anti-Marxism has to rest on developed Marxism; in present day China the ‘only correct’ criterion for distinguishing Marxism and anti-Marxism is the ‘theory of socialism with Chinese characteristics established by Deng Xiaoping’ – most importantly upholding the ‘one center [economic construction] and two basic points’ [the four cardinal principles and emancipating the mind].” Xing por lo tanto contrapuso la "teoría de Den Xiaopng" con el pensamiento de izquierda e hizo referencia explícita a los primeros 10 000 caracteres del manifiesto cuando criticó a aquellos que afirman que la reforma creó una "nueva clase media". Al mismo tiempo, Xing definió a una "derecha" que estaba tan en contra del Marxismo como la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
