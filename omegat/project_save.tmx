@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14289,8 +14289,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Previously, intellectuals had thrown themselves into reform efforts without thought of material reward; now they began to find that their values were no longer society’s values.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160919T161039Z">
-        <seg>Anteriormente, los intelectuales estaban inmersos en los esfuerzos de reforma sin pensar en la recompensa material; ahora comenzaron a descubrir que sus valores no eran más valores de la sociedad.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T150144Z">
+        <seg>Anteriormente, los intelectuales estaban inmersos en los esfuerzos de reforma sin pensar en la recompensa material; ahora comenzaron a descubrir que sus valores no eran más los valores de la sociedad.</seg>
       </tuv>
     </tu>
     <tu>
