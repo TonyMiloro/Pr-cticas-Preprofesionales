@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5787,8 +5787,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>China, she argued, seems to be heading not toward liberal democracy and capitalism but toward a “government and mafia alliance.” These socioeconomic trends quickly became a source of popular discontent, and political and intellectual leaders from across the spectrum – the left, the New Left, neostatists, populist nationalists, and liberals – all responded with diagnoses and prescriptions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T015927Z" creationid="Lucrecia" creationdate="20160927T015927Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T021055Z" creationid="Lucrecia" creationdate="20160927T015927Z">
+        <seg>Ella planteó que parece que China se está dirigiendo no hacia una democracia y capitalismo liberal sino hacia una "alianza del gobierno y la mafia". Estas tendencia socieconómicas se convirtieron rápidamente en una fuente de discontento popular, y los líderes políticos e intelectuales de distintos partidos (tanto la izquierda, como la Nueva izquierda, los populistas y los liberales) contestaron con diagnósticos y prescripciones.</seg>
       </tuv>
     </tu>
     <tu>
