@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9960,8 +9960,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the summer of 1987, Chen Yuan organized a large-scale seminar to discuss a “Report on the Stages of the Socialist Economic Operating Mech- anism.” At this seminar, Chen presented a report stressing that the chief characteristic of China’s economy in the primary stage of socialism is the “tightness” of the economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160927T152313Z" creationid="Franco" creationdate="20160927T152112Z">
-        <seg>En el verano de 1987, Chen Yuan organizó un seminario a gran escala para discutir un "Informe sobre las etapas del mecanismo operativo económico socialista". Durante este seminario, Chen presentó un informe que remarcaba que las características principales de la economía china en un estadío inicial del socialismo era la "estrechez" de la economía.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T152338Z" creationid="Franco" creationdate="20160927T152112Z">
+        <seg>En el verano de 1987, Chen Yuan organizó un seminario a gran escala para discutir un "Informe sobre las etapas del mecanismo operativo económico socialista". Durante este seminario, Chen presentó un informe que remarcaba que la principala característica de la economía china en un estadío inicial del socialismo era la "estrechez" de la economía.</seg>
       </tuv>
     </tu>
     <tu>
