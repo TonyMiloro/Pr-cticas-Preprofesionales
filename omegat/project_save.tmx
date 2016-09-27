@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12713,6 +12713,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160926T010536Z">
         <seg>Sin duda, dado a que la defensa de la rebelión de la llamada rebelión contra-revolucionaria y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos - quizá el primer ministro Li PEng, el planeador económico Yao Yilin, o inclusive el ex presidente de la secretaría de difusión Deng Liqun - reemplazarían a Zhao como secretario general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No more articles will be published.”&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T032528Z" creationid="Soledad Mori" creationdate="20160927T032528Z">
+        <seg>No se publicarán más artículos." &lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
