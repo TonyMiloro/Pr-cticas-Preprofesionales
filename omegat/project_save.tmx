@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4395,8 +4395,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time that post-1989 China has witnessed a shift in public policy from the highly ideological and politically contentious debates of the immediate post-Tiananmen period to the neoconservatism and east coast developmentalism of Jiang Zemin to the more populist and inland directed policies of Hu Jintao, the political process has remained fraught with difficulties.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T012925Z">
-        <seg>Al mismo tiempo en que la China posterior a 1989 ha sido testigo de un cambio en las políticas públicas desde los debates altamente ideológicos y políticamente controversiales del período inmediatamente posterior a la masacre de Tiananmén al neoconservadurismo y desarrollismo en la costa este de Jiang Zemin y, finalmente, a las políticas más populistas y centradas en el interior del país de Hu Jintao, los procesos políticos se han mantenido plagados de dificultades.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T013301Z">
+        <seg>Al mismo tiempo en que la China posterior a 1989 ha sido testigo de un cambio en las políticas públicas desde los debates altamente ideológicos y políticamente controversiales del período inmediatamente posterior a la masacre de Tiananmén al desarrollismo en la costa este y neoconservadurismo de Jiang Zemin y, finalmente, a las políticas más populistas y centradas en el interior del país de Hu Jintao, los procesos políticos se han mantenido plagados de dificultades.</seg>
       </tuv>
     </tu>
     <tu>
