@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3899,8 +3899,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At least prior to China’s final push to join the World Trade Organization (WTO), neostatists like Hu Angang and Wang Shaoguang were interested in influencing state policy and in appeal-ing to Zhu.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160918T221104Z">
-        <seg>Al menos hasta antes de que China intentara unirse a la Organización Mundial del Comercio (OMC) por última vez, los neostatistas como Hu Angang y Wang Shaoguang estaban interesados en influir la política de estado y en recurrir a Zhu.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T162410Z">
+        <seg>Al menos hasta antes de que China finalmente se uniera a la Organización Mundial del Comercio (OMC) por última vez, los neoestatistas como Hu Angang y Wang Shaoguang estaban interesados en influir en la política de Estado y en recurrir a Zhu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,8 +6950,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Finally, all three approaches share a populist orientation, although the neostatist is characterized by a concern for state building that popular nationalists like Wang Xiaodong do not display.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160927T144831Z" creationid="Flor" creationdate="20160927T144831Z">
-        <seg>Por último, todos comparten una orientación populista, aunque los neoestatistas se destacan por un interés en la construcción del Estado que los nacionalistas populares como Wang Xiaodong no demuestran.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T162231Z" creationid="Flor" creationdate="20160927T144831Z">
+        <seg>Por último, todos comparten una orientación populista, pero los neoestatistas se destacan por un interés en la construcción del Estado que los nacionalistas populares como Wang Xiaodong no demuestran.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9280,8 +9280,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In contrast, the New Leftists worried about “premature” institutionalization, the clarification of property rights, the power relations hidden behind capitalist relations, and the integration of China’s economy into the international economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160917T205608Z">
-        <seg>A diferencia de los neostatistas, los Izquierdistas se preocupaban por la institucionalización "prematura", el esclarecimiento de los derechos de propiedad, las relaciones de poder escondidas detrás relaciones capitalistas, y la integración de la economía de China en la economía internacional.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T162528Z">
+        <seg>A diferencia de los neoestatistas, los neoizquierdistas se preocupaban por la institucionalización "prematura", el esclarecimiento del derechos de propiedad, las relaciones de poder escondidas detrás relaciones capitalistas, y la integración de la economía de China en la economía internacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18490,8 +18490,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They saw Zhu as someone who could both centralize state power and marketize the economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160917T204911Z">
-        <seg>Veían a Zhu como alguien que podía tanto centralizar el poder del Estado como mercadizar la economía.</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160927T162437Z">
+        <seg>Veían a Zhu como alguien que podía tanto centralizar el poder del Estado como mercantilizar la economía.</seg>
       </tuv>
     </tu>
     <tu>
