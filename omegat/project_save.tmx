@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13782,6 +13782,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only planning would allow China to use its scarce resources in a way that would maximize supply in a socially beneficial manner.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T153107Z" creationid="Franco" creationdate="20160927T153107Z">
+        <seg>Solo el planeamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only two years later, another television series, China’s first domestically produced soap opera, would reflect an extraordinarily different ethos.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="daiana" changedate="20160927T122255Z">
@@ -17715,6 +17723,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160926T013857Z">
         <seg>El silencio y la irrelevancia general de la comunidad intelectual en el despertar de Tiananmén contrastaba vívidamente con la agitación entre la élite política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The solution to this prob- lem, Chen argued, was to strengthen planning and thereby gradually build the capacity to meet demand.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T153112Z" creationid="Franco" creationdate="20160927T153044Z">
+        <seg>La solución a este problema, según Chen, era fortalecer el planificación y por lo tanto construir de manera gradual la capacidad de alcanzar la demanda.</seg>
       </tuv>
     </tu>
     <tu>
