@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4179,8 +4179,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Because of these trends, Deng’s call for renewed reform and economic development in 1992 did not cause many intellectuals simply to pick up where they had left off before and continue on the trajectory of liberal economic thought and Western-oriented reform that had dominated pre-1989 discussions.On the contrary, much of the discourse that emerged in the mid-1990s was affected by new concerns and new intellectual trends.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T144559Z">
-        <seg>Debido a estas tendencias, el pedido de Deng para una nueva reforma y desarrollo económico en 1992 no provocó que muchos intelectuales simplemente retomaran donde habían dejado  y continuaran com la trayectoria del pensamiento económico liberal y la reforma de orientación occidental que habían dominado las discusiones anteriores a 1989. Por el contrario, gran parte del discurso que surgió a mediados de la década de los 90 se vio afectado por nuevas preocupaciones y nuevas tendencias intelectuales.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T144621Z">
+        <seg>Debido a estas tendencias, el pedido de Deng para una nueva reforma y desarrollo económico en 1992 no provocó que muchos intelectuales simplemente retomaran donde habían dejado  y continuaran con la trayectoria del pensamiento económico liberal y la reforma de orientación occidental que habían dominado las discusiones anteriores a 1989. Por el contrario, gran parte del discurso que surgió a mediados de la década de los 90 se vio afectado por nuevas preocupaciones y nuevas tendencias intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6245,8 +6245,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite divergent perspectives, intellectuals across the ideological spectrum believed that the demise of socialism in Eastern Europe and the former Soviet Union heralded a new global order, one dominated by international capital.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160927T141316Z">
-        <seg>Pese a las perspectivas divergentes, los intelectuales del espectro ideológico creían que el fin del socialismo en Europa occidental y de la antigua Unión Soviética señalaba un nuevo orden mundial dominado por el capital internacional.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T145240Z">
+        <seg>Pese a las perspectivas divergentes, los intelectuales del espectro ideológico creían que el fin del socialismo en Europa occidental y de la ex Unión Soviética señalaba un nuevo orden mundial dominado por el capital internacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7006,8 +7006,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>First and foremost, the end of socialism in Eastern Europe and the subsequent &lt;s0/&gt;disintegration of the Soviet Union not only set off ruminations about why those events had taken place and how China could avoid a similar fate (the concern among most intellectuals was not saving socialism but rather avoiding the economic decline and political disintegration that had accompanied the democratization of those countries, particularly Russia) but also about globalization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160927T141307Z">
-        <seg>Primero y principal, el fin del socialismo en Europa occidental y la subsiguiente &lt;s0/&gt;disolución de la Unión Soviética no solo desataron cavilaciones acerca de las razones por las que transcurrieron aquellos sucesos y cómo China podría evitar un destino similar, sino que también acerca de la globalización. La preocupación entre la mayoría de los intelectuales no consistía en salvar el socialismo sino en evitar el descenso económico y la desintegración política que habían acompañado a la democratización de esos países, en particular Rusia.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T145220Z">
+        <seg>Primero y principal, el fin del socialismo en Europa occidental y la subsiguiente &lt;s0/&gt;disolución de la Unión Soviética no solo desataron cavilaciones acerca de las razones por las que transcurrieron aquellos sucesos y sobre cómo China podría evitar un destino similar, sino que también acerca de la globalización. La preocupación entre la mayoría de los intelectuales no consistía en salvar el socialismo sino en evitar el descenso económico y la desintegración política que habían acompañado a la democratización de esos países, en particular Rusia.</seg>
       </tuv>
     </tu>
     <tu>
