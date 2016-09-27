@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2546,8 +2546,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>According to Chinese sources, President Clinton wrote Jiang &lt;t0/&gt;Zemin&lt;t1/&gt; a&lt;t2/&gt; &lt;t3/&gt;letter on November 6, 1998, expressing hope that the WTO issue could be&lt;t4/&gt; &lt;t5/&gt;resolved in the first quarter of 1999.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160907T145339Z">
-        <seg>De acuerdo con las fuentes de China, el Presidente Clinton le escribió una &lt;t0/&gt;carta&lt;t1/&gt; a&lt;t2/&gt; &lt;t3/&gt;Jiang Zemin el 6 de noviembre de 1998, expresando sus deseos de que el problema con la OMC&lt;t4/&gt; &lt;t5/&gt;se resolviera en el primer cuarto de 1999.</seg>
+      <tuv lang="ES-US" changeid="User" changedate="20160927T200847Z">
+        <seg>De acuerdo con las fuentes chinas, el Presidente Clinton le escribió una &lt;t0/&gt;carta&lt;t1/&gt; a&lt;t2/&gt; &lt;t3/&gt;Jiang Zemin el 6 de noviembre de 1998, expresando sus deseos de que el problema con la OMC&lt;t4/&gt; &lt;t5/&gt;se resolviera en el primer cuarto de 1999.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4851,8 +4851,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By January 1999, the Chinese position on the WTO had changed enough&lt;t0/&gt; &lt;t1/&gt;that Premier Zhu was able to tell Alan Greenspan, chairman of the US&lt;t2/&gt; &lt;t3/&gt;Federal Reserve, that China was prepared to offer substantial concessions.&lt;t4/&gt; &lt;t5/&gt;Nevertheless, a clear-cut leadership decision on concessions was apparently&lt;t6/&gt; &lt;t7/&gt;made only in February, after receipt of President Clinton’s letters.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160907T153159Z">
-        <seg>Para enero de 1999, la posición de China en la OMC había cambiado lo suficiente como&lt;t0/&gt; &lt;t1/&gt;para permitir que el primer ministro Zhu le informara a Alan Greenspan, presidente de la Reserva Federal&lt;t2/&gt; &lt;t3/&gt;de Estados Unidos, que China estaba preparada para ofrecer concesiones sustanciales.&lt;t4/&gt; &lt;t5/&gt;Sin embargo, ya se había tomado una decisión bien definida del liderazgo aparentemente&lt;t6/&gt; &lt;t7/&gt;en febrero, luego de recibir las cartas del presidente Clinton.</seg>
+      <tuv lang="ES-US" changeid="User" changedate="20160927T200933Z">
+        <seg>Para enero de 1999, la posición de China en la OMC había cambiado lo suficiente como&lt;t0/&gt; &lt;t1/&gt;para permitir que el primer ministro Zhu le informara a Alan Greenspan, presidente de la Reserva Federal&lt;t2/&gt; &lt;t3/&gt;de Estados Unidos, que China estaba preparada para ofrecer concesiones sustanciales.&lt;t4/&gt; &lt;t5/&gt;Sin embargo, ya se había tomado aparentenmente en febrero una decisión bien definida del liderazgo aparentemente&lt;t6/&gt; &lt;t7/&gt;en febrero, luego de recibir las cartas del presidente Clinton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10681,8 +10681,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, it&lt;t17/&gt; &lt;t18/&gt;was startling that within six months of Clinton’s highly successful trip to&lt;t19/&gt; &lt;t20/&gt;China, Sino–US relations were once again caught in a downward spiral.&lt;t21/&gt; &lt;t22/&gt;The WTO was seen as an issue that could provide ballast to the relationship.&lt;t23/&gt; &lt;t24/&gt;It would recognize China’s full membership in the global &lt;t25/&gt;economy,&lt;t26/&gt; &lt;t27/&gt;remove the annual ritual of renewing China’s MFN status, and underscore&lt;t28/&gt; &lt;t29/&gt;important interests that the two nations have in common.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T232459Z">
-        <seg>Era&lt;t17/&gt; &lt;t18/&gt;de hecho alarmante que dentro de los seis meses de el exitoso viaje de Clinton a &lt;t19/&gt; &lt;t20/&gt;China, las relaciones con Estados Unidos estaban envueltas en una espiral cuesta abajo.&lt;t21/&gt; &lt;t22/&gt;Se veía a la OMC como un asunto que podría estabilizar la relación.&lt;t23/&gt; &lt;t24/&gt;Reconocería a China como parte de la economía &lt;t25/&gt;global,&lt;t26/&gt; &lt;t27/&gt;detendría el ritual anual de renovación del estatus de NMF de China, y enfatizaría&lt;t28/&gt; &lt;t29/&gt;los importantes intereses comunes de las dos naciones.</seg>
+      <tuv lang="ES-US" changeid="User" changedate="20160927T200822Z">
+        <seg>Era&lt;t17/&gt; &lt;t18/&gt;de hecho alarmante que dentro de los seis meses del exitoso viaje de Clinton a &lt;t19/&gt; &lt;t20/&gt;China, las relaciones con Estados Unidos estaban envueltas en una espiral cuesta abajo.&lt;t21/&gt; &lt;t22/&gt;Se veía a la OMC como un asunto que podría estabilizar la relación,&lt;t23/&gt; &lt;t24/&gt;ya que reconocería a China como parte de la economía &lt;t25/&gt;global,&lt;t26/&gt; &lt;t27/&gt;detendría el ritual anual de renovación del estatus de NMF de China, y enfatizaría&lt;t28/&gt; &lt;t29/&gt;los importantes intereses comunes de las dos naciones.</seg>
       </tuv>
     </tu>
     <tu>
