@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -78,22 +78,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>10.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023119Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>11.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022409Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>12 But simple expressions of good wishes could hardly change fundamentally the relationship that had grown up between the Party and intellectuals since the Yan’an era.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160920T185915Z">
@@ -102,42 +86,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>12.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022930Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>123; emphasis in original.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023132Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>124.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023905Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>12&lt;/f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;f5&gt;13.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211233Z">
         <seg>12&lt;/f3&gt;&lt;f4&gt;-&lt;/f4&gt;&lt;f5&gt;13.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>14</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022342Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -154,14 +106,6 @@
       </tuv>
       <tuv lang="ES-US" changeid="pauli" changedate="20160908T193459Z">
         <seg>&lt;t0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>18–19.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024207Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -206,14 +150,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>20.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024249Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>2005</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044402Z">
@@ -226,22 +162,6 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045611Z">
         <seg>2017</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>231.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024149Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>23–4.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024324Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -270,14 +190,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>27.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024317Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>281 and p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T210051Z">
@@ -290,22 +202,6 @@
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T130421Z">
         <seg>284-6.&lt;/f4&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>29.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024245Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>2–3.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022332Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -326,34 +222,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>31.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022536Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>32.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022527Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>326&lt;/f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;f5&gt;8.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212530Z">
         <seg>326&lt;/f3&gt;&lt;f4&gt;-&lt;/f4&gt;&lt;f5&gt;8.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>34.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022555Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -370,14 +242,6 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T220313Z">
         <seg>347, nota 2.&lt;/f1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>35–6.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022602Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -414,46 +278,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>40.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022647Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>402.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022656Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>403.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022712Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>406–7.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022939Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>40–2.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022419Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>41 &lt;t0/&gt;“Wen Jiabao zhuchi zhaokai Guowuyuan changwei huiyi.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T121237Z">
@@ -464,7 +288,7 @@
       <tuv lang="EN-US">
         <seg>41 AFP, April 30, 1987, in FBIS-CHI, May 4, 1987, p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T224158Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T225151Z">
         <seg>	
 41 AFP, April 30, 1987, in FBIS-CHI, May 4, 1987, p.</seg>
       </tuv>
@@ -483,14 +307,6 @@
       </tuv>
       <tuv lang="ES-US" changeid="Lu" changedate="20160909T123640Z">
         <seg>42 The sense of Zhao's speech was conveyed by two People´s Daily editorials: "Deepen the Struggle against Bourgeois liberalization" and "We Must Not Only Persevere in Reform and Opening Up but Also Speed them Up". The speech was subsequently publiched on June 15, 1987.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>427–8.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022943Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -535,26 +351,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>45–6.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022519Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>46 &lt;t0/&gt;“Li Changchun zai zhongyang xinwen xuanchuan bumen fuzeren huiyi shang qiangdiao zhongzhi chengcheng tuanjie fengxian kexue qiushi zhansheng kunnan duoqu shengli”; Yang Jian and Liu Siyang, “Hu Jintao tong Guangdong yiwu gongzuozhe zuotan, qiangdiao yao sh&lt;t1/&gt;izhong ba ren- min qunzhong anwei leng nuan fang zai xin shang, quanli yifu zuohao feidianxing feiyan fangzhi gongzuo.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T123528Z">
         <seg>46 &lt;t0/&gt;&lt;t1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>47.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022545Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -575,34 +375,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>481.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022611Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>484, 494.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022640Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>49 &lt;t0/&gt;Discussions with foreign journalists covering the SARS crisis in Beijing.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T124402Z">
         <seg>49 &lt;t0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>495.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022632Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -631,30 +407,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>503.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023009Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>506; and He Xin, “Woguo duiwai kaifang zhanlu¨e de yizhong shexiang,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023014Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>508.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022959Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>50th anniversary of the founding of the PRC</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T165533Z">
@@ -679,14 +431,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>53</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174418Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>53 &lt;t0/&gt;“Jiang Zemin huijian Yindu guofang buzhang.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T130539Z">
@@ -703,58 +447,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>54</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022251Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>544; He Xin, “Lun woguo jingji gaige zhidao lilun de shiwu,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023012Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>56</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022326Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>57</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022335Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>57 &lt;t0/&gt;“Zhonggong zhongyang guanyu wanshan shehui zhuyi shichang jingji tizhi ruogan wenti de jued- ing.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T134219Z">
         <seg>57 &lt;t0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>57; and He Xin, “Wo xiang nimen liangzhi huhuan,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022628Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>59</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022413Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -807,14 +503,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>60</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022513Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>60 Some within the Party argued that the implementation of reform in Eastern Europe had led to the collapse of communism there, while others argued that communism collapsed because the planned economy had continued to prevail in those countries.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T031223Z">
@@ -823,58 +511,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>61</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022521Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>64</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022550Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>64 million.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T215633Z">
         <seg>a 64 millones.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>65</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022557Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>67</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022634Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>68</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022643Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>69</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022649Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -891,238 +531,6 @@
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160927T013223Z" creationid="Antonio" creationdate="20160927T013223Z">
         <seg>7th of July</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>70</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022658Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>70.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022953Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>71</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022814Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>72 “Current World Economic Situation” (III), p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022925Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>73</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022933Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>74</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022946Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>75</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022955Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>76</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023001Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>77</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023109Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>78</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023113Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>79</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023121Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>80</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023126Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>81</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023137Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>83</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023910Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>83.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023017Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>84</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023921Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>85</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023927Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>86</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024105Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>87</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024109Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>88</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024130Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>89</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024144Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>9.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022323Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>90</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024152Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>91</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024201Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>92</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024237Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>93</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024247Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>94</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024251Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>95</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024313Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>96</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024320Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -2489,7 +1897,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t14/&gt;But&lt;t15/&gt; nationalism and utopian strains of thought (which have emerged simultaneously) are clearly double-edged swords, of which the government is very much aware.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T191447Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160922T211814Z">
         <seg>&lt;t14/&gt;De cualquier manera,&lt;t15/&gt;el nacionalismo y los pensamientos utópicos, que surgieron simultáneamente, sin duda son armas de doble filo y el gobierno bien lo sabe.</seg>
       </tuv>
     </tu>
@@ -2497,7 +1905,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t145/&gt;Indeed, even as Ma was reporting these numbers, Jiang &lt;t146/&gt;Yanyong, &lt;t147/&gt;the&lt;t148/&gt; &lt;t149/&gt;retired&lt;t150/&gt; &lt;t151/&gt;head&lt;t152/&gt; &lt;t153/&gt;of&lt;t154/&gt; &lt;t155/&gt;China’s&lt;t156/&gt; &lt;t157/&gt;premier&lt;t158/&gt; &lt;t159/&gt;military&lt;t160/&gt; &lt;t161/&gt;hospital,&lt;t162/&gt; &lt;t163/&gt;Number&lt;t164/&gt; &lt;t165/&gt;301&lt;t166/&gt;,&lt;t167/&gt; &lt;t168/&gt;declared publicly&lt;t169/&gt; &lt;t170/&gt;that&lt;t171/&gt; &lt;t172/&gt;he&lt;t173/&gt; &lt;t174/&gt;knew&lt;t175/&gt; &lt;t176/&gt;of&lt;t177/&gt; &lt;t178/&gt;at&lt;t179/&gt; &lt;t180/&gt;least&lt;t181/&gt; &lt;t182/&gt;120&lt;t183/&gt; &lt;t184/&gt;cases&lt;t185/&gt; &lt;t186/&gt;of&lt;t187/&gt; &lt;t188/&gt;SARS&lt;t189/&gt; &lt;t190/&gt;at&lt;t191/&gt; &lt;t192/&gt;Number&lt;t193/&gt; &lt;t194/&gt;301&lt;t195/&gt; &lt;t196/&gt;Hospital and two other military&lt;t197/&gt; &lt;t198/&gt;hospitals.&lt;t199/&gt;42</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160926T121112Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160909T110034Z">
         <seg>&lt;t145/&gt;Incluso cuando Ma anunciaba estas cifras, Jiang Yanyong,&lt;t146/&gt;jefe retirado del principal hospital militar de China, Número 301, declaró públicamente que él tenía conocimiento de al menos 120 casos de SARS en el Hospital Número 301 y otros dos hospitales militares. &lt;t147/&gt;&lt;t148/&gt; &lt;t149/&gt;&lt;t150/&gt; &lt;t151/&gt;&lt;t152/&gt; &lt;t153/&gt;&lt;t154/&gt; &lt;t155/&gt;&lt;t156/&gt; &lt;t157/&gt;&lt;t158/&gt; &lt;t159/&gt;&lt;t160/&gt; &lt;t161/&gt;&lt;t162/&gt; &lt;t163/&gt;&lt;t164/&gt; &lt;t165/&gt;&lt;t166/&gt;&lt;t167/&gt; &lt;t168/&gt;&lt;t169/&gt; &lt;t170/&gt;&lt;t171/&gt; &lt;t172/&gt;&lt;t173/&gt; &lt;t174/&gt;&lt;t175/&gt; &lt;t176/&gt;&lt;t177/&gt; &lt;t178/&gt;&lt;t179/&gt; &lt;t180/&gt;&lt;t181/&gt; &lt;t182/&gt;&lt;t183/&gt; &lt;t184/&gt;&lt;t185/&gt; &lt;t186/&gt;&lt;t187/&gt; &lt;t188/&gt;&lt;t189/&gt; &lt;t190/&gt;&lt;t191/&gt; &lt;t192/&gt;&lt;t193/&gt; &lt;t194/&gt;&lt;t195/&gt; &lt;t196/&gt;&lt;t197/&gt; &lt;t198/&gt;.&lt;t199/&gt;42</seg>
       </tuv>
     </tu>
@@ -2553,7 +1961,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t23/&gt;Hu&lt;t24/&gt; was favorably impressed by the report and forwarded it to &lt;t25/&gt;Hu&lt;t26/&gt; &lt;t27/&gt;Yaobang&lt;t28/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180228Z">
+      <tuv lang="ES-US" changeid="Pc" changedate="20160909T180107Z">
         <seg>&lt;t23/&gt;Hu&lt;t24/&gt;se deslumbró con el informe y se lo envió a &lt;t25/&gt;Hu&lt;t26/&gt; &lt;t27/&gt;Yaobang&lt;t28/&gt;.</seg>
       </tuv>
     </tu>
@@ -2585,7 +1993,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t3/&gt;They no longer need to be given broad advice about whether to reform but instead need highly specific advice – which only a few academic specialists are in a position to provide – about how to reform.24 When intellectuals raise broad concerns about the state of contemporary Chinese society – especially about political reform issues – government bureaucrats tend to view them as irrelevant, and in this sense the gap between state and intellectuals is widened.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131138Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160902T212516Z">
         <seg>Ya no necesitan recibir consejos generales sobre si reformar o no, necesitan consejos altamente específicos, que solo pocos especialistas académicos pueden darles, sobre cómo reformar.24 Cuando los intelectuales expresan su preocupación por el estado de la sociedad china contemporánea, sobre tod sobre temas relacionados a la reforma política, los burócratas del gobierno los suelen considerar irrelevantes, y en este sentido la brecha entre el estado y los intelectuales aumentó.&lt;t3/&gt;</seg>
       </tuv>
     </tu>
@@ -2601,7 +2009,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t36/&gt;And it is clear that this was a decision, not an absence of knowledge; Guangdong health authorities had reported the new virus to B&lt;t37/&gt;eijing in &lt;t38/&gt;November, &lt;t39/&gt;and one bold Guangdong newspaper,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;had&lt;t47/&gt; &lt;t48/&gt;reported&lt;t49/&gt; &lt;t50/&gt;on&lt;t51/&gt; &lt;t52/&gt;the&lt;t53/&gt; &lt;t54/&gt;disease&lt;t55/&gt; &lt;t56/&gt;in&lt;t57/&gt; &lt;t58/&gt;December.&lt;t59/&gt; &lt;t60/&gt;It &lt;t61/&gt;was not until April &lt;t62/&gt;2&lt;t63/&gt;, &lt;t64/&gt;2003&lt;t65/&gt;, &lt;t66/&gt;however, &lt;t67/&gt;that the newly named &lt;t68/&gt;premier, &lt;t69/&gt;Wen &lt;t70/&gt;Jiabao, presided over a State Council meeting that discussed the SAR&lt;t71/&gt;S issue.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160926T120848Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160926T120124Z">
         <seg>&lt;t36/&gt;Y queda claro que no fue falta de conocimiento sino una decisión; las autoridades del área de salud de Cantón habían enviado información sobre el virus&lt;t37/&gt;a Pekín&lt;t38/&gt;en noviembre, &lt;t39/&gt;y un audaz periódico de Cantón,&lt;t40/&gt; &lt;t41/&gt;Nanfang&lt;t42/&gt; &lt;t43/&gt;dushibao&lt;t44/&gt;,&lt;t45/&gt; &lt;t46/&gt;había&lt;t47/&gt; &lt;t48/&gt;emitido&lt;t49/&gt; &lt;t50/&gt;un&lt;t51/&gt; &lt;t52/&gt;informe&lt;t53/&gt; &lt;t54/&gt;sobre&lt;t55/&gt; &lt;t56/&gt;la&lt;t57/&gt; &lt;t58/&gt;enfermedad en diciembre.&lt;t59/&gt; &lt;t60/&gt;Sin embargo, fue&lt;t61/&gt;recién el 2 de abril &lt;t62/&gt;del año&lt;t63/&gt;2003&lt;t64/&gt;cuando&lt;t65/&gt;Wen&lt;t66/&gt;Jiabao&lt;t67/&gt;,&lt;t68/&gt;el nuevo primer ministro&lt;t69/&gt;,&lt;t70/&gt;presidió una reunión en el Consejo de Estado para discutir el problema&lt;t71/&gt;del SARS.</seg>
       </tuv>
     </tu>
@@ -2609,7 +2017,7 @@
       <tuv lang="EN-US">
         <seg>&lt;t4/&gt;Luo&lt;t5/&gt; &lt;t6/&gt;Gan&lt;t7/&gt;, secretary general of the State Council, presented a proposal for a massive restructuring of the government.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014755Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160914T220512Z">
         <seg>Luo Gan, secretario general del Consejo de Estado, presentó una propuesta para reestructurar a gran escala el gobierno.   &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
@@ -2818,7 +2226,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>A year or so later, He seemed less certain of the inevitable decline of the United States and more worried about the failure of reform in the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233901Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160920T023642Z">
         <seg>Un año o más después, parecía que He estaba menos seguro del deterioro inevitable de los Estados Unidos y más preocupado por la ineficacia de las reformas en la Unión Soviética. </seg>
       </tuv>
     </tu>
@@ -2834,7 +2242,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>A&lt;t22/&gt;s noted in Chapter &lt;t23/&gt;3&lt;t24/&gt;, &lt;t25/&gt;Yang Ping was the chief drafter of “Realistic Responses” in 1991 and had served as an editor of &lt;t26/&gt;China Youth Daily&lt;t27/&gt;, one of the most popular papers in the country.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T130626Z">
+      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160908T201119Z">
         <seg>Como&lt;t22/&gt; se señaló en el Capítulo &lt;t23/&gt;3&lt;t24/&gt;, &lt;t25/&gt;Yang Ping fue jefe de redacción de Realistic Responses ("Respuestas Realistas") en el año 1991 y trabajó como editor del &lt;t26/&gt;China Youth Daily&lt;t27/&gt;, uno de los más populares del país.</seg>
       </tuv>
     </tu>
@@ -2890,7 +2298,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>According to He Qinglian, the crusading economic journalist who published a best seller in 1998 entitled The Pitfalls of Modernization, Deng’s southern journey prompted the formation of hundreds of “joint stock companies.” In Jiangsu province alone, over 200 such enterprises were established in the 18 months following Deng’s trip, and in Hebei province the number of joint stock enterprises jumped from a mere 23 at the beginning of 1992 to 133 a year later.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160924T174029Z">
+      <tuv lang="ES-US" changeid="PC" changedate="20160924T222901Z">
         <seg>Según He Qinglian, la periodista económica y partidista que publicó en 1998 el best seller titulado “The pitfalls of modernization”  (Las trampas de la modernización), el viaje al sur de Deng impulsó la formación de cientos de “sociedades anónimas”. Solo en la provincia de Jiangsu, se crearon más de 200 empresas de este tipo en los 18 meses posteriores al viaje de Deng, y en la provincia de Hebei, el número de sociedades anónimas pasó de un mero 23 a principios de 1992 a 133 al año siguiente. 
 </seg>
       </tuv>
@@ -2947,7 +2355,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>After a four-month, often vitriolic, campaign against bourgeois liberalization that targeted three well-known intellectuals – astrophysicist Fang Lizhi, investigative journalist Liu Binyan, and writer Wang Ruowang – Deng and Zhao engineered a dramatic turnaround in the political atmosphere.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T014726Z">
+      <tuv lang="ES-US" changeid="Lu" changedate="20160909T001547Z">
         <seg>Luego de una campaña de cuatro meses, muchas veces mordaz, en contra de la liberación burguesa que fue dirigida hacia tres reconocidos intelectuales: el astrofísico Fang Lizhi, el periodista investigador Liu Binyan, y el escritor Wang Rouwang, Deng y Zhao idearon un cambio de rumbo en el ambiente político.</seg>
       </tuv>
     </tu>
@@ -2971,8 +2379,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>After all, pornography was associated with Western influences, but it hardly raised the central ideological issues that conservatives desired to pursue.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160921T005127Z">
-        <seg>Después de todo, la pornografía estaba relacionada con las influencias Occidentales, pero dificilmente planteaba los problemas ideológicos centrales que los conservadores deseaban perseguir.</seg>
+      <tuv lang="ES-US" changeid="multimedia08" changedate="20160926T202323Z">
+        <seg>Después de todo, la pornografía estaba relacionada con las influencias occidentales, pero dificilmente planteaba los problemas ideológicos centrales que los conservadores deseaban perseguir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3019,7 +2427,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>After three years of studying French, Wang studied for a master’s degree at Fudan University’s Department of International Politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T131630Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160910T131630Z">
         <seg>Luego de haber estudiado Francés por tres años, Wang estudió para obtener una maestría en el Departamento de Política Internacional de la Universidad Fudan. </seg>
       </tuv>
     </tu>
@@ -3027,7 +2435,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>All information contained in this manual is important for safe and reliable operation of the equipment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="paula" changedate="20160708T201941Z">
+      <tuv lang="ES-US" changeid="paula" changedate="20160922T214657Z">
         <seg>Toda la información contenida en este manual bbbbb es importante para que el equipo funcione de manera segura y confiable.</seg>
       </tuv>
     </tu>
@@ -3051,7 +2459,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>All three problems revolved around the question of whether Jiang could become the “core” of the Party in reality as well as name.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160926T142248Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160926T142219Z">
         <seg>Estos tres problemas derivaron de la incertidumbre de no saber si Jiang podría convertirse en la “esencia” del Partido, como también el nombre.</seg>
       </tuv>
     </tu>
@@ -3091,7 +2499,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Alternate Member</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224625Z">
+      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224615Z">
         <seg>Miembro suplente</seg>
       </tuv>
     </tu>
@@ -3155,7 +2563,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although Jiang tolerated the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;de facto&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;privatization of much economic activity in the wake of Deng’s southern trip and Zhu Rongji’s efforts to squeeze inflation out of the economy, his statements remained ideologically cautious or conservative.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T202010Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T183110Z">
         <seg>A pesar de que Jiang toleraba  la privatización&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;de facto&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;de gran parte de la actividad económica luego del viaje al sur de Deng y de los esfuerzos de Zhu Rongji para eliminar la inflación de la economía, sus declaraciones se mantuvieron ideológicamente cautelosas o conservadoras.</seg>
       </tuv>
     </tu>
@@ -3203,7 +2611,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although damaged politically, he was hardly without resources.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T151651Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T151636Z">
         <seg>A pesar de estar dañado políticamente, se encontraba casi sin recursos.</seg>
       </tuv>
     </tu>
@@ -3371,7 +2779,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although support for China’s&lt;t2/&gt; &lt;t3/&gt;entry into the WTO appears to have grown over the preceding years,&lt;t4/&gt; &lt;t5/&gt;the same divisions that had plagued China’s previous efforts continued&lt;t6/&gt; &lt;t7/&gt;to exist.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T232728Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T234520Z">
         <seg>Aunque el apoyo al acceso de China&lt;t2/&gt; &lt;t3/&gt;a la OMC parecía haber aumentado en los años anteriores,&lt;t4/&gt; &lt;t5/&gt;todavía existían las mismas divisiones que plagaban los esfuerzos previos de China&lt;t6/&gt; &lt;t7/&gt;.</seg>
       </tuv>
     </tu>
@@ -3387,7 +2795,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the May Fourth enlightenment project dominated intellectual endeavors in the 1980s, it was badly shaken by the end of the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T214123Z">
+      <tuv lang="ES-US" changeid="Gime" changedate="20160904T010844Z">
         <seg>Aunque el proyecto de la Ilustración dominó los esfuerzos intelectuales en  los años ochenta, fue gravemente alterado hacia el final de los años noventa. </seg>
       </tuv>
     </tu>
@@ -3395,7 +2803,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the Party still claims legitimacy on the basis of Marxism-Leninism and this claim has important consequences for the political system, everyone is aware that performance legitimacy has become far more important than ideology in justifying the govern-ment’s continued rule.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T093336Z">
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T093313Z">
         <seg>Aunque el partido todavía reclama legitimidad sobre las bases del marxismo-leninismo, y este reclamo acarrea consecuencias importantes en el sistema político, todos son conscientes de que la legitimidad por cumplimiento se ha vuelto mucho más importante que la ideología cuando se pretende justificar el control constante del gobierno.  </seg>
       </tuv>
     </tu>
@@ -3435,7 +2843,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the critics charge that the economic reforms have fostered inequality and corruption, it is not clear that they have clear-cut alternatives that would not lead to worse outcomes.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T013209Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T012411Z">
         <seg>Aunque los críticos afirman que las reformas económicas han fomentado la disparidad y la corrupción, no hay evidencia de que contaran con alternativas claras que llevaran a mejores resultados.</seg>
       </tuv>
     </tu>
@@ -3531,7 +2939,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Among Party conservatives there was a deep sense of “we told you so.” Their warnings, they believed, had not been listened to, and Tiananmen was the fulfillment of their predictions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T015954Z">
+      <tuv lang="ES-US" changeid="Lu" changedate="20160921T014507Z">
         <seg>Entre los miembros del partido conservador, habia una gran sensación de "te lo habiamos dicho". Los conservadores creían que sus advertencias no habian sido escuchadas y Tiananmén fue la realización de estas predicciones.</seg>
       </tuv>
     </tu>
@@ -3539,7 +2947,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>An Investigation of China’s Peasants by Chen</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160903T005913Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160910T143536Z">
         <seg>Prohibición de An Investigation of China’s Peasants (Investigación sobre los campesinos de China), escrito por Chen</seg>
       </tuv>
     </tu>
@@ -3563,7 +2971,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>An incident had the possibil-ity of evolving into a destructive riot.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T175822Z">
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T172513Z">
         <seg>Cualquier incidente, por más pequeño que fuere, podía llegar a convenirse en una revuelta intensa.</seg>
       </tuv>
     </tu>
@@ -3571,16 +2979,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>An orgy of real estate and stock speculation stimulated new income inequalities, between classes as well as between regions.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160909T040747Z">
+      <tuv lang="ES-US" changeid="daiana" changedate="20160905T020747Z">
         <seg>Una orgía de bienes raíces y especulaciones bursátiles estimulaban nuevas desigualdades de ingreso entre las clases al igual que entre las regiones.&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>An “editor’s note” prefacing the article states that Zhao Ziyang had refused to run the article.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023916Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,7 +3115,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Apart from public opinion in the traditional sense, there is also an obvious effort to use publication to bring ideas to the attention of policy-makers or for policy-makers to defend their ideas in public against others in government.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T184317Z">
+      <tuv lang="ES-US" changeid="Nico" changedate="20160904T165920Z">
         <seg>Además de la opinión pública en el sentido tradicional, hay un claro esfuerzo para utilizar los libros para que algunas ideas llamen la atención de los responsables de las políticas o para que estos defiendan sus ideas en público en frente de otros en el gobierno.</seg>
       </tuv>
     </tu>
@@ -3723,7 +3123,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 1</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T224412Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T163937Z">
         <seg>1 de abril</seg>
       </tuv>
     </tu>
@@ -3739,7 +3139,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 10</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015748Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183009Z">
         <seg>10 de abril</seg>
       </tuv>
     </tu>
@@ -3747,7 +3147,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 10 Chen Yun, advocate of a planned economy, dies at age 90</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T035422Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160920T163802Z">
         <seg>10 de abril Chen Yun, defensor de la economía planificada, fallece a los 90 años</seg>
       </tuv>
     </tu>
@@ -3755,7 +3155,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 14</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T044458Z">
+      <tuv lang="ES-US" changeid="PC" changedate="20160904T034347Z">
         <seg>14 de abril</seg>
       </tuv>
     </tu>
@@ -3771,7 +3171,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 20</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214942Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160921T033549Z">
         <seg>20 de abril</seg>
       </tuv>
     </tu>
@@ -3795,7 +3195,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 25</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T215046Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160914T013038Z">
         <seg>25 de abril</seg>
       </tuv>
     </tu>
@@ -3811,7 +3211,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 27</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015847Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205405Z">
         <seg>27 de abril</seg>
       </tuv>
     </tu>
@@ -3827,7 +3227,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 6</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214459Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T005947Z">
         <seg>6 de abril</seg>
       </tuv>
     </tu>
@@ -3875,7 +3275,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Deng entered his final decline, the Party fought vigorously over his legacy; with Deng’s passing the Party would have to make choices.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T180450Z">
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160902T210345Z">
         <seg>Al ingresar Deng al final de su declive, el Partido se disputaba energéticamente su legado; con la muerte de Deng el Partido debería tomar decisiones. </seg>
       </tuv>
     </tu>
@@ -3885,14 +3285,6 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160920T161248Z">
         <seg>Como señala Fewsmith (politólogo respetado y observador experto de la realidad China), este país es un lugar muy distinto a lo que fue dieciocho años atrás.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>As He wrote: “At present there is no other country more desirous of replacing a declining US as global hegemon than Japan.” See He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022318Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3955,7 +3347,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Zhou &lt;t0/&gt;Ruijin&lt;t1/&gt; put it, Deng “coolly observed and contemplated” the conflict as it developed.32 Third, events in the Soviet Union – namely, Gorbachev’s turn to the right, which culminated in cracking down on the Baltic republics in January 1991 – may have bolstered conservatives in Beijing, who are likely to have seen such a shift as a sign that the Soviet Union, too, was finally backing away from radical reform.33 Fourth, the swift American victory in the Gulf War, which caught China off guard,</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T190315Z">
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T193550Z">
         <seg>Como lo explicó Zhou &lt;t0/&gt;Ruijin&lt;t1/&gt;, Deng “observó y contempló con tranquilidad” el conflicto a medida que se desarrollaba.32 La tercera explicación supone que, los acontecimientos en la Unión Soviética – específicamente, el cambio de Gorbachov a la derecha, que culminó en la represión de las Repúblicas Bálticas en enero de 1991 – podría haber fortalecido a los conservadores en Pekín,  los que probablemente vieron tal cambio como una señal de que la Unión Soviética también estaba alejándose de la reforma radical.33 La cuarta explicación radica en que la rauda victoria estadounidense de la guerra del Golfo, que tomó a China por sorpresa,   </seg>
       </tuv>
     </tu>
@@ -4043,7 +3435,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As late as 1996, Jiang had reached out to the left with his statement in the Sixth Plenum resolution cited previously that “spiritual civilization would not be sacrificed to material civilization.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T184617Z">
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T015839Z">
         <seg>Hasta 1996, Jiang se había acercado a la izquierda con la declaración antes citada que realizó en la VI Sesión Plenaria de que “no se sacrificará la civilización espiritual en aras de la civilización material”.</seg>
       </tuv>
     </tu>
@@ -4091,7 +3483,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As perhaps the only intellectual to support the government in the days following Tiananmen, He quickly became a very public, and often reviled, &lt;t12/&gt;ﬁgure&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T195844Z">
+      <tuv lang="ES-US" changeid="Melanie" changedate="20160924T194652Z">
         <seg>Como fue tal vez el único intelectual que apoyó al gobierno en los días que siguieron a Tiananmen, He se convirtió rápidamente en una &lt;t12/&gt;figura&lt;t13/&gt; muy expuesta y a menudo injuriada.</seg>
       </tuv>
     </tu>
@@ -4219,7 +3611,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As unbelievable as it is, Wang pictures Mao – the person who unleashed the Great Leap Forward and brought about the death of perhaps 30 million Chinese – as the only leader who truly understood the peasants.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T124350Z">
+      <tuv lang="ES-US" changeid="Backup" changedate="20160921T161708Z">
         <seg>Aunque parezca increíble, Wang describe a Mao -la persona que dio rienda suelta al Gran Salto Adelante y causó la muerte de quizás 30 millones de chinos- como el único líder que realmente entendió a los campesinos.</seg>
       </tuv>
     </tu>
@@ -4227,7 +3619,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As we have outlined, contemporary Chinese liberals identify themselves &lt;t0/&gt;with the May Fourth enlightenment tradition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160909T151320Z">
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160922T012747Z">
         <seg>Como lo hemos descrito, los liberales de la China contemporánea se identifican a sí mismos con la tradición progresista  del Cuatro de Mayo.</seg>
       </tuv>
     </tu>
@@ -4235,7 +3627,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As we have seen in looking at the sub-elite level, the enlightenment&lt;t0/&gt; &lt;t1/&gt;project and globalization had come under considerable criticism by many&lt;t2/&gt; &lt;t3/&gt;intellectuals in the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160909T222838Z">
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160926T124256Z">
         <seg>Como hemos visto al mirar al nivel élite secundaria, el proyecto de&lt;t0/&gt; &lt;t1/&gt;esclarecimiento y globalización había sido criticado de manera considerable por muchos&lt;t2/&gt; &lt;t3/&gt;intelectuales en los años 1990.</seg>
       </tuv>
     </tu>
@@ -4275,7 +3667,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As we shall see, Jiang’s response was to try to carve out a “middle course” that would allow him to maneuver between conflicting pressures while not becoming overly tied to any particular interest.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T200032Z">
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T200003Z">
         <seg>Como veremos, la respuesta de Jiang fue tratar de forjar un "camino intermedio" que le permitiría maniobrar entre las presiones conflictivas y al mismo tiempo no vincularse excesivamente con algún interés en particular.</seg>
       </tuv>
     </tu>
@@ -4347,7 +3739,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Aside from (or perhaps lurking&lt;t4/&gt; &lt;t5/&gt;behind) such ideological concerns were very different interests, both&lt;t6/&gt; &lt;t7/&gt;political and economic.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160909T222738Z">
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160909T201357Z">
         <seg>Además de (o quizás detrás &lt;t4/&gt; &lt;t5/&gt;de) tales preocupaciones ideológicas habían intereses muy diferentes, tanto&lt;t6/&gt; &lt;t7/&gt;políticos como económicos.</seg>
       </tuv>
     </tu>
@@ -4363,7 +3755,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At first, this&lt;t4/&gt; &lt;t5/&gt;seemed to make little difference.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160831T212012Z">
+      <tuv lang="ES-US" changeid="User" changedate="20160909T033230Z">
         <seg>Al principio, esto&lt;t4/&gt; &lt;t5/&gt;parecía no hacer mucha diferencia.</seg>
       </tuv>
     </tu>
@@ -4387,7 +3779,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At roughly the same time that Wang was forwarding his report to the top leadership, another intellectual, Zhang Bingjiu (then a Ph.D.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160924T014021Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160907T223723Z">
         <seg>Casi al mismo tiempo que Wang reenviaba su informe a los máximos dirigentes, otro intelectual, Zhang Bingjiu, quien en ese entonces era candidato a un doctorado en la Universidad de Pekín,</seg>
       </tuv>
     </tu>
@@ -4419,7 +3811,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time that the father’s thought was being publicized, the son made a splash in intellectual circles.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160909T153001Z">
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160908T134201Z">
         <seg>Al mismo tiempo que las ideas del padre se estaban publicando, el hijo causó un escándalo en los círculos intelectuales.</seg>
       </tuv>
     </tu>
@@ -4427,7 +3819,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time, Hu consolidated his hold on the military by promoting ten senior officers to the rank of full-general.&lt;t4/&gt;114</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T224351Z">
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160922T214702Z">
         <seg>Al mismo tiempo, Hu consolidó su posición en el ejército al promover a diez oficiales de alto rango al cargo de general de brigada.&lt;t4/&gt;114</seg>
       </tuv>
     </tu>
@@ -4451,7 +3843,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time, however, it should be recognized that these emerging norms and institutions stand in tension with rule by a Leninist party and the traditional game of winner-take-all politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T095444Z">
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145601Z">
         <seg>Al mismo tiempo, sin embargo, se debe reconocer que estas normas e instituciones emergentes están en conflicto con un partido leninista gobernante y con el juego tradicional político de "el ganador se lo lleva todo".</seg>
       </tuv>
     </tu>
@@ -4459,7 +3851,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time, it was able to persuade Saudi Arabia to extend diplomatic relations, followed by South Africa.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013234Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014828Z">
         <seg>A la vez, pudo convencer a Arabia Saudí de extender sus relaciones diplomáticas, junto con Sudáfrica.</seg>
       </tuv>
     </tu>
@@ -4475,7 +3867,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>At the same time, many of those who advise the leadership, either from positions within the government or from positions in universities or &lt;t25/&gt;think-tanks&lt;t26/&gt;, are highly qualified intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131342Z">
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160906T235604Z">
         <seg>Además, muchos de los consejeros de los líderes, ya sea desde cargos en el gobierno, o desde puestos en universidades o laboratorios de ideas, son intelectuales altamente calificados.&lt;t25/&gt;&lt;t26/&gt;</seg>
       </tuv>
     </tu>
@@ -4547,7 +3939,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Attempted coup d’etat´ in Soviet Union</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T021337Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T025949Z">
         <seg>Intento de golpe de estado en la Unión Soviética</seg>
       </tuv>
     </tu>
@@ -4579,7 +3971,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>August 12</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T044638Z">
+      <tuv lang="ES-US" changeid="PC" changedate="20160910T143426Z">
         <seg>12 de agosto</seg>
       </tuv>
     </tu>
@@ -4603,7 +3995,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>August 19–21 Attempted coup d’etat´ in Soviet Union</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034747Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033119Z">
         <seg>19-21 de agosto Intento de golpe de estado en la Unión Soviética</seg>
       </tuv>
     </tu>
@@ -4635,7 +4027,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Barely had the Cold War ended when Francis Fukayama published his controversial 1989 article (and later book), “The End of History.”28 Fukayama argued that, with the disintegration of the Soviet Union and collapse of Marxism–Leninism, the last great ideological debate of modern history had come to a close: the West had won.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020323Z">
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160921T014352Z">
         <seg> Apenas había terminado la Guerra Fría cuando Francis Fukuyama publicó su controversial artículo en 1989 (y su posterior libro) “El fin de la historia”.28 Fukuyama sostenía que con la desintegración de la Unión Soviética y el colapso del marxismo-leninismo, el último gran debate ideológico de la historia moderna había llegado a su fin: el Occidente había ganado.  </seg>
       </tuv>
     </tu>
@@ -4675,7 +4067,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Because of this, they cannot unite with the ruling Party, the state power, and the primary forces that are leading the people forward and thereby bring their great ability to bear.”&lt;/f11&gt;&lt;f12&gt;56&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T014006Z">
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160916T073519Z">
         <seg>Por esa razon, no se pueden unir con el Partido gobernante, el poder estatal y las fuerzas mas importantes que llevan adelante a la población y de ese modo hacer uso de su gran habilidad”.&lt;/f11&gt;&lt;f12&gt;56&lt;/f12&gt;+</seg>
       </tuv>
     </tu>
@@ -4683,7 +4075,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Because of this, they cannot unite with the ruling Party, the state power, and the primary forces that are leading the people forward and thereby bring their great ability to bear.”&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T181602Z">
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183022Z">
         <seg>Por esa razón, no pueden unirse con el Partido gobernante, el poder estatal y las fuerzas más importantes que dirigen el pueblo hacia el progreso y así pueda aportar su gran capacidad".&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
       </tuv>
     </tu>
@@ -4723,7 +4115,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Before then, all strata of Chinese society had gained from reform; after that, power and the market merged so that one stratum exploited another.47 As Wang’s friend and literary agent Xu Bing put it, prior to 1992, Wang was a “determined and wildly enthusiastic supporter of reform,” but by the spring and summer of that year “his support became rational and conditional.”48 Wang was not alone in his doubts about the course of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123725Z">
+      <tuv lang="ES-US" changeid="Backup" changedate="20160926T013657Z">
         <seg>Antes de eso, todos los estratos de la sociedad china habían mejorado desde la reforma; luego de ese momento el poder y el mercado emergieron, y desde entonces un estrato empezó a explotar al otro.47 Como dijo Xu Bing (amigo y agente literario de Wang) antes de 1992, Wang era un "partidario determinado y entusiasta de la reforma", pero para la primavera y el verano de ese año, "su apoyo se volvió racional y condicional".48 Wang no era el único que dudaba del curso de la reforma.</seg>
       </tuv>
     </tu>
@@ -4811,7 +4203,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Bibliography 285</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034012Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160914T135615Z">
         <seg>Bibliografía</seg>
       </tuv>
     </tu>
@@ -4819,7 +4211,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Books in Western academe began to relate these high growth rates to Asian culture.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160905T213659Z">
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160921T180807Z">
         <seg>Los libros en el mundo académico occidental comenzaron a relacionar estos índices de crecimiento elevados con la cultura asiática.</seg>
       </tuv>
     </tu>
@@ -4835,7 +4227,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Born in the Jiangsu city of Yangzhou in 1926, Jiang received a mixed classical Chinese and Western education.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002831Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T013438Z">
         <seg> Jiang nació en la ciudad de Jiangsu en Yangzhou en 1926; recibió una clásica educación mixta china y occidental.</seg>
       </tuv>
     </tu>
@@ -4955,7 +4347,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>But conservative opposition remained fierce.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160909T132517Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160902T160237Z">
         <seg>Pero la oposición conservadora se mantuvo firme.</seg>
       </tuv>
     </tu>
@@ -5083,7 +4475,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By 1992–3, however, as noted in the previous chapter, the economic and social bases had developed for a broader intellectual acceptance of New Left ideas that would have been considered “conservative” only a few years earlier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160908T013932Z">
+      <tuv lang="ES-US" changeid="Flor" changedate="20160908T013913Z">
         <seg>Sin embargo, tal y como se mencionó en el capítulo anterior, para los años 1992 y 1993 las bases económicas y sociales habían evolucionado y logrado una aceptación intelectual más amplia de las ideas de Nueva Izquierda que hubiesen sido consideradas "conservadoras" apenas unos años antes.</seg>
       </tuv>
     </tu>
@@ -5099,7 +4491,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By 1998, the loose organizations of peasants began to coalesce into stronger organizations with tighter linkages among villages.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T195250Z">
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160902T212648Z">
         <seg>En 1998, estas organizaciones informales de campesinos empezaron a unirse, forjando alianzas entre aldeas y creando así organizaciones más fuertes.</seg>
       </tuv>
     </tu>
@@ -5139,7 +4531,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By selecting what was useful and rejecting the rest, Chen argued that “Western economics can be turned to serve our socialist revolution.” It is difficult to imagine Chen Yuan’s father citing the works of Keynes or Friedman, but not difficult to imagine the elder Chen agreeing that the state is an “indispensable actor” and not simply a “passive referee.”&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T140924Z">
+      <tuv lang="ES-US" changeid="Barri" changedate="20160904T045223Z">
         <seg>Al seleccionar lo que era util y al rechazar el resto, Chen discutió que "La economía occidental puede ser utilizada para favorecer a nuestra revolución socialista". Es difici de imaginar al padre de Chen Yuan citando las palabras de Keynes o Friedman, pero no es dificil de imaginarlo admitiendo que que el estado es un "actor indispensable" y no un mero "árbitro pasivo".&lt;/f3&gt;</seg>
       </tuv>
     </tu>
@@ -5195,7 +4587,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By the late 1990s, it was apparent that SOE reform could not be avoided.&lt;t2/&gt;27</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110322Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160903T212026Z">
         <seg>Hacia finales de la década de los 90, era evidente que una reforma en las empresas estatales era ineludible.&lt;t2/&gt;</seg>
       </tuv>
     </tu>
@@ -5243,7 +4635,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By the summer and fall of 2006, the Seventeenth Party Congress, scheduled for the fall of 2007, was beginning to loom large.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T055259Z">
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160902T015150Z">
         <seg>El Decimoséptimo Congreso del Partido, que estaba programado para la primavera de 2007, comenzó a cobrar relevancia durante el invierno y la primavera de 2006.</seg>
       </tuv>
     </tu>
@@ -5355,7 +4747,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>CHAPTER 8</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175741Z">
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175719Z">
         <seg>CAPÍTULO 8</seg>
       </tuv>
     </tu>
@@ -5459,7 +4851,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Central Committee</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160901T165911Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160913T221352Z">
         <seg>Comité Central</seg>
       </tuv>
     </tu>
@@ -5491,7 +4883,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Century Business Herald, is fired</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T044324Z">
+      <tuv lang="ES-US" changeid="PC" changedate="20160924T235427Z">
         <seg>Century Business Herald, es despedido</seg>
       </tuv>
     </tu>
@@ -5555,8 +4947,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Chen Yun summed up the feelings of many conservatives when he accused Deng of being rightist in his economic policies and leftist in his use of the military.44</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T020834Z">
-        <seg>Chen Yun resumió los sentimientos de mucho de los conservadores cuando acusó a Deng de ser derechista en sus políticas económicas e izquierdista en el uso de la micilia.44</seg>
+      <tuv lang="ES-US" changeid="multimedia08" changedate="20160926T202317Z">
+        <seg>Chen Yun resumió los sentimientos de mucho de los conservadores cuando acusó a Deng de ser derechista en sus políticas económicas e izquierdista en el uso de la micilia.4p</seg>
       </tuv>
     </tu>
     <tu>
@@ -5689,14 +5081,6 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>China Youth Daily Ideology and Theory Department, “Realistic Responses and Strategic Options for China after the Soviet Upheaval,” pp.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024204Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>China could not simply follow the Western model of allowing some people to become very affluent.&lt;/f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Fortunately for Hu, the book was passed to Deng Nan, Deng Xiaoping’s daughter, who then passed it (or a summary) on to her father.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160917T223240Z">
@@ -5763,7 +5147,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>China tests surface-to-surface missiles into sea</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T163835Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160910T163835Z">
         <seg>China prueba misiles superficie-superficie en el mar</seg>
       </tuv>
     </tu>
@@ -5969,17 +5353,9 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cited in Jing Wang, High Culture Fever, p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023128Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Cited in Liu Pi, “Deng Xiaoping Launches ‘Northern Expedition’ to Emancipate Mind.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T190548Z">
+      <tuv lang="ES-US" changeid="Evelyn" changedate="20160902T010456Z">
         <seg>Citado en Liu Pi, “Deng Xiaoping Launches ‘Northern Expedition’ to Emancipate Mind.”</seg>
       </tuv>
     </tu>
@@ -6011,7 +5387,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Commission</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160904T043756Z">
+      <tuv lang="ES-US" changeid="PC" changedate="20160920T002307Z">
         <seg>Militar</seg>
       </tuv>
     </tu>
@@ -6059,7 +5435,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Conclusion 272</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033944Z">
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T033943Z">
         <seg>Conclusión 272</seg>
       </tuv>
     </tu>
@@ -6155,7 +5531,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Contemporary Trends was one of several conservative journals that began publication in the wake of June 4 (others include The Quest for Truth [&lt;t4/&gt;Zhenli&lt;t5/&gt; de &lt;t6/&gt;zhuiqiu&lt;t7/&gt;] and Mainstream [&lt;t8/&gt;Zhongliu&lt;t9/&gt;]) and was edited by conservative ideologue &lt;t10/&gt;Duan&lt;t11/&gt; &lt;t12/&gt;Ruofei&lt;t13/&gt;, who had previously worked at the Party journal &lt;t14/&gt;Hongqi&lt;t15/&gt; (Red Flag).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160906T221307Z">
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160914T131848Z">
         <seg>Contemporary Trends fue uno de los tantos periódicos conservadores que iniciaron la publicación tras el 4 de junio (otros como The Quest for Truth [Zhenli de zhuiqiu] y Mainstream [Zhongliu]) y fue editado por el conservador dialoguista Duan Ruofei, quen había previamente trabajado en el periódico del Partido Hongqi (Red Flag).</seg>
       </tuv>
     </tu>
@@ -6163,7 +5539,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Contents</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T165442Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160924T174901Z">
         <seg>Índice</seg>
       </tuv>
     </tu>
@@ -6179,7 +5555,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Contrary to the hopes of scholars like Li Peilin and Lu Xueyi,the report to the Sixteenth Party Congress, delivered by Jiang Zemin, gave little indication of a shift in policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160909T231947Z">
+      <tuv lang="ES-US" changeid="andrea" changedate="20160919T053826Z">
         <seg>En oposición al deseo de los investigadores como Li Pellin y Lu Xueyi, el informe del Décimo Sexto Congreso del partido no indicaba un cambio significativo en la política.</seg>
       </tuv>
     </tu>
@@ -6195,7 +5571,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Conversely, extreme alienation exacerbates political tensions, while cynicism undermines the effectiveness of nascent institutions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160831T045606Z">
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160919T052432Z">
         <seg>A la inversa, la enemistad extrema empeora las tensiones políticas y el cinismo debilita la eficacia de las instituciones emergentes.</seg>
       </tuv>
     </tu>
@@ -6283,7 +5659,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>December 21</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214327Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214319Z">
         <seg>21 de diciembre</seg>
       </tuv>
     </tu>
@@ -6299,7 +5675,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>December 4</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225306Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160908T223956Z">
         <seg>4 de diciembre</seg>
       </tuv>
     </tu>
@@ -6315,7 +5691,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>December National Planning Conference</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T162916Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160925T215745Z">
         <seg>Conferencia Nacional de Planificación</seg>
       </tuv>
     </tu>
@@ -6379,7 +5755,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng Liqun made his own trip, visiting the cities of Wuhan and Xining, where he declared, “[t]here is the core of economic work but also another core of fighting peaceful evolution and waging class struggle.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020738Z">
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020756Z">
         <seg>Deng Liqun realizó su propio viaje, en el que visitó las ciudades de Wuhan y Xining. En este viaje afirmó que “ existe el núcleo del trabajo económico, pero también otro núcleo de luchar contra la evolución pacífica y la libración de la lucha de clases".</seg>
       </tuv>
     </tu>
@@ -6491,7 +5867,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng began to shed his formal authority by stepping down from the Politburo Standing Committee at the Thirteenth Party Congress in September 1987 and then yielding leadership over the Party’s Central&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Military Commission (CMC) to Jiang Zemin inNovember 1989.However, it seems that Deng was unwilling to shed all vestiges of formal authority and rule solely through informal politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160909T011736Z">
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160909T011705Z">
         <seg>Deng comenzó a despojarse de su autoridad formal al renunciar al Comité Permanente del Politburó en el XIII Congreso Nacional del Partido en septiembre de 1987 y, con posterioridad, al ceder el mando de la Comisión Militar&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Central del Partido en favor de Jiang Zemin en noviembre de 1989. Sin embargo, parece que Deng no estaba dispuesto despojarse de todos los vestigios de autoridad formal y a gobernar únicamente a través de la política informal.</seg>
       </tuv>
     </tu>
@@ -6499,7 +5875,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng did have that status within the Party, and thus replaced Hua and emerged as the core of the “second generation” of CCP leadership (as Deng put it, ignoring the fact that he was really part of the ﬁrst generation of leadership).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T215253Z">
+      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T133421Z">
         <seg>Deng sí tenía ese estatus dentro del partido, por eso reemplazó a Hua y surgío como la cabeza de la "segunda generación" del liderazgo del PCCh (como decía Deng, dejando de lado el hecho de que él en realidad era parte de la primera generación del liderazgo).</seg>
       </tuv>
     </tu>
@@ -6507,7 +5883,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s0/&gt;impossible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T122933Z">
+      <tuv lang="ES-US" changeid="Lu" changedate="20160909T122949Z">
         <seg>Deng siempre asoció "reforma" con "expansión" no sólo porque creía que la modernización economica de China necesitaba el capital, la tecnología y los mercados de exportación que solo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha internacional de clases para disminuir los llamados de atención del pueblo por un énfasis continuo en la lucha de clases, algo que podría (y así lo hizo) tornar la implementación de la reforma económica mucho más difícil, quizás hasta imposible&lt;s0/&gt;.</seg>
       </tuv>
     </tu>
@@ -6515,7 +5891,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s1/&gt;impossible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005118Z">
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005157Z">
         <seg>Deng siempre ha unido  las palabras "reforma" con "expansión" no sólo porque creía que lamodernización de la economía de China necesitaba dinero, tecnología y mercados de exportación que sólo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha de la categoría internacional para disminuir los llamados domesticos para un énfasis continuo en la lucha de categoría , algo que podría ( y asi lo hizo) tornar laimplementación de la reforma económica mucho más difícil, quizas  &lt;s1/&gt;imposible.</seg>
       </tuv>
     </tu>
@@ -6563,7 +5939,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng urged them not to act like “women with bound feet”; reform needed to be bolder and the &lt;t0/&gt;pace of development faster.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224900Z">
+      <tuv lang="ES-US" changeid="Abril" changedate="20160925T000812Z">
         <seg>Deng les pidió que no se comporten como “mujeres con los pies vendados”. La reforma tenía que ser más audaz y el &lt;t0/&gt; ritmo de desarrollo más rápido.</seg>
       </tuv>
     </tu>
@@ -6595,7 +5971,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng was striving to build a balance in the Party that would out- last himself and one that would contrast with the bitterly divisive leadership situation Mao Zedong had left behind when he died in 1976.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T180530Z">
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T180530Z">
         <seg>Deng se esfrozaba para logar un equilibrio en el Partido que perdurara cuando él se hubiera ido y que contrastara con el gobierno tan dividido que Mao Zedong había dejado cuando falleció en 1976.</seg>
       </tuv>
     </tu>
@@ -7845,14 +7221,6 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Fora discussion of Chinese nationalism see Fewsmith and Rosen, “The Domestic Context of Chinese Foreign Policy.”</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174243Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Foreign reserves stood at over a trillion US dollars, causing trade frictions with the US, but insuring against the risks of any sort of economic upheaval such as the Asian financial crisis.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160926T193859Z">
@@ -8125,14 +7493,6 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Gu Xin and David Kelly, “New Conservatism.”</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024139Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Guangdong CCP sec.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160923T201024Z">
@@ -8194,102 +7554,6 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160923T133530Z">
         <seg>Al haber escapado del "hegemonismo cultural" de Occidente, ahora China no aceptaría los valores occidentales como suyos&lt;/f2&gt;&lt;f4&gt;43&lt;/f4&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “ ‘He Shang’ de piping.”</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023923Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Aiguo de Qu Yuan yu ruguo de ‘He Shang’,” pp.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022936Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Aiguo de Qu Yuan yu ruguo de ‘He Shang’.”</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022804Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Dangqian Zhongguo neiwai xingshi fenxi ji ruogan zhengce jianyi (zhaiyao),” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022247Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Dangqian Zhongguo neiwai xingshi fenxi ji ruogan zhengce jianyi (zhaiyao),” pp.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022328Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Dui woguo shinian gaige de fansi,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022653Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Lun ZhongMeiRi guanxi de zhanlu¨e beijing yu duice,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022644Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Lun ZhongMeiRi guanxi de zhanlu¨e beijing yu duice,” pp.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022415Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022337Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Tan dangdai ziben zhuyi,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022950Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Wo xiang nimen de liangzhi huhuan,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022607Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>He Xin, “Wo xiang nimen liangzhi huhuan,” pp.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022636Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -9630,14 +8894,6 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>In an interesting case of mirror-image thinking, He insisted that ideology played no role in US foreign policy; the United States saw the world in terms of a zero-sum game (nisi wohuo – literally, “you die, I live”).</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022621Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>In an interview with &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Fortnightly&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Chats &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Banyue tan&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;), Chen repeatedly invoked Dengist rhetoric, criticizing&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;“ossified thinking” and giving explicit support to Deng’s “new cat thesis.”&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;17&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; In contrast, Beijing Party secretary Li Ximing, who would be ousted for his conspicuous resistance to Deng’s policies following the patriarch’s 1992 trip to Shenzhen, avoided the use of similar reformist rhetoric.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224555Z">
@@ -10008,8 +9264,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In part these new reflections marked a certain maturation of economic and social thought as problems began to be conceived less in terms of “reform” versus “conservatism” and more in terms of solutions to specific problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T162522Z">
-        <seg>En parte estas nuevas reflexiones marcaron una cierta maduración del pensamiento económico y social mientras los problemas empezaban a considerarse menos en términos de "reforma" versus "conservadurismo" y más en términos de soluciones a problemas específicos.</seg>
+      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T162432Z">
+        <seg>En parte estas nuevas reflexiones marcaron una cierta maduración del pensamiento económico y social mientras los problemas empezaban a considerarse menos en términos de "reforma" versus ".</seg>
       </tuv>
     </tu>
     <tu>
@@ -11843,14 +11099,6 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Jing Wang, High Culture Fever.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023839Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Joseph Fewsmith, “The Impact of Reform on Elite Politics.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160920T092314Z">
@@ -12345,14 +11593,6 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160926T015240Z">
         <seg>Reconsideración de la línea de lucha: el ataque al programa de la reforma de Deng</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ling Zhen, “Zugepai de xingdong xinhao”; author interviews.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024154Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -13313,14 +12553,6 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160923T180231Z">
         <seg>Sin embargo, en 1992, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, como secretario general del Comité Permanente del Politburó (PBSC) en el Décimo Cuarto Congreso del Partido, lo que parecía significar que Deng había elegido a Hu para ser el sucesor de Jiang.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nevertheless, in a 1990 interview with Japanese economist Yabuki Susumu, He said that “during the next 10–20 years the entire capitalist world economic system will experience the most profound and serious overall crisis since the dawn of history.” See “Current World Economic Situation” (I), p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022407Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -14871,14 +14103,6 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Quoted in Meng Fanhua, Zhongshen kuanghuan, p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023116Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Rather than being a transitional figure, Jiang Zemin continued to head the CCP until</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160923T033616Z">
@@ -15215,50 +14439,10 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>See He Xin, “Lun Zhongguo xiandaihua de guoji huanjing yu waijiao zhanlu¨e,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022623Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>See Li Zehou, Zhongguo xiandai sixiangshi lun; and Vera Schwarcz’s masterful study, The Chinese Enlightenment.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023111Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>See Wei Yung-cheng, “Reveal the Mystery of Huangfu Ping.” According to Gao Xin and He Pin, the galleys of each article were personally approved by Deng’s daughter, Deng Nan (see &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Zhu Rongji zhuan&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T192219Z">
         <seg>Ver Wei Yung-cheng, “Reveal the Mystery of Huangfu Ping.” According to Gao Xin and He Pin, the galleys of each article were personally approved by Deng’s daughter, Deng Nan (see &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Zhu Rongji zhuan&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>See also Frederic Wakeman, “All the Rage in China.”</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023135Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>See also He Xin, “Dangqian jingji xingshi pinglun (zhi yi),” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023011Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>See also He Xin, “Wode kunhuo yu youlu,” pp.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022941Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -16017,14 +15201,6 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Su Xiaokang and Wang Luxiang, He Shang (River Elegy).</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023122Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Subtly reiterating his own opposition to Deng’s unwillingness to yield to collective leadership, Chen presented Shanghai leaders with a rhymed couplet that enjoined them to “not simply follow what superiors or books say” but to “act only according to reality.”29</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T163241Z">
@@ -16181,14 +15357,6 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T214836Z">
         <seg>Dichos valores y categorias resultaron poderosas al reflexionar sobre los fracasos del socialismo en los años ochenta, pero perdieron su vigor ya que la globalización y la mercadización modificaron las relaciones entre el estado y la sociedad en China, asi como también entre China y el mundo exterior, según Wang.  </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Suisheng Zhao, A Nation-State by Construction; and Peter Hays Gries, China’s New Nationalism.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174251Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -20466,22 +19634,6 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Wang Xiaodong [Shi Zhong], “Zhongguo de minzu zhuyi he Zhongguo de weilai.”</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023930Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Wang Xiaodong and Qiu Tiancao, “Jiqing de yinying: Ping dianshi xiliepian ‘He shang’.”</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T024107Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Wang agreed with Nye that, with the end of the Cold War, the importance of “hard power” has declined while that of “soft power” has increased – but this did not necessarily make the world a less threatening place.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160923T124501Z">
@@ -21338,14 +20490,6 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Xin, “Lun woguo jingji gaige zhidao lilun de shiwu,” p.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022957Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Xinhua News Agency issues draft Property</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044619Z">
@@ -21446,14 +20590,6 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160913T143232Z">
         <seg>Pero este impacto demostró rápidamente que era&lt;t28/&gt; &lt;t29/&gt;terrible.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Yi jia yan [pseud.], “ ‘He Shang’ xuanyangle shenma?” It quickly became known that this article was by Wang Zhen.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160908T023912Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -21949,8 +21085,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>deng’s strategy</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160905T025611Z">
-        <seg>La estrategia de Deng </seg>
+      <tuv lang="ES-US" changeid="multimedia08" changedate="20160926T201703Z">
+        <seg>La estrategia de Deng</seg>
       </tuv>
     </tu>
     <tu>
