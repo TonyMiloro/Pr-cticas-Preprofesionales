@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9472,8 +9472,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In many ways, these trends simply reflect the growth and internationalization of Chinese society and economy, but they also mark the profound difference between China in the 1980s and China as it enters the twenty-first century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T143120Z">
-        <seg>De muchas maneras, estas tendencias simplemente reflejan el crecimiento y la internacionalización de la sociedad y economía china, pero también marcan una gran diferencia entre China en la década de los 80 y China al entrar en el siglo XXI .</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T155341Z">
+        <seg>De muchas maneras, estas tendencias simplemente reflejan el crecimiento y la internacionalización de la sociedad y economía china, pero también marcan una gran diferencia entre China en la década de los 80 y al entrar en el siglo XXI .</seg>
       </tuv>
     </tu>
     <tu>
