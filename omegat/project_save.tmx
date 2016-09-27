@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -577,8 +577,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f4&gt;&lt;f5&gt;Yearnings &lt;/f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;f7&gt;Kewang&lt;/f7&gt;&lt;f8&gt;), which began broadcasting in November 1990, was put together hastily by a group of writers, including Wang Shuo and the respected author Zheng Wanlong, in a self-conscious effort to create a commercial success, something &lt;/f8&gt;&lt;f9&gt;that does not come naturally to Chinese intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160920T054439Z">
-        <seg>&lt;/f4&gt;&lt;f5&gt;Aspiraciones &lt;/f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;f7&gt;Kewang&lt;/f7&gt;&lt;f8&gt;), cuya emisión comenzó en noviembre de 1990, fue elaborada rápidamente por un grupo de escritores, incluyendo a Wang Shuo y al respetado autor Zheng Wanlong, en un esfuerzo autoconsciente de crear un éxito comercial, algo &lt;/f8&gt;&lt;f9&gt;que no es natural para los intelectuales chinos.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T150738Z">
+        <seg>&lt;/f4&gt;&lt;f5&gt;Aspiraciones &lt;/f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;f7&gt;Kewang&lt;/f7&gt;&lt;f8&gt;), cuya emisión comenzó en noviembre de 1990, fue elaborada rápidamente por un grupo de escritores, incluyendo a Wang Shuo y al respetado autor Zheng Wanlong, en un esfuerzo autoconsciente de crear un éxito comercial, algo &lt;/f8&gt;&lt;f9&gt;que no era natural para los intelectuales chinos.</seg>
       </tuv>
     </tu>
     <tu>
