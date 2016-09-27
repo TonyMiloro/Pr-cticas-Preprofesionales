@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9922,6 +9922,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160908T181419Z">
         <seg>En el prólogo, se describe a "Luo yi ning ge er" como alemán y como el sinólogo más famoso de Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the same election, Chen Haosu (son of Marshal Chen Yi) and Bo Xicheng (son of Party elder Bo Yibo) both withdrew their names from consideration rather than face defeat; Chen Yuan proved overly confident.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T151356Z" creationid="Franco" creationdate="20160927T151356Z">
+        <seg>Durante la misma elección, Chen Haosu (son of Marshal Chen Yi) and Bo Xicheng (son of Party elder Bo Yibo) both withdrew their names from consideration rather than face defeat; Chen Yuan proved overly confident.</seg>
       </tuv>
     </tu>
     <tu>
