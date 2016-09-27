@@ -887,6 +887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1/&gt;Ibid., p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T025946Z" creationid="Rocio" creationdate="20160927T025946Z">
+        <seg>[parcial]ibid.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1/&gt;Wang Huning, “Lun minzhu zhengzhi jianshe,” p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T134613Z">
@@ -14155,6 +14163,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160917T072411Z">
         <seg>Siendo cínicos acerca de los motivos estadounidenses, el 85.4 porciento creía que Estados Unidos formó parte de la Guerra del Golfo ''por fuera de sus intereses''. Un ensayo final argumentó que el nacionalismo reflejado en las encuestas mostró que China ''todavía tiene esperanzas''. Al poner los resultados de las encuestas contra los debates recientes sobre globalización, el autor (o autores) anunció con la mejor tradición realista que el mundo todavía se encuentra divido en estados-naciones. Esta línea divisora que separa los estados-naciones era mucho más fuerte que cualquier otra, y que también abarca la cultura (con referencia a Huntington). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reform was greatly changing the relationship between central and local governments by diminishing the role of the central gov- ernment in redistribution and by encouraging localities to satisfy their own interests.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T025926Z" creationid="Rocio" creationdate="20160927T025926Z">
+        <seg>La reforma estaba cambiando enormemente la relación entre los gobiernos locales y el central al .</seg>
       </tuv>
     </tu>
     <tu>
