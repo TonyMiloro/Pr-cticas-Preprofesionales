@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9584,8 +9584,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition, the continual growth of the non-state economy and &lt;t0/&gt;other societal pressures will continue to press against the constraints of the Leninist party-state.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160915T163827Z">
-        <seg>A demás, el crecimiento continuo de la economía no estatal y otras presiones sociales seguirán oponiéndose a las restricciones del unipartidismo leninista. </seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T011753Z">
+        <seg>Además, el crecimiento continuo de la economía no estatal y otras presiones sociales seguirán oponiéndose a las restricciones del unipartidismo leninista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19002,8 +19002,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This does not mean that reforms will grind to a halt or be reversed – those same interests that oppose further marketization will also oppose retrenchment, just as political elites who need to continue economic growth to enhance performance legitimacy (including job creation) and a technocracy that is largely, but not wholly, immune to societal pressures, are likely to continue to press for marketizing reforms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160923T223459Z">
-        <seg>Esto no quiere decir que las reformas se paralizarán o serán revertidas; los mismos intereses que se oponen a la mercadización también se opondrán a una reducción presupuestaria, del mismo modo en que resulta muy probable que las élites políticas que necesitan continuar con el crecimiento económico para aumentar la legitimidad de su desempeño (incluyendo la creación de empleos) y una tecnocracia que es gran medida, pero no por completo, imune a las presiones sociales, continúen fomentando reformas orientadas a la mercadización. </seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T011659Z">
+        <seg>Esto no quiere decir que las reformas se paralizarán o serán revertidas; los mismos intereses que se oponen a la mercantilización también se opondrán a una reducción presupuestaria, del mismo modo en que resulta probable que las élites políticas que necesitan continuar con el crecimiento económico para aumentar la legitimidad de su desempeño (incluyendo la creación de empleos) y una tecnocracia que es en gran medida, pero no por completo, inmune a las presiones sociales, continúen fomentando reformas orientadas a la mercantilización.</seg>
       </tuv>
     </tu>
     <tu>
