@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2609,6 +2609,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although Xing’s criticism of Li and Liu’s book illustrated the need for the Party to respond to intellectual discussions, Xing’s motive here seems to have been to set up a “right” to juxtapose to the “left” of the manifestos.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T123934Z" creationid="Lucrecia" creationdate="20160927T123934Z">
+        <seg>A pesar de que la crítica de Xing al libro de Li y Liu mostaba la necesidad  de un Partido que respondiera a las discusiones intelectuales, el objetivo de Xing parece haber sido crear una "derecha" que sirviera como oposión de la "izquiera" de los manifiestos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although an agricultural&lt;t2/&gt; &lt;t3/&gt;agreement was quickly signed the next morning, Zhu was sent back to&lt;t4/&gt; &lt;t5/&gt;China almost empty-handed.36</seg>
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160910T023903Z">
@@ -4581,6 +4589,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160908T182024Z">
         <seg>En el mes de septiembre, el 44 % de las empresas estatales perdían dinero, las "deudas triangulares" se habían disparado a 400 mil millones de yuanes, y alrededor del 80 % del ingreso de las empresas estatales se destinó al servicio de la deuda&lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. A mediados de septiembre, la Oficina Nacional de Estadísticas publicó un informe que expresaba que la economía china estaba a punto de entrar en la "zona roja", lo que indicaba serios problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By doing so, Xing could define a “middle course” for Jiang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T124047Z" creationid="Lucrecia" creationdate="20160927T124047Z">
+        <seg>Al hacer esto, Xing puedo definir un ".</seg>
       </tuv>
     </tu>
     <tu>
