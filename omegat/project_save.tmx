@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15885,6 +15885,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011519Z">
         <seg>Su habilidad para sobrevivir en el Ministerio de Construcción de Maquinaria en los años ’70 refleja sin dudas su naturaleza prudente, lo cual le pudo haber costado más ascensos en la era de la reforma si no se hubiera entrenado en el área técnica y no hubiese tenido el respaldo de patrocinadores como Wang Daohan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is to say, the “primary contradiction” facing China’s economy is “shortage” created by growing aggregate social demand and the limited resources available to produce the requisite supply.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T152651Z" creationid="Franco" creationdate="20160927T152651Z">
+        <seg>Esto significa que la "contradicción primaria" que enfrenta la economía china es es la "escasez".</seg>
       </tuv>
     </tu>
     <tu>
