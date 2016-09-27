@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5781,6 +5781,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021100Z">
         <seg>China, que crecía con índices de doble dígito también, creía en esa confianza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China, she argued, seems to be heading not toward liberal democracy and capitalism but toward a “government and mafia alliance.” These socioeconomic trends quickly became a source of popular discontent, and political and intellectual leaders from across the spectrum – the left, the New Left, neostatists, populist nationalists, and liberals – all responded with diagnoses and prescriptions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T015927Z" creationid="Lucrecia" creationdate="20160927T015927Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19132,6 +19140,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160909T222133Z">
         <seg>Sin dudas, ese asunto quedaría pendiente en el Partido al menos hasta el siguiente Congreso del Partido del año 2012. En segundo lugar, debido a que en parte Jiang Zemin tuvo éxito en promover a su protegido al Politburó en el XVI Congreso del Partido, el XVI Congreso del Partido, que debía elegir al nuevo líder, no tendría que contar solamente con el ascenso por antigüedad. Si Hu Jintao era capaz de dejar su propia impronta en el nuevo liderazgo, entonces tendría que haber algún tipo de combinación de procesos institucionales y negociaciones no institucionales. La destitución de Chen Liangyu, secretario general del Partido Comunista chino en Shanghai, en septiembre de 2006 (véase capítulo 8) significó la inevitable apertura de futuras negociaciones políticas informales. En tercer lugar, ¿hasta qué punto ratificaría el XVII Congreso del Partido las ideas de Hu Jintao tales como el concepto de desarrollo científico?&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the same group of people that He Qinglian described when she argued that, through the “marketization of politics,” officials – or those with close relations to officials – have directed millions of dollars worth of assets into private hands, bringing about a form of “primitive socialist accumulation” that rivals anything Marx and Engels observed about “primitive capitalist accumulation.” The result, He argued, has been income inequality surpassing that in either Japan or the United States (keeping in mind that China had a much more equal distribution of income than either of those countries less than a decade before), the rise of secret societies, and mass resentment.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T015934Z" creationid="Lucrecia" creationdate="20160927T015922Z">
+        <seg>Este es el mismo grupo de gente que He Qinglian describió cuando presentó que, a través de la "mercantilización de las política", los funcionarios (o aquellos que tenían una relación cercana con funcionarios) han dirigido millones de dólares en activos a cuentas privadas, lo cual crea una nueva forma de "acumulación socialista primitiva" que compite con todo lo que Marx y Engels analizaron acerca de la "acumulación socialista primitiva".</seg>
       </tuv>
     </tu>
     <tu>
