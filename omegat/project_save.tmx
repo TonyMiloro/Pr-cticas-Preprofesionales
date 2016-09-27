@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2265,8 +2265,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t4/&gt;Luo&lt;t5/&gt; &lt;t6/&gt;Gan&lt;t7/&gt;, secretary general of the State Council, presented a proposal for a massive restructuring of the government.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160914T220512Z">
-        <seg>Luo Gan, secretario general del Consejo de Estado, presentó una propuesta para reestructurar a gran escala el gobierno.   &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T193341Z">
+        <seg>Luo Gan, secretario general del Consejo de Estado, presentó una propuesta para reestructurar el gobierno a gran escala.&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7927,8 +7927,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Furthermore, there was the question of how and to what extent China’s economy should be linked to the international economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110501Z">
-        <seg>Además estaba la cuestión de cómo y hasta qué punto la economía China  se debía relacionar con la economía internacional.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T192001Z">
+        <seg>Además estaba el problema de cómo y hasta qué punto la economía china se debía relacionar con la economía internacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7943,8 +7943,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Gaining China’s international acceptance as one of the great powers of the world would diminish the lingering effects of post-Tiananmen isolation; it would also realize the century-old desire of Chinese patriots to no longer be treated as a second-rate power but instead to be regarded as an equal in world affairs.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014452Z">
-        <seg>Obtener la aceptación internacional de China como uno de los grandes poderes del mundo aminoraría las consecuencias persistentes del aislamiento en la etapa pos-Tiananmén. Además, los patriotas chinos harían realidad el deseo secular de que no los traten más como un poder de segunda fila, sino que los consideren como par en los asuntos internacionales.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T192951Z">
+        <seg>Obtener la aceptación internacional de China como uno de los grandes poderes del mundo aminoraría las consecuencias persistentes del aislamiento en la etapa posTiananmén. Además, los patriotas chinos harían realidad el deseo secular de que no los traten más como un poder de segunda fila, sino que los consideren como par en los asuntos internacionales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9352,8 +9352,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In March 1998, the Ninth Session of the NPC formally named Zhu &lt;t0/&gt;Rongji&lt;t1/&gt; premier, replacing Li &lt;t2/&gt;Peng&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014822Z">
-        <seg> En marzo de 1998, la Novena Sesión del CNP designó de manera oficial como primer ministro a Zhu Rongji, en reemplazo de Li Peng. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T193139Z">
+        <seg>En marzo de 1998, la Novena Sesión de la APN designó de manera oficial como primer ministro a Zhu Rongji, en reemplazo de Li Peng. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10320,8 +10320,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the mid-1990s, in an effort to increase foreign investment, China had relaxed its rules on foreign ownership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110551Z">
-        <seg>A mediados de la década de los 90, con el objetivo de aumentar la inversión extrajera, China había  flexibilizado sus reglas en cuanto a la propiedad extranjera. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T192339Z">
+        <seg>A mediados de la década de los 90, con el objetivo de aumentar la inversión extranjera, China flexibilizó sus reglas en cuanto a la propiedad extranjera. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12871,8 +12871,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Ministries had no real desire to force their subordinate industries onto the market, just as industries had no incentive to compete when administrative support was available.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110450Z">
-        <seg>Los ministerios no tenían verdadero interés en introducir de manera forzosa a las industrias subordinadas al mercado, al igual que las industrias no tenían incentivo para competir cuando tenían apoyo administrativo disponible.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T192021Z">
+        <seg>Los ministerios no tenían verdadero interés en introducir de manera forzosa a las industrias subordinadas al mercado, al igual que las industrias no tenían incentivo para competir cuando ya tenían apoyo administrativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14672,8 +14672,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Pointing to the costs of bloated administration, to the demands posed by the reform of state-owned enterprises, and to the challenges presented by the Asian financial crisis, he outlined a sweeping plan to reduce the number of government ministries from 40 to 29.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014852Z">
-        <seg>Señalando el costo de una administración excesiva, las demandas creadas por la reforma de empresas estatales y los desafíos que presenta la crisis financiera de Asia, Gan esbozó un plan radical para reducir de 40 a 29 el número de ministros del gobierno.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T193511Z">
+        <seg>Con el foco puesto en el costo de una administración excesiva, las demandas creadas por la reforma de empresas estatales y los desafíos que presenta la crisis financiera de Asia, Gan esbozó un plan radical para reducir de 40 a 29 la cantidad de ministros del gobierno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15025,8 +15025,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Restructuring government and the economy: the ninth &lt;t0/&gt;npc</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110018Z">
-        <seg>Reestructuración del gobierno y la economía: la IX  Asamblea Nacional Popular &lt;t0/&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T193038Z">
+        <seg>Reestructuración del gobierno y la economía: la Novena Asamblea Nacional Popular &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15714,8 +15714,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Since China had begun to open its doors in the late 1970s, its trade with the outside world had expanded rapidly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110643Z">
-        <seg>Desde que China había empezado a abrir sus puertas a fines de la década de los 70, su comercio con el mundo exterior se expandió rápidamente.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T192037Z">
+        <seg>Desde que China empezó a abrir sus puertas a fines de la década de los 70, su comercio con el mundo exterior se expandió rápidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19394,8 +19394,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This had brought a huge increase in the amount of foreign funds invested, but it had also stimulated economic nationalism in response.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160909T110608Z">
-        <seg>Esto había traído un importante aumento en la cantidad de fondos extranjeros invertidos, pero también había estimulado el nacionalismo económico como respuesta.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T192331Z">
+        <seg>Esto trajo un importante aumento en la cantidad de inversiones extranjeras, pero también estimuló el nacionalismo económico como respuesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19802,8 +19802,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This was an issue of status that would clearly enhance Jiang &lt;t2/&gt;Zemin’s&lt;t3/&gt; political prestige, but it was also an economic issue with profound implications for domestic reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T014529Z">
-        <seg>Se trataba de una cuestión de estatus que sin dudas aumentaría el prestigio político de Jiang Zemin. Sin embargo, también era una cuestión económica con consecuencias profundas para la reforma nacional.   &lt;t2/&gt;&lt;t3/&gt; </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T193008Z">
+        <seg>Se trataba de una cuestión de estatus que sin dudas aumentaría el prestigio político de Jiang Zemin. Sin embargo, también era una cuestión económica con consecuencias de importancia para la reforma nacional.   &lt;t2/&gt;&lt;t3/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -21596,8 +21596,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Without the pressures of foreign investment, how could enterprises behind a wall of protection &lt;t0/&gt;be&lt;t1/&gt; expected to reform?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011159Z">
-        <seg>Sin la presión de inversiones extranjeras, ¿cómo se podría esperar que las empresas tras muros de protección hagan un reajuste?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T193836Z">
+        <seg>Sin la presión de inversiones extranjeras, ¿cómo se podría esperar que las empresas tras muros de protección hagan una reforma?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
