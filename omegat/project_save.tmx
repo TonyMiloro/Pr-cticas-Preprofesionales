@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1372,6 +1372,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160923T132402Z">
         <seg>&lt;f0&gt;Nunca creí que EE. UU. estuviera tan preocupado por los derechos humanos del pueblo chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Ibid., p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160927T221859Z" creationid="Franco" creationdate="20160927T221859Z">
+        <seg>&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
