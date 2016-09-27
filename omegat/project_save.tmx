@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10971,8 +10971,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>Ironically, the populist critique of reform, which could be directed at pushing through precisely such measures, appears to working in precisely the opposite direction, as the dilution of the Property Rights Law suggests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160914T170953Z">
-        <seg>Irónicamente, las críticas populistas a la reforma, que podrían estar dirigidas a que tales medidas sean implementadas, parecen estar apuntando precisamente a la dirección opuesta, como sugiere la dilución de la Ley de Derechos de Propiedad.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T010126Z">
+        <seg>Irónicamente, las críticas populistas a la reforma, que podrían estar dirigidas a la implementación de tales medidas, parecen estar apuntando precisamente a la dirección opuesta, como sugiere la dilución de la Ley de Derechos de Propiedad.</seg>
       </tuv>
     </tu>
     <tu>
