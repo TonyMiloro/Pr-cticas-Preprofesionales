@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5493,6 +5493,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045141Z">
         <seg>se discute el Décimo Primer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conservative Party elder Song Renqiong declared in early March that he could not detect leftist influences in current political, ideological, and economic work.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T031914Z" creationid="Soledad Mori" creationdate="20160927T031914Z">
+        <seg>Son Renqiong, veterano del Partido Conservador, declaró a principios de marzo que no pudo detectar influencias izquierdistas en la actual situación política, ideológica y económica.</seg>
       </tuv>
     </tu>
     <tu>
