@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9993,8 +9993,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In trying to define a middle course, Jiang seemed at once to be taking a leaf from history and trying to sidestep his most serious political dilemma.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T130229Z" creationid="Lucrecia" creationdate="20160927T130034Z">
-        <seg>Al tratar de definir un punto medio, Jian parecía .</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T130542Z" creationid="Lucrecia" creationdate="20160927T130034Z">
+        <seg>Al tratar de definir un punto medio, Jiang parecía estar siguiendo el ejemplo de la historia y tratando de esquivar su dilema político más serio.</seg>
       </tuv>
     </tu>
     <tu>
