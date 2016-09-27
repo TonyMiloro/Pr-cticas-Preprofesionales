@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6966,8 +6966,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Finally, by the 1990s, the Chinese intellectual community was far more international than it had been a decade earlier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T135531Z">
-        <seg>Por último, en la década de los 90, la comunidad intelectual china era mucho más internacional de lo que había sido la década anterior .</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T154005Z">
+        <seg>Por último, en la década de los 90, la comunidad intelectual china era mucho más internacional de lo que había sido en la década anterior .</seg>
       </tuv>
     </tu>
     <tu>
