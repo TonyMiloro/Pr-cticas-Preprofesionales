@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22852,6 +22852,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160928T043734Z">
         <seg>Como veremos más adelante, la relación de China con otros paises, perticularmente con los Estados Unidos, ha afectado la forma en que se conciben los asuntos internos Chinos, así también como esos asuntos internos han influenciado la forma en que se entienden las relaciones internaconales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>associated&lt;t0/&gt; &lt;t1/&gt;with&lt;t2/&gt; &lt;t3/&gt;J&lt;t4/&gt;iang&lt;t5/&gt;’&lt;t6/&gt;s&lt;t7/&gt; &lt;t8/&gt;so-called&lt;t9/&gt; &lt;t10/&gt;“&lt;t11/&gt;S&lt;t12/&gt;hanghai&lt;t13/&gt; &lt;t14/&gt;faction,”&lt;t15/&gt; &lt;t16/&gt;H&lt;t17/&gt;u&lt;t18/&gt;’&lt;t19/&gt;s&lt;t20/&gt; &lt;t21/&gt;political&lt;t22/&gt; &lt;t23/&gt;st&lt;t24/&gt;r&lt;t25/&gt;ength &lt;t26/&gt;was becoming more evident (though it would not go &lt;t27/&gt; &lt;t28/&gt;unchallenged).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160928T125332Z" creationid="Flor" creationdate="20160928T125332Z">
+        <seg>&lt;t0/&gt;la llamada “facción de Shangái” de Jiang la fuerza política de Hu se estaba haciendo más notoria (pero no se perdería de ser cuestionada pero no dejaría de ser cuestionada). &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt; &lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt; &lt;t28/&gt;</seg>
       </tuv>
     </tu>
     <tu>
