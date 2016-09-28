@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6910,8 +6910,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the urging of sociologists such as Li and Lu, the report ﬁrmly endorsed continuin&lt;f1&gt;g &lt;/f1&gt;along the developmental path the country had been following:“Keep economic development as the central task,”it urged, “and solve problems cropping up on our way forward through development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160909T232015Z">
-        <seg>A pesar del deseo de los sociólogos Li y Lu, el informe respalda con firmeza continuar &lt;f1&gt;con &lt;/f1&gt; el camino de desarrollo que el país ha estado siguiendo: “mantener el desarrollo económico como tarea central”, “y resolver los problemas que surjan en nuestro camino hacia el desarrollo,</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125303Z">
+        <seg>A pesar de las recomendaciónes de los sociólogos Li y Lu, el informe respalda con firmeza continuar &lt;f1&gt;con &lt;/f1&gt; el camino de desarrollo que el país ha estado siguiendo: “mantener el desarrollo económico como tarea central”, “y resolver los problemas que surjan en nuestro camino hacia el desarrollo,</seg>
       </tuv>
     </tu>
     <tu>
@@ -11404,8 +11404,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It celebrated the Three Represents (sange daibiao),called for “keeping pace with the times”(yushi jujin),and declared that the “strategic adjustment of the economic structure has been crowned with success” and that “it is of vital importance to take economic development as the main task.” The report recognized that there were problems in society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T124636Z">
-        <seg>Celebraba la Triple Representatividad (sange daibiao) proponía “seguir el ritmode los tiempos” (yushi jujin) y declaraba que “el cambio estratégico de la estructura económica había sido coronado por el éxito” y que “es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas en la sociedad.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125022Z">
+        <seg>Celebraba la Triple Representatividad (sange daibiao) proponía “seguir el ritmo de los tiempos” (yushi jujin) y declaraba el cambio estratégico de la estructura económica fue terminado con éxito” y  de gran importancia considerar el desarrollo económico como nuestra tarea principal. El informe reconoció la existencia de problemas en la sociedad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11524,8 +11524,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It noted, for instance, that income in rural areas had increased slowly, that unemployment was up, and that a variety of environmental issues had emerged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160909T012338Z">
-        <seg>Por ejemplo, indicaba que el salario en las áreas rurales había experimentado un incremento paulatino, como así también el desempleo y que surgió una diversidad de problemas ambientales.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125153Z">
+        <seg>Por ejemplo, indicaba que el salario en las áreas rurales había experimentado un incremento demasiado lento, que el desempleo había aumentado y que había surgido una gran cantidad de problemas ambientales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13808,8 +13808,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, the report called for a quadrupling of the GDP by the year 2020 and emphasized science and technology as drivers of economic growth.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T004815Z">
-        <seg>No obstante, el informe pronosticó que el PIB se cuadruplicaría para el 2020 e hizo hincapié en la ciencia y la tecnología como impulsores del crecimiento económico.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125159Z">
+        <seg>No obstante, el informe pronosticó que el PIB se cuadruplicaría para el 2020 e hizo hincapié en la ciencia y la tecnología como impulsa del crecimiento económico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15666,8 +15666,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Science and technology, of course, would help upgrade industry along the coast–areas that already had a basis for adopting newer technologies – but likely would not drive job creation, particularly in the interior.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160909T231355Z">
-        <seg>Si bien ambas ayudarían a mejorar la industria en zonas costeras, que cuentan con una base  para adoptar nuevas tecnologías, con seguridad no producirán empleo, en particular en las zonas del interior.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125243Z">
+        <seg>Si bien ambas ayudarían a mejorar la industria en zonas costeras, que cuentan con una base  para adoptar nuevas tecnologías, con seguridad no produciría empleo, en particular en las zonas del interior.</seg>
       </tuv>
     </tu>
     <tu>
