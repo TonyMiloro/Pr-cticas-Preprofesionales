@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19231,8 +19231,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The point of the essay was that any reform – whether in China, Eastern Europe, or the former Soviet Union – takes the concept of “economic man” (as conceived by Adam Smith) as central, and that the concept of “economic man” is fundamentally con- tradictory to the collectivism that is central to the socialist ethos.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T231752Z">
-        <seg>La idea central de este ensayo es que cualquier reforma, ya sea en China, Europa Oriental, o la antigua Unión Soviética, toma como eje el concepto de 'homo economicus' (propuesto por Adam Smith) y que este concepto es en esencia contradictorio al colectivismo, crucial para los valores socialistas.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T211622Z">
+        <seg>La idea central de este ensayo es que cualquier reforma, ya sea en China, Europa Oriental, o la antigua Unión Soviética, toma como eje el concepto de 'homo economicus' (tal como propuesto por Adam Smith) y que esta noción es en esencia contradictorio al colectivismo, crucial para los valores socialistas.</seg>
       </tuv>
     </tu>
     <tu>
