@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3804,8 +3804,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As a result, basic energy and material sectors were drained of investment capital while transportation and energy supplies were always strained by demand.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T035158Z">
-        <seg>Como resultado,se mermó a la energía básica y los sectores materiales de capital de inversión mientras que el transporte y los suministros de energía siempre han sido presionados por la demanda.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T012041Z">
+        <seg>Como resultado,se le quitó capital de inversión a la energía básica y los sectores materiales mientras que el transporte y los suministros de energía siempre han sido presionados por la demanda.</seg>
       </tuv>
     </tu>
     <tu>
