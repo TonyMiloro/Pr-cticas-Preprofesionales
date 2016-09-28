@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6236,8 +6236,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Contrary to the hopes of scholars like Li Peilin and Lu Xueyi,the report to the Sixteenth Party Congress, delivered by Jiang Zemin, gave little indication of a shift in policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160919T053826Z">
-        <seg>En oposición al deseo de los investigadores como Li Pellin y Lu Xueyi, el informe del Décimo Sexto Congreso del partido no indicaba un cambio significativo en la política.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T124608Z">
+        <seg>Contrario al deseo de investigadores como Li Pellin y Lu Xueyi, el informe del Décimo Sexto Congreso del partido no indicaba un cambio significativo en la política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11396,8 +11396,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It celebrated the Three Represents (sange daibiao),called for “keeping pace with the times”(yushi jujin),and declared that the “strategic adjustment of the economic structure has been crowned with success” and that “it is of vital importance to take economic development as the main task.” The report recognized that there were problems in society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160909T230836Z">
-        <seg>Celebraba la Triple Representatividad (sange daibiao) que propugnaba “seguir el ritmo” (yushi jujin) y declaraba que “el cambio estratégico de la estructura económica había sido coronado por el éxito” y que “es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas en la sociedad.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T124636Z">
+        <seg>Celebraba la Triple Representatividad (sange daibiao) proponía “seguir el ritmode los tiempos” (yushi jujin) y declaraba que “el cambio estratégico de la estructura económica había sido coronado por el éxito” y que “es de gran importancia considerar el desarrollo económico como tarea principal”. El informe reconoció la existencia de problemas en la sociedad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19406,8 +19406,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There was no question that HuandWenhadfarmoreintimateknowledgeofthe poor hinterland, and their inland concerns were often juxtaposed with the coastal orientation of Jiang and Zeng’s “Shanghai faction.” Similarly, Hu’s base of support in the Communist Youth League, which he once headed, contrasted with Zeng’s extensive network among the gaogan zidi, the sons and daughters of high-level cadres,of which Zeng was one(his father, Zeng &lt;s0/&gt;Shan,had joined Mao during the Jiangxi period and eventually rose to head the Interior Ministry).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T124003Z">
-        <seg>No había ninguna duda de que Hu y Wen conocían con detalle la pobreza del interior del país y de que su preocupación por esta región se solía oponer a la orientación costera de la "facción de Shanghái" de Jiang y Zeng. De manera similar, el respaldo popular que Hu recibía de la Liga de la Juventud Comunista, que alguna vez dirigió, contrastaba con la extensa red entre los gaogan zidi, que eran los hijos varones y mujeres de los dirigentes de alto grado de los cuales Zeng formaba parte (su padre, Zeng &lt;s0/&gt; Shan, se unió a Mao en el período Jiangxi y al final terminó dirigiendo el Ministerio del Interior).</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T124319Z">
+        <seg>No había ninguna duda de que Hu y Wen conocían con detalle la pobreza del interior del país y de que su preocupación por esta región se solía oponer a la orientación costera de la "facción de Shanghái" de Jiang y Zeng. De manera similar, el respaldo popular que Hu recibía de la Liga de la Juventud Comunista, que alguna vez dirigió, contrastaba con la gran influencia que Jiang tenía en los gaogan zidi, los hijose hijas de los dirigentes de alto cuadro de los cuales Zeng era uno (su padre, Zeng&lt;s0/&gt; Shan, se unió a Mao en el período Jiangxi y al final terminó dirigiendo el Ministerio del Interior).</seg>
       </tuv>
     </tu>
     <tu>
