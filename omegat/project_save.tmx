@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21621,8 +21621,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Whereas A Third Eye focused primarily on domestic social and political issues with a nationalistic slant, China Can Say No was an unabashed outpouring of nationalistic feeling with little attention to domestic issues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160917T071248Z">
-        <seg>Mientras que Un tercer ojo retomó principalmente temas sociales y políticos internos con un enfoque nacionalista, China puede decir no fue un desahogo descarado de un sentimiento nacionalista con muy poco interés en temas internos.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T040804Z">
+        <seg>Mientras que Un tercer ojo retomó principalmente temas sociales y políticos internos con un enfoque nacionalista, China puede decir no fue un desahogo descarado de un sentimiento nacionalista con muy poco interés hacia temas internos.</seg>
       </tuv>
     </tu>
     <tu>
