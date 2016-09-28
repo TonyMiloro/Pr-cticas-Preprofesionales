@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4340,8 +4340,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As the manifesto put it, “people who uphold this view actually want the state to bear all the losses so that different types of capital can&lt;t59/&gt; make their earnings.” Doing so, the manifesto declared, would end up turning the state-owned economy into one that is “mainly in the service of foreign capital.”&lt;t60/&gt;79</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T230526Z" creationid="Eloisa" creationdate="20160928T230212Z">
-        <seg>Como lo expresa el manifiesto, “quienes defienden esta opinión en realidad quieren que el estado bear todas las pérdidas para que los diferentes tipos de capital puedan&lt;t59/&gt; make their earnings.” Doing so, the manifesto declared, would end up turning the state-owned economy into one that is “mainly in the service of foreign capital.”&lt;t60/&gt;79</seg>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T230835Z" creationid="Eloisa" creationdate="20160928T230212Z">
+        <seg>Como lo expresa el manifiesto, “quienes defienden esta opinión en realidad quieren que el estado muestre todas las pérdidas para que los diferentes tipos de capital puedan&lt;t59/&gt; lograr sus ingresos.” Hacer eso, declaró el manifiesto, terminaría por convertir la economía estatal en una que es "principalmente al servicio del capital extranjero."&lt;t60/&gt;79</seg>
       </tuv>
     </tu>
     <tu>
