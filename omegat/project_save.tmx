@@ -1792,6 +1792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The left reacted quickly and strongly to the expression of these more liberal views.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201916Z" creationid="marcelo lavarda" creationdate="20160928T201916Z">
+        <seg>[parcial]La izquierda reaccionó rápida y considerablemente a la expresión de estas opiniones más liberales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The leftist assault continued even as Deng Xiaoping lay dying.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201815Z" creationid="marcelo lavarda" creationdate="20160928T201815Z">
