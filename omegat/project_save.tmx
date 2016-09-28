@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15139,8 +15139,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One reason was that many government officials share – even if on a more sophisticated level – the authors’ view that US actions are guided by national interest, that concern with human rights is a smoke screen for opposing China, and that US policy is based on containment and/or subversion.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T032836Z">
-        <seg>Una razón era que muchos funcionarios gubernamentales compartían, aunque en un nivel más sofisticado, la visión de los autores: que las acciones de EE.UU son guiadas por un interés nacional, que la preocupación por los derechos humanos son una cortina de humo para oponerse a China, y que la política estadounidense se basa en contención y/o subversión.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T213009Z">
+        <seg>Una razón era que muchos funcionarios gubernamentales compartían, aunque en un nivel más sofisticado, la visión de los autores sobre  las acciones de EE.UU que son guiadas por un interés nacional, que la preocupación por los derechos humanos son una cortina de humo para oponerse a China, y que la política estadounidense se basa en contención y/o subversión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20304,8 +20304,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They cited US efforts to block China’s bid to host the 2000 Olympics, the Yin He incident, opposition to China’s GATT/WTO bid, the Taiwan issue (especially Lee Teng-hui’s visit to the US), American support for Tibet, and alleged CIA activity in China to account for their &lt;t0/&gt;changed attitudes.74 They had come to realize, they claimed, that the United States was not the bastion of idealism that it claimed to be; “human rights” was merely a fac¸ade behind which America pursued its national interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T025344Z">
-        <seg>En su libro citaron los esfuerzos de EE.UU para impedir la oferta que habia hecho China para recibir las Olimpíadas 2000; el incidente de Yin He, la oposición a la oferta del GATT (Acuerdo General sobre Aranceles y Comercio) y la OMC (Organización Mundial del Comercio) de China; los problemas de Taiwán (en especial la visita de Lee Teng-hui's a Estados Unidos); el apoyo de Estados Unidos a Tibet; la supuesta participación de la CIA en China para informar los &lt;t0/&gt;cambios de actitud. Aseguraron también que se habían dado cuenta de que Estados Unidos no era el bastión del idealismo que decía ser: los ''derechos humanos'' solo eran una fachada detrás de la cual estaban los intereses nacionales que este país perseguía. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T212710Z">
+        <seg>En su libro citaron los esfuerzos de EE.UU para impedir la oferta que habia hecho China para recibir las Olimpíadas 2000; el incidente de Yin He, la oposición a la oferta del GATT (Acuerdo General sobre Aranceles y Comercio) y la OMC (Organización Mundial del Comercio) de China; los problemas de Taiwán (en especial la visita de Lee Teng-hui a Estados Unidos); el apoyo de Estados Unidos a Tibet; la supuesta participación de la CIA en China para informar los &lt;t0/&gt;cambios de actitud. Aseguraron también que se habían dado cuenta de que Estados Unidos no era el bastión del idealismo que decía ser: los ''derechos humanos'' solo eran una fachada detrás de la cual estaban los intereses nacionales que este país perseguía. </seg>
       </tuv>
     </tu>
     <tu>
