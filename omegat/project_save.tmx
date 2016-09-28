@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3484,8 +3484,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Any attempt to advocate using Comrade Deng &lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;Xiaoping’s theories to negate or replace Marxism as the guiding principle for revolution and construction in China is idealist and goes against the ‘Communist Manifesto.’ No doctrine or theory, now or in the future, can replace Marxist truth and science.”&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;23&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;In September, more or less the same cast of characters convened a meeting in Shijiazhuang, the capital of Hebei province.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Diego" changedate="20160928T005917Z" creationid="Diego" creationdate="20160928T005513Z">
-        <seg>Any attempt to advocate using Comrade Deng &lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;Xiaoping’s theories to negate or replace Marxism as the guiding principle for revolution and construction in China is idealist and goes against the ‘Communist Manifesto.’ No doctrine or theory, now or in the future, can replace Marxist truth and science.”&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;23&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;In September, more or less the same cast of characters convened a meeting in Shijiazhuang, the capital of Hebei province.Al parecer, Deng Liqun fue demasiado lejos al insinuar que las posturas de Deng eran en sí mismas revisionistas: “Las teorías de Deng Liqn deben ser puestas en práctica para demostrar si son apropiadas o no. Cualquier intento de defender el uso de las teorías del camarada Deng &lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;Xiaoping para negar o reemplazar al marxismo como el principio rector para la revolución y la construcción de China es idealista y va en contra del Manifiesto Comunista. Ninguna doctrina o teoría, ya sea ahora o en el futuro, puede reemplazar a la ciencia y verdad del maxismo”23. En septiembre, prácticamente el mismo elenco de personajes convocó una reunión en Shijiazhuang, capital de la provincia de Hebei. </seg>
+      <tuv lang="ES-US" changeid="Diego" changedate="20160928T010003Z" creationid="Diego" creationdate="20160928T005513Z">
+        <seg>Al parecer, Deng Liqun fue demasiado lejos al insinuar que las posturas de Deng eran en sí mismas revisionistas: “Las teorías de Deng Liqn deben ser puestas en práctica para demostrar si son apropiadas o no. Cualquier intento de defender el uso de las teorías del camarada Deng &lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;Xiaoping para negar o reemplazar al marxismo como el principio rector para la revolución y la construcción de China es idealista y va en contra del Manifiesto Comunista. Ninguna doctrina o teoría, ya sea ahora o en el futuro, puede reemplazar a la ciencia y verdad del maxismo”&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;23&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;. En septiembre, prácticamente el mismo elenco de personajes convocó una reunión en Shijiazhuang, capital de la provincia de Hebei. </seg>
       </tuv>
     </tu>
     <tu>
