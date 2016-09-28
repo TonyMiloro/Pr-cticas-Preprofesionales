@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6268,8 +6268,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Democracy activists and their supporters in theWest continued to see issues largely as they had in the 1980s, hoping that a democratic movement would &lt;f0&gt;bring down the old order and bring forth a new democratic order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002350Z">
-        <seg>Estos activistas a favor de la democracia y sus adeptos en Occidente continuaron viendo asuntos en gran parte como lo habían hecho en la década de los 80, con la esperanza de que un gobierno democrático&lt;f0&gt; abatiera al viejo orden y diera lugar a un nuevo orden democrático.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002723Z">
+        <seg>Estos activistas a favor de la democracia y sus adeptos en Occidente continuaron viendo asuntos en gran parte como lo habían hecho en la década de los 80, con la esperanza de que un gobierno democrático&lt;f0&gt; abatiera al viejo orden y diera lugar a unp nuevo.</seg>
       </tuv>
     </tu>
     <tu>
