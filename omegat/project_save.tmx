@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1890,8 +1890,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The previous discussion dealt with the way in which a number of influential intellectuals responded to China’s domestic and international situation in the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T001544Z">
-        <seg>&lt;f0&gt;La discusión previa trató la manera en que varios intelectuales influyentes respondieron a la situación nacional e internacional en China en los 90.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T224625Z">
+        <seg>&lt;f0&gt;La discusión previa examinó la manera en la que varios intelectuales influyentes respondieron a la situación nacional e internacional de China en los 90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9650,8 +9650,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If populism was in the air, no one had yet tapped this vein to show that their ideas actually had popular support.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T232154Z">
-        <seg>Si el populismo estaba en el aire, todavía nadie había utilizado esta forma para demostrar que sus ideas realmente tenían apoyo popular.&lt;/f3&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T224629Z">
+        <seg>Si el populismo estaba en el aire, todavía nadie había utilizado esa forma para demostrar que sus ideas realmente tenían apoyo popular.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
