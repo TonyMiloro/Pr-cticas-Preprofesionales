@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9212,6 +9212,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Yani" changedate="20160922T185446Z">
         <seg>La sucesión de Hu fue más el resultado del equilibrio de poder en el partido, de los talentos propios de Hu como líder político y del peso de los arreglos de Deng Xiaoping que un indicio de institucionalización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hu’s ﬁrst public appearance after being named general secretary was to deliver a speech on the twentieth anniversary of the promulgation of China’s 1982 constitution (which had been drawn up in the wake of the CulturalRevolution).&lt;f0&gt;Stressing the need to&lt;/f0&gt;“rule the country through law” (the theme of the Fifteenth Party Congress in 1997), Hu declared that “no organization or individual can be permitted the special privilege of going outside the constitution and the law” and that “all Party organizations at various levels and all Party members must act as models in upholding the constitution, strictly manage affairs in accordance with the constitution, and conscientiously operate within the scope of the constitution and law.” Hu’s emphasis on law not only continued a policy enunciated by Jiang Zemin (and, before him, Deng Xiaoping), but also marked good strategy for someone still in a precarious position politically.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T183701Z" creationid="andrea" creationdate="20160928T183701Z">
+        <seg>La primera aparición en público de Hu después de ser nombrado secretario general fue para dar un discurso sobre el vigésimo aniversario de la promulgación de la constitución de China en 1982 (la que fue elaborada a raíz de la Revolución Cultural).&lt;f0&gt;Stressing the need to&lt;/f0&gt;“rule the country through law” (the theme of the Fifteenth Party Congress in 1997), Hu declared that “no organization or individual can be permitted the special privilege of going outside the constitution and the law” and that “all Party organizations at various levels and all Party members must act as models in upholding the constitution, strictly manage affairs in accordance with the constitution, and conscientiously operate within the scope of the constitution and law.” Hu’s emphasis on law not only continued a policy enunciated by Jiang Zemin (and, before him, Deng Xiaoping), but also marked good strategy for someone still in a precarious position politically.</seg>
       </tuv>
     </tu>
     <tu>
