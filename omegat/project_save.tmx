@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1842,8 +1842,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The obvious resistance to publicizing Deng’s trip – and the subsequent process of yielding partially while continuing to resist – reflects the very ambiguous nature of authority relations at the highest level of the CCP in the early 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013620Z">
-        <seg>La resistencia evidente a hacer público el viaje de Deng (y el posterior proceso de cesión parcial y la continuación de la resistencia en forma simultánea) es un reflejo de la naturaleza extremadamente ambigua de las relaciones en las altas esferas del PCCh a comienzo de la década de 1990&lt;f0&gt;.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T205225Z">
+        <seg>La resistencia evidente a hacer público el viaje de Deng (y el posterior proceso de cesión parcial y la continuación de la resistencia en forma simultánea) es un reflejo de la naturaleza extremadamente ambigua de las relaciones de autoridad en las altas esferas del PCCh a comienzo de la década de 1990&lt;f0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17674,8 +17674,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>The Debate Continues</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165409Z" creationid="Soledad Mori" creationdate="20160927T165409Z">
-        <seg>El debate continúa</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T202758Z" creationid="Soledad Mori" creationdate="20160927T165409Z">
+        <seg>El Debate Continúa</seg>
       </tuv>
     </tu>
     <tu>
@@ -18004,8 +18004,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The authority conferred by this resolution is ambiguous, though, since “helmsman” was not a formal position and it was not clear whether Deng’s wishes still needed to be obeyed in the same way as before his retirement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T000733Z">
-        <seg>La autoridad que confería esta resolución es ambigua ya que el título de"timonel" no era una posición formal y ya que no quedaba claro si aún tenían que obedecerse los deseos de Deng de la misma forma en la que se los obedecía antes de su retiro. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T205537Z">
+        <seg>Sin embargo, la autoridad que confería esta resolución es ambigua ya que el título de"timonel" no era una posición formal y ya que no quedaba claro si aún tenían que obedecerse los deseos de Deng de la misma forma en la que se los obedecía antes de su retiro. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19607,8 +19607,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The struggle for dominance</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T012149Z">
-        <seg>La lucha por el dominio</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T202659Z">
+        <seg>La Lucha por el Dominio</seg>
       </tuv>
     </tu>
     <tu>
@@ -21346,8 +21346,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, the Thirteenth Party Congress passed a secret resolution to refer all major decisions to Deng Xiaoping as the “helmsman” of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193409Z">
-        <seg>Por ello, el XIII Congreso Nacional del Partido Comunista de China aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping, quien era reconocido como el "timonel" del Partido.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T205405Z">
+        <seg>Por ello, el DécimotercerCongreso Nacional del Partido Comunista de China aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping, quien era reconocido como el "timonel" del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22754,8 +22754,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the Tiananmen incident, Deng’s prestige within the Party plummeted, weakening his ability to exercise informal authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T002521Z">
-        <seg>Debido al incidente de Tiananmen, el prestigio de Deng dentro del Partido se vio reducido en forma considerable. Como consecuencia, su capacidad para ejercer autoridad informal se había debilitado.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T210133Z">
+        <seg>Debido al incidente de Tiananmen, el prestigio de Deng dentro del Partido se vio reducido en forma considerable. Como consecuencia se debilitó su capacidad para ejercer autoridad informal.</seg>
       </tuv>
     </tu>
     <tu>
