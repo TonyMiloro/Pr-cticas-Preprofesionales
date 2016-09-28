@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19046,8 +19046,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The manifesto went on to a&lt;t51/&gt;rgue that, if small enterprises were privatized (the intention of the policy), then “the immense majority of the working class will become wage workers, and class polariza- tion will become a general phenomenon.”&lt;t52/&gt;78&lt;t53/&gt; &lt;t54/&gt;The manife&lt;t55/&gt;sto also took issue with the proposal that the state sector of the economy be reduced to around &lt;t56/&gt;20 &lt;t57/&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T215827Z" creationid="Eloisa" creationdate="20160928T214932Z">
-        <seg>El manifiesto went on to a&lt;t51/&gt;rgue that, si las pequeñas emprezas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase immense majority of the working class will become wage workers, and class polariza- tion will become a general phenomenon.”&lt;t52/&gt;78&lt;t53/&gt; &lt;t54/&gt;The manife&lt;t55/&gt;sto also took issue with the proposal that the state sector of the economy be reduced to around &lt;t56/&gt;20 &lt;t57/&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T215912Z" creationid="Eloisa" creationdate="20160928T214932Z">
+        <seg>El manifiesto went on to a&lt;t51/&gt;rgue that, si las pequeñas emprezas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se volvería become wage workers, and class polariza- tion will become a general phenomenon.”&lt;t52/&gt;78&lt;t53/&gt; &lt;t54/&gt;The manife&lt;t55/&gt;sto also took issue with the proposal that the state sector of the economy be reduced to around &lt;t56/&gt;20 &lt;t57/&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
       </tuv>
     </tu>
     <tu>
