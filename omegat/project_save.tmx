@@ -6252,8 +6252,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Citing Jiang Zemin’s&lt;t12/&gt; &lt;t13/&gt;1996 &lt;t14/&gt;statement&lt;t15/&gt; &lt;t16/&gt;that&lt;t17/&gt; &lt;t18/&gt;China&lt;t19/&gt; &lt;t20/&gt;should&lt;t21/&gt; “&lt;t22/&gt;always&lt;t23/&gt; &lt;t24/&gt;maintain&lt;t25/&gt; &lt;t26/&gt;the&lt;t27/&gt; &lt;t28/&gt;dominant&lt;t29/&gt; &lt;t30/&gt;position&lt;t31/&gt; &lt;t32/&gt;of the&lt;t33/&gt; &lt;t34/&gt;public&lt;t35/&gt; &lt;t36/&gt;sector,”&lt;t37/&gt; &lt;t38/&gt;the&lt;t39/&gt; &lt;t40/&gt;manifesto&lt;t41/&gt; &lt;t42/&gt;argued&lt;t43/&gt; &lt;t44/&gt;that&lt;t45/&gt; “&lt;t46/&gt;dominance&lt;t47/&gt;” &lt;t48/&gt;cannot&lt;t49/&gt; &lt;t50/&gt;be rede- fined to mean that the state could simply hold a predominant share of assets within the national economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T214440Z" creationid="Eloisa" creationdate="20160928T213526Z">
-        <seg>Citando la declaración&lt;t12/&gt; &lt;t13/&gt;de Jiang Zemin &lt;t14/&gt;de 1996&lt;t15/&gt; &lt;t16/&gt;de que&lt;t17/&gt; &lt;t18/&gt;China&lt;t19/&gt; &lt;t20/&gt;debería&lt;t21/&gt; “&lt;t22/&gt;mantener&lt;t23/&gt; &lt;t24/&gt;siempre&lt;t25/&gt; &lt;t26/&gt;la&lt;t27/&gt; &lt;t28/&gt;posición&lt;t29/&gt; &lt;t30/&gt;dominante&lt;t31/&gt; &lt;t32/&gt;del&lt;t33/&gt; &lt;t34/&gt;sector&lt;t35/&gt; &lt;t36/&gt;público,”&lt;t37/&gt; &lt;t38/&gt;el&lt;t39/&gt; &lt;t40/&gt;manifiesto&lt;t41/&gt; &lt;t42/&gt;sostenía&lt;t43/&gt; &lt;t44/&gt;que el&lt;t45/&gt; “&lt;t46/&gt;dominio&lt;t47/&gt;” &lt;t48/&gt;no puede&lt;t49/&gt; &lt;t50/&gt;redefinirse para significar que el estado simplemente podría hold a predominant share of assets within the national economy.</seg>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T214649Z" creationid="Eloisa" creationdate="20160928T213526Z">
+        <seg>Citando la declaración&lt;t12/&gt; &lt;t13/&gt;de Jiang Zemin &lt;t14/&gt;de 1996&lt;t15/&gt; &lt;t16/&gt;de que&lt;t17/&gt; &lt;t18/&gt;China&lt;t19/&gt; &lt;t20/&gt;debería&lt;t21/&gt; “&lt;t22/&gt;mantener&lt;t23/&gt; &lt;t24/&gt;siempre&lt;t25/&gt; &lt;t26/&gt;la&lt;t27/&gt; &lt;t28/&gt;posición&lt;t29/&gt; &lt;t30/&gt;dominante&lt;t31/&gt; &lt;t32/&gt;del&lt;t33/&gt; &lt;t34/&gt;sector&lt;t35/&gt; &lt;t36/&gt;público,”&lt;t37/&gt; &lt;t38/&gt;el&lt;t39/&gt; &lt;t40/&gt;manifiesto&lt;t41/&gt; &lt;t42/&gt;sostenía&lt;t43/&gt; &lt;t44/&gt;que el&lt;t45/&gt; “&lt;t46/&gt;dominio&lt;t47/&gt;” &lt;t48/&gt;no puede&lt;t49/&gt; &lt;t50/&gt;redefinirse para significar que el estado simplemente podría tomar una parte predominante de activos dentro de la economía nacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19040,6 +19040,14 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160928T144432Z">
         <seg>Los vínculos entre el Estado y los intelectuales se han multiplicado, y distintos tipos de intereses dentro del Estado han intentado manipular a los intelectuales para que apoyen sus ideas, así como los intelectuales han intentado que la opinión pública apoye sus ideas y las lleven al gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The manifesto went on to a&lt;t51/&gt;rgue that, if small enterprises were privatized (the intention of the policy), then “the immense majority of the working class will become wage workers, and class polariza- tion will become a general phenomenon.”&lt;t52/&gt;78&lt;t53/&gt; &lt;t54/&gt;The manife&lt;t55/&gt;sto also took issue with the proposal that the state sector of the economy be reduced to around &lt;t56/&gt;20 &lt;t57/&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T215827Z" creationid="Eloisa" creationdate="20160928T214932Z">
+        <seg>El manifiesto went on to a&lt;t51/&gt;rgue that, si las pequeñas emprezas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase immense majority of the working class will become wage workers, and class polariza- tion will become a general phenomenon.”&lt;t52/&gt;78&lt;t53/&gt; &lt;t54/&gt;The manife&lt;t55/&gt;sto also took issue with the proposal that the state sector of the economy be reduced to around &lt;t56/&gt;20 &lt;t57/&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
       </tuv>
     </tu>
     <tu>
