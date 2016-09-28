@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10483,8 +10483,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In some ways, the relationship between the state and the intellectuals in the 1990s continued this trend toward separation, but both the character of the state and that of the intellectuals – not to mention the content of intellectual discussions – have changed greatly, so the relationship between the two arenas is substantially different from&lt;t0/&gt; &lt;t1/&gt;what prevailed in the 1980s.On the one hand, political leaders are themselves much better educated than any previous Chinese leadership of the twentieth century.&lt;t2/&gt; In the &lt;t3/&gt;1990s&lt;t4/&gt; CCP general secretary Jiang&lt;t5/&gt; &lt;t6/&gt;Zemin&lt;t7/&gt; was a graduate of Shanghai’s famous technical institute, &lt;t8/&gt;Jiaotong&lt;t9/&gt; University, while Premier Zhu &lt;t10/&gt;Rongji&lt;t11/&gt; was a graduate of the even better known &lt;t12/&gt;Qinghua&lt;t13/&gt; University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160928T142822Z">
-        <seg>En cierto sentido, el vínculo entre el Estado y los intelectuales en la década de los 90 seguía una línea de distanciamiento, pero el carácter del Estado y de los intelectuales, sin mencionar el contenido de las debates intelectuales, cambió mucho, por lo que la relación entre las dos esferas difiere en gran medida de la que existía en la década de los 80. Por otro lado, los líderes políticos tienen un nivel de educación más alto que cualquier grupo de líderes chinos del siglo xx. En los 90, el secretario general del PCCh Jiang Zemin era egresado del famoso instituto técnico de Shanghái, la Universidad Jiao Tong, mientras que el primer ministro Zhu Rongji era egresado de la incluso más prestigiosa Universidad de Qinghua&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T144811Z">
+        <seg>En cierto sentido, el vínculo entre el Estado y los intelectuales en la década de los 90 seguía una línea de distanciamiento, pero el carácter del Estado y de los intelectuales, sin mencionar el contenido de las debates intelectuales, cambió mucho, por lo que la relación entre las dos esferas difiere en gran medida de la que existía en la década de los 80. Por otro lado, los líderes políticos tienen un nivel de educación más alto que cualquier grupo de líderes chinos del siglo xx. En los 90, el secretario general del PCCh Jiang Zemin era egresado del famoso instituto técnico de Shanghái, la Universidad Jiao Tong, mientras que el primer ministro Zhu Rongji era egresado de la incluso más prestigiosa Universidad de Qinghua.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
