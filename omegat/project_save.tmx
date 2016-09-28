@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1906,8 +1906,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The young nationalist Wang Xiaodong, writing under his pen name Shi Zhong, was one of those who expressed resentment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160925T222718Z">
-        <seg>&lt;f0&gt;Mientras escribía bajo su seudónimo Shi Zhong, el joven nacionalista Wang Xiaodong fue uno de los que expresó resentimiento.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T222449Z" creationid="Usuario" creationdate="20160922T113811Z">
+        <seg>&lt;f0&gt;Mientras escribía bajo el seudónimo Shi Zhong, el joven nacionalista Wang Xiaodong fue uno de los que expresó resentimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,8 +2194,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;through the lens of China’s past: “The bitter history of Asian countries over more than a century shows that the countries of the West that came to Asia established a bloody colonial ruling order or semi-colonial ruling order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T133021Z">
-        <seg>&lt;f0&gt;a través del lente del pasado de China: "La historia amarga de los países asiáticos durante más de un siglo muestra que los países de Occidente que vinieron a Asia establecieron un orden dominante colonial o semicolonial sangriento.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T224004Z">
+        <seg>&lt;f0&gt;a través del lente del pasado de China: "La dura historia de los países asiáticos durante más de un siglo muestra que los países de Occidente que vinieron a Asia establecieron un orden dominante colonial o semicolonial sangriento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6548,8 +6548,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Cultural arguments, Wang said, often reflected politi-cal interests and sometimes expanded into armed conflict (as in Bosnia– Herzegovina).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T214140Z">
-        <seg>Wang dijo que los argumentos culturales frecuentemente reflejaron intereses políticos y a veces se convirtieron en conflictos armados (como en Bosnia-Herzegovina).</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T223652Z">
+        <seg>Wang expresó que los argumentos culturales frecuentemente reflejaron intereses políticos y a veces se convirtieron en conflictos armados (como en Bosnia-Herzegovina).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9458,8 +9458,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>I also find it hard to believe that the pragmatic American people are willing to spend that much capital to surround us because we believe in Marxism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T121247Z">
-        <seg>También me cuesta creer que el pueblo estadounidense pragmático esté dispuesto a gastar tanto capital en rodearnos porque creemos en el marxismo.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T222544Z" creationid="Usuario" creationdate="20160922T121247Z">
+        <seg>También me cuesta creer que el pragmático pueblo estadounidense esté dispuesto a gastar tanto capital en rodearnos porque creemos en el marxismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9626,8 +9626,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If one nation is able to establish international norms [&lt;/f0&gt;&lt;f1&gt;guifan&lt;/f1&gt;&lt;f2&gt;] that are consistent with its domestic society, there is no need for it to change itself.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T000900Z">
-        <seg>Si una nación es capaz de establecer normas internacionales [&lt;/f0&gt;&lt;f1&gt;guifan&lt;/f1&gt;&lt;f2&gt;] que son congruentes con la sociedad nacional, no hay necesidad de que se cambie a si misma.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T223934Z">
+        <seg>Si una nación es capaz de establecer normas internacionales [&lt;/f0&gt;&lt;f1&gt;guifan&lt;/f1&gt;&lt;f2&gt;] que son congruentes con la sociedad nacional, no hay necesidad de que cambie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9674,8 +9674,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If the culture and ideology of one nation-state is attractive, other people will voluntarily follow it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T113503Z">
-        <seg>Si la cultura y la ideología de un Estado-Nación es atractivo, otras personas lo seguirán voluntariamente.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T223835Z">
+        <seg>Si la cultura y la ideología de un Estado-Nación son atractivos, otras personas lo seguirán voluntariamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13874,8 +13874,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, cultural influence was directly related to political and economic strength, so developed countries were often comfortable talking in terms of an “erosion of sovereignty” while developing countries found that such “cultural expansionism” often ended up threatening polit-ical stability and national sovereignty.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T214657Z">
-        <seg>Además, la influencia cultural estaba directamente relacionada con la fuerza política y económica, por lo tanto los países desarrollados estaban a menudo cómodos al hablar desde el punto de vista de una "erosión de la soberanía" mientras que los países en desarrollo descubrieron que ese "expansionismo cultural" muchas veces terminaba amenazando la estabilidad política y la soberanía nacional.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T223628Z">
+        <seg>Además, la influencia cultural estaba directamente relacionada con la fuerza política y económica, por lo tanto los países desarrollados se encontraban cómodos al hablar desde el punto de vista de una "erosión de la soberanía" mientras que los países en desarrollo descubrieron que ese "expansionismo cultural" muchas veces terminaba amenazando la estabilidad política y la soberanía nacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19543,8 +19543,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The reason that the US does not like us is because we are strong; we have the possibility of developing and then could be an obstacle to America’s special place in the world.&lt;/f0&gt;&lt;f1&gt;38&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T133331Z">
-        <seg>La razón por la cual no le gustamos a EE. UU. es porque somos fuertes; tenemos la posibilidad de desarrollarnos y así convertirnos en un obstáculo en el lugar especial que ocupa Estados Unidos en el mundo&lt;/f0&gt;&lt;f1&gt;38&lt;/f1&gt;.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T222700Z" creationid="Usuario" creationdate="20160922T121415Z">
+        <seg>La razón por la cual no le agradamos a EE. UU. es porque somos fuertes; tenemos la posibilidad de desarrollarnos y así ser un obstáculo para el lugar especial que ocupa Estados Unidos en el mundo&lt;/f0&gt;&lt;f1&gt;38&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22130,8 +22130,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang Huning, then about to move to Beijing to work with Jiang Zemin, offered a more subtle critique, one that reflected the cultural concerns taken up in New Left critiques.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T000615Z">
-        <seg>En ese momento a punto de mudarse a Beijing para trabajar con Jiang Zemin, Wang Huning ofreció una crítica más sutil; una que reflejaba las preocupaciones culturales abordadas por las críticas de la nueva izquierda.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T223520Z">
+        <seg>Cuando estaba por mudarse a Pekín para trabajar con Jiang Zemin, Wang Huning ofreció una crítica más sutil; una que reflejaba las preocupaciones culturales abordadas por las críticas de la nueva izquierda.</seg>
       </tuv>
     </tu>
     <tu>
