@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2356,6 +2356,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T130926Z">
         <seg>En&lt;t2/&gt;Gestión y Estrategia&lt;t3/&gt; se hizo justamente eso durante el simposio de la edición de junio de 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;The story of intellectual development in the 1980s was one of critical self-examination (how could the Cultural Revolution have occurred?), of a cosmopolitan opening to the world, and of democratic hope and aspiration (though a serious investigation of these attitudes needs to include a critical analysis of underlying assumptions about democracy).10 By the 1990s, many intellectuals were more supportive of their own government and more critical of the West than at any time since the May Fourth Movement of 1919.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T142710Z" creationid="Nico" creationdate="20160928T142710Z">
+        <seg>La historia del desarrollo intelectual en la década de los 80 fue una etapa de indagación autocrítica (¿cómo pudo haber ocurrido la revolución cultural?), de una apertura cosmopolita al mundo, y de esperanza y aspiración democrática (aunque una investigación seria de estas posturas debe incluir un análisis crítico de las suposiciones subyacentes acerca de la democracia)10. En la década de los 90, muchos intelectuales estaban más a favor de su propio gobierno y eran más críticos respecto a Occidente que en cualquier otro momento desde el Movimiento del Cuatro de Mayo de 1919.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10475,8 +10483,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In some ways, the relationship between the state and the intellectuals in the 1990s continued this trend toward separation, but both the character of the state and that of the intellectuals – not to mention the content of intellectual discussions – have changed greatly, so the relationship between the two arenas is substantially different from&lt;t0/&gt; &lt;t1/&gt;what prevailed in the 1980s.On the one hand, political leaders are themselves much better educated than any previous Chinese leadership of the twentieth century.&lt;t2/&gt; In the &lt;t3/&gt;1990s&lt;t4/&gt; CCP general secretary Jiang&lt;t5/&gt; &lt;t6/&gt;Zemin&lt;t7/&gt; was a graduate of Shanghai’s famous technical institute, &lt;t8/&gt;Jiaotong&lt;t9/&gt; University, while Premier Zhu &lt;t10/&gt;Rongji&lt;t11/&gt; was a graduate of the even better known &lt;t12/&gt;Qinghua&lt;t13/&gt; University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131205Z">
-        <seg>En cierto sentido, el vínculo entre el estado y los intelectuales en la década de los noventa seguía una línea de distanciamiento, pero el carácter de tanto el estado como de los intelectuales, sin mencionar el contenido de las discusiones intelectuales, cambió mucho, por lo que la relación entre las dos esferas difiere en gran medida de la que existía en la década de los ochenta. Por otro lado, los líderes políticos tienen un nivel de educación más alto que cualquier grupo de líderes chinos del siglo 20. En los noventa, el secretario general del PCCh Jiang Zemin era egresado del famoso instuto técnico de Shanghai, la Universidad Jiaoton, mientras que el primer ministro Zhu Rongji era egresado de la incluso más prestigiosa Universidad de Qinghua.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T142822Z">
+        <seg>En cierto sentido, el vínculo entre el Estado y los intelectuales en la década de los 90 seguía una línea de distanciamiento, pero el carácter del Estado y de los intelectuales, sin mencionar el contenido de las debates intelectuales, cambió mucho, por lo que la relación entre las dos esferas difiere en gran medida de la que existía en la década de los 80. Por otro lado, los líderes políticos tienen un nivel de educación más alto que cualquier grupo de líderes chinos del siglo xx. En los 90, el secretario general del PCCh Jiang Zemin era egresado del famoso instituto técnico de Shanghái, la Universidad Jiao Tong, mientras que el primer ministro Zhu Rongji era egresado de la incluso más prestigiosa Universidad de Qinghua&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19089,6 +19097,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T135535Z">
         <seg>La parte escandalosa de la historia es que a los que les fue bien con esta nueva economía (y a algunos les fue muy bien de verdad) casi siempre parecían tener fuertes conexiones políticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second area that needs to &lt;t0/&gt;be investigated&lt;t1/&gt; is that of the changing intellectual attitudes and concerns in the years following Tiananmen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T142611Z" creationid="Nico" creationdate="20160928T142611Z">
+        <seg>La segunda área que debe indagarse es la del cambio en las posturas y las preocupaciones intelectuales en los años posteriores a Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
