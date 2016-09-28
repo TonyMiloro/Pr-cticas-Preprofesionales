@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T204238Z" creationid="PC" creationdate="20160928T204238Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Leadership of the Chinese Communist Party page 73</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160928T202751Z">
@@ -168,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>2 China since Tiananmen</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T030652Z">
-        <seg>2 China desde Tiananmén</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T204313Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -7375,8 +7383,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Even China’s diplomatic pariah status had vanished a decade and a half later as China emerged as an influential presence in world councils, espe-cially in Asia.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T194738Z">
-        <seg>Incluso estatus de paria diplomático de China se había desvanecido una década y media atrás, mientras el país surge como una presencia influyente en los consejos mundiales, especialmente en Asia.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T204435Z">
+        <seg>Incluso el estatus de paria diplomático de China se había desvanecido una década y media atrás, mientras el país surge como una presencia influyente en los consejos mundiales, especialmente en Asia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22362,8 +22370,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>What new understandings of politics emerged to transcend the disputes that had fed into Tiananmen?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160928T040300Z">
-        <seg>¿Qué nuevos conocimientos sobre política surgieron para trascender las disputas que habían derivado n la tragedia de Tiananmén? </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T204639Z">
+        <seg>¿Qué nuevos conocimientos sobre política surgieron para trascender las disputas que habían derivado en la tragedia de Tiananmén? </seg>
       </tuv>
     </tu>
     <tu>
@@ -24061,8 +24069,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>stepping down thirteen years later in 2002, and the Chinese economy not only continued to grow but to stir fears that it had become an unstoppable economic juggernaut as China became the manufacturing center of the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T203930Z">
-        <seg>su renuncia trece años más tarde en 2002. La economía de China no solo continuó creciendo sino que generó miedo porque se había transformado en un gigante imparable al convertirse en el centro manufacturero mundial.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T204016Z">
+        <seg>su renuncia trece años más tarde en 2002. La economía de China no solo continuó creciendo sino que causó alarma ya que se había transformado en un gigante imparable al convertirse en el centro manufacturero mundial.</seg>
       </tuv>
     </tu>
     <tu>
