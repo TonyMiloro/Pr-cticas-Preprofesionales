@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9610,8 +9610,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If it is difficult to make predictions about China, we can at least examine periods of history to better understand the reasons they developed as they did, not only to get a better understanding of the state of Chinese politics and society today but also to raise better questions about its development in the future.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160928T032851Z">
-        <seg>Si es difícil predecir qué puede suceder en China, al menos podemos examinar sus periodos históricos para entender mejor las razones detrás de su crecimiento, no solo para comprender el estado de la política china y su sociedad actual sino también para construir mejores interrogantes acerca de su desarrollo futuro.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T222616Z">
+        <seg>Si bien es difícil predecir qué puede suceder en China, al menos podemos examinar sus periodos históricos para entender mejor las razones detrás de su crecimiento, no solo para comprender el estado de la política china y su sociedad actual sino también para construir mejores interrogantes acerca de su desarrollo futuro.</seg>
       </tuv>
     </tu>
     <tu>
