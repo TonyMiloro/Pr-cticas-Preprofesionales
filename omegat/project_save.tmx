@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8978,8 +8978,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Here, we turn our attention back to high politics and particularly to the process through which Jiang Zemin consolidated his authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T165704Z">
-        <seg>En este caso, nos enfocamos en la alta política y particularmente en le proceso a través del cual Jiang Zemin consolidó su autoridad.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T220336Z">
+        <seg>En este caso, nos enfocamos en la alta política y particularmente en el proceso  a través del cual Jiang Zemin consolidó su autoridad.</seg>
       </tuv>
     </tu>
     <tu>
