@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7158,8 +7158,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the increasingly fierce competition (between nations and within nations) as multinational corporations increasingly became a part of domestic economies, China had no choice but to face up to this competition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Vere" changedate="20160928T221744Z" creationid="Vere" creationdate="20160928T221744Z">
-        <seg>A pesar de la competencia cada vez más feroz (entre naciones e internamente en cada nación), como las corporaciones multinacionales se volvían cada vez más parte de las economías domésticas, China no tenía otra opción que enfrentar esta competencia.</seg>
+      <tuv lang="ES-US" changeid="Vere" changedate="20160928T221805Z" creationid="Vere" creationdate="20160928T221744Z">
+        <seg>A pesar de la competencia cada vez más feroz (entre naciones e internamente en cada nación), como las corporaciones multinacionales se volvían cada vez más parte de las economías domésticas, China no tenía otra opción que hacer frente a esta competencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20594,6 +20594,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160908T013410Z">
         <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han surgido en paralelo con lo presentado en el Capítulo&lt;s7/&gt;&lt;/f6&gt;&lt;a8&gt;&lt;f9&gt;4&lt;/f9&gt;&lt;f10&gt;.&lt;s11/&gt;&lt;/f10&gt;&lt;/a8&gt;&lt;f12&gt;Nos centraremos, en especial, en dos acontecimientos que a simple vista parecen contradictorios: por un lado, la aparición de un organismo de pensamiento neoestatista basado en la "capacidad del Estado", y por el otro, el surgimiento del nacionalismo populista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This choice required self-confidence, the adoption of favorable government poli- cies (which were not specified, but protectionism was rejected as not very effective), and the retreat of government from enterprise&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;operations.&lt;/f6&gt;&lt;a7&gt;&lt;f8&gt;71&lt;/f8&gt;&lt;/a7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Vere" changedate="20160928T221835Z" creationid="Vere" creationdate="20160928T221835Z">
+        <seg>&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;a7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/a7&gt;</seg>
       </tuv>
     </tu>
     <tu>
