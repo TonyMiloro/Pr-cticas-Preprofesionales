@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2186,8 +2186,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s3/&gt;When one looks at this list,it is apparent that Zhu Rongji had succeeded in promoting Wen Jiabao as his replacement,Li Peng had succeeded in having his chosen replacement,Luo Gan,take over as head of the Political and</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T175111Z" creationid="andrea" creationdate="20160928T175111Z">
-        <seg>&lt;s3/&gt;Jiang fue capaz de acomodar esto tomando la extraordinaria medida de expandir el PBSC de siete a nueve miembros.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T180209Z" creationid="andrea" creationdate="20160928T175111Z">
+        <seg>&lt;s3/&gt;Cuando se mira esta lista, es evidente que Zhu Rongji tuvo éxito en proponer a Wen Jiabao como su reemplazo, Li Peng había tenido éxito en que la persona que eligió para reemplazarlo, Luo Gan, asumiera como dirigente de la política y</seg>
       </tuv>
     </tu>
     <tu>
