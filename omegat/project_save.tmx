@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10011,6 +10011,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T215358Z">
         <seg>En sus charlas, Deng manifestó que el mercado y la planificación eran dos "métodos" económicos (en vez de las características distintivas del capitalismo y el socialismo respectivamente) y sostuvo que cualquier cosa que promoviera la economía socialista era socialista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In his writings, Wang sees the changes in Chinese society and the growth of the econ- omy as demanding corresponding adjustments on the part of government,&lt;s21/&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T044414Z" creationid="Rocio" creationdate="20160928T044333Z">
+        <seg>En sus escritos, Wang considera que los cambios en la sociedad china y el crecimienton his writings, Wang sees the changes in Chinese society and the growth of the econ- omy as demanding corresponding adjustments on the part of government,&lt;s21/&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21237,8 +21245,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang sees China’s socialist system as contributing to the strengthening of public authority and to the concentration of resources needed to maintain social equilibrium; without such authority, there would be an “anarchic struggle for resources among individuals, groups, and regions” leading to general social insta- bility.&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;It should be noted that Wang’s prescription for strong public authority was not necessarily a plea for authoritarian rule.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T043807Z" creationid="Rocio" creationdate="20160928T043500Z">
-        <seg>Wang considera el sistema socialiste de China contribuye al fortalecimiento de la autoridad pública y a la concentración de recursos necesarios para mantener el equilibrio social. Sin esa autoridad, habría una "lucha anárquica entre los individuos, grupos y regiones", lo que llevaría a una inestabilidad social general.&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt; Cabe aclarar que la prescripción de Wang de una autoridad pública fuerte no necesariamente It should be noted that Wang’s prescription for strong public authority was not necessarily a plea for authoritarian rule.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T044305Z" creationid="Rocio" creationdate="20160928T043500Z">
+        <seg>Wang considera el sistema socialiste de China contribuye al fortalecimiento de la autoridad pública y a la concentración de recursos necesarios para mantener el equilibrio social. Sin esa autoridad, habría una "lucha anárquica entre los individuos, grupos y regiones", lo que llevaría a una inestabilidad social general.&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt; Cabe aclarar que la prescripción de Wang de una autoridad pública fuerte no necesariamenteera un pedido de un gobierno autoritario.</seg>
       </tuv>
     </tu>
     <tu>
