@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16965,8 +16965,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>The May Fourth tradition had always contained contradictory elements: a radical critique of traditional Chinese culture and a demand to learn from theWest combined with a nationalism that rejected cosmopolitanism in favor of nativism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160927T142030Z">
-        <seg>La tradición del Cuatro de Mayo siempre se compuso de elementos contradictorios: una crítica radical de la cultural tradicional china y una demanda de aprender del Oeste en combinación con un nacionalismo que rechazaba el cosmopolitismo en favor del nativismo.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T024136Z">
+        <seg>La tradición del Cuatro de Mayo siempre se compuso de elementos contradictorios: una crítica radical de la cultural tradicional china y una demanda de aprender del Occidente en combinación con un nacionalismo que rechazaba al cosmopolitismo en favor del nativismo.</seg>
       </tuv>
     </tu>
     <tu>
