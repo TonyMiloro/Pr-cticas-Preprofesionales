@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22474,8 +22474,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Qiao took over as head of the NPC in March &lt;/f2&gt;&lt;f3&gt;1993&lt;/f3&gt;&lt;f4&gt;, he was stripped of his other positions as secretary of the powerful Central Political and Legal Committee and president of the Central Party School.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201225Z">
-        <seg>Cuando Qiao llegó a la presidencia de la APN en marzo de 1993, se vio obligado a abandonar sus otros puestos como secretario de la poderosa Comisión Central de Asuntos Políticos y Legales del PCCh y rector de la Escuela del Partido del Comité Central del PCCh.&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T214629Z">
+        <seg>Cuando Qiao llegó a la presidencia de la APN en marzo de 1993, se vio obligado a abandonar sus otros puestos como secretario de la poderosa Comisión Central de Asuntos Políticos y Legales del PCCh y rector de la Escuela Central del Partido.&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
