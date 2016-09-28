@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1794,8 +1794,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The left reacted quickly and strongly to the expression of these more liberal views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201916Z" creationid="marcelo lavarda" creationdate="20160928T201916Z">
-        <seg>[parcial]La izquierda reaccionó rápida y considerablemente a la expresión de estas opiniones más liberales.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T202102Z" creationid="marcelo lavarda" creationdate="20160928T201916Z">
+        <seg>[parcial]La izquierda reaccionó rápida y considerablemente a la expresión de estas opiniones más liberales.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8112,8 +8112,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, in August &lt;/f0&gt;&lt;f1&gt;1996&lt;/f1&gt;&lt;f2&gt;, Yuan Mu – the conservative ideologue who achieved fame, and infamy,  as the public defender of the government in the days after Tiananmen in his role as spokesman of the State Council – gave a long speech at the national “Theoretical Symposium on the Question of Consolidating and Strengthening the Class Foundation of&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;the&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Ruling&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Party.”&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Yuan&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;was&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;clearly&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;exercised&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;by&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;trends&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;he&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;had&lt;/f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;seen&lt;/f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;f28&gt;in&lt;/f28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;the- oretical discussions, in policy decisions, and in the attitudes of many Party members.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201751Z" creationid="marcelo lavarda" creationdate="20160928T201751Z">
-        <seg>[parcial]Por ejemplo, en agosto de &lt;t0/&gt;1996&lt;t1/&gt;, Yuan Mu, el idéologo conservador que alcanzó la fama, y la deshonra, como el defensor público del gobier&lt;t2/&gt;no en los días posteriores a Tiananmen en su papel de portavoz del Consejo de Estado, dio un largo discurso en el “Theoretical Symposium on the Question of Consolidating and Strengthening the Class Foundation of&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;Ruling&lt;t7/&gt; &lt;t8/&gt;Party" (Simposio Teórico Nacional sobre la Custión de Consolidar y Fortalecer la Fundación de Clases del Partido &lt;t9/&gt; &lt;t10/&gt;Yuan&lt;t11/&gt; &lt;t12/&gt;se&lt;t13/&gt; &lt;t14/&gt;ejercía&lt;t15/&gt; &lt;t16/&gt;claramente&lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;por&lt;t20/&gt; &lt;t21/&gt;tendencias&lt;t22/&gt; &lt;t23/&gt;que&lt;t24/&gt; &lt;t25/&gt;había&lt;t26/&gt; &lt;t27/&gt;visto&lt;t28/&gt; &lt;t29/&gt;en&lt;t30/&gt; &lt;t31/&gt;discusiones teóricas, en decisiones de políticas y en las actitudes de varios miembros del partido.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T202110Z" creationid="marcelo lavarda" creationdate="20160928T201751Z">
+        <seg>[parcial]Por ejemplo, en agosto de &lt;t0/&gt;1996&lt;t1/&gt;, Yuan Mu, el idéologo conservador que alcanzó la fama, y la deshonra, como el defensor público del gobier&lt;t2/&gt;no en los días posteriores a Tiananmen en su papel de portavoz del Consejo de Estado, dio un largo discurso en el “Theoretical Symposium on the Question of Consolidating and Strengthening the Class Foundation of&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;Ruling&lt;t7/&gt; &lt;t8/&gt;Party" (Simposio Teórico Nacional sobre la Custión de Consolidar y Fortalecer la Fundación de Clases del Partido &lt;t9/&gt; &lt;t10/&gt;Yuan&lt;t11/&gt; &lt;t12/&gt;se&lt;t13/&gt; &lt;t14/&gt;ejercía&lt;t15/&gt; &lt;t16/&gt;claramente&lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;por&lt;t20/&gt; &lt;t21/&gt;tendencias&lt;t22/&gt; &lt;t23/&gt;que&lt;t24/&gt; &lt;t25/&gt;había&lt;t26/&gt; &lt;t27/&gt;visto&lt;t28/&gt; &lt;t29/&gt;en&lt;t30/&gt; &lt;t31/&gt;discusiones teóricas, en decisiones de políticas y en las actitudes de varios miembros del partido.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;&lt;/f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;</seg>
       </tuv>
     </tu>
     <tu>
