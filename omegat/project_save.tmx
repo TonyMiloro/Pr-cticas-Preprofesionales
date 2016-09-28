@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2330,8 +2330,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t2/&gt;First, among some intellectuals there has been a distinct trend away from the traditional role of intellectuals as the conscience of society, a role that has deep roots in China’s Confucian past.&lt;t3/&gt; &lt;t4/&gt;Assaulted by commercialization on the one hand and professionalization on the other, the tradition of the intellectual as generalist giving wise moral advice to the political leadership – the role assigned to the intellectual in the story of &lt;t5/&gt;Qu&lt;t6/&gt; Yuan, the second-century &lt;t7/&gt;BCE&lt;t8/&gt; adviser who drowned himself when disaster befell the king who had ignored &lt;t9/&gt;Qu’s&lt;t10/&gt; advice – has faded as many have retreated to the ivory tower.&lt;t11/&gt; Professionalism, however, is not necessarily contradictory to expressing moral conscience, so a second trend has been the combination of expertise with policy advice.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131128Z">
-        <seg>En primer lugar, entre algunos intelectuales ha habido una tendencia marcada que se aleja del rol tradicional de los intelectuales como la conciencia de la sociedad, un rol que tiene raices en el pasado confusiano de China. Atacado por la comercialización y la profesionalización, el rol tradicional del intelectual como generalista que da sabios consejos morales a los líderes políticos, el rol que tenía el intelectual en la historia de Qu Yuan, el consejero del siglo II a.C. que se ahogó cuando la desgracia cayó sobre el rey que había ignorado sus consejos, ha disminuido porque muchos se han exiliado a la torre de marfil. El profesionalismo, sin embargo, no es necesariamente contradictorio con expresar opiniones morales, por lo que una segunda tendencia ha consistido en combinar la especialización con el consejo político.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T143410Z">
+        <seg>en primer lugar, hubo una tendencia marcada entre algunos intelectuales que se aleja del rol tradicional de los intelectuales como la conciencia de la sociedad, un rol que tiene raíces en el pasado confuciano de China. Atacado por la comercialización y la profesionalización, el rol tradicional del intelectual como generalista que brinda sabios consejos morales a los líderes políticos (el rol que tenía el intelectual en la historia de Qu Yuan, el consejero del siglo II a.C. que se ahogó cuando la desgracia cayó sobre el rey que había ignorado sus consejos) disminuyó porque muchos se han exiliado a la torre de marfil. Sin embargo, el profesionalismo no es necesariamente incompatible con expresar opiniones morales, por lo que surgió una segunda tendencia que consiste en combinar la especialización con el consejo político.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9370,8 +9370,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If the nature of government leadership has changed, then the nature of the intellectual community has changed even more.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T171323Z">
-        <seg>Si bien la naturaleza de los líderes del gobierno cambió, la naturaleza de la comunidad intelectual cambió aun más.</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T143307Z">
+        <seg>Si bien la naturaleza de los líderes del gobierno cambió, la naturaleza de la comunidad intelectual cambió aún más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16172,8 +16172,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Several contradictory trends &lt;t0/&gt;can be observed&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131420Z">
-        <seg>Se observan diversas tendencias contradictorias.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T143326Z">
+        <seg>Se pueden observar diversas tendencias contradictorias:&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
