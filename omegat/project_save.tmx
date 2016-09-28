@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13184,8 +13184,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, reform strategy had led to a regional bias as TVEs along the east coast grew and developed while industry and living standards in the interior lagged behind.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T041119Z">
-        <seg>Además , la estrategia de reforma ha llevado a unainclinación regional como TVEs a lo largo de la costa oriental que ha crecido y desarrollado mientras que el nivel de vida en el interior ha decaido por detrás.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T012529Z">
+        <seg>Además , la estrategia de reforma ha llevado a una inclinación regional como TVE a lo largo de la costa oriental que ha crecido y desarrollado mientras que la industria y el nivel de vida en el interior ha quedado por detrás.</seg>
       </tuv>
     </tu>
     <tu>
