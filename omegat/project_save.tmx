@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1866,8 +1866,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang was also interested in the role of public values in forging political unity.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T044720Z" creationid="Rocio" creationdate="20160928T044720Z">
-        <seg>&lt;f0&gt;Wang .</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T044746Z" creationid="Rocio" creationdate="20160928T044720Z">
+        <seg>&lt;f0&gt;Wang también se interesaba por el rol de los valores públicos en la formación de la unidad política.</seg>
       </tuv>
     </tu>
     <tu>
