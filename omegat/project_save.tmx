@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19971,8 +19971,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This orientation dramatically reverses the prevailing mood of the 1980s, and on this &lt;t0/&gt;point&lt;t1/&gt; it can be argued that a substantial part of the intellectual community is to the “left” of the governmental mainstream.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160913T045950Z">
-        <seg>Con esta tendencia se revierte dramáticamente el carácter que prevalecía en la década de 1980, y en este &lt;t0/&gt;momento&lt;t1/&gt; se puede afirmar que una gran parte de la comunidad intelectual se encuentra "a la izquierda" de la corriente de gobierno dominante.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160928T050851Z">
+        <seg>Con esta tendencia se revierte dramáticamente el carácter que prevalecía en la década de los 80, y en este &lt;t0/&gt;momento&lt;t1/&gt; se puede afirmar que una gran parte de la comunidad intelectual se encuentra “a la izquierda” de la corriente de gobierno dominante.</seg>
       </tuv>
     </tu>
     <tu>
