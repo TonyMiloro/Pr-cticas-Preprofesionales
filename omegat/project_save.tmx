@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21386,8 +21386,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, the article argued, the more the notion of economic man &lt;/f26&gt;&lt;t27/&gt;&lt;f28&gt;has been intro- duced in state-owned enterprises, the worse they have done, and the more individualism has come to be accepted by society, the more social prob- lems have developed.&lt;/f28&gt;&lt;f29&gt;81 &lt;/f29&gt;&lt;f30&gt;Putting the issue in apocalyptic terms, the author declared that, if reform guided by the concept of economic man was not “decisively” (&lt;/f30&gt;&lt;f31&gt;guoduan&lt;/f31&gt;&lt;f32&gt;)&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;turned&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;around and the collectivist concept restored, then everything for which the Party had struggled for seventy years would be lost.&lt;/f36&gt;&lt;f37&gt;82&lt;/f37&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201219Z">
-        <seg>Por consiguiente, mientras más se ha introducido el concepto de homo economicus en empresas estatales, peor ha sido, y cuando el individualismo tuvo mayor aceptación en la sociedad, mayores han sido los problemas sociales. En términos apocalípticos, el autor expresó que si la reforma guiada por el concepto de homo economicus no lograba una aprobación decisiva y no se reestablecía el concepto colectivista, entonces todo por lo que el partido había luchado durante setenta años habría sido en vano.&lt;/f26&gt;&lt;t27/&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;&lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T212847Z">
+        <seg>Por consiguiente, mientras más se ha introducido el concepto de homo economicus en empresas estatales, peor ha sido, y cuando el individualismo tuvo mayor aceptación en la sociedad, mayores han sido los problemas sociales. En términos apocalípticos, el autor expresó que si la reforma guiada por el concepto de homo economicus no lograba una aprobación "decisiva" (guoduan) y no se reestablecía el concepto colectivista, entonces todo por lo que el partido había luchado durante setenta años habría sido en vano.&lt;/f26&gt;&lt;t27/&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;&lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;</seg>
       </tuv>
     </tu>
     <tu>
