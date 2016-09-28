@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18348,8 +18348,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The conservative Australian paper the Financial Review summed up the public mood in its headline: “Bush came, Hu conquered.” By 2006, people began talking about China’s emerging “soft power.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T222325Z">
-        <seg>El periódico conservador australiano the Financial Review resumió el ánimo general del público en el titular "Bush asisitió, pero Hu conquistó".  En 2006, se empezó a hablar del "poder blando" Chino. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T222459Z">
+        <seg>El periódico conservador australiano the Financial Review resumió el ánimo general del público en el titular "Bush asisitió, pero Hu conquistó".  En 2006, se empezó a hablar del surgimiento del "poder blando" chino. </seg>
       </tuv>
     </tu>
     <tu>
