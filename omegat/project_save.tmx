@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3420,8 +3420,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And fourth, social change, which has affected the way people have thought about their society and has forced the state to modify its agenda.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T004226Z">
-        <seg>Y cuarto, el cambio social, que ya había afectado la forma en que se pensaba la sociedad y había forzado al Estado a modificar su orden del día. </seg>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160928T042952Z">
+        <seg>Y cuarto, el cambio social, que ya había afectado la forma en que se pensaba la sociedad y había forzado al Estado a modificar su agenda. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22527,8 +22527,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>as we will see, China’s relations with other countries, particularly the United States, have affected the way people view China’s domestic issues, just as those domestic issues influence the way people have seen international relations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T005246Z">
-        <seg>Como podemos ver, la relación de China con otros paises, perticularmente con los Estados Unidos, han afectado la forma en que se conciben los asuntos internos Chinos, así también como los asuntos internos han influenciado la forma en que se entienden las relaciones internaconales.</seg>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160928T043152Z">
+        <seg>Como podemos ver, la relación de China con otros paises, perticularmente con los Estados Unidos, ha afectado la forma en que se conciben los asuntos internos Chinos, así también como los asuntos internos han influenciado la forma en que se entienden las relaciones internaconales.</seg>
       </tuv>
     </tu>
     <tu>
