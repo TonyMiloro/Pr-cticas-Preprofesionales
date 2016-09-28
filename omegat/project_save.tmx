@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12598,6 +12598,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leadership of the Chinese Communist Party following the 16th Party Congress</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T180834Z" creationid="andrea" creationdate="20160928T180834Z">
+        <seg>Hu jintao asume                                                                                                                                                                                                         Tabla 3: el Liderazgo del Partido Comunista Chino después del Décimosexto Congreso del Partido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Led by Ye Xuanping (governor of Guangdong), Zhu Rongji (CCP secretary and mayor of Shanghai), and Zhao Zhihao (governor of Shan-dong), the provinces virtually rebelled against the authority of the central government.&lt;/f0&gt;&lt;f1&gt;79&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T130248Z">
@@ -15325,6 +15333,22 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Yani" changedate="20160922T214702Z">
         <seg>Comité Permanente del Politburó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Politburo Standing Committee (ages in 2002 in parentheses)</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T180851Z" creationid="andrea" creationdate="20160928T180851Z">
+        <seg>El Comité Permanente del Politburó (años de 2002 entre paréntesis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Politburo – Full Members</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T181022Z" creationid="andrea" creationdate="20160928T181022Z">
+        <seg>Politburó-miembros titulares</seg>
       </tuv>
     </tu>
     <tu>
