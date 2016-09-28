@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19031,8 +19031,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The reform I talk about is different.” 34[17] In picking up Deng’s thought and posing the question the way he did, Jiang raised the issue that would dominate Chinese politics for much of the next two years: What was socialist and what was capitalist?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160919T140539Z">
-        <seg>La reforma de la que hablo es diferente". Recogiendo el pensamiento de Deng y  formulando la pregunta como lo hizo él, Jiang plantea la cuestión que dominaría a los politicos chinos por mas de dos años: ¿qué era socialista y que era capitalista?</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160928T175406Z">
+        <seg>La reforma de la que hablo es diferente". Recogiendo el pensamiento de Deng y  formulando la pregunta como lo hizo él, Jiang plantea la cuestión que dominaría a los politicos chinos por mas de dos años: ¿Qué era socialista y que era capitalista?</seg>
       </tuv>
     </tu>
     <tu>
