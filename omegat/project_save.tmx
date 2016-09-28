@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13362,8 +13362,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>March 5–16 Amended property rights law passed at Fifth Session of the Tenth National People’s Congress meeting</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T200045Z">
-        <seg>5-16 de marzo Se presenta una propuesta revisada de la ley de derechos de propiedad en la quinta sesión de la reunión del Décima Asamblea Popular.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T200130Z">
+        <seg>5-16 de marzo Se presenta una propuesta revisada de la ley de derechos de propiedad en la quinta sesión de la reunión de la Décima Asamblea Popular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17626,8 +17626,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>The Old Left</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T013843Z">
-        <seg>La vieja izquierda</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T200205Z">
+        <seg>Vieja izquierda</seg>
       </tuv>
     </tu>
     <tu>
