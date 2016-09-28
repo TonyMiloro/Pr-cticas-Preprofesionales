@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22442,8 +22442,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When it was announced that Jiang Zemin, the Party secretary of Shanghai, had been made general secretary of the CCP, it was widely assumed that he would be a transitional figure, not unlike Hua Guofeng, who had served briefly as chairman of the Party following Mao Zedong’s death in 1976.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160923T031508Z">
-        <seg>Cuando se anunció que Jian Zemin, el secretario del partido de Shanghai, había sido nombrado secretario general del PCCh, se asumió ampliamente que este representaría una figura de transición, diferente de Hua Guofeng quien ocupó el cargo de presidente del partido durante un corto periodo trás la muerte de Mao Zedong en 1976. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T203650Z">
+        <seg>Cuando se anunció que Jian Zemin, el secretario general del partido de Shanghai, había sido nombrado secretario general del PCCh, se asumió ampliamente que este representaría una figura de transición, diferente de Hua Guofeng quien ocupó el cargo de presidente del partido durante un periodo corto tras la muerte de Mao Zedong en 1976. </seg>
       </tuv>
     </tu>
     <tu>
