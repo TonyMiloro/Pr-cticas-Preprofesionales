@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1314,8 +1314,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Despite Chen’s partial concession in Shanghai, Deng Xiaoping obviously&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;remained frustrated at the lack of meaningful response from the leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173250Z" creationid="Soledad Mori" creationdate="20160927T173225Z">
-        <seg>A pesar de la concesión parcial de Chen en Shanghai, obviamente&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; la frustración que sentía Den Xiopin no fue apaciguada, ya que la falta de respuesta significativa por parte de la directiva se hizo notar.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200124Z" creationid="Soledad Mori" creationdate="20160927T173225Z">
+        <seg>A pesar de la concesión parcial de Chen en Shanghái, obviamente&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; la frustración que sentía Den Xiopin no fue apaciguada, ya que la falta de respuesta significativa por parte de la directiva se hizo notar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3708,8 +3708,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Appearing in Shanghai on the eve of Labor Day, the Party elder encouraged leaders there to “emancipate their minds” and “take bold steps.” According to one report, Chen’s declaration came on the heels of a high-level meeting with Deng, Peng Zhen, Li Xiannian, Bo Yibo, and Yang Shangkun.86 Chen, who in 1978–9 had opposed the establishment of the SEZs and especially opposed the establishment of one in Shanghai, was now quoted as saying, “I very much favor the development and opening of Pudong!”&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173047Z" creationid="Soledad Mori" creationdate="20160927T173047Z">
-        <seg>En una aparición en Shangai en la víspera del Día del Trabajo, el mayor del Partido animó a los líderes a que “emancipen sus mentes” y “den pasos con valentía”. De acuerdo con un informe, la declaración de Chen tuvo lugar luego de una reunión de alto nivel con Deng, Peng Zhen, Li Xiannin, Bo Yibo, y Yang Shangkun. Chen, quien en 1978-9 se opuso al establecimiento de ZEE y en especial al establecimiento de uno en Shanghay, ahora se lo citaba diciendo, “¡Estoy a favor del desarrollo y la apertura de Pudong!”&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200113Z" creationid="Soledad Mori" creationdate="20160927T173047Z">
+        <seg>En una aparición en Shanghái en la víspera del Día del Trabajo, el mayor del Partido animó a los líderes a que “emancipen sus mentes” y “den pasos con valentía”. De acuerdo con un informe, la declaración de Chen tuvo lugar luego de una reunión de alto nivel con Deng, Peng Zhen, Li Xiannin, Bo Yibo, y Yang Shangkun. Chen, quien en 1978-9 se opuso al establecimiento de ZEE y en especial al establecimiento de uno en Shanghay, ahora se lo citaba diciendo, “¡Estoy a favor del desarrollo y la apertura de Pudong!”&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14707,8 +14707,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On June 9, the general secretary followed in the wake of Qiao Shi and Tian Jiyun by giving a major speech at the Central Party School.Jiang at last openly endorsed the view that the “primary focus &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;must be guarding against the ‘left’.” Quoting liberally from Deng’s talks in Shenzhen, Jiang now argued that reform is like “steering a boat against the current.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T180000Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
-        <seg>El 9 de junio, el secretario general siguió los pasos de Qiao Shi y Tian Jiyun al dar un importante discurso en la Escuela Central del Partido Comunista Chino. Finalmente mostró abiertamente su adherencia a la idea de que “el enfoque primordial&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;debería estar en prevenir el izquierdismo”. En una cita libre de las charlas que dio Deng en Shenzhen, Jiang ahora argumentaba que la reforma es como “navegar un barco en contracorriente.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200213Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
+        <seg>El 9 de junio, el secretario general siguió los pasos de Qiao Shi y Tian Jiyun al dar un importante discurso en la Escuela Central del Partido Comunista Chino. Finalmente mostró abiertamente su adherencia a la idea de que “el enfoque primordial&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;debería estar en prevenir el izquierdismo”. En una cita libre de las charlas que dio Deng en Shenzhen, Jiang ahora argumentaba que la reforma es como “navegar un barco en contracorrientep</seg>
       </tuv>
     </tu>
     <tu>
@@ -22098,8 +22098,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>We will be driven back if we do not forge ahead.” The Party chief nevertheless refrained from calling for a “socialist market economy,” which would become the keynote of the Fourteenth Party Congress, continuing to refer instead to “market regulation” (though he dropped the formulation “integration of planned economy and market regulation”).90 Jiang’s speech was the occasion of the People’s Daily’s first authoritative comment on reform since February.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173638Z" creationid="Soledad Mori" creationdate="20160927T173638Z">
-        <seg> El mar nos va a devolver a menos que avancemos con pasos agigantados”. El jefe del Partido, sin embargo, se abstuvo de exigir una “economía de mercado socialista”, lo que se convertiría en la idea clave del XIV Congreso Nacional del Partido, por lo que siguió hablando de “regulación de mercado” (aunque dejó de lado la fórmula “integración de economía planificada y regulación de mercado”). El discurso de Jiang fue la oportunidad para el importantísimo diario comunista People’s Daily’ de realizar el primer comentario acreditado sobre la reforma desde febrero.&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200254Z" creationid="Soledad Mori" creationdate="20160927T173638Z">
+        <seg> El mar nos va a devolver a menos que avancemos con pasos agigantados”. El jefe del partido, sin embargo, se abstuvo de exigir una “economía de mercado socialista”, lo que se convertiría en la idea clave del Décimococuarto Congreso Nacional del Partido, por lo que siguió hablando de “regulación de mercado” (aunque dejó de lado la fórmula “integración de economía planificada y regulación de mercado”). El discurso de Jiang fue la oportunidad para el importantísimo diario comunista People’s Daily’ de realizar el primer comentario acreditado sobre la reforma desde febrero.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
