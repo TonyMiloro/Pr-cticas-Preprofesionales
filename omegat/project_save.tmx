@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5762,6 +5762,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>China has not had a good track record in peacefully transferring power: Mao Zedong’s designated successors – Liu Shaoqi, Lin Biao, and Hua Guofeng – all failed to attain sustainable power, and Deng Xiaoping’sﬁrsttwochoices–ZhaoZiyangandHuYaobang–hadlikewise fallenamidstpoliticalstruggle.JiangZemin,contrarytoearlyexpectations, succeeded in consolidating power despite the very complicated politics of thepost-Tiananmenperiodandhisrelativelackofexperienceatthehighest level of China’s political system.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125901Z" creationid="andrea" creationdate="20160928T125901Z">
+        <seg>China no tenía un buen historial con respecto a la transferencia pacífica del poder: ninguno de los sucesores que Mao Zedong designó- Liu Shaoqi, Lin Biao y Hua Guofeng- logró conseguir un poder sostenible. En cuanto a Deng Xiaoping, sus primeras dos opciones eran Zhao Ziyang y Hu Yaobang, quienes al igual que los anteriores fueron derrotados por la lucha política. En contraposición a las expectativas, Jiang Zemin triunfó en la consolidación del poder a pesar de las trabas políticas del período posterior a la masacre de Tiananmén y su relativa falta de experiencia  en el nivel más alto del sistema político de China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>China initially concentrated its efforts on Asia and managed to gain diplomatic recognition from Indonesia and Singapore, from which China had long been estranged.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011710Z">
@@ -6910,16 +6918,16 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite the urging of sociologists such as Li and Lu, the report ﬁrmly endorsed continuin&lt;f1&gt;g &lt;/f1&gt;along the developmental path the country had been following:“Keep economic development as the central task,”it urged, “and solve problems cropping up on our way forward through development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125303Z">
-        <seg>A pesar de las recomendaciónes de los sociólogos Li y Lu, el informe respalda con firmeza continuar &lt;f1&gt;con &lt;/f1&gt; el camino de desarrollo que el país ha estado siguiendo: “mantener el desarrollo económico como tarea central”, “y resolver los problemas que surjan en nuestro camino hacia el desarrollo,</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125724Z">
+        <seg>A pesar de las recomendaciones de sociólogos como Li y Lu, el informe respaldó continuar con firmeza &lt;f1&gt;por &lt;/f1&gt; el camino de desarrollo que el país había estado siguiendo: “Mantener el desarrollo económico como nuestra tarea central”, “y resolver los problemas que surjan en el camino y hacerlo usando del desarrollo,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Development is the fundamental principle.”32 Understandably,eyeswerefocusedmoreonpersonnelissuesratherthan on policy questions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T005515Z">
-        <seg>que constituye el principio fundamental”. 32</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125743Z">
+        <seg>que constituye nuestro principio fundamental”. 32</seg>
       </tuv>
     </tu>
     <tu>
@@ -14066,6 +14074,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T033549Z">
         <seg>Ahora, tras la destitución de Zhao, el escritor conservador Chen Daixi ( quién escribe bajo el pseudónimo "Yi Ren") acusó a Zhao de usar "todo tipo de trucos sucios con los más malintencionados motivos" para suprimir el encuentro llamado Zhuozhuo.62 Obviamente, Chen, así como otros escritores conservadores del momento, era consciente de que Deng había apoyado enérgicamente la suspención de la campaña de 1987 y esperaban impedirle que lo volviese a hacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, the question was whether he was willing and able to transfer power to a younger set of leaders.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T125929Z" creationid="andrea" creationdate="20160928T125929Z">
+        <seg>Lo que concierne ahora es si era capaz y quería transferir el poder a un grupo de jóvenes líderes.</seg>
       </tuv>
     </tu>
     <tu>
