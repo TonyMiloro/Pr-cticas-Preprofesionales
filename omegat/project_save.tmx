@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9537,8 +9537,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In November 1989, Chen Yun’s economic thought was restored as orthodoxy by the Fifth Plenary Session of the Thirteenth Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T043621Z">
-        <seg>En noviembre de 1989, el pensamiento económico de Chen Yun fue restaurado como ortodoxia por la Quinta Sesión del Pleno del Decimo Tercer Comité Central</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T010311Z">
+        <seg>En noviembre de 1989, el pensamiento económico de Chen Yun fue restaurado como ortodoxia por la Quinta sesión plenaria del Decimo Tercer Comité Central</seg>
       </tuv>
     </tu>
     <tu>
