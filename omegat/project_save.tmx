@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2900,8 +2900,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>After a quarter of a century of looking to the West for inspiration, one senses that there is a turn inward to find a more “Chinese” model of development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T002327Z">
-        <seg>Despúes de un cuarto de siglo de buscar inspiración en occidente, se percibe un cambio de foco hacia dentro del país con el fin de encontrar un modelo de desarrollo más "propio de China".</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214535Z">
+        <seg>Después de un cuarto de siglo de buscar inspiración en occidente, se percibe un cambio de foco hacia dentro del país con el fin de encontrar un modelo de desarrollo más "propio de China".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3068,8 +3068,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although China’s integration into the global economy continues apace, these developments suggest an effort to build legitimacy by undercutting the credibility of many Western ideas.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T002155Z">
-        <seg>Si bien la integración de China a la economía global continúa desarrollandose rápidamente, estas políticas sugieren un esfuerzo por construir una legitimidad debilitando la credibilidad de muchas de las ideas occidentales.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214517Z">
+        <seg>Si bien la integración de China a la economía global continúa desarrollándose rápidamente, estas políticas sugieren un esfuerzo por construir una legitimidad debilitando la credibilidad de muchas de las ideas occidentales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4812,8 +4812,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Because ideological issues are not as contentious as they were and because the political elite seem more conscious of their collective vulnerability to political breakdown, elite politics appears to be more institutionalized than in years past.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160915T042635Z">
-        <seg>Debido a que las cuestiones ideológicas ya no son tan controversiales como solían serlo y a que las élites políticas parecen estar más conscientes de su vulnerabilidad colectiva a un colapso político, la política de las élites aparenta estar más insitucionalizada que en años anteriores.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214652Z">
+        <seg>Debido a que las cuestiones ideológicas ya no son tan controversiales como solían serlo y a que las élites políticas parecen estar más conscientes de su vulnerabilidad colectiva a un colapso político, la política de las élites aparenta estar más institucionalizada que en años anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5116,8 +5116,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>But by the early years of the new century, people were complaining that health care reform had meant that doctors were too expensive to see, that housing reform meant that homes were too expensive to purchase, and that educational reform meant that parents could not afford to send their children to school.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160926T203431Z">
-        <seg>Pero lo cierto era que ya en los primeros años del nuevo siglo, la gente se quejaba de que la reforma de la asistencia médica siginificó que las consultas a doctores fueran demasiado caras; la reforma de la vivienda significó que los precios de las casas fueran inaccesibles, y la reforma educacional significó que los padres no pudieran financiar la educación de sus hijos.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214316Z">
+        <seg>Pero lo cierto era que ya en los primeros años del nuevo siglo, la gente se quejaba de que la reforma de la asistencia médica significó que las consultas a doctores fueran demasiado caras; la reforma de la vivienda significó que los precios de las casas fueran inaccesibles, y la reforma educacional significó que los padres no pudieran financiar la educación de sus hijos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6028,8 +6028,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>China was moving up the production scale in technological terms, but that movement was not producing the labor-intensive jobs the interior needed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T204833Z">
-        <seg>El país se estaba elevando en la escala de producción en el área teconológica, pero no estaba generando el tipo de trabajo intensivo que el interior necesitaba.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214327Z">
+        <seg>El país se estaba elevando en la escala de producción en el área tecnológica, pero no estaba generando el tipo de trabajo intensivo que el interior necesitaba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9202,8 +9202,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu Jintao clearly appealed to this constituency, as the themes that he has touted suggest – opposing corruption, upholding rule of law, social  justice, balanced growth, environmental protection, Party building, and now harmonious society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T235354Z">
-        <seg>Claramente, Hu Jintao adhirió a esta circunscripción, ya que él pregoneaba oponerse a la corrupción, obedecer las leyes, establecer la justicia social, equilibrar el crecimiento, proteger el ambiente, construir el Partido y formar una sociedad armoniosa.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214459Z">
+        <seg>Claramente, Hu Jintao adhirió a esta circunscripción, ya que él pregonaba oponerse a la corrupción, obedecer las leyes, establecer la justicia social, equilibrar el crecimiento, proteger el ambiente, construir el Partido y formar una sociedad armoniosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,8 +9434,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Ideologically, neoconservatism moved away from Marxism but offered no idealism in its place.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T201905Z">
-        <seg>Desde el punto de vista idelógico, el neoconservadurismo se desligó del marxismo sin ofrecer algún idealismo en su lugar.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214259Z">
+        <seg>Desde el punto de vista ideológico, el neoconservadurismo se desligó del marxismo sin ofrecer algún idealismo en su lugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9498,8 +9498,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If Jiang was able to forge an informal coalition among political, economic, and intellectual elites, unanticipated in the &lt;t0/&gt;wake of Tiananmen, he also presided over a vast growth in vested interests – those who had done well, sometimes very well, by cooperating with, and being coopted by, the political system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T210633Z">
-        <seg>Jiang pudo formar una alianza informal entre grupos políticos, económicos e intelectuales de élite, algo sin precedentes desde antes de lo &lt;t0/&gt;ocurrido en Tiananmén. También estuvo al mando del amplio creciemiento de los intereses de estos grupos, a los que les fue bien, y a veces más que bien, debido a que cooperaron con el sistema político.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214354Z">
+        <seg>Jiang pudo formar una alianza informal entre grupos políticos, económicos e intelectuales de élite, algo sin precedentes desde antes de lo &lt;t0/&gt;ocurrido en Tiananmén. También estuvo al mando del amplio crecimiento de los intereses de estos grupos, a los que les fue bien, y a veces más que bien, debido a que cooperaron con el sistema político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15523,8 +15523,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>People began talking darkly about the “Latin American disease” – great gaps between rich and poor and stagnating growth after early promise.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T205659Z">
-        <seg>Se comenzó entonces a hablar con pesimismo sobre "el sídrome de Latinoamérica", la gran brecha entre ricos y pobres, y el crecimiento estancado, contrario a lo que se esperaba inicialmente.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214343Z">
+        <seg>Se comenzó entonces a hablar con pesimismo sobre "el síndrome de Latinoamérica", la gran brecha entre ricos y pobres, y el crecimiento estancado, contrario a lo que se esperaba inicialmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19295,8 +19295,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The populist critique of reform that has grown up in recent years bears the potential to slow the sort of reforms China needs – improving the efficiency of the market at the expense of cronyism – as it attempts to redress some of the imbalances that have grown up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160927T002832Z">
-        <seg>La crítica populista a la reforma que ha crecido en los últimos años constituye una potencial ralentización del tipo de reformas necesarias para China (incrementar la eficiencia del mercado a expensas del clientelismo) dado que respresenta un intento de compensación por algunas de las desigualdades que se han incrementado.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214549Z">
+        <seg>La crítica populista a la reforma que ha crecido en los últimos años constituye una potencial ralentización del tipo de reformas necesarias para China (incrementar la eficiencia del mercado a expensas del clientelismo) dado que representa un intento de compensación por algunas de las desigualdades que se han incrementado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21370,8 +21370,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, reforms have encountered difficulties arising from societal pressures, disaffected intellectuals, and the structural needs of the still Leninist state that are unlike those confronted in earlier stages of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="XP" changedate="20160915T025933Z">
-        <seg>Por esta razón, las reformas han encontrado dificultades que derivan de presiones sociales, intelectuales desafectos y de las necesidades estructurales de un estado todavía leninista distintas a aquellas con las que se lidió en etapas previas de la reforma.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214632Z">
+        <seg>Por esta razón, las reformas han encontrado dificultades que derivan de presiones sociales, intelectuales desafectos y de las necesidades estructurales de un estado todavía leninista, distintas a aquellas con las que se lidió en etapas previas de la reforma.</seg>
       </tuv>
     </tu>
     <tu>
