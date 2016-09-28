@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3772,8 +3772,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 20 Task force established to investigate corruption in Xiamen</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T182624Z">
-        <seg>20 de abril Se crea un cuerpo especial para investigar la corrupción en Xiamén</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T195514Z">
+        <seg>20 de abril Se crea un cuerpo especial para investigar la corrupción en Xiamén.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3788,8 +3788,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 25 Adherents of Falun Gong demonstrate around Zhongnanhai</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T182640Z">
-        <seg>25 de abril Partidiarios de Falun Gong protestan en Zhongnanhai</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T195528Z">
+        <seg>25 de abril Partidiarios de Falun Gong protestan en Zhongnanhai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3820,8 +3820,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April 6 Premier Zhu Rongji arrives in Washington to discuss WTO</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T182619Z">
-        <seg>6 de abril El primer ministro Zhu Rongji llega a Washington para tratar la OMC</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T195506Z">
+        <seg>6 de abril El primer ministro Zhu Rongji llega a Washington para tratar la OMC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6476,8 +6476,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>December 21 Democratic activists Wang Youcai and Xu Wenli sentenced to jail</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T182424Z">
-        <seg>21 de diciembre Los activistas democráticos Wang Youcai y Xu Wenli son sentenciados a prisión</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T195340Z">
+        <seg>21 de diciembre Los activistas democráticos Wang Youcai y Xu Wenli son sentenciados a prisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12544,8 +12544,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>July 9 Taiwan President Lee Teng-hui describes relations with PRC as “special-state-to-state” relations</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T182754Z">
-        <seg>9 de julio El presidente de Taiwán Lee Teng-hui describe las relaciones con la RPCh (República Popular de China) como "relaciones especiales de Estado a Estado"</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T195555Z">
+        <seg>9 de julio El presidente de Taiwán Lee Teng-hui describe las relaciones con la RPCh (República Popular de China) como "relaciones especiales de Estado a Estado".</seg>
       </tuv>
     </tu>
     <tu>
@@ -13410,8 +13410,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>March &lt;f0&gt;23 &lt;/f0&gt;United States starts bombing Serbian forces in Kosovo</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T030505Z">
-        <seg>&lt;f0&gt;23 &lt;/f0&gt;de marzo - EE. UU. comienza el bombardeo a las fuerzas serbias en Kosovo</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T195453Z">
+        <seg>&lt;f0&gt;23 &lt;/f0&gt;de marzo - EE. UU. comienza el bombardeo a las fuerzas serbias en Kosovo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21466,8 +21466,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>US bombs hit Chinese Embassy in Belgrade</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160904T173746Z">
-        <seg>EE. UU. bombardea la Embajada de China en Belgrado</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T195538Z">
+        <seg>EE. UU. bombardea la Embajada de China en Belgrado.</seg>
       </tuv>
     </tu>
     <tu>
