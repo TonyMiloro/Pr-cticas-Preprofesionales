@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9081,8 +9081,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If discussions of theUnited States and otherWestern countries in the 1980s were superficial, it was because the point was not to &lt;s12/&gt;understand how those systems actually worked but instead to provide a fulcrum from which faults in the Chinese system could be criticized.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160927T001307Z">
-        <seg>Si discusiones entre Estados Unidos y otros países de Occidente en los 80 eran superficiales,&lt;s12/&gt;era porque el foco no era entender como estos sistemas funcionaban sino proveer de un punto de apoyo para criticar las fallas del sistema chino.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T030520Z">
+        <seg>Si las discusiones entre Estados Unidos y otros países de Occidente en la década de los 80 eran superficiales,&lt;s12/&gt;era porque el foco no suponía entender como estos sistemas funcionaban sino proveer de un punto de apoyo para criticar las fallas del sistema chino.</seg>
       </tuv>
     </tu>
     <tu>
