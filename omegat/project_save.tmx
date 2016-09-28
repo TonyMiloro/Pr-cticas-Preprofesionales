@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2852,8 +2852,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>According to many reports, Jiang Zemin himself approved of Chen’s removal, but Jiang was under tremendous pressure, including apparently investigations into the financial activities of his own son, Jiang Mianhong.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T185739Z">
-        <seg>Según varios informes, el mismo Jiang Zemin apoyó la destitución de Chen, pero Jiang se encontraba bajo una tremenda presión, que provenía, entre otras cosas, de supuestas investigaciones sobre las actividadades financieras de su propio hijo, Jiang Mianhong.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214005Z">
+        <seg>Según varios informes, el mismo Jiang Zemin apoyó la destitución de Chen, pero Jiang se encontraba bajo una tremenda presión, que provenía, entre otras cosas, de supuestas investigaciones sobre las actividades financieras de su propio hijo, Jiang Mianhong.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19239,8 +19239,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The plenum approved a resolution calling for the creation of a “harmonious society,” bringing together the various themes that Hu had been emphasizing since his elevation to general secretary four years earlier: creating a “people-centered” society, using the scientific development concept to guide the economy, developing socialist democracy, the rule of law, and social justice, and improving the governing capabilities of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T191054Z">
-        <seg>El pleno aprobó una resolución que llamaba la creación de una "sociedad en armonía", reuniendo varios ejes temáticos que Hu venía enfatizando desde su ascenso al cargo de Secretario General del Partido cuatro años atrás, como la creación de una sociedad "centrada en los ciudadanos", el uso del concepto de desarrollo científico como guía de la economía, el desarrollo de una democracia socialista, el imperio de la ley y la justicia socal, y el perfeccionamiento de la capacidad de gobierno del Partido.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214056Z">
+        <seg>El pleno aprobó una resolución que llamaba la creación de una "sociedad en armonía", reuniendo varios ejes temáticos que Hu venía enfatizando desde su ascenso al cargo de Secretario General del Partido cuatro años atrás, como la creación de una sociedad "centrada en los ciudadanos", el uso del concepto de desarrollo científico como guía de la economía, el desarrollo de una democracia socialista, el imperio de la ley y la justicia social, y el perfeccionamiento de la capacidad de gobierno del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20784,8 +20784,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This move pushed the Party definitively away from atavistic ideological ideas and toward – but not to – the idea of a “party of the whole people” (as much as Chinese ideologues tried to deny it) and closer to global norms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T200211Z">
-        <seg>Tal maniobra provocó que el Partido desechara por completo ideologías arcaicas y considerara la idea de un "partido para todos los ciudadanos", no así adoptarla por completo (algo que muchos ideólogos chinos intentaron negar), y que así también alcanzara condiciones globales .</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214102Z">
+        <seg>Tal maniobra provocó que el Partido desechara por completo ideologías arcaicas y considerara la idea de un "partido para todos los ciudadanos", no así adoptarla por completo (algo que muchos ideólogos chinos intentaron negar), y que así también alcanzara condiciones globales.</seg>
       </tuv>
     </tu>
     <tu>
