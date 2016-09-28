@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8278,6 +8278,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Given his inability to promote Zeng Qinghong, Jiang acquiesced to Deng’s choice; he did, after all, name Hu as vice-chairman of the CMC in 1997 and elevated him to be vice-president of the PRC in 1998.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130229Z" creationid="andrea" creationdate="20160928T130229Z">
+        <seg>Debido a que no podía ascender a Zeng Qinghong, Jiang consintió la elección de Deng. A pesar de todo, nombró a Hu presidente de la CMC en 1997 y lo ascendió a la categoría de vice presidente de la RPCh en 1998.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Given the degree to which policy and power have been interrelated in China, these two issues were inevitably linked to one another.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160905T195804Z">
@@ -9019,6 +9027,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T001719Z">
         <seg>Ciertamente, Hu fue objeto de críticas por parte de los "intelectuales públicos" y consecuentemente tomó medidas para ejercer control sobre los medios de comunicación, incluyendo la internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hu had been added to the Politburo Standing Committee in 1992 by Deng Xiaoping,who had taken a liking to the young leader and had put him in charge of personnel arrangements for the Fourteenth Party Congress.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130206Z" creationid="andrea" creationdate="20160928T130206Z">
+        <seg>Hu ingresó al Politburó en 1992 gracias a Deng Xiaoping, quien tenía aprecio por el joven líder y lo puso a cargo del orden del personal durante el XIV Congreso Nacional del Partido Comunista de China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12096,6 +12112,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160903T210955Z">
         <seg>Jiang apenas se había despreocupado de ser acusado, como sus predecesores,&lt;t0/&gt; &lt;t1/&gt;de ser "descuidado con la liberalización burguesa", y era rápido en &lt;t2/&gt; &lt;t3/&gt;dar marcha atrás si la estabilidad económica pareciera amenazada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang had tried to elevate Zeng Qinghong to Politburo Standing Committee (PBSC) status in the years before the Sixteenth Party Congress, but this had been rejected by his colleagues, suggesting that Jiang’s power had limits and that Zeng was not popular among the upper echelons of the CCP.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130147Z" creationid="andrea" creationdate="20160928T130147Z">
+        <seg>Jiang intentó insertarlo a Zeng Qinghong en el Permanente del Politburó en los años previos al Décimo Sexto Congreso del Partido, pero fue rechazado por sus colegas, aduciendo que el poder de JiIang era limitado y que Zeng no era conocido en los grados superiores del PCCH.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18843,6 +18867,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The question was complicated by the fact that Jiang Zemin was clearly closer to Zeng Qinghong than to Hu Jintao.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130121Z" creationid="andrea" creationdate="20160928T130121Z">
+        <seg>Este asunto se complicaba por el hecho de que Jiang Zemin estaba mucho más cerca de Zeng Qinghong que de Hu Jintao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reaction in China to the failed WTO agreement and to the publication&lt;t0/&gt; &lt;t1/&gt;of details was both strong and immediate.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160910T190010Z">
@@ -19536,6 +19568,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160904T011911Z">
         <seg>Por lo tanto, Mao no podia hacer otra cosa mas que actuar”.&lt;/f9&gt;&lt;f10&gt;55&lt;/f10&gt;&lt;f11&gt; Los intelectuales, al igual que los campesinos, no eran dignos de Mao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These appointments, both made following Deng’s death, clearly put Hu in line to succeed Jiang as head of the Party, but Jiang never &lt;t2/&gt;brought Hu into his inner circle.Although Jiang accepted Hu’s heir-apparent status, he never seemed comfortable with it.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130247Z" creationid="andrea" creationdate="20160928T130247Z">
+        <seg> &lt;t2/&gt;brought Hu into his inner circle.Although Jiang accepted Hu’s heir-apparent status, he never seemed comfortable with it.</seg>
       </tuv>
     </tu>
     <tu>
