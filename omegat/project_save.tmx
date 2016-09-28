@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5436,8 +5436,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By the summer and fall of 1990, China’s growth rates were near zero, by far the slowest rate of growth the Chinese economy had experienced since the start of reform in late 1978.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T213014Z">
-        <seg>En el verano y otoño de 1990, las tasas de crecimiento de China se encontraban cerca de cero, sin duda la tasa de crecimiento más baja que se había registrado en la economía del país desde el inicio de la reforma a finales de 1978. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T213241Z">
+        <seg>En el verano y otoño de 1990, las tasas de crecimiento de China se encontraban cerca de cero, sin duda la tasa de crecimiento más lenta registrada en la economía del país desde el inicio de la reforma a finales de 1978. </seg>
       </tuv>
     </tu>
     <tu>
