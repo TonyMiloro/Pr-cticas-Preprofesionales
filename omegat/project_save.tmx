@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18602,8 +18602,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The rise of national studies in the &lt;/f5&gt;&lt;f6&gt;1990s marked an assertion of cultural nationalism, but it was not without a certain amount of official sponsorship.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T020144Z">
-        <seg> El surgimiento de los estudios nacionales &lt;/f5&gt;&lt;f6&gt;en la década de los 90 marcó una afirmación del nacionalismo cultural, pero con una cantidad determinada de patrocinio oficial.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T020245Z">
+        <seg>El aumento de los estudios nacionales &lt;/f5&gt;&lt;f6&gt;en la década de los 90 marcó una afirmación del nacionalismo cultural, pero con una cantidad determinada de patrocinio oficial.</seg>
       </tuv>
     </tu>
     <tu>
