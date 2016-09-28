@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -393,8 +393,8 @@
       <tuv lang="EN-US">
         <seg>43 Jiang Yihua, “Lun dongya xiandaihua jinchengzhong de xinlixing zhuyi wenhua.” P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 Neostatism and popular nationalism 153 class (xialiu); elsewhere he comments that he represents the lower ranks of officialdom.44 Born in 1952, Wang was the youngest of those known as laosanjie, the three classes (which “graduated” from high school in 1966, 1967, and 1968) who made up the Red Guard generation and were sent to the country- side when Mao had seen enough of the chaos they had generated.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123411Z">
-        <seg>en cualquier otro lado el siempre menciona que es el representante de los rangos bajos del funcionariado44. Nacido en 1952, Wang era el más joven de los llamados laosanjie, las tres clases (que se "graduaron" de la escuela secundaria en 1966, 1967 y 1968) que constituyen la generación de la Guardia Roja y que fueron enviados al campo cuando Mao vio el caos que habían generado.   </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T135127Z">
+        <seg>en cualquier otro lado el siempre menciona que es el representante de los rangos bajos del funcionariado44. Nacido en 1952, Wang era el más joven de los llamados laosanjie. Estos eran los integrantes de las tres clases (que se “graduaron” de la escuela secundaria en 1966, 1967 y 1968) que constituyen la generación de la Guardia Roja y que fueron enviados al campo cuando Mao vio el caos que habían generado.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -4564,8 +4564,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Attributing authorship to a foreigner may also have permitted the book to be published more easily; it certainly aroused interest and curiosity, much as Joe Klein’s attribution of his book Primary Colors to “Anonymous” did in the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T182450Z">
-        <seg>El hecho de atribuirle la autoría a un extranjero también podría haber permitido que la publicación del libro fuera más fácil; ciertamente despertó interés y curiosidad, tanto como cuando en Estados Unidos Joe Klein le atribuyó su libro Colores primarios a "Anonymous"</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T134643Z">
+        <seg>El hecho de atribuirle la autoría a un extranjero también podría haber permitido que la publicación del libro fuera más fácil; ciertamente despertó interés y curiosidad, tanto como cuando en Estados Unidos Joe Klein le atribuyó su libro Colores primarios a “Anónimo”</seg>
       </tuv>
     </tu>
     <tu>
@@ -12778,8 +12778,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Like Wang Shuo, Wang Shan had already written a first novel, Tian Shang (Heaven’s Elegy), that depicted a world of hooliganism, incorporating traditional notions that there was a code of honor among that underclass that contrasted favorably with values of their social betters.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123247Z">
-        <seg>Al igual que Wang Shuo, Wang Shan ya habÍa escrito una primer novela, Tian Shang (Elegía del cielo), en la que se describía un mundo de vandalismo, e incorporaba nociones tradicionales en las que el código de honor entre las clases bajas se contrastaba favorablemente con los valores de las clases más altas. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T134947Z">
+        <seg>Al igual que Wang Shuo, Wang Shan ya habÍa escrito su primer novela, Tian Shang (Elegía del cielo), en la que se describía un mundo de vandalismo, y se incorporaban nociones tradicionales en las que el código de honor entre las clases bajas se contrastaba favorablemente con los valores de las clases más altas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17097,8 +17097,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>That changed in 1994 with the publication of Looking at China through a Third Eye.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123058Z">
-        <seg>Eso cambió en 1994 con la publicación de Looking at China through a third eye (Mirando a China desde un tercer ojo). </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T134856Z">
+        <seg>Eso cambió en 1994 con la publicación de Looking at China through a Third eye (Mirando a China desde un tercer ojo). </seg>
       </tuv>
     </tu>
     <tu>
@@ -17612,8 +17612,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The author turned out to be Wang Shan, a young writer whose persona is reminiscent of that of Wang Shuo, the popular chronicler of the underbelly of urban life.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123103Z">
-        <seg>El autor resultó ser Wang Shan, un joven escritor cuya imagen pública evocaba a Wang Shuo, el popular cronista de las áreas olvidadas de la ciudad. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T134913Z">
+        <seg>El autor resultó ser Wang Shan, un escritor joven cuya imagen pública evocaba a Wang Shuo, el popular cronista de las áreas olvidadas de la ciudad. </seg>
       </tuv>
     </tu>
     <tu>
@@ -21986,8 +21986,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When an interviewer suggested to Wang that his novels give people the impression that he is a sort of hooligan from the lower classes and that he hates the upper classes, Wang replied that Chinese society has always been divided into an upper class (shangliu) and a lower 42 It should be noted that Huntington denies this.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160909T135954Z">
-        <seg>Cuando en una entrevista se le insinuó a Wang que sus novelas daban la impresión de que él era una especie de vándalo de las clases bajas y que odiaba a las clases altas, Wang respondió que la sociedad China siempre ha estado dividida en clase alta (shangliu) y clase baja (xialiu); </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T135021Z">
+        <seg>Cuando en una entrevista se le insinuó a Wang que sus novelas daban la impresión de que él era una especie de vándalo de las clases bajas y que odiaba a las clases altas, respondió que la sociedad China siempre había estado dividida en clase alta (shangliu) y clase baja (xialiu); </seg>
       </tuv>
     </tu>
     <tu>
