@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8657,8 +8657,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However superficial these discussions may have been, they clearly saw themselves as lying within the May Fourth &lt;s13/&gt;enlightenment tradition, and they provided a cosmopolitanism that helped support the political relationship being forged with the &lt;/f10&gt;&lt;f14&gt;West as well as reformers within the Party.&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T141320Z">
-        <seg>Aunque estas discusiones hayan sido superficiales, es claro que se consideraban &lt;s13/&gt;parte de la tradición de la ilustración del Cuatro de Mayo ya que contribuían con un cosmopolitismo que apoyaba la relación política que se estaba forjando entre &lt;/f10&gt;&lt;f14&gt;el Occidente así como también con los reformistas dentro del Partido.&lt;/f14&gt;</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T030747Z">
+        <seg>Aunque estas discusiones hayan sido superficiales, es claro que se consideraban &lt;s13/&gt;parte de la tradición de la ilustración del Cuatro de Mayo, ya que contribuían con un cosmopolitismo que apoyaba la relación política que se estaba forjando entre &lt;/f10&gt;&lt;f14&gt;el Occidente así como también con los reformistas dentro del partido.&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9081,8 +9081,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If discussions of theUnited States and otherWestern countries in the 1980s were superficial, it was because the point was not to &lt;s12/&gt;understand how those systems actually worked but instead to provide a fulcrum from which faults in the Chinese system could be criticized.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T030520Z">
-        <seg>Si las discusiones entre Estados Unidos y otros países de Occidente en la década de los 80 eran superficiales,&lt;s12/&gt;era porque el foco no suponía entender como estos sistemas funcionaban sino proveer de un punto de apoyo para criticar las fallas del sistema chino.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T030607Z">
+        <seg>Si las discusiones entre Estados Unidos y otros países de Occidente en la década de los 80 eran superficiales,&lt;s12/&gt;era porque el foco no suponía entender cómo estos sistemas funcionaban sino proveer un punto de apoyo para criticar las fallas del sistema chino.</seg>
       </tuv>
     </tu>
     <tu>
