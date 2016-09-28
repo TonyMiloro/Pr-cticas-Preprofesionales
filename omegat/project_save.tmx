@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18322,8 +18322,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The opposition of the United States to China’s bid to host the 2000 Olympics was a major turning point for many people in this regard.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T234542Z" creationid="Edgardo" creationdate="20160926T232938Z">
-        <seg>La oposición de Estados Unidos a la oferta de China de ser anfitriona de las Olimpiadas de 2000 fue un punto de inflexión importante para mucha gente en ese sentido.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T012129Z" creationid="Edgardo" creationdate="20160926T232938Z">
+        <seg>En ese sentido la oposición de Estados Unidos a la oferta de China de ser anfitriona de las Olimpiadas de 2000 fue un importante punto decisivo para mucha gente.</seg>
       </tuv>
     </tu>
     <tu>
