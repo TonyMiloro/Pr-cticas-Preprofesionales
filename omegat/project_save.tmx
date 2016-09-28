@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3350,6 +3350,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Pc" changedate="20160909T020643Z">
         <seg>A pesar de que la índole pública de este debate terminó con las medidas punitivas de junio de 1989, los temas que planteó dicho debate formaron el pensamiento de los intelectuales como así también el de los responsables políticos, y sentó las bases para nuevas discusiones en la década de los 90, las cuales retomaron los temas de aquellos debates sobre el neoautoritarismo pero también se desarrollaron nuevas direcciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although the transition was peaceful, it was hardly without tensions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130401Z" creationid="andrea" creationdate="20160928T130401Z">
+        <seg>Si bien la transición fue pacífica, era difícil sin tensiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13790,6 +13798,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nevertheless, as the Sixteenth Party Congress approached,“institutionalization” became the buzzword in media reports.The Chinese media touted Hu’s elevation to Party head as the ﬁrst peaceful transfer of power in CCP history.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130340Z" creationid="andrea" creationdate="20160928T130340Z">
+        <seg>No obstante, como el décimo sexto partido del congreso se aproximaba, la palabra “institucionalización” se convirtió en la palabra de moda de los noticieros. La prensa de China pregonaba que el nombramiento de Hu como líder del partido era la primera transferencia del poder pacífica en la historia de la RPCh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nevertheless, as we have suggested, many of these dis-cussions contained a populist element – whether it was Wang Xiaodong’s excoriation of the cultural elite who authored and directed&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;River Elegy&lt;/f2&gt;&lt;f3&gt;, He Xin’s efforts to rally support for a beleaguered government, or the economic democracy touted by Cui Zhiyuan and many others.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160923T131247Z">
@@ -19574,8 +19590,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These appointments, both made following Deng’s death, clearly put Hu in line to succeed Jiang as head of the Party, but Jiang never &lt;t2/&gt;brought Hu into his inner circle.Although Jiang accepted Hu’s heir-apparent status, he never seemed comfortable with it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130247Z" creationid="andrea" creationdate="20160928T130247Z">
-        <seg> &lt;t2/&gt;brought Hu into his inner circle.Although Jiang accepted Hu’s heir-apparent status, he never seemed comfortable with it.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130320Z" creationid="andrea" creationdate="20160928T130247Z">
+        <seg>Estos nombramientos, hechos luego de la muerte de Deng, colocó a Hu en el lugar para suceder a Jiang como líder del partido, pero Jiang nunca  &lt;t2/&gt;lo aceptó dentro de su círculo cercano. Si bien Jiang aceptó el estatus heredado de Hu, no se veía a gusto con ello.</seg>
       </tuv>
     </tu>
     <tu>
