@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24133,8 +24133,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>stepping down thirteen years later in 2002, and the Chinese economy not only continued to grow but to stir fears that it had become an unstoppable economic juggernaut as China became the manufacturing center of the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T214320Z">
-        <seg>su renuncia trece años más tarde en 2002. La economía de China no solo continuó creciendo, sino que además generó miedo ya que se había transformado en un gigante imparable al convertirse en el centro manufacturero mundial.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T214429Z">
+        <seg>su renuncia trece años más tarde en 2002. La economía de China no solo continuó creciendo, sino que, además, generó miedo ya que se había transformado en un gigante imparable al convertirse en el centro manufacturero mundial.</seg>
       </tuv>
     </tu>
     <tu>
