@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7006,8 +7006,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Development, the article went on, would be largely determined by how well the Party c&lt;t0/&gt;ould meet the complex challenges of the coming years.&lt;t1/&gt; &lt;t2/&gt;For &lt;t3/&gt;this,&lt;t4/&gt; &lt;t5/&gt;st&lt;t6/&gt;r&lt;t7/&gt;engthening&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;P&lt;t12/&gt;a&lt;t13/&gt;r&lt;t14/&gt;ty&lt;t15/&gt;’&lt;t16/&gt;s&lt;t17/&gt; &lt;t18/&gt;“&lt;t19/&gt;ability&lt;t20/&gt; &lt;t21/&gt;to&lt;t22/&gt; &lt;t23/&gt;g&lt;t24/&gt;o&lt;t25/&gt;v&lt;t26/&gt;ern”&lt;t27/&gt; &lt;t28/&gt;would&lt;t29/&gt; &lt;t30/&gt;be&lt;t31/&gt; &lt;t32/&gt;critical.&lt;t33/&gt; &lt;t34/&gt;And &lt;t35/&gt;that was the issue that the Fourth Plenary Session of the Sixteenth Central Committee&lt;t36/&gt; &lt;t37/&gt;addressed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160928T134732Z" creationid="Flor" creationdate="20160928T134732Z">
-        <seg>&lt;t0/&gt;El artículo también explicaba que el desarrollo dependería de cuán bien pudiera el partido manejar los complejos desafíos que se avecinan en los próximos años. Para ello, fortalecer “la capacidad de gobierno” del partido sería crucial. Y ese fue exactamente el tema que trató el Cuarto Pleno del XVI Congreso Partidista.
+      <tuv lang="ES-US" changeid="Flor" changedate="20160928T183011Z" creationid="Flor" creationdate="20160928T134732Z">
+        <seg>&lt;t0/&gt;El artículo también explicaba que el desarrollo dependería de cuán bien pudiera el partido manejar los desafíos complejos de los próximos años. Para ello, fortalecer “la capacidad de gobierno” del partido sería crucial. Y ese fue exactamente el tema que trató el Cuarto Plenario del XVI Congreso Partidista.
 &lt;t1/&gt; &lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt; &lt;t28/&gt;&lt;t29/&gt; &lt;t30/&gt;&lt;t31/&gt; &lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;</seg>
       </tuv>
     </tu>
