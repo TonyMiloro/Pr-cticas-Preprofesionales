@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6234,6 +6234,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Citing Jiang Zemin’s&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;1996 &lt;/f12&gt;&lt;f13&gt;statement&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;that&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;China&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;should&lt;/f19&gt;&lt;f20&gt; “&lt;/f20&gt;&lt;f21&gt;always&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;maintain&lt;/f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;f25&gt;the&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;dominant&lt;/f27&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;position&lt;/f29&gt;&lt;f30&gt; &lt;/f30&gt;&lt;f31&gt;of the&lt;/f31&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;public&lt;/f33&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;sector,”&lt;/f35&gt;&lt;f36&gt; &lt;/f36&gt;&lt;f37&gt;the&lt;/f37&gt;&lt;f38&gt; &lt;/f38&gt;&lt;f39&gt;manifesto&lt;/f39&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;argued&lt;/f41&gt;&lt;f42&gt; &lt;/f42&gt;&lt;f43&gt;that&lt;/f43&gt;&lt;f44&gt; “&lt;/f44&gt;&lt;f45&gt;dominance&lt;/f45&gt;&lt;f46&gt;” &lt;/f46&gt;&lt;f47&gt;cannot&lt;/f47&gt;&lt;f48&gt; &lt;/f48&gt;&lt;f49&gt;be rede- fined to mean that the state could simply hold a predominant share of assets within the national economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215606Z" creationid="marcelo lavarda" creationdate="20160928T215606Z">
+        <seg>[parcial]Citando la declaración&lt;t12/&gt; &lt;t13/&gt;de Jiang Zemin &lt;t14/&gt;de 1996&lt;t15/&gt; &lt;t16/&gt;de que&lt;t17/&gt; &lt;t18/&gt;China&lt;t19/&gt; &lt;t20/&gt;debería&lt;t21/&gt; “&lt;t22/&gt;mantener&lt;t23/&gt; &lt;t24/&gt;siempre&lt;t25/&gt; &lt;t26/&gt;la&lt;t27/&gt; &lt;t28/&gt;posición&lt;t29/&gt; &lt;t30/&gt;dominante&lt;t31/&gt; &lt;t32/&gt;del&lt;t33/&gt; &lt;t34/&gt;sector&lt;t35/&gt; &lt;t36/&gt;público,”&lt;t37/&gt; &lt;t38/&gt;el&lt;t39/&gt; &lt;t40/&gt;manifiesto&lt;t41/&gt; &lt;t42/&gt;sostenía&lt;t43/&gt; &lt;t44/&gt;que el&lt;t45/&gt; “&lt;t46/&gt;dominio&lt;t47/&gt;” &lt;t48/&gt;no puede&lt;t49/&gt; &lt;t50/&gt;redefinirse para significar que el estado simplemente podría hold a predominant share of assets within the national economy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Citing Jiang Zemin’s&lt;t12/&gt; &lt;t13/&gt;1996 &lt;t14/&gt;statement&lt;t15/&gt; &lt;t16/&gt;that&lt;t17/&gt; &lt;t18/&gt;China&lt;t19/&gt; &lt;t20/&gt;should&lt;t21/&gt; “&lt;t22/&gt;always&lt;t23/&gt; &lt;t24/&gt;maintain&lt;t25/&gt; &lt;t26/&gt;the&lt;t27/&gt; &lt;t28/&gt;dominant&lt;t29/&gt; &lt;t30/&gt;position&lt;t31/&gt; &lt;t32/&gt;of the&lt;t33/&gt; &lt;t34/&gt;public&lt;t35/&gt; &lt;t36/&gt;sector,”&lt;t37/&gt; &lt;t38/&gt;the&lt;t39/&gt; &lt;t40/&gt;manifesto&lt;t41/&gt; &lt;t42/&gt;argued&lt;t43/&gt; &lt;t44/&gt;that&lt;t45/&gt; “&lt;t46/&gt;dominance&lt;t47/&gt;” &lt;t48/&gt;cannot&lt;t49/&gt; &lt;t50/&gt;be rede- fined to mean that the state could simply hold a predominant share of assets within the national economy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T214440Z" creationid="Eloisa" creationdate="20160928T213526Z">
@@ -7401,6 +7409,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165719Z" creationid="Soledad Mori" creationdate="20160927T165719Z">
         <seg>El artículo se titulaba </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entitled “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” this article was written by the editorial office of the conservative journal &lt;/f4&gt;&lt;f5&gt;Contemporary Trends &lt;/f5&gt;&lt;f6&gt;and pub- lished in the fourth issue of &lt;/f6&gt;&lt;f7&gt;1996&lt;/f7&gt;&lt;f8&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215632Z" creationid="marcelo lavarda" creationdate="20160928T215632Z">
+        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” (Varios problemas teóricos y de políticas sobre la posición dominante de la propiedad pública) este artículo lo escribió la editorial del diario conservador &lt;t5/&gt;Contemporary Trends &lt;t6/&gt;y se publicó en la cuarta edición de &lt;t7/&gt;1996&lt;t8/&gt;.&lt;t9/&gt; Este manifiesto se enfocó en el problema de la propiedad y particularmente en la política de “tomar lo grande y dejar ir lo pequeño” que se había adoptado en &lt;t10/&gt;1995&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
