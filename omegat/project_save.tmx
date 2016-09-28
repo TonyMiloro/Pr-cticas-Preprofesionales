@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10395,8 +10395,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In fact, it does not mention “drawing a line” between Marxism and anti-Marxism; there is neither criticism of dogmatic interpretations of Marxism nor any effort, such as in Xing Bensi’s article, to define what constitutes “true” Marxism in the contemporary world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215427Z">
-        <seg>De hecho, no hace referencia a "trazar una línea" entre marxismo y anti-marxismo. Tampoco hay una crítica a las interpretaciones dogmáticas del Marxismo, ni esfuerzo alguno para definir qué es "realmente" aquello que constituye al marxismo en el mundo contemporáneo, como  sí lo hace Xing Bensi en su artículo.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215435Z">
+        <seg>De hecho, no hace referencia a "trazar una línea" entre marxismo y anti-marxismo. Tampoco hay una crítica a las interpretaciones dogmáticas del marxismo, ni esfuerzo alguno para definir qué es "realmente" aquello que constituye al marxismo en el mundo contemporáneo, como  sí lo hace Xing Bensi en su artículo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18284,8 +18284,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The conservative, cautious tone of the resolution reflected the tense atmosphere at the top of the Party in the months preceding Deng’s death.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160908T201336Z">
-        <seg>El tono conservador y cauto del fallo refleja el ambiente de tensión que se vivió entre los líderes del partido los meses previos a la muerte de Deng</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215529Z">
+        <seg>El tono conservador y cauto del fallo refleja el ambiente de tensión que se vivió entre los líderes del partido los meses previos a la muerte de Deng. </seg>
       </tuv>
     </tu>
     <tu>
