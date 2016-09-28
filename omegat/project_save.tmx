@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6500,8 +6500,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>December 5–6</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160902T225919Z">
-        <seg>5–6 de diciembre</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T201746Z">
+        <seg>5 a 6 de diciembre</seg>
       </tuv>
     </tu>
     <tu>
@@ -12104,8 +12104,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>January 7–8 Rural Work Conference</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183147Z">
-        <seg>7 - 8 de enero Conferencia de Trabajo Rural</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T201759Z">
+        <seg>7 a 8 de enero Conferencia de Trabajo Rural</seg>
       </tuv>
     </tu>
     <tu>
@@ -12120,8 +12120,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>January 7–9 National meeting of propaganda heads</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183140Z">
-        <seg> 7 - 9 de enero Encuentro Nacional de jefes de propaganda</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T201756Z">
+        <seg>7 a 9 de enero Encuentro Nacional de jefes de propaganda</seg>
       </tuv>
     </tu>
     <tu>
@@ -13354,8 +13354,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>March 5–11 First Session of the Tenth National People’s Congress Meeting.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T183204Z">
-        <seg>5 - 11 de marzo Primera sesión de la reunión del Décimo Congreso National del Pueblo</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T201802Z">
+        <seg>5 a 11 de marzo Primera sesión de la reunión del Décimo Congreso National del Pueblo</seg>
       </tuv>
     </tu>
     <tu>
