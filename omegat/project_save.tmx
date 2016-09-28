@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6036,8 +6036,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>China’s proposed entrance into the WTO thus struck an uneasy balance&lt;t0/&gt; &lt;t1/&gt;between the desire of Chinese leaders to demonstrate China’s “great power”&lt;t2/&gt; &lt;t3/&gt;status and to further economic development by joining the international&lt;t4/&gt; &lt;t5/&gt;economy on one side, and, on the other, the protectionist instincts of&lt;t6/&gt; &lt;t7/&gt;some regions and bureaucracies, the ideological and political &lt;t8/&gt;concerns that&lt;t9/&gt; &lt;t10/&gt;such integration might prove socially disruptive, the concerns of New Left&lt;t11/&gt; &lt;t12/&gt;intellectuals, and the populist nationalism of a large segment of the public.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160926T201853Z">
-        <seg>El ingreso propuesto de China en la OMC causó un balance incómodo&lt;t0/&gt; &lt;t1/&gt;entre el deseo de los líderes chinos de demonstrar el estatus de "gran poder" de&lt;t2/&gt; &lt;t3/&gt;China y de avanzar el desarrollo económico al unir la economía&lt;t4/&gt; &lt;t5/&gt;internacional por un lado, y, por el otro, los instintos proteccionistas de&lt;t6/&gt; &lt;t7/&gt;algunas regiones y burocracias, las preocupaciones ideológicas y&lt;t8/&gt;políticas que&lt;t9/&gt; &lt;t10/&gt;tal integración podría resultar socialmente perturbadora, las preocupaciones de los intelectuales de la Nueva&lt;t11/&gt; &lt;t12/&gt;Izquierda, y el nacionalismo populista de un gran segmento del público.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160928T194347Z">
+        <seg>El ingreso propuesto de China en la OMC causó un balance incómodo&lt;t0/&gt; &lt;t1/&gt;entre el deseo de los líderes chinos de demonstrar el estatus de "gran poder" de&lt;t2/&gt; &lt;t3/&gt;China y de avanzar el desarrollo económico al unir la economía&lt;t4/&gt; &lt;t5/&gt;internacional por un lado, y, por el otro, los instintos proteccionistas de&lt;t6/&gt; &lt;t7/&gt;algunas regiones y burocracias, las preocupaciones ideológicas y&lt;t8/&gt;políticas que&lt;t9/&gt; &lt;t10/&gt;tal integración podría resultar socialmente perturbadora, las preocupaciones de los intelectuales de la nueva&lt;t11/&gt; &lt;t12/&gt;izquierda, y el nacionalismo populista de un gran segmento del público.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7880,8 +7880,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Following China’s failed bid to become an inaugural member of the&lt;t0/&gt; &lt;t1/&gt;WTO, the 1995–6 Taiwan Straits crisis further delayed negotiations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160909T223351Z">
-        <seg>Luego de la oferta fallida de China para covertise en un miembro inaugural de la &lt;t0/&gt; &lt;t1/&gt;OMC,  la Crisis del Estrecho de Taiwán de 1995–6 atrasó aún más las negociaciones.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160928T194611Z">
+        <seg>Luego de la oferta fallida de China para covertise en un miembro inaugural de la &lt;t0/&gt; &lt;t1/&gt;OMC,  la crisis del Estrecho de Taiwán de 1995–6 atrasó aún más las negociaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12898,8 +12898,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Li was always a major voice&lt;t0/&gt; &lt;t1/&gt;within the Chinese government against close ties with the United States.&lt;t2/&gt; &lt;t3/&gt;Not only did he move slowly and reluctantly in the period following Tiananmen&lt;t4/&gt; &lt;t5/&gt;to improve bilateral relations (e.g., by ending martial law and allowing&lt;t6/&gt; &lt;t7/&gt;astrophysicist Fang &lt;t8/&gt;Lizhi&lt;t9/&gt; to leave the US Embassy for exile), he also used&lt;t10/&gt; &lt;t11/&gt;his position as head of the Foreign Affairs Leadership Small Group to&lt;t12/&gt; &lt;t13/&gt;undercut efforts by the Ministry of Foreign Affairs to improve Sino–US&lt;t14/&gt; &lt;t15/&gt;relations.32 Given the division of labor on the Politburo Standing Committee,&lt;t16/&gt; &lt;t17/&gt;it was easy for Li to set a tone on foreign policy that made it difficult&lt;t18/&gt; &lt;t19/&gt;for Jiang &lt;t20/&gt;Zemin&lt;t21/&gt; to improve relations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160919T131355Z">
-        <seg>Li siempre fue una voz importante&lt;t0/&gt; &lt;t1/&gt;dentro del gobierno chino en contra de las relaciones cercanas con los Estados Unidos.&lt;t2/&gt; &lt;t3/&gt;No solo se movilizó de forma lenta y a regañadientes en el período que le siguó a Tiananmen &lt;t4/&gt; &lt;t5/&gt;para mejorar relaciones bilaterales(por ejemplo, al finalizar la ley marcial y permitir al&lt;t6/&gt; &lt;t7/&gt;astrofísico Fang &lt;t8/&gt;Lizhi&lt;t9/&gt; abandonar la embajada estadounidense por exilio), también hizo uso de&lt;t10/&gt; &lt;t11/&gt;su posición como jefe del Principal Grupo Pequeño Asuntos Exteriores para&lt;t12/&gt; &lt;t13/&gt;debilitar los esfuerzos del Ministerio de Asuntos Exteriores para mejorar las relaciones entre&lt;t14/&gt; &lt;t15/&gt;Estados Unidos y China. Dada la división de trabajo en el Comité Permanente del Buró Político,&lt;t16/&gt; &lt;t17/&gt;le fue fácil a Li establecer un tono en políticas extranjeras que le dificultaron&lt;t18/&gt; &lt;t19/&gt;mejorar las &lt;t20/&gt;relaciones&lt;t21/&gt; a Jiang Zemin.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160928T194924Z">
+        <seg>Li siempre fue una voz importante&lt;t0/&gt; &lt;t1/&gt;dentro del gobierno chino en contra de las relaciones cercanas con los Estados Unidos.&lt;t2/&gt; &lt;t3/&gt;No solo se movilizó de forma lenta y a regañadientes en el período que le siguó a Tiananmen &lt;t4/&gt; &lt;t5/&gt;para mejorar relaciones bilaterales(por ejemplo, al finalizar la ley marcial y permitir al&lt;t6/&gt; &lt;t7/&gt;astrofísico Fang &lt;t8/&gt;Lizhi&lt;t9/&gt; abandonar la embajada estadounidense por exilio), también hizo uso de&lt;t10/&gt; &lt;t11/&gt;su posición como jefe del Principal Grupo Pequeño Asuntos Exteriores para&lt;t12/&gt; &lt;t13/&gt;debilitar los esfuerzos del Ministerio de Asuntos Exteriores para mejorar las relaciones entre&lt;t14/&gt; &lt;t15/&gt;Estados Unidos y China. Dada la división de trabajo en el Comité Permanente del Buró Político,&lt;t16/&gt; &lt;t17/&gt;le fue fácil a Li establecer un ambiente en políticas exteriores que le dificultaron&lt;t18/&gt; &lt;t19/&gt;mejorar las &lt;t20/&gt;relaciones&lt;t21/&gt; a Jiang Zemin.</seg>
       </tuv>
     </tu>
     <tu>
