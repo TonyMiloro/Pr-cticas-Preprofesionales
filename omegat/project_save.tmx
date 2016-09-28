@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6484,8 +6484,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Could there be a model of reform that preserved China’s identity, avoided the economic and political inequalities associated with capitalism, and yet developed the economy?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T055630Z">
-        <seg>¿Es posible un modelo de reforma que conserve a identidad de China, evite las injusticias económicas y políticas asociadas con el capitalismo y aún así genere un desarrollo económico? </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T214702Z">
+        <seg>¿Es posible un modelo de reforma que conserve la identidad de China, evite las injusticias económicas y políticas asociadas con el capitalismo y aún así genere un desarrollo económico? </seg>
       </tuv>
     </tu>
     <tu>
@@ -20792,8 +20792,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This new atmosphere tended to push democratic activists to the margins of Chinese intellectual and social life.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T055635Z">
-        <seg>Este nuevo ambiente tendió a impulsar a los activistas democráticos hacia los márgenes de la vida intelectual y social en China. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T214956Z">
+        <seg>Este nuevo ambiente se ocupó de impulsar a los activistas democráticos hacia los márgenes de la vida intelectual y social en China. </seg>
       </tuv>
     </tu>
     <tu>
