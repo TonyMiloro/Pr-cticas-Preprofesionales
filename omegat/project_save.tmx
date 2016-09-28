@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3498,6 +3498,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And Zeng Qinghong, Jiang’s closest associate, not only joined the PBSC but was also named to head the Secretariat, the body that oversees the implementation of Politburo decisions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T182811Z" creationid="andrea" creationdate="20160928T182811Z">
+        <seg>Y Zeng Qinghong, el socio más cercano de Jiang, no solo formaría parte del PBSC, pero también sería nombrado líder de la secretaría, el cuerpo que supervisa la implementación de las decisiones de Politburó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And both &lt;t154/&gt;Wu &lt;t155/&gt;and &lt;t156/&gt;Wang &lt;t157/&gt;were known as officials who could get things done.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160920T195850Z">
@@ -5110,6 +5118,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="XP" changedate="20160915T034135Z">
         <seg>Pero es claro que las presiones políticas y sociales a favor y en contra de distintos tipos de medidas de reforma son más complicadas de lo que eran hace apenas unos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But this did not happen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T182727Z" creationid="andrea" creationdate="20160928T182727Z">
+        <seg>Pero esto no sucedió.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9168,6 +9184,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hu’s position was obviously delicate.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T182827Z" creationid="andrea" creationdate="20160928T182827Z">
+        <seg>La posición de Hu era obviamente delicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hu’s succession was more the result of a balance of power in the Party, Hu’s own talents as a political leader, and the weight of Deng Xiaoping’s arrangements than it was an indication of institutionalization.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Yani" changedate="20160922T185446Z">
@@ -11544,6 +11568,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160915T142556Z">
         <seg>Incluso le parecía atractivo &lt;t20/&gt;a&lt;t21/&gt; muchos&lt;t22/&gt; &lt;t23/&gt;que deseaban tanto que China fuera reconocida como un poder mayor como&lt;t24/&gt; &lt;t25/&gt;que se uniera por completo al sistema internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It had been widely predicted that at least one or two of Hu Jintao’s close allies from his CYL days, such as Li Keqiang or Li Yuanchao, would be promoted to the Politburo both to support the new general secretary and as possible candidates to replace Hu in 2011 at the Eighteenth Party Congress (assuming Hu will serve two terms).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T182657Z" creationid="andrea" creationdate="20160928T182657Z">
+        <seg>Había sido abiertamente predicho que al menos uno o dos de los aliados más cercanos de Hu Jintao de sus días LJC, como Li Keqiang o Li Yuanchao, serían promovidos al Politburó para apoyar al nuevo secretario general y como posibles candidatos para reemplazar a Hu en 2011 en el Décimoctavo Congreso del Partido (presuponiendo que Hu desempeñará dos mandatos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22132,6 +22164,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T204239Z">
         <seg>Cuando Qiao llegó a la presidencia de la APN en marzo de 1993, se vio obligado a abandonar sus otros puestos como secretario de la poderosa Comisión Central de Asuntos Políticos y Legales del PCCh y rector de la Escuela del Partido del Comité Central del PCCh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When Zeng Qinghong spoke at the Central Party School in late November 2002,hetalked of cadres being “under the ﬁrm leadership of the Party center with Hu Jintao as general secretary,” a formulation that conspicuously denied Hu the designation of “core,” a term that had been used to signal Jiang Zemin’s paramount status.34 When the People’s Daily listed China’s leadership, it listed Jiang Zemin ﬁrst, ahead of Hu.35 And when Hu gave an inner-Party acceptance speech, he promised to “seek instruction and listen to the views of Jiang Zemin.”36 As the designated successor to a politician still very much alive, Hu Jintao needed to follow two contradictory imperatives: ﬁrst, he had to demonstrate loyalty, and second, he had to establish independent authority, a task that included promoting people loyal to him, building coalitions, and articulating his own political program.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T182854Z" creationid="andrea" creationdate="20160928T182854Z">
+        <seg>Cuando Zeng Qinhong habló en la Escuela Central del Partido a fines de Noviembre de 2002, habló del cuadro que estaba “bajo el firme liderazgo  del centro del Partido con Hu Jiantao como secretario general”, una afirmación que visiblemente le negaba a Hu la designación de “núcleo”, un término que había sido usado para señalar el estado de mayor importancia de Jiang Zemin. 34 Cuando el diario People´s Daily  publicó una lista del liderazgo de China, pusieron a Jiang Zemin primero, por delante de Hu. 35 Y cuando Hu ofreció su discurso de aceptación interna del partido, prometió “procurar instrucción y escuchar las opiniones de Jiang Zemin”. 36 Como el sucesor designado para un político con aún mucha fuerza. Hu Jintao necesitaba seguir dos imperativos contradictorios: primero, tenía que demostrar lealtad, y segundo, tenía que establecer autoridad independiente, una tarea que incluía promover a las personas leales a él, construyendo alianzas, y articulando su propio programa político.</seg>
       </tuv>
     </tu>
     <tu>
