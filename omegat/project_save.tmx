@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1480,6 +1480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In a single stroke, Jiang Zemin moved against one of the most entrenched local leaders in the country, made a bid for popular support in the campaign against&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;corruption, and acted against powerful people who might oppose him in the future – including the Deng family and Party elder Wan Li (Wan was a longtime supporter of Shougang and, as a former vice-mayor of Beijing, had close ties to the city’s leadership).&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T011400Z" creationid="Daniel-Andrea" creationdate="20160928T011400Z">
+        <seg>&lt;f0&gt;Jiang Zemin, de un solo golpe, tomó medidas contra los líderes más afianzados del país, apostó por el apoyo popular en la campaña&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt; anticorrupción y atentó contra las personas más poderosas que podrían oponerse a él en el futuro, incluida la familia de Deng y uno de los miembros veteranos del partido, Wan Li (Wan había sido colaborador durante mucho tiempo de Shougang y, como ex vicealcalde de Pekín, tenía una estrecha relación con los líderes de la ciudad).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In late April, Vice-Premier Tian Jiyun went to the Central Party School&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;and la&lt;/f2&gt;&lt;bk3/&gt;&lt;f4&gt;mbasted leftists for having “basically repudiated all the most fundamental and substantial elements that we have upheld since reform and opening up.” In a barb apparently directed at General Secretary Jiang Zemin, Tian declared that “[t]o do away with ‘leftist’ influence, one must particularly guard against those who bend with the wind, the political acrobats &lt;s5/&gt;who readily vacillae in attitude.” With a parody rare in Chinese politics, Tian told his listeners that leftists should go to a “special leftist zone” in which there would be total state planning, supplies would be rationed, and people could line up for food and other consumer items.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T172504Z" creationid="Soledad Mori" creationdate="20160927T172504Z">
@@ -1748,6 +1756,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T013620Z">
         <seg>La resistencia evidente a hacer público el viaje de Deng (y el posterior proceso de cesión parcial y la continuación de la resistencia en forma simultánea) es un reflejo de la naturaleza extremadamente ambigua de las relaciones en las altas esferas del PCCh a comienzo de la década de 1990&lt;f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The ouster and investigation of Chen Xitong reflected old-style politics, as one powerful politician defeated another and increased his hold on power, but it was also part of Jiang’s popular campaign against corruption and was used to burnish the leader’s reputation with the public.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T011412Z" creationid="Daniel-Andrea" creationdate="20160928T011412Z">
+        <seg>&lt;f0&gt;La destitución e investigación de Chen Xitong fue reflejo de políticas antiguas: un político poderoso derrotó a otro y ganó más control en el poder; pero también fue parte de la popular campaña anticorrupción de Jiang y se usó para pulir la reputación del líder con el público.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4246,6 +4262,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T002653Z">
         <seg>En este encuentro,los líderes del Partido Conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de infundir un nuevo fuego dentro del movimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the Party’s Fifth Plenary Session in September 1995, Chen was officially removed as a member of the Politburo and in 1998 was sentenced to sixteen years in jail, though he was later released on medical parole.&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;18&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T011308Z" creationid="Daniel-Andrea" creationdate="20160928T011308Z">
+        <seg>Durante el Quinto Pleno del partido, en septiembre de 1995, se destituyó oficialmente a Chen como miembro del Politburó y, en 1998, fue sentenciado a 16 años de cárcel, aunque más adelante se le otorgó libertad condicional por motivos médicos&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;18.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9659,6 +9683,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T205952Z">
         <seg>Además, se vendieron 428 886 millones de metros cuadrados de viviendas, un aumento del 40 % respecto al año anterior. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, Deng Xiaoping’s son, Deng Zhifang (a manager with Shougang International), was apparently detained and questioned with regard to the case, though no charges were filed against him.&lt;/f0&gt;&lt;f1&gt;17&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T011222Z" creationid="Daniel-Andrea" creationdate="20160928T011222Z">
+        <seg>Además, el hijo de Deng Xiaoping, Deng Zhifang (director en Shougang International), aparentemente fue detenido e interrogado sobre el caso, aunque no se levantaron cargos en su contra&lt;/f0&gt;&lt;f1&gt;17&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17593,6 +17625,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="Diego" changedate="20160928T010216Z" creationid="Diego" creationdate="20160928T010112Z">
         <seg>El documento continuaba con la advertencia de que la confusión ideológica en el partido (particularmente la creencia de que no era necesario determinar si una política determinada era “capitalista” o “socialista”, un enfoque agnóstico que derivaba directamente la visita de Deng al sur) podría conducir al surgimiento de un líder al estilo Gorbachev dentro del PCCh dentro de los próximos diez a veinte años, aunque presuntamente el autor estaba interesado en un plazo mucho más corto.&lt;/f10&gt;&lt;/f9&gt;      </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document went on to warn that the ideological confusion in the Party – particularly the belief that it is not necessary to determine whether a given policy is “capitalist” or “socialist,” an agnostic approach that derived directly from Deng’s trip to the south – might lead to the appearance of a Gorbachev-type leader within the CCP in the next ten to twenty years, though presumably the author was concerned about a much shorter time frame.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T011150Z" creationid="Daniel-Andrea" creationdate="20160928T011150Z">
+        <seg>El documento continuaba con la advertencia de que la confusión ideológica en el partido (particularmente la creencia de que no era necesario determinar si una política determinada era “capitalista” o “socialista”, un enfoque agnóstico que derivaba directamente la visita de Deng al sur) podría conducir al surgimiento de un líder al estilo Gorbachev dentro del PCCh dentro de los próximos diez a veinte años, aunque presuntamente el autor estaba interesado en un plazo mucho más corto.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
