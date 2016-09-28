@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6268,8 +6268,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Democracy activists and their supporters in theWest continued to see issues largely as they had in the 1980s, hoping that a democratic movement would &lt;f0&gt;bring down the old order and bring forth a new democratic order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T214608Z">
-        <seg>Estos activistas en favor de la democracia y sus adeptos en Occidente continuaron viendo asuntos en gran medida como lo habían hecho en la década de los 80, con la esperanza de que un gobierno democrático&lt;f0&gt; abatiera el viejo orden y diera lugar a un nuevo orden democrático.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002226Z">
+        <seg>Estos activistas a favor de la democracia y sus adeptos en Occidente continuaron viendo asuntos en gran medida como lo habían hecho en la década de los 80, con la esperanza de que un gobierno democrático&lt;f0&gt; abatiera el viejo orden y diera lugar a un nuevo orden democrático.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19811,8 +19811,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This reaction, it should be noted, differed greatly both from views widely held in the West and by democracy activists in both China and the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002055Z">
-        <seg>Cabe destacar, que esta reacción se diferenciaba enormemente tanto de la perspectiva que respaldaban en Occidente como de los activistas en favor de la democracia en China así como también en Occidente.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002149Z">
+        <seg>Cabe destacar  que esta reacción se diferenciaba en gran medida, tanto de la perspectiva que respaldaban en Occidente como de los activistas a favor de la democracia en China así como también en Occidente.</seg>
       </tuv>
     </tu>
     <tu>
