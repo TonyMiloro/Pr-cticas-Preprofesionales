@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14258,8 +14258,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Neither of Mao Zedong’s first two designated successors, Liu Shaoqi or Lin Biao, was successful in replacing Mao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T005623Z">
-        <seg>Ninguno de los dos herederos designados por Mao Zedong, Liu Shaoqi o Lin Biao tuvieron éxito en reemplazar a Mao. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T233529Z">
+        <seg>Ninguno de los dos herederos designados por Mao Zedong, Liu Shaoqi o Lin Biao, tuvo éxito en reemplazar a Mao. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15331,8 +15331,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Only Hua Guofeng, cho-sen as Mao was nearing death, was able to succeed, but he was too junior in the informal political hierarchy to survive for long.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T233301Z">
-        <seg>Solo Hua Guofeng, elegido cuando Mao estaba al borde de la muerte, fue capaz de sucederlo, pero estaba muy abajo en  la jerarquía política informal para perpetuarse en el poder.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T233422Z">
+        <seg>Solo Hua Guofeng, elegido cuando Mao estaba al borde de la muerte, fue capaz de sucederlo, pero estaba muy abajo en la jerarquía política informal para perpetuarse en el poder.</seg>
       </tuv>
     </tu>
     <tu>
