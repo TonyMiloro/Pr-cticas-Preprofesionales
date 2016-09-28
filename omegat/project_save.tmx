@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19190,8 +19190,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The ﬁrst was the degree to which China’s policies would change to reﬂect the social challenges discussed above, and the second was the degree to which power could be transferred smoothly.Given the degree to which policy and power have been interrelated in China, these two issues were inevitably linked to one another.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003121Z">
-        <seg>El primero se refería al grado en que la política de China cambiaría para reflejar los desafíos sociales, mencionados con anterioridad y el segundo al grado de fluidez con la que el poder podría transferirse. Debido a que tanto la política como el poder han estado interrelacionados en China, estos temas se vinculan de manera inevitable.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T122343Z">
+        <seg>El primero seera el grado en que la política de China debería cambiar para abordar los desafíos sociales, mencionados con anterioridad y el segundo al grado de fluidez con la que el poder podría transferirse. Debido a que tanto la política como el poder han estado interrelacionados en China, estos temas se vinculan de manera inevitable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21880,8 +21880,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When theSixteenth Party Congress convened in Beijingi nearly November 2002, there were two major issues on the agenda, both of which would extend at least through the Seventeenth Party Congress in 2007.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160909T231901Z">
-        <seg>Cuando el Décimo Sexto Congreso del Partido se reunió en Pekín en noviembre de 2002, había dos temas de gran importancia para tratar, que se extenderían al menos durante el Décimo Séptimo Congreso del Partido en el 2007.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T122221Z">
+        <seg>Cuando el Décimo Sexto Congreso del Partido se reunió en Pekín losprimeros días de noviembre de 2002, había dos temas de gran importancia para tratar, que se seguirían debatiendo al menos hasta el Décimo Séptimo Congreso del Partido en 2007.</seg>
       </tuv>
     </tu>
     <tu>
