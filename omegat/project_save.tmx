@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13132,6 +13132,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T015358Z">
         <seg>Las revistas literarias están cambiando &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt; de dirección en grandes números, hay un deterioro universal en la calidad de la nueva literatura, el número de lectores con habilidad de apreciar (lo que están leyendo) está decayendo de manera contínua, y la cantidad de escritores y críticos que descubrieron que han elegido la carrera equivocada y que están saltando "al mar" [de los negocios] está creciendo más y más"&lt;/f4&gt;&lt;f5&gt;18. &lt;/f5&gt;&lt;f6&gt;Intentar mantener los valores de una élite cultural a pesar de las presiones comerciales fue una tarea cada vez más ingrata, e incluso a aquellos decididos a perseguir tal ideal, les pareció necesario redefinir sus roles en la sociedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Liu’s&lt;/f91&gt;&lt;f92&gt; &lt;/f92&gt;&lt;f93&gt;role in this episode certainly exacerbated his relations with many reform-minded intellectuals, but it demonstrated his personal loyalty to Jiang.&lt;/f93&gt;&lt;a94&gt;&lt;f95&gt;67&lt;/f95&gt;&lt;/a94&gt;&lt;f96&gt; &lt;/f96&gt;&lt;f97&gt;In &lt;/f97&gt;&lt;f98&gt;1993&lt;/f98&gt;&lt;f99&gt;, Jiang transferred Liu to Beijing, appointing him as vice-president of CASS.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Vere" changedate="20160928T203514Z" creationid="Vere" creationdate="20160928T203514Z">
+        <seg>El papel que jugó Liu en este episodio ciertamente exacerbó sus relaciones con muchos intelectuales reformistas, pero demostró su lealtad personal a Jiang. En 1993, Jiang transfirió a Liu a Pekín y lo nombró vicepresidente de la CASS.</seg>
       </tuv>
     </tu>
     <tu>
