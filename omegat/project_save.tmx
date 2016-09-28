@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6292,8 +6292,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Democracy activists and their supporters in theWest continued to see issues largely as they had in the 1980s, hoping that a democratic movement would &lt;f0&gt;bring down the old order and bring forth a new democratic order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002723Z">
-        <seg>Estos activistas a favor de la democracia y sus adeptos en Occidente continuaron viendo asuntos en gran parte como lo habían hecho en la década de los 80, con la esperanza de que un gobierno democrático&lt;f0&gt; abatiera al viejo orden y diera lugar a unp nuevo.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T003550Z">
+        <seg>Estos activistas a favor de la democracia y sus adeptos en Occidente continuaron viendo asuntos en gran parte como lo habían hecho en la década de los 80, con la esperanza de que un gobierno democrático&lt;f0&gt; abatiera al viejo orden y diera lugar a uno nuevo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18859,8 +18859,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;possibility of such a scenario ending in social chaos was rarely discussed, and this is why democratic activists found themselves isolated not only from the Chinese government but also from many of the same intellectuals who had supported them in the heady days of spring 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002906Z">
-        <seg>La &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;posibilidad de que  tal escenario terminara en un caos social se discutió pocas veces; y es por eso que los activistas a favor de la democracia se encontraron apartados no solo del gobierno chino sino también de muchos de los mismos intelectuales.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002942Z">
+        <seg>La &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;posibilidad de que  tal escenario terminara en un caos social se discutió pocas veces; y es por eso que los activistas a favor de la democracia se encontraron apartados no solo del gobierno chino sino también de muchos de los mismos intelectuales que los habían apoyado en los .</seg>
       </tuv>
     </tu>
     <tu>
