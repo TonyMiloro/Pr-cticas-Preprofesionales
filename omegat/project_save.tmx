@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13682,8 +13682,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Marxism in China is a modernizing ideology, and Mao Zedong’s socialist thought was a type of “modernist theory that was opposed to capitalist modernity.” Elsewhere, Wang goes further, pointing out the contradictions within the modernist project and arguing that “a modernity opposed to modernity is not only a special manifestation of Chinese thinkers but a reflection of the structural contradictions within modernity itself.” Arguing that the categories of “socialism” and “capitalism” are no longer meaningful in a marketized and globalized China, Wang has tried to develop an approach that transcends not only those categories but also such dichotomies as Western versus Chinese and modern versus traditional.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160928T220544Z" creationid="ROMI" creationdate="20160928T155008Z">
-        <seg>El Marxismo en China es una ideología modernizadora, y el pensamiento socialista de Mao Zedong´s era un tipo de "teoría progresista que se oponia a la modernidad capitalista". En otra parte, Wang va más lejos, señalando las contra </seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160928T221856Z" creationid="ROMI" creationdate="20160928T155008Z">
+        <seg>El Marxismo en China es una ideología modernizadora, y el pensamiento socialista de Mao Zedong´s era un tipo de "teoría progresista que se oponia a la modernidad capitalista". En otra parte, Wang va más lejos, señalando las contradicciones dentro del proyecto progresista y argumentando que lamodernidad en oposición a la modernidad no es solo una manifestación especial de los pensadores chinos sino una reflexión de las contradicciones estrecturales dentro de la modernidad en sí. Argumentar que las categorias de "socialismo" y "capitalismo" no son más significativas en una China </seg>
       </tuv>
     </tu>
     <tu>
