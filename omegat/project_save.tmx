@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10026,8 +10026,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In Deng’s talk on the eve of the Fourth Plenum, he also called for “doing some things to satisfy the people.”48 In response, the State Council in July passed a resolution on resolving problems the people were concerned about, especially restricting the activities of leading cadres’ families, and on reorganizing suspect companies.49</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T235853Z">
-        <seg>En el discurso en la vispera del Cuarto Pleno, tambien llamó a " realizar algunas cosas para satisfacer al pueblo".48. En respuesta, el Consejo de Estado en julio aprobó una resolución para resolver los problemas que preocupaban a las personas, especialmente para restringir las actividades de familias dirigentes y reorganizar companias sospechosas.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T233843Z">
+        <seg>En el discurso en la vispera del Cuarto Pleno, tambien llamó a " realizar algunas cosas para satisfacer al pueblo".48. En respuesta, el Consejo de Estado en julio aprobó una resolución para resolver los problemas que preocupaban a las personas, especialmente para restringir las actividades de familias dirigentes y reorganizar companias sospechosas.49.</seg>
       </tuv>
     </tu>
     <tu>
