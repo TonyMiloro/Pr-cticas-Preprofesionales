@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17783,8 +17783,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The failure of socialism in Eastern Europe and the Soviet Union, the new awareness of globalization that that collapse brought about, the commercialization &lt;/f0&gt;&lt;f1&gt;of Chinese society and culture, the changing status of &lt;/f1&gt;&lt;f2&gt;intellectuals, the changed perceptions of the United States, the raising of new questions about the effects and goals of reform, heightened concerns about social and political stability, and nuts and bolts questions about how one might successfully carry out reform all pointed to an intellectual atmosphere that was vastly different from that in the 1980s.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160927T123742Z" creationid="Edgardo" creationdate="20160926T234924Z">
-        <seg>El fracaso del socialismo en Europa oriental y la Unión Soviética, la nueva concientización sobre la globalización que ese colapso ocasionó, la comercialización &lt;/f0&gt;&lt;f1&gt;de la sociedad y la cultura china, el cambio de posición social de los &lt;/f1&gt;&lt;f2&gt;intelectuales, el cambio en las percepciones sobre Estados Unidos, el surgimiento de nuevas cuestiones acerca de los efectos y los objetivos de la reforma, el aumento en la preocupación por una estabilidad social y política, y todos los secretos acerca de cómo uno podría llevar a cabo una reforma exitosa, todo eso apuntaba a un ambiente intelectual que era muy diferente de aquel ambiente en la década de los 80.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T012238Z" creationid="Edgardo" creationdate="20160926T234924Z">
+        <seg>El fracaso del socialismo en Europa oriental y en la Unión Soviética, la nueva concientización sobre la globalización que ese colapso ocasionó, la comercialización &lt;/f0&gt;&lt;f1&gt;de la sociedad y la cultura china, el cambio de posición social de los &lt;/f1&gt;&lt;f2&gt;intelectuales, el cambio en las percepciones sobre Estados Unidos, el surgimiento de nuevas cuestiones acerca de los efectos y los objetivos de la reforma, el aumento en la preocupación por una estabilidad social y política, y todos los secretos acerca de cómo uno podría llevar a cabo una reforma exitosa, todo eso apuntaba a un ambiente intelectual que era muy diferente de aquel ambiente en la década de los 80.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
