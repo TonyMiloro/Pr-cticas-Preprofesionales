@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11228,8 +11228,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, more than any other&lt;t6/&gt; &lt;t7/&gt;issues, China’s proposed membership in the WTO and the reaction to the&lt;t8/&gt; &lt;t9/&gt;embassy bombing demonstrate the coming together – at least temporarily&lt;t10/&gt; &lt;t11/&gt;– &lt;t12/&gt;ofelite&lt;t13/&gt; politics and public opinion.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205347Z">
-        <seg>De hecho, más que cualquier otro problema, China había propuesto la membresía en la OMC y la reaccion ante el bombardeo a la embajada  que demostró la unión, por lo menos temporal, de politicas élitarias y las opiniones públicas.  .</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205733Z" creationid="Jesica" creationdate="20160915T145529Z">
+        <seg>De hecho, más que cualquier otro problema, China había propuesto la membresía en la OMC y la reaccion ante el bombardeo a la embajada  demostró la unión, por lo menos temporal, de politicas élitarias y las opiniones públicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22650,8 +22650,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Without understanding the change in&lt;t14/&gt; &lt;t15/&gt;political atmosphere and public opinion described in the previous chapters,&lt;t16/&gt; &lt;t17/&gt;neither the actions of the government nor those of the students in the spring&lt;t18/&gt; &lt;t19/&gt;of 1999 makes sense.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Jesica" changedate="20160914T024321Z">
-        <seg>sin endender el cambio en la atmosfera politica y la opinion publica descripta en los capitulos anteriores, ni las acciones del gobierno ni esos estudiantes en la primavera de 1999 tuvieron sentido.</seg>
+      <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205808Z">
+        <seg>sin entender el cambio en la atmosfera politica y la opinion publica descripta en los capitulos anteriores, ni las acciones del gobierno ni esos estudiantes en la primavera de 1999 tuvieron sentido.</seg>
       </tuv>
     </tu>
     <tu>
