@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1714,8 +1714,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;f1&gt;IXTH PLENUM: BUILDING SPIRITUAL CIVILIZATION&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160907T171212Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;SEXTO PLENO: HACIA LA CONSTRUCCIÓN DE UNA CIVILIZACIÓN ESPIRITUAL&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215319Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;SEXTO PLENARIO: HACIA LA CONSTRUCCIÓN DE UNA CIVILIZACIÓN ESPIRITUAL&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10395,8 +10395,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In fact, it does not mention “drawing a line” between Marxism and anti-Marxism; there is neither criticism of dogmatic interpretations of Marxism nor any effort, such as in Xing Bensi’s article, to define what constitutes “true” Marxism in the contemporary world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025228Z">
-        <seg>De hecho, no hace referencia a "trazar una línea" entre Marxismo y Anti-marxismo. Tampoco hay una crítica a las interpretaciones dogmáticas del Marxismo, ni esfuerzo alguno para definir qué es "realmente" aquello que constituye al Marxismo en el mundo contemporáneo, como  sí lo hace Xing Bensi en su artículo.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215427Z">
+        <seg>De hecho, no hace referencia a "trazar una línea" entre marxismo y anti-marxismo. Tampoco hay una crítica a las interpretaciones dogmáticas del Marxismo, ni esfuerzo alguno para definir qué es "realmente" aquello que constituye al marxismo en el mundo contemporáneo, como  sí lo hace Xing Bensi en su artículo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10683,8 +10683,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In short, despite Jiang’s efforts over the preceding months to carve out a viable middle ground, the Sixth Plenum communique´ ignored these themes.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T025159Z">
-        <seg>En síntesis, a pesar de los esfuerzos de Jiang durante los meses anteriores para encontrar un punto medio viable, el comunicado del Sexto Pleno ignoró estos temas.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215403Z">
+        <seg>En síntesis, a pesar de los esfuerzos de Jiang durante los meses anteriores para encontrar un punto medio viable, el comunicado del Sexto Plenario ignoró estos temas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17876,8 +17876,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The Sixth Plenum resolution was a disappointment to many intellectuals as well as to some of Jiang’s own policy advisers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024657Z">
-        <seg>El fallo del Sexto Pleno desilusionó no solo a muchos intelectuales sino también a algunos de los asesores políticos de Jiang.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215342Z">
+        <seg>El fallo del Sexto Plenario desilusionó no solo a muchos intelectuales sino también a algunos de los asesores políticos de Jiang.</seg>
       </tuv>
     </tu>
     <tu>
