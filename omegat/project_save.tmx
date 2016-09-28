@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7078,8 +7078,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite his early diatribes against “peaceful evolution” (and his continuing warnings of “hostile” efforts to “divide” China and “Westernize” it), Jiang presided over a remarkable improvement in China’s diplomatic position, led China into the WTO, and deflected the pressures that stemmed from the Asian financial crisis.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160926T195846Z">
-        <seg>A pesar de sus intentos de censurar "la evolución pacífica" (y sus constantes advertencias sobre los intentos "hostiles" de "dividir" China y "Occidentalizarla"), Jiang logró llevar a cabo mejoras significativas en la posición diplomática de China, colocó al país dentro de la OMC y pudo esquivar los embates de la crisis financiera de Asia.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160928T213826Z">
+        <seg>A pesar de sus intentos de censurar "la evolución pacífica" (y sus constantes advertencias sobre los intentos "hostiles" de "dividir" China y "occidentalizarla"), Jiang logró llevar a cabo mejoras significativas en la posición diplomática de China, colocó al país dentro de la OMC y pudo esquivar los embates de la crisis financiera de Asia.</seg>
       </tuv>
     </tu>
     <tu>
