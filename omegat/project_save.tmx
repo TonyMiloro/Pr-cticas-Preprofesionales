@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1468,6 +1468,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160919T190223Z">
         <seg>&lt;f0&gt;En 1987, durante una de las primeras elecciones plurinominales&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;(cha’e xuanju,&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;que tienen más candidatos que puestos, pero sin llegar a dos candidatos para cada puesto), Chen Yuan fracasó a la hora de ser elegido para el Comité del Partido de Pekín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In August 1994, leftists convened a meeting in Xiangshan, northwest of Beijing.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T001703Z" creationid="Daniel-Andrea" creationdate="20160928T001703Z">
+        <seg>&lt;f0&gt;En agosto de 1994, los izquierdistas convocaron una reunión en Xiangshan, al noroeste de Pekín,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3474,6 +3482,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any attempt to advocate using Comrade Deng Xiaoping’s theories to negate or replace Marxism as the guiding principle for revolution and construction in China is idealist and goes against the ‘Communist Manifesto.’ No doctrine or theory, now or in the future, can replace Marxist truth and science.”&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;In September, more or less the same cast of characters convened a meeting in Shijiazhuang, the capital of Hebei province.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T002016Z" creationid="Daniel-Andrea" creationdate="20160928T002016Z">
+        <seg>Cualquier intento de defender el uso de las teorías del camarada Deng Xiaoping para negar o reemplazar al marxismo como el principio rector para la revolución y la construcción de China es idealista y va en contra del Manifiesto Comunista. Ninguna doctrina o teoría, ya sea ahora o en el futuro, puede reemplazar a la ciencia y verdad del maxismo”&lt;/f0&gt;&lt;f1&gt;23.&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;En septiembre, prácticamente el mismo elenco de personajes convocó una reunión en Shijiazhuang, capital de la provincia de Hebei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anyone who flips through Chinese history, Wang declares, will discover that without exception all of China’s dynasties have been destroyed by peasants who left the land.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160906T202655Z">
@@ -4382,6 +4398,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T025949Z">
         <seg>Intento de golpe de estado en la Unión Soviética</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attended by such people as Deng Liqun, Xu Weicheng, Shao Huaze, Wang Renzhi, He Jingzhi, Li Ximing, Gao Di, and Yuan Mu, the meeting reportedly declared that the collapse of socialism in Eastern Europe and the former Soviet Union was due to “revisionism,” the old Maoist term for heterodox understandings of Marxism–Leninism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T001741Z" creationid="Daniel-Andrea" creationdate="20160928T001741Z">
+        <seg>en la que asistieron Den Liqun, Xu Weicheng, Shao Huaze, Wang Renzhi, He Jingzhi, Li Ximing, Gao Di y Yuan Mu. Aparentemente, en la reunión se anunció que el colapso del socialismo en Europa del Este y en la antigua Unión Soviética se debía al “revisionismo”, un término antiguo maoísta para referirse a los acuerdos ortodoxos del marxismo-leninismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6286,6 +6310,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T214353Z">
         <seg>Los activistas democráticos Wang Youcai y Xu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Liqun allegedly went so far as to suggest that Deng’s views were themselves revisionist: “Deng Xiaoping’s theories must be tested in practice to show whether they are correct or wrong.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T001931Z" creationid="Daniel-Andrea" creationdate="20160928T001931Z">
+        <seg>Al parecer, Deng Liqun fue demasiado lejos al insinuar que las posturas de Deng eran en sí mismas revisionistas: “las teorías de Deng Liqn deben ser puestas en práctica para demostrar si son apropiadas o no”.</seg>
       </tuv>
     </tu>
     <tu>
