@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1193,8 +1193,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Between the Fourth Plenum in &lt;/f0&gt;&lt;f1&gt;1994 &lt;/f1&gt;&lt;f2&gt;and the Fifteenth Party Congress in &lt;/f2&gt;&lt;f3&gt;1997&lt;/f3&gt;&lt;f4&gt;,&lt;/f4&gt;&lt;f5&gt; “&lt;/f5&gt;&lt;f6&gt;public&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;opinion”&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;played&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;a&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;limited&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;but&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;not&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;insignificant role.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T130754Z">
-        <seg>Entre el Cuarto Pleno en 1994 y el Decimoquinto Congreso del Partido en 1997, 'la opinión pública' tuvo un rol limitado pero no por eso insignificante.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201552Z">
+        <seg>Entre el Cuarto Pleno en 1994 y el Decimoquinto Congreso del Partido en 1997, 'la opinión pública' tuvo un rol limitado pero no por eso insignificante.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1225,8 +1225,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;C&lt;/f0&gt;hapter 7</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T234300Z">
-        <seg>Capítulo 7</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201531Z">
+        <seg>Capítulo 7&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,8 +1338,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Elite&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;politics&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;in&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;an&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;era&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;of&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;globalization and&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;nationalism&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T122936Z">
-        <seg>Élite política en una era de globalización y nacionalismo </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201539Z">
+        <seg>Élite política en una era de globalización y nacionalismo &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,8 +1858,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;These conflicting trends of elite and popular opinion reached a new level of intensity in &lt;/f0&gt;&lt;f1&gt;1997 &lt;/f1&gt;&lt;f2&gt;as Jiang tried to put his imprint on the post-Deng era, only to face another powerful wave of nationalism that grew up around the issues of China’s entry into the WTO and, more importantly, the tragic bombing of the Chinese Embassy in Belgrade.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T133619Z">
-        <seg>Estas tendencias conflictivas de la élite y la opinión popular alcanzaron un nuevo nivel de intensidad en 1997, cuando Jiang trató de marcar la era post Deng, solo para encontrarse con otra ola de nacionalismo que creció junto con la entrada de China en la WTO y, más aún con el trágico bombardeo a la Embajada de China en Belgravia. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201611Z">
+        <seg>Estas tendencias conflictivas de la élite y la opinión popular alcanzaron un nuevo nivel de intensidad en 1997, cuando Jiang trató de marcar la era post Deng, solo para encontrarse con otra ola de nacionalismo que creció junto con la entrada de China en la WTO y, más aún con el trágico bombardeo a la Embajada de China en Belgravia. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4020,8 +4020,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As discussed in Part &lt;/f20&gt;&lt;f21&gt;II&lt;/f21&gt;&lt;f22&gt;, the intellectual atmosphere became considerably more conservative and nationalistic in this period, which helped the government preserve the social stability that it prized so highly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T130945Z">
-        <seg>Como ya se ha visto en la Parte II, durante este periodo la atmósfera intelectual se tornó considerablemente conservativa y nacionalista, lo que contribuyó a que el gobierno pudiera conservar la tan preciada estabilidad social. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201544Z">
+        <seg>Como ya se ha visto en la Parte II, durante este periodo la atmósfera intelectual se tornó considerablemente conservativa y nacionalista, lo que contribuyó a que el gobierno pudiera conservar la tan preciada estabilidad social. &lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4124,8 +4124,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As one century yielded to the next, nationalism, corruption, globalization, elite conflict, and new intellectual controversies suggested an important reshaping of the Chinese polity.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T133750Z">
-        <seg>Con el paso de los siglos, el nacionalismo, la corrupción, la globalización, el conflicto entre élites, y nuevas controversias intelectuales eran indicios de una importante reforma de la forma de gobierno china.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201615Z">
+        <seg>Con el paso de los siglos, el nacionalismo, la corrupción, la globalización, el conflicto entre élites, y nuevas controversias intelectuales eran indicios de una importante reforma de la forma de gobierno china.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7625,6 +7625,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160925T181642Z">
         <seg>aaaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feng mockingly derided &lt;/f19&gt;&lt;f20&gt;Heart-to-Heart&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;T&lt;/f22&gt;&lt;f23&gt;alks&lt;/f23&gt;&lt;f24&gt;,&lt;/f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;saying&lt;/f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;f28&gt;that&lt;/f28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;the&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;authors’&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;desire&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;to&lt;/f36&gt;&lt;f37&gt; “&lt;/f37&gt;&lt;f38&gt;modern- ize&lt;/f38&gt;&lt;f39&gt;” &lt;/f39&gt;&lt;f40&gt;Marxism meant diluting it as an ideological weapon for directing class struggle and also meant turning Marxism into nothing more substantive&lt;/f40&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;than&lt;/f42&gt;&lt;f43&gt; &lt;/f43&gt;&lt;f44&gt;a&lt;/f44&gt;&lt;f45&gt; &lt;/f45&gt;&lt;f46&gt;new&lt;/f46&gt;&lt;f47&gt; &lt;/f47&gt;&lt;f48&gt;version&lt;/f48&gt;&lt;f49&gt; &lt;/f49&gt;&lt;f50&gt;of&lt;/f50&gt;&lt;f51&gt; &lt;/f51&gt;&lt;f52&gt;Chiang&lt;/f52&gt;&lt;f53&gt; &lt;/f53&gt;&lt;f54&gt;Kai-shek’s&lt;/f54&gt;&lt;f55&gt; &lt;/f55&gt;&lt;f56&gt;“New&lt;/f56&gt;&lt;f57&gt; &lt;/f57&gt;&lt;f58&gt;Life&lt;/f58&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;Movement”&lt;/f60&gt;&lt;f61&gt; &lt;/f61&gt;&lt;f62&gt;– the vapid conservative movement Chiang had sponsored in the &lt;/f62&gt;&lt;f63&gt;1930&lt;/f63&gt;&lt;f64&gt;s in an attempt to instill a diluted Confucian morality.&lt;/f64&gt;&lt;a65&gt;&lt;f66&gt;75&lt;/f66&gt;&lt;/a65&gt;&lt;f67&gt;Feng also criticized&lt;/f67&gt;&lt;f68&gt; &lt;/f68&gt;&lt;f69&gt;Heart-to-Heart&lt;/f69&gt;&lt;f70&gt; &lt;/f70&gt;&lt;f71&gt;T&lt;/f71&gt;&lt;f72&gt;alks&lt;/f72&gt;&lt;f73&gt; &lt;/f73&gt;&lt;f74&gt;for&lt;/f74&gt;&lt;f75&gt; &lt;/f75&gt;&lt;f76&gt;putting&lt;/f76&gt;&lt;f77&gt; &lt;/f77&gt;&lt;f78&gt;out&lt;/f78&gt;&lt;f79&gt; &lt;/f79&gt;&lt;f80&gt;a&lt;/f80&gt;&lt;f81&gt; &lt;/f81&gt;&lt;f82&gt;“revisionist”&lt;/f82&gt;&lt;f83&gt; &lt;/f83&gt;&lt;f84&gt;interpretation of Deng Xiaoping’s thinking (diluting Deng’s admonition that socialism means “eliminating exploitation and avoiding polarization”), for arguing that individualism is compatible with Marxism, for desiring to mix Chinese culture with Western culture, and for advocating greater integration into the world economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201657Z" creationid="marcelo lavarda" creationdate="20160928T201657Z">
+        <seg>[parcial]Feng se burló de &lt;t20/&gt;Heart-to-Heart&lt;t21/&gt; &lt;t22/&gt;T&lt;t23/&gt;alks&lt;t24/&gt;,&lt;t25/&gt; &lt;t26/&gt;al decir&lt;t27/&gt; &lt;t28/&gt;que&lt;t29/&gt; &lt;t30/&gt;el&lt;t31/&gt; &lt;t32/&gt;deseo&lt;t33/&gt; &lt;t34/&gt;del autor&lt;t35/&gt; &lt;t36/&gt;de&lt;t37/&gt; “&lt;t38/&gt;modernizar&lt;t39/&gt;” &lt;t40/&gt; el marxismo significaba debilitarlo como arma ideológica para dirigir la lucha de las clases y, además, signifi&lt;t42/&gt;caba convertir al marxismo en nada más sustancial &lt;t43/&gt;que&lt;t44/&gt; &lt;t45/&gt;una&lt;t46/&gt; &lt;t47/&gt;nueva&lt;t48/&gt; &lt;t49/&gt;versión&lt;t50/&gt; &lt;t51/&gt;del&lt;t52/&gt; &lt;t53/&gt;"New&lt;t54/&gt; &lt;t55/&gt;Life&lt;t56/&gt; &lt;t57/&gt;Movement"&lt;t58/&gt; &lt;t59/&gt;(Movimiento de la nueva vida) de Chiang&lt;t60/&gt; &lt;t61/&gt;Kai-shek&lt;t62/&gt; &lt;t63/&gt;, el moviento conservador insulso que Chiang había auspiciado en la década de &lt;t64/&gt;1930&lt;t65/&gt; en un intento de instalar una moralidad confuciana debilitada.&lt;t66/&gt;75&lt;t67/&gt;Feng, además, criticó el libro&lt;t68/&gt; &lt;t69/&gt;Heart-to-Heart&lt;t70/&gt; &lt;t71/&gt;T&lt;t72/&gt;alks&lt;t73/&gt; &lt;t74/&gt;por&lt;t75/&gt; &lt;t76/&gt;proponer&lt;t77/&gt; &lt;t78/&gt;&lt;t79/&gt; &lt;t80/&gt;una&lt;t81/&gt; &lt;t82/&gt;interpretación&lt;t83/&gt; &lt;t84/&gt;"revisionista" del pensamiento de Deng Xiaoping (debilitando la admonition de Deng de que el socialismo significa "eliminar la explotación y evitar la polarizaciεn"), por discutir (?) que el individualismo es compatible con el marxismo, por desear mez&lt;t85/&gt;clar la cultura china con la cultura occidental y por proponer/defender una mayor integración en/con? la economía mundial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13730,8 +13738,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, there was greater interaction between government and intellectual circles as each tried to influence the other (a trend that coexisted with its opposite, as some intellectuals oriented their activities toward society – ignoring the government – while others withdrew&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;into scholarly endeavors or developed new critiques of government).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T131715Z">
-        <seg>Además, aumentó la interacción entre el gobierno y los círculos intelectuales a medida que cada uno se esforzaba por influenciar al otro (una tendencia que coexisitía con su opuesto, ya que algunos intelectuales orientaban sus actividades a la sociedad y por consiguiente ignoraban al gobierno, mientras que otros se abocaron a temas eruditos o desarrollaron nuevas críticas al gobierno). </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201557Z">
+        <seg>Además, aumentó la interacción entre el gobierno y los círculos intelectuales a medida que cada uno se esforzaba por influenciar al otro (una tendencia que coexisitía con su opuesto, ya que algunos intelectuales orientaban sus actividades a la sociedad y por consiguiente ignoraban al gobierno, mientras que otros se abocaron a temas eruditos o desarrollaron nuevas críticas al gobierno). &lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18844,6 +18852,14 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The leftist journal&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Mainstream&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Zhongliu&lt;/f5&gt;&lt;f6&gt;)&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;published&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;a&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;long&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;critique&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;of&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;Heart-to-Heart Talks &lt;/f18&gt;&lt;f19&gt;by one Feng Baoxing (apparently a pseudonym).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201645Z" creationid="marcelo lavarda" creationdate="20160928T201645Z">
+        <seg>[parcial]El diario izquierdista&lt;t1/&gt; &lt;t2/&gt;Mainstream&lt;t3/&gt; &lt;t4/&gt;(&lt;t5/&gt;Zhongliu&lt;t6/&gt;)&lt;t7/&gt; &lt;t8/&gt;publicó&lt;t9/&gt; &lt;t10/&gt;una&lt;t11/&gt; &lt;t12/&gt;crítica&lt;t13/&gt; &lt;t14/&gt;extensa&lt;t15/&gt; &lt;t16/&gt;sobre&lt;t17/&gt; &lt;t18/&gt;Heart-to-Heart Talks &lt;t19/&gt;escrita por Feng Baoxing (apparentemente, un pesudónimo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The leftist journal&lt;t1/&gt; &lt;t2/&gt;Mainstream&lt;t3/&gt; &lt;t4/&gt;(&lt;t5/&gt;Zhongliu&lt;t6/&gt;)&lt;t7/&gt; &lt;t8/&gt;published&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt; &lt;t12/&gt;long&lt;t13/&gt; &lt;t14/&gt;critique&lt;t15/&gt; &lt;t16/&gt;of&lt;t17/&gt; &lt;t18/&gt;Heart-to-Heart Talks &lt;t19/&gt;by one Feng Baoxing (apparently a pseudonym).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Eloisa" changedate="20160927T212059Z" creationid="Eloisa" creationdate="20160927T211959Z">
@@ -19872,8 +19888,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There were also clear connections between elements of the elite and expressions of nationalistic opinion, whether through journals such as &lt;/f49&gt;&lt;f50&gt;Strategy and Management&lt;/f50&gt;&lt;f51&gt; &lt;/f51&gt;&lt;f52&gt;or&lt;/f52&gt;&lt;f53&gt; &lt;/f53&gt;&lt;f54&gt;books&lt;/f54&gt;&lt;f55&gt; &lt;/f55&gt;&lt;f56&gt;such&lt;/f56&gt;&lt;f57&gt; &lt;/f57&gt;&lt;f58&gt;as&lt;/f58&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;China&lt;/f60&gt;&lt;f61&gt; &lt;/f61&gt;&lt;f62&gt;Can&lt;/f62&gt;&lt;f63&gt; &lt;/f63&gt;&lt;f64&gt;Say&lt;/f64&gt;&lt;f65&gt; &lt;/f65&gt;&lt;f66&gt;No&lt;/f66&gt;&lt;f67&gt;.&lt;/f67&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T133246Z">
-        <seg>Asimismo, se han marcado las conexiones entre elementos de la élite y expresiones de opinión nacionalista, ya sea a través de revistas como 'Strategy and Management' ('Estrategia y administración') o libros como 'China Can Say No' ('China puede decir no').</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201601Z">
+        <seg>Asimismo, se han marcado las conexiones entre elementos de la élite y expresiones de opinión nacionalista, ya sea a través de revistas como 'Strategy and Management' ('Estrategia y administración') o libros como 'China Can Say No' ('China puede decir no').&lt;/f49&gt;&lt;f50&gt;&lt;/f50&gt;&lt;f51&gt;&lt;/f51&gt;&lt;f52&gt;&lt;/f52&gt;&lt;f53&gt;&lt;/f53&gt;&lt;f54&gt;&lt;/f54&gt;&lt;f55&gt;&lt;/f55&gt;&lt;f56&gt;&lt;/f56&gt;&lt;f57&gt;&lt;/f57&gt;&lt;f58&gt;&lt;/f58&gt;&lt;f59&gt;&lt;/f59&gt;&lt;f60&gt;&lt;/f60&gt;&lt;f61&gt;&lt;/f61&gt;&lt;f62&gt;&lt;/f62&gt;&lt;f63&gt;&lt;/f63&gt;&lt;f64&gt;&lt;/f64&gt;&lt;f65&gt;&lt;/f65&gt;&lt;f66&gt;&lt;/f66&gt;&lt;f67&gt;&lt;/f67&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22114,8 +22130,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>We have seen how intellectuals such as Hu Angang and Wang Shaoguang influenced government policy, at least to some extent, on such issues as tax reform and regional disparities, and how the government tried to organize and solicit new, but acceptable, ideas through&lt;/f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;such&lt;/f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;f28&gt;books&lt;/f28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;as&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;Heart-to-Heart&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;Talks&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;with&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;the&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;General&lt;/f40&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;Secretary&lt;/f42&gt;&lt;f43&gt;.&lt;/f43&gt;&lt;f44&gt; &lt;/f44&gt;&lt;f45&gt;We have also seen how the Old Left tried to influence both elite politics and public opinion through the various &lt;/f45&gt;&lt;f46&gt;10&lt;/f46&gt;&lt;f47&gt;,&lt;/f47&gt;&lt;f48&gt;000 &lt;/f48&gt;&lt;f49&gt;character manifestos.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T132341Z">
-        <seg>Ya hemos mencionado cómo intelectuales como Hu Angang y Wang Shaoguang influenciaron las políticas del gobierno, al menos hasta cierto punto, en asuntos de reformas impositivas y desigualdades regionales, y cómo el gobierno intentó organizar y solicitar ideas nuevas pero aceptables a través e libros como 'Charlas de corazón a corazón con el secretario general'. También hemos estudiado cómo la Antigua Izquierda trató de influenciar a la élite política y la opinión pública por medio de los manifiestos de 10 000 caracteres. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201606Z">
+        <seg>Ya hemos mencionado cómo intelectuales como Hu Angang y Wang Shaoguang influenciaron las políticas del gobierno, al menos hasta cierto punto, en asuntos de reformas impositivas y desigualdades regionales, y cómo el gobierno intentó organizar y solicitar ideas nuevas pero aceptables a través e libros como 'Charlas de corazón a corazón con el secretario general'. También hemos estudiado cómo la Antigua Izquierda trató de influenciar a la élite política y la opinión pública por medio de los manifiestos de 10 000 caracteres. &lt;/f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;&lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;&lt;f38&gt;&lt;/f38&gt;&lt;f39&gt;&lt;/f39&gt;&lt;f40&gt;&lt;/f40&gt;&lt;f41&gt;&lt;/f41&gt;&lt;f42&gt;&lt;/f42&gt;&lt;f43&gt;&lt;/f43&gt;&lt;f44&gt;&lt;/f44&gt;&lt;f45&gt;&lt;/f45&gt;&lt;f46&gt;&lt;/f46&gt;&lt;f47&gt;&lt;/f47&gt;&lt;f48&gt;&lt;/f48&gt;&lt;f49&gt;</seg>
       </tuv>
     </tu>
     <tu>
