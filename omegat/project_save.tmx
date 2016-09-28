@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19811,8 +19811,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This reaction, it should be noted, differed greatly both from views widely held in the West and by democracy activists in both China and the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T204854Z">
-        <seg>Esta reacción, cabe destacar, se diferenciaba enormemente tanto de la perspectiva que respaldaban en Occidente como de los activistas en favor de la democracia en China así como también en Occidente.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002055Z">
+        <seg>Cabe destacar, que esta reacción se diferenciaba enormemente tanto de la perspectiva que respaldaban en Occidente como de los activistas en favor de la democracia en China así como también en Occidente.</seg>
       </tuv>
     </tu>
     <tu>
