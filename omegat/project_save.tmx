@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24272,6 +24272,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T222530Z">
         <seg>“Si esta situación continúa, no me quedará otra opción que ir a Shanghái para publicar mis artículos ahí”.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Dicho esto, Deng viajó a la metrópolis de la costa este y se dedicó a dar una cantidad de charlas con la intención de reavivar la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“If we do as the authors propose,” Feng wrote, “our policy of opening up to the outside world will inevitably be led onto the wrong road, our economy wi&lt;t86/&gt;ll lose its independence, and we will be thrown into the embrace of the ‘great unity’ of international monopoly capital.”&lt;t87/&gt;76 &lt;t88/&gt;Referring to Liu Ji’s endorsement of the book, Feng wrote, “I don’t under- stand why this book, which includes viewpoints directly o&lt;t89/&gt;pposite of our Party’s consistent proposals, directly opposite the resolution of the Sixth Plenum, and directly opposite the general secretary’s proposals regarding establishing socialist spiritual civilization, would receive such high praise from&lt;t90/&gt; &lt;t91/&gt;this&lt;t92/&gt; &lt;t93/&gt;lea&lt;t94/&gt;ding&lt;t95/&gt; &lt;t96/&gt;comrade.”&lt;t97/&gt;77</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T200116Z" creationid="Eloisa" creationdate="20160928T195529Z">
+        <seg>“Si hacemos lo que los autores proponen,” escribió Feng, “nuestra políticaour policy of opening up to the outside world will inevitably be led onto the wrong road, our economy wi&lt;t86/&gt;ll lose its independence, and we will be thrown into the embrace of the ‘great unity’ of international monopoly capital.”&lt;t87/&gt;76 &lt;t88/&gt;Referring to Liu Ji’s endorsement of the book, Feng wrote, “I don’t under- stand why this book, which includes viewpoints directly o&lt;t89/&gt;pposite of our Party’s consistent proposals, directly opposite the resolution of the Sixth Plenum, and directly opposite the general secretary’s proposals regarding establishing socialist spiritual civilization, would receive such high praise from&lt;t90/&gt; &lt;t91/&gt;this&lt;t92/&gt; &lt;t93/&gt;lea&lt;t94/&gt;ding&lt;t95/&gt; &lt;t96/&gt;comrade.”&lt;t97/&gt;77</seg>
       </tuv>
     </tu>
     <tu>
