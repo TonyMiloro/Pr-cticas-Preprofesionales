@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4220,8 +4220,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As will be discussed in the chapters that follow, some intellectuals changed their minds while others emerged with new ideas.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T184424Z">
-        <seg>Como se debatirá en los siguientes capítulos, algunos intelectuales cambiaron de parecer, mientras que otros propusieron nuevas ideas.</seg>
+      <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160928T045644Z">
+        <seg>Como se analizará en los siguientes capítulos, algunos intelectuales cambiaron de parecer, mientras que otros propusieron nuevas ideas.</seg>
       </tuv>
     </tu>
     <tu>
