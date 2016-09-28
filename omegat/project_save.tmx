@@ -1209,8 +1209,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Between the Fourth Plenum in &lt;/f0&gt;&lt;f1&gt;1994 &lt;/f1&gt;&lt;f2&gt;and the Fifteenth Party Congress in &lt;/f2&gt;&lt;f3&gt;1997&lt;/f3&gt;&lt;f4&gt;,&lt;/f4&gt;&lt;f5&gt; “&lt;/f5&gt;&lt;f6&gt;public&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;opinion”&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;played&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;a&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;limited&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;but&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;not&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;insignificant role.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201552Z">
-        <seg>Entre el Cuarto Pleno en 1994 y el Decimoquinto Congreso del Partido en 1997, 'la opinión pública' tuvo un rol limitado pero no por eso insignificante.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215746Z">
+        <seg>Entre el Cuarto Plenario en 1994 y el Decimoquinto Congreso del Partido en 1997, 'la opinión pública' tuvo un rol limitado pero no por eso insignificante.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7423,8 +7423,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Entitled “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” this article was written by the editorial office of the conservative journal &lt;/f4&gt;&lt;f5&gt;Contemporary Trends &lt;/f5&gt;&lt;f6&gt;and pub- lished in the fourth issue of &lt;/f6&gt;&lt;f7&gt;1996&lt;/f7&gt;&lt;f8&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215632Z" creationid="marcelo lavarda" creationdate="20160928T215632Z">
-        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” (Varios problemas teóricos y de políticas sobre la posición dominante de la propiedad pública) este artículo lo escribió la editorial del diario conservador &lt;t5/&gt;Contemporary Trends &lt;t6/&gt;y se publicó en la cuarta edición de &lt;t7/&gt;1996&lt;t8/&gt;.&lt;t9/&gt; Este manifiesto se enfocó en el problema de la propiedad y particularmente en la política de “tomar lo grande y dejar ir lo pequeño” que se había adoptado en &lt;t10/&gt;1995&lt;t11/&gt;.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215650Z" creationid="marcelo lavarda" creationdate="20160928T215632Z">
+        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” (Varios problemas teóricos y de políticas sobre la posición dominante de la propiedad pública) este artículo lo escribió la editorial del diario conservador &lt;t5/&gt;Contemporary Trends &lt;t6/&gt;y se publicó en la cuarta edición de &lt;t7/&gt;1996&lt;t8/&gt;.&lt;t9/&gt; &gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20778,6 +20778,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160922T214132Z">
         <seg>Esta linea de pensamiento se destacó en 1993 con un artículo de Zhang Kuan, en aquél entonces un estudiante de literatura de la Universidad de Stanford, que hablaba de los libros Orientalismo y Cultura e Imperialismo de Edward Said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This manifesto zeroed in on the ownership issue and particularly on the policy of “grasping the large and letting go of the small” that had been adopted in &lt;/f8&gt;&lt;f9&gt;1995&lt;/f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T215654Z" creationid="marcelo lavarda" creationdate="20160928T215654Z">
+        <seg>Este manifiesto se enfocó en el problema de la propiedad y particularmente en la política de “tomar lo grande y dejar ir lo pequeño” que se había adoptado en &lt;t10/&gt;1995&lt;t11/</seg>
       </tuv>
     </tu>
     <tu>
