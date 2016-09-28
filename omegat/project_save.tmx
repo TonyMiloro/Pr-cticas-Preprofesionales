@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12504,8 +12504,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Like Huntington,&lt;/f9&gt;&lt;f11&gt;&lt;t12/&gt;&lt;/f11&gt;&lt;f13&gt;&lt;s14/&gt;&lt;/f13&gt;&lt;f15&gt;Wang sees a public authority that cannot extract sufficient resources from the society as being sharply constrained by social demands and hence ineffective.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T042552Z" creationid="Rocio" creationdate="20160928T042503Z">
-        <seg>Como Huntington,&lt;/f9&gt;&lt;f11&gt;&lt;t12/&gt;&lt;/f11&gt;&lt;f13&gt;&lt;s14/&gt;&lt;/f13&gt;&lt;f15&gt;Wang considera a la autoridad pública que no puede extraer recursos suficientes de la sociedad estásees a public authority that cannot extract sufficient resources from the society as being sharply constrained by social demands and hence ineffective.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T042647Z" creationid="Rocio" creationdate="20160928T042503Z">
+        <seg>Como Huntington,&lt;/f9&gt;&lt;f11&gt;&lt;t12/&gt;&lt;/f11&gt;&lt;f13&gt;&lt;s14/&gt;&lt;/f13&gt;&lt;f15&gt;Wang considera que la autoridad pública que no puede extraer recursos suficientes de la sociedad está restringido profundamente por las demandas socialessees a public authority that cannot extract sufficient resources from the society as being sharply constrained by social demands and hence ineffective.</seg>
       </tuv>
     </tu>
     <tu>
