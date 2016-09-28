@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18412,8 +18412,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The ideals and hopes of these and other intellectuals were shattered by Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160904T022011Z">
-        <seg>Los ideales y esperanzas de estos y otros intelectuales se vieron destrozados luego de las Protestas de la Plaza de de Tiananmén.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160928T141736Z">
+        <seg>Los ideales y esperanzas de estos y otros intelectuales se vieron destrozados luego de Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19704,8 +19704,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These groups fueled the “cultural fever” (wenhua re) of the late 1980s, epitomized by the film River Elegy (He Shang).15 The self-assigned mission of these groups was to carve out a “public space” that was independent of the state; it was a mission that assumed a common discourse based on Enlightenment ideals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T174341Z">
-        <seg>Estos grupos avivaron la “fiebre cultural” (wenhua re) de finales de la década de los 80, representada en la película Elegía del río (He Shang)15. La misión autoasignada de estos grupos era la de formar un “espacio público” que fuera independiente del estado; esta misión adoptó un discurso común basado en los ideales de la Ilustración.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160928T141655Z">
+        <seg>Estos grupos avivaron la “fiebre cultural” (wenhua re) de finales de la década de los 80, representada en la película Elegía del río (He Shang)15. La misión autoasignada de estos grupos era formar un “espacio público” que fuera independiente del estado; esta misión adoptó un discurso común basado en los ideales de la Ilustración.</seg>
       </tuv>
     </tu>
     <tu>
