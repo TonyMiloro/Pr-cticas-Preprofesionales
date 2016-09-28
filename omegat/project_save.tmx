@@ -713,16 +713,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;81 &lt;/f0&gt;&lt;f1&gt;Ibid.,&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;pp.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;213&lt;/f5&gt;&lt;f6&gt;–&lt;/f6&gt;&lt;f7&gt;14&lt;/f7&gt;&lt;f8&gt;,&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;221&lt;/f10&gt;&lt;f11&gt;.&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T211234Z">
-        <seg>[parcial]&lt;f0&gt;70&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Ibid., pág.&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;284&lt;/f5&gt;&lt;f6&gt;-&lt;/f6&gt;&lt;f7&gt;5.&lt;/f7&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201245Z">
+        <seg>[parcial]&lt;f0&gt;70&lt;s1/&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Ibid., pág.&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;284&lt;/f5&gt;&lt;f6&gt;-&lt;/f6&gt;&lt;f7&gt;5.&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;82 &lt;/f0&gt;&lt;f1&gt;Ibid.,&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;p.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;227&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T211235Z">
-        <seg>[parcial]&lt;f0&gt;69&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;Ibid., pág</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201239Z">
+        <seg>[parcial]&lt;f0&gt;69&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;s2/&gt;Ibid., pág</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,8 +1666,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Qiao, who ranked higher than Jiang Zemin in the Shanghai underground in the late &lt;/f0&gt;&lt;f1&gt;1940&lt;/f1&gt;&lt;f2&gt;s, frequently challenged Jiang by being out in front of him on reform issues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T012430Z">
-        <seg>Qiao, con mayor popularidad que Jiang Zemin enntre los peces gordos de Shanghái a fines de la década de los cuarenta, desafiaba con frecuencia a Jiang en asuntos de reforma. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201256Z">
+        <seg>Qiao, con mayor popularidad que Jiang Zemin enntre los peces gordos de Shanghái a fines de la década de los cuarenta, desafiaba con frecuencia a Jiang en asuntos de reforma. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4100,8 +4100,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As noted earlier, he beat the drums for Deng’s reform campaign in the spring of &lt;/f2&gt;&lt;f3&gt;1992 &lt;/f3&gt;&lt;f4&gt;long before Jiang Zemin came out in sup- port of it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T012942Z">
-        <seg>Como ya se ha mencionado, Qiao apoyó la campaña de reforma de Deng durante la primavera de 1992, mucho antes de que Jiang Zemin saliera a su favor.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201250Z">
+        <seg>Como ya se ha mencionado, Qiao apoyó la campaña de reforma de Deng durante la primavera de 1992, mucho antes de que Jiang Zemin saliera a su favor.&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5340,8 +5340,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By the mid-&lt;/f0&gt;&lt;f1&gt;1990&lt;/f1&gt;&lt;f2&gt;s, Qiao Shi, then the third-ranked member of the Politburo Standing Committee and head of the NPC, had established himself as the standard-bearer of the liberal wing of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T201833Z">
-        <seg>Para mediados de 1990, Qiao Shi, en ese momento el tercer miembro del Comité Permantente del Buró Político y presidente de la APN, se había establecido como adalid del ala liberal del partido.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201229Z">
+        <seg>Para mediados de 1990, Qiao Shi, en ese momento el tercer miembro del Comité Permantente del Buró Político y presidente de la APN, se había establecido como adalid del ala liberal del partido.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9810,8 +9810,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In January &lt;/f4&gt;&lt;f5&gt;1995&lt;/f5&gt;&lt;f6&gt;, even as Jiang Zemin was stressing democratic centralism and the role of the core, Qiao chose to stress political reform and democratization.&lt;/f6&gt;&lt;a7&gt;&lt;f8&gt;84&lt;/f8&gt;&lt;/a7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;At the same time, Qiao stepped up the pace of legislation and incorporated greater expertise into its formulation; he also gave greater weight to provincial initiative and to the speed of economic reform than did Jiang Zemin or Li&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Peng.&lt;/f12&gt;&lt;a13&gt;&lt;f14&gt;85&lt;/f14&gt;&lt;/a13&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160916T123430Z">
-        <seg>En enero de 1995, mientras Jiang Zemin hacía campaá a favor del centralismo democrático y el rol de un gobierno central, Qiao elegió enfatizar la reforma política y la democratización. Asimismo, Qiao apresuró la legislación e incorporó más expertos en su formulación, y le otorgó mayor poder a las iniciativas provinciales y a la rapidez de la reforma económica, más de lo que Jiang Zemin o Li Peng hicieron. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201300Z">
+        <seg>En enero de 1995, mientras Jiang Zemin hacía campaá a favor del centralismo democrático y el rol de un gobierno central, Qiao elegió enfatizar la reforma política y la democratización. Asimismo, Qiao apresuró la legislación e incorporó más expertos en su formulación, y le otorgó mayor poder a las iniciativas provinciales y a la rapidez de la reforma económica, más de lo que Jiang Zemin o Li Peng hicieron. &lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;a7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/a7&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;a13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;/a13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11348,8 +11348,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, the author argued that the richest villages in contemporary China, such as Henan’s Nanjie Village, are all run as collectives with a leader acting wholeheartedly in the public interest.&lt;/f24&gt;&lt;f25&gt;80 &lt;/f25&gt;&lt;f26&gt;The introduction of individualism, based on the concept of economic man, is not the solution to problems in socialism but on the contrary can only exacerbate those problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T232508Z">
-        <seg>En efecto, el autor sostenía que los pueblos más afluentes de la China contemporánea, como por ejemplo Henan's Nanjie, funcionan colectivamente con un líder a la cabeza que actúa por el bien común. La introducción del individualismo, basado en el concepto de homo economicus, no es la solución a los problemas del socialismo, sino que más bien los exacerba.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201214Z">
+        <seg>En efecto, el autor sostenía que los pueblos más afluentes de la China contemporánea, como por ejemplo Henan's Nanjie, funcionan colectivamente con un líder a la cabeza que actúa por el bien común. La introducción del individualismo, basado en el concepto de homo economicus, no es la solución a los problemas del socialismo, sino que más bien los exacerba.&lt;/f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;f26&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14843,8 +14843,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On the one hand, they reflected the greater role intellectuals play in policy formation in contemporary China; on the other hand, they suggested the increasing need to respond to, refute, and encourage views growing up independently among the intelligentsia and the broader&lt;/f141&gt;&lt;f142&gt; &lt;/f142&gt;&lt;f143&gt;public.&lt;/f143&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201145Z" creationid="marcelo lavarda" creationdate="20160928T201145Z">
-        <seg>[parcial]Por una parte, reflejaban el papel mayor que juegan los intelectuales en la formación política de la China contemporánea; por  ot&lt;t144/&gt;ra parte, insinuaban la creciente necesidad de responder, refutar y promover opiniones que crezcan de manera independiente entre los intelectuales y el público&lt;t145/&gt; &lt;t146/&gt;en general.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201205Z" creationid="marcelo lavarda" creationdate="20160928T201145Z">
+        <seg>[parcial]Por una parte, reflejaban el papel mayor que juegan los intelectuales en la formación política de la China contemporánea; por  ot&lt;t144/&gt;ra parte, insinuaban la creciente necesidad de responder, refutar y promover opiniones que crezcan de manera independiente entre los intelectuales y el público&lt;t145/&gt; &lt;t146/&gt;en general.&lt;/f141&gt;&lt;f142&gt;&lt;/f142&gt;&lt;f143&gt;&lt;/f143&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15852,8 +15852,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Ren Jianxin, who replaced Qiao as head of the Central Political and Legal Committee, had been promoted by Qiao, and Wei Jianxing, who had become secretary of the Central Discipline Inspection Commission (CDIC) and subsequently replaced Chen Xitong as Beijing Party secretary (before being replaced in turn by Jia Qinglin), had&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;strong&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;ties&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;to&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Qiao.&lt;/f12&gt;&lt;f13&gt;83&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Meanwhile,&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;Qiao&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;turned&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;the&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;NPC&lt;/f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;f25&gt;into&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;a&lt;/f27&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;base of support, much as Peng Zhen (who headed that body from &lt;/f29&gt;&lt;f30&gt;1983 &lt;/f30&gt;&lt;f31&gt;to &lt;/f31&gt;&lt;f32&gt;1988&lt;/f32&gt;&lt;f33&gt;) had used it as a base from which to oppose reform.&lt;/f33&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T234504Z">
-        <seg>Ren Jianxin, quien reemplazó a Qiao como secretario en la Comisión Central de Asuntos Políticos y Legales, había sido propuesto por Qiao, y Wen Jianxing, quien se había convertido en el secretario de la Comisión Central de Control Disciplinario (CCCD) y luego reemplazó a Chen Xitong como secretario del Partido Pekín (antes de ser reemplazado por Jia Qinglin), estaba muy relacionado con Qiao. Entre tanto, Qiao fue ganando el apoyo de la APN como lo había hecho Peng Zhen (presidente de la asamblea entre 1983 y 1988) para oponerse a la reforma.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201234Z">
+        <seg>Ren Jianxin, quien reemplazó a Qiao como secretario en la Comisión Central de Asuntos Políticos y Legales, había sido propuesto por Qiao, y Wen Jianxing, quien se había convertido en el secretario de la Comisión Central de Control Disciplinario (CCCD) y luego reemplazó a Chen Xitong como secretario del Partido Pekín (antes de ser reemplazado por Jia Qinglin), estaba muy relacionado con Qiao. Entre tanto, Qiao fue ganando el apoyo de la APN como lo había hecho Peng Zhen (presidente de la asamblea entre 1983 y 1988) para oponerse a la reforma.&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;&lt;/f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;&lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;&lt;/f33&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21226,8 +21226,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, the article argued, the more the notion of economic man &lt;/f26&gt;&lt;t27/&gt;&lt;f28&gt;has been intro- duced in state-owned enterprises, the worse they have done, and the more individualism has come to be accepted by society, the more social prob- lems have developed.&lt;/f28&gt;&lt;f29&gt;81 &lt;/f29&gt;&lt;f30&gt;Putting the issue in apocalyptic terms, the author declared that, if reform guided by the concept of economic man was not “decisively” (&lt;/f30&gt;&lt;f31&gt;guoduan&lt;/f31&gt;&lt;f32&gt;)&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;turned&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;around and the collectivist concept restored, then everything for which the Party had struggled for seventy years would be lost.&lt;/f36&gt;&lt;f37&gt;82&lt;/f37&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T233954Z">
-        <seg>Por consiguiente, mientras más se ha introducido el concepto de homo economicus en empresas estatales, peor ha sido, y cuando el individualismo tuvo mayor aceptación en la sociedad, mayores han sido los problemas sociales. En términos apocalípticos, el autor expresó que si la reforma guiada por el concepto de homo economicus no lograba una aprobación decisiva y no se reestablecía el concepto colectivista, entonces todo por lo que el partido había luchado durante setenta años habría sido en vano.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201219Z">
+        <seg>Por consiguiente, mientras más se ha introducido el concepto de homo economicus en empresas estatales, peor ha sido, y cuando el individualismo tuvo mayor aceptación en la sociedad, mayores han sido los problemas sociales. En términos apocalípticos, el autor expresó que si la reforma guiada por el concepto de homo economicus no lograba una aprobación decisiva y no se reestablecía el concepto colectivista, entonces todo por lo que el partido había luchado durante setenta años habría sido en vano.&lt;/f26&gt;&lt;t27/&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;&lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22306,8 +22306,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Qiao took over as head of the NPC in March &lt;/f2&gt;&lt;f3&gt;1993&lt;/f3&gt;&lt;f4&gt;, he was stripped of his other positions as secretary of the powerful Central Political and Legal Committee and president of the Central Party School.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160915T204239Z">
-        <seg>Cuando Qiao llegó a la presidencia de la APN en marzo de 1993, se vio obligado a abandonar sus otros puestos como secretario de la poderosa Comisión Central de Asuntos Políticos y Legales del PCCh y rector de la Escuela del Partido del Comité Central del PCCh.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201225Z">
+        <seg>Cuando Qiao llegó a la presidencia de la APN en marzo de 1993, se vio obligado a abandonar sus otros puestos como secretario de la poderosa Comisión Central de Asuntos Políticos y Legales del PCCh y rector de la Escuela del Partido del Comité Central del PCCh.&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
