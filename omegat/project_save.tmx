@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1802,8 +1802,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The leftist assault continued even as Deng Xiaoping lay dying.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T202145Z" creationid="marcelo lavarda" creationdate="20160928T201815Z">
-        <seg>[parcial]El ataque &lt;t0/&gt;izquierdista continuó incluso cuando Deng Xiaoping estaba moribundo.&lt;f0&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T204409Z" creationid="marcelo lavarda" creationdate="20160928T201815Z">
+        <seg>El ataque izquierdista continuó incluso cuando Deng Xiaoping estaba moribundo.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14122,8 +14122,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, he said, local Party organizations ignore this&lt;/f90&gt;&lt;f91&gt; &lt;/f91&gt;&lt;f92&gt;injunction.&lt;/f92&gt;&lt;a93&gt;&lt;f94&gt;74&lt;/f94&gt;&lt;/a93&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T202145Z" creationid="marcelo lavarda" creationdate="20160928T201812Z">
-        <seg>[parcial]Sin embargo, dijo, las organizaciones partidarias locales ignoran esta&lt;t95/&gt; &lt;t96/&gt;orden.&lt;t97/&gt;74&lt;/f90&gt;&lt;f91&gt;&lt;/f91&gt;&lt;f92&gt;&lt;/f92&gt;&lt;a93&gt;&lt;f94&gt;&lt;/f94&gt;&lt;/a93&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T204428Z" creationid="marcelo lavarda" creationdate="20160928T201812Z">
+        <seg>Sin embargo, dijo, las organizaciones partidarias locales ignoran este orden.&lt;t97/&gt;74&lt;/f90&gt;&lt;f91&gt;&lt;/f91&gt;&lt;f92&gt;&lt;/f92&gt;&lt;a93&gt;&lt;f94&gt;&lt;/f94&gt;&lt;/a93&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24422,8 +24422,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>“If we do as the authors propose,” Feng wrote, “our policy of opening up to the outside world will inevitably be led onto the wrong road, our economy will lose its independence, and we will be thrown into the embrace of the ‘great unity’ of international monopoly capital.”&lt;/f84&gt;&lt;f85&gt;76 &lt;/f85&gt;&lt;f86&gt;Referring to Liu Ji’s endorsement of the book, Feng wrote, “I don’t under- stand why this book, which includes viewpoints directly opposite of our Party’s consistent proposals, directly opposite the resolution of the Sixth Plenum, and directly &lt;/f86&gt;&lt;t87/&gt;&lt;f88&gt;opposite the general secretary’s proposals regarding establishing socialist spiritual civilization, would receive such high praise from&lt;/f88&gt;&lt;f89&gt; &lt;/f89&gt;&lt;f90&gt;this&lt;/f90&gt;&lt;f91&gt; &lt;/f91&gt;&lt;f92&gt;leading&lt;/f92&gt;&lt;f93&gt; &lt;/f93&gt;&lt;f94&gt;comrade.”&lt;/f94&gt;&lt;f95&gt;77&lt;/f95&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T202201Z" creationid="marcelo lavarda" creationdate="20160928T201819Z">
-        <seg>[parcial]“Si hacemos lo que los autores proponen,” escribió Feng, “nuestra política de abrirnos al mundo exterior nos llevará inevitablemente por el camino equivocado, nuestra economía perd&lt;t86/&gt;erá su independencia, and we will be thrown into the embrace of the ‘great unity’ of international monopoly capital.”76 &lt;t88/&gt;Referring to Liu Ji’s endorsement of the book, Feng wrote, “I don’t under- stand why this book, which includes viewpoints directly o&lt;t89/&gt;pposite of our Party’s consistent proposals, directly opposite the resolution of the Sixth Plenum, and directly opposite the general secretary’s proposals regarding establishing socialist spiritual civilization, would receive such high praise from&lt;t90/&gt; &lt;t91/&gt;this&lt;t92/&gt; &lt;t93/&gt;lea&lt;t94/&gt;ding&lt;t95/&gt; &lt;t96/&gt;comrade.”&lt;t97/&gt;77&lt;/f84&gt;&lt;f85&gt;&lt;/f85&gt;&lt;f86&gt;&lt;/f86&gt;&lt;t87/&gt;&lt;f88&gt;&lt;/f88&gt;&lt;f89&gt;&lt;/f89&gt;&lt;f90&gt;&lt;/f90&gt;&lt;f91&gt;&lt;/f91&gt;&lt;f92&gt;&lt;/f92&gt;&lt;f93&gt;&lt;/f93&gt;&lt;f94&gt;&lt;/f94&gt;&lt;f95&gt;&lt;/f95&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T204349Z" creationid="marcelo lavarda" creationdate="20160928T201819Z">
+        <seg>“Si hacemos lo que los autores proponen,” escribió Feng, “nuestra política de abrirnos al mundo exterior nos llevará inevitablemente por el camino equivocado, nuestra economía perderá su independencia, and we will be thrown into the embrace of the ‘great unity’ of international monopoly capital.” Referring to Liu Ji’s endorsement of the book, Feng wrote, “I don’t under- stand why this book, which includes viewpoints directly opposite of our Party’s consistent proposals, directly opposite the resolution of the Sixth Plenum, and directly opposite the general secretary’s proposals regarding establishing socialist spiritual civilization, would receive such high praise from this leading comrade."&lt;/f84&gt;&lt;f85&gt;&lt;/f85&gt;&lt;f86&gt;&lt;/f86&gt;&lt;t87/&gt;&lt;f88&gt;&lt;/f88&gt;&lt;f89&gt;&lt;/f89&gt;&lt;f90&gt;&lt;/f90&gt;&lt;f91&gt;&lt;/f91&gt;&lt;f92&gt;&lt;/f92&gt;&lt;f93&gt;&lt;/f93&gt;&lt;f94&gt;&lt;/f94&gt;&lt;f95&gt;&lt;/f95&gt;</seg>
       </tuv>
     </tu>
     <tu>
