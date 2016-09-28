@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17271,8 +17271,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The authors soon followed with a sequel,76 and imitators sprouted up “like bamboo shoots after a spring rain.”77 Within government circles, it appears that there was at first a sense that someone had finally expressed their frustrations with the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T032652Z">
-        <seg>Luego, los autores continuaron con una secuela, y los plagiadores brotaron ''como crece un bambú después de una lluvia de primavera''. En un primer momento parecía que había alguien que por fin expresaba sus frustraciones hacia Estados Unidos dentro de los círculos del gobierno. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T041824Z">
+        <seg>Los autores continuaron luego con una secuela, y los plagiadores brotaron ''como crece un bambú después de una lluvia de primavera''. En un primer momento parecía que había alguien que por fin expresaba sus frustraciones hacia Estados Unidos dentro de los círculos del gobierno. </seg>
       </tuv>
     </tu>
     <tu>
