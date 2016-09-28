@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17618,8 +17618,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>The CCP did restore its dominance over society remarkably quickly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160923T033419Z">
-        <seg>El PCC recobró su poderío en la sociedad en tiempo récord.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T203729Z">
+        <seg>El PCCh recobró su poderío en la sociedad en tiempo récord.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24045,8 +24045,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>stepping down thirteen years later in 2002, and the Chinese economy not only continued to grow but to stir fears that it had become an unstoppable economic juggernaut as China became the manufacturing center of the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160923T034604Z">
-        <seg>su renuncia trece años más tarde en 2002. La economía de China no solo continuó creciendo sino que generó miedo porque se había transformado en un gigante imparable al convertirse el centro manufacturero mundial.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T203930Z">
+        <seg>su renuncia trece años más tarde en 2002. La economía de China no solo continuó creciendo sino que generó miedo porque se había transformado en un gigante imparable al convertirse en el centro manufacturero mundial.</seg>
       </tuv>
     </tu>
     <tu>
