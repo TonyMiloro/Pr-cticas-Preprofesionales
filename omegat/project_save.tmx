@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8937,8 +8937,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu Jintao had been raised in Anhui, not far from Yangzhou, but had spent most of his professional career in the poor inland provinces of Gansu, Guizhou, and Tibet.Wen Jiabao,who would emerge as premier,was born in Tianjin,but similarly spent much of his career in Gansu province as a geologist.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160908T003316Z">
-        <seg>Hu Jintao se crió en Anhui, no muy lejos de Yangzhou, pero pasó la mayor parte de su carrera profesional en el interior de provincias pobres como Gansu, Guizhou y Tibet. Wen Jibao, quien se convertiría en premier, nació en Tianjin, pero también pasó la mayor parte de su carrera en la provincia de Gansu como geólogo.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T123759Z">
+        <seg>Hu Jintao se crió en Anhui, no muy lejos de Yangzhou, pero pasó la mayor parte de su carrera profesional en el interior de provincias pobres como Gansu, Guizhou y Tibet. Wen Jibao, quien se convertiría en Primer Ministro, nació en Tianjin, pero también pasó la mayor parte de su carrera en la provincia de Gansu trabajando como geólogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19406,8 +19406,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There was no question that HuandWenhadfarmoreintimateknowledgeofthe poor hinterland, and their inland concerns were often juxtaposed with the coastal orientation of Jiang and Zeng’s “Shanghai faction.” Similarly, Hu’s base of support in the Communist Youth League, which he once headed, contrasted with Zeng’s extensive network among the gaogan zidi, the sons and daughters of high-level cadres,of which Zeng was one(his father, Zeng &lt;s0/&gt;Shan,had joined Mao during the Jiangxi period and eventually rose to head the Interior Ministry).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160909T012211Z">
-        <seg>No había ninguna duda de que Hu y Wen conocían con detalle la pobreza del interior del país y de que su preocupación por este se solía yuxtaponer con la orientación costera de la facción de Shanghái de Jiang y Zeng. De manera similar, la base de apoyo de Hu en la Liga de la Juventud Comunista, que alguna vez dirigió, contrastaba con la extensa red entre los gaogan zidi, que eran los hijos varones y mujeres de los dirigentes de alto grado de los cuales Zeng formaba parte (su padre, Zeng &lt;s0/&gt; Shan, se unió a Mao en el período Jiangxi y al final terminó dirigiendo el Ministerio del Interior).</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T124003Z">
+        <seg>No había ninguna duda de que Hu y Wen conocían con detalle la pobreza del interior del país y de que su preocupación por esta región se solía oponer a la orientación costera de la "facción de Shanghái" de Jiang y Zeng. De manera similar, el respaldo popular que Hu recibía de la Liga de la Juventud Comunista, que alguna vez dirigió, contrastaba con la extensa red entre los gaogan zidi, que eran los hijos varones y mujeres de los dirigentes de alto grado de los cuales Zeng formaba parte (su padre, Zeng &lt;s0/&gt; Shan, se unió a Mao en el período Jiangxi y al final terminó dirigiendo el Ministerio del Interior).</seg>
       </tuv>
     </tu>
     <tu>
