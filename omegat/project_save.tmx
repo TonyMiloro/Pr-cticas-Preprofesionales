@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5492,8 +5492,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Central ministries also had a vested interest in conservative ideological interpretations, because emphasizing such themes as “the planned economy as primary” or “state-owned enterprises as pillars of the economy”  bolstered their importance in the political system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160909T001726Z">
-        <seg>Los ministerios principales también tenían un interés particular en las interpretaciones ideológicas conservadoras porque al destacar temas como "la economía de planificación centralizada como esencial" o "empresas estatales como pilares de la economía" reafirmaban su importancia en el sistema político.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T130318Z">
+        <seg>Los ministerios principales también tenían un interés particular en las interpretaciones ideológicas conservadoras porque al destacar temas como "la economía de planificación centralizada es esencial" o "las empresas estatales son pilares de la economía" reafirmaban su importancia en el sistema político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6708,8 +6708,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Deng was interested in defining a middle path, using “reform and opening up” to oppose “leftism” and using the “four cardinal principles” to oppose “bourgeois liberalization.”19[2] It was a way to prevent ideological disputes from tearing the Party apart as they had in the past, and it was a political strategy that allowed Deng to build a coalition that upheld the center of the political spectrum.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T130033Z">
-        <seg>Deng estaba interesado en definir una vía intermedia, usando una política de "reforma y apertura económica" para oponerse al izquierdismo y empleando los "cuatro principios cardinales" para oponerse a la "liberalización burguesa".19 Era una forma de evitar que las disputas ideológicas destruyeran el partido como lo habían hecho en el pasado, y era una estrategia política que le permitía a Deng construir una coalición para sostener el centro del espectro político.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T130257Z">
+        <seg>Deng estaba interesado en definir una vía intermedia, usando una política de "reforma y apertura" para oponerse al izquierdismo y empleando los "cuatro principios cardinales" para oponerse a la "liberalización burguesa".19 Era una forma de evitar que las disputas ideológicas destruyeran el partido como lo habían hecho en el pasado, y era una estrategia política que le permitía a Deng construir una coalición para sostener el centro del espectro político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19774,8 +19774,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They did so for several reasons.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T130118Z">
-        <seg>Tenían muchos motivos para hacerlo.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T130236Z">
+        <seg>Tenían diversos motivos para hacerlo.</seg>
       </tuv>
     </tu>
     <tu>
