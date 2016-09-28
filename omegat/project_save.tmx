@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4140,8 +4140,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As he puts it, it is simply “utopic” to think that “fairness, justice, and democracy can be achieved in the domestic and international arenas naturally out of the market.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160928T231140Z" creationid="Gime" creationdate="20160928T231140Z">
-        <seg>En sus palabras, es simplemente "utópico" el pensar que "la ecuanimidad, la justicia y la democracia pueden alcanzarse en los ámbitos nacionales e internacionales naturalmente fuera del mercado". </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T232618Z" creationid="Gime" creationdate="20160928T231140Z">
+        <seg>En sus palabras, es simplemente "utópico" el pensar que "la imparcialidad, la justicia y la democracia pueden alcanzarse en los ámbitos nacionales e internacionales naturalmente fuera del mercado". </seg>
       </tuv>
     </tu>
     <tu>
@@ -6562,6 +6562,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cui, who received his Ph.D.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T234644Z" creationid="Gime" creationdate="20160928T234644Z">
+        <seg>Cui, quien obtuvo su doctorado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cultural arguments, Wang said, often reflected politi-cal interests and sometimes expanded into armed conflict (as in Bosnia– Herzegovina).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160928T223652Z">
@@ -8609,8 +8617,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Given the debates that have emerged in recent years over China’s inte-gration into the world economy, it is important to note that Wang also sees globalization not as the extension of free markets but as the growth of multinational corporations that collude with domestic political forces to undermine both market forces and political democracy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160928T231607Z" creationid="Gime" creationdate="20160928T231607Z">
-        <seg>Debido a los debates que surgieron en los últimos años acerca de la integración de China a la economía mundial, es importante mencionar que Wang también ve a la globalización no como una extensión del libre mercado sino como el crecimiento de corporaciones multinacionales que colisionaron con las fuerzas políticas nacionales para debilitar tanto a las fuerzas del mercado como a la democrácia.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T232134Z" creationid="Gime" creationdate="20160928T231607Z">
+        <seg>Debido a los debates que surgieron en los últimos años acerca de la integración de China a la economía mundial, es importante mencionar que Wang también ve a la globalización no como una extensión del libre mercado sino como el crecimiento de corporaciones multinacionales que colisionaron con las fuerzas políticas nacionales para debilitar tanto a las fuerzas del mercado como a la democracia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9018,8 +9026,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hence Wang is not content with calling for political democracy (in which capitalist rela-tions predominate) but argues further that political democracy must be coupled with economic</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160928T231946Z" creationid="Gime" creationdate="20160928T231946Z">
-        <seg>Por lo tanto, Wang no está conforme con </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T232437Z" creationid="Gime" creationdate="20160928T231946Z">
+        <seg>Por lo tanto, Wang no está conforme con exigir democracia política (en la que predominan las relaciones capitalistas) pero profundiza en que ésta debe acompañarse de democracia  </seg>
       </tuv>
     </tu>
     <tu>
@@ -10885,6 +10893,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160928T143035Z">
         <seg>A nivel general, como los líderes del gobierno y sus consejeros se educaron más y se especializaron, la distancia entre ellos y la comunidad intelectual más general disminuyó y aumentó.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In surveying contemporary intellectual efforts to come to grips with the problem of modernity, Wang reserves his highest praise for Cui Zhiyuan.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T233759Z" creationid="Gime" creationdate="20160928T233759Z">
+        <seg>En la búsqueda de que los esfuerzos intelectuales contemporaneos se enfrenten con el problema de la modernidad, Wang reserva su elogio más grande para Cui Zhiyuan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15349,6 +15365,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160924T015620Z">
         <seg>Solo a través del desarrollo de la democracia, se podría terminar con este ciclo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only in such a way can social fairness and justice prevail.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T232651Z" creationid="Gime" creationdate="20160928T232651Z">
+        <seg>Solo de esta manera pueden prevalecer la imparcialidad y la justicia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23907,6 +23931,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>democracy and cultural democracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T232455Z" creationid="Gime" creationdate="20160928T232455Z">
+        <seg>económica y cultural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>democracy but, on the contrary, believed that only a step-by-step, gradualist approach could ultimately achieve it.9</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160924T015248Z">
@@ -24055,6 +24087,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160908T022450Z">
         <seg>from NATO) and supporting Southeast Asia, lest America return to that region of the world and threaten China.60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>from the University of Chicago and then taught at the Massachusetts Institute of Technology before going to Qinghua Uni-versity, has probably worked harder than anyone else to develop a Chinese social science that is both informed by Western social science and at the same time critical of mainstream Western thinking.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T234927Z" creationid="Gime" creationdate="20160928T234927Z">
+        <seg>de la Universidad de Chicago y luego dió clases en el Instituto de Tecnología de Massachusetts (MIT) antes de ingresar a la Universidad de Tsinghua, ha trabajado mas que cualquier otro para desarrollar una ciencia social china que </seg>
       </tuv>
     </tu>
     <tu>
