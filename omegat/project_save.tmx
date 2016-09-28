@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4309,6 +4309,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
         <seg>As will be seen, Hu was able to consolidate considerable power in a remarkably short &lt;t103/&gt;period of time&lt;t104/&gt;, but tensions remained throughout his first term as general secretary.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Yani" changedate="20160922T183939Z">
+        <seg>Como se verá, Hu fue capaz de consolidar un poder de importancia en un destacado corto período de tiempo, pero las tensiones permanecieron durante su primer mandato como secretario general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As will be seen, Hu was able to consolidate considerable power in aremarkably short period of time, but tensions remained throughout his ﬁrst term as general secretary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T174026Z" creationid="andrea" creationdate="20160928T174026Z">
         <seg>Como se verá, Hu fue capaz de consolidar un poder de importancia en un destacado corto período de tiempo, pero las tensiones permanecieron durante su primer mandato como secretario general.</seg>
       </tuv>
     </tu>
@@ -16767,6 +16775,14 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Succession in Leninist systems remains difﬁcult.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T174112Z" creationid="andrea" creationdate="20160928T174054Z">
+        <seg>La sucesión en los sistemas lenistas permanece complicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such a concern is likely to have reinforced the tendency among Party leaders to hunker down, assess the situation, and avoid divisive conflicts.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160918T224324Z">
@@ -19394,6 +19410,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T175917Z">
         <seg>Los "trágicos hechos históricos de 1957", escribe Wang, demostraron que "los intelectuales provenientes de la antigua cultura y civilización de China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ﬁrst clear sign of extra-institutional maneuvering appeared when the Xinhua News Agency announced that Jia Qinglin, the Party secretary of Beijing,and Huang Ju,the Party secretary of Shanghai,both close to Jiang Zemin, would be “transferred to the center.”33 These two important personnel changes meant that Liu Qi, who was named to succeed Jia Qinglin as Beijing Party secretary, and Chen Liangyu, who took over as Shanghai Party secretary, would join the Politburo since the Party leaders of those two major cities are routinely seated on the Party’s highest policy-making body.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T174143Z" creationid="andrea" creationdate="20160928T174143Z">
+        <seg>La primera señal clara de una maniobra extrainstitucional apareció cuando la agencia de prensa Xinhua anunció que Jian Qinglin, el secretario del partido de Pekín, y Huang Ju, el secretario del partido de shanghái, ambos cercanos a Jiang Zemin, serían “transferidos al centro”.33 Estos dos cambios de personal importantes significaron que Liu Qi, quién fue nombrado para suceder a Jian Qinglin como secretario del partido de Pekín, y Chen Liangyu, quién tomó el el cargo de secretario del partido de Shanghái,  unirían el Poiltburó ya que los líderes políticos de esas dos ciudades importantes generalmente conforman  el cuerpo de mayor cuerpo normativo del partido..</seg>
       </tuv>
     </tu>
     <tu>
