@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4732,8 +4732,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Before then, all strata of Chinese society had gained from reform; after that, power and the market merged so that one stratum exploited another.47 As Wang’s friend and literary agent Xu Bing put it, prior to 1992, Wang was a “determined and wildly enthusiastic supporter of reform,” but by the spring and summer of that year “his support became rational and conditional.”48 Wang was not alone in his doubts about the course of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T013657Z">
-        <seg>Antes de eso, todos los estratos de la sociedad china habían mejorado desde la reforma; luego de ese momento el poder y el mercado emergieron, y desde entonces un estrato empezó a explotar al otro.47 Como dijo Xu Bing (amigo y agente literario de Wang) antes de 1992, Wang era un "partidario determinado y entusiasta de la reforma", pero para la primavera y el verano de ese año, "su apoyo se volvió racional y condicional".48 Wang no era el único que dudaba del curso de la reforma.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T135932Z">
+        <seg>Antes de eso, todos los estratos de la sociedad china habían mejorado desde la reforma; luego de ese momento el poder y el mercado emergieron y desde entonces un estrato empezó a explotar al otro.47 Como dijo Xu Bing (amigo y agente literario de Wang) antes de 1992, Wang era un "partidario determinado y entusiasta de la reforma", pero para la primavera y el verano de ese año, "su apoyo se volvió racional y condicional".48 Wang no era el único que dudaba del curso de la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10587,8 +10587,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the 1980s, he became director of the Great Wall Social Research Institute (Changcheng shehui yanjiusuo).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123506Z">
-        <seg>En los 80, se convirtió en director del Changcheng shehui yanjiusuo (Instituto de investigación social de la gran muralla).</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T135533Z">
+        <seg>En la decada de los 80, se convirtió en director del Changcheng shehui yanjiusuo (Instituto de Investigación Social de la Gran Muralla).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21634,8 +21634,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang saw 1992 as a dividing line.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160902T141202Z">
-        <seg>En 1992 Wang vio una línea divisoria.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T135841Z">
+        <seg>Wang vio al año 1992 como una línea divisoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21650,8 +21650,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang seems to be an unsatisfied and intemperate person; his literary agent noted that Wang switched jobs frequently, and “always inexplicably ended by being fired.”45 Wang declared that the greatest influences on his thinking were a “sense of responsibility” bequeathed by his father’s generation to carry on the task of the revolution and the “heroic thought” (yingxiong zhuyi sichao) of tempering oneself through struggle, something he apparently cultivated during the Cultural Revolution.46 Unlike most of those older than himself, Wang obviously retained a romantic attachment to the Cultural Revolution and to the figure of Mao Zedong, a passion that flared up with Deng’s trip to the south in 1992 and the resulting wave of speculation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T123613Z">
-        <seg>Wang parecía ser una persona insatisfecha y desmedida; su agente literario notó que cambiaba frecuentemente de trabajo, y que "siempre lo despedían sin explicación".45 Wang declaró que la influencia más grande sobre su pensamiento fue el "sentido de responsabilidad" que le transmitió la generación de su padre para continuar con la tarea de la revolución, y el "pensamiento heroico" de templarse a uno mismo a través de la lucha, algo que al parecer cultivó durante la revolución cultural.46 A diferencia de aquellos mayores que él, Wang obviamente conservó un apego a la revolución cultural y a la figura de Mao Zedong, una pasión que se encendió con el viaje de Deng al sur en 1992 y la consecuente ola de especulación. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T135746Z">
+        <seg>Wang parecía ser una persona insatisfecha y desmedida; su agente literario notó que cambiaba frecuentemente de trabajo, y que “siempre lo despedían sin explicación”.45 Wang declaró que la influencia más grande sobre su pensamiento fue el “sentido de responsabilidad" que le transmitió la generación de su padre para continuar con la tarea de la revolución, y el "pensamiento heroico” de templarse a uno mismo a través de la lucha, algo que al parecer cultivó durante la revolución cultural.46 A diferencia de aquellos mayores que él, Wang obviamente conservó un apego a la revolución cultural y a la figura de Mao Zedong, una pasión que se encendió con el viaje de Deng al sur en 1992 y la consecuente ola de especulación. </seg>
       </tuv>
     </tu>
     <tu>
