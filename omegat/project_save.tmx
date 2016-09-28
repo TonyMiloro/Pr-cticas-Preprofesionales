@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Cold War mentality."</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160928T100832Z" creationid="joaquin" creationdate="20160928T100832Z">
+        <seg> “mentalidad de guerra fría ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(1115)Deng declared the Tiananmen incident to be “the inevitable result of the domestic microclimate  and  the  international  macroclimate.” This sense that Tiananmen was inﬂuenced (if not instigated) by outside forces raised the issue of readjusting China’s relations with the outside world, particularly the United States.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160911T235839Z">
@@ -17501,6 +17509,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The community of liberal intellectuals was badly damaged by Tiananmen</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160928T100910Z" creationid="joaquin" creationdate="20160928T100910Z">
+        <seg>El acontecimiento de Tiananmén y sus repercusiones causó gran daño a la comunidad de intelectuales liberales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The conservative Australian paper the Financial Review summed up the public mood in its headline: “Bush came, Hu conquered.” By 2006, people began talking about China’s emerging “soft power.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160921T170320Z">
@@ -23330,6 +23346,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160905T203248Z">
         <seg>reconocido discurso sobre "la ampliación democrática" en la Escuela de Estudios Avanzados de la Universidad Johns Hopkins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>while the New Left dismiss such formulations as pass´ and reﬂective of a &lt;t0/&gt;e,</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160928T100822Z" creationid="joaquin" creationdate="20160928T100822Z">
+        <seg>mientras que la nueva izquierda considera esas reformulaciones como passé y como proyección de una &lt;t0/&gt;e,</seg>
       </tuv>
     </tu>
     <tu>
