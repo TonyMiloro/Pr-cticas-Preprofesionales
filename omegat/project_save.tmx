@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6918,8 +6918,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Department and State Council Information Office writing team published an article by</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T170804Z" creationid="Soledad Mori" creationdate="20160927T170804Z">
-        <seg>escritores provenientes del Departamento de Propaganda y de la Oficina de Investigación del Consejo de Estado publicó un artículo de </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T194944Z" creationid="Soledad Mori" creationdate="20160927T170804Z">
+        <seg>escritores provenientes del Departamento de Propaganda y de la Oficina de Información del Consejo de Estado publicó un artículo de </seg>
       </tuv>
     </tu>
     <tu>
@@ -23565,8 +23565,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>emerge in 2004 as the head of a newly established Marxism-Leninism Academy in CASS</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T170920Z" creationid="Soledad Mori" creationdate="20160927T170920Z">
-        <seg>emergería en 2004 como el líder de una nueva Academia Marxista-Leninista en CASS </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T194857Z" creationid="Soledad Mori" creationdate="20160927T170920Z">
+        <seg>emergería en 2004 como el líder de una nueva Academia Marxista-Leninista en la CASS </seg>
       </tuv>
     </tu>
     <tu>
