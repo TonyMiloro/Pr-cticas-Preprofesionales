@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18756,8 +18756,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The harsh repression of student-led dissent, not just in Beijing, which was what most of the world watched, but throughout the major cities of China, could not succeed for long, it was thought.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T203237Z">
-        <seg>Se pensaba que la represión contra los estudiantes no duraría mucho tiempo: no solo el acontecimiento en Pekín que tomo conocimiento mundial sino a lo largo de las ciudades más importantes de China.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T205512Z">
+        <seg>Se pensaba que la represión contra los estudiantes no duraría mucho tiempo: no solo el acontecimiento en Pekín que tomó conocimiento mundial sino a lo largo de las ciudades más importantes de China.</seg>
       </tuv>
     </tu>
     <tu>
