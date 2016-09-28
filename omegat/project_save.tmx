@@ -2218,8 +2218,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Thus&lt;t1/&gt; one finds, for instance, an explosion in the number of books dealing with foreign policy – a subject that was virtually taboo in &lt;t2/&gt;the 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131439Z">
-        <seg>Por eso se ve, por ejemplo, un gran incremento en la cantidad de libros que tratan el tema de política externa, una temática que era virtualmente tabú en la década de los ochenta.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T144300Z">
+        <seg>Por eso se puede observar, por ejemplo, un gran incremento en la cantidad de libros que tratan sobre política externa, una temática que era prácticamente tabú en la década de los 80.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10099,8 +10099,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In either case, the realm of public opinion &lt;t3/&gt;can no longer be ignored&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131445Z">
-        <seg>En cualquier caso, el ámbito de la opinión pública no se puede ignorar más.&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T144330Z">
+        <seg>En vista de estos cambios, la opinión pública deja de ser un ámbito relegado.&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16557,8 +16557,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Some of these works defend the government’s position while others are openly critical.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T183957Z">
-        <seg>Algunos de estos trabajos defienden la posición del gobierno y otro son abiertamente críticos.</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T144314Z">
+        <seg>Algunos de estos trabajos defienden la posición del gobierno y otros se oponen abiertamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21018,8 +21018,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>To a certain extent, the government must compete in this marketplace of ideas as well.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nico" changedate="20160904T183424Z">
-        <seg>Hasta cierto punto, el gobierno debe competir en este mercado de ideas también.</seg>
+      <tuv lang="ES-US" changeid="Nico" changedate="20160928T144235Z">
+        <seg>Hasta cierto punto, el gobierno también debe competir en este mercado de ideas.</seg>
       </tuv>
     </tu>
     <tu>
