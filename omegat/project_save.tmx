@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23732,8 +23732,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>as we will see, China’s relations with other countries, particularly the United States, have affected the way people view China’s domestic issues, just as those domestic issues influence the way people have seen international relations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T232005Z">
-        <seg>como veremos más adelante, la relación de China con otros paises, perticularmente con los Estados Unidos, ha afectado la forma en que se conciben los asuntos internos chinos. De la misma forma, estos asuntos internos han influenciado la manera en que se entienden las relaciones internacionales.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T232256Z">
+        <seg>como veremos más adelante, la relación de China con otros paises, particularmente con los Estados Unidos, afectó la forma en que se entienden los asuntos internos chinos. De la misma forma, estos asuntos internos han influenciado la manera en que se entienden las relaciones internacionales.</seg>
       </tuv>
     </tu>
     <tu>
