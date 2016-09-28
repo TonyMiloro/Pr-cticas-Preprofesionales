@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13634,8 +13634,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Marxism in China is a modernizing ideology, and Mao Zedong’s socialist thought was a type of “modernist theory that was opposed to capitalist modernity.” Elsewhere, Wang goes further, pointing out the contradictions within the modernist project and arguing that “a modernity opposed to modernity is not only a special manifestation of Chinese thinkers but a reflection of the structural contradictions within modernity itself.” Arguing that the categories of “socialism” and “capitalism” are no longer meaningful in a marketized and globalized China, Wang has tried to develop an approach that transcends not only those categories but also such dichotomies as Western versus Chinese and modern versus traditional.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160928T155008Z" creationid="ROMI" creationdate="20160928T155008Z">
-        <seg>El Marxismo en China es una ideología modernizadora, y el pensamiento socialista de Mao Zedong´s era un tipo de "teoría progresista que se oponia a la modernidad capitalista". </seg>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160928T220544Z" creationid="ROMI" creationdate="20160928T155008Z">
+        <seg>El Marxismo en China es una ideología modernizadora, y el pensamiento socialista de Mao Zedong´s era un tipo de "teoría progresista que se oponia a la modernidad capitalista". En otra parte, Wang va más lejos, señalando las contra </seg>
       </tuv>
     </tu>
     <tu>
@@ -23309,6 +23309,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Martin" changedate="20160927T154014Z" creationid="Martin" creationdate="20160927T145243Z">
         <seg>Zhang no comparte la nueva agenda confuciana de resucitar una tradición confunciana revivificada, sin embargo, sí comparte la idea nueva confuciana de que el movimiento del cuatro de mayo ha ido demasiado lejos con respecto a sus críticas en contra de los valores tradicionales chinos, con el resultado de que, " por un largo periodo, hemos debilitado nuestra propia identidad cultural de forma excesiva teniendo en cuenta "las perspectivas" occidentales de lo que es bueno o malo para estar bien o mal". En otras partes del mundo, Zhang afirma que los chinos intelectuales tienen el deber de contruir un "discurso de resistencia" para que el país pueda afrontar las demandas de Occidente de una forma mejor con respecto a cuestiones tales como los derechos humanos y los derechos de propiedad intelectual.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang does not share the New Confucian agenda of resurrecting a revivified Confucian tradition, but he does share the New Confucian belief that the May Fourth Movement went too far in its criti-cism of Chinese traditional values, with the result that, “[f ]or a fairly long period of time, we have diluted [danhua] our own cultural identity, exces-sively taking Western [views] of right and wrong to be right and wrong.” Elsewhere Zhang declares that it is the duty of Chinese intellectuals to build up a “discourse of resistance” so that the country can better counter Western demands regarding such issues as human rights and intellectual property rights.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="ROMI" changedate="20160928T215834Z" creationid="ROMI" creationdate="20160928T215834Z">
+        <seg>Zhang no comparte la nueva agenda confuciana de resucitar una tradición confunciana revivificada, sin embargo, sí comparte la idea nueva confuciana de que el movimiento del cuatro de mayo ha ido demasiado lejos con respecto a sus críticas en contra de los valores tradicionales chinos, con el resultado de que, " por un largo periodo, hemos debilitado nuestra propia identidad cultural de forma excesiva teniendo en cuenta "las perspectivas" occidentales de lo que es bueno o malo para estar bien o mal". En otras partes del mundo, Zhang afirma que los chinos intelectuales tienen el deber de contruir un "discurso de resistencia" para que el país pueda afrontar las demandas de Occidente de una forma mejor con respecto a cuestiones tales como los derechos humanos y los derechos de propiedad intelectual.</seg>
       </tuv>
     </tu>
     <tu>
