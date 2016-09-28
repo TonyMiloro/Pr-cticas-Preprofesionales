@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3994,6 +3994,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As Wang’s comments about capitalism and “complex relations” between state and society suggest, he is deeply suspicious of market forces, constantly seeing the hand of power influencing and distorting social and economic outcomes.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T230809Z" creationid="Gime" creationdate="20160928T230809Z">
+        <seg>Como sugieren los comentarios de Wang acerca del capitalismo y las "relaciones complejas" entre el estado y la sociedad, éste sospecha demasiado de la fuerza de los mercados, que constantemente ven a la mano del poder influenciar y distorsionar los resultados sociales y económicos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As Xu Jilin put it:&lt;/f14&gt;&lt;f16&gt;14&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T153706Z">
@@ -4134,6 +4142,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160928T050622Z" creationid="Rocio" creationdate="20160928T045524Z">
         <seg>Según lo expresó: “La  vida política de una sociedad debe buscar un grado justo de unidad y homogeneidad, sino aparecerán contradicciones y el desarrollo político será inestable". &lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Para promover esta unidad, Wang se avocó a cultivar lo que él llamaba "estética política"&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;(zhengzhi shenmei),&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;, un término vago que parece significar la habilidad de aprehender y apreciar los valores e ideales políticos apropiados para aquel tiempo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As he puts it, it is simply “utopic” to think that “fairness, justice, and democracy can be achieved in the domestic and international arenas naturally out of the market.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T231140Z" creationid="Gime" creationdate="20160928T231140Z">
+        <seg>En sus palabras, es simplemente "utópico" el pensar que "la ecuanimidad, la justicia y la democracia pueden alcanzarse en los ámbitos nacionales e internacionales naturalmente fuera del mercado". </seg>
       </tuv>
     </tu>
     <tu>
@@ -8599,6 +8615,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Given the debates that have emerged in recent years over China’s inte-gration into the world economy, it is important to note that Wang also sees globalization not as the extension of free markets but as the growth of multinational corporations that collude with domestic political forces to undermine both market forces and political democracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T231607Z" creationid="Gime" creationdate="20160928T231607Z">
+        <seg>Debido a los debates que surgieron en los últimos años acerca de la integración de China a la economía mundial, es importante mencionar que Wang también ve a la globalización no como una extensión del libre mercado sino como el crecimiento de corporaciones multinacionales que colisionaron con las fuerzas políticas nacionales para debilitar tanto a las fuerzas del mercado como a la democrácia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Given the degree to which policy and power have been interrelated in China, these two issues were inevitably linked to one another.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160905T195804Z">
@@ -8996,6 +9020,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Eloisa" changedate="20160926T013151Z">
         <seg>Heart-to&lt;t0/&gt;-Heart&lt;t1/&gt; &lt;t2/&gt;Talks&lt;t3/&gt; &lt;t4/&gt;se&lt;t5/&gt; &lt;t6/&gt;escribió&lt;t7/&gt; &lt;t8/&gt;deliberadamente&lt;t9/&gt; &lt;t10/&gt;como&lt;t11/&gt; &lt;t12/&gt;una&lt;t13/&gt; &lt;t14/&gt;respuesta&lt;t15/&gt; &lt;t16/&gt;a la&lt;t17/&gt; &lt;t18/&gt;crítica&lt;t19/&gt; &lt;t20/&gt;izquierdista a la reforma, para refutar la creciente tendencia hacia el nacionalismo y para disponer&lt;t21/&gt; &lt;t22/&gt;de una agenada más positiva para Jiang Zemin.&lt;t23/&gt;73&lt;t24/&gt; &lt;t25/&gt;Como sucede con las "pruebas de opinión pública" en la política norteamericana, &lt;t26/&gt; &lt;t27/&gt;el&lt;t28/&gt; &lt;t29/&gt;libro&lt;t30/&gt; &lt;t31/&gt;podía&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;identificarse&lt;t36/&gt; &lt;t37/&gt;con&lt;t38/&gt; &lt;t39/&gt;Jiang&lt;t40/&gt; &lt;t41/&gt;Zemin&lt;t42/&gt; &lt;t43/&gt;(dado el papel de&lt;t44/&gt; &lt;t45/&gt;Liu&lt;t46/&gt; &lt;t47/&gt;Ji&lt;t48/&gt; &lt;t49/&gt;) y&lt;t50/&gt; &lt;t51/&gt;aun así&lt;t52/&gt; &lt;t53/&gt;era&lt;t54/&gt; &lt;t55/&gt;en&lt;t56/&gt; &lt;t57/&gt;cierta medida&lt;t58/&gt; &lt;t59/&gt;negable&lt;t60/&gt; &lt;t61/&gt;de manera creíble.&lt;t62/&gt; &lt;t63/&gt;Heart-to-Heart Talks &lt;t64/&gt;anticipó la publicación de una nueva serie de libros auspiciada &lt;t65/&gt; por Liu Ji, llamada&lt;t66/&gt; &lt;t67/&gt;Contemporary&lt;t68/&gt; &lt;t69/&gt;China’s&lt;t70/&gt; &lt;t71/&gt;Problems&lt;t72/&gt;(Problemas de la China contemporánea),&lt;t73/&gt; &lt;t74/&gt;que&lt;t75/&gt; &lt;t76/&gt;&lt;t77/&gt; &lt;t78/&gt;finalmente&lt;t79/&gt; &lt;t80/&gt;incluiría&lt;t81/&gt; &lt;t82/&gt;más de veinte títulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence Wang is not content with calling for political democracy (in which capitalist rela-tions predominate) but argues further that political democracy must be coupled with economic</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T231946Z" creationid="Gime" creationdate="20160928T231946Z">
+        <seg>Por lo tanto, Wang no está conforme con </seg>
       </tuv>
     </tu>
     <tu>
@@ -24646,8 +24678,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>“I think,” adds Qian, “that if Said were to come to China the situation would probably be about the same.” For Qian, like Wang Xiaodong (whose views on culture were discussed in the previous chapter), the cultural fever of the 1980s demonstrated the enduring influence of imperialism in China, with River Elegy exemplifying this tendency.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160927T161805Z" creationid="Martin" creationdate="20160927T161448Z">
-        <seg>"Creo", agrega Qian, "que Said hubiera venido a China, la situación sería probablemente la misma". Para Qian, al igual que Wang Xiaodong (cuyas ideas acerca de la cultura fueron tratadas en el capítulo anterior ), la fiebre cultural de los 80 demostró la gran influencia del imperialismo en China, con River Elegy que exemplifica esta tendencia.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160928T225744Z" creationid="Martin" creationdate="20160927T161448Z">
+        <seg>"Creo", agrega Qian, "que si Said viniera a China, la situación sería probablemente la misma". Para Qian, al igual que Wang Xiaodong (cuyas ideas acerca de la cultura fueron tratadas en el capítulo anterior ), la fiebre cultural de los 80 demostró la gran influencia del imperialismo en China, con River Elegy que exemplifica esta tendencia.</seg>
       </tuv>
     </tu>
     <tu>
