@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -649,8 +649,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;claimed that the failure of the PRC media to cover Deng’s trip was at Deng’s insistence.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T000332Z">
-        <seg>El periódico&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que fue por insistencia de Deng que los medios de comunicación de la República Popular China no cubrieron el viaje.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193048Z">
+        <seg>El periódico&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que fue por insistencia de Deng que los medios de comunicación de la PRCh no cubrieron el viaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,8 +1578,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Initially, the PRC media did not report Deng’s trip and the CCP did not relay his comments internally.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T002057Z">
-        <seg>En un principio, los medios de comunicación de la República Popular de China no informaron sobre el viaje de Deng y el PCCh no difundió los comentarios de Deng en su seno.&lt;f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193007Z">
+        <seg>En un principio, los medios de comunicación de la RPCh no informaron sobre el viaje de Deng y el PCCh no difundió los comentarios de Deng en su seno.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7848,8 +7848,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Five days later, on February 20, Shenzhen’s paper launched a series of eight articles that gave new details about Deng’s visit and summarized the content of his remarks –the first such coverage in PRC media.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T015132Z">
-        <seg>CInco días después, el 20 de febrero, el papel de Shenzhen’s publicó una serie de ocho artículos que contaban nuevos detalles acerca de la visita de Deng y que resumían el contenido de sus comentarios. Este era la primera cobertura realizada por los medios de comunicaicón de la República Popular de China.&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193645Z">
+        <seg>CInco días después, el 20 de febrero, el papel de Shenzhen’s publicó una serie de ocho artículos que contaban nuevos detalles acerca de la visita de Deng y que resumían el contenido de sus comentarios. Este era la primera cobertura realizada por los medios de comunicaicón de la RPCh.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11904,8 +11904,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was only after the Hong Kong media began reporting on Deng’s trip that the PRC-owned Hong Kong papers &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;and &lt;/f4&gt;&lt;f5&gt;Ta kung pao &lt;/f5&gt;&lt;f6&gt;began covering it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T000238Z">
-        <seg>No fue sino hasta después de que los medios de comunicación de Hong Kong comenzaron a informar sobre el viaje de Deng que los periódicos de Hong Kong que eran propiedad de la República Popular China,  &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;y&lt;/f4&gt;&lt;f5&gt;Ta kung pao, &lt;/f5&gt;&lt;f6&gt;empezaron a cubrir el viaje.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193034Z">
+        <seg>No fue sino hasta después de que los medios de comunicación de Hong Kong comenzaron a informar sobre el viaje de Deng que los periódicos de Hong Kong que eran propiedad de la RPCh, &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;y&lt;/f4&gt;&lt;f5&gt;Ta kung pao, &lt;/f5&gt;&lt;f6&gt;empezaron a cubrir el viaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21186,8 +21186,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, the Thirteenth Party Congress passed a secret resolution to refer all major decisions to Deng Xiaoping as the “helmsman” of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T002208Z">
-        <seg>Por ello, el XIII Congreso Nacional aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping, quien era reconocido como el "timonel" del Partido.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193409Z">
+        <seg>Por ello, el XIII Congreso Nacional del Partido Comunista de China aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping, quien era reconocido como el "timonel" del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21586,8 +21586,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Unlike in the spring of 1991, when Deng had backed off from a decisive confrontation with his opponents, in 1992 – with the &lt;/f0&gt;&lt;f1&gt;Fourteenth Party Congress&lt;/f1&gt;&lt;f2&gt; looming on the horizon – Deng was determined to raise the stakes to the level of a contest for Party leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T001829Z">
-        <seg>A diferencia de la primavera de 1991, cuando Deng había desistido de tener una confrontación decisiva con sus opositores, en 1992, con el  &lt;/f0&gt;&lt;f1&gt;XIV Congreso Nacional&lt;/f1&gt;&lt;f2&gt; aproximándose, Deng estaba decidido a subir la apuesta y competir por el liderazgo del Partido.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193606Z">
+        <seg>A diferencia de la primavera de 1991, cuando Deng había desistido de tener una confrontación decisiva con sus opositores, en 1992, con el  &lt;/f0&gt;&lt;f1&gt;XIV Congreso Nacional del Partido Comunista de Chinal&lt;/f1&gt;&lt;f2&gt; aproximándose, Deng estaba decidido a subir la apuesta y competir por el liderazgo del Partido.</seg>
       </tuv>
     </tu>
     <tu>
