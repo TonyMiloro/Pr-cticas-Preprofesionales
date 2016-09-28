@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12654,6 +12654,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal Affairs Committee,and Jiang Zemin had succeeded in having ﬁve or six of his closest political associates join the Politburo StandingCommittee.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T181333Z" creationid="andrea" creationdate="20160928T181155Z">
+        <seg>de la comisión de Asuntos Jurídicos, y Jiang Zemin han tenido éxito en tener cinco o seis de sus socios políticos más cercanos en el Comité Permanente del Politburó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leng Rong, who was then working in the Party Literature Research Center and who would</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T170833Z" creationid="Soledad Mori" creationdate="20160927T170833Z">
@@ -15341,6 +15349,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160928T180851Z" creationid="andrea" creationdate="20160928T180851Z">
         <seg>El Comité Permanente del Politburó (años de 2002 entre paréntesis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Politburo – Alternate</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160928T181054Z" creationid="andrea" creationdate="20160928T181054Z">
+        <seg>Politburó-suplente</seg>
       </tuv>
     </tu>
     <tu>
