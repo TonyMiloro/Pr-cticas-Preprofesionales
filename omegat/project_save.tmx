@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14218,8 +14218,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Note: This schematic is arranged horizontally from the center outward, showing those who are far to the left and right of the political center (the Old Left and Liberals respectively) as well as those with left and right tendencies within the political center.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T033230Z">
-        <seg>Nota: En esta tabla, el plano horizontal se organizó desde el centro hacia afuera. Muestra aquellos que se alejan del la política central hacia la izquierda y derecha (la vieja izquierda y los liberales respectivamente), así como aquellos con tendencias de izquierda y derecha dentro de la politica central.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T200533Z">
+        <seg>Nota: En esta tabla, el plano horizontal se organizó desde el centro hacia afuera. Muestra aquellos que se alejan de la política central hacia la izquierda y derecha (la vieja izquierda y los liberales respectivamente), así como aquellos con tendencias de izquierda y derecha dentro de la politica central.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21178,8 +21178,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, the Old Left and Liberals influence the political center but are not as powerful, similarly,xvii intellectuals such as Li Shenzhi are not in the same category as former Vice-Premier Wan Li.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T033311Z">
-        <seg>Por lo tanto, la vieja izquierda y los liberales tiene influencia en el centro político pero no son tan poderosos. Del mismo modo, xvii intelectales como Li Shenzhi no se encuentran en la misma categoría que el ex viceprimer ministro Wan Li. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T200612Z">
+        <seg>Por lo tanto, la vieja izquierda y los liberales tienen influencia en el centro político pero no son tan poderosos. Del mismo modo, xvii intelectales como Li Shenzhi no se encuentran en la misma categoría que el ex viceprimer ministro Wan Li. </seg>
       </tuv>
     </tu>
     <tu>
