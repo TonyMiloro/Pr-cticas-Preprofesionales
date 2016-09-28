@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20589,8 +20589,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>To say that public opinion has been of growing importance is not to say that the political leadership always pays attention to what intellectuals say.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160910T051727Z">
-        <seg>Decir que la importancia de la opinión pública ha incrementado no quiere decir que los líderes políticos le pongan atención a lo que dicen los intelectuales.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160928T014642Z">
+        <seg>Si bien la opinión pública ha cobrado importancia, los líderes políticos no siempre ponen atención a lo que dicen los intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
