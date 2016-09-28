@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3324,8 +3324,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the military&lt;t1/&gt; &lt;t2/&gt;had&lt;t3/&gt; &lt;t4/&gt;become&lt;t5/&gt; &lt;t6/&gt;more&lt;t7/&gt; &lt;t8/&gt;professionali&lt;t9/&gt;zed&lt;t10/&gt; &lt;t11/&gt;over&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;years,&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;possibility&lt;t20/&gt; &lt;t21/&gt;of it&lt;t22/&gt; &lt;t23/&gt;influencing&lt;t24/&gt; &lt;t25/&gt;power&lt;t26/&gt; &lt;t27/&gt;arrangements,&lt;t28/&gt; &lt;t29/&gt;or&lt;t30/&gt; &lt;t31/&gt;being&lt;t32/&gt; &lt;t33/&gt;brought&lt;t34/&gt; &lt;t35/&gt;into&lt;t36/&gt; &lt;t37/&gt;politics&lt;t38/&gt; &lt;t39/&gt;to&lt;t40/&gt; &lt;t41/&gt;support one leader or another, could not be discounted &lt;t42/&gt;– &lt;t43/&gt;as the &lt;t44/&gt;PLA’s &lt;t45/&gt;touting&lt;t46/&gt; &lt;t47/&gt;of Jiang &lt;t48/&gt;Zemin’s &lt;t49/&gt;military expertise the year before suggested.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160928T130130Z" creationid="Flor" creationdate="20160928T130130Z">
-        <seg>&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt; &lt;t44/&gt;&lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt; &lt;t48/&gt; &lt;t49/&gt;</seg>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160928T130636Z" creationid="Flor" creationdate="20160928T130130Z">
+        <seg>&lt;t1/&gt;A pesar de que los militares habían llegado a convertirse en profesionales  durante esos años, la posibilidad de realizar acuerdos de poder o ser insertos en la política para apoyar a un líder u otro no podía dejarse afuera siendo que el EPL hacía alarde de la experiencia militar de Jiang Zemin un año antes de que este fuera recomendado. &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt; &lt;t44/&gt;&lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt; &lt;t48/&gt; &lt;t49/&gt;</seg>
       </tuv>
     </tu>
     <tu>
