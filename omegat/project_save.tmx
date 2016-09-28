@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18340,8 +18340,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The democratic movement was too strong, public disgust with the corruption and authoritarian policies of the government too great, and the world tide against communist governments – exemplified by the collapse of socialism in Eastern Europe later that same year – too profound for China to resist for long.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160923T030807Z">
-        <seg>El movimiento democrático era muy fuerte, la indignación del pueblo por la corrupción y las políticas autoritarias del gobierno muy pronunciada, y la tendencia mundial en contra de los gobiernos comunistas - por ejemplo, el colapso del socialismo en Europa del Este más tarde ese mismo año - muy marcada como para que China resista por más tiempo.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T203500Z">
+        <seg>El movimiento democrático era muy fuerte, la indignación del pueblo por la corrupción y las políticas autoritarias del gobierno muy pronunciada, y la tendencia mundial en contra de los gobiernos comunistas (por ejemplo, el colapso del socialismo en Europa del Este más tarde ese mismo año) muy marcada como para que China resista por más tiempo.</seg>
       </tuv>
     </tu>
     <tu>
