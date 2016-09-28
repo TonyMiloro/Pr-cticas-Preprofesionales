@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18980,16 +18980,16 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The historical record to date suggests that Leninist systems do have diffi-culty reforming politically.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T195245Z">
-        <seg>Los registros históricos a la fecha sugieren que el leninismo tiene dificultades a la hora de encarar la reforma política.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T235718Z">
+        <seg>El registro histórico a la fecha sugieren que el leninismo tiene dificultades a la hora de encarar la reforma política.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The history of political contestation in twentieth-century China in general and the heritage of Leninism in particular make it difficult for both institution building and pluralist understandings of political power.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T235329Z">
-        <seg>La historia de las rivalidades políticas en el siglo xx en general y la herencia del leninismo en particular hicieron dificil la construcción de instituciones y el entendimiento pluralista del poder político.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T235502Z">
+        <seg>La historia de las rivalidades políticas chinas en el siglo xx en general y la herencia del leninismo en particular dificultaron la construcción de instituciones y el entendimiento pluralista del poder político.</seg>
       </tuv>
     </tu>
     <tu>
