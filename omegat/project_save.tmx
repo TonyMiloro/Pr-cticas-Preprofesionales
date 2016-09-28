@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11820,6 +11820,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It drew an analogy to a tree, arguing that China’s traditional culture can be understood as the roots, Marxism–Leninism as the trunk, and the outstanding parts of various cultures from around the world as the branches.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Vere" changedate="20160928T222330Z" creationid="Vere" creationdate="20160928T222330Z">
+        <seg>Establecía una analogía de China con un árbol, afirmando que la cultura tradicional china podía ser entendida como las raíces, el Marxismo-Leninismo como el tronco y las partes más sobresalientes de varias culturas alrededor del mundo como las ramas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It even appealed &lt;t20/&gt;to&lt;t21/&gt; many&lt;t22/&gt; &lt;t23/&gt;in China who both desired China to be recognized as a great power and&lt;t24/&gt; &lt;t25/&gt;hoped that China would fully join the international system.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160915T142556Z">
@@ -11984,6 +11992,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T120137Z" creationid="Lucrecia" creationdate="20160927T120137Z">
         <seg>Se debería resaltar que muchos izquierdistas nacen del modelo de propaganda y por lo tanto son conocedores del lenguaje del Marxismo-Lenismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be noted that this analogy stood the orthodox CCP understanding of history on its head.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Vere" changedate="20160928T222417Z" creationid="Vere" creationdate="20160928T222417Z">
+        <seg>Se debe aclarar que esta analogía sentaba la concepción ortodoxa que tenía el PCCh de la historia.</seg>
       </tuv>
     </tu>
     <tu>
