@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4204,8 +4204,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As unbelievable as it is, Wang pictures Mao – the person who unleashed the Great Leap Forward and brought about the death of perhaps 30 million Chinese – as the only leader who truly understood the peasants.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160921T161708Z">
-        <seg>Aunque parezca increíble, Wang describe a Mao -la persona que dio rienda suelta al Gran Salto Adelante y causó la muerte de quizás 30 millones de chinos- como el único líder que realmente entendió a los campesinos.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T141052Z">
+        <seg>Aunque parezca increíble, Wang describe a Mao (la persona que dio rienda suelta al Gran Salto Adelante y causó la muerte de quizás 30 millones de chinos) como el único líder que realmente entendió a los campesinos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5156,8 +5156,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>By keeping peasants (described as “lacking in educa- tion and full of traditional rebelliousness”) “locked docilely” on the land and by “squeezing the peasants’ stomachs,” Mao was able to pursue indus- trialization for three decades and was able to turn China into a nuclear power.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T124406Z">
-        <seg>Al mantener a los campesinos (a quienes se describe como "sin educación y llenos de la rebeldía tradicional") "atrapados dócilmente" en los campos y al "exprimirles el estómago", Mao fue capaz de llevar a cabo la industrialización durante tres décadas y pudo convertir a China en una potencia nuclear.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T141208Z">
+        <seg>Al mantener a los campesinos (a quienes se describe como “sin educación y llenos de la rebeldía tradicional”) “atrapados dócilmente” en los campos y al “exprimirles el estómago”, Mao fue capaz de llevar a cabo la industrialización durante tres décadas y pudo convertir a China en una potencia nuclear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8458,8 +8458,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Had he not done so, says Wang derisively, “today China would 50 See Yang Ping, “The Third Eye – Commenting on Seeing China through a Third Eye”; Sha Feng, “Ultraleftists within CCP Launch Comeback by Criticizing Five New Rightists”; and Tseng Hui-yen, “Looking at China with a Third Eye Reportedly Written by Pan Yue.” 51 Wang Shan [Luo yi ning ge er], Disanzhi yanjing kan Zhongguo, pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160906T155124Z">
-        <seg>Si no lo hubiera hecho, dice Wang con sorna, "hoy China sería </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T141224Z">
+        <seg>Si no lo hubiera hecho, dice Wang con sorna, “hoy China sería </seg>
       </tuv>
     </tu>
     <tu>
@@ -15019,8 +15019,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 Neostatism and popular nationalism 155 look like India.”52 Mao tried to transform the peasants, but after the Great Leap Forward they revealed their “spontaneous capitalist tendencies” and challenged the Party through their laziness, migration, and black markets, confirming Mao’s fears that rural society was a “hotbed of spontaneous disease and germs.” In the end, Wang suggests, it was the peasants who betrayed Mao and not the other way around, but then “we often find that Chinese simply do not understand or love their leader, Mao Zedong.”53 Reflecting the same resentment of China’s cultural elite as Wang Xiaodong, Wang Shan declares in A Third Eye that intellectuals lack the “knowledge, experience, ability, character, and prestige” to participate effec- tively in government and push forward the democratization of the coun- try.54 The history of China’s various democratic movements, beginning with the Hundred Flowers Movement in 1957, shows that owing to the lack of maturity of China’s intellectuals, their struggles have failed to pro- mote the causes for which they strove.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T124634Z">
-        <seg>como India".52 Mao trató de transformar a los campesinos, pero después del Gran Salto Adelante ellos revelaron "espontáneas tendencias capitalistas" y desafiaron al Partido con su pereza, migración y los mercados negros y confirmaron así los miedos de Mao de que la sociedad rural fuera un "hervidero de enfermedades y gérmenes". Al final, Wang sugiere que fueron los campesinos quienes traicionaron a Mao y no al revés, pero aun así "con frecuencia nos encontramos con que los chinos simplemente no entienden o no aman a su líder Mao Zedong".53  </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T141344Z">
+        <seg>como India”.52 Mao trató de transformar a los campesinos, pero después del Gran Salto Adelante ellos revelaron “espontáneas tendencias capitalistas” y desafiaron al Partido con su pereza, migración y los mercados negros y confirmaron así los miedos de Mao de que la sociedad rural fuera un “hervidero de enfermedades y gérmenes”. Al final, Wang sugiere que fueron los campesinos quienes traicionaron a Mao y no al revés, pero aun así “con frecuencia nos encontramos con que los chinos simplemente no entienden o no aman a su líder Mao Zedong”.53  </seg>
       </tuv>
     </tu>
     <tu>
@@ -21554,8 +21554,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang argues that Mao was basically sympathetic to the peasants, but the task of modernization forced Mao to sacrifice their interests in favor of industrialization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T124356Z">
-        <seg>Wang sostiene que Mao fue en esencia solidario con los campesinos, pero la tarea de modernización lo obligó a sacrificar los intereses de los campesinos en pos de la industrialización.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T141109Z">
+        <seg>Wang sostiene que Mao fue en esencia solidario con los ellos, pero la tarea de modernización lo obligó a sacrificar los intereses de los campesinos en favor de la industrialización.</seg>
       </tuv>
     </tu>
     <tu>
