@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7599,8 +7599,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Everyone knew the end could not be far away.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T174301Z">
-        <seg>Todos sabían que el final no era tan lejano.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T220849Z">
+        <seg>Todos sabían que el final estaba cerca.</seg>
       </tuv>
     </tu>
     <tu>
