@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22578,8 +22578,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>What new understandings of politics emerged to transcend the disputes that had fed into Tiananmen?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T223858Z">
-        <seg>¿Qué nueva comprensión sobre la política surgió para trascender las disputas que habían derivado de la tragedia de Tiananmén? </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T224112Z">
+        <seg>¿Qué nueva comprensión sobre la política surgió para trascender las disputas que habían derivado en la tragedia de Tiananmén? </seg>
       </tuv>
     </tu>
     <tu>
