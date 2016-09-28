@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14931,8 +14931,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On &lt;t0/&gt;the eve of the Fourth Plenum, Deng urged the leaders not to dissipate the energies of the Party in futile ideological disputes: “If at this time we open up some sort of discussion on ideology, such as a discussion regarding markets and planning, then not only would bringing up this sort of issue be disadvantageous to stability but it would cause us to miss an opportunity.”45 Yet it was, of course, precisely this sort of discussion – whether the given policies were “socialist” or “capitalist” – that was already</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160924T225114Z">
-        <seg>En  &lt;t0/&gt;visperas del Cuarto Pleno, Deng instó a los lideres a que no disipen las energias del partido en disputas ideológicas innecesarias: "Si a estas alturas abrimos algún tipo de discusión sobre ideología, como por ejemplo de mercados y planeamiento, no solo será una desventaja para la estabilidad pero tambien provocara que perdamos una oportunidad".45.Sin embargo era, por supuesto precisamente este tipo de discusión, de si las políticas eran "socialistas" o "capitalistas", lo que que estaba empezando a colmar los medios</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T232815Z">
+        <seg>En  &lt;t0/&gt;visperas del Cuarto Pleno, Deng instó a los lideres a que no disipen las energias del partido en disputas ideológicas innecesarias: "Si a estas alturas abrimos algún tipo de discusión sobre ideología, como por ejemplo de mercados y planeamiento, no solo será una desventaja para la estabilidad pero tambien provocara que perdamos una oportunidad".45.Sin embargo era, por supuesto este tipo de discusión precisamente, de si las políticas eran "socialistas" o "capitalistas", lo que que estaba empezando a colmar los medios</seg>
       </tuv>
     </tu>
     <tu>
