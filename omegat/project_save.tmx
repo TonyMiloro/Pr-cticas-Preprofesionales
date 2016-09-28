@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23091,8 +23091,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Yuan lambasted liberal economists who refused to&lt;/f54&gt;&lt;f55&gt; &lt;/f55&gt;&lt;f56&gt;preface&lt;/f56&gt;&lt;f57&gt; &lt;/f57&gt;&lt;f58&gt;the&lt;/f58&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;term&lt;/f60&gt;&lt;f61&gt; &lt;/f61&gt;&lt;f62&gt;“market&lt;/f62&gt;&lt;f63&gt; &lt;/f63&gt;&lt;f64&gt;economy”&lt;/f64&gt;&lt;f65&gt; &lt;/f65&gt;&lt;f66&gt;with&lt;/f66&gt;&lt;f67&gt; &lt;/f67&gt;&lt;f68&gt;the&lt;/f68&gt;&lt;f69&gt; &lt;/f69&gt;&lt;f70&gt;all-important&lt;/f70&gt;&lt;f71&gt; &lt;/f71&gt;&lt;f72&gt;modifier “socialist” and who called for reducing the percentage of the state-owned economy to &lt;/f72&gt;&lt;f73&gt;20 &lt;/f73&gt;&lt;f74&gt;or even &lt;/f74&gt;&lt;f75&gt;15 &lt;/f75&gt;&lt;f76&gt;percent (an obvious reference to Cao Siyuan).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T202155Z" creationid="marcelo lavarda" creationdate="20160928T201759Z">
-        <seg>[parcial]Yuan criticaba economistas liberales que se rehusaban a&lt;t57/&gt; &lt;t58/&gt;introducir&lt;t59/&gt; &lt;t60/&gt;el&lt;t61/&gt; &lt;t62/&gt;término&lt;t63/&gt; &lt;t64/&gt;“economía&lt;t65/&gt; &lt;t66/&gt;de mercado”&lt;t67/&gt; &lt;t68/&gt;con&lt;t69/&gt; &lt;t70/&gt;el&lt;t71/&gt; &lt;t72/&gt;importantísimo&lt;t73/&gt; &lt;t74/&gt;modificador “socialista” y quienes exigían la reducción del porcentaje de la economía (de propiedad) estatal al &lt;t75/&gt;20 &lt;t76/&gt;o incluso &lt;t77/&gt;15 &lt;t78/&gt;per ciento (una referencia obvia a Cao Siyuan).&lt;/f54&gt;&lt;f55&gt;&lt;/f55&gt;&lt;f56&gt;&lt;/f56&gt;&lt;f57&gt;&lt;/f57&gt;&lt;f58&gt;&lt;/f58&gt;&lt;f59&gt;&lt;/f59&gt;&lt;f60&gt;&lt;/f60&gt;&lt;f61&gt;&lt;/f61&gt;&lt;f62&gt;&lt;/f62&gt;&lt;f63&gt;&lt;/f63&gt;&lt;f64&gt;&lt;/f64&gt;&lt;f65&gt;&lt;/f65&gt;&lt;f66&gt;&lt;/f66&gt;&lt;f67&gt;&lt;/f67&gt;&lt;f68&gt;&lt;/f68&gt;&lt;f69&gt;&lt;/f69&gt;&lt;f70&gt;&lt;/f70&gt;&lt;f71&gt;&lt;/f71&gt;&lt;f72&gt;&lt;/f72&gt;&lt;f73&gt;&lt;/f73&gt;&lt;f74&gt;&lt;/f74&gt;&lt;f75&gt;&lt;/f75&gt;&lt;f76&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T204646Z" creationid="marcelo lavarda" creationdate="20160928T201759Z">
+        <seg>Yuan criticaba economistas liberales que se rehusaban a introducir el término&lt;t63/&gt; &lt;t64/&gt;“economía&lt;t65/&gt; &lt;t66/&gt;de mercado”&lt;t67/&gt; &lt;t68/&gt;con&lt;t69/&gt; &lt;t70/&gt;el&lt;t71/&gt; &lt;t72/&gt;importantísimo&lt;t73/&gt; &lt;t74/&gt;modificador “socialista” y quienes exigían la reducción del porcentaje de la economía (de propiedad) estatal al 20 o incluso 15 por ciento (una referencia obvia a Cao Siyuan).&lt;/f54&gt;&lt;f55&gt;&lt;/f55&gt;&lt;f56&gt;&lt;/f56&gt;&lt;f57&gt;&lt;/f57&gt;&lt;f58&gt;&lt;/f58&gt;&lt;f59&gt;&lt;/f59&gt;&lt;f60&gt;&lt;/f60&gt;&lt;f61&gt;&lt;/f61&gt;&lt;f62&gt;&lt;/f62&gt;&lt;f63&gt;&lt;/f63&gt;&lt;f64&gt;&lt;/f64&gt;&lt;f65&gt;&lt;/f65&gt;&lt;f66&gt;&lt;/f66&gt;&lt;f67&gt;&lt;/f67&gt;&lt;f68&gt;&lt;/f68&gt;&lt;f69&gt;&lt;/f69&gt;&lt;f70&gt;&lt;/f70&gt;&lt;f71&gt;&lt;/f71&gt;&lt;f72&gt;&lt;/f72&gt;&lt;f73&gt;&lt;/f73&gt;&lt;f74&gt;&lt;/f74&gt;&lt;f75&gt;&lt;/f75&gt;&lt;f76&gt;</seg>
       </tuv>
     </tu>
     <tu>
