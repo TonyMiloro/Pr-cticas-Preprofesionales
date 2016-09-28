@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3916,8 +3916,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As he put it: “The political life of a society must seek a fair degree of unity and homogeneity; otherwise, contradictions will appear every- where and political development will be unstable.”&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;In order to promote such unity, Wang advocated cultivating what he called “political aesthet- ics”&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;(zhengzhi shenmei),&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;a vague term that appears to mean the ability to apprehend and appreciate the political values and ideals appropriate for the time.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T050044Z" creationid="Rocio" creationdate="20160928T045524Z">
-        <seg>Según lo expresó: “La  vida política de una sociedad debe buscar un grado justo de unidad y homogeneidad, sino aparecerán contradicciones y el desarrollo político  The political life of a society must seek a fair degree of unity and homogeneity; otherwise, contradictions will appear every- where and political development will be unstable.”&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;In order to promote such unity, Wang advocated cultivating what he called “political aesthet- ics”&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;(zhengzhi shenmei),&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;a vague term that appears to mean the ability to apprehend and appreciate the political values and ideals appropriate for the time.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T050155Z" creationid="Rocio" creationdate="20160928T045524Z">
+        <seg>Según lo expresó: “La  vida política de una sociedad debe buscar un grado justo de unidad y homogeneidad, sino aparecerán contradicciones y el desarrollo político será inestable". &lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;In order to promote such unity, Wang advocated cultivating what he called “political aesthet- ics”&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;(zhengzhi shenmei),&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;a vague term that appears to mean the ability to apprehend and appreciate the political values and ideals appropriate for the time.</seg>
       </tuv>
     </tu>
     <tu>
