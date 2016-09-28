@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16052,16 +16052,16 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>SOE State-Owned Enterprise</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T022950Z">
-        <seg>SOE Empresa estatal</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T202331Z">
+        <seg>EPE Empresa de Propiedad Estatal</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>SPC State Planning Commission</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T023108Z">
-        <seg>SPC Comisión Estatal de Planificación de Desarrollo</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160928T202406Z">
+        <seg>SPC Comisión Estatal de Planificación</seg>
       </tuv>
     </tu>
     <tu>
