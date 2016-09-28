@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58,14 +58,6 @@
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160908T224648Z">
         <seg>*Murió en febrero de 1993</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="Melanie" changedate="20160925T000403Z">
-        <seg>..</seg>
       </tuv>
     </tu>
     <tu>
@@ -3940,8 +3932,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Deng and Li Ruihuan tried to cool the ideological atmosphere and refocus the Party’s attention on reform and opening up, conservatives were determined to press their advantage.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T032411Z">
-        <seg>Mientras que  Deng y Li Ruihuan intentaban calmar la atmosfera ideológica y enfocar la atención del partido en la reforma y la expansión, los conservadores estaban decididos a aprovechar su ventaja.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T234106Z">
+        <seg>Mientras que Deng y Li Ruihuan intentaban calmar la atmosfera ideológica y enfocar la atención del partido en la reforma y la expansión, los conservadores estaban decididos a aprovechar su ventaja.</seg>
       </tuv>
     </tu>
     <tu>
