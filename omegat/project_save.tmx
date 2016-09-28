@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21237,8 +21237,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang sees China’s socialist system as contributing to the strengthening of public authority and to the concentration of resources needed to maintain social equilibrium; without such authority, there would be an “anarchic struggle for resources among individuals, groups, and regions” leading to general social insta- bility.&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;It should be noted that Wang’s prescription for strong public authority was not necessarily a plea for authoritarian rule.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T043709Z" creationid="Rocio" creationdate="20160928T043500Z">
-        <seg>Wang considera el sistema socialiste de China contribuye al fortalecimiento de la autoridad pública y a la concentración de recursos necesarios para mantener el equilibrio social. Sin esa autoridad, habría una "lucha anárquica entre los individuos, grupos y regiones", lo que llevaría a una inestabilidad social general. Wang sees China’s socialist system as contributing to the strengthening of public authority and to the concentration of resources needed to maintain social equilibrium; without such authority, there would be an “anarchic struggle for resources among individuals, groups, and regions” leading to general social insta- bility.&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;It should be noted that Wang’s prescription for strong public authority was not necessarily a plea for authoritarian rule.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T043807Z" creationid="Rocio" creationdate="20160928T043500Z">
+        <seg>Wang considera el sistema socialiste de China contribuye al fortalecimiento de la autoridad pública y a la concentración de recursos necesarios para mantener el equilibrio social. Sin esa autoridad, habría una "lucha anárquica entre los individuos, grupos y regiones", lo que llevaría a una inestabilidad social general.&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt; Cabe aclarar que la prescripción de Wang de una autoridad pública fuerte no necesariamente It should be noted that Wang’s prescription for strong public authority was not necessarily a plea for authoritarian rule.</seg>
       </tuv>
     </tu>
     <tu>
