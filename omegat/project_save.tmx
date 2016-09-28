@@ -2488,6 +2488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;t16/&gt;country of freedom and equality cannot be created by a group of slaves'."&lt;t17/&gt;68 &lt;t18/&gt;Li quoted to similar effect other heroes of the May Fourth Movement - &lt;t19/&gt;including Chen Duxiu, Cai Yuanpei, and Lu Xun - thus making clear that &lt;t20/&gt;the values of individualism, human rights, and tolerance were embedded &lt;t21/&gt;in the very fabric of the May Fourth Movement.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160928T103241Z" creationid="joaquin" creationdate="20160928T103241Z">
+        <seg>Un país de libertad e igualdad no puede formarse por un grupo de esclavos”. &lt;t17/&gt;68 &lt;t18/&gt;Li citó por razón similar a otros héroes del Movimiento del Cuatro de Mayo, incluidos Chen Duxui y Lu Xun; en consecuencia dejando en claro que los valores del individualismo, los derechos humanos y la tolerancia se encontraban incorporados en la verdadera estructura del Movimiento del Cuatro de Mayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A certain degree of international tension was good&lt;t8/&gt; &lt;t9/&gt;for those who liked to raise the nationalist banner; it also provided a good&lt;t10/&gt; &lt;t11/&gt;excuse to continue to protect the interests of enterprises and bureaucracies&lt;t12/&gt; &lt;t13/&gt;that were threatened by international competition.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160909T222748Z">
@@ -8545,8 +8553,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He quoted Hu Shi, &lt;t11/&gt;one of the founders of the May Fourth Movement, as follows: "Now, there are some people who tell you, 'Sacrifice your individual freedom and strive &lt;t12/&gt;for the freedom of the country!' I say to them, 'Fighting for your individ- &lt;t13/&gt;ual freedom is fighting for freedom for the country!</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160928T102915Z" creationid="joaquin" creationdate="20160928T102915Z">
-        <seg>.Él cita a  uno de los fundadores del Movimiento del Cuatro de Mayo, de la siguiente manera: “Si bien hay algunas personas que te dicen, ¡Sacrifica tu libertad individual y lucha por la libertad del país!”</seg>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160928T103040Z" creationid="joaquin" creationdate="20160928T102915Z">
+        <seg>Él cita a  uno de los fundadores del Movimiento del Cuatro de Mayo, de la siguiente manera: “Si bien hay algunas personas que te dicen, ¡Sacrifica tu libertad individual y lucha por la libertad del país!”, yo les contesto, “¡Pelear por tu libertad individual es pelear por la libertad del país!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16534,6 +16542,17 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T002506Z">
         <seg>Comienza la publicación de "Strategy and Management" (Estrategia y Dirección)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is struggling for the dignity of the country!</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160928T103102Z" creationid="joaquin" creationdate="20160928T103102Z">
+        <seg>¡Luchar por tu dignidad individual (renge) es luchar por la dignidad del país!
+ 
+
+Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is struggling for the dignity of the country!</seg>
       </tuv>
     </tu>
     <tu>
