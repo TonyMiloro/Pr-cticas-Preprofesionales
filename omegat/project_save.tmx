@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8297,8 +8297,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Germany had the attraction of having produced well-known intellectuals over the years, thus providing an air of gravitas, and was also neutral regarding Chinese affairs and hence capable of seeing China’s situation “objectively” as a bystander (the implication that “a third eye” was supposed to convey).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T124317Z">
-        <seg>Alemania era atractiva por haber producido intelectuales reconocidos a través de los años, y proporcionaba así un aire de seriedad. Además tenía una posición neutra con respecto a los asuntos chinos, y de esa manera era capaz de ver la situación de China "objetivamente" como si fuera un testigo (esa era la idea que "un tercer ojo" debía transmitir).   </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T140605Z">
+        <seg>Alemania era atractiva por haber producido intelectuales reconocidos a través de los años, y proporcionaba así un aire de seriedad. Además tenía una posición neutra con respecto a los asuntos chinos, y de esa manera era capaz de ver la situación de China “objetivamente” como si fuera un testigo (esa era la idea que “un tercer ojo” debía transmitir).   </seg>
       </tuv>
     </tu>
     <tu>
@@ -10771,8 +10771,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the preface, “Luo yi ning ge er” is identified as a German and as Europe’s most famous Sinologist.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160908T181419Z">
-        <seg>En el prólogo, se describe a "Luo yi ning ge er" como alemán y como el sinólogo más famoso de Europa.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T140513Z">
+        <seg>En el prólogo, se dice que “Luo yi ning ge er” es alemán y se lo describe como el sinólogo más famoso de Europa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15011,8 +15011,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 154 China since Tiananmen by writing what became an instant best seller; in so doing, Wang showed that his doubts were widely shared among the urban population.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160926T124256Z">
-        <seg>por medio de publicaciones que se convirtieron instantáneamente en best-sellers; al hacerlo, Wang demostró que la población urbana se identificaba considerablemente con sus dudas.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T140353Z">
+        <seg>por medio de publicaciones que se convirtieron instantáneamente en best-sellers; al hacerlo, Wang demostró que la población urbana se sentía identificada con sus dudas de manera considerable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17892,8 +17892,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The cover of Looking at China through a Third Eye identifies one “Luo yi ning ge er” as the author.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160909T140747Z">
-        <seg>En la tapa de Mirando a China desde un tercer ojo se nombra a un tal "Luo yi ning ge er" como el autor.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20160928T140426Z">
+        <seg>En la tapa de Mirando a China desde un tercer ojo se nombra a un tal “Luo yi ning ge er” como el autor</seg>
       </tuv>
     </tu>
     <tu>
