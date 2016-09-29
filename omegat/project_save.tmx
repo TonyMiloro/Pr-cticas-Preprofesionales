@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10147,8 +10147,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu was a victim of the internecine&lt;s5/&gt;battles then raging between Hu Yaobang and Zhao Ziyang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154325Z" creationid="constanza" creationdate="20160929T154325Z">
-        <seg>Hu fue una víctima de las luchas&lt;s5/&gt;internas en ese entonces entre Hu Yaobang y Zhao Ziyang.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T183910Z" creationid="constanza" creationdate="20160929T154325Z">
+        <seg>Hu fue víctima de las luchas&lt;s5/&gt;internas en ese entonces entre Hu Yaobang y Zhao Ziyang.</seg>
       </tuv>
     </tu>
     <tu>
