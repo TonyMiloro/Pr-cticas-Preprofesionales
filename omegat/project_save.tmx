@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12984,8 +12984,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It was after that meeting, and apparently because of it, that Deng authorized Zhao’s famous May 13, 1987 speech that closed off the campaign against bourgeois liberalization and prepared the political atmosphere for the Thirteenth&lt;s4/&gt;Party Congress in the fall.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T165736Z">
-        <seg>Fue después dede aquel encuentro, y apararentemente a causa de éste, que Deng autorizó el famoso discurso de Zhao el 13 de mayo del año 1987 que finalizó la campaña en contra de la liberalización burguesa y preparó la atmósfera política para la decimotercer fiesta del Congreso número trece en la caída.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T172453Z">
+        <seg>Fue después dede aquel encuentro, y apararentemente a causa de éste, que Deng autorizó el famoso discurso de Zhao el 13 de mayo del año 1987 que finalizó la campaña en contra de la liberalización burguesa y preparó la atmósfera política para la decimotercer Congreso Partidario en la caída.</seg>
       </tuv>
     </tu>
     <tu>
