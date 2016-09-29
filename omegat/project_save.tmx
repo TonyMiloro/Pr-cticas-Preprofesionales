@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4909,8 +4909,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Based on large-scale surveys in four places – the Shenzhen Special Economic Zone in southeast China, Anhui provincial capital of Hefei, the county-level city of Hanchuan in central Hubei province, and Zhenning county in southwestern Guizhou province – Lu and his colleagues argue that the economic development of the reform years indeed expanded the size of the Chinese middle class, but it remained far from the size necessary to bring about an “olive- shaped” society that sociologists identify with stable societies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T025549Z" creationid="Agustín" creationdate="20160929T025405Z">
-        <seg>Según encuestas de gran escala que se realizaron en cuatro lugares: la Zona  the Shenzhen Special Economic Zone in southeast China, Anhui provincial capital of Hefei, the county-level city of Hanchuan in central Hubei province, and Zhenning county in southwestern Guizhou province – Lu and his colleagues argue that the economic development of the reform years indeed expanded the size of the Chinese middle class, but it remained far from the size necessary to bring about an “olive- shaped” society that sociologists identify with stable societies.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T025654Z" creationid="Agustín" creationdate="20160929T025405Z">
+        <seg>Según encuestas de gran escala que se realizaron en cuatro lugares: la ZEE de Shenzhen en el sudeste de China, Anhui provincial capital of Hefei, the county-level city of Hanchuan in central Hubei province, and Zhenning county in southwestern Guizhou province – Lu and his colleagues argue that the economic development of the reform years indeed expanded the size of the Chinese middle class, but it remained far from the size necessary to bring about an “olive- shaped” society that sociologists identify with stable societies.</seg>
       </tuv>
     </tu>
     <tu>
