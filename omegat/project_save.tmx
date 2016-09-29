@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21386,8 +21386,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Those in the Soviet Union and Eastern Europe imploded, while those in Cuba and North Korea have resisted reform; China and Vietnam have reformed economically but political reform has been limited (though recently Vietnam has made important strides).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T000155Z">
-        <seg>Los sistemas leninistas de la Unión Soviética y Europa del Este colapsaron, mientras que los de Cuba y Corea del Norte se resistieron a la reforma; China y Vietnam se reformaron economicamente pero la reforma política ha sido limitada (a pesar de que Vietnam ha tenido grandes avances recientemente).</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T000318Z">
+        <seg>Los sistemas leninistas de la Unión Soviética y Europa del Este colapsaron, mientras que los de Cuba y Corea del Norte se resistieron a la reforma; China y Vietnam aplicaron reformas económicas pero la reforma política ha sido limitada (a pesar de que Vietnam ha tenido grandes avances recientemente).</seg>
       </tuv>
     </tu>
     <tu>
