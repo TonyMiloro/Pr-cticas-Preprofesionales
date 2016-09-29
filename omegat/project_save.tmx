@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2250,8 +2250,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;The Dengist era reversed these policies by stopping large-scale investments in the third front and by curtailing transfer payments, thus allowing China’s “natural economy” to reassert itself.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160924T175543Z">
-        <seg>La era de Deng revirtió estas políticas deteniendo inversiones a gran escala en el Tercer Frente y reduciendo los pagos por transferencia, lo que le permitió a la “economía natural” de China reafirmarse.  &lt;s0/&gt;</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T023925Z">
+        <seg>La era de Deng revirtió estas políticas cancelando inversiones a gran escala en el Tercer Frente y reduciendo los pagos por transferencia, lo que le permitió a la “economía natural” de China reafirmarse.  &lt;s0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10083,8 +10083,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1992, as just noted, much money flowed to the east coast from inland areas in the hopes of higher returns, thus fueling the speculative bubble.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160924T175735Z">
-        <seg>En 1992, como se acaba de señalar, la cantidad de dinero circuló hacia la costa este de las zonas del interior con la esperanza de una mayor rentabilidad, alimentando así la burbuja especulativa.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T024056Z">
+        <seg>En 1992, como se acaba de señalar, la cantidad de dinero circuló hacia la costa este desde las zonas del interior con la esperanza de una mayor rentabilidad, lo cual alimentó así la burbuja especulativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18123,8 +18123,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>The Maoist period had exerted great efforts to equalize regional differences by large transfer payments to the hinterland and through massive and unwise investments in the “third front” military industries that were built in the hinterland in case the United States or the Soviet Union invaded.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160924T175512Z">
-        <seg>La era maoísta había hecho grandes esfuerzos para igualar las diferencias regionales por medio de transferencias de grandes sumas al interior del país y a través de las inversiones masivas e imprudentes en el “Tercer Frente” militar que fueron construidas en el interior del país en caso de que Estados Unidos o la Unión Soviética los invada.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T023853Z">
+        <seg>La era maoísta ha dedicado mucho esfuerzo para igualar las diferencias regionales por medio de transferencias de grandes sumas al interior del país y a través de las inversiones masivas e imprudentes en el “Tercer Frente” militar que fueron construidas en el interior del país en caso de que Estados Unidos o la Unión Soviética los invadiesen.</seg>
       </tuv>
     </tu>
     <tu>
