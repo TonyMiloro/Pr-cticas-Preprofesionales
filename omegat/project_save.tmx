@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24963,8 +24963,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Whereas reform and maintaining the old system had seemed the only alternatives in the 1980s, after Tiananmen the alternative of social and political collapse had to be considered as well.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T001802Z">
-        <seg>Mientras que la reforma y el mantenimiento del viejo sistema parecían las únicas alternativas en la década de los 80, después de Tiananmén, la alternativa al fracaso social y político también tenía que considerarse .</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T203426Z">
+        <seg>Mientras que la reforma y el mantenimiento del viejo sistema parecían las únicas alternativas en la década de los 80, después de Tiananmén, también tenía que considerarse la alternativa al fracaso social y político. </seg>
       </tuv>
     </tu>
     <tu>
