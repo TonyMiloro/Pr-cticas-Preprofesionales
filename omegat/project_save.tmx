@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25897,8 +25897,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>realm in Marxism.” No other plenum or congress report in the reform era had been so personal or&lt;s0/&gt;so laudatory.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160908T224735Z">
-        <seg>rama dentro del Marxismo”. Ningún otro informe de un pleno o congreso en la era de la reforma había sido tan personal ni&lt;s0/&gt;tan elogioso.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T165032Z">
+        <seg>rama dentro del Marxismo”. Ningún otro informe de un plenario o congreso en la era de la reforma había sido tan personal ni&lt;s0/&gt;tan elogioso.</seg>
       </tuv>
     </tu>
     <tu>
