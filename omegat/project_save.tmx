@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2826,8 +2826,8 @@
       <tuv lang="EN-US">
         <seg>A major effort to strengthen the “pillars” of the economy, as the largeand medium-sized state-owned industries were called, came in late 1989 when Li Peng announced that a State Council Production Commission 61 Wang Renzhi, “Guanyu fandui zichan jieji ziyouhua.” See also the harsh speech Wang delivered to Qiushi staffers in August, “Lilun gongzuo mianlin de xin qingkuang he dangqian de zhuyao renwu.” 62 Yi Ren, “Zhuozhuo huiyi de qianqian houhou.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T031734Z">
-        <seg>A  fines de 1989, cuándo Li Peng  anunció que la Comisión de Producción del Consejo de Estado 61 Wang Renzhi, “Guanyu fandui zichan jieji ziyouhua", se llamó a un mayor esfuerzo para fortalecer los "pilares" de la economía, así como las industrias estatales grandes y medianas. Véase trambien el riguroso discurso emitido por Wang a los empleados de Qiushi en agosto,“Lilun gongzuo mianlin de xin qingkuang he dangqian de zhuyao renwu.” 62 Yi Ren, “Zhuozhuo huiyi de qianqian houhou.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T182826Z">
+        <seg>Un gran esfuerzo se dió a fines de 1989 para fortalecer los "pilares" de la economía,como las industrias estatales grandes y medianas lo llamaban, cuando Li Peng anunció que una Comisión de Producción del Consejo de Estado 61 Wang Renzhi, “Guanyu fandui zichan jieji ziyouhua".Vease también el discurso aspero que emitió a Qiushi Staffers en agosto  “Lilun gongzuo mianlin de xin qingkuang he dangqian de zhuyao renwu.” 62 Yi Ren, “Zhuozhuo huiyi de qianqian houhou". "</seg>
       </tuv>
     </tu>
     <tu>
@@ -14996,8 +14996,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, reform strategy had led to a regional bias as TVEs along the east coast grew and developed while industry and living standards in the interior lagged behind.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T012529Z">
-        <seg>Además , la estrategia de reforma ha llevado a una inclinación regional como TVE a lo largo de la costa oriental que ha crecido y desarrollado mientras que la industria y el nivel de vida en el interior ha quedado por detrás.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T181829Z">
+        <seg>Además, la estrategia de la reforma llevó a una preferencia regional como TVE, a lo largo de la costa Este, creció y se  desarrollado mientras que la industria y el nivel de vida en el interior quedó atrás.</seg>
       </tuv>
     </tu>
     <tu>
