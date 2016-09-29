@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12289,6 +12289,15 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160928T194705Z">
         <seg>Es evidente que Hu Jintao había hecho un gran progreso en los avances de su agenda más populista durante los primeros años de su mandato, pero para lograr consolidar su autoridad tendría que enfrentar a la "banda de Shanghái" de forma más directa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not fire proof.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="multimedia08" changedate="20160929T123155Z" creationid="multimedia08" creationdate="20160929T123155Z">
+        <seg>
+It is not fire proof.</seg>
       </tuv>
     </tu>
     <tu>
