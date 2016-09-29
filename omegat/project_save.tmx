@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8313,8 +8313,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For instance, when urban residents were asked who the primary beneficiaries of reform were, more people (59.2 percent) selected “Party and state cadres” than any other category (though private entrepreneurs and entertainers were not far behind at 55.4 percent and 43 percent respectively).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;But, when responses were arranged by social class, the results were even more disturbing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T003720Z" creationid="Agustín" creationdate="20160929T003550Z">
-        <seg>Por ejemplo, cuando se les preguntó a los habitantes de sectores urbanos quienes se habían visto más beneficiados con la reforma, la mayoría (un 59,2 porciento) stance, when urban residents were asked who the primary beneficiaries of reform were, more people (59.2 percent) selected “Party and state cadres” than any other category (though private entrepreneurs and entertainers were not far behind at 55.4 percent and 43 percent respectively).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;But, when responses were arranged by social class, the results were even more disturbing.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T003803Z" creationid="Agustín" creationdate="20160929T003550Z">
+        <seg>Por ejemplo, cuando se les preguntó a los habitantes de sectores urbanos quienes se habían visto más beneficiados con la reforma, la mayoría (un 59,2 porciento) respondió que los  selected “Party and state cadres” than any other category (though private entrepreneurs and entertainers were not far behind at 55.4 percent and 43 percent respectively).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;But, when responses were arranged by social class, the results were even more disturbing.</seg>
       </tuv>
     </tu>
     <tu>
