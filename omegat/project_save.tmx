@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3356,8 +3356,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although such norms have never been fully adhered to, they continued to exert a moral force.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160927T134548Z">
-        <seg>Aunque dichas normas nunca se habían cumplido a rajatabla, seguían ejerciendo una presión moral.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T005056Z">
+        <seg>Aunque estas normas nunca se habían cumplido a rajatabla, seguían ejerciendo una presión moral.</seg>
       </tuv>
     </tu>
     <tu>
