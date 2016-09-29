@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Survey results also revealed that many people saw conflict as prevalent in society and likely to get worse in the future.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T014410Z" creationid="Agustín" creationdate="20160929T014410Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Los resultados de las encuestas también revealed that many people saw conflict as prevalent in society and likely to get worse in the future.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Systematically testing the degree of social tensions was the premise behind a large-scale (n = 11,094) nationwide survey carried out in 2002 by Li Peilin and others at CASS.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160929T003107Z" creationid="Agustín" creationdate="20160928T182941Z">
@@ -20697,8 +20705,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They pointed to private entrepreneurs and entertainers rather than themselves as the chief beneficiaries of reform.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;Indeed, according to a survey of cadres attending a training program at the Central Party School, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;not one &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;respondent identified cadres as being the chief beneficiaries of reform.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T014224Z" creationid="Agustín" creationdate="20160929T013632Z">
-        <seg>Señalaron a los empresarios del sector privado y a los artistas como a los principales beneficiarios de la reforma, y no a ellos mismos.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;De hecho, según una encuesta realizada a dirigentes que asistían un programa de entrenamiento en la Escuela Central del Partido, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;ninguno identificó a los dirigentes como&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;los principales favorecidos por dicha reforma.&lt;/f16&gt;&lt;/f15&gt;</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T014302Z" creationid="Agustín" creationdate="20160929T013632Z">
+        <seg>Señalaron a los empresarios del sector privado y a los artistas como a los principales beneficiarios de la reforma, y no a ellos mismos.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;De hecho, según una encuesta realizada a dirigentes que asistían un programa de entrenamiento en la Escuela Central del Partido, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;ninguno identificó a estos como&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;los principales favorecidos por dicha reforma.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
