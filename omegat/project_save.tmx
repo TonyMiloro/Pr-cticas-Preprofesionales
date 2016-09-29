@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15370,6 +15370,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More important for many listeners was his use of the term “rule of law” instead of the s&lt;t0/&gt;tandard formula “rule by law.”&lt;t1/&gt; This formulation seemed to presage a new era in institution building and an acceptance of limitations on the arbitrary use of power.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T220949Z" creationid="Cami" creationdate="20160929T220926Z">
+        <seg>Además fue más importante para la audiencia que él haya usado el término “estado de derecho” en lugar de la fórmula estándar &lt;t0/&gt;“estado autoritario”10.&lt;t1/&gt; Esta fórmula parecía predecir una nueva era en el desarrollo institucional y una aceptación de limitaciones en el uso arbitrario de poder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More important, whatever reformist sentiments there were in Jiang’s speech were soon played down as the Party responded to renewed liberalization in the Soviet Union by circling the wagons even more tightly.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T220901Z">
@@ -17481,6 +17489,14 @@ Un informe adjunto sobre las joint ventures en la industria cervecera en China  
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160928T130847Z" creationid="Flor" creationdate="20160928T130847Z">
         <seg>&lt;t50/&gt; Tal vez más importante aún, si Hu Jintao no asumía el liderazgo de la CMC, en algún momento, con el tiempo, comenzarían a correr rumores en Beijing, y se despertarían dudas respecto del poder de Hu y su permanencia como líder. Dichas dudas, de no ser resueltas, podrían volverse profecías autocumplidas. &lt;t51/&gt;&lt;t52/&gt; &lt;t53/&gt;&lt;t54/&gt; &lt;t55/&gt;&lt;t56/&gt; &lt;t57/&gt;&lt;t58/&gt; &lt;t59/&gt;&lt;t60/&gt; &lt;t61/&gt;&lt;t62/&gt; &lt;t63/&gt;&lt;t64/&gt; &lt;t65/&gt;&lt;t66/&gt; &lt;t67/&gt;&lt;t68/&gt; &lt;t69/&gt;&lt;t70/&gt; &lt;t71/&gt;&lt;t72/&gt; &lt;t73/&gt;&lt;t74/&gt;&lt;t75/&gt; &lt;t76/&gt;&lt;t77/&gt;&lt;t78/&gt;&lt;t79/&gt;&lt;t80/&gt; &lt;t81/&gt;&lt;t82/&gt;&lt;t83/&gt;&lt;t84/&gt;&lt;t85/&gt; &lt;t86/&gt;&lt;t87/&gt; &lt;t88/&gt;&lt;t89/&gt; &lt;t90/&gt;&lt;t91/&gt; &lt;t92/&gt;&lt;t93/&gt;&lt;t94/&gt;&lt;t95/&gt; &lt;t96/&gt;&lt;t97/&gt;&lt;t98/&gt; &lt;t99/&gt;&lt;t100/&gt; &lt;t101/&gt;&lt;t102/&gt; &lt;t103/&gt;&lt;t104/&gt;&lt;t105/&gt; &lt;t106/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personnel arrangements made at the congress (see Table 2) supported the fresh image Jiang was cultivating, while the removal of many older personnel enhanced Jiang’s ability to control the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T221025Z" creationid="Cami" creationdate="20160929T221025Z">
+        <seg>Los arreglos personales que se hicieron en el congreso (véase tabla 2) respaldaron la imagen renovada que Jian estaba cultivando, al mismo tiempo que la destitución de muchos miembros antiguos le permitió tener un mejor control sobre el partido.</seg>
       </tuv>
     </tu>
     <tu>
