@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10361,6 +10361,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the first sentence contradicted and effectively negated the rest of the editorial.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T235606Z" creationid="Luisina" creationdate="20160929T235606Z">
+        <seg>Sin embargo, la primera oración contradecía y efectivamente negaba el resto del editorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the increasing specialization of many government leaders and advisers means that they are often better informed on specific issues than are their intellectual counterparts.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160928T143121Z">
@@ -13554,6 +13562,14 @@ It is not fire proof.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160928T125153Z">
         <seg>Por ejemplo, indicaba que el salario en las áreas rurales había experimentado un incremento demasiado lento, que el desempleo había aumentado y que había surgido una gran cantidad de problemas ambientales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It read: “While carrying out reform and opening up to the outside world, we must ask ourselves whether we are practicing socialism or capitalism, and we must uphold the socialist orientation.” Seven hours after this version of the editorial was transmitted, Xinhua released a new version in which the first sentence was changed dramatically to read, “While carrying out reform and opening up to the outside world, we must firmly adhere to the socialist course and uphold the dominant role of public ownership.”44 The critical question of whether a reform was “socialist” or “capitalist” had been cut.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T235639Z" creationid="Luisina" creationdate="20160929T235639Z">
+        <seg>Esta leía: "Mientras llevamos a cabo la reforma y nos abrimos al mundo exterior, </seg>
       </tuv>
     </tu>
     <tu>
@@ -20990,8 +21006,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The editorial contained some of the most reformist language to be used since the previous spring, and did so in a more authoritative context.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T235504Z" creationid="Luisina" creationdate="20160929T235400Z">
-        <seg>El editorial contenía uno de los lenguajes más reformistas en ser utilizado desde la primavera anterior</seg>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T235531Z" creationid="Luisina" creationdate="20160929T235400Z">
+        <seg>El editorial contenía uno de los lenguajes más reformistas en ser utilizado desde la primavera anterior, y lo utilizaba en un contexto más autoritativo.</seg>
       </tuv>
     </tu>
     <tu>
