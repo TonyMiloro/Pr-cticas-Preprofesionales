@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6885,8 +6885,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Citing Jiang Zemin’s&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;1996 &lt;/f12&gt;&lt;f13&gt;statement&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;that&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;China&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;should&lt;/f19&gt;&lt;f20&gt; “&lt;/f20&gt;&lt;f21&gt;always&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;maintain&lt;/f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;f25&gt;the&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;dominant&lt;/f27&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;position&lt;/f29&gt;&lt;f30&gt; &lt;/f30&gt;&lt;f31&gt;of the&lt;/f31&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;public&lt;/f33&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;sector,”&lt;/f35&gt;&lt;f36&gt; &lt;/f36&gt;&lt;f37&gt;the&lt;/f37&gt;&lt;f38&gt; &lt;/f38&gt;&lt;f39&gt;manifesto&lt;/f39&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;argued&lt;/f41&gt;&lt;f42&gt; &lt;/f42&gt;&lt;f43&gt;that&lt;/f43&gt;&lt;f44&gt; “&lt;/f44&gt;&lt;f45&gt;dominance&lt;/f45&gt;&lt;f46&gt;” &lt;/f46&gt;&lt;f47&gt;cannot&lt;/f47&gt;&lt;f48&gt; &lt;/f48&gt;&lt;f49&gt;be rede- fined to mean that the state could simply hold a predominant share of assets within the national economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214536Z" creationid="marcelo lavarda" creationdate="20160928T215606Z">
-        <seg>Citando la declaración de Jiang Zemin de 1996 de que China debería “mantener siempre la posición dominante del sector público,”&lt;t37/&gt; &lt;t38/&gt;el&lt;t39/&gt; &lt;t40/&gt;manifiesto&lt;t41/&gt; &lt;t42/&gt;sostenía&lt;t43/&gt; &lt;t44/&gt;que el&lt;t45/&gt; “&lt;t46/&gt;dominio” no puede&lt;t49/&gt; &lt;t50/&gt;redefinirse para significar que el estado simplemente podría tomar una parte predominante de activos dentro de la economía nacional.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214615Z" creationid="marcelo lavarda" creationdate="20160928T215606Z">
+        <seg>Citando la declaración de Jiang Zemin de 1996 de que China debería “mantener siempre la posición dominante del sector público,” el manifiesto sostenía que el “dominio” no puede redefinirse para significar que el estado simplemente podría tomar una parte predominante de activos dentro de la economía nacional.</seg>
       </tuv>
     </tu>
     <tu>
