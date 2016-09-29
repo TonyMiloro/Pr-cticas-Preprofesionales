@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1265,8 +1265,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;At the same time, an ongoing investigation into corruption in Beijing Municipality apparently resulted in the detention of some sixty cadres in the city, including the secretaries of Party chief Chen Xitong and mayor Li Qiyan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133550Z" creationid="Daniel-Andrea" creationdate="20160929T133550Z">
-        <seg>&lt;f0&gt;l mismo tiempo, al parecer, una investigación en curso sobre la corrupción en la Municipalidad de Pekín tuvo como consecuencia la detención de unos 60 cuadros en la ciudad, entre los cuales se encontraba el jefe Chen Xitong y el alcalde Li Qiyan, secretarios del partido.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T142550Z" creationid="Daniel-Andrea" creationdate="20160929T133550Z">
+        <seg>&lt;f0&gt;Al mismo tiempo, al parecer, una investigación en curso sobre la corrupción en la Municipalidad de Pekín tuvo como consecuencia la detención de unos 60 cuadros en la ciudad, entre los cuales se encontraba el jefe Chen Xitong y el alcalde Li Qiyan, secretarios del partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7101,8 +7101,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng Xiaoping had sounded these themes in his justly famous 1980 speech “On the Reform of the Party and State Leadership System,” but Deng’s own status as a revolutionary elder, the repeated conflicts over policy, and doubtless also Deng’s reflexive resort to personal decision-making prevented implementation of his ideas.&lt;/f0&gt;&lt;f1&gt;12&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;As a member of the post-revolutionary generation, Jiang could never possess Deng’s personal authority; he would have to find ways to build institutions even as he augmented his personal power.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132758Z" creationid="Daniel-Andrea" creationdate="20160929T131213Z">
-        <seg>Deng Xiaoping había hecho referencia a estos asuntos en su famoso discurso de 1980 “sobre la reforma del partido y el sistema de liderazgo estatal”; pero la posición de Deng como miembro veterano revolucionario, los conflictos constantes sobre políticas y, sin dudas, el hecho de que Deng tomara decisiones propias impidieron la implementación de sus ideales&lt;/f0&gt;&lt;f1&gt;12&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;. Como miembro de la generación post-revolucionaria, Jiang no no poseería nunca la misma autoridad que Deng; debía encontrar la manera de crear instituciones, incluso mientras aumentaba su poder personal.&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T142509Z" creationid="Daniel-Andrea" creationdate="20160929T131213Z">
+        <seg>Deng Xiaoping había hecho referencia a estos asuntos en su famoso discurso de 1980 “Sobre la reforma del partido y el sistema de liderazgo estatal”; pero la posición de Deng como miembro veterano revolucionario, los conflictos constantes sobre políticas y, sin dudas, el hecho de que Deng tomara decisiones propias impidieron la implementación de sus ideales&lt;/f0&gt;&lt;f1&gt;12&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;. Como miembro de la generación post-revolucionaria, Jiang no no poseería nunca la misma autoridad que Deng; debía encontrar la manera de crear instituciones, incluso mientras aumentaba su poder personal.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
