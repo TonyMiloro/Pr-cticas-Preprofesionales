@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6915,6 +6915,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>China’s intellectuals, as Shang &lt;t0/&gt;Dewen’s&lt;t1/&gt; inaugural letter suggests, were quick to sense the changing mood and pick up the themes articulated at the Party congress.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T225213Z" creationid="mannu" creationdate="20160929T225150Z">
+        <seg>Los intelectuales de China, como lo menciona la carta inicial de Shang Dewen,&lt;t0/&gt;fueron hábiles en percibir el estado de cambio y&lt;t1/&gt; ponerse al tanto con los temas articulados en el congreso del partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>China’s isolation following Tiananmen put the government under a great deal of pressure.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011633Z">
@@ -10153,6 +10161,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>His initial letter was follow&lt;t2/&gt;ed up by two similar appeals.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T225031Z" creationid="mannu" creationdate="20160929T225031Z">
+        <seg>A su carta inicial &lt;t2/&gt;le siguieron dos solicitudes similares15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>His military thought was&lt;t24/&gt; &lt;t25/&gt;now&lt;t26/&gt; &lt;t27/&gt;an&lt;t28/&gt; &lt;t29/&gt;“important&lt;t30/&gt; &lt;t31/&gt;part”&lt;t32/&gt; &lt;t33/&gt;of&lt;t34/&gt; &lt;t35/&gt;the&lt;t36/&gt; &lt;t37/&gt;Three&lt;t38/&gt; &lt;t39/&gt;Represents,&lt;t40/&gt; &lt;t41/&gt;which&lt;t42/&gt; &lt;t43/&gt;previously had&lt;t44/&gt; &lt;t45/&gt;no&lt;t46/&gt; &lt;t47/&gt;military&lt;t48/&gt; &lt;t49/&gt;component.&lt;t50/&gt; &lt;t51/&gt;“Jiang&lt;t52/&gt; &lt;t53/&gt;Zemin’s&lt;t54/&gt; &lt;t55/&gt;thinking&lt;t56/&gt; &lt;t57/&gt;on&lt;t58/&gt; &lt;t59/&gt;nationa&lt;t60/&gt;l&lt;t61/&gt; &lt;t62/&gt;defense and&lt;t63/&gt; &lt;t64/&gt;army&lt;t65/&gt; &lt;t66/&gt;building,”&lt;t67/&gt; &lt;t68/&gt;according&lt;t69/&gt; &lt;t70/&gt;to&lt;t71/&gt; &lt;t72/&gt;CMC&lt;t73/&gt; &lt;t74/&gt;Vice&lt;t75/&gt; &lt;t76/&gt;Chairman&lt;t77/&gt; &lt;t78/&gt;Guo&lt;t79/&gt; &lt;t80/&gt;Boxiong,&lt;t81/&gt; &lt;t82/&gt;“is</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T132735Z">
@@ -11149,6 +11165,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T172834Z">
         <seg>En abril mientras lo visitaba, Deng le manifestó al líder invitado del Partido Socialista Obrero español, Alfonso Guerra, que el izquierdismo había sido la “principal amenaza” que tuvo que afrontar el partido41.  Poco después, el 13 de mayo, Zhao Ziyang dio un importante discurso partidario, y preguntó de forma retórica, pero abrupta a la vez: “¿Quién se responsabilizará si las políticas [económicas] actuales son interpretadas como una forma de liberalización?”42. En julio, durante el primer aniversario de la fundación del partido, el diario People´s Daily reeditó el polémico discurso de Deng de 1980 “La reforma del partido y la estructura del liderazgo estatal”, el cuál sentó las pautas para el futuro Décimotercer Congreso Partidario, en donde se trató por primera vez el tema de la reforma política43..43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In August 1997, he penned a letter to Jiang Zemin in which he said the disjuncture between economic reform and political reform was causing “contradictions, frictions, and conflict.” He then proceeded to outline a program of democratization, including direct election of the presidency and checks and balances among three branches of government, that might take a quarter century to implement – but needed to be inaugurated immediately.14 A gentle person, Shang’s letter was extremely circumspect but also unmistakable in its demand for democratization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T224949Z" creationid="mannu" creationdate="20160929T224949Z">
+        <seg>En agosto de 1997, le escribió una carta a Jiang Zemin en la que explicaba que la descoyuntura entre la reforma económica y la reforma política  provocaba “contradicciones, roces y conflicto”. Luego procedió a describir un proyecto de democratización que incluía la elección presidencial directa, además de controles y equilibrios entre los tres poderes del Estado, el cual podría tomar un cuarto de siglo en implementarse (pero necesitaba inaugurarse inmediatamente) 14. Como se espera de una persona gentil, la carta de Shang era extremadamente prudente pero también certera en cuanto al pedido de democratización. </seg>
       </tuv>
     </tu>
     <tu>
