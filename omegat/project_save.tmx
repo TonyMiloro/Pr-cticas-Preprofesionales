@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8673,8 +8673,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, in rejecting intellectual trends in China that accept the neoclassical paradigm of Western economics, including calls for the “clarification of property rights” and for privatization, Cui argues that many people in the United States and other advanced capitalist nations are changing significantly their understandings of private prop-erty.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T135956Z" creationid="Martin" creationdate="20160929T135956Z">
-        <seg>Por ejemplo, al rechazar  las tendencias intelectuales en China que aceptan el paradigma neoclásico de la economía Occidental, incluidas las llamadas "clarificación de los derechos de propiedad" y la privatización, Cui sostiene que muchas personas en  Estados Unidos y otras naciones capitalistas desarolladas están cambiando  su entendimientos de prop-erty privada</seg>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T140120Z" creationid="Martin" creationdate="20160929T135956Z">
+        <seg>Por ejemplo, al rechazar  las tendencias intelectuales en China que aceptan el paradigma neoclásico de la economía Occidental, incluidas las llamadas "clarificación de los derechos de propiedad" y la privatización, Cui sostiene que muchas personas en  Estados Unidos y otras naciones capitalistas desarolladas están cambiando de forma significativa  sus entendimientos acerca de la  propiedad privada.</seg>
       </tuv>
     </tu>
     <tu>
