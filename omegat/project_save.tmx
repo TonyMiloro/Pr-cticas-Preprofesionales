@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11708,8 +11708,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In many ways, these trends simply reflect the growth and internationalization of Chinese society and economy, but they also mark the profound difference between China in the 1980s and China as it enters the twenty-first century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T155341Z">
-        <seg>De muchas maneras, estas tendencias simplemente reflejan el crecimiento y la internacionalización de la sociedad y economía china, pero también marcan una gran diferencia entre China en la década de los 80 y al entrar en el siglo XXI .</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T202058Z">
+        <seg>De muchas maneras, estas tendencias simplemente reflejan el crecimiento y la internacionalización de la sociedad y economía china, pero también marcan una gran diferencia entre China en la década de los 80 y al entrar al siglo XXI .</seg>
       </tuv>
     </tu>
     <tu>
@@ -22065,8 +22065,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There was more of a sense that China should concentrate less on “isms” and more on “problems.” Nevertheless, these reflections on the problems China faced raised new questions about where reform was going.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Edgardo" changedate="20160926T175315Z">
-        <seg>Todo indica que China debería concentrarse menos en los “ismos” y más en los “problemas". Aún así, estas reflexiones sobre los problemas que enfrentaba China pusieron sobre el tapete nuevas preguntas acerca de hacia dónde iba la reforma.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T202532Z">
+        <seg>Todo indicaba que China debía concentrarse menos en los “ismos” y más en los “problemas". Aún así, estas reflexiones sobre los problemas que enfrentaba China pusieron sobre el tapete nuevas preguntas acerca de hacia dónde iba la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22265,8 +22265,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These intellectuals either stayed in theWest, taking up university or other positions, or returned to China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T154546Z">
-        <seg>Estos intelectuales o se quedaban en Occidente, y aceptaban puestos universitarios u otros puestos, o volvían a China.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T201646Z">
+        <seg>Estos intelectuales se quedaban en Occidente, y aceptaban puestos universitarios u otros puestos, o volvían a China.</seg>
       </tuv>
     </tu>
     <tu>
