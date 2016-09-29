@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8977,8 +8977,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, Yuan Mu, hardline spokesman for the State Council and prot´eg´e of Premier Li Peng, stated that Zhao’s case would be handled “in accordance with the criterion based on law,” suggesting the possibility of legal prosecution.30[13] Some Party elders were even blunter.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T201555Z">
-        <seg>Por ejemplo, Yuan Mu, firme vocero para el Consejo de Estado y protegido del primer ministro Li Peng, manifestó que el caso de Zhao sería manejado "según lo establecido por la ley" sugiriendo la posibilidadad de un proceso judicial. Algunos mayores del partido incluso fueron más directos.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T210636Z">
+        <seg>Por ejemplo, Yuan Mu, vocero de  para el Consejo de Estado y protegido del primer ministro Li Peng, manifestó que el caso de Zhao sería manejado "según lo establecido por la ley" sugiriendo la posibilidadad de un proceso judicial. Algunos mayores del partido incluso fueron más directos.</seg>
       </tuv>
     </tu>
     <tu>
