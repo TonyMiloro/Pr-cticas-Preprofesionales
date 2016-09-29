@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12984,8 +12984,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It was after that meeting, and apparently because of it, that Deng authorized Zhao’s famous May 13, 1987 speech that closed off the campaign against bourgeois liberalization and prepared the political atmosphere for the Thirteenth&lt;s4/&gt;Party Congress in the fall.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T003527Z">
-        <seg>Fue después dede aquel encuentro, y apararentemente a causa de éste, que Deng autorizó el famoso discurso de Zhao el 13 de mayo del año 1987 que terminó la campaña en contra de la liberalización burguesa y preparó la atmósfera política para la fiesta del Congreso número trece en la caída.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T165736Z">
+        <seg>Fue después dede aquel encuentro, y apararentemente a causa de éste, que Deng autorizó el famoso discurso de Zhao el 13 de mayo del año 1987 que finalizó la campaña en contra de la liberalización burguesa y preparó la atmósfera política para la decimotercer fiesta del Congreso número trece en la caída.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14010,8 +14010,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Lest anyone think that the time had come to relax the campaign against bourgeois liberalization, Wang declared that “[w]e have only just started” to clarify ideological errors and that “[t]he logic of struggle is cruel and merciless.”61 Wang’s speech was followed by a full-page article in the People’s Daily praising the notorious “Zhuozhuo meeting” of 1987.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T002139Z">
-        <seg>Para que nadie piense que el tiempo ha llevado a flexibilizar la campaña en contra de la liberación de la burguesía, Wang declaró : " recién hemos comenzado" a esclarecer los errores ideológios y que " la lógica de la problemática es cruel y no tiene piedad".61 Al discurso de Wang le siguió una página completa de un artículo en el People´s Daily que elogiaba el notorio " encuentro Zhiozhuo" de 1987.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T165728Z">
+        <seg>Para que nadie piense que el tiempo ha llevado a flexibilizar la campaña en contra de la liberalización burguesa Wang declaró : " recién hemos comenzado" a esclarecer los errores ideológios y que " la lógica de la problemática es cruel y no tiene piedad".61 Al discurso de Wang le siguió una página completa de un artículo en el People´s Daily que elogiaba el notorio " encuentro Zhiozhuo" de 1987.</seg>
       </tuv>
     </tu>
     <tu>
