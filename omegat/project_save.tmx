@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5459,6 +5459,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But it also suggests that, even as he was making a bid for personal power, Jiang was conscious of both a demand and a need to stress democratization and institutionalization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131051Z" creationid="Daniel-Andrea" creationdate="20160929T131051Z">
+        <seg>Pero también se cree que, a pesar de sus decisiones drásticas para adquirir poder personal, Jiang era consciente tanto del reclamo como de la necesidad de enfatizara la democratización y a la institucionalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But it is equally evident, and perhaps more important, that there was a mass audience for such works.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160928T041418Z">
@@ -7039,6 +7047,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205648Z">
         <seg>Deng Xiaoping fallece a los 92 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Xiaoping had sounded these themes in his justly famous 1980 speech “On the Reform of the Party and State Leadership System,” but Deng’s own status as a revolutionary elder, the repeated conflicts over policy, and doubtless also Deng’s reflexive resort to personal decision-making prevented implementation of his ideas.&lt;/f0&gt;&lt;f1&gt;12&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;As a member of the post-revolutionary generation, Jiang could never possess Deng’s personal authority; he would have to find ways to build institutions even as he augmented his personal power.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131213Z" creationid="Daniel-Andrea" creationdate="20160929T131213Z">
+        <seg>Deng Xiaoping había hecho referencia a estos asuntos en su famoso discurso de 1980 “sobre la reforma del partido y el sistema de liderazgo estatal”; pero la posición de Deng como miembro veterano revolucionario, los conflictos constantes sobre políticas y, sin dudas, el hecho de que Deng tomara decisiones propias impidieron la implementación de sus ideales&lt;/f0&gt;&lt;f1&gt;12.&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;Como miembro de la generación post-revolucionaria, Jiang no no poseería nunca la misma autoridad que Deng; debía encontrar la manera de crear instituciones, incluso mientras aumentaba su poder personal.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
