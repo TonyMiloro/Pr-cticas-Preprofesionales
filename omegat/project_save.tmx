@@ -727,6 +727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;76 &lt;/f0&gt;&lt;f1&gt;Ibid., p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T101318Z" creationid="marcelo lavarda" creationdate="20160929T101318Z">
+        <seg>[parcial]&lt;f0&gt;69&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;Ibid., pág</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;81 &lt;/f0&gt;&lt;f1&gt;Ibid.,&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;pp.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;213&lt;/f5&gt;&lt;f6&gt;–&lt;/f6&gt;&lt;f7&gt;14&lt;/f7&gt;&lt;f8&gt;,&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;221&lt;/f10&gt;&lt;f11&gt;.&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201245Z">
@@ -4470,6 +4478,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T014726Z">
         <seg>Tal como se menciona en el último capítulo de este libro, Hu trabajó cuidadosamente para diseñar su agenda como una "extensión" de la Triple Representatividad de Jiang y no como un cuestionamiento directo, luego se las arregló para persuadir a Jiang de retirarse de la CMC, y finalmente golpeó duro a la "banda de Shanghái" deteniendo a Chen Liangyu bajo cargos de corrupción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the manifesto put it, “people who uphold this view actually want the state to bear all the losses so that different types of capital can make their earnings.” Doing so, the manifesto declared, would end up turning the state-owned economy into one that is “mainly in the service of foreign capital.”&lt;/f55&gt;&lt;a56&gt;&lt;f57&gt;79&lt;/f57&gt;&lt;/a56&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T101256Z" creationid="marcelo lavarda" creationdate="20160929T101256Z">
+        <seg>[parcial]Como lo expresa el manifiesto, “quienes defienden esta opinión en realidad quieren que el estado muestre todas las pérdidas para que los diferentes tipos de capital puedan&lt;t59/&gt; lograr sus ingresos.” Hacer eso, declaró el manifiesto, terminaría por convertir la economía estatal en una que es "principalmente al servicio del capital extranjero."&lt;t60/&gt;79</seg>
       </tuv>
     </tu>
     <tu>
