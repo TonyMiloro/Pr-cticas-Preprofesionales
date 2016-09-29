@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2002,8 +2002,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The plenum resolution defended reform, but it also warned that “[a]t no time should we achieve short-term economic growth at the expense of spiritual&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;civilization.”&lt;/f2&gt;&lt;a3&gt;61&lt;/a3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;This&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;was&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;a&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;phrase&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;authored&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;by&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;Teng&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;Wensheng,&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;the prot&lt;/f21&gt;&lt;f22&gt;é&lt;/f22&gt;&lt;f23&gt;g&lt;/f23&gt;&lt;f24&gt;é&lt;/f24&gt;&lt;f25&gt; of Deng Liqun’s whom Jiang had brought over to head the&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;Policy Research Office and, no doubt, to assure conservatives that their concerns would be heard.&lt;/f27&gt;&lt;a28&gt;62&lt;/a28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;Indeed, the document came perilously close to giving equal value to economic development and spiritual civilization, as leftists had long urged.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160929T141238Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;a3&gt;&lt;/a3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;El fallo del pleno apoyó la reforma, Teng&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;Wensheng,&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;&lt;/f24&gt;&lt;f25&gt;protegido de Deng Liqun, a quien Jiang había elegido para dirigir la Oficina de Investigación de Políticas, y sin dudas, para asegurarle a los conservadores que sus preocupaciones serían escuchadas&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;a28&gt;62&lt;/a28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;En efecto, el documento estuvo peligrosamente cerca de otorgarle al desarrollo ecnómico y a la civilización espiritual un valor equitativo, algo que los de izquierda reclamaban desde hacía mucho tiempo.</seg>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160929T141622Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;a3&gt;&lt;/a3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;El fallo del pleno apoyó la reforma, Teng&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;Wensheng,&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;&lt;/f24&gt;&lt;f25&gt;protegido de Deng Liqun, a quien Jiang había elegido para dirigir la Oficina de Investigación de Políticas, y sin dudas, para asegurarle a los conservadores que sus preocupaciones serían escuchadas&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;a28&gt;62&lt;/a28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;En efecto, el documento estuvo peligrosamente cerca de otorgarle al desarrollo ecnómico y a la civilización espiritual un valor equitativo, algo que los izquierdistas reclamaban desde hacía mucho tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5477,8 +5477,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But failure in the promotion of ethical and cultural progress will lead to damage to material progress and even&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;change&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;the&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;nature&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;of&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;society.”&lt;/f40&gt;&lt;a41&gt;&lt;f42&gt;63&lt;/f42&gt;&lt;/a41&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024527Z">
-        <seg>Sin embargo, "el fracaso en la promoción del desarrollo ético y cultural provocaría daños al desarrollo material e incluso cambiaría la esencia de la sociedad".&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;&lt;/f40&gt;&lt;a41&gt;&lt;f42&gt;63&lt;/f42&gt;&lt;/a41&gt;</seg>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160929T141921Z">
+        <seg>Sin embargo, el fracaso en la promoción del desarrollo ético y cultural provocará daños al desarrollo material e incluso cambiaría la esencia de la sociedad".&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;&lt;/f38&gt;&lt;f39&gt; &lt;/f39&gt;&lt;f40&gt;&lt;/f40&gt;&lt;a41&gt;&lt;f42&gt;63&lt;/f42&gt;&lt;/a41&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12391,8 +12391,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It declared: “Economic development as the central link must be grasped firmly and unswervingly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160908T024213Z">
-        <seg>El documento manifestaba que "el desarrollo económico como eslabón central debía ser considerado con firmeza y sin vacilaciones".</seg>
+      <tuv lang="ES-US" changeid="Nuevo" changedate="20160929T141712Z">
+        <seg>El documento manifestaba que "el desarrollo económico como eslabón central debía ser considerado con firmeza y de manera inquebrantable.</seg>
       </tuv>
     </tu>
     <tu>
