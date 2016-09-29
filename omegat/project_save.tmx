@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4829,8 +4829,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At the Party’s Fifth Plenary Session in September 1995, Chen was officially removed as a member of the Politburo and in 1998 was sentenced to sixteen years in jail, though he was later released on medical parole.&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;18&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T011308Z" creationid="Daniel-Andrea" creationdate="20160928T011308Z">
-        <seg>Durante el Quinto Pleno del partido, en septiembre de 1995, se destituyó oficialmente a Chen como miembro del Politburó y, en 1998, fue sentenciado a 16 años de cárcel, aunque más adelante se le otorgó libertad condicional por motivos médicos&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;18.&lt;/f3&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133710Z" creationid="Daniel-Andrea" creationdate="20160928T011308Z">
+        <seg>Durante el Quinto Pleno del partido, en septiembre de 1995, se destituyó oficialmente a Chen como miembro del Politburó y, en 1998, fue sentenciado a 16 años de cárcel, aunque más adelante se le otorgó libertad condicional por motivos médicos&lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;18&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13675,8 +13675,8 @@ Putting Zhao on trial, as Deng had the Gang of Four, would have had profound imp
       <tuv lang="EN-US">
         <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Now, Chen was forced to step down because of corruption.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131939Z">
-        <seg>Luego del viaje de Deng Xiaoping al sur, en el cuál Deng denominó específicamente a Li como “izquierdista”&lt;/f0&gt;&lt;f1&gt;20.&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt; Luego, Chen fue obligado a dejar el cargo debido a la corrupción.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133839Z">
+        <seg>Luego del viaje de Deng Xiaoping al sur, en el cuál Deng denominó específicamente a Li como “izquierdista”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. Luego, Chen fue obligado a dejar el cargo debido a la corrupción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18363,8 +18363,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>That resolution declared: “The principle of everybody being equal before discipline should be upheld and those Party members who violate discipline should be investigated and dealt with severely.”&lt;/f0&gt;&lt;f1&gt;19&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;It is not known whether this and other strictures were written into the resolution with the Chen Xitong case in mind.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T011506Z" creationid="Daniel-Andrea" creationdate="20160928T011506Z">
-        <seg>ya que la misma decretó: “el principio de que todos deben ser iguales ante la disciplina debe ser respetado y se investigarán y  sancionarán a aquellos miembros del partido que no respeten la disciplina”&lt;/f0&gt;&lt;f1&gt;19.&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;No se sabe si esta y otras restricciones se incluyeron en la resolución teniendo en cuenta el caso de Chen.&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133821Z" creationid="Daniel-Andrea" creationdate="20160928T011506Z">
+        <seg>ya que la misma decretó: “el principio de que todos deben ser iguales ante la disciplina debe ser respetado y se investigarán y  sancionarán a aquellos miembros del partido que no respeten la disciplina”&lt;/f0&gt;&lt;f1&gt;19&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;. No se sabe si esta y otras restricciones se incluyeron en la resolución teniendo en cuenta el caso de Chen.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
