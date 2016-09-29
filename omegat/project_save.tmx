@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12592,8 +12592,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang had tried to elevate Zeng Qinghong to Politburo Standing Committee (PBSC) status in the years before the Sixteenth Party Congress, but this had been rejected by his colleagues, suggesting that Jiang’s power had limits and that Zeng was not popular among the upper echelons of the CCP.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130147Z" creationid="andrea" creationdate="20160928T130147Z">
-        <seg>Jiang intentó insertarlo a Zeng Qinghong en el Permanente del Politburó en los años previos al Décimo Sexto Congreso del Partido, pero fue rechazado por sus colegas, aduciendo que el poder de JiIang era limitado y que Zeng no era conocido en los grados superiores del PCCH.</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T001052Z" creationid="andrea" creationdate="20160928T130147Z">
+        <seg>Jiang intentó insertarlo a Zeng Qinghong en el Comité Permanente del Politburó en los años previos al Décimo Sexto Congreso del Partido, pero fue rechazado por sus colegas, aduciendo que el poder de JiIang era limitado y que Zeng no era conocido en los grados superiores del PCCh.</seg>
       </tuv>
     </tu>
     <tu>
