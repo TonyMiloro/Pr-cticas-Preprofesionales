@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20758,8 +20758,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
 the “past few years” in the report.28[11]
 Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting the Party – charges Zhao asked the Party to reconsider in his rebuttal – it could not reach a resolution on his case, declaring only that the Party would “continue to investigate his problem.”29[12] The plenum’s failure to conclude Zhao’s case reflected the depth of division within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T200100Z">
-        <seg>Esta situación se resolvió focalizando el trabajo del informe solo en los años precedentes, pero Zhao expresó que [a]lgunos compañeros lo habían criticado por no permitirle a Li discutir los errores de "algunos años atrás" en el informe. 28 A pesar de que el Cuarto Pleno acusó a Zhao de apoyar la agitación y dividir al partido, (cargos que Zhao solicitó al partido reconsiderar en su impugnación) el pleno no pudo llegar a una resolución sobre su caso y declaró únicamente que el partido "continuaría investigando el problema". La incapacidad del pleno de no resolver el caso de Zhao demuestra la profunda división dentro del partido.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T200427Z">
+        <seg>Esta situación se resolvió focalizando el trabajo del informe solo en los años precedentes, pero Zhao expresó que [a]lgunos compañeros lo habían criticado por no permitirle a Li discutir los errores de "algunos años atrás" en el informe. 28 A pesar de que el Cuarto Pleno acusó a Zhao de apoyar la agitación y dividir al partido (Zhao solicitó al partido que reconsiderara la impugnación de estos cargos), el pleno no pudo llegar a una resolución sobre su caso y declaró únicamente que el partido "continuaría investigando el problema". La incapacidad del pleno de no resolver el caso de Zhao demuestra la profunda división dentro del partido.</seg>
       </tuv>
     </tu>
     <tu>
