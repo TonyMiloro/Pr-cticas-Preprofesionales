@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3246,6 +3246,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020318Z">
         <seg>Casi heréticamente, debido al fuerte apoyo chino que tuvo el golpe de estado en la Unión Soviética y a la fuerte sensación de desesperanza luego de su fracaso, los autores argumentaron que el éxito del golpe podría no haber sido ventajoso para China. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Along with the plan to reorganize government and streamline industry, there was also intent to wed the Chinese economy more closely to the global economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T193402Z" creationid="Usuario" creationdate="20160929T193354Z">
+        <seg>Junto con el plan de reorganizar el gobierno y reestructurar la industria, también se pretendía unir de más cerca la economía china con la economía mundial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6575,6 +6583,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160926T195552Z">
         <seg>La condición de China fue óptima durante la década de los 90 y a principios del nuevo siglo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China had first applied to join the &lt;t0/&gt;trade body, then known as the General Agreement on Trade and Tariffs (GATT), in 1986 but negotiations to complete China’s entry were interrupted by Tiananmen.&lt;t1/&gt;28&lt;t2/&gt; There was a period of renewed interest and possibility in 1994, prior to the formal establishment of the WTO at the beginning of 1995, but by then the bar to admission had been raised significantly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T194245Z" creationid="Usuario" creationdate="20160929T193846Z">
+        <seg>En 1986, China había solicitado unirse al organismo de comercio, conocido en ese momento como el Acuerdo General sobre Aranceles y Comercio (General Agreement on Trade and Tariffs, GATT), pero se interrumpieron las negociaciones para completar su ingreso debido al Tiananmén. Hubo un período de renovado interés y posibilidad en 1994, previo a la fundación formal de OMC a comienzos de 1995, pero para ese entonces la prohibición de admisión había incrementado de forma significativa. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11298,6 +11314,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In any case, Chinese negotiators were not yet willing to make the sort of commitments that would secure their entry, so the opportunity passed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T194902Z" creationid="Usuario" creationdate="20160929T194902Z">
+        <seg>De todos modos, los mediadores chinos aún no estaban dispuestos a realizar el tipo de compromiso que aseguraría su ingreso, por lo que perdieron  la oportunidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In any event, the opportunity to move forward on the WTO issue in&lt;t0/&gt; &lt;t1/&gt;the run-up to President Clinton’s visit to China was missed.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160920T232239Z">
@@ -13258,6 +13282,14 @@ It is not fire proof.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160929T162531Z" creationid="constanza" creationdate="20160929T162531Z">
         <seg>Evidentemente, este grupo de izquierdistas pretendía mantener su voz en el consejo del Partido y la vigilancia contra la liberalización burguesa.&lt;f5&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was at this time – in the spring of 1998, as details of President Clinton’s forthcoming trip to China were being planned – that China expressed renewed interest in joining the World Trade Organization (WTO).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T193712Z" creationid="Usuario" creationdate="20160929T193712Z">
+        <seg>Fue entonces, en la primavera de 1998, mientras se planificaban los detalles del próximo viaje del presidente Clinton a China, que este país demostró su renovado interés en ser parte de la OMC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15924,8 +15956,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Not only would people laid off from state-owned enterprises need to find new jobs, there was still a large number of underemployed people in the rural areas – frequently estimated to be at least 150 million – who needed to switch to non-agricultural employment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T192615Z" creationid="Usuario" creationdate="20160929T192615Z">
-        <seg>No sólo las personas despedidas de empresas estatales necesitaban encontrar nuevos trabajos, también había una gran cantidad de subempleados en zonas rurales, cuyo número estimado era de al menos 150 millones, que necesitaban cambiarse a trabajo no rural.Not only would people laid off from state-owned enterprises need to find new jobs, there was still a large number of underemployed people in the rural areas – frequently estimated to be at least 150 million – who needed to switch to non-agricultural employment.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T192931Z" creationid="Usuario" creationdate="20160929T192615Z">
+        <seg>No solo había despedidas de empresas estatales que necesitaban encontrar nuevos trabajos, sino que también había una gran cantidad de subempleados en zonas rurales (al menos 150 millones) que necesitaban cambiarse a trabajo no rural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16847,6 +16879,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160927T153232Z" creationid="Franco" creationdate="20160927T153107Z">
         <seg>Solo la planificación le permitiría a China usar sus escasos recursos de una manera en que pudiera maximizar los recursos de una manera que resultara beneficiosa para la sociedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only private enterprise, with its small investment of capital and labor-intensive production, could hope to provide sufficient employment.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T193016Z" creationid="Usuario" creationdate="20160929T193016Z">
+        <seg>Solo las empresas privadas, con una pequeña inversión de capital y producción con mano de obra intensiva, podían aspirar a ofrecer suficiente trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23215,6 +23255,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This was not simply a matter of political bias against China (though, given the image of China in the US, tougher conditions were certainly needed to convince a skeptical Congress); primarily it reflected a new image of China as a potential economic juggernaut that might overwhelm the United States with cheap exports.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T194733Z" creationid="Usuario" creationdate="20160929T194403Z">
+        <seg>Esto no era solo un asunto de prejuicio político en contra de China (aunque, debido a la imagen que tenía China en EE. UU., sin dudas se necesitaban condiciones más firmes para convencer al escéptico Congreso).Principalmente, esta situación era el reflejo de una nueva imagen de China como un enorme potencial económico que podría superar a los Estados Unidos con exportaciones a bajos precios. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This was only the third time such a report had been issued; previous reports had come in the summer of 1988 and the spring of 1993.&lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160926T140508Z">
@@ -23789,6 +23837,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160903T212052Z">
         <seg>¿Hacia una sociedad en armonía?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade negotiations were suspended during the tensions in the Taiwan Straits following President Lee &lt;t3/&gt;Teng-hui’s&lt;t4/&gt; visit to Cornell University, and it was only after Sino–US relations improved in the wake of that incident that serious trade negotiations could be resumed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T195004Z" creationid="Usuario" creationdate="20160929T195004Z">
+        <seg>Se suspendieron las negociaciones comerciales durante el período de tensiones en el Estrecho de Taiwán luego de la visita del presidente Lee Teng-hui a la Universidad Cornell, y fue solo luego de que las relaciones sino americanas mejoraron tras este accidente que las negociaciones comerciales serias pudieron continuar. &lt;t3/&gt;&lt;t4/&gt; </seg>
       </tuv>
     </tu>
     <tu>
