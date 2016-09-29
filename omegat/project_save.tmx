@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5589,8 +5589,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By year-end 2005, the number of SOEs had fallen by two-thirds, to 27,477, and the number of workers employed in SOEs had fallen by 40 percent to</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T192913Z">
-        <seg>Para finales del 2005, la cantidad de EPE había descendido dos tercios, a 27 477, y la cantidad de trabajadores contratados por estas empresas había caído un 40 %, </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T023645Z">
+        <seg>Para finales del 2005, la cantidad de EPE había descendido dos tercios, 27 477, y la cantidad de trabajadores contratados por estas empresas había caído un 40 %, </seg>
       </tuv>
     </tu>
     <tu>
@@ -7664,8 +7664,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Even as late as 1998, there were 64,737, state-owned enterprises (SOEs), employing 110 million workers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T022439Z">
-        <seg>Incluso hasta el año 1998, había 64 737 EPE que empleaban a 110 millones de trabajadores.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T023508Z">
+        <seg>Incluso hasta el año 1998, había 64 737 Empresas de Propiedad Estatal (EPE) que empleaban a 110 millones de trabajadores.</seg>
       </tuv>
     </tu>
     <tu>
