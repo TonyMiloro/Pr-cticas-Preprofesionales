@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1738,8 +1738,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Leftists criticized efforts to “privatize” the economy, and Zhu lashed out at liberal economists who urged him to undertake more radical reforms.&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Jiang began to parcel out bits of Zhu’s portfolio.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132657Z" creationid="Daniel-Andrea" creationdate="20160929T125850Z">
-        <seg>&lt;f0&gt;Los izquierdistas criticaron los intentos de “privatizar” la economía y Zhu atacó a los economistas liberales que insistían en que realice reformas más radicales&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. Jiang comenzó a distribuir la cartera de Zhu.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T140834Z" creationid="Daniel-Andrea" creationdate="20160929T125850Z">
+        <seg>&lt;f0&gt;Los izquierdistas criticaron los intentos de “privatizar” la economía y Zhu atacó a los economistas liberales que insistían en que realice reformas más radicales&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;.&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Jiang comenzó a distribuir la cartera de Zhu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3956,8 +3956,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Any attempt to advocate using Comrade Deng Xiaoping’s theories to negate or replace Marxism as the guiding principle for revolution and construction in China is idealist and goes against the ‘Communist Manifesto.’ No doctrine or theory, now or in the future, can replace Marxist truth and science.”&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;In September, more or less the same cast of characters convened a meeting in Shijiazhuang, the capital of Hebei province.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T002016Z" creationid="Daniel-Andrea" creationdate="20160928T002016Z">
-        <seg>Cualquier intento de defender el uso de las teorías del camarada Deng Xiaoping para negar o reemplazar al marxismo como el principio rector para la revolución y la construcción de China es idealista y va en contra del Manifiesto Comunista. Ninguna doctrina o teoría, ya sea ahora o en el futuro, puede reemplazar a la ciencia y verdad del maxismo”&lt;/f0&gt;&lt;f1&gt;23.&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;En septiembre, prácticamente el mismo elenco de personajes convocó una reunión en Shijiazhuang, capital de la provincia de Hebei.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T141322Z" creationid="Daniel-Andrea" creationdate="20160928T002016Z">
+        <seg>Cualquier intento de defender el uso de las teorías del camarada Deng Xiaoping para negar o reemplazar al marxismo como el principio rector para la revolución y la construcción de China es idealista y va en contra del Manifiesto Comunista. Ninguna doctrina o teoría, ya sea ahora o en el futuro, puede reemplazar a la ciencia y verdad del maxismo”&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;.&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;En septiembre, prácticamente el mismo elenco de personajes convocó una reunión en Shijiazhuang, capital de la provincia de Hebei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7816,8 +7816,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Entitled “A Preliminary Exploration of the Shape of China’s Domestic and Foreign National Security in the Next Ten or Twenty Years and the Primary Threats to It,” this second document maintained that China faced a hostile international environment made up of “monopoly capitalists” who view China as an enemy and that domestically China was undergoing a number of social changes that were threatening its national security and social stability.&lt;/f0&gt;&lt;f1&gt;26&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Unlike the first manifesto, which concentrated on domestic trends, this second document focused on the reasons for the disintegration of the Soviet Union and the collapse of socialism in Eastern Europe – issues that had been central in the 1991–2 period but had since calmed down in the wake of the&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;Fourteenth Party Congress and the efforts to rebuild diplomatic ties with the new Russia.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T135023Z" creationid="Daniel-Andrea" creationdate="20160928T192208Z">
-        <seg>Titulado “un estudio preliminar sobre el estado de la Seguridad Nacional interna y exterior de China durante los próximos diez o veinte años y sus principales amenazas”, este segundo documento afirmaba que China enfrentaba un entorno internacional hostil integrado por “capitalistas monopolistas” que ven a China como un enemigo, y que nacionalmente China estaba sufriendo varios cambios sociales que amenazaban su seguridad interna y estabilidad social&lt;/f0&gt;&lt;f1&gt;26&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. A diferencia del primer manifiesto, el cual se concentraba en tendencias nacionales, este segundo documento se centraba en los motivos de la desintegración de la Unión Soviética y del colapso del socialismo en Europa del Este (cuestiones que habían sido centrales durante el periodo 1991-2 pero que se habían apaciguado tras el&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;XIV Congreso Nacional del Partido Comunista de China y los esfuerzos por restablecer los vínculos diplomáticos con la nueva Rusia).</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T141451Z" creationid="Daniel-Andrea" creationdate="20160928T192208Z">
+        <seg>Titulado “un estudio preliminar sobre el estado de la Seguridad Nacional interna y exterior de China durante los próximos diez o veinte años y sus principales amenazas”, este segundo documento afirmaba que China enfrentaba un entorno internacional hostil integrado por “capitalistas monopolistas” que ven a China como un enemigo, y que nacionalmente China estaba sufriendo varios cambios sociales que amenazaban su seguridad interna y estabilidad social&lt;/f0&gt;&lt;f1&gt;26&lt;/f1&gt;.&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt; A diferencia del primer manifiesto, el cual se concentraba en tendencias nacionales, este segundo documento se centraba en los motivos de la desintegración de la Unión Soviética y del colapso del socialismo en Europa del Este (cuestiones que habían sido centrales durante el periodo 1991-2 pero que se habían apaciguado tras el&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;XIV Congreso Nacional del Partido Comunista de China y los esfuerzos por restablecer los vínculos diplomáticos con la nueva Rusia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8698,8 +8698,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For instance, the plenum declared that&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;democratic centralism and “system construction” were necessary so that the Party’s policies “will not change with a change in leaders or with a change in their ideas and their focus of attention.”&lt;/f3&gt;&lt;f4&gt;9&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Previously, when Qiao Shi had taken over as chairman of the NPC, he had declared that “democracy must be institutionalized and codified into laws so that this system and its laws will not change with a change in leadership, nor with changes in [individual leaders’] viewpoints and attention.”&lt;/f6&gt;&lt;f7&gt;10&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;bs10/&gt;&lt;be11/&gt;&lt;f12&gt;Moreover, the decision called for inner-Party democracy, declaring that “[i]f there is no democracy, there will be no socialism, nor socialist modernization.”&lt;/f12&gt;&lt;f13&gt;11&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132742Z" creationid="Daniel-Andrea" creationdate="20160929T130941Z">
-        <seg>Por ejemplo, el pleno manifestó que&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;el centralismo democrático y la “formación del sistema” eran claves para que las políticas del partido “no se modifiquen con cambios de mando o con cambios de ideales y foco de atención”&lt;/f3&gt;&lt;f4&gt;9&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;. Previamente, cuando Quiao Shi ocupaba el puesto de presidente de la APN, expresó: “la democracia debe ser institucionalizada y codificada en la legislación así este sistema y sus normas no son modificadas con los cambios de liderazgo ni con cambios en perspectivas y prioridades [de líderes individuales]”&lt;/f6&gt;&lt;f7&gt;10&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;bs10/&gt;&lt;be11/&gt;&lt;f12&gt;. Además, en la decisión se ordenó democracia interna del partido y se manifestó que “sin democracia, no habrá socialismo ni modernización socialista”&lt;/f12&gt;&lt;f13&gt;11&lt;/f13&gt;.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T140930Z" creationid="Daniel-Andrea" creationdate="20160929T130941Z">
+        <seg>Por ejemplo, el pleno manifestó que&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;el centralismo democrático y la “formación del sistema” eran claves para que las políticas del partido “no se modifiquen con cambios de mando o con cambios de ideales y foco de atención”&lt;/f3&gt;&lt;f4&gt;9&lt;s5/&gt;.&lt;/f4&gt;&lt;f6&gt;Previamente, cuando Quiao Shi ocupaba el puesto de presidente de la APN, expresó: “la democracia debe ser institucionalizada y codificada en la legislación así este sistema y sus normas no son modificadas con los cambios de liderazgo ni con cambios en perspectivas y prioridades [de líderes individuales]”&lt;/f6&gt;&lt;f7&gt;10&lt;/f7&gt;.&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;bs10/&gt;&lt;be11/&gt;&lt;f12&gt;Además, en la decisión se ordenó democracia interna del partido y se manifestó que “sin democracia, no habrá socialismo ni modernización socialista”&lt;/f12&gt;&lt;f13&gt;11&lt;/f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13707,8 +13707,8 @@ Putting Zhao on trial, as Deng had the Gang of Four, would have had profound imp
       <tuv lang="EN-US">
         <seg>Li Ximing had been forced to step down following Deng Xiaoping’s trip to the south, during which Deng had specifically named Li as a “leftist.”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Now, Chen was forced to step down because of corruption.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133839Z">
-        <seg>Luego del viaje de Deng Xiaoping al sur, en el cuál Deng denominó específicamente a Li como “izquierdista”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. Luego, Chen fue obligado a dejar el cargo debido a la corrupción.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T141044Z">
+        <seg>Luego del viaje de Deng Xiaoping al sur, en el cuál Deng denominó específicamente a Li como “izquierdista”&lt;/f0&gt;&lt;f1&gt;20&lt;/f1&gt;.&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Luego, Chen fue obligado a dejar el cargo debido a la corrupción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20956,8 +20956,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There was also Liu Ji, Jiang’s close friend from Shanghai who served as vice-president of CASS from 1993 to 1998, then played an active though much lower-profile role in Beijing, and finally was exiled back to Shanghai to take up a deanship in an MBA program.&lt;/f7&gt;&lt;f8&gt;21&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;In between these conservative and liberal advisers, were a number of people who have worked to further Jiang’s interests bureaucratically.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133937Z">
-        <seg>También estaba Liu Ji, un amigo cercano de Jiang de Shanghái quien había sido vice-presidente de la CASS desde 1993 hasta 1998, luego tuvo un papel activo aunque de perfil más bajo en Pekín y finalmente fue exiliado de nuevo a Shanghái  para ocupar un decanato en un programa de MBA&lt;/f7&gt;&lt;f8&gt;21&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;. En medio de estos asesores conservadores y liberales, había un número de personas que habían trabajado para promover burocráticamente los intereses de Jiang.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T141344Z">
+        <seg>También estaba Liu Ji, un amigo cercano de Jiang de Shanghái quien había sido vice-presidente de la CASS desde 1993 hasta 1998, luego tuvo un papel activo aunque de perfil más bajo en Pekín y finalmente fue exiliado de nuevo a Shanghái  para ocupar un decanato en un programa de MBA&lt;/f7&gt;&lt;f8&gt;21&lt;/f8&gt;.&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;En medio de estos asesores conservadores y liberales, había un número de personas que habían trabajado para promover burocráticamente los intereses de Jiang.</seg>
       </tuv>
     </tu>
     <tu>
