@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6293,8 +6293,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chen Yun was the only one in the Party with the stature to challenge Deng, but just as he had never challenged Mao, with whom he disagreed, he never challenged Deng’s political position.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T025613Z">
-        <seg>Chen Yun era el único en el partido con la importancia necesaria para desafiar a Deng, pero nunca había desafiado a Mao, con quién no estaba de acuerdo, ni tampoco la posición política de Deng.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T173959Z">
+        <seg> Chen Yun era el único en el partido con el prestigio necesario para desafiar a Deng, pero así como nunca había desafiado a Mao, con quién no estaba de acuerdo, tampoco nunca se había opuesto a la posición política de Deng.</seg>
       </tuv>
     </tu>
     <tu>
