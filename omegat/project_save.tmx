@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14322,8 +14322,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, as the Sixteenth Party Congress approached,“institutionalization” became the buzzword in media reports.The Chinese media touted Hu’s elevation to Party head as the ﬁrst peaceful transfer of power in CCP history.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andre" changedate="20160929T002225Z" creationid="andrea" creationdate="20160928T130340Z">
-        <seg>No obstante, como el Décimo Sexto Congreso del Partido  se aproximaba, la palabra “institucionalización” se convirtió en la palabra de moda de los noticieros. La prensa de China pregonaba que el nombramiento de Hu como líder del partido era la primera transferencia del poder pacífica en la historia de la RPCh.</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T002440Z" creationid="andrea" creationdate="20160928T130340Z">
+        <seg>No obstante, como el Décimo Sexto Congreso del Partido  se aproximaba, “institucionalización” se convirtió en la palabra de moda de los medios de comunicación. La prensa de China pregonaba que el nombramiento de Hu como líder del partido era la primera transferencia pacífica del poder en la historia de la RPCh.</seg>
       </tuv>
     </tu>
     <tu>
