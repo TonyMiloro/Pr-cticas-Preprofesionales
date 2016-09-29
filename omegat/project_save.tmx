@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3346,6 +3346,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although Jiang had called for administrative restructuring at the Fifteenth Party Congress the previous fall and &lt;t8/&gt;Luo&lt;t9/&gt; &lt;t10/&gt;Gan&lt;t11/&gt; had presented the plan to the NPC, this was clearly Zhu’s program.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T190307Z" creationid="Usuario" creationdate="20160929T190154Z">
+        <seg>Aunque Jiang había solicitado la reestructuración administrativa en el Decimoquinto Congreso del Partido Comunista el otoño pasado y Luo Gan había presentado el plan a la APN, era claro que el programa era de Zhu. &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although Jiang tolerated the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;de facto&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;privatization of much economic activity in the wake of Deng’s southern trip and Zhu Rongji’s efforts to squeeze inflation out of the economy, his statements remained ideologically cautious or conservative.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160908T183110Z">
@@ -5131,6 +5139,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the same time, numerous enterprises at the local level were reorganized as shareholding enterprises or simply sold off.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T191628Z" creationid="Usuario" creationdate="20160929T191628Z">
+        <seg>Al mismo tiempo, una gran cantidad de empresas locales fueron reestructuradas como empresas de participación accionaria o simplemente fueron vendidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the same time, some old cadres were heard to mutter&lt;t10/&gt; &lt;t11/&gt;that the government’s readiness to accept globalization was like Wang &lt;t12/&gt;Jingwei’s&lt;t13/&gt; &lt;t14/&gt;willingness to serve as head of Japan’s puppet government in occupied&lt;t15/&gt; &lt;t16/&gt;China during World War Two.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160926T193620Z">
@@ -5391,6 +5407,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T222611Z">
         <seg>Debido a que el término "izquierda" tiene connotaciones negativas para los intelectuales, al llamar a este grupo la nueva Izquierda se intenta desacreditarlos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because they were no longer &lt;t0/&gt;ministerially&lt;t1/&gt; based, they were expected to provide the government with more objective information on the state of industry.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T191330Z" creationid="Usuario" creationdate="20160929T191206Z">
+        <seg>Debido a que ya no dependían de los ministerios, se esperaba que brindaran al gobierno información más objetiva sobre el estado de la industria. &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6879,6 +6903,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160929T182758Z" creationid="joaquin" creationdate="20160929T182758Z">
         <seg>en el descubrimiento de Colón al pisar América) ), que se ocasionó por el capitalismo global; simbolizado no solo por el colapso del socialismo en Europa del Este y por la caída de la Unión Soviética sino también por el reconocimiento del PCCh en el XIV Congreso Nacional del Partido Comunista de China en 1991, reconocimiento de la necesidad de continuar con la reforma en la dirección una mercantilización más profunda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combined with the “grasping the large and letting go of the small” policy adopted in 1995, the elimination of so many of China’s line ministries opened up the possibility of a radical retreat of the government from the economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T190703Z" creationid="Usuario" creationdate="20160929T190556Z">
+        <seg>Junto con la política de “aprovechar lo grande, abandonar lo pequeño” adoptada en 1995, la eliminación de tantos ministerios de operaciones de China permitió que el gobierno se retire de manera radical de la economía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14064,6 +14096,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just as the Korean economy was dominated by a small number of large-scale &lt;t0/&gt;chaebol&lt;t1/&gt;, so too would a relatively small number of enterprise groups dominate the Chinese economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T192135Z" creationid="Usuario" creationdate="20160929T192135Z">
+        <seg>Así como la economía coreana era dominada por una pequeña cantidad de monopolios a gran escala,  también una cantidad relativamente baja de grupos empresariales dominarían la economía china. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just as the New Left and the liberals differed in their understandings of &lt;t0/&gt;capitalism and power, they had sharply different understandings of Chinese &lt;t1/&gt;history.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160929T190917Z" creationid="joaquin" creationdate="20160929T190917Z">
@@ -15238,6 +15278,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T225449Z">
         <seg>Asimismo, mediante una crítica directa a Deng&lt;t0/&gt;Liqun&lt;t1/&gt;, Deng Xiaoping manifestó que “decir que la reforma y la apertura significa introducir y desarrollar el capitalismo y creer que el peligro principal a la evolución pacífica proviene del ámbito económico es “de izquierda”. Deng también manifestó que todo aquel que se oponga a la reforma debe “desistir”, lo que significó una amenaza que se llevaría a cabo en contra de varios líderes conservadores durante el próximo otoño y que estaba claramente planeada para sacudir también al precavido Jiang Zemin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, just as management of the Korean economy was highly centralized, the Chinese plan eliminated the multiplicity of bureaucratic interests, centralizing control in the SETC.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T192314Z" creationid="Usuario" creationdate="20160929T192314Z">
+        <seg>Además, al igual que la administración de Corea era muy centralizada, el plan chino eliminó la multiplicidad de intereses burocráticos, centralizando el control en la SETC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20594,6 +20642,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The idea appears to have been to centralize the supervision of a limited number (500–1,000) of large enterprise groups in the State Economic and Trade Commission (SETC).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T191538Z" creationid="Usuario" creationdate="20160929T190747Z">
+        <seg>Parece que la idea fue centralizar la supervisión de una cantidad limitada (500-1000) de grandes grupos empresariales en la SETC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The idea behind the establishment of the State Council Production Commission was apparently to better coordinate the functions of planning and plan implementation through a newly established “double guarantee” system to be administered by the Production Commission, which in turn would be overseen by the SPC.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150356Z" creationid="Usuario" creationdate="20160929T150356Z">
@@ -20622,6 +20678,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T201810Z">
         <seg>El ambiente ideológico que creció luego de Tiananmén probablemente facilitó la dirección política de Jiang, al igual que la dirección política cautelosa de Jiang alentó un clima intelectual más conservador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The impact of the South Korean model on this reorganization plan was apparent.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T191829Z" creationid="Usuario" creationdate="20160929T191829Z">
+        <seg>El impacto del modelo de Corea del Sur en este plan de reorganización fue evidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21049,6 +21113,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T154851Z">
         <seg>El extraordinario crecimiento de internet facilitó en gran parte esta &lt;s0/&gt;internacionalización del discurso chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The plan to reorganize the government marked the biggest readjustment of the government–enterprise relationship since the beginning of reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T190505Z" creationid="Usuario" creationdate="20160929T190505Z">
+        <seg>El plan para reorganizar el gobierno significó el reajuste más grande en la relación del Estado con las empresas desde el principio de la reforma. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25558,6 +25630,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174043Z" creationid="Silvina Nuñez" creationdate="20160927T174043Z">
         <seg>Zhou, jefe de la compañía Shougang (Capital Iron and Steel) International en Hong Kong, es hijo de Zhou Guanwu, quién, en ese momento, no solo era jefe de la empresa modelo de Shougang, sino que también tenía excelentes conexiones con los principales líderes, tales como Wan Li, Peng Zhen, y quizás, el mismo Deng Xiaoping. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhu established a number of inspection groups, each headed by a person of vice-ministerial rank, that were to keep tabs on the enterprise groups and report directly back to the SETC.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T191133Z" creationid="Usuario" creationdate="20160929T191054Z">
+        <seg>Zhu creó varios grupos de inspección, cada uno encabezado por una persona de rango viceministerial, que debían controlar los grupos empresariales e informar directamente de vuelta a la SETC.</seg>
       </tuv>
     </tu>
     <tu>
