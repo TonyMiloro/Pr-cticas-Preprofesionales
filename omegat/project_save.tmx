@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2853,6 +2853,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160928T215109Z">
         <seg>Una nueva sobriedad vino al frente, y el progreso económico y la estabilidad social de a principios y a mediados de los 90 pareció justificar un nuevo enfoque autoritario o neoconservador para la reforma, particularmente en vista de los problemas que la República Rusa seguía experimentando. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A number of well-known, if conservative, economists – including Ma Hong, Zhang Zhuoyuan, Li Chengrui, and Wang Jiye – argued the case for the Fifth Plenum’s call for continuing retrenchment in measured, academic terms.66 These economists defended continued retrenchment as more liberal economists began to suggest that the policy of reform and readjustment had already achieved the major goal of controlling inflation and was beginning to hurt the development of the economy by excessively reducing demand.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T151036Z" creationid="Usuario" creationdate="20160929T151036Z">
+        <seg>Un grupo de reconocidos economistas, posiblemente conservadores, en los que se incluye a Ma Hong, Zhang Zhuoyuan, Li Chengrui y Wang Jiye, apoyó la demanda del Quinto Pleno para continuar el recorte de forma moderada y académica.66 Estos economistas defendían el recorte contínuo mientras que más economistas liberales comenzaban a sugerir que la política de reforma y reajuste ya había alcanzado el objetivo principal de controlar la inflación, y además estaba comenzando a perjudicar el desarrollo económico al reducir excesivamente la demanda. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7886,6 +7894,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Establishing the Production Commission and implementing the double guarantee system were clear victories for the conservative wing of the Party and especially for Li Peng, who would have a chance to try out his policies for strengthening socialist management.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150724Z" creationid="Usuario" creationdate="20160929T150724Z">
+        <seg>La creación de la Comisión de Producción y del sistema de doble garantía eran dos claros ejemplos de victoria para el ala conservadora del partido y especialmente para Li Peng, quien tendría la oportunidad de probar sus políticas para fortalecer la gestión socialista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even China’s diplomatic pariah status had vanished a decade and a half later as China emerged as an influential presence in world councils, espe-cially in Asia.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160928T215738Z">
@@ -12776,6 +12792,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was only after the Party’s Fifth Plenum in November 1989 that the People’s Daily began running serious economic commentary again.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T151029Z" creationid="Usuario" creationdate="20160929T151029Z">
+        <seg>No fue hasta después del Quinto Pleno en noviembre de 1989 que el diario People's Daily comenzó nuevamente a publicar comentarios contundentes sobre economía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was only in&lt;t2/&gt; &lt;t3/&gt;the fall of 1998 that the issue moved back onto the agenda, and it seems&lt;t4/&gt; &lt;t5/&gt;to have done so largely at the initiative of the American government.&lt;t6/&gt; &lt;t7/&gt;At the time, a number of issues were once again roiling the bilateral&lt;t8/&gt; &lt;t9/&gt;relationship: China was cracking down on the China Democracy Party;&lt;t10/&gt; &lt;t11/&gt;there were reports of illegal contributions to the Democratic Party; and,&lt;t12/&gt; &lt;t13/&gt;most sensational of all, Congressman &lt;t14/&gt;Christopher Cox began investigating&lt;t15/&gt; &lt;t16/&gt;allegations that China had engaged in extensive nuclear spying.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160926T131221Z">
@@ -16251,6 +16275,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>P1: SJT 9780521866934c01 CUUK1178/Fewsmith 9780521866934 June 9, 2008 19:13 42 China since Tiananmen In fact, most economic commentaries carried by the People’s Daily and Enlightenment Daily in those early months were by unknown reporters or economists.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150946Z" creationid="Usuario" creationdate="20160929T150946Z">
+        <seg>P1: SJT 9780521866934c01 CUUK1178/Fewsmith 9780521866934 June 9, 2008 19:13 42 China since Tiananmen En realidad, la mayoría de los comentarios sobre economía presentados por los diarios People's Daily y Enlightenment Daily en esos primeros meses habían sido realizados por periodistas o economistas desconocidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 154 China since Tiananmen by writing what became an instant best seller; in so doing, Wang showed that his doubts were widely shared among the urban population.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160928T140353Z">
@@ -18822,8 +18854,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The State Council Production Commission incorporated offices that had once belonged to the SEC, including the production control and technological transformation departments, which had been placed under the SPC, and the Enterprise Administration Office, which had been assigned to the State Economic Restructuring Commission.64 Rather than resurrecting the SEC, which had often acted as a spokesperson for industry interests and had often clashed with the more conservative SPC, the new State Council Production Commission was clearly intended to be subordinate to the SPC.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T031500Z">
-        <seg>aLa Comisión de Producción del Consejo de Estado incorporó oficinas que alguna vez pertenecieron al SEC, incluyendo los departamentos de control de la producción y  de transformación tecnológica, que estaban bajo el control de la SPC, y la Oficina de Administración de Empresa, que había sido asignada a la Comisión Estatal de Reestructuración de la Economía.64 Más que reestablecer la SEC, que muchas veces actuó como un vocero para los intereses de la industria y ha tenido a meudo enfrentamientos con más conservadores de la SPC, la nueva Comisión de Producción del Consejo de Estado tenía intenciones claras de ser subordinado al SPC. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150033Z">
+        <seg>La Comisión de Producción del Consejo de Estado incorporó oficinas que alguna vez pertenecieron al SEC, incluyendo los departamentos de control de la producción y  de transformación tecnológica, que estaban bajo el control de la SPC, y la Oficina de Administración de Empresa, que había sido asignada a la Comisión Estatal de Reestructuración de la Economía.64 Más que reestablecer la SEC, que muchas veces actuó como un vocero para los intereses de la industria y ha tenido a meudo enfrentamientos con más conservadores de la SPC, la nueva Comisión de Producción del Consejo de Estado tenía intenciones claras de ser subordinado al SPC. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19453,6 +19485,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The double guarantee system was intended, on the one hand, to guarantee the supply of the necessary raw materials and funds to &lt;t0/&gt;important state-owned enterprises and, on the other hand, for the enterprises to guarantee delivery of profits, taxes, and output to the state.65 The double guarantee system was initially imposed on 50 major enterprises in northeast China and then extended to cover 234 of China’s largest enterprises.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150424Z" creationid="Usuario" creationdate="20160929T150424Z">
+        <seg>El sistema de doble garantía fue diseñado para, por un lado, garantizar el abastecimiento de la materia prima y los fondos  &lt;t0/&gt; necesarios a importantes empresas estatales y, por otro lado, para que las empresas garantizaran la entrega de ganancias, impuestos y  producción al estado.65 En un principio, el sistema de doble garantía fue impuesto en 50 grandes empresas del noreste de China, y luego se extendió hasta abarcar 234 de las empresas más grandes del país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ebullient mood did not last long.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Luisina" changedate="20160918T160857Z">
@@ -19529,6 +19569,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160928T053446Z">
         <seg>El surgimiento de internet claramente extendió la circulación de ideas, lo cual el gobierno se empeñó en combatir.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The emergence of this debate over retrenchment policies marked the first time in nearly half a year that a tone of rational discussion had entered the press.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T151210Z" creationid="Usuario" creationdate="20160929T151210Z">
+        <seg>El surgimiento de este debate acerca de políticas restrictivas fue la primera vez en casi medio año que se introdujo un tono racional de debate en la prensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19801,6 +19849,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160928T235502Z">
         <seg>La historia de las rivalidades políticas chinas en el siglo xx en general y la herencia del leninismo en particular dificultaron la construcción de instituciones y el entendimiento pluralista del poder político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The idea behind the establishment of the State Council Production Commission was apparently to better coordinate the functions of planning and plan implementation through a newly established “double guarantee” system to be administered by the Production Commission, which in turn would be overseen by the SPC.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150356Z" creationid="Usuario" creationdate="20160929T150356Z">
+        <seg>La idea detrás de &lt;s0/&gt;la creación de la Comisión de Producción del Consejo del Estado aparentemente era coordinar mejor las funciones de planificación y el plan de ejecución por medio de un sistema de "doble garantía" recientemente establecido, el que será administrado por la Comisión de Producción, la que a su vez será supervisada por la SPC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20814,6 +20870,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T012806Z" creationid="Ana Maria" creationdate="20160929T012806Z">
         <seg>Al día siguiente, Hu se dirigió hacia Xibaipo, la tranquila ciudad central de Hebei que funcionaba como la  última capital revolucionaria del PCCh antes de que Mao y sus camaradas entraran en Pekín en 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The victory for Li Peng was underscored by the appointment of Zou Jiahua, Li’s close colleague of many years, as head of the SPC in December 1989 (replacing the conservative planner, Yao Yilin).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150746Z" creationid="Usuario" creationdate="20160929T150746Z">
+        <seg>La victoria de Li Peng fue destacada por el nombramiento de Zou Jiahua, colega cercano de Li por muchos años, como director de la SPC en diciembre de 1989 (quién reemplazó al conservador Yao Yilin).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25307,6 +25371,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T045335Z">
         <seg>removido del cargo por su participación en el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>renewed debate over the direction of the economy In the weeks and months after Tiananmen, there was virtually no debate over the course of the economy – at least not in the major newspapers.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150918Z" creationid="Usuario" creationdate="20160929T150812Z">
+        <seg>Nuevo debate sobre el rumbo de la economía durante semanas y meses después de Tiananmén, no existía casi ningún debate sobre el rumbo de la economía; al menos no en los principales diarios.</seg>
       </tuv>
     </tu>
     <tu>
