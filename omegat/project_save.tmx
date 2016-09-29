@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12161,6 +12161,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T225709Z" creationid="Eloisa" creationdate="20160928T224157Z">
         <seg>También discutía en contra de la propuesta de que el estado debería r&lt;t58/&gt;etirarse de las industrias competitivas y adoptar un papel de soportar la infraestructura y ciertas industrias básicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It argued further against the proposition that the state should remove itself from competitive industries and adopt a role of supporting infrastructure and certain basic industries.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T101127Z" creationid="marcelo lavarda" creationdate="20160929T101127Z">
+        <seg>[parcial]También discutía en contra de la propuesta de que el estado debería r&lt;t58/&gt;etirarse de las industrias competitivas y adoptar un papel de soportar la infraestructura y ciertas industrias básicas.</seg>
       </tuv>
     </tu>
     <tu>
