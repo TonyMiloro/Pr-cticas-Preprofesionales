@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6941,8 +6941,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Cui places great weight on the role of &lt;t0/&gt;institutions both in chang-ing individual behavior and in supporting ideals: “Human nature is not immutable.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T152921Z" creationid="Martin" creationdate="20160929T152921Z">
-        <seg>Cui pone un gran peso sobre el papel de &lt;t0 /&gt; instituciones tanto en Chang-ción de la conducta individual y en los ideales de apoyo: "La naturaleza humana no es inmutable."</seg>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T153419Z" creationid="Martin" creationdate="20160929T152921Z">
+        <seg>Cui apoya rotundamente el rol de &lt;t0 /&gt; las instituciones para así poder cambiar el comportamiento individual y defender ideales: "La naturaleza humana no es inmutable".</seg>
       </tuv>
     </tu>
     <tu>
@@ -16848,6 +16848,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160928T033432Z">
         <seg>La opinión pública con respecto a preguntas de política exterior es un tema muy delicado desde un punto de vista político. Debido a eso se permiten pocas investigaciones (o no se permite su publicación).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put in more general terms, Cui’s work argues that China should not pursue single-mindedly the neoliberal economic model of the West – not only because significant questions about the validity of that model have been raised in the West but also because China can build on its own legacies (and here he means the legacies of socialism) to avoid some of the problems of the West.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T153707Z" creationid="Martin" creationdate="20160929T153707Z">
+        <seg>En términos más generales, el trabajo de Cui sostiene que China no debe perseguir un solo propósito del modelo económico neoliberal de Occidente, no solo porque las preguntas importantes acerca de la validez de ese modelo se han planteado en el Oeste, sino también porque China se basará en su legados propios (y aquí significa el legado del socialismo) para evitar algunos de los problemas de Occidente</seg>
       </tuv>
     </tu>
     <tu>
