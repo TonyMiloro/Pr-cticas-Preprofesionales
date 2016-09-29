@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21072,8 +21072,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The manifesto went on to argue that, if small enterprises were privatized (the intention of the policy), then “the immense majority of the working class will become wage workers, and class polariza- tion will become a general phenomenon.”&lt;/f49&gt;&lt;a50&gt;&lt;f51&gt;78&lt;/f51&gt;&lt;/a50&gt;&lt;f52&gt; &lt;/f52&gt;&lt;f53&gt;The manifesto also took issue with the proposal that the state sector of the economy be reduced to around &lt;/f53&gt;&lt;f54&gt;20 &lt;/f54&gt;&lt;f55&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214721Z" creationid="marcelo lavarda" creationdate="20160928T222905Z">
-        <seg>[parcial]El manifiesto pasó a sost&lt;t51/&gt;ener que, si las pequeñas emprezas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se volvería wage workers, y la polarización de clases se convertiría en un fenómeno general”. El manifie&lt;t55/&gt;sto también discrepaba con la propuesta de que el sector estatal de la economía se reduzca a alrededor de &lt;t56/&gt;20 &lt;t57/&gt;por ciento, así como con la noción de que la propiedad no determina el desarrollo económico.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214808Z" creationid="marcelo lavarda" creationdate="20160928T222905Z">
+        <seg>El manifiesto pasó a sostener que, si las pequeñas empresas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se volvería wage workers, y la polarización de clases se convertiría en un fenómeno general”. El manifiesto también discrepaba con la propuesta de que el sector estatal de la economía se reduzca a alrededor de 20 por ciento, así como con la noción de que la propiedad no determina el desarrollo económico.</seg>
       </tuv>
     </tu>
     <tu>
