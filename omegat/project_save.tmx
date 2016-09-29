@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6516,8 +6516,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Contrary to the hopes of scholars like Li Peilin and Lu Xueyi,the report to the Sixteenth Party Congress, delivered by Jiang Zemin, gave little indication of a shift in policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T124608Z">
-        <seg>Contrario al deseo de investigadores como Li Pellin y Lu Xueyi, el informe del Décimo Sexto Congreso del partido no indicaba un cambio significativo en la política.</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T000041Z">
+        <seg>Contrario al deseo de investigadores como Li Pellin y Lu Xueyi, el informe del Décimo Sexto Congreso del Partido no indicaba un cambio significativo en la política.</seg>
       </tuv>
     </tu>
     <tu>
