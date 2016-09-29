@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4476,8 +4476,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As discussed in Part &lt;/f20&gt;&lt;f21&gt;II&lt;/f21&gt;&lt;f22&gt;, the intellectual atmosphere became considerably more conservative and nationalistic in this period, which helped the government preserve the social stability that it prized so highly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T201544Z">
-        <seg>Como ya se ha visto en la Parte II, durante este periodo la atmósfera intelectual se tornó considerablemente conservativa y nacionalista, lo que contribuyó a que el gobierno pudiera conservar la tan preciada estabilidad social. &lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T205137Z">
+        <seg>Como ya se ha visto en la Parte II, durante este periodo la atmósfera intelectual se tornó considerablemente conservativa y nacionalista, lo que contribuyó a que el gobierno pudiera preservar la tan preciada estabilidad social. &lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;</seg>
       </tuv>
     </tu>
     <tu>
