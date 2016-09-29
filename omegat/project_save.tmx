@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3516,8 +3516,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the number of private entrepreneurs had increased greatly in recent years, they still only accounted for 0.6 percent of the population – less than that in Japan in 1950.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T030320Z" creationid="user" creationdate="20160929T030229Z">
-        <seg>Aunque la cantidad de empresarios había incrementado considerablemente en los últimos años, todavía (estos) sólo representaban un 0.6 percent of the population – less than that in Japan in 1950.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T031004Z" creationid="user" creationdate="20160929T030229Z">
+        <seg>Aunque la cantidad de empresarios había incrementado considerablemente en los últimos años, todavía (estos) sólo representaban un 0.6 % de la población, menos que la de Japón en el año 1950.</seg>
       </tuv>
     </tu>
     <tu>
