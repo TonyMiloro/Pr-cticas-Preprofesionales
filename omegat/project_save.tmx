@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2876,8 +2876,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>According to He, the boom in the real estate market enriched those with connections at the expense of the common people, obstructed the formation of a fair competitive mechanism, and fostered rampant corruption.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160924T174512Z">
-        <seg>Según He, el auge del mercado inmobiliario enriqueció a aquellos con contactos a expensas de la gente común, obstruyó la formación de un mecanismo de competencia leal y fomentó una corrupción rampante. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T023313Z">
+        <seg>Según He, el auge del mercado inmobiliario enriqueció a aquellos que tenían contactos a expensas de la gente común, obstruyó la formación de un mecanismo de competencia leal y fomentó una corrupción rampante. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3060,8 +3060,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Already by 1992, she argued, some 46 billion yuan had been lost to joint ventures.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160924T174248Z">
-        <seg>Ya para 1992, Qinglian sostuvo que las joint ventures habían perdido unos 46 000 millones de yuanes.  </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T023233Z">
+        <seg>Ya para 1992, Qinglian sostenía que las joint ventures se habían quedado con aproximadamente 46 000 millones de yuanes.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -15484,8 +15484,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One problem of the booming real estate market was that it was fueled by a speculative fever that created a bubble economy that could, as one researcher put it, “vanish without warning”.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160924T174604Z">
-        <seg>Uno de los problemas del auge en el mercado inmobiliario es que fue acrecentado  por una fiebre especulativa que creó una economía especulativa que podría, como un investigador dijo, “desaparecer sin aviso”.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T023441Z">
+        <seg>Uno de los problemas del auge en el mercado inmobiliario fue que fue incrementado  por una fiebre especulativa que creó una economía especulativa que podría, como un investigador dijo, “desaparecer sin aviso”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17674,8 +17674,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Such real estate speculation drove up land prices and put housing out of reach of most people – and caused much resentment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160907T011607Z">
-        <seg>Tal especulación inmobiliaria hizo subir los precios de la tierra e hizo que la vivienda quede fuera del alcance de la mayoría de la gente, lo que causó mucho resentimiento. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T023425Z">
+        <seg>Tal especulación inmobiliaria hizo subir los precios de la tierra e hizo que la vivienda quedase fuera del alcance de la mayoría de la gente, lo que causó mucho resentimiento. </seg>
       </tuv>
     </tu>
     <tu>
