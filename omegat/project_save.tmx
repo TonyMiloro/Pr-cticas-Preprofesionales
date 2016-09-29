@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4636,8 +4636,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As one century yielded to the next, nationalism, corruption, globalization, elite conflict, and new intellectual controversies suggested an important reshaping of the Chinese polity.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T221702Z">
-        <seg>Con el paso de los siglos, el nacionalismo, la corrupción, la globalización, el conflicto entre élites, y las nuevas controversias intelectuales eran indicios de una importante reforma en la forma de gobierno china.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T212136Z">
+        <seg>Con el paso de los siglos, el nacionalismo, la corrupción, la globalización, el conflicto entre élites, y las nuevas controversias intelectuales se convirtieron en indicios de una importante reforma en la forma de gobierno china.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
