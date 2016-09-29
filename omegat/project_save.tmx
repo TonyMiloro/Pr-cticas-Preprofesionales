@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3436,8 +3436,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the Jiang Zemin era saw considerable efforts to reconcile these conflicting aspects of the political system, particularly with Jiang’s enunci-ation of the “Three Represents,” which permitted entrepreneurs to join the CCP, there has been a surprising re-emphasis on ideology, not to mention a tightened control over media and crackdown on those who pursue rights</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T032206Z">
-        <seg>Por esta razón, aungue se realizaron esfuerzos considerables en la era Jiang Zemin para renconcilar estos aspectos conflictivos del sistema político, particularmente con la introducción de Jiang de Three Represents (la "Triple Representatividad") que permitió a emprendedores formar parte de la PCCh; sin embargo, hubo un nuevo y sorpresivo énfasis en ideología, sin mencionar un estricto control sobre los medios y represión para aquellos que reclamaban por sus derechos,</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T032424Z">
+        <seg>Por esta razón, aunque se realizaron esfuerzos considerables en la era Jiang Zemin para renconcilar estos aspectos conflictivos del sistema político, particularmente con la introducción de Jiang de Three Represents (la "Triple Representatividad") que permitió a emprendedores formar parte de la PCCh; sin embargo, hubo un nuevo y sorpresivo énfasis en ideología, sin mencionar un estricto control sobre los medios y represión para aquellos que reclamaban por sus derechos,</seg>
       </tuv>
     </tu>
     <tu>
