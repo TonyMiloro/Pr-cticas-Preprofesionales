@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3834,6 +3834,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And Tian had offended many conservatives by his caustic ridicule – not to mention by his close relationship with Zhao.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154909Z" creationid="constanza" creationdate="20160929T154909Z">
+        <seg>Y Tian había ofendido a muchos conservadores con su acciones ridículas y agresivas sin mencionar su relación cercana con Zhao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And Zeng Qinghong, Jiang’s closest associate, not only joined the PBSC but was also named to head the Secretariat, the body that oversees the implementation of Politburo decisions.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160928T182811Z" creationid="andrea" creationdate="20160928T182811Z">
@@ -4630,6 +4638,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T230835Z" creationid="Eloisa" creationdate="20160928T230212Z">
         <seg>Como lo expresa el manifiesto, “quienes defienden esta opinión en realidad quieren que el estado muestre todas las pérdidas para que los diferentes tipos de capital puedan&lt;t59/&gt; lograr sus ingresos.” Hacer eso, declaró el manifiesto, terminaría por convertir la economía estatal en una que es "principalmente al servicio del capital extranjero."&lt;t60/&gt;79</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the well-known writer Bai Hua&lt;s0/&gt;put&lt;s1/&gt;it: “It was as though he [Deng] were afraid that once the leftists had been wiped out, the [factional] balance would be upset and another wave of ‘bourgeois liberalization’ would set in.”&lt;f2&gt;104&lt;/f2&gt;&lt;s3/&gt;Bai’s estimate was, no doubt, correct.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155005Z" creationid="constanza" creationdate="20160929T155005Z">
+        <seg>Como lo expresó el conocido escritor Bai Hua:&lt;s0/&gt;put&lt;s1/&gt;it: “It was as though he [Deng] were afraid that once the leftists had been wiped out, the [factional] balance would be upset and another wave of ‘bourgeois liberalization’ would set in.”&lt;f2&gt;104&lt;/f2&gt;&lt;s3/&gt;Bai’s estimate was, no doubt, correct.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7487,6 +7503,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174551Z" creationid="Soledad Mori" creationdate="20160927T174551Z">
         <seg>ya que su meta era doble. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng’s most important consideration, however, may have been to maintain balance between reformers and conservatives.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154935Z" creationid="constanza" creationdate="20160929T154935Z">
+        <seg>Sin embargo, el objetivo más importante de Deng podría haber sido mantener un balance entre reformistas y conservadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18449,6 +18473,14 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such predictions&lt;s2/&gt;&lt;f3&gt;cum&lt;/f3&gt;&lt;s4/&gt;hopes were unrealistic.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154811Z" creationid="constanza" creationdate="20160929T154811Z">
+        <seg>Dichas predicciones&lt;s2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;s4/&gt;e ilusiones fueron poco realistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such pressures rewarded rough behavior on the part of cadres and even became a criterion for cadre selection.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160916T235846Z">
@@ -24809,6 +24841,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160927T200557Z">
         <seg>Zhu se enfocó principalmente en la reforma doméstica,&lt;t6/&gt; &lt;t7/&gt;en la complicada situación de las EPE en particular, y parece que le preocupaba que la competencia&lt;t8/&gt; &lt;t9/&gt;internacional en vez de facilitarle esta tarea se la haría más dificil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhu had already made a “helicopter”-like ascent by jumping two levels from alternate member of the Central Committee to the Politburo Standing Committee; to go one level further would have roused intense opposition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154844Z" creationid="constanza" creationdate="20160929T154844Z">
+        <seg>Zhu ya había ascendido como un “helicóptero” al saltar dos niveles desde miembro suplente del Comité Central al Comité Permanente del Politburó y subir un nivel más despertado una oposición intensa.</seg>
       </tuv>
     </tu>
     <tu>
