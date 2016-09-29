@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12076,8 +12076,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In practice, this meant undermining and going around much of the old planned economy, allowing a market economy to grow outside the scope of the planned economy, and thus continuously reducing the relative importance of the planned economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T222927Z">
-        <seg>En la práctica, esto significaba debilitar y dar vuelta mucho la antigua economía planificada y permitir que la economía de mercado crezca fuera de los límites de la economía planificada y, por lo tanto, reducir continuamente la importancia relativa de esta.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T225221Z">
+        <seg>En la práctica, esto significaba debilitar y cambiar lo positivo de la antigua economía planificada y permitir que la economía de mercado crezca fuera de los límites de la economía planificada y, por lo tanto, reducir continuamente la importancia relativa de esta.</seg>
       </tuv>
     </tu>
     <tu>
