@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19214,8 +19214,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The mantra of the day was “collective leadership,” meaning both that decisions should be made after inner Party discussions in which views could be freely expressed and that those who disagreed with the resulting decision should be allowed to retain their views as long as they agreed to implement the decision.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T003533Z">
-        <seg>El mantra de la época era "liderazgo colectivo", lo que significaba que las decisiones debían tomarse luego de realizar una interna partidaria en que las opiniones pudieran expresarse libremente y que a aquellos que no estaban de acuerdo con la decisión final se les permitía mantener sus opiniones siempre y cuando accedieran a implementar la decisión final.  </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T003923Z">
+        <seg>El mantra de la época era "liderazgo colectivo". Esto significaba que las decisiones debían tomarse luego de realizar discusiones internas partidarias en que las opiniones pudieran expresarse libremente y que a aquellos que no estaban de acuerdo con la decisión final se les permitía mantener sus opiniones, siempre y cuando accedieran a implementar la decisión final.  </seg>
       </tuv>
     </tu>
     <tu>
