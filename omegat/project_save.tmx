@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5269,8 +5269,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Because of these trends, Deng’s call for renewed reform and economic development in 1992 did not cause many intellectuals simply to pick up where they had left off before and continue on the trajectory of liberal economic thought and Western-oriented reform that had dominated pre-1989 discussions.On the contrary, much of the discourse that emerged in the mid-1990s was affected by new concerns and new intellectual trends.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T144621Z">
-        <seg>Debido a estas tendencias, el pedido de Deng para una nueva reforma y desarrollo económico en 1992 no provocó que muchos intelectuales simplemente retomaran donde habían dejado  y continuaran con la trayectoria del pensamiento económico liberal y la reforma de orientación occidental que habían dominado las discusiones anteriores a 1989. Por el contrario, gran parte del discurso que surgió a mediados de la década de los 90 se vio afectado por nuevas preocupaciones y nuevas tendencias intelectuales.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T180055Z">
+        <seg>Debido a estas tendencias, el pedido de Deng para una nueva reforma y desarrollo económico en 1992 no provocó que muchos intelectuales simplemente retomaran donde habían dejado y continuaran con la trayectoria del pensamiento económico liberal y la reforma de orientación occidental que habían dominado las discusiones anteriores a 1989. Por el contrario, gran parte del discurso que surgió a mediados de la década de los 90 se vio afectado por nuevas preocupaciones y nuevas tendencias intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19815,8 +19815,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The deepening cultural and moral crises suggested that the problem lay not in China’s traditional culture, as adherents of theMay Fourth tradition believed, but rather in the decline of traditional values.&lt;/f0&gt;&lt;f1&gt;22 &lt;/f1&gt;&lt;f2&gt;This understanding was bolstered by the rapid development of Japan and the “four small dragons” with attendant discussions of “Confucian capitalism,” as Western social scientists and Asian commentators alike rediscovered the positive aspects of Confucianism for economic development: the frugality, work ethic, probity, respect for family and education, and acceptance of authority were all seen as reinforcing economic development and even as defining a uniquely Asian path to development.&lt;/f2&gt;&lt;f3&gt;23 &lt;/f3&gt;&lt;f4&gt;In 1991, Ji Xianlin, a well-known scholar of Chinese literature at Beijing University, published an article that looked at the cyclical rise and fall of civilizations and &lt;s5/&gt;concluded that Chinese civilization would rise again.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T021912Z">
-        <seg>Las crecientes crisis culturales y morales señalaron que el problema no radicaba en la cultura tradicional de China, como creían los seguidores de la tradición del Cuatro de Mayo, sino en el deterioro de los valores tradicionales&lt;/f0&gt;&lt;f1&gt;22. &lt;/f1&gt;&lt;f2&gt;Este entendimiento estaba reafirmado por el rápido desarrollo de Japón y  de "los cuatro dragones asiáticos", con debates sobre el "Capitalismo Confunciano", ya que sociólogos occidentales y comentaristas asiáticos del mismo tipo redescubrieron los aspectos positivos del Confucianismo para el desarrollo económico: la frugalidad, la ética laboral, la decencia, el respeto por la familia y la educación, y aceptación de la autoridad, fueron vistas como un refuerzo del desarrollo económico e incluso como factores determinantes para un camino únicamente asiático hacia el desarrollo&lt;/f2&gt;&lt;f3&gt;23. &lt;/f3&gt;&lt;f4&gt;En 1991, Ji Xianlin, conocido estudioso de la literatura china en la Universidad de Pekín, publicó un artículo que observaba el crecimiento y decrecimiento cíclico de las civilizaciones y &lt;s5/&gt;concluyó que la civilización china volvería a resurgir.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T180131Z">
+        <seg>Las crecientes crisis culturales y morales señalaron que el problema no radicaba en la cultura tradicional de China, como creían los seguidores de la tradición del Cuatro de Mayo, sino en el deterioro de los valores tradicionales&lt;/f0&gt;&lt;f1&gt;22. &lt;/f1&gt;&lt;f2&gt;Este entendimiento estaba reafirmado por el rápido desarrollo de Japón y de "los cuatro dragones asiáticos", con debates sobre el "Capitalismo Confunciano", ya que sociólogos occidentales y comentaristas asiáticos del mismo tipo redescubrieron los aspectos positivos del Confucianismo para el desarrollo económico: la frugalidad, la ética laboral, la decencia, el respeto por la familia y la educación, y aceptación de la autoridad, fueron vistas como un refuerzo del desarrollo económico e incluso como factores determinantes para un camino únicamente asiático hacia el desarrollo&lt;/f2&gt;&lt;f3&gt;23. &lt;/f3&gt;&lt;f4&gt;En 1991, Ji Xianlin, conocido estudioso de la literatura china en la Universidad de Pekín, publicó un artículo que observaba el crecimiento y decrecimiento cíclico de las civilizaciones y &lt;s5/&gt;concluyó que la civilización china volvería a resurgir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21412,8 +21412,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;possibility of such a scenario ending in social chaos was rarely discussed, and this is why democratic activists found themselves isolated not only from the Chinese government but also from many of the same intellectuals who had supported them in the heady days of spring 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T003709Z">
-        <seg>La &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;posibilidad de que  tal escenario terminara en un caos social se discutió pocas veces; y es por eso que los activistas a favor de la democracia se encontraron apartados no solo del gobierno chino sino también de muchos de los mismos intelectuales que los habían apoyado en los vertiginosos días de la primavera de 1989.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T180126Z">
+        <seg>La &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;posibilidad de que tal escenario terminara en un caos social se discutió pocas veces; y es por eso que los activistas a favor de la democracia se encontraron apartados no solo del gobierno chino sino también de muchos de los mismos intelectuales que los habían apoyado en los vertiginosos días de la primavera de 1989.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22508,8 +22508,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This reaction, it should be noted, differed greatly both from views widely held in the West and by democracy activists in both China and the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T002149Z">
-        <seg>Cabe destacar  que esta reacción se diferenciaba en gran medida, tanto de la perspectiva que respaldaban en Occidente como de los activistas a favor de la democracia en China así como también en Occidente.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T180114Z">
+        <seg>Cabe destacar que esta reacción se diferenciaba en gran medida, tanto de la perspectiva que respaldaban en Occidente como de los activistas a favor de la democracia en China así como también en Occidente.</seg>
       </tuv>
     </tu>
     <tu>
