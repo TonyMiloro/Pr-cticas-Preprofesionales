@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5957,8 +5957,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By the early 1990s, many believed that there had been a woeful loss of moral values in contemporary China – as reflected in corruption, commercialism, crime, and hedonistic lifestyles – and that there was much in China’s tradition that was still of great value in the contemporary world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T021101Z">
-        <seg>A comienzos de la década de los 90, muchos creían que hubo una triste pérdida de los valores morales en China contemporánea (como se reflejaba en la corrupción, la comercialización, el crimen y los estilos de vida hedonistas), y que había mucho en la tradición de China que todavía era de gran valor en el mundo contemporáneo.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T205832Z">
+        <seg>A comienzos de la década de los 90, muchos creían que hubo una triste pérdida de los valores morales en China contemporánea (como se reflejaba en la corrupción, la comercialización, el crimen y los estilos de vida hedonistas) y que había mucho en la tradición de China que todavía era de gran valor en el mundo contemporáneo.</seg>
       </tuv>
     </tu>
     <tu>
