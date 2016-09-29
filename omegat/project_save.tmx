@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4270,6 +4270,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T193550Z">
         <seg>Como lo explicó Zhou &lt;t0/&gt;Ruijin&lt;t1/&gt;, Deng “observó y contempló con tranquilidad” el conflicto a medida que se desarrollaba.32 La tercera explicación supone que, los acontecimientos en la Unión Soviética – específicamente, el cambio de Gorbachov a la derecha, que culminó en la represión de las Repúblicas Bálticas en enero de 1991 – podría haber fortalecido a los conservadores en Pekín,  los que probablemente vieron tal cambio como una señal de que la Unión Soviética también estaba alejándose de la reforma radical.33 La cuarta explicación radica en que la rauda victoria estadounidense de la guerra del Golfo, que tomó a China por sorpresa,   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a Communist Youth League (CYL) leader, Hu had good ties with Hu Yaobang and other reformers, but he had emerged following the Cultural Revolution as head of the CYL in Gansu province, where the conservative Song Ping was Party secretary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154011Z" creationid="constanza" creationdate="20160929T154011Z">
+        <seg>Como un líder de la Liga de la Juventud Comunista (LJC), Hu mantenía buenas relaciones con Hu Yaobang y otros reformistas, pero él había surgido luego de la Revolución Cultural como jefe de la LJC en la provincia de Gansu, donde el conservador Song Ping era Secretario General del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14678,6 +14686,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T012529Z">
         <seg>Además , la estrategia de reforma ha llevado a una inclinación regional como TVE a lo largo de la costa oriental que ha crecido y desarrollado mientras que la industria y el nivel de vida en el interior ha quedado por detrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, such Zhao associates as Hu&lt;s0/&gt;Qili and Yan Mingfu, partially rehabilitated in June 1991, did not rejoin the Politburo and Secretariat (respectively) as some had hoped.&lt;f1&gt;102&lt;/f1&gt;&lt;s2/&gt;Indeed, the promotion of Hu Jintao to the Politburo reﬂected this effort to make sure that Zhao would never stage&lt;s3/&gt;a comeback.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T153853Z" creationid="constanza" creationdate="20160929T153853Z">
+        <seg>Además, los socios de Zhao, Hu&lt;s0/&gt;Qili y Yan Mingfu, rehabilitados parcialmente en junio de 1991, no se reincorporaron al Politburó ni a la Secretaría General (respectivamente) como algunos esperaban.&lt;f1&gt;&lt;/f1&gt;&lt;s2/&gt;De hecho, la promoción de Hu Jintao al Politburó reflejó el esfuerzo para asegurar que Zhao nunca intentara&lt;s3/&gt;regresar.</seg>
       </tuv>
     </tu>
     <tu>
