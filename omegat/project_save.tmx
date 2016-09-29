@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20574,8 +20574,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The key person was Bo Yibo, the veteran economic planner who somehow maintained close relations with both Chen Yun and Deng Xiaoping.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160544Z" creationid="constanza" creationdate="20160929T160544Z">
-        <seg>La persona clave era Bo Yibo el planificador económico veterano que de alguna manera había logrado mantener relaciones cercana con Chen Yun y Deng Xiaoping.}</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T190047Z" creationid="constanza" creationdate="20160929T160544Z">
+        <seg>La persona clave era Bo Yibo, el planificador económico veterano que de alguna manera había logrado mantener relaciones cercanas con Chen Yun y Deng Xiaoping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22073,8 +22073,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These veterans, who included Zhang Aiping, Li Xiannian, Ye Fei, Hong Xuezhi,&lt;s3/&gt;and Zhang Zhen, resented being passed over by the Yang brothers, who had risen through the ranks as political commissars rather than as commanders.&lt;f4&gt;105&lt;/f4&gt;&lt;s5/&gt;They also rallied to Jiang Zemin as one of their own.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160225Z" creationid="constanza" creationdate="20160929T160156Z">
-        <seg>Estos veteranos entre los que se encontraban Zhang Aiping, Li Xiannian, Ye Fei, Hong Xuezhi&lt;s3/&gt;y Zhang Zhen, se sentían ofendidos por haber sido superados por los hermanos Yang, que habían subido rangos como comisarios políticos y no como comandantes.&lt;f4&gt;&lt;/f4&gt;&lt;s5/&gt;También apoyaron a Jiang Zemin como a uno de los suyos.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T185759Z" creationid="constanza" creationdate="20160929T160156Z">
+        <seg>Estos veteranos, entre los que se encontraban Zhang Aiping, Li Xiannian, Ye Fei, Hong Xuezhi&lt;s3/&gt;y Zhang Zhen, se sentían ofendidos por haber sido superados por los hermanos Yang, que habían subido rangos como comisarios políticos y no como comandantes.&lt;f4&gt;&lt;/f4&gt;&lt;s5/&gt;También apoyaron a Jiang Zemin como a uno de los suyos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24403,8 +24403,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Jiang ﬁrst came to Beijing as general secretary, he cultivated a close relationship with Bo, often visiting his house and seeking his guidance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160707Z" creationid="constanza" creationdate="20160929T160624Z">
-        <seg>Bo Yibo logró cultivar una relación cercana con Jiang cuando este llegó a Pekín como secretario general, a menudo visitándolo en su casa y buscando su asesoramiento.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T190215Z" creationid="constanza" creationdate="20160929T160624Z">
+        <seg>Bo logró cultivar una relación cercana con Jiang cuando este llegó a Pekín como secretario general, a menudo visitándolo en su casa y buscando su asesoramiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25228,8 +25228,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhang Aiping, one of the founders of the PLA Navy&lt;s6/&gt;and a leader of China’s nuclear program, had been close to Jiang Zemin’s uncle, Jiang Shangqing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160305Z" creationid="constanza" creationdate="20160929T160305Z">
-        <seg>Uno de los fundadores de la Marina del EPL&lt;s6/&gt;y líder del programa nuclear chino, Zhang Aiping había mantenido una relación cercana al tío de Jiang Zemin, Jiang Shangqing.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T185846Z" creationid="constanza" creationdate="20160929T160305Z">
+        <seg>Uno de los fundadores de la Marina del EPL&lt;s6/&gt;y líder del programa nuclear chino, Zhang Aiping, había mantenido una relación cercana con el tío de Jiang Zemin, Jiang Shangqing.</seg>
       </tuv>
     </tu>
     <tu>
