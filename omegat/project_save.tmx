@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5493,8 +5493,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Besides giving an overview of Said’s argument that Westerners have distorted and uglified the reality of the Orient for their own purposes, Zhang argued that Western images of China changed from quite favorable (indeed, idealized) views held by early Jesuit missionaries and enlightenment intellectuals to decidedly negative images as the West began to oppress and exploit China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160929T211318Z">
-        <seg>Además de hacer un resumen del argumento de Said, que indica que los Occidentales han distorsionado y estropeado la realidad de Oriente para sus propios fines, Zhang argumenta que las imagenes Occidentales de China por parte de los primeros misioneros Jesuitas e intelectuales de la ilustracion cambiaron de bastante favorables (incluso, idealizadas) a decisivamente negativas a medida que Occidente comenzaba a oprimir y explotar China. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T211445Z">
+        <seg>Además de hacer un resumen del argumento de Said, que indica que los occidentales han distorsionado y estropeado la realidad de Oriente para sus propios fines, Zhang argumenta que las imagenes occidentales de China por parte de los primeros misioneros jesuitas e intelectuales de la Ilustracion cambiaron de bastante favorables (incluso, idealizadas) a decisivamente negativas a medida que Occidente comenzaba a oprimir y explotar China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9803,8 +9803,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He stated further that many contemporary American scholars of China were trained by the military in order to “understand the enemy,” ignoring the many China scholars who courageously opposed US policy toward China in the years after World War Two.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160923T001544Z">
-        <seg>Además expuso que muchos de los eruditos contemporáneos estadounidenses de China fueron entrenados por el ejército para "entender al enemigo", ignorando a muchos de los eruditos chinos que valientemente se opusieron a la política que Estados Unidos adoptó con respecto a China en los años siguientes a la Segunda Guerra Mundial.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T211930Z">
+        <seg>Por otra parte, expuso que muchos de los eruditos contemporáneos estadounidenses de China fueron entrenados por el ejército para "entender al enemigo", ignorando a muchos de los eruditos chinos que valientemente se opusieron a la política que EE. UU. adoptó con respecto a China en los años siguientes a la Segunda Guerra Mundial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20004,8 +20004,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The brunt of Zhang’s argument, however, is not his critique of Western distortions of China but rather the acceptance by Chinese intellectuals of these Western portrayals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160923T003433Z">
-        <seg>El impacto principal del argumento de Zhang, sin embargo, no es su crítica a las distorciones de China realizadas por los Occidentales sino a la aceptación de estas descripciones por parte de los intelectuales Chinos.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T212005Z">
+        <seg>El impacto principal del argumento de Zhang, sin embargo, no es su crítica a las distorciones de China realizadas por los occidentales sino a la aceptación de estas descripciones por parte de los intelectuales Chinos.</seg>
       </tuv>
     </tu>
     <tu>
