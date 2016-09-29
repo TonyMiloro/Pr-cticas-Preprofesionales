@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17800,8 +17800,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Sometimes they were bureaucrats who tired of the office routine and jumped into the sea of business but retained their connections to colleagues who could offer all-important approvals or access to scarce resources.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T135824Z">
-        <seg>En algunos casos eran burócratas que se cansaban de la rutina de la oficina y se sumergían en el mar de negocios pero mantenían el contacto con sus colegas que les podían ofrecer aprobaciones importantes o acceso a recursos escasos.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T140647Z">
+        <seg>En algunos casos eran burócratas que se cansaban de la rutina de la oficina y se sumergían en el mar de negocios pero mantenían el contacto con sus colegas que les podían ofrecer aprobaciones importantes o acceso a recursos .</seg>
       </tuv>
     </tu>
     <tu>
