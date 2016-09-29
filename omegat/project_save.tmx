@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13581,6 +13581,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160928T040122Z">
         <seg>libro Looking at China through a Third Eye (China a través de un tercer ojo) se confirmó con un acto de venganza por parte de la publicación del libro China puede decir no de 1996.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lu Xueyi’s 2001 study on China’s social strata is a major contribution to our understanding of social differentiation in China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T024946Z" creationid="Agustín" creationdate="20160929T024946Z">
+        <seg>El estudio que Lu Xueyi llevóa a cabo en el año 2001 study on China’s social strata is a major contribution to our understanding of social differentiation in China.</seg>
       </tuv>
     </tu>
     <tu>
