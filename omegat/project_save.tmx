@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1177,8 +1177,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;As the struggle for dominance in the spring of 1992 would show, Deng had (or had regained) enough authority to force nominal compliance with his wishes but not enough to immediately subdue opposition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T020254Z">
-        <seg>&lt;f0&gt;Como quedaría demostrado en la lucha por el dominio de la primavera de 1992, Deng tenía la autoridad suficiente para imponer la obediencia nominal a sus deseos o había recuperado esta autoridad; no obstante, no poseía la autoridad suficiente para someter a la oposición de inmediato</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021247Z">
+        <seg>&lt;f0&gt;Como quedaría demostrado en la lucha por el dominio de la primavera de 1992, Deng tenía la autoridad suficiente para imponer la obediencia nominal a sus deseos o había recuperado esta autoridad; no obstante, no poseía la autoridad suficiente para someter a la oposición de inmediato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22269,8 +22269,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Unlike in the spring of 1991, when Deng had backed off from a decisive confrontation with his opponents, in 1992 – with the &lt;/f0&gt;&lt;f1&gt;Fourteenth Party Congress&lt;/f1&gt;&lt;f2&gt; looming on the horizon – Deng was determined to raise the stakes to the level of a contest for Party leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193606Z">
-        <seg>A diferencia de la primavera de 1991, cuando Deng había desistido de tener una confrontación decisiva con sus opositores, en 1992, con el  &lt;/f0&gt;&lt;f1&gt;XIV Congreso Nacional del Partido Comunista de Chinal&lt;/f1&gt;&lt;f2&gt; aproximándose, Deng estaba decidido a subir la apuesta y competir por el liderazgo del Partido.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021319Z">
+        <seg>A diferencia de la primavera de 1991, cuando Deng había desistido de tener una confrontación decisiva con sus opositores, en 1992, con el  &lt;/f0&gt;&lt;f1&gt;Décimocuarto Congreso Nacional del Partido Comunista de Chinal&lt;/f1&gt;&lt;f2&gt; aproximándose, Deng estaba decidido a subir la apuesta y competir por el liderazgo del Partido.</seg>
       </tuv>
     </tu>
     <tu>
