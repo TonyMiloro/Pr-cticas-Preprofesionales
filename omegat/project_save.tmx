@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14354,6 +14354,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More importantly, Wu was placed in charge of the reform of state-owned enterprises, which was designated as the focus of economic reform in 1995.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T130334Z" creationid="Daniel-Andrea" creationdate="20160929T130334Z">
+        <seg>Más importante todavía, Wu estaría a cargo de la reforma de empresas estatales, la cual se designó como el foco de la reforma económica de 1995.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, &lt;t0/&gt;there were indications that the military itself was uncom- fortable with the divided lines of authority.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T141410Z">
@@ -23832,6 +23840,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160926T192232Z">
         <seg>Wu Jichuan, Ministro de Industrias de la Información (telecomunicaciones inclusive), habría presentado su renuncia (que no fue aceptada). 38 La supuesta presentación de renuncia y las acciones prosiguientes de Wu, en particular su curioso anuncio de que era ilegal que empresas extranjeras invirtieran en el negocio por Internet de China (cosa que ya sucedía), señalan la ferocidad de la opocisión de alto nivel. 39 Wu Jichuan tiene en sí la reputación de una persona de carácter apacible, no del tipo de personas que defían a sus jefes, especialmente uno cuya reputación es de tener mal carácter como Zhu Rongji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wu Bangguo was named deputy head of the Central Finance and Economic Leading Group (replacing Li Peng) and thus would share leadership of that critical body with Zhu, under the general supervision of Jiang, who remained head of the group.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T130232Z" creationid="Daniel-Andrea" creationdate="20160929T130232Z">
+        <seg>Wu Bangguo fue nombrado subjefe del Grupo Central principal de Asuntos Económicos y Financieros (en reemplazo de Li Peng), lo que significaba que compartiría el liderazgo de ese organismo fundamental con Zhu, bajo la supervisión general de Jiang, quien permaneció como jefe del grupo.</seg>
       </tuv>
     </tu>
     <tu>
