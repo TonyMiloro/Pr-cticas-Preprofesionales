@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16885,8 +16885,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Personnel changes at the Fourteenth Party Congress (see Table 1) supported to some extent the policies favored by Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T151453Z" creationid="constanza" creationdate="20160929T151453Z">
-        <seg>Los cambios en el personal en el XIV Congreso Nacional del Partido Comunista de China (véase tabla 1) apoyaron las políticas que Deng apoyaba.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T182336Z" creationid="constanza" creationdate="20160929T151453Z">
+        <seg>Los cambios en el personal en el XIV Congreso Nacional del Partido Comunista de China (véase tabla 1) apoyaron las políticas que Deng respaldaba.</seg>
       </tuv>
     </tu>
     <tu>
