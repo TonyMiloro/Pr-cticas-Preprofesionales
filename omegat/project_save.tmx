@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6468,8 +6468,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Conservatives, led by Chen Yun, had argued that the “planned economy is primary, the market economy supplementary.” That line, which had been enshrined at the Party’s 1980 Central Work Conference and the Twelfth Party Congress in 1982, was rejected (albeit implicitly) by the 1984 Third Plenum, which had adopted the “Decision on the Reform of the Economic Structure.” The plenum decision endorsed the view that the economy was a “commodity economy” rather than, &lt;t0/&gt;as conservatives had maintained, a “planned economy.”53 This was a significant ideological breakthrough that served to justify further liberalization of the economy and marked a major parting of the ways.54 The rift between Deng and Chen widened in the ensuing years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T001050Z">
-        <seg> Los conservadores, dirigidos por Cheng Yun habían argumentado que "una economía planificada es primordial, una economia de mercado suplementaria". Esa linea, que habia sido consagrada en la Conferencia Central de Trabajo del Partido en 1980 y por el Décimo Segundo Congreso del  Partido en 1982, fue rechazada por el Tercer Pleno(implícitamente), quien había aprobado la "Decisión sobre la Reforma de la Estructura Económica". La decisión del Pleno apoyaba la idea de que la economía era una "economía de mercado más que &lt;t0/&gt; una "economía planificada" 53 como los conservadores sostenian. Esto fue un logro ideológico significativo que sirvió para justificar aun más la liberalización de la economía y marcó una gran separación de los caminos.54.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T001928Z">
+        <seg> Los conservadores, dirigidos por Cheng Yun habían argumentado que "una economía planificada es primordial, una economia de mercado suplementaria". Esa linea, que habia sido consagrada en la Conferencia Central de Trabajo del Partido en 1980 y por el Décimo Segundo Congreso del  Partido en 1982, fue rechazada por el Tercer Pleno(implícitamente), quien había aprobado la "Decisión sobre la Reforma de la Estructura Económica". La decisión del Pleno apoyaba la idea de que la economía era una "economía de mercado más que &lt;t0/&gt; una "economía planificada" 53 como los conservadores sostenian. Esto fue un logro ideológico significativo que sirvió para justificar aun más la liberalización de la economía y marcó una gran separación de los caminos.54. Este distanciamiento entre Deng y Cheng se acrecentó aún más en los años siguientes.</seg>
       </tuv>
     </tu>
     <tu>
