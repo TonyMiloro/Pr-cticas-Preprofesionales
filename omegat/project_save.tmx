@@ -224,8 +224,8 @@
       <tuv lang="EN-US">
         <seg>22 Crossed Swords was even more controversial than other works published during the spring because, like &lt;t13/&gt;Shen&lt;t14/&gt; &lt;t15/&gt;Jiru’s&lt;t16/&gt; book, it was included in the China’s Contemporary Problems series and because it publicly criticized the leftist manifestos, which had been widely circulated but not published (except for the one in Mainstream).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T225028Z" creationid="Cami" creationdate="20160929T225028Z">
-        <seg>Espadas Cruzadas fue incluso más controvertido que otras obras publicados durante la primavera porque, al igual que el libro de &lt;t13/&gt;Shen&lt;t14/&gt; &lt;t15/&gt;Jiru’s&lt;t16/&gt; fue incluído en la serie Problemas Contemporáneos de China y porque criticaba abiertamente los manifiestos de izquierda, los cuales habían estado circulando ampliamente pero no habían sido publicados (excepto aquel publicado en el diario Mainstream.</seg>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T225115Z" creationid="Cami" creationdate="20160929T225028Z">
+        <seg>Espadas Cruzadas fue incluso más controvertido que otras obras publicados durante la primavera porque, al igual que el libro de &lt;t13/&gt;Shen&lt;t14/&gt; &lt;t15/&gt;Jiru,&lt;t16/&gt; fue incluído en la serie Problemas Contemporáneos de China y porque criticaba abiertamente los manifiestos de izquierda, los cuales habían estado circulando ampliamente pero no habían sido publicados (excepto aquel publicado en el diario Mainstream).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7949,6 +7949,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despite Liu Ji’s close relationship with Jiang Zemin, it was apparent that the publication of Crossed Swords was part of the ongoing conduct of “court politics” surrounding the Party leader rather than a direct reflection of his views.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T225137Z" creationid="Cami" creationdate="20160929T225137Z">
+        <seg>A pesar de la relación cercana entre Liu Ji y Jiang Zemin, fue evidente que la publicación de Espadas cruzadas formó parte de la conducta en proceso de “políticas de corte” en el contexto del líder del partido en lugar de ser un reflejo directo de su perspectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Despite considerable doubt about the wisdom of many of his policies and even a determination to cut back those policies, no one made an effort to remove Deng from his “core” position within the Party.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T033241Z">
@@ -11529,6 +11537,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In an effort to conciliate (or at least mediate among) different wings of the Party, Jiang had surrounded himself with a variety of advisers, ranging from the conservative &lt;t17/&gt;Teng&lt;t18/&gt; &lt;t19/&gt;Wensheng&lt;t20/&gt; to the neoconservative Wang &lt;t21/&gt;Huning&lt;t22/&gt; to the more liberal Liu Ji.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T225252Z" creationid="Cami" creationdate="20160929T225252Z">
+        <seg>En un esfuerzo por conciliar (o al menos mediar entre) las distintas alas del partido, Jiang se rodeó de una variedad de asesores, que iban desde el conservador  &lt;t17/&gt;Teng&lt;t18/&gt; &lt;t19/&gt;Wensheng&lt;t20/&gt; el neoconservador Wang &lt;t21/&gt;Huning&lt;t22/&gt; hasta el liberal Liu Ji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In an internal speech at the Contemporary China History Institute, Deng called for “extra vigilance over the recent rise in rightist tendencies.”&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174327Z" creationid="Soledad Mori" creationdate="20160927T174327Z">
@@ -13079,6 +13095,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160929T034235Z">
         <seg>Estos líderes individuales tendrán diversos recursos a su disposición y, por lo tanto, responderán de manera diferente a los desafíos a los que se enfrenta el sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inevitably there were controversies among such people, and the personal animosities among some of them were quite deep.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T225319Z" creationid="Cami" creationdate="20160929T225319Z">
+        <seg>De manera inevitable, hubo controversias entre estas personas, y la hostilidad personal entre algunos de ellos era bastante profunda.</seg>
       </tuv>
     </tu>
     <tu>
