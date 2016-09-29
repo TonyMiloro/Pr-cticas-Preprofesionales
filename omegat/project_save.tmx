@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1802,8 +1802,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Perhaps the most interesting of the manifestos published at that time, though not generally counted as one of the &lt;/f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt;000 &lt;/f3&gt;&lt;f4&gt;character manifestos, was one&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;titled&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;“Reform&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;and&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Economic&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Man.”&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;This&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;essay&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;reflected&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;the&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;thinkingof the New Left more than the Old Left, but it showed the overlap that had emerged between the two groups.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T213718Z">
-        <seg>Entre los manifiestos publicados durante ese tiempo, si bien en general no se lo incluye entre los manifiestos de 10 000 caracteres, quizás el más interesante era el titulado 'Reforma y el homo economicus'. Este ensayo reflejaba el pensamiento de la nueva izquierda más que el de la vieja izquierda, pero aún mostraba la superposición de ideas entre ambos grupos. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T215949Z">
+        <seg>Entre los manifiestos publicados durante ese tiempo, si bien en general no se lo incluye entre los manifiestos de 10 000 caracteres, quizás el más interesante era el titulado "Reforma y el homo economicus". Este ensayo reflejaba el pensamiento de la nueva izquierda más que el de la vieja izquierda, pero aún mostraba la superposición de ideas entre ambos grupos. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8184,8 +8184,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Entitled “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” this article was written by the editorial office of the conservative journal &lt;/f4&gt;&lt;f5&gt;Contemporary Trends &lt;/f5&gt;&lt;f6&gt;and pub- lished in the fourth issue of &lt;/f6&gt;&lt;f7&gt;1996&lt;/f7&gt;&lt;f8&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214318Z" creationid="marcelo lavarda" creationdate="20160928T215632Z">
-        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” (Varios problemas teóricos y de políticas sobre la posición dominante de la propiedad pública) este artículo lo escribió la editorial del diario conservador Contemporary Trends y se publicó en la cuarta edición de 1996.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T215909Z" creationid="marcelo lavarda" creationdate="20160928T215632Z">
+        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” ("Varios problemas teóricos y de políticas sobre la posición dominante de la propiedad pública") este artículo lo escribió la editorial del diario conservador Contemporary Trends y se publicó en la cuarta edición de 1996.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21361,8 +21361,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The point of the essay was that any reform – whether in China, Eastern Europe, or the former Soviet Union – takes the concept of “economic man” (as conceived by Adam Smith) as central, and that the concept of “economic man” is fundamentally con- tradictory to the collectivism that is central to the socialist ethos.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T211652Z">
-        <seg>La idea central de este ensayo es que cualquier reforma, ya sea en China, Europa Oriental, o la antigua Unión Soviética, toma como eje el concepto de 'homo economicus' (tal como propuesto por Adam Smith) y que esta noción es en esencia contradictoria al colectivismo, crucial para los valores socialistas.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T215958Z">
+        <seg>La idea central de este ensayo es que cualquier reforma, ya sea en China, Europa Oriental, o la antigua Unión Soviética, toma como eje el concepto de "homo economicus" (tal como propuesto por Adam Smith) y que esta noción es en esencia contradictoria al colectivismo, crucial para los valores socialistas.</seg>
       </tuv>
     </tu>
     <tu>
