@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11628,8 +11628,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the mid-1980s, there was fevered talk in the Chinese press, which turned out to be exaggerated, of the emergence of “ten-thousand-yuan households” (wanyuanhu) – an almost unimaginable amount of income in a period in which the average rural resident earned only about 350 yuan per year.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T140131Z">
-        <seg>A mediados de 1980 se habló mucho en la prensa china, unque terminó siendo exagerado, acerca del surgimiento de familias con ingresos de 10 millones de yuanes (wanyuanhu): un ingreso casi inimaginable en un período en el que un residente rural promedio ganaba solamente al rededor de 350 yuanes por día.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T143631Z">
+        <seg>A mediados de 1980 se habló mucho en la prensa china, aunque terminó siendo exagerado, acerca del surgimiento de familias con ingresos de 10 millones de yuanes (wanyuanhu): un ingreso casi inimaginable en un período en el que un residente rural promedio ganaba solamente al rededor de 350 yuanes por día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17816,8 +17816,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Sometimes they were bureaucrats who tired of the office routine and jumped into the sea of business but retained their connections to colleagues who could offer all-important approvals or access to scarce resources.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T140647Z">
-        <seg>En algunos casos eran burócratas que se cansaban de la rutina de la oficina y se sumergían en el mar de negocios pero mantenían el contacto con sus colegas que les podían ofrecer aprobaciones importantes o acceso a recursos .</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T143949Z">
+        <seg>En algunos casos eran burócratas que se cansaban de la rutina de la oficina y se sumergían en el mar de negocios pero mantenían el contacto con sus colegas que les podían ofrecer aprobaciones importantes o acceso a recursos limitados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19753,8 +19753,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The incident further confirmed the economic and social bases of contemporary Chinese nationalism and the differing responses of the Chinese leadership to international economic forces and the social changes in China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T133455Z">
-        <seg>El incidente además confirmó las bases económicas y sociales del nacionalismo contemporáneo chino y las diferentes respuestas de los líderes de China a las fuerzas económicas internacionales y los cambios sociales en China .</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T143604Z">
+        <seg>El incidente además confirmó las bases económicas y sociales del nacionalismo contemporáneo chino y las diferentes respuestas de los líderes de China a las fuerzas económicas internacionales y los cambios sociales en China.</seg>
       </tuv>
     </tu>
     <tu>
