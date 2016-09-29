@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21194,8 +21194,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The surprise elevation of Liu and Zhang certainly underscored a renewed professionalism in the PLA (Liu is one of the leading modernizers in the PLA – particularly of the navy, which he led for many years&lt;s3/&gt;–&lt;s4/&gt;and Zhang was commandant of the National Defense University before his promotion), but their promotion also highlighted the inability to turn the leadership of the military over to a younger generation, even as the age of the civilian leaders of the country continued to fall.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T161456Z" creationid="constanza" creationdate="20160929T161456Z">
-        <seg>La sorpresiva promoción de Liu y Zhang sin lugar a dudas remarcó un profesionalismo renovado en el EPL (Liu es uno de los principales modernizadores en el EPL, particularmente en la marina que dirigió por muchos años,&lt;s3/&gt;y Zhang fue comandante de la Universidad de Defensa Nacional antes de ser promovido). Pero su promoción también resaltó la incapacidad para entregar el liderazgo de las fuerzas armadas a una generación más joven, aún cuando la edad de los líderes civiles era cada vez menor.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T165934Z" creationid="constanza" creationdate="20160929T161456Z">
+        <seg>La sorpresiva promoción de Liu y Zhang sin lugar a dudas remarcó un profesionalismo renovado en el EPL (Liu es uno de los principales modernizadores en el EPL, particularmente en la marina que dirigió por muchos años&lt;s3/&gt;,&lt;s4/&gt;y Zhang fue comandante de la Universidad de Defensa Nacional antes de ser promovido). Pero su promoción también resaltó la incapacidad para entregar el liderazgo de las fuerzas armadas a una generación más joven, aún cuando la edad de los líderes civiles era cada vez menor.</seg>
       </tuv>
     </tu>
     <tu>
