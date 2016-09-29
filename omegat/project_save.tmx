@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2995,8 +2995,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Accompanied by Yang &lt;t0/&gt;Shangkun&lt;t1/&gt; and other officials, Deng spent the next several days touring Shenzhen and then the Zhuhai SEZ, talking about the importance of reform and blasting his opponents as he went.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223627Z">
-        <seg>Acompañado por Yang  &lt;t0/&gt;Shangkun&lt;t1/&gt; y otros funcionarios, Deng pasó los días siguientes paseando por Shenzhen y la SEZ de Zhuhai, mientras criticaba a sus opositores al hablar de la importancia de la reforma.</seg>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160929T143822Z">
+        <seg>Acompañado por Yang  &lt;t0/&gt;Shangkun&lt;t1/&gt; y otros funcionarios, Deng pasó los días siguientes paseando por Shenzhen y la ZEE de Zhuhai, mientras criticaba a sus opositores al hablar de la importancia de la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11196,8 +11196,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In order to defend his vision of reform against his critics’ arguments, Deng reiterated the theoretically unsophisticated but ultimately effective argument that he had put forth in Shanghai the previous year: planning and markets, far from being distinguishing characteristics of socialism and capitalism, were simply economic “methods” possessed by both types of systems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223813Z">
-        <seg>Con el motivo de defender su postura de reforma contra los argumentos de sus detractores, Deng repitió el argumento teórico poco sofisticado pero efectivo que había presentado en Shanghai el año anterior: el planeamiento y los mercados, lejos de ser características distintivas del socialismo y capitalismo, eran simplemente “métodos” económicos que tenían los dos tipos de sistemas.</seg>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160929T144007Z">
+        <seg>Con motivo de defender su postura de reforma contra los argumentos de sus detractores, Deng repitió el argumento teórico poco sofisticado pero efectivo que había presentado en Shanghai el año anterior: el planeamiento y los mercados, lejos de ser características distintivas del socialismo y capitalismo, eran simplemente “métodos” económicos que tenían los dos tipos de sistemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11532,8 +11532,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the baldest statement of that thesis since Zhao &lt;t0/&gt;Ziyang&lt;t1/&gt; had championed it on the front page of the People’s Daily four years before, Deng declared that socialism could be defined in terms of three “advantages”: whether or not something was “advantageous to the development of socialist productive forces, advantageous to increasing the comprehensive strength of a socialist nation, and advantageous to raising the people’s standard of living.”57</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224616Z">
-        <seg>Mediante una simple declaración, Deng declaró que el socialismo podría definirse desde el punto de vista de tres “beneficios”: si algo es “beneficioso para el desarrollo de las fuerzas productivas socialistas, beneficioso para el aumento de la amplia fuerza de una nación socialista y beneficioso para la mejora de la calidad de vida de las personas”.</seg>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160929T144402Z">
+        <seg>Mediante una simple declaración, Deng declaró que el socialismo podría definirse desde el punto de vista de tres “beneficios”: si algo es “beneficioso para el desarrollo de las fuerzas de producción socialistas, beneficioso para el aumento de la amplia fuerza de una nación socialista y beneficioso para la mejora de la calidad de vida de las personas”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14524,8 +14524,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, Deng hit back directly at the numerous derogatory criticisms of the so-called “criterion of productive forces” made over the previous two years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T224239Z">
-        <seg>Además, Deng respondió a las variadas críticas derogatorias sobre el llamado “criterio de fuerzas productivas” realizadas durante los dos años previos.</seg>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160929T144333Z">
+        <seg>Además, Deng respondió a las variadas críticas derogatorias sobre el llamado “criterio de fuerzas de producción” realizadas durante los dos años previos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15645,8 +15645,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On January 19, almost eight years to the day since Deng’s first visit to Shenzhen inaugurated a new push in opening China to the outside world, Deng once again set foot in the SEZ.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223523Z">
-        <seg>El 19 de enero, a casi ocho años de que la primera visita de Deng a Shenzhen inagurara un nuevo intento hacia la apertura de China al mundo, Deng visitó nuevamente la SEZ.</seg>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160929T143806Z">
+        <seg>El 19 de enero, a casi ocho años de que la primera visita de Deng a Shenzhen inagurara un nuevo intento hacia la apertura de China al mundo, Deng visitó nuevamente la ZEE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16373,8 +16373,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Perhaps the most critical point in his talks was his contention that, without the ten years of reform and opening up, the CCP would not have survived an upheaval such as the Party had faced in spring 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223723Z">
-        <seg>Quizás el fundamento más crítico de sus charlas era su opinión mediante la cual establecía que, sin los diez años de reforma y apertura, el CCP no habría sobrevivido los disturbios como los que el Partido había enfrentado durante la primavera de 1989.</seg>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160929T143847Z">
+        <seg>Quizás el fundamento más crítico de sus charlas era su opinión mediante la cual establecía que, sin los diez años de reforma y apertura, el PCCh no habría sobrevivido los disturbios como los que el Partido había enfrentado durante la primavera de 1989.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21724,8 +21724,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This judgment was Deng’s response to his opponents’ contention that reform had led to the Tiananmen incident and would lead to the downfall of the CCP, just as it had to that of the CPSU and the various communist parties of Eastern Europe.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T223755Z">
-        <seg>Este argumento era la respuesta de Deng hacia la postura de sus opositores, que establecía que la reforma había llevado a la revuelta de Tiananmen y que habría causado la caída del CCP, así como a la del CPSU y los otros partidos comunistas de Europa Oriental.</seg>
+      <tuv lang="ES-US" changeid="Abril" changedate="20160929T143920Z">
+        <seg>Este argumento era la respuesta de Deng hacia la postura de sus opositores, que establecía que la reforma había llevado a la revuelta de Tiananmen y que habría causado la caída del PCCh, así como a la del PCUS y los otros partidos comunistas de Europa Oriental.</seg>
       </tuv>
     </tu>
     <tu>
