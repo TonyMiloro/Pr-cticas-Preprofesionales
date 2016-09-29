@@ -905,8 +905,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Lu was particularly concerned that economic growth in and of itself would not change the social structure.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T031100Z" creationid="user" creationdate="20160929T031100Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;La principal preocupación de Lu era que el crecimiento económico por sí mismo no cambiaría la estructura social.Lu was particularly concerned that economic growth in and of itself would not change the social structure.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T033627Z" creationid="user" creationdate="20160929T031100Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La principal preocupación de Lu era que el crecimiento económico por sí mismo no cambiaría la estructura social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2720,6 +2720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A major obstacle was the household registration system.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T033750Z" creationid="user" creationdate="20160929T033750Z">
+        <seg>El principal obstáculo era el sistema de registro Hukou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A major purpose of these articles was to warn against rightist tendencies.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160929T024345Z">
@@ -3398,6 +3406,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T193538Z" creationid="Daniel-Andrea" creationdate="20160928T191841Z">
         <seg>A pesar de no figurar ningún nombre en el documento, se presume que fue escrito por un investigador de CASS y respaldada por el ideólogo conservador Deng Liqn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although restrictions on movement have been loosened considerably in recent years, it was still difficult for peasants to move into cities and become integrated into urban society.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T033851Z" creationid="user" creationdate="20160929T033851Z">
+        <seg>A pesar de que las limitaciones de movimiento notablemente se han disminuido notablemente en los últimos años Although restrictions on movement have been loosened considerably in recent years, it was still difficult for peasants to move into cities and become integrated into urban society.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20661,6 +20677,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160914T011022Z">
         <seg>Habían peleas acerca de que el traidor real no era Zhu Rongji pero Jiang Zemin.&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were too many obstacles left over from the planned economy that continued to hinder social mobility.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T033713Z" creationid="user" creationdate="20160929T033713Z">
+        <seg>Demasiados obstáculos quedaron de la economía planificada que continuaron dificultando la movilidad social.</seg>
       </tuv>
     </tu>
     <tu>
