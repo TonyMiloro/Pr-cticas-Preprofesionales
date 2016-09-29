@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5871,6 +5871,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160929T034638Z">
         <seg>Sin embargo, las succesiones dentro de los sistemas leninistas nunca son fáciles, y como veremos, la sucesión de Jiang Zeming a Hu Jintao, aunque fue mejor que las otras, no estuvo libre de tensiones; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But such transformations are delicate at best.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223938Z" creationid="mannu" creationdate="20160929T223938Z">
+        <seg>Pero tales cambios, en el mejor de los casos, son delicados. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22185,6 +22193,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transformation to a more authoritarian and less Leninist political system was underway.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223850Z" creationid="mannu" creationdate="20160929T223850Z">
+        <seg>El cambio a un sistema político más autoritario y menos Leninista estaba empezando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The trends in the first years of the new century are no more encouraging.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160830T200930Z">
@@ -24127,6 +24143,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Bangho" changedate="20160909T200004Z">
         <seg>De este modo, había tres temas importantes que se debían resolver en el XVII Congreso del Partido. En primer lugar, ¿podría la generación posrevolucionaria resolver los problemas de sucesión de liderazgo en ausencia de los grandes revolucionarios del pasado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, whether ousting political threats like Chen &lt;t1/&gt;Xitong&lt;t2/&gt; and &lt;t3/&gt;Qiao&lt;t4/&gt; Shi, diminishing the political clout of the PLA, or laying out a program for reform, Jiang sought to base his legitimacy in institutional procedure.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223817Z" creationid="mannu" creationdate="20160929T223817Z">
+        <seg>Es por esto que en el caso de eliminar las amenazas políticas como las de Chen Xitong &lt;t1/&gt;y las de Qiao Shi, &lt;t2/&gt; disminuir la influencia  &lt;t3/&gt;política del EPL, &lt;t4/&gt; o elaborar un programa de reforma, Jiang intentó basar su legitimidad en procedimientos institucionales. </seg>
       </tuv>
     </tu>
     <tu>
