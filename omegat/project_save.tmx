@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11797,8 +11797,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Index 325</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T162655Z">
-        <seg>Índice</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T020050Z">
+        <seg>Índice 325</seg>
       </tuv>
     </tu>
     <tu>
@@ -17690,8 +17690,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Summer Huntington’s article, “Clash of Civilizations?”published</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T163456Z">
-        <seg>Verano Publicación del artículo “¿Choque de civilizaciones?”, escrito por Huntington</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T020510Z">
+        <seg>Verano Publicación del artículo “¿Choque de civilizaciones?", escrito por Huntington</seg>
       </tuv>
     </tu>
     <tu>
@@ -24867,6 +24867,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T003424Z">
         <seg>de hacer negocios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>xi</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T020359Z" creationid="PC" creationdate="20160929T020359Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
