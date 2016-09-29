@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14219,8 +14219,8 @@ Putting Zhao on trial, as Deng had the Gang of Four, would have had profound imp
       <tuv lang="EN-US">
         <seg>Li declared that bourgeois liberalization “spread rampantly” after Zhao became general secretary; Zhao, the premier charged, “accommodated, encouraged, and supported bourgeois liberalization.” Specifically, he alleged that, at a Secretariat meeting in January 1987, Zhao had declared that of the four cardinal principles they should emphasize only Party leadership and not mention the other three – the socialist road, Marxism–Leninism– MaoZedong Thought, and the people’s democratic dictatorship.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T001551Z">
-        <seg>Li manifestó que la liberalización burgueza "se propagó de manera descontrolada" luego de que Zhao se convirtió en secretario general; Zhao, el primer ministro a cargo "aceptó, promovió y apoyó la liberalización burgueza". Especificamente, él afirmó que, en una reunión del secretariado en enero de 1987, Zhao había anunciado que de los cuatro principios cardinales ellos deberían hacer hincapié solo en el liderazgo del partido y no mencionar los otros tres (la vía socialista, el pensamiento Marxista-Leninista- Mao Zedong y la dictadura democrática popular).</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T190132Z">
+        <seg>Li manifestó que la liberalización burgueza "se propagó de manera descontrolada" luego de que Zhao se convirtió en Secretario General; Zhao, el primer ministro a cargo "aceptó, promovió y apoyó la liberalización burgueza". Especificamente, él afirmó que, en una reunión del Secretariado en enero de 1987, Zhao había anunciado que de los cuatro principios cardinales ellos deberían hacer hincapié solo en el liderazgo del partido y no mencionar los otros tres (la vía socialista, el pensamiento Marxista-Leninista- Mao Zedong y la dictadura democrática popular).</seg>
       </tuv>
     </tu>
     <tu>
