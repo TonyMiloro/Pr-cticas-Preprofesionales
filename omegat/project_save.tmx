@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6885,8 +6885,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Cultural arguments, Wang said, often reflected politi-cal interests and sometimes expanded into armed conflict (as in Bosnia– Herzegovina).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T223652Z">
-        <seg>Wang expresó que los argumentos culturales frecuentemente reflejaron intereses políticos y a veces se convirtieron en conflictos armados (como en Bosnia-Herzegovina).</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T133301Z">
+        <seg>Wang expresó que los argumentos culturales con frecuencia reflejaron intereses políticos y a veces se convirtieron en conflictos armados (como en Bosnia-Herzegovina).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14492,8 +14492,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, cultural influence was directly related to political and economic strength, so developed countries were often comfortable talking in terms of an “erosion of sovereignty” while developing countries found that such “cultural expansionism” often ended up threatening polit-ical stability and national sovereignty.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T223628Z">
-        <seg>Además, la influencia cultural estaba directamente relacionada con la fuerza política y económica, por lo tanto los países desarrollados se encontraban cómodos al hablar desde el punto de vista de una "erosión de la soberanía" mientras que los países en desarrollo descubrieron que ese "expansionismo cultural" muchas veces terminaba amenazando la estabilidad política y la soberanía nacional.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T133444Z">
+        <seg>Además, la influencia cultural estaba directamente relacionada con la fuerza política y económica, por lo tanto los países desarrollados se encontraban cómodos al hablar desde el punto de vista de una "erosión de la soberanía". Sin embargo, los países en desarrollo descubrieron que ese "expansionismo cultural" muchas veces terminaba amenazando la estabilidad política y la soberanía nacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14892,8 +14892,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, as we have suggested, many of these dis-cussions contained a populist element – whether it was Wang Xiaodong’s excoriation of the cultural elite who authored and directed&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;River Elegy&lt;/f2&gt;&lt;f3&gt;, He Xin’s efforts to rally support for a beleaguered government, or the economic democracy touted by Cui Zhiyuan and many others.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160923T131247Z">
-        <seg>Sin embargo, como hemos sugerido, muchas de estas discusiones contenían un elemento populista, ya sea la crítica de Wang Xiaodong hacia la élite cultural que escribió y dirigió&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt; River elegy&lt;/f2&gt;&lt;f3&gt;, los esfuerzos de He Xin en reunir apoyo para un gobierno muy criticado o la democracia económica solicitada por Cui Zhiyuan y muchos otros.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T133144Z">
+        <seg>Sin embargo, como hemos sugerido, muchas de estas discusiones contenían un elemento populista, ya sea la crítica de Wang Xiaodong hacia la élite cultural que escribió y dirigió&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt; River elegy&lt;/f2&gt;&lt;f3&gt; (Elegía del río), los esfuerzos de He Xin en reunir apoyo para un gobierno muy criticado o la democracia económica solicitada por Cui Zhiyuan y muchos otros.</seg>
       </tuv>
     </tu>
     <tu>
