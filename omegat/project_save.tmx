@@ -879,6 +879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Li’s results were confirmed by other surveys.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T010159Z" creationid="Agustín" creationdate="20160929T010159Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Los resultados Li’s results were confirmed by other surveys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Most surprising of all was the call from Beijing mayor Chen Xitong to “emancipate the mind.” One of the most conservative of China’s high officials and a hardliner who had actively encouraged the use of force in suppressing the 1989 protest movement, Chen was nevertheless a close follower of Deng and responded to his call.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160927T024913Z">
