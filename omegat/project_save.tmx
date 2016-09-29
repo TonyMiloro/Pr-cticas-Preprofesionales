@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4380,8 +4380,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Zhao put it, “Actually, the attitudes of these persons mattered little, as Deng might have imposed military control even if all five had disapproved.”20[3] A meeting of the Politburo Standing Committee later that evening formally endorsed Deng’s view.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T132122Z">
-        <seg>Según Zhao, "En realidad, las actitudes de estas personas importaban poco, porque Deng podría haber impuesto control militar incluso si los cinco se oponían".20[3]  Una reunión del Comité Permanente del Politburó esa tarde respaldó formalmente las intenciones de Deng.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T194532Z">
+        <seg>Según Zhao, "En realidad, las actitudes de estas personas importaban poco, porque Deng podría haber impuesto control militar incluso si los cinco se oponían".20 Una reunión del Comité Permanente del Politburó esa tarde respaldó formalmente las intenciones de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13329,8 +13329,8 @@ It is not fire proof.</seg>
         <seg>It was on the morning of the 19th when a tearful Zhao Ziyang appeared in Tiananmen Square, telling students that he had “come too late.” Indeed he had; he no longer functioned as general secretary.21[4]
 According to Party custom, Zhao was expected to support the “majority” opinion, but  Zhao embarrassed and angered the Party leadership by failing to attend the public meeting called to announce the implementation of martial law in Beijing on the evening of May 19.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T213613Z">
-        <seg>Fue en la mañana del 19 cuando un  llororso Zhao Ziyang apareció en la palaza de Tiananmen y le dijo a los estudiantes que "había llegado muy tarde". Ciertamente así fue; no era más secretario general.21[4]
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T194827Z">
+        <seg>Fue en la mañana del 19 cuando un llororso Zhao Ziyang apareció en la palaza de Tiananmén y le dijo a los estudiantes que "había llegado muy tarde". Ciertamente así fue; no era más secretario general.21[4]
 Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la "mayoría", pero Zhao avergonzó e hizo enojar a los líderes del Partido al no asistir a la reunión pública convocada para anunciar la implementación de la ley marcial en Pekín en la tarde del 19 de mayo.</seg>
       </tuv>
     </tu>
