@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3070,6 +3070,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160927T031531Z" creationid="Rocio" creationdate="20160927T031109Z">
         <seg>En consecuencia, los gobiernos locales se concentraron cada vez más en expandir sus recursos fiscales, y en el sistema de responsabilidad por contrato fiscal, bajo el cual los gobiernos prometían remitir objetivos de ingresos específicos y retener cualquier exceso, cuando tuvieran los recursos para perseguir esos intereses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acknowledging that China's core problem was the loss of identity,&lt;t1/&gt;76&lt;t2/&gt; Li argued that there were many values &lt;t3/&gt;in China's traditional culture that remained important for re-establishing &lt;t4/&gt;a moral order, values that were not only compatible with globalization but &lt;t5/&gt;could also contribute to global civilization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183906Z" creationid="joaquin" creationdate="20160929T183906Z">
+        <seg> Al reconocer que el problema principal de China fue la pérdida de identidad, 76 Li argumentó que había varios valores de la cultura tradicional de China que siguieron siendo importantes para reestablecer el orden moral, valores que no solo eran compatibles con la globalización sino que, además, podrían contribuir a la civilización global.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8447,6 +8455,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, Li made clear that political reform was part of cultural modern- &lt;t0/&gt;ization and China's joining the world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T184001Z" creationid="joaquin" creationdate="20160929T184001Z">
+        <seg>Finalmente, Li dejó en claro que la reforma política fue parte de la modernización cultural y la adhesión de China al mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, all three approaches share a populist orientation, although the neostatist is characterized by a concern for state building that popular nationalists like Wang Xiaodong do not display.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160918T220820Z">
@@ -9845,6 +9861,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T030747Z">
         <seg>Aunque estas discusiones hayan sido superficiales, es claro que se consideraban &lt;s13/&gt;parte de la tradición de la ilustración del Cuatro de Mayo, ya que contribuían con un cosmopolitismo que apoyaba la relación política que se estaba forjando entre &lt;/f10&gt;&lt;f14&gt;el Occidente así como también con los reformistas dentro del partido.&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, &lt;t5/&gt;Li's essay interpreted Jiang's report as going further than Jiang apparently intended.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T184108Z" creationid="joaquin" creationdate="20160929T184108Z">
+        <seg>Sin embargo, en el ensayo de Li se interpretó al informe como uno que iba más allá de lo que Jiang había aparentemente intentado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11298,6 +11322,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In early 1998, as China entered one &lt;t1/&gt;of its periods of political relaxation, Li published a short essay arguing that &lt;t2/&gt;the time had come for political reform to catch up to economic reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T184034Z" creationid="joaquin" creationdate="20160929T184034Z">
+        <seg>En los comienzos de 1998, mientras que China ingresaba a unos de sus períodos de relajación política, Li publicó un ensayo corto que argumentaba que había llegado el momento de que la reforma política alcanzara la reforma económica. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In either case, the realm of public opinion &lt;t3/&gt;can no longer be ignored&lt;t4/&gt;.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160928T144330Z">
@@ -11510,6 +11542,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T155341Z">
         <seg>De muchas maneras, estas tendencias simplemente reflejan el crecimiento y la internacionalización de la sociedad y economía china, pero también marcan una gran diferencia entre China en la década de los 80 y al entrar en el siglo XXI .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In meeting the challenge of globalization, Li evinced greater confidence &lt;t0/&gt;than many of his younger colleagues.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183854Z" creationid="joaquin" creationdate="20160929T183854Z">
+        <seg>Al enfrentar el desafió de la globalización, Li mostró una confianza mayor que la de gran parte de sus colegas más jóvenes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14161,6 +14201,14 @@ Putting Zhao on trial, as Deng had the Gang of Four, would have had profound imp
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Li argued that whereas Party documents normally called for "rule by law" (&lt;t6/&gt;fazhi&lt;t7/&gt;), the Fifteenth Party Congress had introduced the term "rule &lt;t8/&gt;of law."&lt;t9/&gt;80&lt;t10/&gt; Li, no doubt with the hope of pushing the Party further in this &lt;t11/&gt;direction, praised this breakthrough.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T184132Z" creationid="joaquin" creationdate="20160929T184132Z">
+        <seg>Li argumentó que mientras que los documentos del Partido generalmente exigían “las reglas de la ley” (fazhi), el XV Congreso Nacional del Partido Comunista de China había introducido el término “regla de la ley”. 80 Li, sin lugar a dudas, con la esperanza de llevar al Partido un poco más allá en esta dirección, elogió el descubrimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Li declared that bourgeois liberalization “spread rampantly” after Zhao became general secretary; Zhao, the premier charged, “accommodated, encouraged, and supported bourgeois liberalization.” Specifically, he alleged that, at a Secretariat meeting in January 1987, Zhao had declared that of the four cardinal principles they should emphasize only Party leadership and not mention the other three – the socialist road, Marxism–Leninism– MaoZedong Thought, and the people’s democratic dictatorship.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T001551Z">
@@ -14190,6 +14238,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160928T102602Z" creationid="joaquin" creationdate="20160928T102602Z">
         <seg>Li era un intelectual progresista del Cuatro de Mayo recalcitrante y apologético.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li's essay was pegged to the just-completed Fifteenth Party Congress, the &lt;t0/&gt;most liberal in Party history, which had endorsed the "continued promo- &lt;t1/&gt;tion of political reform." Jiang's report to the Party Congress had called for &lt;t2/&gt;a "country with rule of law" (&lt;t3/&gt;fazhi guojia&lt;t4/&gt;), as Jiang was trying to promote his campaign to strengthen the legal institutions of the country.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T184053Z" creationid="joaquin" creationdate="20160929T184053Z">
+        <seg>El ensayo de Li estuvo marcado por el recién completado XV Congreso Nacional del Partido Comunista de China, el partido más liberal de la historia, que había apoyado el “promover continuamente la reforma política”. El informe de Jiang al Congreso del Partido había exigido un “país sin las reglas de la ley” (fazhi guojia), debido a que Jiang intentaba promover su campaña para fortalecer a las instituciones legales del país.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15342,6 +15398,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T233611Z">
         <seg>El nacionalismo fue otra fuerza que impulsó cambios en la manera de ver el mundo de los intelectuales y formadores de políticas chinos en el período pos&lt;t0/&gt;tianan&lt;t1/&gt;men.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nationalism, he argued, was stimulated in China by the pressure of the foreign powers; once China has gained a position of equality with other countries in the world, Chi- nese culture would, Li predicted, return to its roots in culturalism and cosmopolitanism (&lt;t6/&gt;tianxia zhuyi&lt;t7/&gt;) - which in the present world would be &lt;t8/&gt;globalism.&lt;t9/&gt;77&lt;t10/&gt; Summing up, he stated: "The modernization of China's cul- &lt;t11/&gt;ture must take tradition as its foundation and globalization as its goal."&lt;t12/&gt;78 &lt;t13/&gt;There was, no doubt, a genuine &lt;t14/&gt;idealism in Li's vision of the future,&lt;t15/&gt;79&lt;t16/&gt; one that clashed not only with the cynical view of global capitalism and cultural &lt;t17/&gt;imperialism held by young critics but also with the hard realism of many &lt;t18/&gt;in the foreign policy establishment.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183945Z" creationid="joaquin" creationdate="20160929T183945Z">
+        <seg>El nacionalismo, según argumentó, se estimuló en China debido a la presión de los poderes extranjeros; una vez que China obtuvo una posición de igualdad con otros países del mundo, la cultura china podría, según predijo Li, recobrar sus raíces en el culturalismo y el cosmopolitismo (tianxia zhuyi), lo que en el mundo actual sería globalismo. 77 En resumen, dijo: “La modernización de la cultura de China debe tomar la tradición como su base y la globalización como su objetivo”. 78 Había, sin lugar a dudas, un idealismo genuino en la visión del futuro de Li, 79, un idealismo que chocaba no solo con la cínica opinión del capitalismo global y con el imperialismo cultural sostenido por críticos jóvenes sino con el duro realismo de muchos en el establecimiento de políticas extranjeras.</seg>
       </tuv>
     </tu>
     <tu>
