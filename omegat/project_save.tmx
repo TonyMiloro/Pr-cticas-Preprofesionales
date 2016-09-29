@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17142,8 +17142,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Since the revival of the National People’s Congress (NPC) in the late 1970s, the process of law-making has become more institution-alized and rationalized – though there is still a long way to go.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145415Z">
-        <seg>Desde el resurgimiento de la ANP a finales de los 80, el proceso legislativo se ha institucionalizado y racionalizo más, aunque todavía hay mucho camino por recorrer6. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T025450Z">
+        <seg>Desde el resurgimiento de la Asamblea Popular Nacional (ANP) a finales de los 80, el proceso legislativo se ha institucionalizado y racionalizo más, aunque todavía hay mucho camino por recorrer6. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20827,8 +20827,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They have also fostered the growth of law.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T025317Z">
-        <seg>También han promovieron el desarrollo  de la ley.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T025332Z">
+        <seg>También, han promovieron el desarrollo de la ley.</seg>
       </tuv>
     </tu>
     <tu>
