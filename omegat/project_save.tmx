@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13568,8 +13568,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It read: “While carrying out reform and opening up to the outside world, we must ask ourselves whether we are practicing socialism or capitalism, and we must uphold the socialist orientation.” Seven hours after this version of the editorial was transmitted, Xinhua released a new version in which the first sentence was changed dramatically to read, “While carrying out reform and opening up to the outside world, we must firmly adhere to the socialist course and uphold the dominant role of public ownership.”44 The critical question of whether a reform was “socialist” or “capitalist” had been cut.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T235715Z" creationid="Luisina" creationdate="20160929T235639Z">
-        <seg>Esta leía: "Mientras llevamos a cabo la reforma y nos abrimos al mundo exterior, debemos preguntarnos si estamos practicando el socialismo o el capitalismo,</seg>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T235836Z" creationid="Luisina" creationdate="20160929T235639Z">
+        <seg>Esta leía: "Mientras llevamos a cabo la reforma y nos abrimos al mundo exterior, debemos preguntarnos si estamos practicando el socialismo o el capitalismo, y debemos mantener una oientación socialista". Siete horas después de que se transmitiera esta versión del editorial</seg>
       </tuv>
     </tu>
     <tu>
