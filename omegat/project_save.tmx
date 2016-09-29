@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24462,8 +24462,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Whether it was discussions of “alienation” in socialism,&lt;/f0&gt;&lt;f1&gt;28 &lt;/f1&gt;&lt;f2&gt;efforts to bring an end to “life-long tenure” and create a rational civil service,&lt;/f2&gt;&lt;f3&gt;29 &lt;/f3&gt;&lt;f4&gt;policy proposals to marketize the Chinese economy,&lt;/f4&gt;&lt;f5&gt;30 &lt;/f5&gt;&lt;f6&gt;translations of Western thinkers,&lt;/f6&gt;&lt;f7&gt;31 &lt;/f7&gt;&lt;f8&gt;nascent writings about human rights and democracy,&lt;/f8&gt;&lt;f9&gt;32 &lt;/f9&gt;&lt;f10&gt;or &lt;s11/&gt;“reconceptualizations” of capitalism and socialism to emphasize their similarities, the task was to expunge “leftism” from Chinese social, economic, and political life.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160929T180730Z">
-        <seg>Ya fuesen debates sobre la "alienación" en el socialismo;&lt;/f0&gt;&lt;f1&gt;28 &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;esfuerzos para terminar con los "mandatos de por vida" y crear un servicio civil racional29 &lt;/f2&gt;&lt;f3&gt;; &lt;/f3&gt;&lt;f4&gt;propuestas políticas para marquetizar la economía china; &lt;/f4&gt;&lt;f5&gt;30 &lt;/f5&gt;&lt;f6&gt; traducciones de pensadores Occidentales;&lt;/f6&gt;&lt;f7&gt;31 &lt;/f7&gt;&lt;f8&gt;escritos nuevos sobre los derechos humanos y la democracia;&lt;/f8&gt;&lt;f9&gt;32 &lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;"nuevas concepciones" del capitalismo y el socialismo con el fin de enfatizar sus similitudes, la tarea era eliminar el "izquierdismo" de la vida social, económica y política en China.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T180952Z">
+        <seg>Ya fuesen debates sobre la "alienación" en el socialismo;&lt;/f0&gt;&lt;f1&gt;28 &lt;/f1&gt;&lt;f2&gt;esfuerzos para terminar con los "mandatos de por vida" y crear un servicio civil racional29 &lt;/f2&gt;&lt;f3&gt;; &lt;/f3&gt;&lt;f4&gt;propuestas políticas para marquetizar la economía china; &lt;/f4&gt;&lt;f5&gt;30 &lt;/f5&gt;&lt;f6&gt; traducciones de pensadores Occidentales;&lt;/f6&gt;&lt;f7&gt;31 &lt;/f7&gt;&lt;f8&gt;escritos nuevos sobre los derechos humanos y la democracia;&lt;/f8&gt;&lt;f9&gt;32 &lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;"nuevas concepciones" del capitalismo y el socialismo con el fin de enfatizar sus similitudes, la tarea era eliminar el "izquierdismo" de la vida social, económica y política en China.</seg>
       </tuv>
     </tu>
     <tu>
