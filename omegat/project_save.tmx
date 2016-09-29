@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3284,8 +3284,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although Cui would deny any nationalist intent, his critiques of Western neoliberalism and his evocation of China’s Maoist heritage are very much a part of the 1990s’ turn away from the new enlightenment problematique of the 1980s and an effort to build a China-centered social science in contradistinction to Western traditions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T155253Z" creationid="Martin" creationdate="20160929T155253Z">
-        <seg>Aunque Cui negará cualquier intento nationalista, sus críticas </seg>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T155717Z" creationid="Martin" creationdate="20160929T155253Z">
+        <seg>Aunque Cui negará cualquier intento nacionalista, sus críticas en contra del neoliberalismo occidental y su evocación del patrimonio maoísta de China son sin dudar una parte de la década de los 90 lejos de la nueva problemática de la iluminación de la década de los 80  y un esfuerzo por construir una ciencia social centrada en China en contraste con las tradiciones del Occidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4462,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T204447Z" creationid="marcelo lavarda" creationdate="20160928T201808Z">
         <seg>Como dijo, el partido ha declarado repetidas&lt;t94/&gt;veces que los empresarios privados, por ser capitalistas involucrados en la explotación, no tienen permititdo ingresar al partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As intellec-tuals have come to know the United States better, they have acquired the knowledge and &lt;t1/&gt;the boldness to become more critical.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T160209Z" creationid="Martin" creationdate="20160929T160209Z">
+        <seg>Debido a que los intelectuales han llegado a conocer mejor a Estados Unidos, han adquirido el conocimiento y la audacia para ser más críticos.</seg>
       </tuv>
     </tu>
     <tu>
