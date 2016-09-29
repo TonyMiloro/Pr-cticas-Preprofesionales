@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6779,6 +6779,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Columbus' landing in the Americas), one that was brought about by global &lt;t0/&gt;capitalism - as symbolized not only by the collapse of socialism in East- ern Europe and the breakup of the Soviet Union but also by the CCP's acknowledgment, at the Fourteenth Party Congress in 1992, of the need to continue reform in the direction of further marketization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T182758Z" creationid="joaquin" creationdate="20160929T182758Z">
+        <seg>en el descubrimiento de Colón al pisar América) ), que se ocasionó por el capitalismo global; simbolizado no solo por el colapso del socialismo en Europa del Este y por la caída de la Unión Soviética sino también por el reconocimiento del PCCh en el XIV Congreso Nacional del Partido Comunista de China en 1991, reconocimiento de la necesidad de continuar con la reforma en la dirección una mercantilización más profunda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coming into his own as a political leader, Jiang &lt;t0/&gt;Zemin&lt;t1/&gt; recognized the importance of improving relations with the United States for both domestic reform and his own legitimacy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013719Z">
@@ -10693,6 +10701,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T121625Z">
         <seg>En mayo, la Agencia de Noticias Xinhua informó que al menos 120 oficiales habían sido despedidos por negligencia. Como muchos han notado, también existía un elemento político.&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;t7/&gt;contrast to the New Left views already described, Li took a positive view &lt;t8/&gt;of recent trends.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T182627Z" creationid="joaquin" creationdate="20160929T182627Z">
+        <seg>A diferencia de la opinión de la nueva izquierda ya descripta, Li adoptó un punto de vista positivo con respecto a tendencias recientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15582,6 +15598,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160928T220206Z">
         <seg>No solo existe un diálogo más obvio entre el estado y la sociedad, sino que el alcance de ese diálogo se ha ampliado de manera significativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not unlike Wang Hui, Li took 1989-92 as marking a &lt;t9/&gt;watershed in the acceleration of globalization (a process he traces back to</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T182658Z" creationid="joaquin" creationdate="20160929T182658Z">
+        <seg>Tal como Wang Hui, Li tomó 1989-1992 como un punto de inflexión en la aceleración de la globalización (un proceso que según él tiene su origen </seg>
       </tuv>
     </tu>
     <tu>
@@ -22590,6 +22614,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160922T211457Z">
         <seg>&lt;t0/&gt;Sin embargo, este gran apoyo no significaba que no existieran tensiones. Tal como se menciona anteriormente, la sombra de Jiang se extendía a lo largo del escenario político como se refleja en las fotografías del político en el People’s Daily: las imágenes de Jiang tenían por lo general un lugar central y se cortaban del mismo tamaño que las imágenes de Hu Jintao cuando aparecían ambos líderes. &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt; &lt;t43/&gt;&lt;t44/&gt; &lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt;&lt;t48/&gt; &lt;t49/&gt;&lt;t50/&gt; &lt;t51/&gt; &lt;t52/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This suggested a very different &lt;t6/&gt;attitude toward globalization than that held by postmodernist thinkers.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T182543Z" creationid="joaquin" creationdate="20160929T182543Z">
+        <seg>Esto sugirió una actitud diferente hacia la globalización de la que tenían pensadores posmodernistas.</seg>
       </tuv>
     </tu>
     <tu>
