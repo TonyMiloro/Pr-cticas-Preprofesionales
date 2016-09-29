@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4268,8 +4268,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Wang put it, “[o]nly by criticizing and struggling against the ideological trend of bourgeois liberalization will we be able to consolidate and develop the political situation of stability and unity and to promote the smooth development of &lt;t0/&gt;socialist construction.” In effect, Wang reinterpreted Deng’s slogan “stability overrides everything” – a phrase coined to relax ideological tension – as a clarion call for ideological struggle as the 58 “Zhonggong Zhongyang guanyu jinyibu zhili zhengdun he shenhua gaige de jueding (zhaiyao).” 59 Jiang Zemin, “Zai dang de shisanjie wuzhong quanhui shangde jianghua,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T163502Z" creationid="Usuario" creationdate="20160929T163502Z">
-        <seg>Su rechazo a los esfuerzos de Deng de reducir&lt;s1/&gt;las tensiones se basó no sólo en la profunda división dentro del partido pero también en el colapso del socialismo en Europa Oriental.60 El 15 de diciembre, Wang Renzhi, el líder del Departamento de Propaganda,lanzó un ardiente ataque sobre la liberalización burguesa en un discurso para un partido de clases en construciónp.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T170703Z" creationid="Usuario" creationdate="20160929T163502Z">
+        <seg>Cómo Wang dijo, sólo analizando y luchando contra las tendencias ideológicas de la liberalización&lt;s3/&gt; burguesa seremos capaz de consolidar y desarrollar la situación política de estabilidad y unidad y promover el desarrollo parejo de la construcción socialista".  De hecho, Wang reinterpretó el slogan de Deng "La estabilidad se antepone a todo", una frase creada para relajar la tensión ideológica, como una llamada de un clarín por una lucha ideológica como el 58 "Zhonggong Zhongyang guanyu jinyibu zhili zhengdun he shenhua gaige de jueding (zhaiyao) " .59 Jiang Zemin, “Zai dang de shisanjie wuzhong quanhui shangde jianghua,” p.</seg>
       </tuv>
     </tu>
     <tu>
