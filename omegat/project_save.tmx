@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5883,6 +5883,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By using Hu, Jiang was able to appease those in Hu Yaobang’s camp, appeal to conservatives like Song Ping, and freeze out supporters of Zhao.&lt;f6&gt;103&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154433Z" creationid="constanza" creationdate="20160929T154433Z">
+        <seg>El turno de Hu Jintao llegó luego del Tiananmén, cuando Jiang y otros necesitaban miembros del cuadro dirigente que fueran hostiles con Zhao.&lt;f6&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By year-end 2005, the number of SOEs had fallen by two-thirds, to 27,477, and the number of workers employed in SOEs had fallen by 40 percent to</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160929T023919Z">
@@ -9933,6 +9941,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160928T200357Z">
         <seg>Durante su primera aparición como secretario general, Hu Jintao toma la palabra en la celebración del vigésimo aniversario de la Constitución de 1982.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hu Jintao’s turn came following Tiananmen, when Jiang and others needed cadres who were hostile to Zhao.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154356Z" creationid="constanza" creationdate="20160929T154356Z">
+        <seg>El turno de Hu Jintao llegó luego del Tiananmén, cuando Jiang y otros necesitaban miembros del cuadro dirigente que fueran hostiles con Zhao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14258,6 +14274,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many had expected Zhu Rongji or Tian Jiyun to be elevated to the second slot, in line to succeed&lt;s0/&gt;Li Peng&lt;s1/&gt;as premier, at the NPC meeting the following spring.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154642Z" creationid="constanza" creationdate="20160929T154642Z">
+        <seg>Muchos esperaban que Zhu Rongji o Tian Jiyun fueran promovidos al segundo puesto, sucediendo a&lt;s0/&gt;Li Peng&lt;s1/&gt;como primer ministro, en la reunión de la APN de la primavera siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many of the corruption cases that have been exposed in recent years reflect the incestuous relationship that often exists between the economic elite and the political leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="pibe bazooka" changedate="20160914T133212Z">
@@ -14878,6 +14902,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160928T140816Z">
         <seg>Lo más importante fue que atrajo compradores e hizo que el libro fuera un objeto de conversación y especulación durante meses.50 Sin embargo, lo que hizo a Mirando a China desde un tercer ojo poderosamente polémico, fue la conexión de las ansiedades urbanas a una crítica sistemática a las reformas de Deng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most importantly, the changes stopped short of affecting the “Jiang–Li structure” at the top of the system.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154512Z" creationid="constanza" creationdate="20160929T154512Z">
+        <seg>Lo más importante fue que los cambios no llegaron a afectar la “estructura Jian-Li” en lo alto del sistema.</seg>
       </tuv>
     </tu>
     <tu>
