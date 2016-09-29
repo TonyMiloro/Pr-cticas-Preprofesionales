@@ -10987,8 +10987,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition, there was growing resentment in the military establishment at the concentration of authority in the hands of the Yang brothers (who were derided&lt;s2/&gt;for creating a “Yang family army”).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155757Z" creationid="constanza" creationdate="20160929T155757Z">
-        <seg>&lt;s2/&gt;for creating a “Yang family army”).</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155910Z" creationid="constanza" creationdate="20160929T155757Z">
+        <seg>Además, en la institución militar el resentimiento crecía debido a que la autoridad estaba concentrada en las manos de los hermanos Yang (quienes fueron repudiados&lt;s2/&gt;por haber creado un “ejército de la familia Yang”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21886,6 +21886,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T194441Z">
         <seg>Treinta y cinco líderes superiores en la reunión escribieron una carta dura a Deng en la que exigían que se continuara propagando la ideología comunista y que el partido se opusiera con firmeza a la evolución pacífica.&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;No fue sino hasta el 1 de marzo que los comentarios de Deng se difundieron en forma oficial en el seno del Partido a través del Documento Central N.º. 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This antagonism was particularly concentrated among veterans of the New Fourth Army who had fought in east China during the war against Japan.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160018Z" creationid="constanza" creationdate="20160929T160018Z">
+        <seg>Este antagonismo se concentraba particularmente entre los veteranos del Nuevo Cuarto Ejército que habían luchado en el este de China en la guerra contra Japón.</seg>
       </tuv>
     </tu>
     <tu>
