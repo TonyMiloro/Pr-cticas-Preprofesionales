@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13699,8 +13699,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>March 2004 An Investigation of China’s Peasants by Chen Guidi and Chu Tao is banned</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160929T013744Z">
-        <seg>Marzo de 2004 Censuran el trabajo de Chen Guidi y Chu Tao  An Investigation of China's Peasants (Investigación sobre los campesinos de China).</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T014920Z">
+        <seg>Marzo de 2004 Censuran el trabajo An Investigation of China's Peasants (Investigación sobre los campesinos de China) de Chen Guidi y Chu Tao.</seg>
       </tuv>
     </tu>
     <tu>
