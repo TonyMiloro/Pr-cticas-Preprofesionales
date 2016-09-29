@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4644,8 +4644,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As the well-known writer Bai Hua&lt;s0/&gt;put&lt;s1/&gt;it: “It was as though he [Deng] were afraid that once the leftists had been wiped out, the [factional] balance would be upset and another wave of ‘bourgeois liberalization’ would set in.”&lt;f2&gt;104&lt;/f2&gt;&lt;s3/&gt;Bai’s estimate was, no doubt, correct.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155031Z" creationid="constanza" creationdate="20160929T155005Z">
-        <seg>Como lo expresó el conocido escritor Bai Hua:&lt;s0/&gt;&lt;s1/&gt;“Fue como si él [Deng] tuviera miedo de que una vez que los izquierdistas hubieran sido eliminados, el balance [partidista] se alteraría y una nueva ola de ‘liberalización burguesa’ se pondría en marcha”.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155120Z" creationid="constanza" creationdate="20160929T155005Z">
+        <seg>Como lo expresó el conocido escritor Bai&lt;s0/&gt;Hua:&lt;s1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;s3/&gt;“Fue como si él [Deng] tuviera miedo de que una vez que los izquierdistas hubieran sido eliminados, el balance [partidista] se alteraría y una nueva ola de ‘liberalización burguesa’ se pondría en marcha”.</seg>
       </tuv>
     </tu>
     <tu>
