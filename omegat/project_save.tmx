@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3814,6 +3814,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160929T024431Z">
         <seg>Una nota editorial que acompaña al primero de estos ocho artículos declaró que, “[e]n el curso de la apertura al mundo exterior y la reforma estructural de la economía, algunas tendencias del pensamiento social han afectado inevitablemente a las tropas, y el efecto corrosivo sobre los cuadros y tropas de varios tipos de pensamiento corrupto y de la cultura no deben ser subestimados”. Ese primer artículo discutió acerca de trazar una línea entre la “democracia socialista” y la “democracia parlamentaria occidental”, denunciando a esta última, pero no obstante pidiendo nuevos esfuerzos para perfeccionar gradualmente a la primera. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An example of the &lt;t0/&gt;former is Chinese artists whose works have become popular in the West, such as the film director Zhang Yimou, Zheng Nian (Cheng Nien, the author of Life and Death in Shanghai), and Zhang Rong (Chang Jung, author of Wild Swans and, more recently, co-author of The Unknown Story of Mao).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T160447Z" creationid="Martin" creationdate="20160929T160447Z">
+        <seg>Un ejemplo de lo &lt;t0 /&gt;  anteriormentedicho hacen referencia a artistas chinos cuyas obras han llegado a ser popular en Occidente, como el director de cine Zhang Yimou, Zheng Nian (Cheng Nien, el autor de la vida y la muerte en Shanghai), y Zhang Rong (Chang Jung, autor de cisnes salvajes y, más recientemente, co-autor de La historia desconocida de Mao).</seg>
       </tuv>
     </tu>
     <tu>
