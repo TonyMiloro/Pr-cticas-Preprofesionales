@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1259,6 +1259,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160916T224558Z">
         <seg> &lt;f0&gt;A la vez que Jiang recibía presión por parte de la izquierda, también se veía apremiado desde la derecha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;At the same time, an ongoing investigation into corruption in Beijing Municipality apparently resulted in the detention of some sixty cadres in the city, including the secretaries of Party chief Chen Xitong and mayor Li Qiyan.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133550Z" creationid="Daniel-Andrea" creationdate="20160929T133550Z">
+        <seg>&lt;f0&gt;l mismo tiempo, al parecer, una investigación en curso sobre la corrupción en la Municipalidad de Pekín tuvo como consecuencia la detención de unos 60 cuadros en la ciudad, entre los cuales se encontraba el jefe Chen Xitong y el alcalde Li Qiyan, secretarios del partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19511,8 +19519,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The first major casualty was Yan Jian- hong, the wife of former Guizhou provincial Party secretary Liu Zhengwei, who was executed in January for taking advantage of her connections in order to embezzle and misappropriate millions of yuan.&lt;/f5&gt;&lt;f7&gt;16&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131655Z" creationid="Daniel-Andrea" creationdate="20160929T131655Z">
-        <seg>La primera víctima importante fue Yan Jian- hong, esposa de Liu Zhengwei, secretario del Comité Provincial del partido de Guizhou, a quién se ejecutó en el mes de enero por aprovecharse de sus conexiones para malversar y apropiarse de millones de yuanes&lt;/f5&gt;&lt;f7&gt;16.&lt;/f7&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133521Z" creationid="Daniel-Andrea" creationdate="20160929T131655Z">
+        <seg>La primera víctima importante fue Yan Jian- hong, esposa de Liu Zhengwei, secretario del Comité Provincial del partido de Guizhou, a quién se ejecutó en el mes de enero por aprovecharse de sus conexiones para malversar y apropiarse de millones de yuanes&lt;/f5&gt;&lt;f7&gt;16&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
