@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8623,6 +8623,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, just as small-scale enterprise was left to the market in Korea, so the central state would retreat from ownership and management of most industry in China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T192421Z" creationid="Usuario" creationdate="20160929T192421Z">
+        <seg>Por último, así como en Corea las empresas de menor tamaño fueron dejadas al mercado, en China el Estado central renunciaría a la propiedad y administración de la mayor parte de la industria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, one must consider the very changed relationship with theUnited States.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T003957Z">
@@ -15914,6 +15922,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not only would people laid off from state-owned enterprises need to find new jobs, there was still a large number of underemployed people in the rural areas – frequently estimated to be at least 150 million – who needed to switch to non-agricultural employment.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T192615Z" creationid="Usuario" creationdate="20160929T192615Z">
+        <seg>No sólo las personas despedidas de empresas estatales necesitaban encontrar nuevos trabajos, también había una gran cantidad de subempleados en zonas rurales, cuyo número estimado era de al menos 150 millones, que necesitaban cambiarse a trabajo no rural.Not only would people laid off from state-owned enterprises need to find new jobs, there was still a large number of underemployed people in the rural areas – frequently estimated to be at least 150 million – who needed to switch to non-agricultural employment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not unlike Wang Hui, Li took 1989-92 as marking a &lt;t9/&gt;watershed in the acceleration of globalization (a process he traces back to</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160929T182658Z" creationid="joaquin" creationdate="20160929T182658Z">
@@ -17488,6 +17504,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160928T133733Z">
         <seg>Antes del encuentro, Zhao había averiguado las opiniones de sus colegas  y halló que cuatro de ellos - Hu Qili, Qiao Shi, Yang Shangkun y él mismo- se oponían a declarar ley marcial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Private enterprise would be given room to expand; indeed, the government hoped it would expand rapidly because the pressure of unemployment was perhaps the most serious problem China faced.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T192539Z" creationid="Usuario" creationdate="20160929T192539Z">
+        <seg>La actividad privada tendría la posibilidad de expandirse; de hecho, el gobierno esperaba que la expansión fuera rápida ya que la presión del desempleo era quizás el problema más serio que  enfrentaba China. </seg>
       </tuv>
     </tu>
     <tu>
