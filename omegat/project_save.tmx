@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10897,6 +10897,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a reference to Deng’s removal of ﬁrst Hu Yaobang and then Zhao Ziyang, Bo told Deng that he could not repeatedly (&lt;f0&gt;yi er zai, zai er san&lt;/f0&gt;) change general secretaries.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160822Z" creationid="constanza" creationdate="20160929T160822Z">
+        <seg>Con respecto a la destituciones que Deng realizó, primero de Hu Yaobang y después Zhao Ziyang, Bo le dijo que no podía cambiar de secretarios generales repetidas veces (&lt;f0&gt;yi er zai, zai er san&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a self-conscious imitation of The Communist Manifesto, Wu began, “there is a strange spirit that has sprouted wings and flown through the forest of the intellectual world, and that is the 83 P1: SJT 9780521866934c03 CUUK1178/&lt;t4/&gt;Fewsmith&lt;t5/&gt; 9780521866934 June 6, 2008 22:2 84 China since Tiananmen intellectual tide of the new authoritarianism” (&lt;t6/&gt;xin&lt;t7/&gt; &lt;t8/&gt;quanwei&lt;t9/&gt; &lt;t10/&gt;zhuyi&lt;t11/&gt;).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pc" changedate="20160909T180637Z">
@@ -15402,6 +15410,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No doubt Bo’s advice reﬂected the counsel of other conservative leaders.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160845Z" creationid="constanza" creationdate="20160929T160845Z">
+        <seg>Sin lugar a dudas, el consejo de Bo reflejó el asesoramiento de otros líderes conservadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No doubt the use of corruption charges to undermine one’s opposition is preferable to Mao’s use of ideological campaigns, but it nevertheless suggests that there are real limits to the degree of institutionalization that has taken place in China’s political system.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T015737Z">
@@ -15622,6 +15638,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160908T034347Z">
         <seg>Transmisión de la serie televisiva Yearnings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now Bo supported Jiang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160724Z" creationid="constanza" creationdate="20160929T160724Z">
+        <seg>Ahora Bo apoyaba a Jiang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23132,6 +23156,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To turn against his long-time associate Yang Shangkun and support Jiang Zemin, whose desultory support of reform had prompted Deng’s trip to the south, must have been difﬁcult.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160949Z" creationid="constanza" creationdate="20160929T160949Z">
+        <seg>Debe haber sido difícil enfrentarse a quien había sido su socio durante mucho tiempo, Yang Shangkun, y apoyar a Jiang Zemin, cuyo débil apoyo a la reforma había impulsado la gira por el sur de Deng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Today, both Party head &lt;t14/&gt;Hu&lt;t15/&gt; &lt;t16/&gt;Jintao&lt;t17/&gt; and Premier&lt;t18/&gt; &lt;t19/&gt;Wen&lt;t20/&gt; &lt;t21/&gt;Jiabao&lt;t22/&gt; are graduates of &lt;t23/&gt;Qinghua&lt;t24/&gt; University.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131330Z">
@@ -24022,8 +24054,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Jiang ﬁrst came to Beijing as general secretary, he cultivated a close relationship with Bo, often visiting his house and seeking his guidance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160624Z" creationid="constanza" creationdate="20160929T160624Z">
-        <seg>.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160707Z" creationid="constanza" creationdate="20160929T160624Z">
+        <seg>Bo Yibo logró cultivar una relación cercana con Jiang cuando este llegó a Pekín como secretario general, a menudo visitándolo en su casa y buscando su asesoramiento.</seg>
       </tuv>
     </tu>
     <tu>
