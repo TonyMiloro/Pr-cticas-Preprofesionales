@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3780,8 +3780,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although well connected with some conservative leaders, there was an unmistakable opportunism in He Xin’s xenophobic defenses of the government, which contrasted with Chen Yuan’s politically more important efforts to articulate an alternative economic agenda.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160926T220847Z">
-        <seg>Aunque se establecieron buenas relaciones con algunos líderes conservadores, había un oportunismo inconfundible en las defensas xenófobas del gobierno de He Xin, las cuales se diferenciaban de los esfuerzos políticamente más importantes de Chen Yuan, que consistían en articular una nueva agenda económica alternativa.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T184930Z">
+        <seg>Aunque se establecieron buenas relaciones con algunos líderes conservadores, había un oportunismo inconfundible en las defensas xenófobas del gobierno de He Xin, las cuales se diferenciaban de los esfuerzos políticos más importantes de Chen Yuan, que consistían en articular una nueva agenda económica alternativa.</seg>
       </tuv>
     </tu>
     <tu>
