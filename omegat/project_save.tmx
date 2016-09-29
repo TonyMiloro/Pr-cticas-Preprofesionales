@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3206,6 +3206,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T153226Z">
         <seg>Luego de la reunión con el presidente, Qian declaró que la visita&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;f7&gt;ayudaría a abrir grandes vistas para las relaciones bilateraless&lt;/f7&gt;&lt;f8&gt;".&lt;/f8&gt;&lt;f9&gt;88&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;Sin embargo, la optimista apreciación de Qian no se materializó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After several years of relative quiescence, liberal thought was making itself heard in broader circles.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T224650Z" creationid="mannu" creationdate="20160929T224641Z">
+        <seg>Luego de varios años de inactividad relativa, el pensamiento liberal se hizo oír en círculos más amplios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17998,6 +18006,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proposals for the establishment of a “socialist market economy,” soon to be endorsed by the congress, appeared regularly; more sensitive was that some intellectuals again began raising demands for political reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T224616Z" creationid="mannu" creationdate="20160929T224616Z">
+        <seg>Las propuestas para establecer una “economía socialista de mercado”, que pronto serían respaldadas por el congreso, aparecían regularmente; lo más probable era que algunos intelectuales comenzaran una vez más a reclamar reformas políticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protectionism was beginning to cost China plenty&lt;t36/&gt; &lt;t37/&gt;as SOEs, supported by bureaucratic interests and high &lt;t38/&gt;tariffs,&lt;t39/&gt; continued&lt;t40/&gt; &lt;t41/&gt;their inefficient ways.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160926T135019Z">
@@ -21040,6 +21056,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pc" changedate="20160909T174633Z">
         <seg>La primera vez que la sociedad vislumbró esta tendencia fue el 16 de enero de 1989 cuando el periódico de orientación reformista de Shanghái, el World Economic Herald, publicó un artículo  escrito por Wu Jiaxiang, en aquel entonces un investigador joven de la Secretaría General del Comité Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first to openly raise the issue of political reform was Shang &lt;t0/&gt;Dewen&lt;t1/&gt;, then a 65-year-old economics professor at Beijing University.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T224801Z" creationid="mannu" creationdate="20160929T224801Z">
+        <seg>El primero en plantear públicamente la temática de una reforma política fue Shang Dewen,  &lt;t0/&gt;seguido por un profesor de economía &lt;t1/&gt;de 65 años de la Universidad de Pekín. </seg>
       </tuv>
     </tu>
     <tu>
