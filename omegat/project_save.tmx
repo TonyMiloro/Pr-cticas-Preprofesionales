@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23582,8 +23582,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Veteran economic planner Song Ping and Tianjin mayor Li Ruihuan were added to the Politburo Standing Committee along with JiangZemin, while LiRuihuan and DingGuan’gen (Deng’s bridge partner) were added to the Secretariat.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T180550Z">
-        <seg>El planificador económico veterano Song Ping y el alcalde de Tianjin se incorporaron al Comité Permanente del Politburó junto con JiangZemin, mientras que LiRuihuan y DingGuan’gen (compañero de ¿) se incorporaron al ecretariado.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T181706Z">
+        <seg>El planificador económico veterano Song Ping y el alcalde de Tianjin se incorporaron al Comité Permanente del Politburó junto con JiangZemin, mientras que LiRuihuan y DingGuan’gen (compañero de ¿) se incorporaron al Secretariado.</seg>
       </tuv>
     </tu>
     <tu>
