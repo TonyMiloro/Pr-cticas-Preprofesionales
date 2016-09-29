@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4492,8 +4492,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Wang’s comments about capitalism and “complex relations” between state and society suggest, he is deeply suspicious of market forces, constantly seeing the hand of power influencing and distorting social and economic outcomes.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160928T230809Z" creationid="Gime" creationdate="20160928T230809Z">
-        <seg>Como sugieren los comentarios de Wang acerca del capitalismo y las "relaciones complejas" entre el estado y la sociedad, éste sospecha demasiado de la fuerza de los mercados, que constantemente ven a la mano del poder influenciar y distorsionar los resultados sociales y económicos. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T233048Z" creationid="Gime" creationdate="20160928T230809Z">
+        <seg>Como sugieren los comentarios de Wang acerca del capitalismo y las "relaciones complejas" entre el Estado y la sociedad, Wang sospecha demasiado de la fuerza de los mercados, que constantemente ven la mano del poder influenciar y distorsionar los resultados sociales y económicos. </seg>
       </tuv>
     </tu>
     <tu>
