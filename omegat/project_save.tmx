@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10108,6 +10108,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T145711Z">
         <seg>El 1º de octubre de 1989, durante el discurso de Jiang Zemin para el 40 aniversario de la fundación de la RPC, el secretario general del partido denunció que "las fuerzas reaccionarias internacionales nunca habían abandonado su posición fundamental de enemistad hacia el sistema socialista y (su deseo de) derrocarlo". &lt;/f0&gt;&lt;f1&gt;85&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Aunque lo conservadores nunca lograron provocar una reorientación fundamental de la política exterior china, si lograron detener la capacidad del gobierno chino para llevar a cabo iniciativas que podrían haber mejorado las relaciones. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Jiang Zemin’s speech to the plenum, he declared that the “greatest lesson” to be derived from the PRC’s economic past was that the country must not “depart from its national conditions, exceed its national strength, be anxious for success, or have great ups and downs.”59 These, like the charges listed in the preceding paragraph, were all well-known theses of Chen Yun, so Jiang’s endorsement of Chen Yun’s thought over Deng’s line of reform and opening up was apparent.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T013527Z" creationid="Usuario" creationdate="20160929T011657Z">
+        <seg>En el discurso de Jiang Zemin al Pleno declaró que la "gran lección" que se puede aprender del pasado económico del PCCh era que el país no debe "desviarse de sus condiciones nacionales, superar su </seg>
       </tuv>
     </tu>
     <tu>
