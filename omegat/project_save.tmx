@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10555,8 +10555,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If he had, he probably would have been retained as a member of the Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T213750Z">
-        <seg>Si lo hubiera hecho, probablemente hubiera continuado como mienbro del Comité Central.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T202032Z">
+        <seg>Si lo hubiera hecho, probablemente hubiera continuado como miembro del Comité Central.</seg>
       </tuv>
     </tu>
     <tu>
