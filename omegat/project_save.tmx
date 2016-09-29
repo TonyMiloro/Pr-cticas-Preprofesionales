@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19359,8 +19359,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The norm of democratic centralism also contained a sense that there were procedures to be followed in convening Party meetings so that one person could not arbitrarily impose his or her will on the Party or its management – including, for example, such issues as recruitment, evalua-tion, and promotion of cadres.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160928T051017Z">
-        <seg>Esta norma de centralismo democrático también incluía los procedimientos que se debían realizar en las reuniones de toma de decisón del partido, de modo que una persona no pueda imponerse arbitrariamente dentro del partido o en la dirigencia -- esto incluye, por ejemplo, los asuntos de reclutamiento, evaluación, y promoción de los cuadros.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T004634Z">
+        <seg>Esta norma de centralismo democrático también implicaba que se debían realizar en las reuniones de toma de decisón del partido, de modo que una persona no pueda imponerse arbitrariamente dentro del partido o en la dirigencia -- esto incluye, por ejemplo, los asuntos de reclutamiento, evaluación, y promoción de los cuadros.</seg>
       </tuv>
     </tu>
     <tu>
