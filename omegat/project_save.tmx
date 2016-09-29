@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23225,8 +23225,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This was apparent in the 1993 debate, touched off byWang Xiaoming and several colleagues, about the decline of China’s “humanistic spirit” (&lt;/f0&gt;&lt;f1&gt;renwen jingshen&lt;/f1&gt;&lt;f2&gt;).Wang’s essay started with a dramatic statement: “Today, the crisis of literature is very obvious.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T014746Z">
-        <seg>Esto se volvió evidente en el debate de 1993, que propuso Wang Xiaoming y otros colegas, sobre el deterioro del "espíritu humanístico" en China (&lt;/f0&gt;&lt;f1&gt;renwen jingshen&lt;/f1&gt;&lt;f2&gt;). El ensayo de Wang comenzó con una declaración algo dramática: "Hoy en día, la crisis de la literatura es muy evidente.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T204934Z">
+        <seg>Esto se volvió evidente en el debate de 1993, que propuso Wang Xiaoming y otros colegas, sobre el deterioro del "espíritu humanístico" (&lt;/f0&gt;&lt;f1&gt;renwen jingshen&lt;/f1&gt;&lt;f2&gt;) en China. El ensayo de Wang comenzó con una declaración algo dramática: "Hoy en día, la crisis de la literatura es muy evidente.</seg>
       </tuv>
     </tu>
     <tu>
