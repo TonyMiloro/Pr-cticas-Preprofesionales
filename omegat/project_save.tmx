@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12240,8 +12240,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was widely believed among the veteran cadres who returned to power in the late 1970s that “normal” Party life had been badly disrupted and was in urgent need of restoration.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T003000Z">
-        <seg>Las cuadros más veteranos que volvieron al poder al final de los años 70 sostenían asiduamente que la actividad "normal" del partido se había visto severamente afectada y había necesidad imperante de restaurar el sistema.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T003144Z">
+        <seg>Muchos de los cuadros más veteranos que volvieron al poder al final de los años 70, creían que la actividad "normal" del partido se había visto severamente afectada y que había una necesidad imperante de restaurar el sistema.</seg>
       </tuv>
     </tu>
     <tu>
