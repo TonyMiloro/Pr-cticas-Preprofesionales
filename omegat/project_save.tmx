@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17928,6 +17928,14 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That perceived threat lay behind the Party’s 1989 resolution barring private entrepreneurs from joining the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T022446Z" creationid="Agustín" creationdate="20160929T022446Z">
+        <seg>Esta amenaza advertida That perceived threat lay behind the Party’s 1989 resolution barring private entrepreneurs from joining the Party.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That resolution declared: “The principle of everybody being equal before discipline should be upheld and those Party members who violate discipline should be investigated and dealt with severely.”&lt;/f0&gt;&lt;f1&gt;19&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;It is not known whether this and other strictures were written into the resolution with the Chen Xitong case in mind.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T011506Z" creationid="Daniel-Andrea" creationdate="20160928T011506Z">
@@ -20017,8 +20025,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The social mood that generated these results also lay behind the pessimistic views of 100 experts surveyed by CASS sociologist Lu Jianhua.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T021155Z" creationid="Agustín" creationdate="20160929T020953Z">
-        <seg>La perspectiva pesimista de 100 expertos encuestados por el sociólgo de la CASS Lu Jianhua quedó rezagada por el malestar social que provocaron estos resultados.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T022619Z" creationid="Agustín" creationdate="20160929T020953Z">
+        <seg>El malestar social que provocaron estos resultados.</seg>
       </tuv>
     </tu>
     <tu>
