@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24093,8 +24093,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>from the University of Chicago and then taught at the Massachusetts Institute of Technology before going to Qinghua Uni-versity, has probably worked harder than anyone else to develop a Chinese social science that is both informed by Western social science and at the same time critical of mainstream Western thinking.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160928T234927Z" creationid="Gime" creationdate="20160928T234927Z">
-        <seg>de la Universidad de Chicago y luego dió clases en el Instituto de Tecnología de Massachusetts (MIT) antes de ingresar a la Universidad de Tsinghua, ha trabajado mas que cualquier otro para desarrollar una ciencia social china que </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T000448Z" creationid="Gime" creationdate="20160928T234927Z">
+        <seg>de la Universidad de Chicago y luego dió clases en el Instituto de Tecnología de Massachusetts (MIT) antes de ingresar a la Universidad de Tsinghua, ha trabajado mas que cualquier otro para desarrollar una ciencia social china que esté informada por la ciencia social Occidental y que a su vez sea crítica del pensamiento común Occidental. </seg>
       </tuv>
     </tu>
     <tu>
