@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3484,8 +3484,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the transition was peaceful, it was hardly without tensions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130401Z" creationid="andrea" creationdate="20160928T130401Z">
-        <seg>Si bien la transición fue pacífica, era difícil sin tensiones.</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T002613Z" creationid="andrea" creationdate="20160928T130401Z">
+        <seg>A pesar de que fue pacífica, hubo tensiones.</seg>
       </tuv>
     </tu>
     <tu>
