@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11796,8 +11796,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In doing so, Wang argues that the problem of socialism in China is part of a worldwide “crisis of modernity,” so any answer to China’s problems cannot be based solely on Western concepts of modernity but must respond also to the problems in Western capitalism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160928T222603Z" creationid="ROMI" creationdate="20160928T222603Z">
-        <seg>Al hacer esto, Wang argumenta que el problema del socialismo en China es parte de una "crisis de modernidad" mundial, por lo tanto cada respuesta a los problemas de China no puede basarse solamente en los conceptos de modernidad de Occidente sino que debe responder también a los problemas en el capitalismo Occidental.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T232921Z" creationid="ROMI" creationdate="20160928T222603Z">
+        <seg>Al hacer esto, Wang expone que el problema del socialismo en China es parte de una "crisis de modernidad" mundial, por lo tanto cada respuesta a los problemas de China no puede basarse solamente en los conceptos de modernidad de Occidente sino que debe responder también a los problemas en el capitalismo occidental.</seg>
       </tuv>
     </tu>
     <tu>
