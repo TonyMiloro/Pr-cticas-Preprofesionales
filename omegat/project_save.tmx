@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9729,6 +9729,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Having served two terms as premier, Li was constitutionally barred from continuing in office, but no Party head or premier had ever left office voluntarily.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T222444Z" creationid="Cami" creationdate="20160929T222444Z">
+        <seg>Li cumplió dos mandatos como primer ministro, por lo tanto no podía continuar con ese cargo porque así lo establecía la constitución. Sin embargo, ningún líder del partido o primer ministro había abandonado su cargo por voluntad propia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He also cited the 1988 elections, in which a number of candi- dates favored by the Party failed to be elected, to show that local interests were reducing the central government’s prerogatives with regard to the appointment of local personnel.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160927T033336Z" creationid="Rocio" creationdate="20160927T033200Z">
@@ -16851,6 +16859,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One aspect of the Fifteenth Party Congress that is particularly illuminating in terms of institutionalization is the way Li Peng was handled.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T222409Z" creationid="Cami" creationdate="20160929T222409Z">
+        <seg>Un aspecto del Decimoquinto Congreso del Partido que es revelador en cuanto a la institucionalización es como se ocuparon de Li Peng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One deputy Party secretary in Hunan’s Xinning county had an ear cut off as he tried to collect taxes; in Hunan’s Longshan county two cadres were killed in clashes.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175352Z">
@@ -21399,6 +21415,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The obvious friction between the newly instituted formal rules and the long-standing informal rules was clearly a delicate issue, especially given Li’s role in Tiananmen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T222501Z" creationid="Cami" creationdate="20160929T222501Z">
+        <seg>Un asunto delicado era el roce notable que existía entre las reglas formales que se habían establecido recientemente y las reglas informales de larga data, en particular debido al papel que desempeñó Li en Tiananmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The obvious – and unusual – public disagreement between Economic Daily and People’s Daily suggests high-level leadership disputes regarding the issue of foreign capital, disputes that would burst into public view three years later when the Chinese leadership finally decided to make the commitments necessary to reach agreement with the United States and other trading partners over China’s accession to the World Trade Organization (see Chapter 7).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160929T215908Z" creationid="PC" creationdate="20160929T215908Z">
@@ -23655,6 +23679,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T234928Z">
         <seg>Esta "fiebre cultural" alcanzó su punto máximo en la serie televisiva de 1998 llamada La elegía del río. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This, combined with Jiang’s call to reduce military staffing by 500,000 – with 100,000 to be shorn from the officer corps – marked a clear effort to make China’s military smaller, better equipped, more pro&lt;t1/&gt;fessional, and less political.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T222327Z" creationid="Cami" creationdate="20160929T222327Z">
+        <seg>Esto, en conjunto con la demanda de Jiang para reducir la dotación del personal militar a 500 000 (100 000 del cuerpo de oficiales) constituyó un esfuerzo evidente para que China sea un país menos militar, mejor equipado, más profesional &lt;t1/&gt;y menos político..</seg>
       </tuv>
     </tu>
     <tu>
