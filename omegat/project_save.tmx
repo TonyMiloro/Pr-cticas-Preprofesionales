@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8168,8 +8168,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Entitled “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” this article was written by the editorial office of the conservative journal &lt;t5/&gt;Contemporary Trends &lt;t6/&gt;and pub- lished in the fourth issue of &lt;t7/&gt;1996&lt;t8/&gt;.&lt;t9/&gt; This manifesto zeroed in on the ownership issue and particularly on the policy of “grasping the large and letting go of the small” that had been adopted in &lt;t10/&gt;1995&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T230340Z" creationid="Eloisa" creationdate="20160928T212103Z">
-        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” (Varios problemas teóricos y de políticas sobre defender la posición dominante de la propiedad pública) este artículo lo escribió la editorial del diario conservador &lt;t5/&gt;Contemporary Trends &lt;t6/&gt;y se publicó en la cuarta edición de &lt;t7/&gt;1996&lt;t8/&gt;.&lt;t9/&gt; Este manifiesto se enfocó en el problema de la propiedad y particularmente en la política de “tomar lo grande y dejar ir lo pequeño” que se había adoptado en &lt;t10/&gt;1995&lt;t11/&gt;.</seg>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160929T212441Z" creationid="Eloisa" creationdate="20160928T212103Z">
+        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” (Varios problemas teóricos y de políticas sobre la defensa de la posición dominante de la propiedad pública) este artículo lo escribió la editorial del diario conservador &lt;t5/&gt;Contemporary Trends &lt;t6/&gt;y se publicó en la cuarta edición de &lt;t7/&gt;1996&lt;t8/&gt;.&lt;t9/&gt; Este manifiesto se enfocó en el problema de la propiedad y particularmente en la política de “tomar lo grande y dejar ir lo pequeño” que se había adoptado en &lt;t10/&gt;1995&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20942,8 +20942,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The manifesto went on to a&lt;t51/&gt;rgue that, if small enterprises were privatized (the intention of the policy), then “the immense majority of the working class will become wage workers, and class polariza- tion will become a general phenomenon.”&lt;t52/&gt;78&lt;t53/&gt; &lt;t54/&gt;The manife&lt;t55/&gt;sto also took issue with the proposal that the state sector of the economy be reduced to around &lt;t56/&gt;20 &lt;t57/&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Eloisa" changedate="20160928T223651Z" creationid="Eloisa" creationdate="20160928T214932Z">
-        <seg>El manifiesto pasó a sost&lt;t51/&gt;ener que, si las pequeñas emprezas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se volvería wage workers, y la polarización de clases se convertiría en un fenómeno general.”&lt;t52/&gt;78&lt;t53/&gt; &lt;t54/&gt;El manifie&lt;t55/&gt;sto también discrepaba con la propuesta de que el sector estatal de la economía se reduzca a alrededor de &lt;t56/&gt;20 &lt;t57/&gt;por ciento, así como con la noción de que la propiedad no determina el desarrollo económico.</seg>
+      <tuv lang="ES-US" changeid="Eloisa" changedate="20160929T212538Z" creationid="Eloisa" creationdate="20160928T214932Z">
+        <seg>El manifiesto pasó a sost&lt;t51/&gt;ener que, si las pequeñas empresas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se volvería wage workers, y la polarización de clases se convertiría en un fenómeno general.”&lt;t52/&gt;78&lt;t53/&gt; &lt;t54/&gt;El manifie&lt;t55/&gt;sto también discrepaba con la propuesta de que el sector estatal de la economía se reduzca a alrededor de &lt;t56/&gt;20 &lt;t57/&gt;por ciento, así como con la noción de que la propiedad no determina el desarrollo económico.</seg>
       </tuv>
     </tu>
     <tu>
