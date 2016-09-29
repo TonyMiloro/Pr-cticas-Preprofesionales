@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Focused on the need for a fairer distribution of income, Lu expresses frustration with policies that concentrate solely on economic growth.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T042451Z" creationid="user" creationdate="20160929T042451Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Enfocado en la necesidad de una distribución de ingresos más equitativa, Lu manifiesta su descontento con respecto a políticas que se concentran exclusivamente en el crecimiento económico.ed on the need for a fairer distribution of income, Lu expresses frustration with policies that concentrate solely on economic growth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Hu and Wang argued that the extractive capacity of China’s central government was quite weak.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T145331Z" creationid="Flor" creationdate="20160927T145331Z">
@@ -18114,8 +18122,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>That outcome, Lu suggests, would breed social instability and slow economic growth.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T042144Z" creationid="user" creationdate="20160929T042144Z">
-        <seg>Lu sugiere que el resultado de tal combinación provocaría inestabilidad social y un crecimiento económico lento.That outcome, Lu suggests, would breed social instability and slow economic growth.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T042218Z" creationid="user" creationdate="20160929T042144Z">
+        <seg>Lu sugiere que el resultado de tal combinación provocaría inestabilidad social y un crecimiento económico lento.</seg>
       </tuv>
     </tu>
     <tu>
