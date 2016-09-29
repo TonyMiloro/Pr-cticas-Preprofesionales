@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8873,8 +8873,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For Song, Tiananmen was the inevitable outcome of a trend of bourgeois liberalization that extended back to the democratic movement of 1978, had never been effectively opposed, and had resulted in such “absurd theories” (miaolun) as the “criterion of productive forces.” The theory of productive forces, a phrase used (primarily by critics) to describe the view that anything that improves the economy is ipso facto socialist, was voiced prominently in an article by Zhao Ziyang that appeared in the People’s Daily in February 1988,35[18] but Song’s reference was clearly to Deng Xiaoping as well.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T214617Z">
-        <seg>Para Song, Tiananmén fue el resultado inevitable de una tendencia de liberalización burguesa que se extendía hacia el movimiento democrático de 1978, que nunca había encontrado resistencia convincente y había resultado en tales "teorías absurdas" (miaolun) como el "criterio de fuerzas de producción". La teoría de fuerzas de producción, una frase usada (principalmente por los críticos) para describir la postura de que lo que mejore la economía es ipso facto socialista, fue expresada prominentemente en un artículo por Zhao Ziyang que apareció en el Diario del Pueblo en febrero de 1988 35 pero la referencia de Song era claramente también hacia Deng Xiaoping.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T214700Z">
+        <seg>Para Song, Tiananmén fue el resultado inevitable de una tendencia de liberalización burguesa que se extendía hacia el movimiento democrático de 1978, que nunca había encontrado resistencia convincente y había resultado en tales "teorías absurdas" (miaolun) como el "criterio de fuerzas de producción". La teoría de fuerzas de producción, una frase usada (principalmente por los críticos) para describir la postura de que lo que mejore la economía es ipso facto socialista, fue expresada de manera notoria en un artículo escrito por Zhao Ziyang que apareció en el Diario del Pueblo en febrero de 1988 35 pero la referencia de Song era claramente también hacia Deng Xiaoping.</seg>
       </tuv>
     </tu>
     <tu>
