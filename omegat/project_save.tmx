@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3796,8 +3796,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Among Party conservatives there was a deep sense of “we told you so.” Their warnings, they believed, had not been listened to, and Tiananmen was the fulfillment of their predictions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160921T014507Z">
-        <seg>Entre los miembros del partido conservador, habia una gran sensación de "te lo habiamos dicho". Los conservadores creían que sus advertencias no habian sido escuchadas y Tiananmén fue la realización de estas predicciones.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T173310Z">
+        <seg>Entre los miembros del partido conservador, había una gran impresión de "Te lo habíamos advertido". Los conservadores creían que sus advertencias no habían sido escuchadas, y Tiananmén fue la materialización de estas predicciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7405,8 +7405,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s0/&gt;impossible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T122949Z">
-        <seg>Deng siempre asoció "reforma" con "expansión" no sólo porque creía que la modernización economica de China necesitaba el capital, la tecnología y los mercados de exportación que solo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha internacional de clases para disminuir los llamados de atención del pueblo por un énfasis continuo en la lucha de clases, algo que podría (y así lo hizo) tornar la implementación de la reforma económica mucho más difícil, quizás hasta imposible&lt;s0/&gt;.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T173519Z">
+        <seg>Deng siempre asoció “reforma” con “expansión” no solo porque creía que la modernización económica de China necesitaba el capital, la tecnología y los mercados de exportación que solo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha internacional de clases. Esta acción era necesaria para atenuar las demandas locales por un énfasis continuo en la lucha de clases, algo que podría hacer que la implementación de la reforma económica se tornara aún más difícil, casi imposible, tal cómo sucedió. &lt;s0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10699,8 +10699,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In April, Deng told visiting Spanish Socialist Workers Party leader Alfonso Guerra that leftism was the “main danger” facing the Party.41 Shortly thereafter, on May 13, Zhao Ziyang gave a major inner-Party speech, asking rhetorically but sharply: “Who would be responsible if the current [economic] policies were interpreted as liberalization?”42 On the July 1 anniversary of the Party’s founding, the People’s Daily reprinted Deng’s controversial 1980 speech “On Reform of the Party and State Leadership Structure,” setting the tone for the upcoming Thirteenth Party Congress, which for the first time addressed the issue of political reform.43</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T015646Z">
-        <seg>En abril, Deng le manifestó al líder del partido socialista obrero español Alfonso Guerra que el izquierdismo fue la "mayor amenaza" que tuvo que afrontar el partido.41 Poco después, el 13 de mayo, Zhao Ziyang dio un discurso partidario, y preguntó de forma retórica, pero clara a la vez: "¿Quién se responsabilizará si las políticas [económicas] actuales son interpretadas como una forma de liberalización?".42 En julio durante el primer aniversario de la fundación del partido, el diario People´s Daily reeditó el polémico discurso de Deng de 1980 "La reforma del partido y la estructura del liderazgo estatal", el cuál sentó las pautas para el futuro Decimotercer Congreso Partidario, en dónde se trató por primera vez el tema de la reforma política.43</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T172834Z">
+        <seg>En abril mientras lo visitaba, Deng le manifestó al líder invitado del Partido Socialista Obrero español, Alfonso Guerra, que el izquierdismo había sido la “principal amenaza” que tuvo que afrontar el partido41.  Poco después, el 13 de mayo, Zhao Ziyang dio un importante discurso partidario, y preguntó de forma retórica, pero abrupta a la vez: “¿Quién se responsabilizará si las políticas [económicas] actuales son interpretadas como una forma de liberalización?”42. En julio, durante el primer aniversario de la fundación del partido, el diario People´s Daily reeditó el polémico discurso de Deng de 1980 “La reforma del partido y la estructura del liderazgo estatal”, el cuál sentó las pautas para el futuro Décimotercer Congreso Partidario, en donde se trató por primera vez el tema de la reforma política43..43</seg>
       </tuv>
     </tu>
     <tu>
