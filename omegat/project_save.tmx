@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16605,8 +16605,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Overall, the&lt;s1/&gt;&lt;t2/&gt;number of full Politburo members was increased to 20 from 14 as a number of provincial and younger leaders joined the august body while several elders retired (Yang Shangkun, Wan Li, Qin Jiwei, Wu Xueqian, and Yang Rudai).&lt;f3&gt;101&lt;/f3&gt;&lt;s4/&gt;Moreover, the Central Advisory Commission, of which Chen Yun was the head and which had long served as a bastion of conservative opposition to Deng, was abolished.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T153331Z">
-        <seg>Overall, el&lt;s1/&gt;&lt;t2/&gt;número de miembros plenos del Politburó aumentó de 14 a 20 ya que un número de líderes provinciales y más jóvenes se unieron al respetado órgano y a que que varios líderes mayores se retiraron (Yang Shangkun, Wan Li, Qin Jiwei, Wu Xueqian y Yang Rudai).&lt;f3&gt;&lt;/f3&gt;&lt;s4/&gt;Además se abolió la Comisión Asesora Central, encabezada por Chen Yun que había funcionado como bastión de la oposición conservadora contra Deng.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T163430Z">
+        <seg>En general, el&lt;s1/&gt;&lt;t2/&gt;número de miembros plenos del Politburó aumentó de 14 a 20 ya que un número de líderes provinciales y más jóvenes se unieron al respetado órgano y a que que varios líderes mayores se retiraron (Yang Shangkun, Wan Li, Qin Jiwei, Wu Xueqian y Yang Rudai).&lt;f3&gt;&lt;/f3&gt;&lt;s4/&gt;Además se abolió la Comisión Asesora Central, encabezada por Chen Yun que había funcionado como bastión de la oposición conservadora contra Deng.</seg>
       </tuv>
     </tu>
     <tu>
