@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -577,8 +577,8 @@
       <tuv lang="EN-US">
         <seg>60 Some within the Party argued that the implementation of reform in Eastern Europe had led to the collapse of communism there, while others argued that communism collapsed because the planned economy had continued to prevail in those countries.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T001345Z">
-        <seg>Dentro del Partido, algunos argumentan que la implementación de la reforma en Europa Oriental ha llevado al colapso del comunismo allí establecido, mientras que otros argumentan que el comunismo colapsó a causa de que de la economía planificada ha prevalecido en aquellos países.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T175005Z">
+        <seg>Dentro del Partido, algunos argumentan que la implementación de la reforma en Europa Oriental ha llevado al colapso del comunismo allí establecido, mientras que otros argumentan que el comunismo colapsó a causa de que de la economía planificada continuó imponiendose en aquellos países.</seg>
       </tuv>
     </tu>
     <tu>
