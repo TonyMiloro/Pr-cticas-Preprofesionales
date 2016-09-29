@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24496,8 +24496,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>and there must be a leading core in this leading group.” And that core, the plenum reiterated, was Jiang Zemin.&lt;/f9&gt;&lt;f10&gt;6&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T125147Z" creationid="Daniel-Andrea" creationdate="20160929T125147Z">
-        <seg>principal y una esencia dominante en este grupo principal”. Y esa esencia, recalcó el pleno, era Jiang Jiang Zemin.&lt;/f9&gt;&lt;f10&gt;6.&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132502Z" creationid="Daniel-Andrea" creationdate="20160929T125147Z">
+        <seg>y una esencia dominante en este grupo principal”. Y esa esencia, recalcó el pleno, era Jiang Jiang Zemin.&lt;/f9&gt;&lt;f10&gt;6.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
