@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9159,6 +9159,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, Wang &lt;t23/&gt;Renzhi&lt;t24/&gt;, the former head of the Propaganda Department who was forced to step down (following Deng’s trip to the south) and take a position as Party secretary of CASS, was angry about the publication of Heart-to-Heart Talks and quarreled on more than one occasion with Liu Ji, then a vice-president of CASS.23 This may well have made Liu even more willing to allow the publication of Crossed Swords.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T225538Z" creationid="Cami" creationdate="20160929T225538Z">
+        <seg>Por ejemplo, Wang &lt;t23/&gt;Renzhi&lt;t24/&gt;, exjefe del Departamento de Propaganda quien fue obligado a dejar el cargo (luego del viaje de Deng al sur) y a posicionarse como secretario del partido de CASS, estaba enojado por la publicación de Charlas corazón a corazón y discutió en más de una ocasión con Liu Ji, posteriormente vicepresidente de CASS23. Esto pudo haber llevado a que Lui se incline más por la publicación de Espadas cruzadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, Wang Shuo, the popular novelist and champion of the underside of Chinese life, embraced the new commercialization and flaunted the opportunity to throw off the constraints imposed by the cultural elite.&lt;/f1&gt;&lt;f2&gt;16 &lt;/f2&gt;&lt;f3&gt;To the surprise of many, Wang Meng, a liberal writer andMinister of Culture in the late 1980s, came out in defense of Wang Shuo.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T014242Z">
@@ -11606,6 +11614,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T194902Z" creationid="Usuario" creationdate="20160929T194902Z">
         <seg>De todos modos, los mediadores chinos aún no estaban dispuestos a realizar el tipo de compromiso que aseguraría su ingreso, por lo que perdieron  la oportunidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In any event, it was clear that the publication of Crossed Swords set off a political maelstrom.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T225610Z" creationid="Cami" creationdate="20160929T225610Z">
+        <seg>Sea como sea, estaba claro que la publicación de este libro disparó un torbellino político.</seg>
       </tuv>
     </tu>
     <tu>
