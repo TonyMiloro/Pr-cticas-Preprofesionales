@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5655,6 +5655,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T000144Z">
         <seg>Pero no se sabe con certeza, a cuatro años de que Hu fuera nombrado Secretario General, si esta agenda populista se combinará con una crítica más severa a las ideas liberales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But returning to the theme of China's &lt;t12/&gt;culture, he noted that "[t]he greatest defect in China's cultural tradition &lt;t13/&gt;is that it lacks human rights."&lt;t14/&gt;81&lt;t15/&gt; Implementing "rule of law" would bring &lt;t16/&gt;about fundamental political change, improve human rights in China, and &lt;t17/&gt;let China join the world and earn the respect of other countries.&lt;t18/&gt;82&lt;t19/&gt; Thus, the only way to meet the challenge of globalization was to establish institutions &lt;t20/&gt;that were compatible with it - democracy and rule of law - and not to try</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T184204Z" creationid="joaquin" creationdate="20160929T184204Z">
+        <seg>Retomando el tema de la cultura de China, él mencionó que “el defecto más grande en la tradición cultural china es que carece de derechos humanos”. 81 Implementar la “regla de la ley” ocasionaría un cambio político fundamental, mejoraría los derechos humanos en China y permitiría que China se uniera al mundo y se ganara el respeto de otros países. 82 Por consiguiente, la única forma de enfrentar el desafío de la globalización era establecer instituciones que fueran compatibles con ella, la democracia y las  reglas de la ley, y no intentar</seg>
       </tuv>
     </tu>
     <tu>
@@ -14388,8 +14396,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Like the term "New Left," the term &lt;t2/&gt;"liberal" should probably not be accepted uncritically, even though there &lt;t3/&gt;has been less controversy over its use within China - either by liberals or &lt;t4/&gt;their critics - than there has been of the term "New Left." Moreover, con- &lt;t5/&gt;temporary Chinese liberalism shares the broad outlines of classical Western &lt;t6/&gt;liberalism, though the Western tradition's complexity and diversity make direct comparisons difficult.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160928T100103Z">
-        <seg>Similar a lo que sucede con el término “nueva izquierda”, el término “liberal” probablemente no debería aceptarse sin una crítica previa; sin embargo, en China el uso de este término, tanto para los liberales como para sus críticos, genera menos controversia que el uso del término “nueva izquierda”. Además, aunque la complejidad y la diversidad de las tradiciones occidentales dificultan la comparación, el liberalismo chino contemporáneo comparte las ideas generales del liberalismo occidental clásico.</seg>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T184242Z">
+        <seg>Similar a lo que sucede con el término “nueva izquierda”, el término “liberal” probablemente no debería aceptarse sin una crítica previa; sin embargo, en China el uso de este término, tanto para los liberales como para sus críticos, genera menos controversia que el uso del término “nueva izquierda”. Además, aunque la complejidad y la diversidad de las tradiciones occidentales dificultan la comparación, el liberalismo chino contemporáneo comparte las ideas generales del liberalismo occidental clásico.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26401,6 +26409,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174238Z">
         <seg>este enfoque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to rely on market forces alone.&lt;t0/&gt;83</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T184215Z" creationid="joaquin" creationdate="20160929T184215Z">
+        <seg>confiar en las fuerzas del mercado solamente.&lt;t0/&gt;83</seg>
       </tuv>
     </tu>
     <tu>
