@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3158,6 +3158,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T233349Z">
         <seg>Después de la violenta represión a los manifestantes en Beijing, Zhu se hizo famoso por su ambiguo pero sugerente comentario: "los hechos, con el tiempo,&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;se aclararán".&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;Pero Zhu no era liberal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After thinking seriously of removing Jiang from ofﬁce, Deng was persuaded not only to retain him but also to strengthen his position by removing Yang&lt;s0/&gt;Baibing as vice chairman of the powerful CMC, a move that also under cut the authority of Yang Shangkun, Deng’s long-time conﬁdant and supporter.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155443Z" creationid="constanza" creationdate="20160929T155443Z">
+        <seg>Luego de pensar seriamente en destituir a Jiang, Deng fue persuadido no sólo para retenerlo sino que también para fortalecer su posición al destituir a Yang&lt;s0/&gt;Baibing .</seg>
       </tuv>
     </tu>
     <tu>
@@ -7343,6 +7351,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173356Z" creationid="Soledad Mori" creationdate="20160927T173356Z">
         <seg>Deng se quejó de que muchos de los líderes “estaban actuando por inercia” en su apoyo a la reforma y que estaban en peligro de perder sus empleos. Igual de importante fue que Deng señaló su fuerte apoyo a Zhu Rongji, a quien había patrocinado para que se convirtiera en vice primer ministro en marzo de 1991. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng did at least two things that bolstered Jiang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155251Z" creationid="constanza" creationdate="20160929T155251Z">
+        <seg>Deng hizo al menos dos cosas que impulsaron a Jiang.</seg>
       </tuv>
     </tu>
     <tu>
