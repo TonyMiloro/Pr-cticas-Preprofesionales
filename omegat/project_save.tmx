@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17221,6 +17221,14 @@ Un informe adjunto sobre las joint ventures en la industria cervecera en China  
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overall, 60 percent</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T221128Z" creationid="Cami" creationdate="20160929T221128Z">
+        <seg>En total lo que se renovó fue el 60%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overall, the&lt;s1/&gt;&lt;t2/&gt;number of full Politburo members was increased to 20 from 14 as a number of provincial and younger leaders joined the august body while several elders retired (Yang Shangkun, Wan Li, Qin Jiwei, Wu Xueqian, and Yang Rudai).&lt;f3&gt;101&lt;/f3&gt;&lt;s4/&gt;Moreover, the Central Advisory Commission, of which Chen Yun was the head and which had long served as a bastion of conservative opposition to Deng, was abolished.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160929T163430Z">
@@ -17495,8 +17503,8 @@ Un informe adjunto sobre las joint ventures en la industria cervecera en China  
       <tuv lang="EN-US">
         <seg>Personnel arrangements made at the congress (see Table 2) supported the fresh image Jiang was cultivating, while the removal of many older personnel enhanced Jiang’s ability to control the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T221025Z" creationid="Cami" creationdate="20160929T221025Z">
-        <seg>Los arreglos personales que se hicieron en el congreso (véase tabla 2) respaldaron la imagen renovada que Jian estaba cultivando, al mismo tiempo que la destitución de muchos miembros antiguos le permitió tener un mejor control sobre el partido.</seg>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T221051Z" creationid="Cami" creationdate="20160929T221025Z">
+        <seg>Los arreglos personales que se hicieron en el congreso (véase tabla 2) respaldaron la imagen renovada que Jiang estaba cultivando, al mismo tiempo que la destitución de muchos miembros antiguos le permitió tener un mejor control sobre el partido.</seg>
       </tuv>
     </tu>
     <tu>
