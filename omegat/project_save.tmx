@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1498,8 +1498,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Fourteen young scholars, mostly based at the Chinese Academy of Social Sciences, wrote the book (others participated in discussions about its con- tent), which was an extended gloss on Jiang’s &lt;/f0&gt;&lt;f1&gt;1995 &lt;/f1&gt;&lt;f2&gt;speech to the Fifth Plenum on twelve major problems facing China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T203047Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Catorce jóvenes eruditos, en su mayoría pertenecientes a la Academia China de Ciencias Sociales, escribieron el libro (otros participaron en discusiones acerca del contenido), el cual consistía en una glosa extensa del discurso que Jiang brindó en el año 1995 durante el Quinto Plenario sobre doce problemas importantes que enfrentaba China. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T203619Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Catorce jóvenes eruditos, en su mayoría pertenecientes a la Academia China de Ciencias Sociales, escribieron el libro (otros participaron en debates acerca del contenido), el cual consistía en una glosa extensa del discurso que Jiang brindó en el año 1995 durante el Quinto Plenario sobre doce problemas importantes que enfrentaba China. </seg>
       </tuv>
     </tu>
     <tu>
