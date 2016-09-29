@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8767,6 +8767,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, Xu Weicheng, who had once written on behalf of the Gang of Four and more recently had been editor of the conservative&lt;s2/&gt;&lt;f3&gt;Beijing Daily&lt;/f3&gt;, remained as deputy head of the Propaganda Department.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T161944Z" creationid="constanza" creationdate="20160929T161944Z">
+        <seg>Por ejemplo, Xu Weicheng, quien alguna vez había escrito en nombre de la Banda de los Cuatro y recientemente había sido editor del&lt;s2/&gt;&lt;f3&gt;Diario de Pekín&lt;/f3&gt;, permaneció como jefe del Departamento de Propaganda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, Yu Haocheng, a legal scholar and chief editor of the Masses Publishing House (Qunzhong chubanshe), argued that the new authoritarians fundamentally misunderstood their facts; the conditions in the “four small dragons” (South Korea, Taiwan, Singapore,Hong Kong), on which much of the new authoritarian thinking was modeled, were fundamentally different from conditions in China.10 In the four dragons, the economy was free and so intertwined with the international economy that their governments really could only have a “minuscule” impact on determining their economies.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160924T015429Z">
@@ -14870,6 +14878,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T141410Z">
         <seg>Además, había indicios de que los militares se sentían incómodos con la doble línea de autoridad.&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, Deng Liqun organized many of his leftist colleagues – including former State Education Commission head He Dongchang, former CASS vice-president You Lin, former vice-chairman of the State Planning Commission Fang Weizhong, and director of the Party Literature Research Center Pang Xianzhi&lt;s4/&gt;– into a newly established PRC Historical Society.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T162246Z" creationid="constanza" creationdate="20160929T162246Z">
+        <seg>&lt;s4/&gt;– into a newly established PRC Historical Society.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23672,6 +23688,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T131807Z">
         <seg>Wang Huning, "Zhongguo zhengzhi tizhi gaige de beijing yu quanjing", pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Renzhi, who had excoriated Deng’s policies as head of the Propaganda Department, was removed from that position (he was replaced by Deng loyalist Ding Guan’gen) but took over as Party secretary of the Chinese Academy of Social Sciences (CASS).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T162011Z" creationid="constanza" creationdate="20160929T162011Z">
+        <seg>Wang Renzhi, quien había criticado fuertemente las políticas de Deng cuando era jefe del Departamento de Propaganda, fue removido de esa posición (reemplazado por Ding Guan’gen que era leal a Deng) pero asumió como Secretario General del Partido de la Academia China de Ciencias Sociales (CASS).</seg>
       </tuv>
     </tu>
     <tu>
