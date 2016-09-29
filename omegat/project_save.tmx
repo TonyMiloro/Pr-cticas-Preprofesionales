@@ -873,8 +873,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Focused on the need for a fairer distribution of income, Lu expresses frustration with policies that concentrate solely on economic growth.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T042451Z" creationid="user" creationdate="20160929T042451Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Enfocado en la necesidad de una distribución de ingresos más equitativa, Lu manifiesta su descontento con respecto a políticas que se concentran exclusivamente en el crecimiento económico.ed on the need for a fairer distribution of income, Lu expresses frustration with policies that concentrate solely on economic growth.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T042608Z" creationid="user" creationdate="20160929T042451Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Enfocado en la necesidad de una distribución de ingresos más equitativa, Lu manifiesta su descontento con respecto a políticas que se concentran exclusivamente en el crecimiento económico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4270,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160928T232618Z" creationid="Gime" creationdate="20160928T231140Z">
         <seg>En sus palabras, es simplemente "utópico" el pensar que "la imparcialidad, la justicia y la democracia pueden alcanzarse en los ámbitos nacionales e internacionales naturalmente fuera del mercado". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As he puts it, “for some years we have drawn up this or that policy to bring about the rapid growth of the market economy .</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T042623Z" creationid="user" creationdate="20160929T042623Z">
+        <seg>Como él señala: “for some years we have drawn up this or that policy to bring about the rapid growth of the market economy .</seg>
       </tuv>
     </tu>
     <tu>
