@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3164,8 +3164,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>After thinking seriously of removing Jiang from ofﬁce, Deng was persuaded not only to retain him but also to strengthen his position by removing Yang&lt;s0/&gt;Baibing as vice chairman of the powerful CMC, a move that also under cut the authority of Yang Shangkun, Deng’s long-time conﬁdant and supporter.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155443Z" creationid="constanza" creationdate="20160929T155443Z">
-        <seg>Luego de pensar seriamente en destituir a Jiang, Deng fue persuadido no sólo para retenerlo sino que también para fortalecer su posición al destituir a Yang&lt;s0/&gt;Baibing .</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155508Z" creationid="constanza" creationdate="20160929T155443Z">
+        <seg>Luego de pensar seriamente en destituir a Jiang, Deng fue persuadido no sólo para retenerlo sino que también para fortalecer su posición al destituir a Yang&lt;s0/&gt;Baibing de su puesto como vicepresidente de la poderosa CMC, lo que debilitó la autoridad de Yang Shangkun, quién desde hacía años apoyaba y era confidente de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10981,6 +10981,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T011815Z">
         <seg>Además, el crecimiento continuo de la economía no estatal y &lt;t0/&gt;otras presiones sociales seguirán oponiéndose a las restricciones del unipartidismo leninista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, there was growing resentment in the military establishment at the concentration of authority in the hands of the Yang brothers (who were derided&lt;s2/&gt;for creating a “Yang family army”).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155757Z" creationid="constanza" creationdate="20160929T155757Z">
+        <seg>&lt;s2/&gt;for creating a “Yang family army”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24568,6 +24576,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200816Z">
         <seg>Secretariado del PCCh en Xinjiang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yang Baibing had made no bones about his disdain for Jiang Zemin, conferring major promotions himself rather&lt;s1/&gt;than deferring to Jiang as head of the CMC, and that meant the leadership situation was unstable.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T155646Z" creationid="constanza" creationdate="20160929T155646Z">
+        <seg>Yang Baibing no había ocultado su desprecio hacia Jiang Zemin, al conceder importantes ascensos en vez de&lt;s1/&gt; dejarlos en manos de Jiang que encabezaba la CMC, lo que significaba que la situación de liderazgo era inestable.</seg>
       </tuv>
     </tu>
     <tu>
