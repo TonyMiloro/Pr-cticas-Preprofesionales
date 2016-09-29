@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17321,8 +17321,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Succession in Leninist systems remains difﬁcult.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andre" changedate="20160929T004427Z" creationid="andrea" creationdate="20160928T174054Z">
-        <seg>La sucesión en los sistemas leninista permanece complicada.</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T004808Z" creationid="andrea" creationdate="20160928T174054Z">
+        <seg>La sucesión en los sistemas leninista sigue siendo complicada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20032,8 +20032,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The ﬁrst clear sign of extra-institutional maneuvering appeared when the Xinhua News Agency announced that Jia Qinglin, the Party secretary of Beijing,and Huang Ju,the Party secretary of Shanghai,both close to Jiang Zemin, would be “transferred to the center.”33 These two important personnel changes meant that Liu Qi, who was named to succeed Jia Qinglin as Beijing Party secretary, and Chen Liangyu, who took over as Shanghai Party secretary, would join the Politburo since the Party leaders of those two major cities are routinely seated on the Party’s highest policy-making body.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T174143Z" creationid="andrea" creationdate="20160928T174143Z">
-        <seg>La primera señal clara de una maniobra extrainstitucional apareció cuando la agencia de prensa Xinhua anunció que Jian Qinglin, el secretario del partido de Pekín, y Huang Ju, el secretario del partido de shanghái, ambos cercanos a Jiang Zemin, serían “transferidos al centro”.33 Estos dos cambios de personal importantes significaron que Liu Qi, quién fue nombrado para suceder a Jian Qinglin como secretario del partido de Pekín, y Chen Liangyu, quién tomó el el cargo de secretario del partido de Shanghái,  unirían el Poiltburó ya que los líderes políticos de esas dos ciudades importantes generalmente conforman  el cuerpo de mayor cuerpo normativo del partido..</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T005403Z" creationid="andrea" creationdate="20160928T174143Z">
+        <seg>La primera señal clara de una maniobra extrainstitucional apareció cuando la agencia de prensa Xinhua anunció que Jian Qinglin, el secretario del partido de Pekín, y Huang Ju, el secretario del partido de Shanghái, ambos cercanos a Jiang Zemin, serían “transferidos al centro”.Estos dos cambios de personal importantes significaron que Liu Qi, quién fue nombrado para suceder a Jian Qinglin como secretario del partido de Pekín y Chen Liangyu, quién tomó el el cargo de secretario del partido de Shanghái,  unirían el Poiltburó ya que los líderes políticos de esas dos ciudades importantes generalmente conforman  el cuerpo de mayor cuerpo normativo del partido..</seg>
       </tuv>
     </tu>
     <tu>
