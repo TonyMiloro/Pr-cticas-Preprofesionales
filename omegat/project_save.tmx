@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17272,6 +17272,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205906Z">
         <seg>19 de septiembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 19 First Plenary Session of the Fifteenth Central Committee</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160929T145610Z" creationid="marielaromina" creationdate="20160929T145610Z">
+        <seg>19 de septiembre Primera sesión plenaria del Décimo Quinto Comité Central</seg>
       </tuv>
     </tu>
     <tu>
