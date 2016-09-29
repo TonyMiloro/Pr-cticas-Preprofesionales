@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21701,8 +21701,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This was true during the 1980s but has become even more important in the years since 1989, in large part because the Tianan-men Square tragedy destroyed what little belief in Marxism-Leninism was left.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T030654Z">
-        <seg>Esto ha sido una realidad durante la década de los 80, pero su importancia se ha acrecentado considerablemente en los años que siguieron a 1989, en gran parte debido a que la tragedia de la Plaza de Tiananmén destruyó la poca fe que quedaba en el marxismo-leninismo.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T030759Z">
+        <seg>Esto ha sido una realidad durante la década de los 80, pero su importancia se acrecentó considerablemente en los años que siguieron a 1989, en gran parte debido a que la tragedia de la Plaza de Tiananmén destruyó la poca fe que quedaba en el marxismo-leninismo.</seg>
       </tuv>
     </tu>
     <tu>
