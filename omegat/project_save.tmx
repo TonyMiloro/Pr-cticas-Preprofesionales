@@ -991,6 +991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;The combination of a distorted social structure and the perception of illegitimate income distribution was bad for future economic and social development as well as for social stability.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T035328Z" creationid="user" creationdate="20160929T035328Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La combinación de una estructura social distorsionada y la sensación de una distribución de ingresos ilegítima resultaba negativo para el futuro desarrollo económico y social como así también  The combination of a distorted social structure and the perception of illegitimate income distribution was bad for future economic and social development as well as for social stability.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;The four commentaries were published on February 15, March 2, March 22, and April 12, 1991.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T224721Z">
@@ -12465,8 +12473,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was particularly difficult for those who had reached the middle class to climb further into the highest social strata; middle class status itself was very precarious.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T035148Z" creationid="user" creationdate="20160929T035031Z">
-        <seg>Para aquellas personas que habían alcanzado ser parte de la clase media era especialmente difícil seguir avanzando hasta llegar al estrato social más alto; el estatus/posición social de clase media de por sí mismo era bastante precaria.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T035211Z" creationid="user" creationdate="20160929T035031Z">
+        <seg>Para aquellas personas que habían alcanzado ser parte de la clase media era especialmente difícil seguir avanzando hasta llegar al estrato social más alto; el estatus/posición social de clase media de por sí mismo era bastante precario.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
