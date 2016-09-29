@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11836,8 +11836,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In response to the changed circumstances of the 1990s, a number of young scholars, including Wang Hui, adopted a variety of postmodernist and criti-cal methodologies by which they hoped to move beyond the enlightenment critique of the previous decade.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T220908Z">
-        <seg>En respuesta a las nuevas circunstancias de los años noventa, un grupo de estudiantes, incluyendo Wang Hui, adoptaron  varias metodologías criticas y posmodernistas a través de las cuales esperaban superar la crítica de la Ilustración de la decada anterior.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T203235Z">
+        <seg>Un grupo de estudiantes, incluyendo Wang Hui, adoptaron  varias metodologías criticas y posmodernistas como respuesta a las nuevas circunstancias de los años noventa y a través de las cuales esperaban superar la crítica de la Ilustración de la década anterior.</seg>
       </tuv>
     </tu>
     <tu>
