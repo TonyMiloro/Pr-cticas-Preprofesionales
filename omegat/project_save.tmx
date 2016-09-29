@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12265,6 +12265,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="marielaromina" changedate="20160927T132244Z">
         <seg>Las relaciones internacionales no son el foco de este libro, sin embargo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International relations are not a focus of this book, but, as we will see, China’s relations with other countries, particularly the United States, have affected the way people view China’s domestic issues, just as those domestic issues influence the way people have seen international relations.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160929T145114Z" creationid="marielaromina" creationdate="20160929T145114Z">
+        <seg>Las relaciones internacionales no son el foco de este libro pero, como veremos más adelante, la relación de China con otros paises, particularmente con los Estados Unidos, afectó la forma en que se entienden los asuntos internos chinos y al mismo tiempo, estos asuntos internos influenciaron la manera en que se entienden las relaciones internacionales.</seg>
       </tuv>
     </tu>
     <tu>
