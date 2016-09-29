@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18071,8 +18071,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
         <seg>Shortly after such speculation appeared, the PRC-owned Hong Kong paper Ta kung pao reported that Deng Xiaoping had set a two-year period for “reflection” and declared that it is “highly unlikely” that Zhao would be put on public trial.32[15]
 Although Deng’s “prediction” that Zhao would not face trial ultimately proved correct, his call for a period of reflection was largely ignored.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160929T183930Z">
-        <seg>Poco después de que aparezca semejante especulacion, el..... informó que Deng Xiaoping había fijado un período de dos años para "reflexión" y declaró que es "muy poco probable" qye Zhao pueda ser puesto en juicio público. Aunque la "predicción" de Deng de que Zhao no enfrentaria un juicio fue correcta, su pedido por un periodo de reflexion fue ampliamente ignorado.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160929T184053Z">
+        <seg>Poco después de que aparezca semejante especulacion, el..... informó que Deng Xiaoping había fijado un período de dos años para "reflexión" y declaró que es "muy poco probable" que Zhao pueda ser puesto en juicio público. Aunque la "predicción" de Deng de que Zhao no enfrentaría un juicio fue correcta, su pedido por un periodo de reflexion fue ampliamente ignorado.</seg>
       </tuv>
     </tu>
     <tu>
