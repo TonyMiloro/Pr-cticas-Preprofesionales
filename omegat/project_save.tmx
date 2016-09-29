@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13992,6 +13992,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Li Xiannian was commander of the Fifth Division, Ye Fei was commander of the First&lt;s7/&gt;Division, and Hong Xuezhi was chief of staff of the Third Division.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160431Z" creationid="constanza" creationdate="20160929T160431Z">
+        <seg>Li Xiannian era comandante de la Quinta División, Ye Fei comandaba la Primera&lt;s7/&gt;División, y Hong Xuezhi era jefe de personal de la Tercera Divisón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Li Xiannian, President of the People’s Republic of China (PRC), allegedly called Zhao the “root cause of the riots and rebellion,” while Party elder Peng Zhen accused Zhao of “attempting to topple the Communist Party and wreaking havoc with the socialist system in coordination with hostile powers at home and abroad.”31[14]
 Putting Zhao on trial, as Deng had the Gang of Four, would have had profound implications for Deng Xiaoping and the continuation of reform.</seg>
       </tuv>
@@ -14886,6 +14894,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T012529Z">
         <seg>Además , la estrategia de reforma ha llevado a una inclinación regional como TVE a lo largo de la costa oriental que ha crecido y desarrollado mientras que la industria y el nivel de vida en el interior ha quedado por detrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, senior conservative Party leaders also supported Jiang Zemin.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160519Z" creationid="constanza" creationdate="20160929T160519Z">
+        <seg>Además, los líderes conservadores de alto rango del Partido apoyaban a Jiang Zemin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20271,6 +20287,14 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The key person was Bo Yibo, the veteran economic planner who somehow maintained close relations with both Chen Yun and Deng Xiaoping.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160544Z" creationid="constanza" creationdate="20160929T160544Z">
+        <seg>La persona clave era Bo Yibo el planificador económico veterano que de alguna manera había logrado mantener relaciones cercana con Chen Yun y Deng Xiaoping.}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The large mass of relatively poor people in China’s interior simply did not have the money for consumption that would drive economic development, without which it would be impossible for those areas to develop a middle class.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="user" changedate="20160929T035750Z" creationid="user" creationdate="20160929T035647Z">
@@ -23988,6 +24012,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When Jiang ﬁrst came to Beijing as general secretary, he cultivated a close relationship with Bo, often visiting his house and seeking his guidance.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160624Z" creationid="constanza" creationdate="20160929T160624Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When Mao’s death in 1976 brought that cataclysm to an end, intellectuals once again resumed their “proper” role in Chinese society.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USUARIO" changedate="20160920T185139Z">
@@ -24813,6 +24845,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zhang Zhen, who would be promoted at the Fourteenth Party Congress, had been Zhang Aiping’s chief of staff.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160458Z" creationid="constanza" creationdate="20160929T160458Z">
+        <seg>Y Zhang Zhen, que iba a ser promovido en el XIV Congreso Nacional del Partido Comunista de China, había sido el jefe de personal de Zhang Aiping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zhang and Meng would be at a press conference that day to report on the SARS situation.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T164523Z">
@@ -24857,6 +24897,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="ROMI" changedate="20160928T215834Z" creationid="ROMI" creationdate="20160928T215834Z">
         <seg>Zhang no comparte la nueva agenda confuciana de resucitar una tradición confunciana revivificada, sin embargo, sí comparte la idea nueva confuciana de que el movimiento del cuatro de mayo ha ido demasiado lejos con respecto a sus críticas en contra de los valores tradicionales chinos, con el resultado de que, " por un largo periodo, hemos debilitado nuestra propia identidad cultural de forma excesiva teniendo en cuenta "las perspectivas" occidentales de lo que es bueno o malo para estar bien o mal". En otras partes del mundo, Zhang afirma que los chinos intelectuales tienen el deber de contruir un "discurso de resistencia" para que el país pueda afrontar las demandas de Occidente de una forma mejor con respecto a cuestiones tales como los derechos humanos y los derechos de propiedad intelectual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang had served as commander of the Fourth Division of the New Fourth Army.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160338Z" creationid="constanza" creationdate="20160929T160338Z">
+        <seg>Zhang había sido comandante de la Cuarta División del Nuevo Cuarto Ejército.</seg>
       </tuv>
     </tu>
     <tu>
