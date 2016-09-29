@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5933,8 +5933,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By the same reasoning, if Zhao had advocated a reform that was based on “bourgeois liberalization” and hence was capitalist in nature, then Zhao’s mistake would not have been a simple error of implementation (one hand firm and the other lax, as Deng put it) but an error of line.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160919T140933Z">
-        <seg>Por el mismo razonamiento, si Zhao hubiese propuesto una reforma basada en la "liberalización burguesa"  y que por consiguente fuera capitalista por naturaleza, el error de Zhao no habria sido un simple error de implementacioón (una mano firme y la otra floja, como lo pone Deng), sino un error de linea.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160929T185327Z">
+        <seg>Por el mismo razonamiento, si Zhao hubiese propuesto una reforma basada en la "liberalización burguesa"  y que,por consiguente fuera capitalista por naturaleza, el error de Zhao no habria sido un simple error de implementacioón (una mano firme y la otra floja, como lo pone Deng), sino un error de linea.</seg>
       </tuv>
     </tu>
     <tu>
