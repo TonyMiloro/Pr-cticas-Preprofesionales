@@ -4661,8 +4661,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At that meeting, conservative Party leaders, concerned that Zhao and others would blunt the campaign against bourgeois liberalization that had unfolded in the wake of Hu Yaobang’s ouster, tried to breathe new fire into the movement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T032355Z">
-        <seg>En este encuentro,los líderes del Partido Conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de infundir nueva vida dentro del movimiento.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T032645Z">
+        <seg>En este encuentro,los líderes del Partido Conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de reavivar el movimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5979,6 +5979,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chen Yun was the only one in the Party with the stature to challenge Deng, but just as he had never challenged Mao, with whom he&lt;s0/&gt;disagreed, he never challenged Deng’s political position.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T033453Z" creationid="Candelaria" creationdate="20160929T033453Z">
+        <seg>Chen Yun era el único en el partido con el prestigio necesario para desafiar a Deng, pero así como nunca había desafiado a Mao, con quién no estaba de acuerdo,  &lt;s0/&gt; tampoco nunca se había opuesto a la posición política de Deng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chen Yun, advocate of a planned economy,</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015820Z">
@@ -7045,8 +7053,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s1/&gt;impossible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005157Z">
-        <seg>Deng siempre ha unido  las palabras "reforma" con "expansión" no sólo porque creía que lamodernización de la economía de China necesitaba dinero, tecnología y mercados de exportación que sólo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha de la categoría internacional para disminuir los llamados domesticos para un énfasis continuo en la lucha de categoría , algo que podría ( y asi lo hizo) tornar laimplementación de la reforma económica mucho más difícil, quizas  &lt;s1/&gt;imposible.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T031720Z">
+        <seg>Deng siempre asoció "reforma" con "expansión" no sólo porque creía que la modernización económica de China necesitaba dinero, tecnología y mercados de exportación que sólo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha internacional de clases. Esta acción era necesaria para atenuar las demandas locales  para un énfasis continuo en la lucha de categoría , algo que podría hacer que la implementación de la reforma económica se tornara aún más difícil, casi imposible, tal como sucedió &lt;s1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7255,8 +7263,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Despite considerable doubt about the wisdom of many of his policies and even a determination to cut back those policies, no one made an effort to remove Deng from his “core” position within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T025309Z">
-        <seg>A pesar de las numerosas dudas que exitían sobre la sensatez de muchas de sus políticas e incluso la determinación para reducir esas políticas, nadie se esforzó en apartar a Deng de su posición central dentro del partido.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T033241Z">
+        <seg>Pese a las numerosas dudas que exitían sobre la sensatez de muchas de sus políticas e incluso la determinación para reducirlas, nadie se esforzó en apartar a Deng de su posición central dentro del partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11028,8 +11036,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In short, in 1989 Deng was fighting a rear-guard action.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T150541Z">
-        <seg>En pocas palabras, en 1989 Deng estaba envuelto en una acción defensiva.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T033143Z">
+        <seg>En pocas palabras, en 1989, Deng estaba envuelto en una acción defensiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20307,8 +20315,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The unraveling of communism in Eastern Europe would make Deng’s position even more difficult as the dangers of “peaceful evolution”&lt;s2/&gt;were brought home vividly to China’s leaders, Deng included.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160908T005138Z">
-        <seg>La resolución del comunismo en Europa Oriental podría complicar aun más la posición de Deng dado que los peligros de una "evolución pacífica" &lt;s2/&gt;llegaron a los hogares de una forma vívida por los líderes de China, incluso Deng.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T033017Z">
+        <seg>El desmoronamiento del comunismo en Europa del Este pondría a Deng en una posición aún más difícil tal como los riesgos de una"revolución pacífica" &lt;s2/&gt;se lo habían dejado claro a los líderes de China, incluso Deng.</seg>
       </tuv>
     </tu>
     <tu>
