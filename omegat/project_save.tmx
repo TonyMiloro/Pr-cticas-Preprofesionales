@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5669,8 +5669,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By doing so, Xing could define a “middle course” for Jiang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T130111Z" creationid="Lucrecia" creationdate="20160927T124047Z">
-        <seg>Al hacer esto, Xing puedo definir un "punto medio" para Jiang.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T144840Z" creationid="Lucrecia" creationdate="20160927T124047Z">
+        <seg>Al hacer esto, Xing pudo definir un "punto medio" para Jiang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21692,8 +21692,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This is in part because the left positions itself as the upholder of Marxist orthodoxy and thus is able to accuse reformers of “deviating” from Marxism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T110510Z" creationid="Lucrecia" creationdate="20160927T110451Z">
-        <seg>Esto sucede de esta manera en parte porque la izquierda se identifica a sí misma como defensora de la ortodoxia marxista y por lo tanto es capaz de acusar a los reformistas de estar "alejándose" del Marxismo.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T144812Z" creationid="Lucrecia" creationdate="20160927T110451Z">
+        <seg>Esto es en parte porque la izquierda se identifica a sí misma como defensora de la ortodoxia marxista y por lo tanto es capaz de acusar a los reformistas de estar "alejándose" del Marxismo.</seg>
       </tuv>
     </tu>
     <tu>
