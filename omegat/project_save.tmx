@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2658,8 +2658,8 @@
       <tuv lang="EN-US">
         <seg>A decade later, however, Chinese intellectuals and the Party alike were re-evaluating that position; the advantages of a middle class in securing social stability had become apparent, and even the Central Organization Department’s study mentioned above argued that China should develop a middle class.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T024258Z" creationid="Agustín" creationdate="20160929T023601Z">
-        <seg>Sin embargo, una década más tarde, los miembros del Partido y un grupo de intelectuales chinos consideraron nuevamente su postura. Se había comprobado las ventajas de tener una clase media como forma de asegurar la estabilidad social. Incluso el estudio realizado por el Departamento de Organización del Comité Central mencionado anteriormente   and even the Central Organization Department’s study mentioned above argued that China should develop a middle class.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T024518Z" creationid="Agustín" creationdate="20160929T023601Z">
+        <seg>Sin embargo, una década más tarde, los miembros del Partido y un grupo de intelectuales chinos consideraron nuevamente su postura. Se había comprobado las ventajas de tener una clase media como forma de asegurar la estabilidad social. Incluso el estudio realizado por el Departamento de Organización del Comité Central mencionado anteriormente confirmó que a China le resularía conveniente la presencia de esta clase social.</seg>
       </tuv>
     </tu>
     <tu>
