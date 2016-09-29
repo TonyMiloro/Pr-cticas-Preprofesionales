@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22089,8 +22089,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There were also clear connections between elements of the elite and expressions of nationalistic opinion, whether through journals such as &lt;/f49&gt;&lt;f50&gt;Strategy and Management&lt;/f50&gt;&lt;f51&gt; &lt;/f51&gt;&lt;f52&gt;or&lt;/f52&gt;&lt;f53&gt; &lt;/f53&gt;&lt;f54&gt;books&lt;/f54&gt;&lt;f55&gt; &lt;/f55&gt;&lt;f56&gt;such&lt;/f56&gt;&lt;f57&gt; &lt;/f57&gt;&lt;f58&gt;as&lt;/f58&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;China&lt;/f60&gt;&lt;f61&gt; &lt;/f61&gt;&lt;f62&gt;Can&lt;/f62&gt;&lt;f63&gt; &lt;/f63&gt;&lt;f64&gt;Say&lt;/f64&gt;&lt;f65&gt; &lt;/f65&gt;&lt;f66&gt;No&lt;/f66&gt;&lt;f67&gt;.&lt;/f67&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T222314Z">
-        <seg>Asimismo, había marcadas conexiones entre elementos de la élite y expresiones de opinión nacionalista, ya sea a través de revistas como 'Strategy and Management' ('Estrategia y administración') o libros como 'China Can Say No' ('China puede decir no').&lt;/f49&gt;&lt;f50&gt;&lt;/f50&gt;&lt;f51&gt;&lt;/f51&gt;&lt;f52&gt;&lt;/f52&gt;&lt;f53&gt;&lt;/f53&gt;&lt;f54&gt;&lt;/f54&gt;&lt;f55&gt;&lt;/f55&gt;&lt;f56&gt;&lt;/f56&gt;&lt;f57&gt;&lt;/f57&gt;&lt;f58&gt;&lt;/f58&gt;&lt;f59&gt;&lt;/f59&gt;&lt;f60&gt;&lt;/f60&gt;&lt;f61&gt;&lt;/f61&gt;&lt;f62&gt;&lt;/f62&gt;&lt;f63&gt;&lt;/f63&gt;&lt;f64&gt;&lt;/f64&gt;&lt;f65&gt;&lt;/f65&gt;&lt;f66&gt;&lt;/f66&gt;&lt;f67&gt;&lt;/f67&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T205101Z">
+        <seg>Asimismo, existían marcadas conexiones entre elementos de la élite y expresiones de opinión nacionalista, ya sea a través de revistas como 'Strategy and Management' ('Estrategia y administración') o libros como 'China Can Say No' ('China puede decir no').&lt;/f49&gt;&lt;f50&gt;&lt;/f50&gt;&lt;f51&gt;&lt;/f51&gt;&lt;f52&gt;&lt;/f52&gt;&lt;f53&gt;&lt;/f53&gt;&lt;f54&gt;&lt;/f54&gt;&lt;f55&gt;&lt;/f55&gt;&lt;f56&gt;&lt;/f56&gt;&lt;f57&gt;&lt;/f57&gt;&lt;f58&gt;&lt;/f58&gt;&lt;f59&gt;&lt;/f59&gt;&lt;f60&gt;&lt;/f60&gt;&lt;f61&gt;&lt;/f61&gt;&lt;f62&gt;&lt;/f62&gt;&lt;f63&gt;&lt;/f63&gt;&lt;f64&gt;&lt;/f64&gt;&lt;f65&gt;&lt;/f65&gt;&lt;f66&gt;&lt;/f66&gt;&lt;f67&gt;&lt;/f67&gt;</seg>
       </tuv>
     </tu>
     <tu>
