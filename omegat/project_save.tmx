@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26334,8 +26334,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhang argues that their success is built on pandering to Western images of China; they have, he says, “used some fantastic and unreasonable things to make Westerners feel stimulated, intoxicated, or nauseated, to make West-ern audiences or readers feel what aesthetics call ‘sublime’ [chonggaogan] and compassionate and to have a sense of racial and cultural superiority [zhongzuwenhuashangdeyouyuegan].</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160929T214613Z">
-        <seg>Zhang argumenta que sus éxitos se basan en consentir las imágenes occidentales de China. Él dice que ellos "usaron algunas cosas fantásticas e irracionales para hacer que los occidentales se sientan estimulados, intoxicados o asqueados, y para que estos espectadores o lectores sientan lo que la estética llama "sublime" [chonggaogan]) y compasivo, y así tener un sentido de superioridad racial y cultural [zhongzuwenhuashangdeyouyuegan].</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T230045Z">
+        <seg>Zhang argumenta que sus éxitos se basan en consentir las imágenes occidentales de China. Él dice que ellos "usaron algunas cosas fantásticas e irracionales para hacer que los occidentales se sientan estimulados, intoxicados o asqueados, y para que estos espectadores o lectores sientan lo que la estética llama "sublime" [chonggaogan] y compasivo, y así tener un sentido de superioridad racial y cultural [zhongzuwenhuashangdeyouyuegan].</seg>
       </tuv>
     </tu>
     <tu>
@@ -26358,8 +26358,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhang does not share the New Confucian agenda of resurrecting a revivified Confucian tradition, but he does share the New Confucian belief that the May Fourth Movement went too far in its criti-cism of Chinese traditional values, with the result that, “[f ]or a fairly long period of time, we have diluted [danhua] our own cultural identity, exces-sively taking Western [views] of right and wrong to be right and wrong.” Elsewhere Zhang declares that it is the duty of Chinese intellectuals to build up a “discourse of resistance” so that the country can better counter Western demands regarding such issues as human rights and intellectual property rights.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160929T223704Z" creationid="ROMI" creationdate="20160928T215834Z">
-        <seg>Zhang no comparte la nueva agenda confuciana de resucitar una nueva versión de esta tradición, sin embargo, sí comparte la idea confuciana de que el movimiento del Cuatro de Mayo fue muy lejos con sus críticas a los valores tradicionales chinos, y como resultado "por un largo periodo, hemos debilitado nuestra propia identidad cultural de forma excesiva teniendo en cuenta [las perspectivas] occidentales de lo que es bueno o malo para estar bien o mal". Zhang afirma que los intelectuales chinos tienen el deber de construir un "discurso de resistencia" para que el país pueda afrontar mejor las demandas de Occidente en cuestiones tales como los derechos humanos y los de propiedad intelectual.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T230145Z" creationid="ROMI" creationdate="20160928T215834Z">
+        <seg>Zhang no comparte la nueva agenda confuciana de resucitar una nueva versión de esta tradición, sin embargo, sí comparte la idea confuciana de que el movimiento del Cuatro de Mayo fue muy lejos con sus críticas a los valores tradicionales chinos, y como resultado "por un largo periodo, hemos debilitado [danhua] nuestra propia identidad cultural de forma excesiva teniendo en cuenta [las perspectivas] occidentales de lo que es bueno o malo para estar bien o mal". Zhang afirma que los intelectuales chinos tienen el deber de construir un "discurso de resistencia" para que el país pueda afrontar mejor las demandas de Occidente en cuestiones tales como los derechos humanos y los de propiedad intelectual.</seg>
       </tuv>
     </tu>
     <tu>
