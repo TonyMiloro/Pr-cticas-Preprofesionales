@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12224,8 +12224,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was toward that end that the Party passed in 1980 the Guiding Rules on Inner Party Life and adopted a new Party constitution two years later.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T005512Z">
-        <seg>El partido aprobó el Reglamento interno del partido en 1980  y adoptó un nuevo estatuto dos años más tarde con ese propósito en mente.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T005635Z">
+        <seg>El partido aprobó con ese propósito en mente el Reglamento interno partidario en 1980 y adoptó un nuevo estatuto dos años más tarde.</seg>
       </tuv>
     </tu>
     <tu>
