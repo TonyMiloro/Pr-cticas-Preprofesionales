@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8609,8 +8609,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Given his inability to promote Zeng Qinghong, Jiang acquiesced to Deng’s choice; he did, after all, name Hu as vice-chairman of the CMC in 1997 and elevated him to be vice-president of the PRC in 1998.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130229Z" creationid="andrea" creationdate="20160928T130229Z">
-        <seg>Debido a que no podía ascender a Zeng Qinghong, Jiang consintió la elección de Deng. A pesar de todo, nombró a Hu presidente de la CMC en 1997 y lo ascendió a la categoría de vice presidente de la RPCh en 1998.</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T001913Z" creationid="andrea" creationdate="20160928T130229Z">
+        <seg>Debido a que no podía ascender a Zeng Qinghong, Jiang consintió la elección de Deng. A pesar de todo, nombró a Hu presidente de la CMC en 1997 y lo ascendió a la categoría de vicepresidente de la RPCh en 1998.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20312,8 +20312,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These appointments, both made following Deng’s death, clearly put Hu in line to succeed Jiang as head of the Party, but Jiang never &lt;t2/&gt;brought Hu into his inner circle.Although Jiang accepted Hu’s heir-apparent status, he never seemed comfortable with it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T130320Z" creationid="andrea" creationdate="20160928T130247Z">
-        <seg>Estos nombramientos, hechos luego de la muerte de Deng, colocó a Hu en el lugar para suceder a Jiang como líder del partido, pero Jiang nunca  &lt;t2/&gt;lo aceptó dentro de su círculo cercano. Si bien Jiang aceptó el estatus heredado de Hu, no se veía a gusto con ello.</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T002138Z" creationid="andrea" creationdate="20160928T130247Z">
+        <seg>Estos nombramientos, hechos luego de la muerte de Deng, colocó a Hu en el lugar para suceder a Jiang como líder del partido, pero Jiang nunca  &lt;t2/&gt;lo admitió dentro de su círculo cercano. Si bien Jiang aceptó el estatus heredado de Hu, no se veía a gusto con ello.</seg>
       </tuv>
     </tu>
     <tu>
