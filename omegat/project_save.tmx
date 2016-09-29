@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5653,8 +5653,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By September, some 44 percent of SOEs were losing money, “triangular debts” had ballooned to 400 billion yuan, and about 80 percent of SOE income went to debt service.&lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;In mid-September, the State Statistical Bureau issued a report in which it said that China’s economy was on the verge of entering the “red zone,” indicating severe trouble.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T140043Z">
-        <seg>En el mes de septiembre, el 44 % de las empresas estatales perdían dinero, las “deudas triangulares” se habían disparado a 400 mil millones de yuanes, y alrededor del 80 % del ingreso de las EPE se destinó al servicio de la deuda&lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;.&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;A mediados de septiembre, la Oficina Nacional de Estadísticas publicó un informe que expresaba que la economía china estaba a punto de entrar en la “zona roja”, lo que indicaba serios problemas.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T140454Z">
+        <seg>En el mes de septiembre, el 44 % de las empresas estatales perdían dinero, las “deudas triangulares” se habían disparado a 400 mil millones de yuanes, y alrededor del 80 % del ingreso de las EPE se destinó al servicio de la deuda&lt;/f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. A mediados de septiembre, la Oficina Nacional de Estadísticas publicó un informe que expresaba que la economía china estaba a punto de entrar en la “zona roja”, lo que indicaba serios problemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12480,8 +12480,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It is not surprising that the personal relationship between Wu Bangguo and Zhu Rongji in the following years was frosty at best.&lt;/f4&gt;&lt;f5&gt;8&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;At the same time, Jiang Chunyun was given the task of overseeing agriculture, another task for which Zhu Rongji had previously been responsible.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T130545Z" creationid="Daniel-Andrea" creationdate="20160929T130512Z">
-        <seg>No era de extrañar que la relación personal entre Wu Bangguo y Zhu Rongji se distanciara en los años siguientes.&lt;/f4&gt;&lt;f5&gt;8.&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;Al mismo tiempo, a Jiang Chunyun se le asignó la tarea de supervisar el sector de agricultura, otra tarea de la que Zhu Rongji se había ocupado previamente.&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T140700Z" creationid="Daniel-Andrea" creationdate="20160929T130512Z">
+        <seg>No era de extrañar que la relación personal entre Wu Bangguo y Zhu Rongji se distanciara en los años siguientes&lt;/f4&gt;&lt;f5&gt;8&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;. Al mismo tiempo, a Jiang Chunyun se le asignó la tarea de supervisar el sector de agricultura, otra tarea de la que Zhu Rongji se había ocupado previamente.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
