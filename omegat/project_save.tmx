@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10123,8 +10123,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hence Wang is not content with calling for political democracy (in which capitalist rela-tions predominate) but argues further that political democracy must be coupled with economic</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160928T232437Z" creationid="Gime" creationdate="20160928T231946Z">
-        <seg>Por lo tanto, Wang no está conforme con exigir democracia política (en la que predominan las relaciones capitalistas) pero profundiza en que ésta debe acompañarse de democracia  </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T233556Z" creationid="Gime" creationdate="20160928T231946Z">
+        <seg>Por lo tanto, Wang no está conforme con exigir democracia política (en la que predominan las relaciones capitalistas) pero agrega que ésta debe acompañarse de democracia  </seg>
       </tuv>
     </tu>
     <tu>
