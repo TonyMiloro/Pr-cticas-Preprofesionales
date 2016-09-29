@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24901,8 +24901,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang Hui, one of the leading intellectuals in contemporary China, has argued that they continue to accept Western understandings of modernity; the narrative or the developmental model may differ from that of the West, but the goal remains the same.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160927T162618Z" creationid="Martin" creationdate="20160927T162125Z">
-        <seg>Wang Hui, uno de los principales intelectuales en China contemporánea, argumenta que siguen aceptando el entendimiento Occidental de modernida. La narrativa o el modelo del desarollo puede ser diferente del modelo occidental, pero el objetivo es el mismo.  </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T230953Z" creationid="Martin" creationdate="20160927T162125Z">
+        <seg>Wang Hui, uno de los principales intelectuales en China contemporánea, sostiene que siguen aceptando el entendimiento occidental sobre la modernidad. La narrativa o el modelo de desarollo puede diferir del de Occidente, pero el objetivo es el mismo.  </seg>
       </tuv>
     </tu>
     <tu>
