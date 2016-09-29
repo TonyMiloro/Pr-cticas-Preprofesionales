@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10001,6 +10001,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hu was a victim of the internecine&lt;s5/&gt;battles then raging between Hu Yaobang and Zhao Ziyang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154325Z" creationid="constanza" creationdate="20160929T154325Z">
+        <seg>Hu fue una víctima de las luchas&lt;s5/&gt;internas en ese entonces entre Hu Yaobang y Zhao Ziyang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hu was careful to give credit to his predecessor, but his personal behavior and attention to the “fundamental interests of the vast majority of the people” nevertheless differed signiﬁcantly from the behavior of Jiang.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T014536Z" creationid="Ana Maria" creationdate="20160929T014536Z">
@@ -10021,6 +10029,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160923T211834Z">
         <seg>Los logros alcanzados por Hu en el Congreso del Partido se vieron reflejados en estos dos hechos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hu,&lt;s4/&gt;who is open-minded but circumspect, got along well with Song, and Song became his primary supporter.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154202Z" creationid="constanza" creationdate="20160929T154202Z">
+        <seg>Hu,&lt;s4/&gt;que es de mente abierta pero circunspecto, se entendió con Song, y éste se convirtió en su principal seguidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11790,6 +11806,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160915T174812Z">
         <seg>En los meses previos a la visita del presidente Clinton, China&lt;t20/&gt; &lt;t21/&gt;demostró un interés considerable en unirse a la OMC, pero los negociadores estadounidenses estaban&lt;t22/&gt; &lt;t23/&gt;convencidos de que China todavía esperaba un "pase político" - es decir, un&lt;t24/&gt; &lt;t25/&gt;acuerdo que les permitiría entrar en la OMC sin consideración por las relaciones&lt;t26/&gt; &lt;t27/&gt;entre Estados Unidos y China en vez de requerir compromisos económicos serios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the period prior to Tiananmen, Zhao Ziyang arranged for Hu to go to Guizhou as Party secretary, much to Hu’s dismay.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154225Z" creationid="constanza" creationdate="20160929T154225Z">
+        <seg>En el período anterior a Tiananmén, Zhao Ziyang arregló para que Hu fuera a Guizhou como Secretario General del Partido, a pesar de la consternación de Hu.</seg>
       </tuv>
     </tu>
     <tu>
