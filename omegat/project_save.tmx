@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9699,8 +9699,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu stepped up his campaign against corruption in June 2006 by suddenly dismissing Liu Zhihua, the vice-mayor of Beijing in charge of construction for the Olympic Games.&lt;t0/&gt;112&lt;t1/&gt; Not long thereafter, Wang Yeshou was removed as deputy commander of the Navy, and He Minxu, a vice-governor in Anhui province, and Li Baojin, the president of Tianjin’s Procuratorate, were detained for corruption.&lt;t2/&gt;113&lt;t3/&gt; In at least three of these four cases, “bad morals” were included in the reports by the Xinhua News Agency.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Pablo" changedate="20160914T221236Z">
-        <seg>En junio de 2006 Hu intensificó su campaña contra la corrupción al despedir inesperadamente a Liu Zhihua, el vicealcalde de Pekín, quien estaba a cargo de los proyectos de construcción para los Juegos Olímpicos.&lt;t0/&gt;112&lt;t1/&gt; Poco tiempo después, Wang Yeshou fue destituido de su puesto como vicealmirante de la Armada; además, fueron detenidos por corrupción He Minxu, vicegobernador de la provincia de Anhui, y Li Baojin, presidente de la Fiscalía de Tianjin.&lt;t2/&gt;113&lt;t3/&gt; La Agencia de Noticias Xinhua habló de la existencia de "conductas inmorales" en al menos tres de estos cuatro casos en sus informes.</seg>
+      <tuv lang="ES-US" changeid="Pablo" changedate="20160929T045747Z">
+        <seg>En junio de 2006 Hu intensificó su campaña contra la corrupción al despedir inesperadamente a Liu Zhihua, el vicealcalde de Pekín, quien estaba a cargo de los proyectos de construcción para las Olimpíadas.&lt;t0/&gt;112&lt;t1/&gt; Poco tiempo después, Wang Yeshou fue destituido de su puesto como vicealmirante de la Armada; además, fueron detenidos por corrupción He Minxu, vicegobernador de la provincia de Anhui, y Li Baojin, presidente de la Fiscalía de Tianjin.&lt;t2/&gt;113&lt;t3/&gt; La Agencia de Noticias Xinhua habló de la existencia de "conductas inmorales" en al menos tres de estos cuatro casos en sus informes.</seg>
       </tuv>
     </tu>
     <tu>
