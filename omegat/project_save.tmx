@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19104,8 +19104,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Such values and categories proved powerful when reflecting on the failings of socialism in the 1980s, but they lost their vigor, Wang argued, as globalization and marketization changed the relationships between state and society in China and between China and the outside world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T214836Z">
-        <seg>Dichos valores y categorias resultaron poderosas al reflexionar sobre los fracasos del socialismo en los años ochenta, pero perdieron su vigor ya que la globalización y la mercadización modificaron las relaciones entre el estado y la sociedad en China, asi como también entre China y el mundo exterior, según Wang.  </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T201608Z">
+        <seg>Según Wang, dichos valores y categorias resultaron poderosos al reflexionar sobre los fracasos del socialismo en los años ochenta, pero perdieron su vigor ya que la globalización y la mercadización modificaron las relaciones entre el Estado y la sociedad en China, asi como también entre China y el mundo exterior.  </seg>
       </tuv>
     </tu>
     <tu>
