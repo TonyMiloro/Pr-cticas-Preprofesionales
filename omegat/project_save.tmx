@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3660,8 +3660,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the May Fourth enlightenment project dominated intellectual endeavors in the 1980s, it was badly shaken by the end of the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160904T010844Z">
-        <seg>Aunque el proyecto de la Ilustración dominó los esfuerzos intelectuales en  los años ochenta, fue gravemente alterado hacia el final de los años noventa. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T200952Z">
+        <seg>Aunque el proyecto de la Ilustración dominó los esfuerzos intelectuales en  los años ochenta, fue gravemente alterado para finales de los años noventa. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6109,8 +6109,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>C R I T I Q U E O F T H E M AY F O U RT H E N L I G H T E N M E N T P R O J E C T</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160907T213920Z">
-        <seg>Crítica al proyecto de la ilustración del cuatro de mayo</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T200808Z">
+        <seg>Crítica al proyecto de la Ilustración del Cuatro de Mayo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6653,8 +6653,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>China since Tiananmen</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182237Z">
-        <seg>China desde Tianamén</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T200729Z">
+        <seg>China desde Tiananmén</seg>
       </tuv>
     </tu>
     <tu>
@@ -24219,8 +24219,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang Hui, the editor of Reading mentioned previously, has argued that enlight-enment thought lost its vitality because it was predicated on a fundamental acceptance of Western categories of thought – including liberal democ-racy, neoclassical economics, individualism, and law – and because it relied on such dichotomies as China versus the West and tradition versus modernity to analyze China’s problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160908T220847Z">
-        <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y también porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T201238Z">
+        <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y también porque depende de ciertas dicotomías como China versus Occidente y tradición versus modernidad para analizar los problemas de este país.</seg>
       </tuv>
     </tu>
     <tu>
