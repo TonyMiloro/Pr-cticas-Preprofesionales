@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3868,8 +3868,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And Tian had offended many conservatives by his caustic ridicule – not to mention by his close relationship with Zhao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154909Z" creationid="constanza" creationdate="20160929T154909Z">
-        <seg>Y Tian había ofendido a muchos conservadores con su acciones ridículas y agresivas sin mencionar su relación cercana con Zhao.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T184946Z" creationid="constanza" creationdate="20160929T154909Z">
+        <seg>Y Tian había ofendido a muchos conservadores con su acciones ridículas y agresivas, sin mencionar su relación cercana con Zhao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7605,8 +7605,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng’s most important consideration, however, may have been to maintain balance between reformers and conservatives.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154935Z" creationid="constanza" creationdate="20160929T154935Z">
-        <seg>Sin embargo, el objetivo más importante de Deng podría haber sido mantener un balance entre reformistas y conservadores.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T185118Z" creationid="constanza" creationdate="20160929T154935Z">
+        <seg>El objetivo más importante de Deng,sin embargo, podría haber sido mantener un balance entre reformistas y conservadores.</seg>
       </tuv>
     </tu>
     <tu>
