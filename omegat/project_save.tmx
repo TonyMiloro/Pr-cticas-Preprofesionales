@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4340,8 +4340,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As a Communist Youth League (CYL) leader, Hu had good ties with Hu Yaobang and other reformers, but he had emerged following the Cultural Revolution as head of the CYL in Gansu province, where the conservative Song Ping was Party secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T183459Z" creationid="constanza" creationdate="20160929T154011Z">
-        <seg>Como líder de la Liga de la Juventud Comunista (LJC), Hu mantenía buenas relaciones con Hu Yaobang y otros reformistas, pero él había surgido luego de la Revolución Cultural como jefe de la LJC en la provincia de Gansu, donde el conservador Song Ping era Secretario General del Partido.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T183754Z" creationid="constanza" creationdate="20160929T154011Z">
+        <seg>Como líder de la Liga de la Juventud Comunista (LJC), Hu mantenía buenas relaciones con Hu Yaobang y otros reformistas, pero él había surgido como jefe de la LJC luego de la Revolución Cultural en la provincia de Gansu, donde el conservador Song Ping era secretario general del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11996,8 +11996,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the period prior to Tiananmen, Zhao Ziyang arranged for Hu to go to Guizhou as Party secretary, much to Hu’s dismay.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T154225Z" creationid="constanza" creationdate="20160929T154225Z">
-        <seg>En el período anterior a Tiananmén, Zhao Ziyang arregló para que Hu fuera a Guizhou como Secretario General del Partido, a pesar de la consternación de Hu.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T183829Z" creationid="constanza" creationdate="20160929T154225Z">
+        <seg>En el período anterior a Tiananmén, Zhao Ziyang arregló para que Hu fuera a Guizhou como secretario general del Partido, a pesar de la consternación de Hu.</seg>
       </tuv>
     </tu>
     <tu>
