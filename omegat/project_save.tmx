@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3820,8 +3820,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>An example of the &lt;t0/&gt;former is Chinese artists whose works have become popular in the West, such as the film director Zhang Yimou, Zheng Nian (Cheng Nien, the author of Life and Death in Shanghai), and Zhang Rong (Chang Jung, author of Wild Swans and, more recently, co-author of The Unknown Story of Mao).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T160447Z" creationid="Martin" creationdate="20160929T160447Z">
-        <seg>Un ejemplo de lo &lt;t0 /&gt;  anteriormentedicho hacen referencia a artistas chinos cuyas obras han llegado a ser popular en Occidente, como el director de cine Zhang Yimou, Zheng Nian (Cheng Nien, el autor de la vida y la muerte en Shanghai), y Zhang Rong (Chang Jung, autor de cisnes salvajes y, más recientemente, co-autor de La historia desconocida de Mao).</seg>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T160541Z" creationid="Martin" creationdate="20160929T160447Z">
+        <seg>Un ejemplo de lo &lt;t0 /&gt;  anteriormentedicho hacen referencia a artistas chinos cuyas obras han llegado a ser popular en Occidente, como el director de cine Zhang Yimou, Zheng Nian (Cheng Nien, el autor de la vida y la muerte en Shanghai), y Zhang Rong (Chang Jung, autor de cisnes salvajes y, más recientemente, co-autor de la historia desconocida de Mao).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11182,6 +11182,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T003850Z">
         <seg>En oposición directa a las tésis de Deng, sobre la cuál el desarrollo económico promovería la estabilidad social y los debates ideológicos deberían ser desplazados, o mejor quizás, no llevados a cabo; Wang discutió que la estabilidad solo podría&lt;s2/&gt; ser construída sobre la base de la ideología Marxista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In doing so, Wang argues that the problem of socialism in China is part of a worldwide “crisis of modernity,” so any answer to China’s problems cannot be based solely &lt;t0/&gt;on Western concepts of modernity but must respond also to the problems in Western capitalism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T160841Z" creationid="Martin" creationdate="20160929T160841Z">
+        <seg>De este modo, Wang sostiene que el problema del socialismo en China es parte de una "crisis mundial de la modernidad", es por eso que cualquier respuesta a los problemas de China no pueden basarse únicamente &lt;t0 /&gt; en los conceptos occidentales de la modernidad sino que deben responder también a los problemas en el capitalismo occidental</seg>
       </tuv>
     </tu>
     <tu>
