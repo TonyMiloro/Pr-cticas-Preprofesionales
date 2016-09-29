@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20651,8 +20651,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These economic changes, which have been paralleled by social changes less easy to capture with statistics, have forced the Chinese government increasingly to adopt indirect ways of managing the economy, thus chang-ing in important ways the state–society relationship.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T024418Z">
-        <seg>Estos cambios económicos, que ocurrían al mismo tiempo que cambios sociales más dificiles de capturar en estadísticas, han forzado al gobierno chino a adoptar, con mayor frecuencia, maneras indirectas de manejar la economía, las cuales han cambiado significativamente la relación entre el estado y la sociedad. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160929T024907Z">
+        <seg>Estos cambios económicos, que estuvieron acompañados por cambios sociales más dificiles de capturar en estadísticas, han forzado al gobierno chino a adoptar, con mayor frecuencia, maneras indirectas de manejar la economía, las que han cambiado significativamente la relación entre el estado y la sociedad. </seg>
       </tuv>
     </tu>
     <tu>
