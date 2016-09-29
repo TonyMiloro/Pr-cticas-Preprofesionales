@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3562,6 +3562,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although intensely conscious of his role as Party leader and hence sensitive to perceived slights, Jiang was nevertheless a consensus builder.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223414Z" creationid="mannu" creationdate="20160929T223414Z">
+        <seg>A pesar de ser totalmente consciente de su rol como líder del partido, y por este motivo estar susceptible a los notables desprecios, Jiang, de todas maneras, promovía el consenso. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although it was enthusiastically supported by reform-minded intellectuals and by then-&lt;t0/&gt;General Secretary&lt;t1/&gt; Zhao Ziyang (who ironically presented a copy of the series to visiting Singapore senior minister Lee Kuan Yew, an outspoken champion of traditional Chinese values), River Elegy aroused a storm of criticism from different points along the ideological spectrum.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160919T060557Z">
@@ -4014,6 +4022,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160928T231227Z">
         <seg>Y cuarto, el cambio social, que afectó la forma en que se pensaba la sociedad y forzó al Estado a modificar su agenda. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And he realized that both his own personal authority and the legitimacy of the Party required greater attention to institution building.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223608Z" creationid="mannu" creationdate="20160929T223558Z">
+        <seg>Se dio cuenta de que su autoridad personal tanto como la legitimidad del partido requerían que se preste mayor atención al desarrollo institucional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9905,6 +9921,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He preferred to meet challenges by maneuvering rather than by confrontation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223437Z" creationid="mannu" creationdate="20160929T223437Z">
+        <seg>Prefería enfrentar los desafíos estratégicamente y no por medio de la confrontación. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He quoted Hu Shi, &lt;t11/&gt;one of the founders of the May Fourth Movement, as follows: "Now, there are some people who tell you, 'Sacrifice your individual freedom and strive &lt;t12/&gt;for the freedom of the country!' I say to them, 'Fighting for your individ- &lt;t13/&gt;ual freedom is fighting for freedom for the country!</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160929T182001Z" creationid="joaquin" creationdate="20160928T102915Z">
@@ -14002,8 +14026,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang lacked the revolutionary legitimacy, the authority within the military and other key Party components, and perhaps the personality to dominate the Party the way Deng had.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223308Z" creationid="mannu" creationdate="20160929T223308Z">
-        <seg>Jiang carecía de la legitimidad revolucionaria, la autoridad ante las fuerzas armadas y otros componentes clave del partido, y quizás también de la personalidad necesaria para manejar el partido de la manera en que Deng lo hacía..</seg>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223315Z" creationid="mannu" creationdate="20160929T223308Z">
+        <seg>Jiang carecía de la legitimidad revolucionaria, la autoridad ante las fuerzas armadas y otros componentes clave del partido, y quizás también de la personalidad necesaria para manejar el partido de la manera en que Deng lo hacía.</seg>
       </tuv>
     </tu>
     <tu>
