@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11466,6 +11466,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In so arguing, Cui seems to be combining a moral revulsion at the concentration of wealth and abuse of power that have occurred in the reform years with an idealism that socialist and economic democracy can be implemented in China despite the lack of stable social, economic, and legal institutions to build upon.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T154129Z" creationid="Martin" creationdate="20160929T154104Z">
+        <seg>De tanta discusión, parece ser que Cui combina una moral repugnante </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In some ways, China had sidestepped the problem of SOEs in the 1980s and early 1990s as the TVE sector grew dramatically.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160927T194439Z">
@@ -16950,8 +16958,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Put in more general terms, Cui’s work argues that China should not pursue single-mindedly the neoliberal economic model of the West – not only because significant questions about the validity of that model have been raised in the West but also because China can build on its own legacies (and here he means the legacies of socialism) to avoid some of the problems of the West.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T153707Z" creationid="Martin" creationdate="20160929T153707Z">
-        <seg>En términos más generales, el trabajo de Cui sostiene que China no debe perseguir un solo propósito del modelo económico neoliberal de Occidente, no solo porque las preguntas importantes acerca de la validez de ese modelo se han planteado en el Oeste, sino también porque China se basará en su legados propios (y aquí significa el legado del socialismo) para evitar algunos de los problemas de Occidente</seg>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T153912Z" creationid="Martin" creationdate="20160929T153707Z">
+        <seg>En términos más generales, el trabajo de Cui sostiene que China no debe perseguir un solo propósito del modelo económico neoliberal de Occidente, no solo porque las preguntas importantes acerca de la validez de ese modelo se han planteado en el Oeste, sino también porque China se basará en su legados propios (y acá expresa el legado del socialismo) para evitar algunos de los problemas de Occidente.</seg>
       </tuv>
     </tu>
     <tu>
