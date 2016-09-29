@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25910,8 +25910,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhang argues that humanism contains within it the anti-humanist values that became the basis of colonialism and culminated in the Holocaust: “The evil perpetuated on the Jews under German fascism was the inevitable [result] of the logical development of enlightenment discourse; it returned the anti-humanist practice hidden in the humanist faith from the colonies back to Europe.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T183454Z">
-        <seg>Zhang argumenta que el humanismo contiene dentro de él valores antihumanistas los cuales se convirtieron en la base del colonialismo y culminaron en el Holocausto: "La maldad que subsistía en los judios bajo el fascismo alemán era el resultado inevitable del desarrollo lógico del discurso de la Ilustración, le devolvió la práctica antihumanista escondida en la fe humanista desde las colonias de vuelta hacia Europa".</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T221520Z">
+        <seg>Zhang argumenta que el humanismo contiene dentro de si valores antihumanistas que se convirtieron en la base del colonialismo y culminaron en el Holocausto: "La maldad que subsistía en los judios bajo el fascismo alemán era el [resultado] inevitable del desarrollo lógico del discurso de la Ilustración; este devolvió la práctica antihumanista oculta en la fe humanista desde las colonias de vuelta a Europa".</seg>
       </tuv>
     </tu>
     <tu>
