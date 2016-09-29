@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8369,8 +8369,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, in calling for patriotism in the context of opening to the outside world, one article stated – in an implicit but clear reference to Deng Liqun’s wellknown comment – that “some comrades even believe that every new bit [fen] of foreign investment that is brought in is another bit of capitalism.”51 At least two of the commentaries highlighted the thesis that China was in the “primary stage of socialism,” a thesis that would become central at the Fifteenth Party Congress in 1997.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160924T180229Z">
-        <seg>Por ejemplo, para pedir por patriotismo en el contexto de la apertura al mundo exterior, un artículo afirmaba, en una referencia implícita pero clara a la observación bien conocida de Deng Liqun, que “algunos compañeros creen incluso que cada nueva moneda [fen] que se trae de la inversión extranjera es otra moneda del capitalismo”. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T024520Z">
+        <seg>Por ejemplo, para hablar de patriotismo en el contexto de la apertura al mundo, un artículo afirmaba, en una referencia implícita pero clara a la observación bien conocida de Deng Liqun, que “algunos compañeros creen incluso que cada nueva moneda [fen] que se trae de la inversión extranjera es otra moneda del capitalismo”. </seg>
       </tuv>
     </tu>
     <tu>
