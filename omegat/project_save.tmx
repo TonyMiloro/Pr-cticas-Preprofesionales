@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20096,8 +20096,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Their findings were quite sobering.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T003221Z" creationid="Agustín" creationdate="20160929T003221Z">
-        <seg>Los resultados fueron bastante Their findings were quite sobering.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T003424Z" creationid="Agustín" creationdate="20160929T003221Z">
+        <seg>Los resultados fueron bastante reveladores.</seg>
       </tuv>
     </tu>
     <tu>
