@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4622,6 +4622,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T215012Z" creationid="marcelo lavarda" creationdate="20160928T201808Z">
         <seg>Como dijo, el partido ha declarado repetidas veces que los empresarios privados, por ser capitalistas involucrados en la explotación, no tienen permititdo ingresar al partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As important as securing personal power was, Jiang was not – and could not become – the sort of pre-eminent leader Deng had been.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223159Z" creationid="mannu" creationdate="20160929T223152Z">
+        <seg>Con lo importante que era asegurar el poder personal, Jiang no era (y no podría ser) la clase de líder privilegiado que había sido Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12034,6 +12042,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In short, the Fifteenth Party Congress was an important milestone in the Party’s development: the first time power had passed fully from the revolutionary generation to a post-revolutionary generation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T222812Z" creationid="mannu" creationdate="20160929T222751Z">
+        <seg>En resumen, el Decimoquinto Congreso del Partido fue un hito importante para el desarrollo de este partido: fue la primera vez que el poder pasó completamente de una generación revolucionaria a una generación posrevolucionaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In short, the transfer of power would not be complete until &lt;t107/&gt;Hu &lt;t108/&gt;had taken over as head of the &lt;t109/&gt; &lt;t110/&gt;military.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T135858Z">
@@ -13960,6 +13976,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jiang had survived from an imp&lt;t0/&gt;robable beginning to become “core” of the Party in reality.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223117Z" creationid="mannu" creationdate="20160929T223110Z">
+        <seg>Jiang había iniciado su carrera con inseguridad &lt;t0/&gt;y terminó siendo el “corazón” del partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jiang had tried to elevate Zeng Qinghong to Politburo Standing Committee (PBSC) status in the years before the Sixteenth Party Congress, but this had been rejected by his colleagues, suggesting that Jiang’s power had limits and that Zeng was not popular among the upper echelons of the CCP.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andre" changedate="20160929T001052Z" creationid="andrea" creationdate="20160928T130147Z">
@@ -13972,6 +13996,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174355Z" creationid="Silvina Nuñez" creationdate="20160927T174355Z">
         <seg>El poder de Jiang no se acercaba al de sus predecesores Mao y Deng. Tenía que recurrir a reglas generales para oponerse a sus antagonistas políticos personales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang lacked the revolutionary legitimacy, the authority within the military and other key Party components, and perhaps the personality to dominate the Party the way Deng had.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T223308Z" creationid="mannu" creationdate="20160929T223308Z">
+        <seg>Jiang carecía de la legitimidad revolucionaria, la autoridad ante las fuerzas armadas y otros componentes clave del partido, y quizás también de la personalidad necesaria para manejar el partido de la manera en que Deng lo hacía..</seg>
       </tuv>
     </tu>
     <tu>
@@ -15510,6 +15542,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T225449Z">
         <seg>Asimismo, mediante una crítica directa a Deng&lt;t0/&gt;Liqun&lt;t1/&gt;, Deng Xiaoping manifestó que “decir que la reforma y la apertura significa introducir y desarrollar el capitalismo y creer que el peligro principal a la evolución pacífica proviene del ámbito económico es “de izquierda”. Deng también manifestó que todo aquel que se oponga a la reforma debe “desistir”, lo que significó una amenaza que se llevaría a cabo en contra de varios líderes conservadores durante el próximo otoño y que estaba claramente planeada para sacudir también al precavido Jiang Zemin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, it had done so smoothly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="mannu" changedate="20160929T222900Z" creationid="mannu" creationdate="20160929T222853Z">
+        <seg>Además, esto sucedió muy lentamente.</seg>
       </tuv>
     </tu>
     <tu>
