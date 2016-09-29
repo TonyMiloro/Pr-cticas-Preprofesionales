@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3796,7 +3796,7 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Among Party conservatives there was a deep sense of “we told you so.” Their warnings, they believed, had not been listened to, and Tiananmen was the fulfillment of their predictions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T173310Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T180755Z">
         <seg>Entre los miembros del partido conservador, había una gran impresión de "Te lo habíamos advertido". Los conservadores creían que sus advertencias no habían sido escuchadas, y Tiananmén fue la materialización de estas predicciones.</seg>
       </tuv>
     </tu>
@@ -4941,8 +4941,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At that meeting, conservative Party leaders, concerned that Zhao and others would blunt the campaign against bourgeois liberalization that had unfolded in the wake of Hu Yaobang’s ouster, tried to breathe new fire into the movement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T032645Z">
-        <seg>En este encuentro,los líderes del Partido Conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de reavivar el movimiento.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T180755Z">
+        <seg>En este encuentro,los líderes del partido conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de reavivar el movimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10851,8 +10851,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In November 1989, Chen Yun’s economic thought was restored as orthodoxy by the Fifth Plenary Session of the Thirteenth Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T010311Z">
-        <seg>En noviembre de 1989, el pensamiento económico de Chen Yun fue restaurado como ortodoxia por la Quinta sesión plenaria del Decimo Tercer Comité Central</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T181035Z">
+        <seg>En noviembre de 1989, el pensamiento económico de Chen Yun fue restaurado como ortodoxia por la Quinta sesión plenaria del Décimo Tercer Comité Central</seg>
       </tuv>
     </tu>
     <tu>
