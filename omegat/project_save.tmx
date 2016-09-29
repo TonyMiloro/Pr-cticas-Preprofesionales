@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6931,6 +6931,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cui places great weight on the role of &lt;t0/&gt;institutions both in chang-ing individual behavior and in supporting ideals: “Human nature is not immutable.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T152921Z" creationid="Martin" creationdate="20160929T152921Z">
+        <seg>Cui pone un gran peso sobre el papel de &lt;t0 /&gt; instituciones tanto en Chang-ción de la conducta individual y en los ideales de apoyo: "La naturaleza humana no es inmutable."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cui, who received his Ph.D.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160928T234644Z" creationid="Gime" creationdate="20160928T234644Z">
@@ -9341,6 +9349,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160916T063754Z">
         <seg>Argumentaba que el mundo iba en camino hacia la unidad, pero que tal unidad podría darse bajo el dominio estadounidense o integrarse sobre la base de "igualdad, soberanía equitativa, interés común y cooperación". "Si Estados Unidos logra alcanzar sus ambiciones a nivel mundial, el mundo entrará en una era oscura y caótica", advertió. El mayor obstáculo para que se concreten las ambiciones estadounidenses es China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He believes that reformers who want to move quickly to clarify property rights are engaged in a type of “institutional fetishism” that will prema-turely close off important institutional innovations and curtail economic democracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T152649Z" creationid="Martin" creationdate="20160929T152529Z">
+        <seg>Él cree que los reformistas, que quieren moverse con rapidéz para aclarar los derechos de la propiedad, están involucrados en un tipo de "fetichismo institucional" que cerrará prematuramente importantes innovaciones institucionales y que a la vez limitará la democracia económica.</seg>
       </tuv>
     </tu>
     <tu>
