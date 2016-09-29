@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21692,8 +21692,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This is the same group of people that He Qinglian described when she argued that, through the “marketization of politics,” officials – or those with close relations to officials – have directed millions of dollars worth of assets into private hands, bringing about a form of “primitive socialist accumulation” that rivals anything Marx and Engels observed about “primitive capitalist accumulation.” The result, He argued, has been income inequality surpassing that in either Japan or the United States (keeping in mind that China had a much more equal distribution of income than either of those countries less than a decade before), the rise of secret societies, and mass resentment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T141219Z" creationid="Lucrecia" creationdate="20160927T015922Z">
-        <seg>Este es el mismo grupo de gente que He Qinglian describió cuando presentó que, a través de la "mercantilización de la política", los funcionarios (o aquellos con una relación cercana con funcionarios) han dirigido millones de dólares en activos a cuentas privadas, lo cual crea una nueva forma de "acumulación socialista primitiva" que compite con todo lo que Marx y Engels analizaron acerca de la "acumulación socialista primitiva".</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T144503Z" creationid="Lucrecia" creationdate="20160927T015922Z">
+        <seg>Este es el mismo grupo de gente que He Qinglian describió cuando sostuvo que, a través de la "mercantilización de la política", los funcionarios (o aquellos con una relación cercana con funcionarios) han dirigido millones de dólares en activos a cuentas privadas, lo cual crea una nueva forma de "acumulación socialista primitiva" que compite con todo lo que Marx y Engels analizaron acerca de la "acumulación socialista primitiva".</seg>
       </tuv>
     </tu>
     <tu>
