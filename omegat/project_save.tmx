@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21843,8 +21843,8 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
         <seg>The third point reads, “Marxists must admit that there are line struggles within the Party, which is part of normal Party life, and it is necessary to actively launch inner-Party criticism and self-criticism.”37[20]
 Both personal animosity toward Zhao and broader criticism of the “line” that Zhao was supposedly heading came through in press commentary in the summer and fall of 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T212951Z">
-        <seg>El tercer punto lee, "los marxistas deben admitir que hay luchas de línea dentro del partido, lo que es parte de una vida normal del partido y es necesario lanzar una crítica intrapartidiaria vigorosamente y una autocrítica".37 La animosidad personal hacia Zhao y una crítica más amplia de la "línea" que Zhao aparentemente encabezaba fueron comentarios de la prensa en el verano y otoño de 1989.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T215045Z">
+        <seg>El tercer punto lee, "los marxistas deben admitir que hay luchas de línea dentro del partido, lo que es parte de la vida normal del partido y es necesario lanzar una crítica intrapartidiaria vigorosamente y una autocrítica".37 La animosidad personal hacia Zhao y una crítica más amplia de la "línea" que Zhao aparentemente encabezaba fueron comentarios de la prensa en el verano y otoño de 1989.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23251,8 +23251,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This trend of bourgeois liberalization, Song asserted, went against the Marxist political line set by the Third Plenum in 1978, and Tiananmen was the “bitter fruit of violating this [Marxist] line” (emphasis added).36[19] Similarly, Chen Yun referred to “line struggle” in the “six points” that he conveyed to the Central Advisory Commission in November 1991.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T214753Z">
-        <seg>Esta tendencia de liberación burguesa, según lo afirmaba Song, iba en contra de la línea política marxista fijada por el Tercer Plenario en 1789, y Tiananmén era el "fruto amargo por violar esta línea [marxista]" (énfasis añadido).36 De manera similar, Chen Yun se refirió a la "lucha de línea" en los "seis puntos" que expresó en la Comisión Asesora Central en noviembre de 1991. </seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T214853Z">
+        <seg>Esta tendencia de liberación burguesa, según lo afirmaba Song, iba en contra de la línea política marxista fijada por el Tercer Plenario en 1789, y Tiananmén era el "fruto amargo por violar esta línea [marxista]" (énfasis añadido).36 De manera similar, Chen Yun se refirió a la "lucha de línea" en los "seis puntos" que expresó a la Comisión Asesora Central en noviembre de 1991. </seg>
       </tuv>
     </tu>
     <tu>
