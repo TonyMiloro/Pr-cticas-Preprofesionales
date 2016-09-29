@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26102,8 +26102,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhang does not share the New Confucian agenda of resurrecting a revivified Confucian tradition, but he does share the New Confucian belief that the May Fourth Movement went too far in its criti-cism of Chinese traditional values, with the result that, “[f ]or a fairly long period of time, we have diluted [danhua] our own cultural identity, exces-sively taking Western [views] of right and wrong to be right and wrong.” Elsewhere Zhang declares that it is the duty of Chinese intellectuals to build up a “discourse of resistance” so that the country can better counter Western demands regarding such issues as human rights and intellectual property rights.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160928T215834Z" creationid="ROMI" creationdate="20160928T215834Z">
-        <seg>Zhang no comparte la nueva agenda confuciana de resucitar una tradición confunciana revivificada, sin embargo, sí comparte la idea nueva confuciana de que el movimiento del cuatro de mayo ha ido demasiado lejos con respecto a sus críticas en contra de los valores tradicionales chinos, con el resultado de que, " por un largo periodo, hemos debilitado nuestra propia identidad cultural de forma excesiva teniendo en cuenta "las perspectivas" occidentales de lo que es bueno o malo para estar bien o mal". En otras partes del mundo, Zhang afirma que los chinos intelectuales tienen el deber de contruir un "discurso de resistencia" para que el país pueda afrontar las demandas de Occidente de una forma mejor con respecto a cuestiones tales como los derechos humanos y los derechos de propiedad intelectual.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T223704Z" creationid="ROMI" creationdate="20160928T215834Z">
+        <seg>Zhang no comparte la nueva agenda confuciana de resucitar una nueva versión de esta tradición, sin embargo, sí comparte la idea confuciana de que el movimiento del Cuatro de Mayo fue muy lejos con sus críticas a los valores tradicionales chinos, y como resultado "por un largo periodo, hemos debilitado nuestra propia identidad cultural de forma excesiva teniendo en cuenta [las perspectivas] occidentales de lo que es bueno o malo para estar bien o mal". Zhang afirma que los intelectuales chinos tienen el deber de construir un "discurso de resistencia" para que el país pueda afrontar mejor las demandas de Occidente en cuestiones tales como los derechos humanos y los de propiedad intelectual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26118,8 +26118,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhang’s rejection of enlightenment values is clearly intertwined with an affirmation of Chinese values – though he is vague about precisely what those values are.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="ROMI" changedate="20160926T183820Z">
-        <seg>El rechazo de Zhang a los valores de la Ilustración está claramente entrelazado con una afrimación de los valores chinos, aunque es impreciso acerca de cuales son esos valores.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T221851Z">
+        <seg>El rechazo de Zhang a los valores de la Ilustración está claramente entrelazado con una afirmación de los valores chinos, aunque es impreciso acerca de cuales son esos valores.</seg>
       </tuv>
     </tu>
     <tu>
