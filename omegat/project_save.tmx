@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1498,8 +1498,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Fourteen young scholars, mostly based at the Chinese Academy of Social Sciences, wrote the book (others participated in discussions about its con- tent), which was an extended gloss on Jiang’s &lt;/f0&gt;&lt;f1&gt;1995 &lt;/f1&gt;&lt;f2&gt;speech to the Fifth Plenum on twelve major problems facing China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T014922Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Catorce jóvenes eruditos, en su mayoría de la Academia China de Ciencias Sociales escribieron el libro (otros participaron en discusiones acerca del contenido), el cual fue una glosa extensa del discurso que Jiang brindó en el año 1995 en el Quinto Pleno sobre doce problemas importantes que enfrentaba China. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T202116Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Catorce jóvenes eruditos, en su mayoría de la Academia China de Ciencias Sociales, escribieron el libro (otros participaron en discusiones acerca del contenido), el cual fue una glosa extensa del discurso que Jiang brindó en el año 1995 durante el Quinto Plenario sobre doce problemas importantes que enfrentaba China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3372,8 +3372,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although Jiang’s speech had been a reasonable and considered look at the difficulties facing China (drawing comparison to Mao’s famous “&lt;/f2&gt;&lt;f3&gt;T&lt;/f3&gt;&lt;f4&gt;en Great Relationships” speech), there had been little follow-up in policy terms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T015014Z">
-        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;A pesar de que el discurso de Jiang había sido una mirada razonable y considerada sobre los problemas que enfrentaba China (en comparación con el famoso discurso de Mao “Diez grandes relaciones”), hubo poco seguimiento en términos de política.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T202006Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;A pesar de que el discurso de Jiang había sido una mirada razonable y considerada sobre los problemas que enfrentaba China (en comparación con el famoso discurso de Mao “Diez grandes relaciones”), hubo poco seguimiento en términos de políticas.</seg>
       </tuv>
     </tu>
     <tu>
