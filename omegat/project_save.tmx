@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10035,8 +10035,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, by the 1990s this was no longer the case, as intellectuals became marginalized by the changes in social values that accompanied the growth of the economy.&lt;/f0&gt;&lt;f1&gt;12 &lt;/f1&gt;&lt;f2&gt;Similarly, Wang Hui, editor of the country’s most influential intellectual journal &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), wrote that “[i]ntellectuals in the 1980s thought of themselves as cultural heroes &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;and persons of foresight (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), but intellectuals in the 1990s are struggling to find a new way of adapting.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160927T181107Z">
-        <seg>Sin embargo, en la década de los 90, esa ya no era la situación, ya que los intelectuales se convirtieron en marginados debido a los cambios en los valores sociales que acompañaron el crecimiento de la economía&lt;/f0&gt;&lt;f1&gt;12. &lt;/f1&gt;&lt;f2&gt;Del mismo modo, Wang Hui, editor de la revista intelectual más influyente del país &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), escribió que “los [i]ntelectuales en la década de los 80 se creían héroes culturales &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;y personas con visión (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), pero los intelectuales en la década del 90 están intentando encontrar la forma de adaptarse.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T194829Z">
+        <seg>Sin embargo, en la década de los 90, esa ya no era la situación, ya que los intelectuales se convirtieron en marginados debido a los cambios en los valores sociales que acompañaron el crecimiento de la economía&lt;/f0&gt;&lt;f1&gt;12. &lt;/f1&gt;&lt;f2&gt;Del mismo modo, Wang Hui, editor de la revista intelectual más influyente del país &lt;/f2&gt;&lt;f3&gt;Dushu &lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;Reading&lt;/f5&gt;&lt;f6&gt;), escribió que “los [i]ntelectuales en la década de los 80 se creían héroes culturales &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;y personas con visión (&lt;/f8&gt;&lt;f9&gt;xianzhi&lt;/f9&gt;&lt;f10&gt;), pero los intelectuales en la década de los 90 están intentando encontrar la forma de adaptarse.</seg>
       </tuv>
     </tu>
     <tu>
