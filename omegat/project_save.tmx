@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4604,8 +4604,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As noted previously, Song Ping and Yao Yilin were removed from the Politburo Standing Committee, and the CAC, a bastion of conservative inﬂuence, was abolished.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T161729Z" creationid="constanza" creationdate="20160929T161620Z">
-        <seg>Como se mencionó anteriormente, se removió a Song Ping y a Yao Yilin del Comité Permanente del Politburó y se abolió la CAC, que era un bastión de la influencia conservadora.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T191202Z" creationid="constanza" creationdate="20160929T161620Z">
+        <seg>Como se mencionó anteriormente, se removió a Song Ping y a Yao Yilin del Comité Permanente del Politburó y se abolió la CAC, que era un bastión de influencia conservadora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11179,8 +11179,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition, Li Ximing was removed from the Politburo and from his position as secretary of the Beijing Municipal CCP Committee, and Gao Di was removed as director of the&lt;s0/&gt;&lt;f1&gt;People’s Daily&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T161823Z" creationid="constanza" creationdate="20160929T161823Z">
-        <seg>Además se removió a Li Ximing del Politburó y como secretario del Comité Municipal de Pekín del PCCh, y también a Gao Di del&lt;s0/&gt;&lt;f1&gt;Diario del Pueblo&lt;/f1&gt;.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T191254Z" creationid="constanza" creationdate="20160929T161823Z">
+        <seg>Además se removió a Li Ximing del Politburó y como secretario del Comité Municipal de Pekín del PCCh, y también a Gao Di como director del&lt;s0/&gt;&lt;f1&gt;Diario del Pueblo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11780,8 +11780,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In retrospect, it appears to have been Deng’s most statesmanlike act.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T161026Z" creationid="constanza" creationdate="20160929T161026Z">
-        <seg>En retrospectiva, parece haber sido el acto de Deng más representativo de un hombre de estado.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T190558Z" creationid="constanza" creationdate="20160929T161026Z">
+        <seg>En retrospectiva, este parece haber sido el acto de Deng más representativo de un hombre de estado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15180,8 +15180,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, Deng Liqun organized many of his leftist colleagues – including former State Education Commission head He Dongchang, former CASS vice-president You Lin, former vice-chairman of the State Planning Commission Fang Weizhong, and director of the Party Literature Research Center Pang Xianzhi&lt;s4/&gt;– into a newly established PRC Historical Society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T162508Z" creationid="constanza" creationdate="20160929T162246Z">
-        <seg>Además, Deng Liqun organizó a muchos de sus colegas izquierdistas (entre estos el ex jefe de la Comisión de Estatal Educación He Dongchang, el ex vicepresidente de la CASS You Lin, el ex vicepresidente de la Comisión Estatal de Planificación Fang Weizhong y el director del Centro de Investigación de Literatura del Comité Central del Partido Pang Xianzhi)&lt;s4/&gt;en una Sociedad Histórica del RPCh establecida recientemente.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T191526Z" creationid="constanza" creationdate="20160929T162246Z">
+        <seg>Además, Deng Liqun organizó a muchos de sus colegas izquierdistas (entre estos el ex jefe de la Comisión Estatal de Educación He Dongchang, el ex vicepresidente de la CASS You Lin, el ex vicepresidente de la Comisión Estatal de Planificación Fang Weizhong y el director del Centro de Investigación de Literatura del Comité Central del Partido Pang Xianzhi)&lt;s4/&gt;en una Sociedad Histórica del RPCh establecida recientemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21527,8 +21527,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The surprise elevation of Liu and Zhang certainly underscored a renewed professionalism in the PLA (Liu is one of the leading modernizers in the PLA – particularly of the navy, which he led for many years&lt;s3/&gt;–&lt;s4/&gt;and Zhang was commandant of the National Defense University before his promotion), but their promotion also highlighted the inability to turn the leadership of the military over to a younger generation, even as the age of the civilian leaders of the country continued to fall.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T165934Z" creationid="constanza" creationdate="20160929T161456Z">
-        <seg>La sorpresiva promoción de Liu y Zhang sin lugar a dudas remarcó un profesionalismo renovado en el EPL (Liu es uno de los principales modernizadores en el EPL, particularmente en la marina que dirigió por muchos años&lt;s3/&gt;,&lt;s4/&gt;y Zhang fue comandante de la Universidad de Defensa Nacional antes de ser promovido). Pero su promoción también resaltó la incapacidad para entregar el liderazgo de las fuerzas armadas a una generación más joven, aún cuando la edad de los líderes civiles era cada vez menor.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T191124Z" creationid="constanza" creationdate="20160929T161456Z">
+        <seg>La sorpresiva promoción de Liu y Zhang sin lugar a dudas remarcó un profesionalismo renovado en el EPL (Liu es uno de los principales modernizadores en el EPL, particularmente en la marina, a la que dirigió por muchos años&lt;s3/&gt;,&lt;s4/&gt;y Zhang fue comandante de la Universidad de Defensa Nacional antes de ser promovido). Pero su promoción también resaltó la incapacidad para entregar el liderazgo de las fuerzas armadas a una generación más joven, aún cuando la edad de los líderes civiles era cada vez menor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23619,8 +23619,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>To replace the Yangs, Deng turned&lt;s0/&gt;to the elderly (76 in 1992) Liu Huaqing, who was given a Politburo Standing Committee seat and named vice-chairman of the CMC, and Zhang Zhen (78 in 1992),&lt;s1/&gt;&lt;t2/&gt;who was named second vice-chairman of the CMC.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T165836Z" creationid="constanza" creationdate="20160929T161251Z">
-        <seg>Para reemplazar a los Yangs, Deng recurrió&lt;s0/&gt;a los mayores Liu Huaqing (76 en 1992),  a quien le habían dado un puesto en el Comité Permanente del Politburó y habían nombrado vicepresidente de la CMC, y Zhang Zhen (78 en 1992)&lt;s1/&gt;&lt;t2/&gt;a quien nombraron segundo vicepresidente de la CMC.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T190752Z" creationid="constanza" creationdate="20160929T161251Z">
+        <seg>Para reemplazar a los Yangs, Deng recurrió&lt;s0/&gt;a los mayores Liu Huaqing (76 en 1992), a quien le habían dado un puesto en el Comité Permanente del Politburó y habían nombrado vicepresidente de la CMC, y Zhang Zhen (78 en 1992)&lt;s1/&gt;&lt;t2/&gt;a quien habían nombrado segundo vicepresidente de la CMC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24123,8 +24123,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang Renzhi, who had excoriated Deng’s policies as head of the Propaganda Department, was removed from that position (he was replaced by Deng loyalist Ding Guan’gen) but took over as Party secretary of the Chinese Academy of Social Sciences (CASS).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T162011Z" creationid="constanza" creationdate="20160929T162011Z">
-        <seg>Wang Renzhi, quien había criticado fuertemente las políticas de Deng cuando era jefe del Departamento de Propaganda, fue removido de esa posición (reemplazado por Ding Guan’gen que era leal a Deng) pero asumió como Secretario General del Partido de la Academia China de Ciencias Sociales (CASS).</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T191425Z" creationid="constanza" creationdate="20160929T162011Z">
+        <seg>Wang Renzhi, quien había criticado fuertemente las políticas de Deng cuando era jefe del Departamento de Propaganda, fue removido de esa posición (reemplazado por Ding Guan’gen que era leal a Deng) pero asumió como secretario seneral del Partido de la Academia China de Ciencias Sociales (CASS).</seg>
       </tuv>
     </tu>
     <tu>
