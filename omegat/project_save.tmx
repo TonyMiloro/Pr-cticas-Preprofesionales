@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4190,6 +4190,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160926T193246Z">
         <seg>Artículos en la Web y demonstraciones estudiantiles lo etiquetaron como un "traidor" (maiguozei)  luego del bombardeo a la embajada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As &lt;t0/&gt;he put it at one point, those who declared that we should "rely on Chinese &lt;t1/&gt;culture to save the world" are "arrogant and conceited" (&lt;t2/&gt;kuangwang&lt;t3/&gt;); not &lt;t4/&gt;only will this approach not push forward China's modernization, it runs</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183648Z" creationid="joaquin" creationdate="20160929T183648Z">
+        <seg>Como lo expresó una vez, aquellos que declararon que nosotros deberíamos “confiar en la cultura china para salvar al mundo” son “arrogantes y engreídos” (kuangwang); este abordaje no solo le permitirá a la modernización de China dar un paso al frente sino que corre</seg>
       </tuv>
     </tu>
     <tu>
@@ -9593,6 +9601,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He hoped that globaliza- &lt;t2/&gt;tion would foster economic development and that economic development &lt;t3/&gt;would eventually bring about a middle class - a genuinely revolutionary &lt;t4/&gt;change in China's social structure.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183758Z" creationid="joaquin" creationdate="20160929T183758Z">
+        <seg> Esperaba que la globalización fomentara el desarrollo económico y que el desarrollo económico provocaría a su vez una clase media, un verdadero cambio revolucionario en la estructura social China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He quoted Hu Shi, &lt;t11/&gt;one of the founders of the May Fourth Movement, as follows: "Now, there are some people who tell you, 'Sacrifice your individual freedom and strive &lt;t12/&gt;for the freedom of the country!' I say to them, 'Fighting for your individ- &lt;t13/&gt;ual freedom is fighting for freedom for the country!</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160929T182001Z" creationid="joaquin" creationdate="20160928T102915Z">
@@ -14178,6 +14194,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Li's understanding of the strengths and weaknesses of China's cultural &lt;t0/&gt;and social traditions informed his response to globalization; Li was not naive &lt;t1/&gt;about its impact but welcomed it nonetheless.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183739Z" creationid="joaquin" creationdate="20160929T183739Z">
+        <seg>El entendimiento de Li sobre las fortalezas y las debilidades de las tradiciones culturales y sociales de China fundamentó su respuesta a la globalización; Li no fue ingenuo acerca del impacto pero  lo recibió de todas formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Liberal intellectuals, such as Yu &lt;t12/&gt;Haocheng&lt;t13/&gt;, saw the same problems but arrived at very different conclusions.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143635Z">
@@ -15014,6 +15038,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T225449Z">
         <seg>Asimismo, mediante una crítica directa a Deng&lt;t0/&gt;Liqun&lt;t1/&gt;, Deng Xiaoping manifestó que “decir que la reforma y la apertura significa introducir y desarrollar el capitalismo y creer que el peligro principal a la evolución pacífica proviene del ámbito económico es “de izquierda”. Deng también manifestó que todo aquel que se oponga a la reforma debe “desistir”, lo que significó una amenaza que se llevaría a cabo en contra de varios líderes conservadores durante el próximo otoño y que estaba claramente planeada para sacudir también al precavido Jiang Zemin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, only such a social revolution could root out the sources of radicalism in Chinese culture and prepare the &lt;t5/&gt;ground for law and democracy.&lt;t6/&gt;75&lt;t7/&gt; In this sense, globalization could enrich &lt;t8/&gt;Chinese culture through social change.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183820Z" creationid="joaquin" creationdate="20160929T183820Z">
+        <seg> Además, solo una revolución como esta podría erradicar las fuentes de radicalismo de la cultura china y preparar el terreno para la ley y la democracia. 75 En este sentido, la globalización podría enriquecer la cultura china a través del cambio social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24281,6 +24313,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What worried Li about the attitude of these young nationalists (who will</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183600Z" creationid="joaquin" creationdate="20160929T183538Z">
+        <seg>Lo que preocupaba a Li acerca de la actitud sobre estos jóvenes nacionalistas (sobre quienes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When Deng met with leaders of martial law troops on June 9, he declared that the line of “one center and two basic points” (economic development was the center; the two basic points were reform and opening up on the one hand and opposition to “bourgeois liberalization” on the other), which had been ofﬁcially adopted at the Thirteenth Party Congress in 1987, was correct and that reform and opening up needed to be pursued even more vigorously.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160926T010235Z">
@@ -25507,6 +25547,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>be discussed in the following chapter) is that they overestimated the progress &lt;t0/&gt;that China had made in the previous few years and that their nationalism</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183616Z" creationid="joaquin" creationdate="20160929T183544Z">
+        <seg>trataremos en el próximo capítulo) es que subestimaban el progreso que China había logrado en algunos años anteriores y que su nacionalismo impediría</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>be&lt;t0/&gt; calm and steady.” Underscoring his implicit but pointed criticism of Chen Yun’s thought, which had just been endorsed again by the Seventh Plenum in December 1990, Deng went on: “We must pay attention to the steady and coordinated development of the economy, but being steady and coordinated is relative, not absolute.” He then called on Guangdong to catch up to the “four small dragons” (South Korea, Taiwan, Singapore, and Hong Kong) in twenty years.58</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Abril" changedate="20160907T225314Z">
@@ -25704,6 +25752,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T015828Z">
         <seg>fallece a los 90 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>directly counter to China's cultural tradition.&lt;t0/&gt;74</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183711Z" creationid="joaquin" creationdate="20160929T183711Z">
+        <seg>en la dirección opuesta a la tradición cultural de China.&lt;t0/&gt;74</seg>
       </tuv>
     </tu>
     <tu>
@@ -26369,6 +26425,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T003424Z">
         <seg>de hacer negocios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>would prevent China from continuing to learn from the rest of the world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183629Z" creationid="joaquin" creationdate="20160929T183629Z">
+        <seg> que China siguiera aprendiendo sobre el resto del mundo.</seg>
       </tuv>
     </tu>
     <tu>
