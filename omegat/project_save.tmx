@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11340,8 +11340,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the wake of Tiananmen, conservative commentators derided the notion that China was developing, or ever would develop, a middle class, a social phenomenon that was thought would threaten the CCP, the vanguard of the proletariat.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T022135Z" creationid="Agustín" creationdate="20160929T021650Z">
-        <seg>Tras lo sucedido en Tiananmen, críticos conservadores se burlaron de la idea de que en China se estaba formando o que alguna vez se formaría una clase media; un fenómeno social que se creía que amenazaría el CCP. the vanguard of the proletariat.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T022214Z" creationid="Agustín" creationdate="20160929T021650Z">
+        <seg>Tras lo sucedido en Tiananmen, críticos conservadores se burlaron de la idea de que en China se estaba formando o que alguna vez se formaría una clase media; un fenómeno social que se creía que amenazaría el PCCh, the vanguard of the proletariat.</seg>
       </tuv>
     </tu>
     <tu>
