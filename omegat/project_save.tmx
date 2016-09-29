@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13740,8 +13740,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Liberal thinkers in China react strongly and negatively to Cui’s suggestions that Maoist practices can be shorn of their radicalism and thence provide a basis for economic democracy in contemporary China; for instance, no liberal would accept Cui’s assertion that “[t]here are really quite a few pos-itive factors in Mao’s thought waiting to be &lt;t0/&gt;excavated.” Similarly, liberals bridle at the notion that the Anshan Iron and Steel Factory Constitution, held up by Mao during the Cultural Revolution as a model of worker participation, really foreshadowed “quality circles” and can be resurrected as a model of economic democracy in the present era.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T133142Z" creationid="Martin" creationdate="20160929T125935Z">
-        <seg>Los pensadores liberales en China reaccionaron con fuerza y de forma negativa a las sugerencias de Cui de que las prácticas maoístas pueden ser despojadas del radicalismo y debido a eso pueden proporcionar un base para la democracia económica en la China contemporanea.Por ejemplo, ningún pensador liberal aceptaría las aseveraciones de Cui de que " realmente hay pocos factores positivos en el pensamiento Mao que se encuentra a la  espera de ser descubierto". De igual manera, los pensadores liberales están indignados ya que la Constitución de Anshan que trata acerca del hierro y las fabricas de  </seg>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T133715Z" creationid="Martin" creationdate="20160929T125935Z">
+        <seg>Los pensadores liberales en China reaccionaron con fuerza y de forma negativa a las sugerencias de Cui de que las prácticas maoístas pueden ser despojadas del radicalismo y debido a eso pueden proporcionar un base para la democracia económica en la China contemporanea.Por ejemplo, ningún pensador liberal aceptaría las aseveraciones de Cui de que " realmente hay pocos factores positivos en el pensamiento Mao que se encuentra a la  espera de ser descubierto". De igual manera, los pensadores liberales están indignados ya que la Constitución de Anshan que trata acerca del hierro y las fabricas de acero, las cuales fueron construídas por Mao durante la revolución cultural como un modelo para la  participación de los trabajadores,  anunciaba "circulos de calidad"</seg>
       </tuv>
     </tu>
     <tu>
