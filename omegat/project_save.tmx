@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8313,8 +8313,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For instance, when urban residents were asked who the primary beneficiaries of reform were, more people (59.2 percent) selected “Party and state cadres” than any other category (though private entrepreneurs and entertainers were not far behind at 55.4 percent and 43 percent respectively).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;But, when responses were arranged by social class, the results were even more disturbing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T004606Z" creationid="Agustín" creationdate="20160929T003550Z">
-        <seg>Por ejemplo, cuando se les preguntó a los habitantes de sectores urbanos quienes se habían visto más beneficiados con la reforma, la mayoría (un 59,2 porciento) eligieron a los "dirigentes del Partido y del estado" antes que cualquier otra categoría (aunque los empresarios del sector privado y los artistas no se encontraban muy por detrás con un 55,4 porciento y un 43 porciento, respectivamente).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sin embargo, cuando se organizaban las respuestas por clase social,  But, when responses were arranged by social class, the results were even more disturbing.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T004819Z" creationid="Agustín" creationdate="20160929T003550Z">
+        <seg>Por ejemplo, cuando se les preguntó a los habitantes de sectores urbanos quiénes se habían visto más beneficiados con la reforma, la mayoría (un 59,2 porciento) eligieron a los "dirigentes del Partido y del estado" antes que cualquier otra categoría (aunque los empresarios del sector privado y los artistas no se encontraban muy por detrás con un 55,4 porciento y un 43 porciento, respectivamente).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sin embargo, cuando se organizaban las respuestas por clase social, éstas eran aun más inquietantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22924,6 +22924,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160907T212614Z">
         <seg>Mientras que estas primeras tendencias apuntan a un incremento en la pluralización de la sociedad y del gobierno chino, las últimas sugieren un constante rechazo institucional y cultural del pluralismo7. Por esta razón, se realizaron esfuerzos considerables en la era Jiang Zemin para renconcilar estos aspectos conflictivos del sistema político, particularmente con la introducción de Jiang de Three Represents (la "Triple representatividad") que permitió a emprendedores formar parte de la PCCh; sin embaro, hubo un nuevo y sorpresivo énfasis en ideología, sin mencionar un estricto control sobre los medios y medidas represivas para aquellos que reclamaban por sus derechos </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whereas “only” 50 percent of the wealthiest elements in society believed that Party and state cadres were the chief beneficiaries of reform, over 77 percent of the lowest-income respondents cited cadres as the primary beneficiaries.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Not surprisingly, attitudes toward increasing the salaries of cadres and the seriousness of corruption also varied by income.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T004833Z" creationid="Agustín" creationdate="20160929T004833Z">
+        <seg>Mientras que Whereas “only” 50 percent of the wealthiest elements in society believed that Party and state cadres were the chief beneficiaries of reform, over 77 percent of the lowest-income respondents cited cadres as the primary beneficiaries.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Not surprisingly, attitudes toward increasing the salaries of cadres and the seriousness of corruption also varied by income.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
