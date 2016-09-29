@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4764,8 +4764,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As the manifesto put it, “people who uphold this view actually want the state to bear all the losses so that different types of capital can make their earnings.” Doing so, the manifesto declared, would end up turning the state-owned economy into one that is “mainly in the service of foreign capital.”&lt;/f55&gt;&lt;a56&gt;&lt;f57&gt;79&lt;/f57&gt;&lt;/a56&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214956Z" creationid="marcelo lavarda" creationdate="20160929T101256Z">
-        <seg>Como lo expresa el manifiesto, “quienes defienden esta opinión en realidad quieren que el estado muestre todas las pérdidas para que los diferentes tipos de capital puedan lograr sus ingresos”. Hacer eso, declaró el manifiesto, terminaría por convertir la economía estatal en una que es "principalmente al servicio del capital extranjero".</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T220258Z" creationid="marcelo lavarda" creationdate="20160929T101256Z">
+        <seg>Como lo expresa el manifiesto, “quienes defienden esta opinión en realidad quieren que el estado muestre todas las pérdidas para que los diferentes tipos de capital puedan lograr sus ingresos”. Hacer eso, declaró el manifiesto, terminaría por convertir la economía estatal en una que es "principalmente al servicio del capital extranjero".&lt;/f55&gt;&lt;a56&gt;&lt;f57&gt;&lt;/f57&gt;&lt;/a56&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6901,8 +6901,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Citing Jiang Zemin’s&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;1996 &lt;/f12&gt;&lt;f13&gt;statement&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;that&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;China&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;should&lt;/f19&gt;&lt;f20&gt; “&lt;/f20&gt;&lt;f21&gt;always&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;maintain&lt;/f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;f25&gt;the&lt;/f25&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;dominant&lt;/f27&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;position&lt;/f29&gt;&lt;f30&gt; &lt;/f30&gt;&lt;f31&gt;of the&lt;/f31&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;public&lt;/f33&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;sector,”&lt;/f35&gt;&lt;f36&gt; &lt;/f36&gt;&lt;f37&gt;the&lt;/f37&gt;&lt;f38&gt; &lt;/f38&gt;&lt;f39&gt;manifesto&lt;/f39&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;argued&lt;/f41&gt;&lt;f42&gt; &lt;/f42&gt;&lt;f43&gt;that&lt;/f43&gt;&lt;f44&gt; “&lt;/f44&gt;&lt;f45&gt;dominance&lt;/f45&gt;&lt;f46&gt;” &lt;/f46&gt;&lt;f47&gt;cannot&lt;/f47&gt;&lt;f48&gt; &lt;/f48&gt;&lt;f49&gt;be rede- fined to mean that the state could simply hold a predominant share of assets within the national economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214615Z" creationid="marcelo lavarda" creationdate="20160928T215606Z">
-        <seg>Citando la declaración de Jiang Zemin de 1996 de que China debería “mantener siempre la posición dominante del sector público,” el manifiesto sostenía que el “dominio” no puede redefinirse para significar que el estado simplemente podría tomar una parte predominante de activos dentro de la economía nacional.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T220303Z" creationid="marcelo lavarda" creationdate="20160928T215606Z">
+        <seg>Citando la declaración de Jiang Zemin de 1996 de que China debería “mantener siempre la posición dominante del sector público,” el manifiesto sostenía que el “dominio” no puede redefinirse para significar que el estado simplemente podría tomar una parte predominante de activos dentro de la economía nacional.&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;&lt;/f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;&lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;&lt;f38&gt;&lt;/f38&gt;&lt;f39&gt;&lt;/f39&gt;&lt;f40&gt;&lt;/f40&gt;&lt;f41&gt;&lt;/f41&gt;&lt;f42&gt;&lt;/f42&gt;&lt;f43&gt;&lt;/f43&gt;&lt;f44&gt;&lt;/f44&gt;&lt;f45&gt;&lt;/f45&gt;&lt;f46&gt;&lt;/f46&gt;&lt;f47&gt;&lt;/f47&gt;&lt;f48&gt;&lt;/f48&gt;&lt;f49&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8184,8 +8184,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Entitled “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” this article was written by the editorial office of the conservative journal &lt;/f4&gt;&lt;f5&gt;Contemporary Trends &lt;/f5&gt;&lt;f6&gt;and pub- lished in the fourth issue of &lt;/f6&gt;&lt;f7&gt;1996&lt;/f7&gt;&lt;f8&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T215909Z" creationid="marcelo lavarda" creationdate="20160928T215632Z">
-        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” ("Varios problemas teóricos y de políticas sobre la posición dominante de la propiedad pública") este artículo lo escribió la editorial del diario conservador Contemporary Trends y se publicó en la cuarta edición de 1996.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T220200Z" creationid="marcelo lavarda" creationdate="20160928T215632Z">
+        <seg>Titulado “Several Theoretical and Policy Issues on Upholding the Dominant Position of Public Ownership,” ("Varios problemas teóricos y de políticas sobre la posición dominante de la propiedad pública") este artículo lo escribió la editorial del diario conservador Contemporary Trends y se publicó en la cuarta edición de 1996.&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21080,8 +21080,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The manifesto went on to argue that, if small enterprises were privatized (the intention of the policy), then “the immense majority of the working class will become wage workers, and class polariza- tion will become a general phenomenon.”&lt;/f49&gt;&lt;a50&gt;&lt;f51&gt;78&lt;/f51&gt;&lt;/a50&gt;&lt;f52&gt; &lt;/f52&gt;&lt;f53&gt;The manifesto also took issue with the proposal that the state sector of the economy be reduced to around &lt;/f53&gt;&lt;f54&gt;20 &lt;/f54&gt;&lt;f55&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214923Z" creationid="marcelo lavarda" creationdate="20160928T222905Z">
-        <seg>El manifiesto pasó a sostener que, si las pequeñas empresas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se convertiría en asalariada, y la polarización de clases se convertiría en un fenómeno general”. El manifiesto también discrepaba con la propuesta de que el sector estatal de la economía se reduzca a alrededor del 20 por ciento, así como con la noción de que la propiedad no determina el desarrollo económico.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T220252Z" creationid="marcelo lavarda" creationdate="20160928T222905Z">
+        <seg>El manifiesto pasó a sostener que, si las pequeñas empresas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se convertiría en asalariada, y la polarización de clases se convertiría en un fenómeno general”. El manifiesto también discrepaba con la propuesta de que el sector estatal de la economía se reduzca a alrededor del 20 por ciento, así como con la noción de que la propiedad no determina el desarrollo económico.&lt;/f49&gt;&lt;a50&gt;&lt;f51&gt;&lt;/f51&gt;&lt;/a50&gt;&lt;f52&gt;&lt;/f52&gt;&lt;f53&gt;&lt;/f53&gt;&lt;f54&gt;&lt;/f54&gt;&lt;f55&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23059,8 +23059,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This manifesto zeroed in on the ownership issue and particularly on the policy of “grasping the large and letting go of the small” that had been adopted in &lt;/f8&gt;&lt;f9&gt;1995&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214328Z" creationid="marcelo lavarda" creationdate="20160928T215654Z">
-        <seg>Este manifiesto se enfocó en el problema de la propiedad y particularmente en la política de “tomar lo grande y dejar ir lo pequeño” que se había adoptado en 1995. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T220214Z" creationid="marcelo lavarda" creationdate="20160928T215654Z">
+        <seg>Este manifiesto se enfocó en el problema de la propiedad y particularmente en la política de “tomar lo grande y dejar ir lo pequeño” que se había adoptado en 1995. &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27209,7 +27209,7 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>“If we do as the authors propose,” Feng wrote, “our policy of opening up to the outside world will inevitably be led onto the wrong road, our economy will lose its independence, and we will be thrown into the embrace of the ‘great unity’ of international monopoly capital.”&lt;/f84&gt;&lt;f85&gt;76 &lt;/f85&gt;&lt;f86&gt;Referring to Liu Ji’s endorsement of the book, Feng wrote, “I don’t under- stand why this book, which includes viewpoints directly opposite of our Party’s consistent proposals, directly opposite the resolution of the Sixth Plenum, and directly &lt;/f86&gt;&lt;t87/&gt;&lt;f88&gt;opposite the general secretary’s proposals regarding establishing socialist spiritual civilization, would receive such high praise from&lt;/f88&gt;&lt;f89&gt; &lt;/f89&gt;&lt;f90&gt;this&lt;/f90&gt;&lt;f91&gt; &lt;/f91&gt;&lt;f92&gt;leading&lt;/f92&gt;&lt;f93&gt; &lt;/f93&gt;&lt;f94&gt;comrade.”&lt;/f94&gt;&lt;f95&gt;77&lt;/f95&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T220144Z" creationid="marcelo lavarda" creationdate="20160928T201819Z">
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T220235Z" creationid="marcelo lavarda" creationdate="20160928T201819Z">
         <seg>“Si hacemos lo que los autores proponen,” escribió Feng, “nuestra política de abrirnos al mundo exterior nos llevará inevitablemente por el camino equivocado, nuestra economía perderá su independencia, y se lanzará al abrazo de la "gran unidad" del capital monopólico internacional." Refiriéndose al dorso del libro de Liu Ji, Feng escribió “no entiendo por qué este libro, que incluye opiniones directamente opuestas a las propuestas consistentes de nuestro partido, directamente opuestas a la resolución del Sexto Plenario, y directamente opuestas a las propuestas del secretario general sobre establecer una civilización espiritual socialista, reciviría tanto elogio de parte de esta camarada al mando." &lt;/f84&gt;&lt;f85&gt;&lt;/f85&gt;&lt;f86&gt;&lt;/f86&gt;&lt;t87/&gt;&lt;t87/&gt;&lt;f88&gt;&lt;/f88&gt;&lt;f89&gt;&lt;/f89&gt;&lt;f90&gt;&lt;/f90&gt;&lt;f91&gt;&lt;/f91&gt;&lt;f92&gt;&lt;/f92&gt;&lt;f93&gt;&lt;/f93&gt;&lt;f94&gt;&lt;/f94&gt;&lt;f95&gt;&lt;/f95&gt;</seg>
       </tuv>
     </tu>
