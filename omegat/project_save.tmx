@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17205,8 +17205,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>People compared it unfa- vorably with the resolution on building spiritual civilization that had been adopted a decade earlier under Hu Yaobang’s auspices.&lt;f0&gt;64 &lt;/f0&gt;In language rem- iniscent of Mao Zedong’s “&lt;f1&gt;Y&lt;/f1&gt;enan Forum on Literature and Art,” the &lt;f2&gt;1996 &lt;/f2&gt;document called on writers and artists to “immerse themselves among the masses” and to “earnestly and seriously consider what social effects [&lt;f3&gt;shehui xiaoguo&lt;/f3&gt;] their works may produce.” Similarly, it called for strengthening control over press and publishing circles and for keeping the propaganda front and public opinion “firmly” in the hands of “those comrades who are loyal to Marxism, Leninism, and Mao Zedong&lt;f4&gt; &lt;/f4&gt;Thought.”&lt;f5&gt;65&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nuevo" changedate="20160929T142028Z">
-        <seg>El pueblo lo comparó de manera desfavorable con la resolución sobre la construcción de una civilización espiritual que había sido adoptada una década antes bajo el auspicio de Hu Yaobang.&lt;f0&gt;64 &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;En un lenguaje que recuerda las palabras que utilizó Mao Zedong en el "Foro de Yenán sobre Arte y Literatura", el documento del año 1996 le solicitaba a escritores y artistas que se "sumergieran entre las masas" y que "consideraran con fervor y seriedad el impacto social que sus obras pueden producir en la sociedad (shehui xiaoguo)” De manera similar, se pedía reforzar el control sobre los medios y los círculos editoriales y mantener el frente de propaganda y la opinión pública "estrictamente" en las manos de aquellos compañeros leales al marxismo, al leninismo y al pensamiento Mao Zedong". &lt;/f4&gt;&lt;f5&gt;65&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T201312Z">
+        <seg>El pueblo lo comparó de manera desfavorable con la resolución sobre la construcción de una civilización espiritual que había sido adoptada una década antes bajo el auspicio de Hu Yaobang.&lt;f0&gt;64 &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;En un lenguaje que recuerda las palabras que utilizó Mao Zedong en el "Foro de Yenán sobre Arte y Literatura", el documento del año 1996 le solicitaba a escritores y artistas que se "sumergieran entre las masas" y que "consideraran con fervor y seriedad el impacto social que sus obras pueden producir en la sociedad (shehui xiaoguo)”. De manera similar, se pedía reforzar el control sobre los medios y los círculos editoriales y mantener el frente de propaganda y la opinión pública "estrictamente" en las manos de aquellos compañeros leales al marxismo, al leninismo y al pensamiento Mao Zedong". &lt;/f4&gt;&lt;f5&gt;65&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
