@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6883,6 +6883,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cui draws heavily on analytic Marxism (especially the work of John Roemer), neo-evolutionary biology, and critical legal studies (particularly Roberto Unger) to derive what are basically social democratic solutions to China’s problems.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T135630Z" creationid="Martin" creationdate="20160929T135630Z">
+        <seg>Cui se basa en gran medida en el marxismo analítico (sobre todo en la obra de John Roemer), la biología neo-evolutiva, y los estudios críticos del derecho (en especial Roberto Unger) para deducir básicamente soluciones democráticas sociales para los problemas de China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cui is one of a large number of scholars who were quite young when the Cultural Revolution ended.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160929T002019Z" creationid="Gime" creationdate="20160929T002019Z">
@@ -8659,6 +8667,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160929T024520Z">
         <seg>Por ejemplo, para hablar de patriotismo en el contexto de la apertura al mundo, un artículo afirmaba, en una referencia implícita pero clara a la observación bien conocida de Deng Liqun, que “algunos compañeros creen incluso que cada nueva moneda [fen] que se trae de la inversión extranjera es otra moneda del capitalismo”. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, in rejecting intellectual trends in China that accept the neoclassical paradigm of Western economics, including calls for the “clarification of property rights” and for privatization, Cui argues that many people in the United States and other advanced capitalist nations are changing significantly their understandings of private prop-erty.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Martin" changedate="20160929T135956Z" creationid="Martin" creationdate="20160929T135956Z">
+        <seg>Por ejemplo, al rechazar  las tendencias intelectuales en China que aceptan el paradigma neoclásico de la economía Occidental, incluidas las llamadas "clarificación de los derechos de propiedad" y la privatización, Cui sostiene que muchas personas en  Estados Unidos y otras naciones capitalistas desarolladas están cambiando  su entendimientos de prop-erty privada</seg>
       </tuv>
     </tu>
     <tu>
