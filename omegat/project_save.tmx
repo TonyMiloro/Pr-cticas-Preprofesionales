@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23499,8 +23499,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>To turn against his long-time associate Yang Shangkun and support Jiang Zemin, whose desultory support of reform had prompted Deng’s trip to the south, must have been difﬁcult.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T160949Z" creationid="constanza" creationdate="20160929T160949Z">
-        <seg>Debe haber sido difícil enfrentarse a quien había sido su socio durante mucho tiempo, Yang Shangkun, y apoyar a Jiang Zemin, cuyo débil apoyo a la reforma había impulsado la gira por el sur de Deng.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T190528Z" creationid="constanza" creationdate="20160929T160949Z">
+        <seg>Debe haber sido difícil enfrentarse a quien había sido su socio durante mucho tiempo, Yang Shangkun, y respaldar a Jiang Zemin, cuyo débil apoyo a la reforma había impulsado la gira por el sur de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24427,8 +24427,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Jiang ﬁrst came to Beijing as general secretary, he cultivated a close relationship with Bo, often visiting his house and seeking his guidance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T190215Z" creationid="constanza" creationdate="20160929T160624Z">
-        <seg>Bo logró cultivar una relación cercana con Jiang cuando este llegó a Pekín como secretario general, a menudo visitándolo en su casa y buscando su asesoramiento.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T190330Z" creationid="constanza" creationdate="20160929T160624Z">
+        <seg>Cuando Jiang llegó a Pekín como secretario general, logró cultivar una relación cercana con Bo, a menudo visitándolo en su casa y buscando su asesoramiento.</seg>
       </tuv>
     </tu>
     <tu>
