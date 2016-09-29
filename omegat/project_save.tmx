@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20703,8 +20703,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
         <seg>The nature and consequences of his mistakes are very serious.”23 [6]The public case for this judgment was made by Beijing mayor Chen Xitong, who presented
 a long and detailed report to the Standing Committee of the National People’s Congress (NPC) on June 30.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T001154Z">
-        <seg>La naturaleza y las consecuencias de sus errores son muy serias".23 El caso público por esta sentencia fue realizado por el alcalde de Pekín Chen Xitong, quien presentó un amplio y detallado informe al Comité Permanente del Congreso Nacional Popular (NPC) el 30 de junio.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T184007Z">
+        <seg>La naturaleza y las consecuencias de sus errores son muy serias".23 El caso público por esta sentencia fue realizado por el alcalde de Pekín Chen Xitong, quien presentó un amplio y detallado informe a la Asamblea Popular Nacional (APN) el 30 de junio.</seg>
       </tuv>
     </tu>
     <tu>
