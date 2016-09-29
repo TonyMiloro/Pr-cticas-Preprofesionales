@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5823,6 +5823,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160929T023919Z">
         <seg>Para finales del 2005, la cantidad de EPE había descendido dos tercios, a 27 477, y la cantidad de trabajadores contratados por estas empresas había caído un 40 %, ( </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By year-end 2005, the number of SOEs had fallen by two-thirds, to 27,477, and the number of workers employed in SOEs had fallen by 40 percent to 64 million.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160929T143433Z" creationid="marielaromina" creationdate="20160929T143433Z">
+        <seg>Para finales del 2005, la cantidad de EPE había descendido dos tercios, a 27 477, y la cantidad de trabajadores contratados por estas empresas había caído un 40 %, a 64 millones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22120,6 +22128,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160902T221414Z">
         <seg>Este era el camino trazado por el boceto del Octavo Plan Quinquenal mientras llegaba a su fin en el verano de 1990.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was true during the 1980s but has &lt;t0/&gt;become even more important in the years since 1989, in large part because the Tianan-men Square tragedy destroyed what little belief in Marxism-Leninism was left.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160929T143546Z" creationid="marielaromina" creationdate="20160929T143546Z">
+        <seg>Esto fue una realidad durante la década de los 80, pero su importancia se acrecentó considerablemente en los años que siguieron a 1989, en gran parte, debido a que la tragedia de la Plaza de Tiananmén destruyó la poca fe que quedaba en el marxismo-leninismo.</seg>
       </tuv>
     </tu>
     <tu>
