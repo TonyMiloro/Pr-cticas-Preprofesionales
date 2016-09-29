@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4492,8 +4492,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As he put it epigrammatically, “[t]he river flows east for thirty years and [then] flows west for thirty years.”&lt;/f4&gt;&lt;f6&gt;24 &lt;/f6&gt;&lt;f7&gt;He &lt;/f7&gt;&lt;f8&gt;followed this with other articles arguing thatWestern civilization was based &lt;/f8&gt;&lt;f9&gt;on an antagonistic relationship with nature and thus could not solve the ecological and environmental problems of the modern age.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="daiana" changedate="20160929T180256Z">
-        <seg>Como dijo en términos epigramáticos:“[e]l río corre hacia el este por treinta años y [después] corre hacia el oeste por treinta años”&lt;/f4&gt;&lt;f6&gt;24. &lt;/f6&gt;&lt;f7&gt;Él &lt;/f7&gt;&lt;f8&gt;continuó esta idea en otros artículos en los que argumentaba que la civilización Oriental se basaba &lt;/f8&gt;&lt;f9&gt;en una relación antagónica con la naturaleza y por lo tanto no podía solucionar los problemas ecológicos y ambientales de la era moderna.</seg>
+      <tuv lang="ES-US" changeid="daiana" changedate="20160929T210959Z">
+        <seg>Como dijo en términos epigramáticos:“[e]l río corre hacia el este por treinta años y [después] corre hacia el oeste por treinta años”&lt;/f4&gt;&lt;f6&gt;24. &lt;/f6&gt;&lt;f7&gt;Él &lt;/f7&gt;&lt;f8&gt;continuó esta idea en otros artículos en los que argumentaba que la civilización occidental se basaba &lt;/f8&gt;&lt;f9&gt;en una relación antagónica con la naturaleza y por lo tanto no podía solucionar los problemas ecológicos y ambientales de la era moderna.</seg>
       </tuv>
     </tu>
     <tu>
