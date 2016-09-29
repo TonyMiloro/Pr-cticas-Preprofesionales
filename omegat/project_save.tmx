@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2851,8 +2851,8 @@
         <seg>A meeting of conservative writers and artists in July, for instance, declared that Zhao was the “biggest umbrella for bourgeois liberalization in literature and art circles” and accused him of “rudely critic[izing] comrades who adhered to the four cardinal principles” and who, as a result, were “vilified, suppressed, and attacked by others.”38[21]
 Other articles criticized Zhao for putting forth the idea of “transforming the ideological and political work” and thus weakening the Party’s ideological work.39[22] For instance, one author complained that “[i]n recent years the viewpoint that class struggle in society will certainly find expression within the Party has been criticized as being a ‘leftist’ viewpoint.”40[23] The weakening of ideological and political work was held, among other things, to undermine the sense of class struggle, of which Deng was certainly every bit as guilty as Zhao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160919T153151Z">
-        <seg>Una junta de escritores y artistas conservadores en Julio, por ejemplo, declaró que Zhao era "la protección mas grande para la liberalizacion burguesa en los cirtulos de la literatura y del arte" y lo acusó de "criticar con rudeza a sus colegas que se adirieron a los cuatro principios cardinales" y que, como resultado, fueron "denigrados, reprimidos y atacados por otros". Otros articulos  criticaron a Zhao por proponer la idea de "transformar el trabajo ideologico y politico" y así debilitar el trabajo ideologico del Partido. Por ejemplo, un autor se quejó de que "en los proximos años el punto de vista  que la clase social en la sociedad definitivamente encontrara una expresion dentro del Partido ha sido criticada como un punto de vista "izquierdista" ". El debilitamiento del trabajo ideologico y politico fue apoyado, entre otras cosas, para socavar la escena de lucha de clase, de la cual Deng definitivamente era  </seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160929T190232Z">
+        <seg>Una junta de escritores y artistas conservadores en Julio, por ejemplo, declaró que Zhao era "la protección más grande para la liberalización burguesa en los cirtulos de la literatura y del arte" y lo acusó de "criticar con rudeza a sus colegas que se adirieron a los cuatro principios cardinales" y que, como resultado, fueron "denigrados, reprimidos y atacados por otros". Otros articulos  criticaron a Zhao por proponer la idea de "transformar el trabajo ideologico y politico" y así debilitar el trabajo ideologico del Partido. Por ejemplo, un autor se quejó de que "en los proximos años el punto de vista  que la clase social en la sociedad definitivamente encontrara una expresion dentro del Partido ha sido criticada como un punto de vista "izquierdista" ". El debilitamiento del trabajo ideologico y politico fue apoyado, entre otras cosas, para socavar la escena de lucha de clase, de la cual Deng definitivamente era  </seg>
       </tuv>
     </tu>
     <tu>
@@ -21417,8 +21417,8 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
         <seg>The third point reads, “Marxists must admit that there are line struggles within the Party, which is part of normal Party life, and it is necessary to actively launch inner-Party criticism and self-criticism.”37[20]
 Both personal animosity toward Zhao and broader criticism of the “line” that Zhao was supposedly heading came through in press commentary in the summer and fall of 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160929T190108Z">
-        <seg>El tercer punto lee, "los Marxistas deben admitir que hay luchas de línea  dentro del Partido, lo que es parte de una vida normal del Partido y es necesario lanzar una crítica intrapartidiaria vigorosamente y una autocrítica". La animosidad personal hacia Zhao y una crítica mas amplia de la "linea" que Zhao aparentemente encabezaba fueron comentarios de la prensa en el verano y otoño de 1989.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160929T190129Z">
+        <seg>El tercer punto lee, "los Marxistas deben admitir que hay luchas de línea  dentro del Partido, lo que es parte de una vida normal del Partido y es necesario lanzar una crítica intrapartidiaria vigorosamente y una autocrítica". La animosidad personal hacia Zhao y una crítica más amplia de la "línea" que Zhao aparentemente encabezaba fueron comentarios de la prensa en el verano y otoño de 1989.</seg>
       </tuv>
     </tu>
     <tu>
