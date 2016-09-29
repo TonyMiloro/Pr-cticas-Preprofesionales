@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -577,8 +577,8 @@
       <tuv lang="EN-US">
         <seg>60 Some within the Party argued that the implementation of reform in Eastern Europe had led to the collapse of communism there, while others argued that communism collapsed because the planned economy had continued to prevail in those countries.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T175005Z">
-        <seg>Dentro del Partido, algunos argumentan que la implementación de la reforma en Europa Oriental ha llevado al colapso del comunismo allí establecido, mientras que otros argumentan que el comunismo colapsó a causa de que de la economía planificada continuó imponiendose en aquellos países.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T175957Z">
+        <seg>Dentro del Partido, algunos argumentan que la implementación de la reforma en Europa Oriental ha llevado al colapso del comunismo allí establecido, mientras que otros establecen que el comunismo colapsó a causa de que de la economía planificada continuó imponiendose en aquellos países</seg>
       </tuv>
     </tu>
     <tu>
@@ -14010,8 +14010,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Lest anyone think that the time had come to relax the campaign against bourgeois liberalization, Wang declared that “[w]e have only just started” to clarify ideological errors and that “[t]he logic of struggle is cruel and merciless.”61 Wang’s speech was followed by a full-page article in the People’s Daily praising the notorious “Zhuozhuo meeting” of 1987.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T175839Z">
-        <seg>Para que nadie piense que el tiempo ha llevado a flexibilizar la campaña en contra de la liberalización burguesa Wang declaró : " recién hemos comenzado" a esclarecer los errores ideológios y que " la lógica de la lucha es cruel y no tiene piedad".61 Al discurso de Wang le siguió una página completa de un artículo en el People´s Daily que elogiaba el notorio " encuentro Zhiozhuo" de 1987.</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160929T180007Z">
+        <seg>Para que nadie piense que el tiempo ha llevado a flexibilizar la campaña en contra de la liberalización burguesa Wang declaró : " recién hemos comenzado" a esclarecer los errores ideológios y que " la lógica de la lucha es cruel y despiadada".61 Al discurso de Wang le siguió una página completa de un artículo en el People´s Daily que elogiaba el notorio " encuentro Zhiozhuo" de 1987.</seg>
       </tuv>
     </tu>
     <tu>
