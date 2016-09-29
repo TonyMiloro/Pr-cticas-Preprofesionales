@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8344,8 +8344,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Even though much of this hostility was directed at Zhao Ziyang, it was clear that the criticism of Zhao was also intended to curb Deng’s authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T210517Z">
-        <seg>Aunque la mayor parte de esta hostilidad estaba dirigida a  Zhao Ziyang, era claro que las críticas hacia  Zhao también tenían como objetivo debilitar la autoridad de Deng.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T200631Z">
+        <seg>Aunque la mayor parte de esta hostilidad estaba dirigida a Zhao Ziyang, era claro que las críticas hacia Zhao también tenían como objetivo debilitar la autoridad de Deng.</seg>
       </tuv>
     </tu>
     <tu>
