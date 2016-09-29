@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -803,6 +803,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T161900Z" creationid="Flor" creationdate="20160927T144805Z">
         <seg>&lt;f0&gt;&lt;f1&gt;A pesar de que el deseo neoestatista de incrementar la capacidad del Estado parece en principio ir en dirección opuesta al nacionalismo popular y sus críticas hacia el gobierno actual, y ambas posturas parecen distantes de los intereses de la nueva izquierda presentados en el Capítulo &lt;/f1&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;&lt;f9&gt;, en realidad las tres corrientes comparten una orientación intelectual básica y las relaciones personales entre ellas tienden a ser muy cercanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Although the number of agricultural workers had decreased from 70 percent of China’s working population to 44 percent, the number of peasants remained extremely large and unlikely to be absorbed into a middle class any time soon.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T023751Z" creationid="user" creationdate="20160929T023751Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Aunque la cantidad de trabajadores agrícolas de la población de China disminuyó de un 70 % a un 44 %, la cantidad de campesinos se mantuvo bastante alta y sin posibilidades de que sea incorporada a una clase media dentro de poco tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3506,6 +3514,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although the number of private entrepreneurs had increased greatly in recent years, they still only accounted for 0.6 percent of the population – less than that in Japan in 1950.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T030320Z" creationid="user" creationdate="20160929T030229Z">
+        <seg>Aunque la cantidad de empresarios había incrementado considerablemente en los últimos años, todavía (estos) sólo representaban un 0.6 percent of the population – less than that in Japan in 1950.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the public discussion on new authoritarianism is generally identified with a number of intellectuals close to then-General Secretary Zhao Ziyang, the earliest discussions were held in Shanghai.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T130309Z">
@@ -4779,6 +4795,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the same time, the middle class could not expand significantly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T024630Z" creationid="user" creationdate="20160929T024630Z">
+        <seg>A la vez, la clase media no podía desarrollarse de manera significativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the same time, there were more “liberal” advisers, such as former Shanghai mayor and all-round political mentor Wang Daohan.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T194332Z">
@@ -4935,6 +4959,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160926T152443Z">
         <seg>A causa de las preocupaciones por las acciones de EE. UU. en Serbia, los conservadores de China propusieron posponer el viaje de Zhu Rongji's a los Estados Unidos. Pero esta propuesta se descartó por la importancia que Jiang Zemin le había dado a las relaciones entre China y Estados Unidos y al asunto de la OMC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because of the weight of this and other lower-income strata, the average person in most areas of China continued to have a belowaverage income.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T024123Z" creationid="user" creationdate="20160929T024123Z">
+        <seg>Debido a la importancia de esta situación y de otros estratos de ingresos inferiores, en la mayoría de las áreas de China el común de las personas sigue teniendo un nivel de ingresos inferior al promedio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8371,6 +8403,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Eloisa" changedate="20160926T020110Z">
         <seg>Por ejemplo, en agosto de &lt;t0/&gt;1996&lt;t1/&gt;, Yuan Mu, el idéologo conservador que alcanzó la fama, y la deshonra, como el defensor público del gobier&lt;t2/&gt;no en los días posteriores a Tiananmen en su papel de portavoz del Consejo de Estado, dio un largo discurso en el “Theoretical Symposium on the Question of Consolidating and Strengthening the Class Foundation of&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;Ruling&lt;t7/&gt; &lt;t8/&gt;Party" (Simposio Teórico Nacional sobre la Custión de Consolidar y Fortalecer la Fundación de Clases del Partido &lt;t9/&gt; &lt;t10/&gt;Yuan&lt;t11/&gt; &lt;t12/&gt;se&lt;t13/&gt; &lt;t14/&gt;ejercía&lt;t15/&gt; &lt;t16/&gt;claramente&lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;por&lt;t20/&gt; &lt;t21/&gt;tendencias&lt;t22/&gt; &lt;t23/&gt;que&lt;t24/&gt; &lt;t25/&gt;había&lt;t26/&gt; &lt;t27/&gt;visto&lt;t28/&gt; &lt;t29/&gt;en&lt;t30/&gt; &lt;t31/&gt;discusiones teóricas, en decisiones de políticas y en las actitudes de varios miembros del partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, in Hanchuan, reflective of much of central China, over 65 percent of the population had incomes &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;below &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;the average monthly family income of 141 yuan.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T024318Z" creationid="user" creationdate="20160929T024318Z">
+        <seg>Por ejemplo, Hanchuan refleja gran parte de la situación de China central ya que más del 65% de la población tiene ingresos&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;por debajo&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;al promedio mensual de un ingreso familiar de 141 yuanes.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13601,6 +13641,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lu and his colleagues calculated that only 10.3 percent of Hanchuan’s population fell into the “middle-middle” income group, while a whopping 86.6 percent fell into the “lower-middle” and low-income groups.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T025008Z" creationid="user" creationdate="20160929T025008Z">
+        <seg>Lu y sus colegas calcularon que solo un 10.3 % de la población de Hanchuan es parte del grupo de ingresos “medio-medio”, mientras que un gran 86.6 % es parte del grupo de ingresos “medio-bajos” y bajos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lu concludes that income inequality itself was not as much of a problem as the perceived unfairness of income distribution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160929T013238Z" creationid="Agustín" creationdate="20160929T012730Z">
@@ -17505,6 +17553,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T002506Z">
         <seg>Comienza la publicación de "Strategy and Management" (Estrategia y Dirección)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structurally, much of China remained traditional (that is, overwhelmingly agricultural), even though the east coast economy was modern and integrated into the global economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="user" changedate="20160929T025749Z" creationid="user" creationdate="20160929T025643Z">
+        <seg>Estructuralmente, gran parte de China se mantuvo de forma tradicional (es decir, ampliamente agrícola), a pesar de que la economía de la costa este era moderna y estaba integrada a la economía global.</seg>
       </tuv>
     </tu>
     <tu>
