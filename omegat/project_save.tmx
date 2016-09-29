@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1498,8 +1498,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Fourteen young scholars, mostly based at the Chinese Academy of Social Sciences, wrote the book (others participated in discussions about its con- tent), which was an extended gloss on Jiang’s &lt;/f0&gt;&lt;f1&gt;1995 &lt;/f1&gt;&lt;f2&gt;speech to the Fifth Plenum on twelve major problems facing China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T202116Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Catorce jóvenes eruditos, en su mayoría de la Academia China de Ciencias Sociales, escribieron el libro (otros participaron en discusiones acerca del contenido), el cual fue una glosa extensa del discurso que Jiang brindó en el año 1995 durante el Quinto Plenario sobre doce problemas importantes que enfrentaba China. </seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T202652Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Catorce jóvenes eruditos, en su mayoría de la Academia China de Ciencias Sociales, escribieron el libro (otros participaron en discusiones acerca del contenido), el cual consistía en una glosa extensa del discurso que Jiang brindó en el año 1995 durante el Quinto Plenario sobre doce problemas importantes que enfrentaba China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22721,8 +22721,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This effort to define Jiang’s program in more positive and systematic terms became visible with the October &lt;/f33&gt;&lt;f34&gt;1996 &lt;/f34&gt;&lt;f35&gt;publication of &lt;/f35&gt;&lt;f36&gt;Heart-to-Heart Talks with the General Secretary&lt;/f36&gt;&lt;f37&gt;.&lt;/f37&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T202412Z">
-        <seg>&lt;/f33&gt;&lt;f34&gt;Este esfuerzo para definir el plan de Jiang en términos positivos y sistemáticos se hizo visible en octubre de 1996 con la publicación de las Heart-to-Heart Talks with the General Secretary (Charlas de corazón a corazón con el Secretario General).&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T202542Z">
+        <seg>&lt;/f33&gt;&lt;f34&gt;Este esfuerzo para definir el plan de Jiang en términos positivos y sistemáticos se hizo visible en octubre de 1996 con la publicación del libro Heart-to-Heart Talks with the General Secretary (Charlas de corazón a corazón con el Secretario General).&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;</seg>
       </tuv>
     </tu>
     <tu>
