@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4548,8 +4548,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As he said, the Party has repeatedly declared that private entrepreneurs, because they are capitalists engaged in exploitation, are not permitted to enter the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T204447Z" creationid="marcelo lavarda" creationdate="20160928T201808Z">
-        <seg>Como dijo, el partido ha declarado repetidas&lt;t94/&gt;veces que los empresarios privados, por ser capitalistas involucrados en la explotación, no tienen permititdo ingresar al partido.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T215012Z" creationid="marcelo lavarda" creationdate="20160928T201808Z">
+        <seg>Como dijo, el partido ha declarado repetidas veces que los empresarios privados, por ser capitalistas involucrados en la explotación, no tienen permititdo ingresar al partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4764,8 +4764,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As the manifesto put it, “people who uphold this view actually want the state to bear all the losses so that different types of capital can make their earnings.” Doing so, the manifesto declared, would end up turning the state-owned economy into one that is “mainly in the service of foreign capital.”&lt;/f55&gt;&lt;a56&gt;&lt;f57&gt;79&lt;/f57&gt;&lt;/a56&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T101256Z" creationid="marcelo lavarda" creationdate="20160929T101256Z">
-        <seg>[parcial]Como lo expresa el manifiesto, “quienes defienden esta opinión en realidad quieren que el estado muestre todas las pérdidas para que los diferentes tipos de capital puedan&lt;t59/&gt; lograr sus ingresos.” Hacer eso, declaró el manifiesto, terminaría por convertir la economía estatal en una que es "principalmente al servicio del capital extranjero."&lt;t60/&gt;79</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214956Z" creationid="marcelo lavarda" creationdate="20160929T101256Z">
+        <seg>Como lo expresa el manifiesto, “quienes defienden esta opinión en realidad quieren que el estado muestre todas las pérdidas para que los diferentes tipos de capital puedan lograr sus ingresos”. Hacer eso, declaró el manifiesto, terminaría por convertir la economía estatal en una que es "principalmente al servicio del capital extranjero".</seg>
       </tuv>
     </tu>
     <tu>
@@ -13031,8 +13031,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It argued further against the proposition that the state should remove itself from competitive industries and adopt a role of supporting infrastructure and certain basic industries.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T101127Z" creationid="marcelo lavarda" creationdate="20160929T101127Z">
-        <seg>[parcial]También discutía en contra de la propuesta de que el estado debería r&lt;t58/&gt;etirarse de las industrias competitivas y adoptar un papel de soportar la infraestructura y ciertas industrias básicas.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214934Z" creationid="marcelo lavarda" creationdate="20160929T101127Z">
+        <seg>También discutía en contra de la propuesta de que el estado debería retirarse de las industrias competitivas y adoptar un papel de soportar la infraestructura y ciertas industrias básicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21072,8 +21072,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The manifesto went on to argue that, if small enterprises were privatized (the intention of the policy), then “the immense majority of the working class will become wage workers, and class polariza- tion will become a general phenomenon.”&lt;/f49&gt;&lt;a50&gt;&lt;f51&gt;78&lt;/f51&gt;&lt;/a50&gt;&lt;f52&gt; &lt;/f52&gt;&lt;f53&gt;The manifesto also took issue with the proposal that the state sector of the economy be reduced to around &lt;/f53&gt;&lt;f54&gt;20 &lt;/f54&gt;&lt;f55&gt;percent, as well as with the notion that ownership does not determine economic development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214808Z" creationid="marcelo lavarda" creationdate="20160928T222905Z">
-        <seg>El manifiesto pasó a sostener que, si las pequeñas empresas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se volvería wage workers, y la polarización de clases se convertiría en un fenómeno general”. El manifiesto también discrepaba con la propuesta de que el sector estatal de la economía se reduzca a alrededor de 20 por ciento, así como con la noción de que la propiedad no determina el desarrollo económico.</seg>
+      <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214923Z" creationid="marcelo lavarda" creationdate="20160928T222905Z">
+        <seg>El manifiesto pasó a sostener que, si las pequeñas empresas se privatizaban (la intención de la política), entonces “la inmensa mayoría de la clase obrera se convertiría en asalariada, y la polarización de clases se convertiría en un fenómeno general”. El manifiesto también discrepaba con la propuesta de que el sector estatal de la economía se reduzca a alrededor del 20 por ciento, así como con la noción de que la propiedad no determina el desarrollo económico.</seg>
       </tuv>
     </tu>
     <tu>
