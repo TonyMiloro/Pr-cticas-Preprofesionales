@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6789,8 +6789,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Conservative leaders Yao&lt;s0/&gt;Yilin and Song Ping were removed from the Politburo Standing Committee and Zhu Rongji, Liu Huaqing (a senior military modernizer who was also promoted to be vice-chairman of the CMC), and Hu Jintao (then a 50-year-old former Communist Youth League cadre and former Party secretary of Tibet to whom Deng had taken a liking) were added.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T152258Z">
-        <seg>Se removió del Comité Permanente del Politburó a los líderes conservadores Yao&lt;s0/&gt;Yilin y Song Ping y se añadió a Zhu Rongji, Liu Huaqing (un modernizador militar de alto rango que también había sido promovido a vicepresidente de la CMC), y Hu Jintao (quien en ese momento tenía 50 años, había sido miembro del cuadro dirigente de la Liga de la Juventud Comunista y Secretario General del Partido de la región autónoma del Tíbet a quién Deng le había tomado cariño).</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T152333Z">
+        <seg>Se removió del Comité Permanente del Politburó a los líderes conservadores Yao&lt;s0/&gt;Yilin y Song Ping y se añadió a Zhu Rongji, Liu Huaqing (un modernizador militar de alto rango que también había sido promovido a vicepresidente de la CMC), y Hu Jintao (quien en ese momento tenía 50 años, había sido miembro del cuadro dirigente de la Liga de la Juventud Comunista y secretario general del Partido de la región autónoma del Tíbet a quién Deng le había tomado cariño).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19263,8 +19263,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The conservative Li Ximing, targeted by Deng during his southern tour, was removed from the Politburo and subsequently replaced as Beijing Party secretary by Chen Xitong, who had responded loyally to Deng’s “emancipate the mind” campaign in 1991, despite his hardline stance during the 1989 protest movement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160921T152118Z">
-        <seg>El conservador Li Ximing, tquien había sido el objetivo de Deng en su gira por el sur, fue removido del Politburó y reemplazado como secretario del partido en Beijing por Chen Xitong, quién había respondido con lealtad al la campaña de 1991 de Deng "emacipar la mente" , despite his hardline stance during the 1989 protest movement.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T152558Z">
+        <seg>El conservador Li Ximing, quien había sido el objetivo de la gira por el sur de Deng, fue removido del Politburó y reemplazado por Chen Xitong como secretario del partido en Beijing, quién había respondido con lealtad al la campaña de 1991 de Deng "emacipar la mente" , despite his hardline stance during the 1989 protest movement.</seg>
       </tuv>
     </tu>
     <tu>
