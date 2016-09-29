@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4981,8 +4981,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At the same time, there were more “liberal” advisers, such as former Shanghai mayor and all-round political mentor Wang Daohan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133918Z">
-        <seg>”Al mismo tiempo, había más asesores "liberales" como el ex alcalde de Shanghái y el polifacético mentor político Wang Daohan.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T142735Z">
+        <seg>Al mismo tiempo, había más asesores "liberales" como el ex alcalde de Shanghái y el polifacético mentor político Wang Daohan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8954,8 +8954,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>From 1989 until 1992, Jiang had steered a cautious path, one that no doubt gave conservatives cause to believe that he was “one of them.” In 1992, Jiang had then switched gears, as he certainly had to, by endorsing Deng’s talks during his southern tour and supporting the Fourteenth Party Congress report that strongly endorsed Deng Xiaoping’s reform line and warned against the danger on the left.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160910T200525Z">
-        <seg>Desde 1989 hasta 1992, Jiang había conducido un camino cauteloso, que sin duda dio motivos a los conservadores para creer que él era "uno de ellos". En 1992, Jiang había cambiado de engranajes, era lo que tenía que hacer, al respaldar las charlas de Deng durante su gira por el Sur y apoyar el informe de décimo cuarto Congreso del Partido que apoyó firmemente la línea de reforma de Deng Xiaoping y advirtió contra el peligro de la izquierda.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T142923Z">
+        <seg>Desde 1989 hasta 1992, Jiang había conducido un camino cauteloso, que sin duda dio motivos a los conservadores para creer que él era "uno de ellos". En 1992, Jiang había cambiado de engranajes, era lo que tenía que hacer, al respaldar las charlas de Deng durante su gira por el Sur y apoyar el informe del XIV Congreso Nacional del Partido Comunista de China que apoyó firmemente la línea de reforma de Deng Xiaoping y advirtió contra el peligro de la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18395,8 +18395,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>That resolution declared: “The principle of everybody being equal before discipline should be upheld and those Party members who violate discipline should be investigated and dealt with severely.”&lt;/f0&gt;&lt;f1&gt;19&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;It is not known whether this and other strictures were written into the resolution with the Chen Xitong case in mind.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133821Z" creationid="Daniel-Andrea" creationdate="20160928T011506Z">
-        <seg>ya que la misma decretó: “el principio de que todos deben ser iguales ante la disciplina debe ser respetado y se investigarán y  sancionarán a aquellos miembros del partido que no respeten la disciplina”&lt;/f0&gt;&lt;f1&gt;19&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;. No se sabe si esta y otras restricciones se incluyeron en la resolución teniendo en cuenta el caso de Chen.&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T142654Z" creationid="Daniel-Andrea" creationdate="20160928T011506Z">
+        <seg>ya que la misma decretó: “El principio de que todos deben ser iguales ante la disciplina debe ser respetado y se investigarán y  sancionarán a aquellos miembros del partido que no respeten la disciplina”&lt;/f0&gt;&lt;f1&gt;19&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;. No se sabe si esta y otras restricciones se incluyeron en la resolución teniendo en cuenta el caso de Chen.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
