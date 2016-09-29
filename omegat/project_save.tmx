@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8657,8 +8657,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Following the 14th Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T010014Z">
-        <seg>Después del XIV Congreso del Partido</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T164553Z">
+        <seg>Después del XIV Congreso del Partido Comusita de China</seg>
       </tuv>
     </tu>
     <tu>
@@ -15036,8 +15036,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, the political report endorsed the important theses of Deng Xiaoping’s southern tour, including his statement that planning and market are merely economic “means” for regulating the economy, his proposition that the 1978 Third Plenum line should be pursued for 100 years, and– most important – that it was necessary “mainly to guard against ‘leftist’ tendencies&lt;s0/&gt;within the Party, particularly among the leading cadres.”&lt;f1&gt;100&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T164455Z">
-        <seg>Además, el informe político respaldó las importantes conclusiones a las que arribó Deng Xiaoping en su gira por el sur, las que incluían su declaración de que los aspectos “planificadal" y “mercantil" son solo “medios” económicos utilizados para regular la economía, su propuesta de que la línea del Tercer Pleno de 1978 debería ser aplicada durante 100 años, y, sobre todo, que era necesario “principalmente protegerse contra las tendencias ‘de izquierda’&lt;s0/&gt;dentro del Partido, en especial entre los miembros del cuadro dirigente”.&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T164732Z">
+        <seg>Además, el informe político respaldó las importantes conclusiones a las que arribó Deng Xiaoping en su gira por el sur, las que incluían su declaración de que los aspectos “planificada" y “mercantil" son solo “medios” económicos utilizados para regular la economía, su propuesta de que la línea del Tercer Pleno de 1978 debería ser aplicada durante 100 años, y, sobre todo, que era necesario “principalmente protegerse contra las tendencias ‘de izquierda’&lt;s0/&gt;dentro del Partido, en especial entre los miembros del cuadro dirigente”.&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17126,8 +17126,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Prior to the 14th Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T005949Z">
-        <seg>Antes del XIV Congreso del Partido</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T164602Z">
+        <seg>Antes del XIV Congreso del Partido Comunista de China</seg>
       </tuv>
     </tu>
     <tu>
@@ -24342,8 +24342,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Whereas a year earlier Deng Liqun had been calling reform and opening up&lt;s1/&gt;the source of peaceful evolution,&lt;f2&gt;98&lt;/f2&gt;&lt;s3/&gt;the Fourteenth Party Congress report declared that “the most clear-cut characteristic of the new historical period is reform and opening up ”and that the “new revolution” inaugurated by Deng Xiaoping was “aimed at&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entally&lt;/f6&gt;&lt;s7/&gt;changing the economic structure rather than patching it up.” Underlining the profound changes called for by Deng’s revolution, the political report endorsed the creation of a “socialist&lt;s8/&gt;&lt;f9&gt;market&lt;/f9&gt;&lt;s10/&gt;economic system” as the goal of reform, thereby advancing well beyond the 1984 thesis of building a “socialist planned commodity economy” – which had itself been a controversial step forward.&lt;f11&gt;99 &lt;s12/&gt;&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160929T164527Z">
-        <seg>Mientras que un año antes Deng Liqun había llamado a reforma y a la apertura de&lt;s1/&gt;la fuente de la evolución pacífica,&lt;f2&gt;&lt;/f2&gt;&lt;s3/&gt;el informe del XIV Congreso Nacional del Partido Comunista de China declaró que “las características más sobresalientes del nuevo periodo histórico eran la reforma y la apertura” y que la “nueva revolución” que Deng Xiaoping había inaugurado estaba destinada&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entalmente&lt;/f6&gt;&lt;s7/&gt;a cambiar la estructura económica en vez de a arreglarla”. Al destacar los cambios profundos llevados a cabo por la revolución de Deng, el informe político respaldó la creación de un “sistema económico&lt;s8/&gt;&lt;f9&gt;mercantil&lt;/f9&gt;&lt;s10/&gt;socialista” como objetivo de reforma, y de ese modo avanzar más allá de lo postulado en la tesis de 1984 que proponía una “economía mercantil planificada socialista” la que ya había sido un avance controversial.&lt;f11&gt;&lt;s12/&gt;&lt;/f11&gt;</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T164750Z">
+        <seg>Mientras que un año antes Deng Liqun había llamado a reforma y a la apertura de&lt;s1/&gt;la fuente de la evolución pacífica,&lt;f2&gt;&lt;/f2&gt;&lt;s3/&gt;el informe del XIV Congreso Nacional del Partido Comunista de China declaró que “las características más sobresalientes del nuevo periodo histórico eran la reforma y la apertura” y que la “nueva revolución” que Deng Xiaoping había inaugurado estaba destinada&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entalmente&lt;/f6&gt;&lt;s7/&gt;a cambiar la estructura económica en vez de a arreglarla”. Al destacar los cambios profundos llevados a cabo por la revolución de Deng, el informe político respaldó la creación de un “sistema cononómico socialista&lt;s8/&gt;&lt;f9&gt;mercado&lt;/f9&gt;&lt;s10/&gt;” como objetivo de reforma, y de ese modo avanzar más allá de lo postulado en la tesis de 1984 que proponía una “economía socialista de mercado planificada” la que ya había sido un avance controversial.&lt;f11&gt;&lt;s12/&gt;&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
