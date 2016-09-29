@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4518,6 +4518,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235727Z">
         <seg>Como se indicó en el capítulo anterior, el intento fallido de golpe de estado en la Unión Soviética que ocurrió en agosto de 1991 marcó un punto de inflexión en las políticas de elite chinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As noted previously, Song Ping and Yao Yilin were removed from the Politburo Standing Committee, and the CAC, a bastion of conservative inﬂuence, was abolished.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T161620Z" creationid="constanza" creationdate="20160929T161620Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17508,6 +17516,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Second, in order to stabilize the political situation, Deng limited his purge of leftists.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T161531Z" creationid="constanza" creationdate="20160929T161531Z">
+        <seg>En segundo lugar, para estabilizar la situación política, Deng limitó la purga de los izquierdistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Second, in part because Jiang Zemin was so successful in promoting his prot&lt;f0&gt;égé&lt;/f0&gt; to the Politburo at the Sixteenth Party Congress, the Seventeenth Party Congress could not rely simply on promotion by seniority to choose a new leadership.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160923T184435Z">
@@ -21124,6 +21140,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T010947Z" creationid="Edgardo" creationdate="20160926T231045Z">
         <seg>La decisión posterior de expandir la OTAN (Organización del Tratado del Atlántico Norte) solo sirvió para confirmar estas conjeturas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The surprise elevation of Liu and Zhang certainly underscored a renewed professionalism in the PLA (Liu is one of the leading modernizers in the PLA – particularly of the navy, which he led for many years&lt;s3/&gt;–&lt;s4/&gt;and Zhang was commandant of the National Defense University before his promotion), but their promotion also highlighted the inability to turn the leadership of the military over to a younger generation, even as the age of the civilian leaders of the country continued to fall.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T161456Z" creationid="constanza" creationdate="20160929T161456Z">
+        <seg>La sorpresiva promoción de Liu y Zhang sin lugar a dudas remarcó un profesionalismo renovado en el EPL (Liu es uno de los principales modernizadores en el EPL, particularmente en la marina que dirigió por muchos años,&lt;s3/&gt;y Zhang fue comandante de la Universidad de Defensa Nacional antes de ser promovido). Pero su promoción también resaltó la incapacidad para entregar el liderazgo de las fuerzas armadas a una generación más joven, aún cuando la edad de los líderes civiles era cada vez menor.</seg>
       </tuv>
     </tu>
     <tu>
