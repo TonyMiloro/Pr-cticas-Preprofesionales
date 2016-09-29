@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11612,8 +11612,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the mid-1980s, there was fevered talk in the Chinese press, which turned out to be exaggerated, of the emergence of “ten-thousand-yuan households” (wanyuanhu) – an almost unimaginable amount of income in a period in which the average rural resident earned only about 350 yuan per year.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T133045Z">
-        <seg>A mediados de 1980 se habló mucho en la prensa china, lo cual resultó ser exagerado, acerca del surgimiento de familias con ingresos de 10 millones de yuanes (wanyuanhu): un ingreso casi inimaginable en un período en el que un residente rural promedio ganaba solamente al rededor de 350 yuanes por día.</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T140131Z">
+        <seg>A mediados de 1980 se habló mucho en la prensa china, unque terminó siendo exagerado, acerca del surgimiento de familias con ingresos de 10 millones de yuanes (wanyuanhu): un ingreso casi inimaginable en un período en el que un residente rural promedio ganaba solamente al rededor de 350 yuanes por día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21124,8 +21124,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These dramatic socioeconomic changes have had the effect of producing a nouveau riche class.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T133733Z">
-        <seg>Estos cambios dramáticos socioeconómicos han producido una clase social de "nouveau riche" (nuevos ricos).</seg>
+      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T140044Z">
+        <seg>Estos cambios  socioeconómicos dramáticos han producido una clase social llamada "nouveau riche" (nuevos ricos).</seg>
       </tuv>
     </tu>
     <tu>
