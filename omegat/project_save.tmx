@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1938,8 +1938,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Thus, the Fourteenth Party Congress that convened in October 1992&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;sought to attain two seemingly contradictory goals: establish the dominance of Deng (and his line of reform and opening up) over the left and deny the fruits of victory to the “bourgeois liberals” within the Party.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175357Z" creationid="Soledad Mori" creationdate="20160927T175357Z">
-        <seg>&lt;f0&gt;De modo que el XIV Congreso Nacional del Partido que fue convocado en octubre de 1992&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;pretendía alcanzar dos metas en apariencia contradictorias entre sí: establecer el dominio de Deng (y su línea de reforma y apertura) por sobre la izquierda, y negarle los frutos de la victoria a los “burgueses liberales” dentro del partido.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021909Z" creationid="Soledad Mori" creationdate="20160927T175357Z">
+        <seg>&lt;f0&gt;De modo que el Décimocuarto Congreso Nacional del Partido que fue convocado en octubre de 1992&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;pretendía alcanzar dos metas en apariencia contradictorias entre sí: establecer el dominio de Deng (y su línea de reforma y apertura) por sobre la izquierda, y negarle los frutos de la victoria a los “burgueses liberales” dentro del partido.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2226,8 +2226,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;willingness to use the military in an intra-Party struggle demonstrated his&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;determination; the Fourteenth Party Congress’ enshrinement of Deng’s thought would signal his success.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174822Z" creationid="Soledad Mori" creationdate="20160927T174822Z">
-        <seg>&lt;f0&gt;predisposición a hacer uso del ejército en caso de una lucha interna del partido pusieron de manifiesto su&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; determinación; la consagración del pensamiento de Deng en el XIV Congreso Nacional del Partido evidenciarían su triunfo. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021807Z" creationid="Soledad Mori" creationdate="20160927T174822Z">
+        <seg>&lt;f0&gt;predisposición a hacer uso del ejército en caso de una lucha interna del partido pusieron de manifiesto su&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; determinación; la consagración del pensamiento de Deng en el Décimocuarto Congreso Nacional del Partido evidenciarían su triunfo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6941,8 +6941,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng began to shed his formal authority by stepping down from the Politburo Standing Committee at the Thirteenth Party Congress in September 1987 and then yielding leadership over the Party’s Central&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Military Commission (CMC) to Jiang Zemin inNovember 1989.However, it seems that Deng was unwilling to shed all vestiges of formal authority and rule solely through informal politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T195332Z">
-        <seg>Deng comenzó a despojarse de su autoridad formal al renunciar al Comité Permanente del Politburó en el Décimo Tercer Congreso Nacional del Partido en septiembre de 1987 y, con posterioridad, al ceder el mando de la Comisión Militar&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Central del Partido en favor de Jiang Zemin en noviembre de 1989. Sin embargo, parece que Deng no estaba dispuesto despojarse de todos los vestigios de autoridad formal y a gobernar únicamente a través de la política informal.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021655Z">
+        <seg>Deng comenzó a despojarse de su autoridad formal al renunciar al Comité Permanente del Politburó en el Décimotercer Congreso Nacional del Partido en septiembre de 1987 y, con posterioridad, al ceder el mando de la Comisión Militar&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Central del Partido en favor de Jiang Zemin en noviembre de 1989. Sin embargo, parece que Deng no estaba dispuesto despojarse de todos los vestigios de autoridad formal y a gobernar únicamente a través de la política informal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21211,8 +21211,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This limited dissemination of Deng’s views reflected a pattern that would hold throughout most of the spring: namely, yielding to pressure from Deng&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160909T013230Z">
-        <seg>Esta difusión limitada de las opiniones de Deng eran el reflejo de un patrón que se mantendría durante la mayor parte de la primavera, a saber, ceder a la presión ejercida por Deng.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021537Z">
+        <seg>Esta divulgación limitada de las opiniones de Deng eran el reflejo de un patrón que se mantendría durante la mayor parte de la primavera, a saber, ceder a la presión ejercida por Deng.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21869,8 +21869,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, the Thirteenth Party Congress passed a secret resolution to refer all major decisions to Deng Xiaoping as the “helmsman” of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T205405Z">
-        <seg>Por ello, el DécimotercerCongreso Nacional del Partido Comunista de China aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping, quien era reconocido como el "timonel" del Partido.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021728Z">
+        <seg>Por ello, el Décimotercer Congreso Nacional del Partido aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping, quien era reconocido como el "timonel" del Partido.</seg>
       </tuv>
     </tu>
     <tu>
