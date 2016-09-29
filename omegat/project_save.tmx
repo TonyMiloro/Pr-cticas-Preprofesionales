@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4476,8 +4476,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As will be seen, Hu was able to consolidate considerable power in aremarkably short period of time, but tensions remained throughout his ﬁrst term as general secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andre" changedate="20160929T002923Z" creationid="andrea" creationdate="20160928T174026Z">
-        <seg>Como se verá, Hu fue capaz de consolidar el poder en gran medida, en un destacado corto período de tiempo, pero las tensiones permanecieron durante su primer mandato como secretario general.</seg>
+      <tuv lang="ES-US" changeid="andre" changedate="20160929T003041Z" creationid="andrea" creationdate="20160928T174026Z">
+        <seg>Como se verá, Hu fue capaz de consolidar el poder en gran medida en un corto período, pero las tensiones permanecieron durante su primer mandato como Secretario General.</seg>
       </tuv>
     </tu>
     <tu>
