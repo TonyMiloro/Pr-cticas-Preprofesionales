@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11828,8 +11828,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In practice, this meant undermining and going around much of the old planned economy, allowing a market economy to grow outside the scope of the planned economy, and thus continuously reducing the relative importance of the planned economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T133138Z">
-        <seg>En la práctica, esto significaba debilitar y manipular mucho la antigua economía planificada y permitir que una economía de mercado crezca fuera de los límites de la economía planificada y, por lo tanto, reducir continuamente la importancia relativa de la economía planificada.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T201029Z">
+        <seg>En la práctica, esto significaba debilitar y manipular mucho la antigua economía planificada y permitir que una economía de mercado crezca fuera de los límites de la economía planificada y, por lo tanto, reducir continuamente la importancia relativa de esta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22849,8 +22849,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This issue was inevitably linked with the question of Deng Xiaoping’s leadership, not just because Zhao’s selection first as premier and then as general secretary now seemed to reflect poorly on Deng Xiaoping’s judgment (for a second time – the ouster of Hu Yaobang in 1987 marking the first) but also because Zhao had been implementing a political cum economic line long supported by Deng.18[1] Deng was famous as the exponent of the pragmatic advice, “black cat, white cat, whichever cat catches the mouse is a good cat.” Zhao had come to Beijing in 1980 as a pragmatist known for his concentration on economic development.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160909T000237Z">
-        <seg>Este tema estaba sin duda alguna vinculado a la cuestión del liderazgo de Deng Xiaoping, no solo porque la elección de Zhao primero como primer ministro y luego como secretario general ahora parecían influir de manera negativa en la opinión de Deng Xiaoping (por segunda vez, la primera fue la destitución de Hu Yaobang en 1987), sino también porque Zhao había estado implementando una línea política y económica que durante mucho tiempo Deng había apoyado.18 Deng se hizo famoso por ser el exponente del consejo práctico: "no importa que el gato sea blanco o negro, sino que cace ratones".  Zhao había llegado a Pekín en 1980 como un pragmatista conocido por su especialización en desarrollo económico.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T201323Z">
+        <seg>Este tema estaba sin duda alguna vinculado a la cuestión del liderazgo de Deng Xiaoping, no solo porque la elección de Zhao primero como primer ministro y luego como secretario general ahora parecían influir de manera negativa en la opinión de Deng Xiaoping (por segunda vez, la primera fue la destitución de Hu Yaobang en 1987), sino también porque Zhao había estado implementando una línea política y económica que durante mucho tiempo Deng había apoyado.18 Deng se hizo famoso por ser el exponente del consejo práctico: "no importa que el gato sea blanco o negro, sino que cace ratones". Zhao había llegado a Pekín en 1980 como un pragmatista conocido por su especialización en desarrollo económico.</seg>
       </tuv>
     </tu>
     <tu>
