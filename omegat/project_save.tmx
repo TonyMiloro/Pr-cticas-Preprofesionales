@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5797,8 +5797,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By the summer, it was obvious that the goal could not be attained, and in August the NPC Standing Committee announced that inflation would be kept under 15 percent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T124859Z">
-        <seg>Al llegar el verano, era evidente que aquel objetivo no se había podido cumplir, y en agosto, el Comité Permanente de la APN anunció que la inflación se mantendría por debajo del 15%.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T135518Z">
+        <seg>Al llegar el verano, era evidente que aquel objetivo no se había podido cumplir, y en agosto, el Comité Permanente de la APN anunció que la inflación se mantendría por debajo del 15 %.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7808,8 +7808,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Entitled “A Preliminary Exploration of the Shape of China’s Domestic and Foreign National Security in the Next Ten or Twenty Years and the Primary Threats to It,” this second document maintained that China faced a hostile international environment made up of “monopoly capitalists” who view China as an enemy and that domestically China was undergoing a number of social changes that were threatening its national security and social stability.&lt;/f0&gt;&lt;f1&gt;26&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Unlike the first manifesto, which concentrated on domestic trends, this second document focused on the reasons for the disintegration of the Soviet Union and the collapse of socialism in Eastern Europe – issues that had been central in the 1991–2 period but had since calmed down in the wake of the&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;Fourteenth Party Congress and the efforts to rebuild diplomatic ties with the new Russia.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160928T192322Z" creationid="Daniel-Andrea" creationdate="20160928T192208Z">
-        <seg>Titulado “un estudio preliminar sobre el estado de la Seguridad Nacional interna y exterior de China durante los próximos diez o veinte años y sus principales amenazas”, este segundo documento afirmaba que China enfrentaba un entorno internacional hostil integrado por “capitalistas monopolistas” que ven a China como un enemigo, y que nacionalmente China estaba sufriendo varios cambios sociales que amenazaban su seguridad interna y estabilidad social&lt;/f0&gt;&lt;f1&gt;26.&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;A diferencia del primer manifiesto, el cual se concentraba en tendencias nacionales, este segundo documento se centraba en los motivos de la desintegración de la Unión Soviética y del colapso del socialismo en Europa del Este (cuestiones que habían sido centrales durante el periodo 1991-2 pero que se habían apaciguado tras el&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;XIV Congreso Nacional del Partido Comunista de China y los esfuerzos por restablecer los vínculos diplomáticos con la nueva Rusia).</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T135023Z" creationid="Daniel-Andrea" creationdate="20160928T192208Z">
+        <seg>Titulado “un estudio preliminar sobre el estado de la Seguridad Nacional interna y exterior de China durante los próximos diez o veinte años y sus principales amenazas”, este segundo documento afirmaba que China enfrentaba un entorno internacional hostil integrado por “capitalistas monopolistas” que ven a China como un enemigo, y que nacionalmente China estaba sufriendo varios cambios sociales que amenazaban su seguridad interna y estabilidad social&lt;/f0&gt;&lt;f1&gt;26&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. A diferencia del primer manifiesto, el cual se concentraba en tendencias nacionales, este segundo documento se centraba en los motivos de la desintegración de la Unión Soviética y del colapso del socialismo en Europa del Este (cuestiones que habían sido centrales durante el periodo 1991-2 pero que se habían apaciguado tras el&lt;s5/&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;XIV Congreso Nacional del Partido Comunista de China y los esfuerzos por restablecer los vínculos diplomáticos con la nueva Rusia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11652,8 +11652,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the spring, the NPC had approved a commitment to keep inflation under 10 percent (down somewhat from the 13 percent registered in 1993).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T124853Z">
-        <seg>En la primavera, la APN se comprometió a mantener la inflación por debajo del 10% (un poco menos que el 13% que se registró en 1993).</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T135501Z">
+        <seg>En la primavera, la APN se comprometió a mantener la inflación por debajo del 10 % (un poco menos que el 13 % que se registró en 1993).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20700,8 +20700,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The year would end with a yearly inflation rate of 21.7 percent.&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T124920Z">
-        <seg>El año finalizaría con una tasa de inflación anual del 21,7%&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T135534Z">
+        <seg>El año finalizaría con una tasa de inflación anual del 21,7 %&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
