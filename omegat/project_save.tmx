@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6389,8 +6389,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chen sharply criticized Zhao for his opposition to the closing of the World Economic Herald, his speech to the Asian Development Bank, and his revelation to Gorbachev of the Thirteenth Party Congress resolution referring important Party matters to Deng – which Chen described as “deliberately directing the fire of criticism at Deng Xiaoping.”24[7] In his criticism of some of the intellectuals linked to Zhao, however, Chen hinted at the depth of the struggle within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T001337Z">
-        <seg>Chen criticó duramente a Zhao por su oposición al cierre del periódico World Economic Herald, sus palabras hacia el Banco de Desarrollo Asiático, y su revelación a Gorbachev de la resolución del Décimotercer Congreso del Partido que derivaba importantes asuntos del partido a Deng, lo cual Chen describía como "direccionar deliberadamente al centro de la crítica a Deng Xiaoping". 24 En su crítica a algunos de los intelectuales relacionados con Zhao, sin embargo, Chen insinúo la profunda lucha dentro del partido.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T185144Z">
+        <seg>Chen criticó duramente a Zhao por su oposición al cierre del periódico World Economic Herald, sus palabras hacia el Banco de Desarrollo Asiático, y su revelación a Gorbachev de la resolución del Décimotercer Congreso del Partido que derivaba importantes asuntos del partido a Deng, lo cual Chen describía como "direccionar deliberadamente al centro de la crítica a Deng Xiaoping". 24 Sin embargo, en su crítica a algunos de los intelectuales relacionados con Zhao, Chen insinúo la profunda lucha dentro del partido.</seg>
       </tuv>
     </tu>
     <tu>
