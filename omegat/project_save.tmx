@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19995,6 +19995,15 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T010947Z" creationid="Edgardo" creationdate="20160926T231045Z">
         <seg>La decisión posterior de expandir la OTAN (Organización del Tratado del Atlántico Norte) solo sirvió para confirmar estas conjeturas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tensions evident at the Sixteenth Party Congress continued the following spring as the annual meeting of the NPC convened.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T014708Z" creationid="Ana Maria" creationdate="20160929T014708Z">
+        <seg>Las tensiones evidentes en el Décimosexto Congreso del Partido continuaron la siguiente primavera  
+ya que el encuentro anual de la APN se llevó a cabo.</seg>
       </tuv>
     </tu>
     <tu>
