@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7549,8 +7549,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng’s efforts over the preceding year and more, starting with his early 1991 trip to Shanghai and building momentum following the abortive coup in the&lt;s0/&gt;Soviet Union and with his trip to Shenzhen, ﬁnally culminated in October 1992 with the adoption by the Fourteenth Party Congress of the most liberal economic document in CCP history.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T004709Z">
-        <seg>Los esfuerzos que Deng realizó a lo largo del año anterior y más, que comenzaron con su viaje a Shangai a principios de 1991, el aprovechamiento del impulso que se produjo luego del fallido golpe de estado en la&lt;s0/&gt;Unión Soviética y su viaje a Shenzhen, concluyeron en octubre de 1992  con la adopción en el XIV Congreso Nacional del Partido del documento económico más liberal en la historia del PCCh.</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T164053Z">
+        <seg>Los esfuerzos que Deng realizó a lo largo de años anteriores, que comenzaron con su viaje a Shangai a principios de 1991, el aprovechamiento del impulso que se produjo luego del fallido golpe de estado en la&lt;s0/&gt;Unión Soviética y su viaje a Shenzhen, concluyeron en octubre de 1992  con la adopción en el XIV Congreso Nacional del Partido Comunista de China del documento económico más liberal en la historia del PCCh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24342,8 +24342,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Whereas a year earlier Deng Liqun had been calling reform and opening up&lt;s1/&gt;the source of peaceful evolution,&lt;f2&gt;98&lt;/f2&gt;&lt;s3/&gt;the Fourteenth Party Congress report declared that “the most clear-cut characteristic of the new historical period is reform and opening up ”and that the “new revolution” inaugurated by Deng Xiaoping was “aimed at&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entally&lt;/f6&gt;&lt;s7/&gt;changing the economic structure rather than patching it up.” Underlining the profound changes called for by Deng’s revolution, the political report endorsed the creation of a “socialist&lt;s8/&gt;&lt;f9&gt;market&lt;/f9&gt;&lt;s10/&gt;economic system” as the goal of reform, thereby advancing well beyond the 1984 thesis of building a “socialist planned commodity economy” – which had itself been a controversial step forward.&lt;f11&gt;99 &lt;s12/&gt;&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="constanza" changedate="20160909T021903Z">
-        <seg>Mientras que un año antes Deng Liqun había llamado a reforma y a la apertura de&lt;s1/&gt;la fuente de la evolución pacífica,&lt;f2&gt;98&lt;/f2&gt;&lt;s3/&gt;el informe del XIV Congreso Nacional del Partido declaró que “las características más sobresalientes del nuevo periodo histórico eran la reforma y la apertura” y que la “nueva revolución” que Deng Xiaoping había inaugurado estaba destinada&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entalmente&lt;/f6&gt;&lt;s7/&gt;a cambiar la estructura económica en vez de a arreglarla”. Destacando los cambios profundos llevados a cabo por la revolución de Deng, el informe político respaldó la creación de un “sistema económico&lt;s8/&gt;&lt;f9&gt;mercantil&lt;/f9&gt;&lt;s10/&gt;socialista” como objetivo de reforma, y de ese modo avanzar más allá de lo postulado en la tesis de 1984 que proponía una “economía mercantil planificada socialista” – la que ya había sido un avance controversial.&lt;f11&gt;99 &lt;s12/&gt;&lt;/f11&gt;</seg>
+      <tuv lang="ES-US" changeid="constanza" changedate="20160929T164200Z">
+        <seg>Mientras que un año antes Deng Liqun había llamado a reforma y a la apertura de&lt;s1/&gt;la fuente de la evolución pacífica,&lt;f2&gt;&lt;/f2&gt;&lt;s3/&gt;el informe del XIV Congreso Nacional del Partido Comunista de China declaró que “las características más sobresalientes del nuevo periodo histórico eran la reforma y la apertura” y que la “nueva revolución” que Deng Xiaoping había inaugurado estaba destinada&lt;s4/&gt;&lt;f5&gt;fundam&lt;/f5&gt;&lt;f6&gt;entalmente&lt;/f6&gt;&lt;s7/&gt;a cambiar la estructura económica en vez de a arreglarla”. Destacando los cambios profundos llevados a cabo por la revolución de Deng, el informe político respaldó la creación de un “sistema económico&lt;s8/&gt;&lt;f9&gt;mercantil&lt;/f9&gt;&lt;s10/&gt;socialista” como objetivo de reforma, y de ese modo avanzar más allá de lo postulado en la tesis de 1984 que proponía una “economía mercantil planificada socialista” – la que ya había sido un avance controversial.&lt;f11&gt;&lt;s12/&gt;&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
