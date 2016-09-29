@@ -1730,8 +1730,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Leftists criticized efforts to “privatize” the economy, and Zhu lashed out at liberal economists who urged him to undertake more radical reforms.&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Jiang began to parcel out bits of Zhu’s portfolio.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T125850Z" creationid="Daniel-Andrea" creationdate="20160929T125850Z">
-        <seg>&lt;f0&gt;Los izquierdistas criticaron los intentos de “privatizar” la economía y Zhu atacó a los economistas liberales que insistían en que realice reformas más radicales&lt;/f0&gt;&lt;f1&gt;7.&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;JJiang comenzó a distribuir la cartera de Zhu.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132657Z" creationid="Daniel-Andrea" creationdate="20160929T125850Z">
+        <seg>&lt;f0&gt;Los izquierdistas criticaron los intentos de “privatizar” la economía y Zhu atacó a los economistas liberales que insistían en que realice reformas más radicales&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;. Jiang comenzó a distribuir la cartera de Zhu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7077,8 +7077,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng Xiaoping had sounded these themes in his justly famous 1980 speech “On the Reform of the Party and State Leadership System,” but Deng’s own status as a revolutionary elder, the repeated conflicts over policy, and doubtless also Deng’s reflexive resort to personal decision-making prevented implementation of his ideas.&lt;/f0&gt;&lt;f1&gt;12&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;As a member of the post-revolutionary generation, Jiang could never possess Deng’s personal authority; he would have to find ways to build institutions even as he augmented his personal power.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131213Z" creationid="Daniel-Andrea" creationdate="20160929T131213Z">
-        <seg>Deng Xiaoping había hecho referencia a estos asuntos en su famoso discurso de 1980 “sobre la reforma del partido y el sistema de liderazgo estatal”; pero la posición de Deng como miembro veterano revolucionario, los conflictos constantes sobre políticas y, sin dudas, el hecho de que Deng tomara decisiones propias impidieron la implementación de sus ideales&lt;/f0&gt;&lt;f1&gt;12.&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;Como miembro de la generación post-revolucionaria, Jiang no no poseería nunca la misma autoridad que Deng; debía encontrar la manera de crear instituciones, incluso mientras aumentaba su poder personal.&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132758Z" creationid="Daniel-Andrea" creationdate="20160929T131213Z">
+        <seg>Deng Xiaoping había hecho referencia a estos asuntos en su famoso discurso de 1980 “sobre la reforma del partido y el sistema de liderazgo estatal”; pero la posición de Deng como miembro veterano revolucionario, los conflictos constantes sobre políticas y, sin dudas, el hecho de que Deng tomara decisiones propias impidieron la implementación de sus ideales&lt;/f0&gt;&lt;f1&gt;12&lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f5&gt;. Como miembro de la generación post-revolucionaria, Jiang no no poseería nunca la misma autoridad que Deng; debía encontrar la manera de crear instituciones, incluso mientras aumentaba su poder personal.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8666,8 +8666,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For instance, the plenum declared that&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;democratic centralism and “system construction” were necessary so that the Party’s policies “will not change with a change in leaders or with a change in their ideas and their focus of attention.”&lt;/f3&gt;&lt;f4&gt;9&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Previously, when Qiao Shi had taken over as chairman of the NPC, he had declared that “democracy must be institutionalized and codified into laws so that this system and its laws will not change with a change in leadership, nor with changes in [individual leaders’] viewpoints and attention.”&lt;/f6&gt;&lt;f7&gt;10&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;bs10/&gt;&lt;be11/&gt;&lt;f12&gt;Moreover, the decision called for inner-Party democracy, declaring that “[i]f there is no democracy, there will be no socialism, nor socialist modernization.”&lt;/f12&gt;&lt;f13&gt;11&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T130941Z" creationid="Daniel-Andrea" creationdate="20160929T130941Z">
-        <seg>Por ejemplo, el pleno manifestó que&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;el centralismo democrático y la “formación del sistema” eran claves para que las políticas del partido “no se modifiquen con cambios de mando o con cambios de ideales y foco de atención”&lt;/f3&gt;&lt;f4&gt;9.&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt; Previamente, cuando Quiao Shi ocupaba el puesto de presidente de la APN, expresó: “la democracia debe ser institucionalizada y codificada en la legislación así este sistema y sus normas no son modificadas con los cambios de liderazgo ni con cambios en perspectivas y prioridades [de líderes individuales]”&lt;/f6&gt;&lt;f7&gt;10.&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;bs10/&gt;&lt;be11/&gt;&lt;f12&gt;Además, en la decisión se ordenó democracia interna del partido y se manifestó que “sin democracia, no habrá socialismo ni modernización socialista”&lt;/f12&gt;&lt;f13&gt;11.&lt;/f13&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132742Z" creationid="Daniel-Andrea" creationdate="20160929T130941Z">
+        <seg>Por ejemplo, el pleno manifestó que&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;el centralismo democrático y la “formación del sistema” eran claves para que las políticas del partido “no se modifiquen con cambios de mando o con cambios de ideales y foco de atención”&lt;/f3&gt;&lt;f4&gt;9&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;. Previamente, cuando Quiao Shi ocupaba el puesto de presidente de la APN, expresó: “la democracia debe ser institucionalizada y codificada en la legislación así este sistema y sus normas no son modificadas con los cambios de liderazgo ni con cambios en perspectivas y prioridades [de líderes individuales]”&lt;/f6&gt;&lt;f7&gt;10&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;bs10/&gt;&lt;be11/&gt;&lt;f12&gt;. Además, en la decisión se ordenó democracia interna del partido y se manifestó que “sin democracia, no habrá socialismo ni modernización socialista”&lt;/f12&gt;&lt;f13&gt;11&lt;/f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24496,8 +24496,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>and there must be a leading core in this leading group.” And that core, the plenum reiterated, was Jiang Zemin.&lt;/f9&gt;&lt;f10&gt;6&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132502Z" creationid="Daniel-Andrea" creationdate="20160929T125147Z">
-        <seg>y una esencia dominante en este grupo principal”. Y esa esencia, recalcó el pleno, era Jiang Jiang Zemin.&lt;/f9&gt;&lt;f10&gt;6.&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T132636Z" creationid="Daniel-Andrea" creationdate="20160929T125147Z">
+        <seg>y una esencia dominante en este grupo principal”. Y esa esencia, recalcó el pleno, era Jiang Jiang Zemin&lt;/f9&gt;&lt;f10&gt;6&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
