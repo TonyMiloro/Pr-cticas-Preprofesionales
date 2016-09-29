@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9787,8 +9787,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu Yaobang discovered this in 1986 when his hard-hitting campaign against corruption aroused the anger of Party elders and contributed to his own downfall the following January.&lt;/f4&gt;&lt;f5&gt;14&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131506Z" creationid="Daniel-Andrea" creationdate="20160929T131506Z">
-        <seg>Hu Yaobang se percató de esta situación en 1986, cuando su contundente campaña en contra de la corrupción despertó la furia de los miembros veteranos del partido, lo que contribuyó a su caída en enero del año siguiente&lt;/f4&gt;&lt;f5&gt;14.&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133433Z" creationid="Daniel-Andrea" creationdate="20160929T131506Z">
+        <seg>Hu Yaobang se percató de esta situación en 1986, cuando su contundente campaña en contra de la corrupción despertó la furia de los miembros veteranos del partido, lo que contribuyó a su caída en enero del año siguiente&lt;/f4&gt;&lt;f5&gt;14&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16654,8 +16654,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Public anger at Party corruption had fed the 1989 protest movement as well as the subsequent “Mao craze” that surfaced in late 1989 and the early 1990s,&lt;/f0&gt;&lt;f1&gt;13&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;but corruption had been difficult to tackle because of the political clout protecting some of the worst offenders.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131441Z" creationid="Daniel-Andrea" creationdate="20160929T131441Z">
-        <seg>La furia popular por la corrupción del partido había impulsado el movimiento de protestas de 1989, así como también la posterior “locura de Mao” que salió a la luz a finales del año 1989 y principios de los 90&lt;/f0&gt;&lt;f1&gt;13,&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;pero la corrupción había sido difícil de combatir debido a la influencia política que protegía a los delincuentes..</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T133427Z" creationid="Daniel-Andrea" creationdate="20160929T131441Z">
+        <seg>La furia popular por la corrupción del partido había impulsado el movimiento de protestas de 1989, así como también la posterior “locura de Mao” que salió a la luz a finales del año 1989 y principios de los 90&lt;/f0&gt;&lt;f1&gt;13&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;, pero la corrupción había sido difícil de combatir debido a la influencia política que protegía a los delincuentes.</seg>
       </tuv>
     </tu>
     <tu>
