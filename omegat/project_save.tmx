@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -499,6 +499,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T130511Z">
         <seg>52 &lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>52 The most interesting of the commentaries was the final one, which more strongly than its predecessors called for opposing “dogmatism” and “vulgar” Marxism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T220215Z" creationid="PC" creationdate="20160929T220215Z">
+        <seg>El más interesante de los comentarios fue el último, el cual más fuerte que los de sus predecesores, pidió por un “dogmatismo” opositor y por un marxismo “vulgar”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3850,6 +3858,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although “some” of the “fundamental principles” (jiben yuanli) of Marxism are still applicable, he said, “indeed a considerable portion of the principles” of Marxism have changed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T220459Z" creationid="PC" creationdate="20160929T220459Z">
+        <seg>Aunque “algunos” de los “principios fundamentales” (jiben yuanli) del marxismo son todavía relevantes, él dijo que, “ciertamente una porción considerable de los principios” del marxismo han cambiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>American officials&lt;t3/&gt; &lt;t4/&gt;were probably correct when they claimed that doing so would have been&lt;t5/&gt; &lt;t6/&gt;ineffective and that the Chinese government would use such a forum to&lt;t7/&gt; &lt;t8/&gt;constrain US actions; nevertheless, unilateral NATO action touched the</seg>
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160926T021615Z">
@@ -4110,6 +4126,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160928T144357Z">
         <seg>Además de la opinión pública en el sentido tradicional, hay un claro esfuerzo por utilizar los libros para lograr que algunas ideas llamen la atención de los formadores de políticas o para lograr que estos defiendan públicamente sus ideas frente a otros miembros del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apparently angered by the silence with which the People’s Daily greeted his speeches–a silence induced perhaps by the inability of top leaders to agree on how to respond – Jiang arranged for the publication of Xing’s article.54 In trying to define what constituted “real” Marxism (and thus refute the left that positioned itself as defender of the faith), Xing argued that a lot had changed since the birth of Marx 150 years ago.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T220428Z" creationid="PC" creationdate="20160929T220428Z">
+        <seg>Aparentemente, enojado por el silencio del People´s Daily al recibir sus discursos- un silencio inducido, tal vez, por la inhabilidad de los líderes en ponerse de acuerdo en cómo responder- Jiang organizó la publicación del artículo de Xing. En el momento de intentar definir qué constituía al marxismo “real” (y por lo tanto refutar a la izquierda que se posicionó a sí misma como defensora de la fe), Xing argumentó que mucho ha cambiado desde el nacimiento de Marx 150 años atrás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9089,8 +9113,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, in calling for patriotism in the context of opening to the outside world, one article stated – in an implicit but clear reference to Deng Liqun’s wellknown comment – that “some comrades even believe that every new bit [fen] of foreign investment that is brought in is another bit of capitalism.”51 At least two of the commentaries highlighted the thesis that China was in the “primary stage of socialism,” a thesis that would become central at the Fifteenth Party Congress in 1997.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160929T024520Z">
-        <seg>Por ejemplo, para hablar de patriotismo en el contexto de la apertura al mundo, un artículo afirmaba, en una referencia implícita pero clara a la observación bien conocida de Deng Liqun, que “algunos compañeros creen incluso que cada nueva moneda [fen] que se trae de la inversión extranjera es otra moneda del capitalismo”. </seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T220132Z">
+        <seg>Por ejemplo, para hablar de patriotismo en el contexto de la apertura al mundo, un artículo afirmaba, en una referencia implícita pero clara a la observación bien conocida de Deng Liqun, que “algunos compañeros creen incluso que cada nueva moneda [fen] que se trae de la inversión extranjera es otra moneda del capitalismo”. Al menos dos de los comentarios resaltaron la tesis de que China estaba en la “primera etapa del socialismo”, una teoría que sería central en el décimo quinto Congreso del Partido en 1997.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25231,6 +25255,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160925T223453Z">
         <seg>Que estas tendencias sean "buenas" depende de la postura en estos debates de política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While Marxism must be upheld, it declared, “without being developed, Marxism would lose its vitality and energy.” It was therefore necessary to “break through dogmatic interpretations of Marxism and erroneous viewpoints that are attributed to Marxism, and break through those judgments and conclusions that practice has already proven to be wrong and that are not appropriate to the new circumstances brought about by change.”53 The most systematic effort to define a middle course and respond to the criticisms of the left came when Xing Bensi, vice-president of the Central Party School, published a long article in People’s Daily.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T220322Z" creationid="PC" creationdate="20160929T220322Z">
+        <seg>Mientras que el marxismo debe ser sostenido, declaró que, “si no se desarrolla, el marxismo perdería su vitalidad y energía”. Fue, por lo tanto, necesario “cortar con interpretaciones dogmáticas sobre el marxismo y puntos de vista erróneos que se atribuyen al  mismo, y cortar con opiniones y conclusiones que fueron equivocadas y no apropiadas para las nuevas circunstancias provocadas mediante el cambio”. El esfuerzo más sistemático para explicar la mitad del recorrido y responder a las críticas de la izquierda apareció cuando Xing Bensi, vicepresidente de la Escuela Central del Partido, publicó un artículo en el diario People´s Daily.</seg>
       </tuv>
     </tu>
     <tu>
