@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19888,6 +19888,14 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That campaign would last from the time of the abortive Soviet coup until the convening of the Fourteenth Party Congress in October 1992.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T234937Z" creationid="Luisina" creationdate="20160929T234937Z">
+        <seg>Esa campaña duraría desde los tiempos del fallido golpe de estado soviético hasta la reunión del Décimo Cuarto Congreso del Partido en octubre de 1992.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That changed in 1994 with the publication of Looking at China through a Third Eye.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160928T134856Z">
@@ -20980,6 +20988,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The editorial contained some of the most reformist language to be used since the previous spring, and did so in a more authoritative context.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T235400Z" creationid="Luisina" creationdate="20160929T235400Z">
+        <seg>El editorial contenía un lenguaje bastante reformista </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The educational system, which concentrated investment in urban areas and in tertiary education, worked to the disadvantage of the rural population.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="user" changedate="20160929T034440Z" creationid="user" creationdate="20160929T034412Z">
@@ -21192,6 +21208,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pc" changedate="20160909T174633Z">
         <seg>La primera vez que la sociedad vislumbró esta tendencia fue el 16 de enero de 1989 cuando el periódico de orientación reformista de Shanghái, el World Economic Herald, publicó un artículo  escrito por Wu Jiaxiang, en aquel entonces un investigador joven de la Secretaría General del Comité Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first public sign that political winds were shifting came on September 1, when the Xinhua News Service transmitted the text of an editorial to be run the following day by the People’s Daily.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160929T235311Z" creationid="Luisina" creationdate="20160929T235241Z">
+        <seg>La primera señal pública de que los rumbos de los partidos estaban cambiando llegó el 1 de septiembre, cuando la Agenccia de Noticias Xinhua transmitió el el texto de un editorial que sería publicado al día siguiente por el People's Daily. </seg>
       </tuv>
     </tu>
     <tu>
