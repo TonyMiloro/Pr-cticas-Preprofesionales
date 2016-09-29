@@ -2746,8 +2746,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t4/&gt;Qiao&lt;t5/&gt; Shi was angered by his dismissal (though apparently able to secure the appointment of some of his followers as a price), and Zhu &lt;t6/&gt;Rongji&lt;t7/&gt; was similarly upset by not being named as the second-ranking member of the Politburo Standing Committee (the usual ranking of the premier, which Zhu was slated to become the following spring).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T223100Z" creationid="Cami" creationdate="20160929T223100Z">
-        <seg>&lt;t4/&gt;Qiao&lt;t5/&gt; Shi estaba enojado porque había sido destituido de su cargo (aunque al parecer se le permitía asegurar el nombramiento de algunos de sus seguidores como una forma de recompensa) Zhu &lt;t6/&gt;Rongji&lt;t7/&gt; también estaba molesto porque no lo nombraron miembro de segundo rango del Comité Permanente de Politburó (rango que normalmente ocupa el primer ministro y que Zhu ya había arreglado ocupar la primavera siguiente).</seg>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T223142Z" creationid="Cami" creationdate="20160929T223100Z">
+        <seg>&lt;t4/&gt;Qiao&lt;t5/&gt; Shi estaba enojado porque había sido destituido de su cargo (aunque al parecer se le permitía asegurar el nombramiento de algunos de sus seguidores como una forma de recompensa) y Zhu &lt;t6/&gt;Rongji&lt;t7/&gt; también estaba molesto porque no lo nombraron miembro de segundo rango del Comité Permanente de Politburó (rango que normalmente ocupa el primer ministro y que Zhu ya había arreglado ocupar la primavera siguiente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15958,6 +15958,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T164305Z">
         <seg>Sin embargo, Hu se sintió en parte reivindicado en octubre de ese año cuando Zhu Rongji le dijo a Lee Hsien Loong (hijo del entonces viceprimer ministro de Singapur Lee Kuan Yew y futuro primer ministro) que, aunque las políticas básicas permanecerían iguales, "algunos reajustes y mejoras" eran necesarios en medidas específicas.&lt;/f19&gt;&lt;f21&gt;22&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;El cambio en las políticas&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, Jiang was able to move Li to a distinctly less powerful position without a major political upheaval, an effort to blend informal and formal politics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160929T223200Z" creationid="Cami" creationdate="20160929T223200Z">
+        <seg>Sin embargo, Jiang pudo encargarse de que Li ocupara un puesto de menor poder sin que se produzca un gran conflicto político, con la intención de combinar políticas formales e informales.</seg>
       </tuv>
     </tu>
     <tu>
