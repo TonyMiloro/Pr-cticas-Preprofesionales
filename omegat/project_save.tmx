@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4262,6 +4262,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160922T215721Z">
         <seg>Como Wang lo expresó en un fragmento que insinúa su conocimiento de la crítica poscolonial:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As Wang put it, “[o]nly by criticizing and struggling against the ideological trend of bourgeois liberalization will we be able to consolidate and develop the political situation of stability and unity and to promote the smooth development of &lt;t0/&gt;socialist construction.” In effect, Wang reinterpreted Deng’s slogan “stability overrides everything” – a phrase coined to relax ideological tension – as a clarion call for ideological struggle as the 58 “Zhonggong Zhongyang guanyu jinyibu zhili zhengdun he shenhua gaige de jueding (zhaiyao).” 59 Jiang Zemin, “Zai dang de shisanjie wuzhong quanhui shangde jianghua,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T163502Z" creationid="Usuario" creationdate="20160929T163502Z">
+        <seg>Su rechazo a los esfuerzos de Deng de reducir&lt;s1/&gt;las tensiones se basó no sólo en la profunda división dentro del partido pero también en el colapso del socialismo en Europa Oriental.60 El 15 de diciembre, Wang Renzhi, el líder del Departamento de Propaganda,lanzó un ardiente ataque sobre la liberalización burguesa en un discurso para un partido de clases en construciónp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21454,6 +21462,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160929T003424Z" creationid="Agustín" creationdate="20160929T003221Z">
         <seg>Los resultados fueron bastante reveladores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their rejection of Deng’s efforts to reduce tensions was based not only on the depth of division within the Party but also on the collapse of socialism in Eastern Europe.60 On December 15, Wang Renzhi, the conservative head of the Propaganda Department, launched a blistering attack on bourgeois liberalization in a talk to a Party building class.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T163508Z" creationid="Usuario" creationdate="20160929T163508Z">
+        <seg>Su rechazo a los esfuerzos de Deng de reducir&lt;s1/&gt;las tensiones se basó no sólo en la profunda división dentro del partido pero también en el colapso del socialismo en Europa Oriental.60 El 15 de diciembre, Wang Renzhi, el líder del Departamento de Propaganda,lanzó un ardiente ataque sobre la liberalización burguesa en un discurso para un partido de clases en construción</seg>
       </tuv>
     </tu>
     <tu>
