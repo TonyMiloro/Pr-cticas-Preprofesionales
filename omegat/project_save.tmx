@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27737,8 +27737,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>“I think,” adds Qian, “that if Said were to come to China the situation would probably be about the same.” For Qian, like Wang Xiaodong (whose views on culture were discussed in the previous chapter), the cultural fever of the 1980s demonstrated the enduring influence of imperialism in China, with River Elegy exemplifying this tendency.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160928T225744Z" creationid="Martin" creationdate="20160927T161448Z">
-        <seg>"Creo", agrega Qian, "que si Said viniera a China, la situación sería probablemente la misma". Para Qian, al igual que Wang Xiaodong (cuyas ideas acerca de la cultura fueron tratadas en el capítulo anterior ), la fiebre cultural de los 80 demostró la gran influencia del imperialismo en China, con River Elegy que exemplifica esta tendencia.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160929T230411Z" creationid="Martin" creationdate="20160927T161448Z">
+        <seg>"Creo", agrega Qian, "que si Said viniera a China, la situación sería probablemente la misma". Para Qian, al igual que Wang Xiaodong (cuyas ideas acerca de la cultura fueron tratadas en el capítulo anterior), la fiebre cultural de los años ochenta demostró la gran influencia del imperialismo en China, con River Elegy como ejemplo de esta tendencia.</seg>
       </tuv>
     </tu>
     <tu>
