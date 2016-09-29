@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5115,6 +5115,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the same time, foreign investment began growing by a large amount.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T213642Z" creationid="PC" creationdate="20160929T213642Z">
+        <seg>Al mismo tiempo, la inversión extranjera comenzó a crecer de manera considerable. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the same time, however, it should be recognized that these emerging norms and institutions stand in tension with rule by a Leninist party and the traditional game of winner-take-all politics.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160920T145601Z">
@@ -6047,6 +6055,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160902T015150Z">
         <seg>El Decimoséptimo Congreso del Partido, que estaba programado para la primavera de 2007, comenzó a cobrar relevancia durante el invierno y la primavera de 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By the summer of 1996, as elite tensions remained high because of the Taiwan Straits crisis and domestic criticism of reform, a new wave of criticism – this one focusing on the impact of foreign investment – began in the pages of Economic Daily (Jingji ribao), the country’s most authoritative economic paper, which is supervised by the State Council.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214307Z" creationid="PC" creationdate="20160929T214307Z">
+        <seg>En el verano de 1996, mientras las  tensiones en la elite seguían siendo altas debido a la crisis del Estrecho de Taiwán y a la crítica nacional de  la reforma, una nueva oleada de críticas, enfocadas en el impacto de la inversión extranjera, comenzó en las páginas del Economic Daily (Jingji ribao), el diario de economía de mayor reputación en el país que es supervisado por el Consejo de Estado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7910,6 +7926,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct foreign investment more than doubled, from $4.6 billion to $11.3 billion, between 1991 and 1992; it then doubled again, to $27.8 billion, in 1993.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214235Z" creationid="PC" creationdate="20160929T214235Z">
+        <seg>La inversión extranjera directa aumentó más del doble, de USD 4 600 millones a 11 300 millones entre los años 1991 y 1992; luego, se duplicó otra vez y alcanzó los USD 27 800 millones en el año 1993.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discussions in corridors about who might emerge as “China’s Gorbachev” were directed at Zhu.&lt;/f1&gt;&lt;f2&gt;21&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Li Peng initially declined to assign him a portfolio.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T234124Z">
@@ -8518,6 +8542,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feeling that the assault on China’s policy of opening to the outside could not go unrefuted, economic reformers – including Zhu Rongji – urged People’s Daily to issue an authoritative rebuttal.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214824Z" creationid="PC" creationdate="20160929T214824Z">
+        <seg>Con el sentimiento de que la agresión a la política china de abrirse al exterior no podía dejar de ser refutada, reformadores de economía, incluyendo a Zhu Rongji, exhortaron al People’s Daily a publicar una refutación autorizada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feng mockingly derided &lt;/f19&gt;&lt;f20&gt;Heart-to-Heart&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;T&lt;/f22&gt;&lt;f23&gt;alks&lt;/f23&gt;&lt;f24&gt;,&lt;/f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;saying&lt;/f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;f28&gt;that&lt;/f28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;the&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;authors’&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;desire&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;to&lt;/f36&gt;&lt;f37&gt; “&lt;/f37&gt;&lt;f38&gt;modern- ize&lt;/f38&gt;&lt;f39&gt;” &lt;/f39&gt;&lt;f40&gt;Marxism meant diluting it as an ideological weapon for directing class struggle and also meant turning Marxism into nothing more substantive&lt;/f40&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;than&lt;/f42&gt;&lt;f43&gt; &lt;/f43&gt;&lt;f44&gt;a&lt;/f44&gt;&lt;f45&gt; &lt;/f45&gt;&lt;f46&gt;new&lt;/f46&gt;&lt;f47&gt; &lt;/f47&gt;&lt;f48&gt;version&lt;/f48&gt;&lt;f49&gt; &lt;/f49&gt;&lt;f50&gt;of&lt;/f50&gt;&lt;f51&gt; &lt;/f51&gt;&lt;f52&gt;Chiang&lt;/f52&gt;&lt;f53&gt; &lt;/f53&gt;&lt;f54&gt;Kai-shek’s&lt;/f54&gt;&lt;f55&gt; &lt;/f55&gt;&lt;f56&gt;“New&lt;/f56&gt;&lt;f57&gt; &lt;/f57&gt;&lt;f58&gt;Life&lt;/f58&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;Movement”&lt;/f60&gt;&lt;f61&gt; &lt;/f61&gt;&lt;f62&gt;– the vapid conservative movement Chiang had sponsored in the &lt;/f62&gt;&lt;f63&gt;1930&lt;/f63&gt;&lt;f64&gt;s in an attempt to instill a diluted Confucian morality.&lt;/f64&gt;&lt;a65&gt;&lt;f66&gt;75&lt;/f66&gt;&lt;/a65&gt;&lt;f67&gt;Feng also criticized&lt;/f67&gt;&lt;f68&gt; &lt;/f68&gt;&lt;f69&gt;Heart-to-Heart&lt;/f69&gt;&lt;f70&gt; &lt;/f70&gt;&lt;f71&gt;T&lt;/f71&gt;&lt;f72&gt;alks&lt;/f72&gt;&lt;f73&gt; &lt;/f73&gt;&lt;f74&gt;for&lt;/f74&gt;&lt;f75&gt; &lt;/f75&gt;&lt;f76&gt;putting&lt;/f76&gt;&lt;f77&gt; &lt;/f77&gt;&lt;f78&gt;out&lt;/f78&gt;&lt;f79&gt; &lt;/f79&gt;&lt;f80&gt;a&lt;/f80&gt;&lt;f81&gt; &lt;/f81&gt;&lt;f82&gt;“revisionist”&lt;/f82&gt;&lt;f83&gt; &lt;/f83&gt;&lt;f84&gt;interpretation of Deng Xiaoping’s thinking (diluting Deng’s admonition that socialism means “eliminating exploitation and avoiding polarization”), for arguing that individualism is compatible with Marxism, for desiring to mix Chinese culture with Western culture, and for advocating greater integration into the world economy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T214238Z" creationid="marcelo lavarda" creationdate="20160928T201657Z">
@@ -8579,6 +8611,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T155922Z">
         <seg>Quinto pleno del Décimo tercer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figures on the size of China’s private sector are notoriously difficult to pin down because of the propensity of private entrepreneurs to claim to be collectives or to underreport the size of their business.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T213931Z" creationid="PC" creationdate="20160929T213931Z">
+        <seg>Las cifras acerca de la magnitud del sector privado de China son notoriamente difíciles de determinar debido a la costumbre de empresarios privados de asegurar ser cooperativas o de no registrar debidamente parte de sus negocios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9981,6 +10021,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T154854Z">
         <seg>¿Cuánto nos queda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How much longer can Chinese-produced beer last?” The articles in Economic Daily were undertaken at the paper’s own initiative but with the intention of appealing to Li Peng, who headed the State Council to which the paper was subordinate.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214733Z" creationid="PC" creationdate="20160929T214733Z">
+        <seg>¿Cuánto tiempo más puede durar la fabricación de cerveza china?”. Los artículos en el Economic Daily  comenzaron a raíz de la iniciativa propia del diario pero con la intención de atraer a Li Peng quien  dirigía  el Consejo de Estado al cual el diario estaba subordinado.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -15530,6 +15578,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Much of the &lt;t1/&gt;gap that developed between regions and among citizens was due to the explosive growth of the private economy in this period.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T213754Z" creationid="PC" creationdate="20160929T213754Z">
+        <seg>Gran parte de la brecha que se desarrolló entre las regiones y entre los ciudadanos fue a causa del crecimiento explosivo de la economía privada durante este período.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NATIONALISM, ELITE POLITICS, AND THE WTO</seg>
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160926T020016Z">
@@ -15750,6 +15806,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T133144Z">
         <seg>Sin embargo, como hemos sugerido, muchas de estas discusiones contenían un elemento populista, ya sea la crítica de Wang Xiaodong hacia la élite cultural que escribió y dirigió&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt; River elegy&lt;/f2&gt;&lt;f3&gt; (Elegía del río), los esfuerzos de He Xin en reunir apoyo para un gobierno muy criticado o la democracia económica solicitada por Cui Zhiyuan y muchos otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, even if one looks only at the official figures, it is apparent that China has experienced very rapid growth in this sector in recent years.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T213958Z" creationid="PC" creationdate="20160929T213958Z">
+        <seg>Aun así, si se observan solo las cifras oficiales, resulta evidente que China ha experimentado un crecimiento muy rápido en este sector en los últimos años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16491,6 +16555,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On June 20, Economic Daily ran a commentator article introducing a series of fifteen articles that in the coming days would take an unusually critical look at the impact of foreign capital on Chinese enterprises.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214335Z" creationid="PC" creationdate="20160929T214335Z">
+        <seg>El 20 de junio, el diario Economic Daily publicó un artículo de opinión que presentaba un conjunto de quince artículos los cuales en los próximos días tomarían un aspecto crítico inusual sobre el impacto del capital extranjero en las empresas chinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On June 9, the general secretary followed in the wake of Qiao Shi and Tian Jiyun by giving a major speech at the Central Party School.Jiang at last openly endorsed the view that the “primary focus &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;must be guarding against the ‘left’.” Quoting liberally from Deng’s talks in Shenzhen, Jiang now argued that reform is like “steering a boat against the current.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200213Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
@@ -16695,6 +16767,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160917T061703Z">
         <seg>Una de las formas de "imperialismo cultural" contra la que He constantemente luchaba era la economía neoclásica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One might date the growth of a significant private sector from 1987, when the Thirteenth Party Congress declared that the private sector should be “permitted to exist,” and from the revision of the state constitution in March 1988 to legalize the conduct of private business.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214043Z" creationid="PC" creationdate="20160929T214043Z">
+        <seg>El crecimiento de un sector privado significativo se puede datar de 1987, cuando el décimo tercero Congreso del Partido declaró que el sector privado debía ser “autorizado a existir” para legalizar la realización de negocios privados desde la revisión de la constitución estatal de marzo de 1988. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16919,6 +16999,16 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160929T194408Z">
         <seg>Solo dos (Li Peng and Yao Yilin) apoyaban la decisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening up to the outside world was good, the commentator said, “but looking across the various countries of the world, [we see] that opening up definitely cannot be without certain principles and certain limits.” It is important to “pay attention to protecting national industries.” As an accompanying report on joint ventures in China’s beer industry asked, “Must Chinese beer [companies] form so many joint ventures?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214659Z" creationid="PC" creationdate="20160929T214606Z">
+        <seg>Abrirse al resto del mundo fue bueno, expresó el comentarista, “pero al observar los diversos países del mundo, [consideramos] que esa apertura  definitivamente no puede  realizarse  sin ciertos principios y ciertos límites”. Es importante “prestar atención a la protección de las industrias nacionales”. 40
+Un informe adjunto sobre las joint ventures en la industria cervecera en China  cuestionó: ¿Deberían las [compañías] de cervezas chinas formar tantas joint ventures?.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -18064,6 +18154,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T134543Z">
         <seg>Véase también Wang Huning, “Chuji jieduan yu zhengzhi tizhi gaige”; Wang Huning, “Juece&lt;/f1&gt;&lt;/t0&gt;&lt;t3&gt;&lt;f4&gt;gongneng de shehuihua ji qi tiaojian”; y Wang Huning, “Zhiwei fenlei yu ganbu guanli tizhi”.&lt;/f4&gt;&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seemingly all of a sudden, the east coast began to move ahead quickly, and the gap between the coast and the hinterland began to widen noticeably.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T213720Z" creationid="PC" creationdate="20160929T213720Z">
+        <seg>Al parecer, de repente, la costa este comenzó a crecer rápidamente y la brecha entre la costa y el interior empezó a aumentar notablemente. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20082,6 +20180,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The commentator article argued that the role of foreign investment in China’s economy was growing rapidly: imported capital then accounted for about 20 percent of all investment in fixed assets in China, foreign-invested enterprises (sanzi qiye) accounted for 39 percent of China’s exports, and foreign trade equaled some 40 percent of domestic production; all this suggested a high degree of dependence.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214437Z" creationid="PC" creationdate="20160929T214401Z">
+        <seg>El artículo de opinión sostenía que el rol de la inversión extranjera en la economía de China estaba creciendo rápidamente: el capital importado en ese momento representaba alrededor del 20 % de toda la inversión en activos fijos en China, empresas con inversión extranjera (sanzi qiye) representaban el 39 % de las exportaciones  chinas y el comercio internacional era igual  al 40 % de la producción nacional.Todo esto implicaba un alto nivel de dependencia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The communiqu´e &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;issued by the Politburo meeting endorsed the “necessity” of upholding the “one center” of economic development and called on the Party to “accelerate the pace of reform and opening to the outside world.” Moreover, it affirmed Deng’s thesis that the main danger the Party faced was leftism.74 Accordingly, China’s central media finally publicized Deng’s trip.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T164047Z" creationid="Soledad Mori" creationdate="20160927T163832Z">
@@ -21133,6 +21239,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of registered private enterprises more than doubled between 1991 (before Deng’s trip) and 1993 (after the Fourteenth Party Congress), and the amount of registered capital soared from about 12 billion yuan to over 68 billion yuan – more than a 5-fold increase.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214109Z" creationid="PC" creationdate="20160929T214109Z">
+        <seg>La cantidad de empresas privadas registradas se han más que duplicado entre 1991 (antes del viaje de Deng) y 1993 (después del décimo cuarto Congreso del Partido) y la cantidad de capital registrad ha incrementado aproximadamente desde 12 000 millones de yuanes hasta 68 000 millones de yuanes, un aumento de 5 veces mayor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The opposite trend of thought (the “right”) is liberalism.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T222409Z">
@@ -21385,6 +21499,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160928T130121Z" creationid="andrea" creationdate="20160928T130121Z">
         <seg>Este asunto se complicaba por el hecho de que Jiang Zemin estaba mucho más cerca de Zeng Qinghong que de Hu Jintao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rapid expansion of private enterprise, real estate speculation, and stock transactions that followed Deng Xiaoping’s 1992 journey to the south were paralleled by an equally rapid growth of foreign investment in China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160929T214205Z" creationid="PC" creationdate="20160929T214205Z">
+        <seg>La rápida expansión de compañías privadas, la especulación en  bienes raíces y la transacción de acciones después del viaje al sur de Deng Xiaoping en 1992 fueron acompañadas por un crecimiento igual de rápido de la inversión extranjera en China.</seg>
       </tuv>
     </tu>
     <tu>
