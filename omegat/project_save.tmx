@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14387,8 +14387,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
         <seg>Li Xiannian, President of the People’s Republic of China (PRC), allegedly called Zhao the “root cause of the riots and rebellion,” while Party elder Peng Zhen accused Zhao of “attempting to topple the Communist Party and wreaking havoc with the socialist system in coordination with hostile powers at home and abroad.”31[14]
 Putting Zhao on trial, as Deng had the Gang of Four, would have had profound implications for Deng Xiaoping and the continuation of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T211138Z">
-        <seg>Li Xiannian, presidente de la RPCh, presuntamente denominó a Zhao como "la causa principal de los disturbios y de la rebelión", mientras que Peng Zheng, el miembro más antiguo del partido, acusó a Zhao de "intentar derrocar al Partido Comunista y hundir el sistema socialista en coordinación con poderes hostiles dentro y fuera del país". Como Deng tenía a la Banda de los Cuatro, llevar a juicio a Zhao habría tenido importantes implicaciones para Deng Xiaoping y la continuidad de la reforma.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T211216Z">
+        <seg>Li Xiannian, presidente de la RPCh, presuntamente denominó a Zhao como "la causa principal de los disturbios y de la rebelión", mientras que Peng Zheng, el miembro más antiguo del partido, acusó a Zhao de "intentar derrocar al Partido Comunista y hundir el sistema socialista en coordinación con poderes hostiles dentro y fuera del país". Como Deng tenía a la Banda de los Cuatro, llevar a juicio a Zhao habría tenido implicaciones severas para Deng Xiaoping y la continuidad de la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18391,8 +18391,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
         <seg>Shortly after such speculation appeared, the PRC-owned Hong Kong paper Ta kung pao reported that Deng Xiaoping had set a two-year period for “reflection” and declared that it is “highly unlikely” that Zhao would be put on public trial.32[15]
 Although Deng’s “prediction” that Zhao would not face trial ultimately proved correct, his call for a period of reflection was largely ignored.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160929T203613Z">
-        <seg>Poco después de que aparezca semejante especulación, el..... informó que Deng Xiaoping había fijado un período de dos años para "reflexión" y declaró que es "muy poco probable" que Zhao pueda ser puesto en juicio público. Aunque la "predicción" de Deng de que Zhao no enfrentaría un juicio fue correcta, su pedido por un periodo de reflexión fue ampliamente ignorado.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T211351Z">
+        <seg>Poco después de que aparezca semejante especulación, el periódico Ta kung pao de Hong Kong, en manos del PRCh, informó que Deng Xiaoping había fijado un período de dos años para "reflexión" y declaró que es "muy poco probable" que Zhao pueda ser puesto en juicio público. Aunque la "predicción" de Deng de que Zhao no enfrentaría un juicio fue correcta, su pedido por un periodo de reflexión fue ampliamente ignorado.</seg>
       </tuv>
     </tu>
     <tu>
