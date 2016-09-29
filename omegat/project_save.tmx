@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7717,8 +7717,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng’s sharp defense of the Thirteenth Party Congress resolution – “not one character should be changed” – was no doubt intended to staunch this anti-reform tide.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T193843Z">
-        <seg>La fuerte defensa de Deng contra la resolución del Decimotercer Congreso del Partido (“ningún caracter deberá cambiarse") sin duda alguna estaba orientada a contener esta ola de anit-reformas.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T193924Z">
+        <seg>La fuerte defensa de Deng contra la resolución del Decimotercer Congreso del Partido (“ningún caracter deberá cambiarse") sin duda alguna estaba orientada a contener esta ola de antireformas.</seg>
       </tuv>
     </tu>
     <tu>
