@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3604,8 +3604,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the Jiang Zemin era saw considerable efforts to reconcile these conflicting aspects of the political system, particularly with Jiang’s enunci-ation of the “Three Represents,” which permitted entrepreneurs to join the CCP, there has been a surprising re-emphasis on ideology, not to mention a tightened control over media and crackdown on those who pursue rights even within the framework of the Chinese legal system, in the first years of the Hu Jintao era.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160929T143756Z" creationid="marielaromina" creationdate="20160929T143756Z">
-        <seg>En esta misma línea, aunque se realizaron esfuerzos considerables en la era Jiang Zemin para renconcilar estos aspectos conflictivos del sistema político, particularmente con la introducción de la triple representatividad por Jiang que permitió a emprendedores formar parte de la PCCh; hubo un nuevo y sorpresivo énfasis en ideología, sin mencionar un estricto control sobre los medios y represión para aquellos que reclamaban por sus derechos,</seg>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160929T163312Z" creationid="marielaromina" creationdate="20160929T143756Z">
+        <seg>En esta misma línea, aunque se realizaron esfuerzos considerables en la era Jiang Zemin para renconcilar estos aspectos conflictivos del sistema político, particularmente con la introducción de la triple representatividad por Jiang que permitió a emprendedores formar parte de la PCCh; hubo un nuevo y sorpresivo énfasis en ideología, sin mencionar un estricto control sobre los medios y represión para aquellos que reclamaban por sus derechos, incluso en el marco del sistema legal chino, en los primeros años de la era de Hu Jintao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17238,8 +17238,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Rather than being a transitional figure, Jiang Zemin continued to head the CCP until stepping down thirteen years later in 2002, and the Chinese economy not only continued to grow but to stir fears that it had become an unstoppable economic juggernaut as China became the manufacturing center of the world.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160929T144628Z" creationid="marielaromina" creationdate="20160929T144628Z">
-        <seg>La economía de China no solo continuó creciendo, sino que, además, generó miedo ya que se había transformado en un gigante imparable al convertirse en el centro manufacturero mundial.</seg>
+      <tuv lang="ES-US" changeid="marielaromina" changedate="20160929T163750Z" creationid="marielaromina" creationdate="20160929T144628Z">
+        <seg>En vez de se una figura transicional, Jiang Zemin  La economía de China no solo continuó creciendo, sino que, además, generó miedo ya que se había transformado en un gigante imparable al convertirse en el centro manufacturero mundial.</seg>
       </tuv>
     </tu>
     <tu>
