@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5717,8 +5717,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By the summer, it was obvious that the goal could not be attained, and in August the NPC Standing Committee announced that inflation would be kept under 15 percent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160926T134355Z">
-        <seg>Al llegar el verano, era evidente que aquel objetivo no se había podido cumplir, y en agosto, el Comité Permanente de la APN anunció que la inflación se mantendría por debajo del 15%.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T123716Z">
+        <seg>Al llegar el verano, era evidente que aquel objetivo no se había podido cumplir, y en agosto, el Comité Permanente de la APN anunció que la inflación se mantendría por debajo del 15 %.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11516,8 +11516,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the spring, the NPC had approved a commitment to keep inflation under 10 percent (down somewhat from the 13 percent registered in 1993).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160926T135730Z">
-        <seg>En la primavera, la APN se comprometió a mantener la inflación por debajo del 10% (un poco menos que el 13% que se registró en 1993).</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T123748Z">
+        <seg>En la primavera, la APN se comprometió a mantener la inflación por debajo del 10 % (un poco menos que el 13 % que se registró en 1993).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20419,8 +20419,8 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       <tuv lang="EN-US">
         <seg>The term&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;core&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;can perhaps best be understood as that combination of informal and formal authority that makes a leader the final arbiter of Party issues – the ability, as the Chinese put it, to “strike the table” (&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;) and end discussion.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160927T234954Z">
-        <seg>El término&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;esencia&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;puede interpretarse mejor como la combinación de la autoridad no oficial con la oficial, que le da a un dirigente el poder de tomar la última decisión sobre asuntos relacionados al Partido (la capacidad, como lo definen en China, de “tomar el control” (&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;) y tener la última palabra).</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T123921Z">
+        <seg>El término&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;esencia&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;puede interpretarse mejor como la combinación de la autoridad no oficial con la oficial, que le da a un dirigente el poder de tomar la última decisión sobre asuntos relacionados al partido (la capacidad, como lo definen en China, de “tomar el control” (&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;) y tener la última palabra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20516,8 +20516,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The year would end with a yearly inflation rate of 21.7 percent.&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160926T134400Z">
-        <seg>El año finalizaría con una tasa de inflación anual del 21,7%&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;.</seg>
+      <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T123712Z">
+        <seg>El año finalizaría con una tasa de inflación anual del 21,7 %&lt;/f4&gt;&lt;f5&gt;2&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
