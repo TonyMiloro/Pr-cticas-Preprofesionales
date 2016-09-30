@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -953,8 +953,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;No &lt;s3/&gt;doubt the single most important reason for Jiang’s promotion at that &lt;s4/&gt;critical &lt;s5/&gt;time &lt;s6/&gt;was &lt;s7/&gt;his &lt;s8/&gt;decision &lt;s9/&gt;in &lt;s10/&gt;May &lt;s11/&gt;to &lt;s12/&gt;close &lt;s13/&gt;down &lt;s14/&gt;the reformminded newsweekly &lt;/f1&gt;&lt;/f0&gt;&lt;f15&gt;&lt;f16&gt;World Economic Herald (Shijie jingji daobao)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011758Z">
-        <seg>Sin dudas la única razón con más importancia para el ascenso de Jiang en ese momento crítico era la decisión en mayo de cerrar el semanario orientado a la reforma World Economic Herald (Shijie jingji daobao)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T201836Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Sin&lt;s3/&gt; duda, la única razón con más importancia para el ascenso de Jiang en ese momento &lt;s4/&gt;crítico&lt;s5/&gt; era&lt;s6/&gt; la &lt;s7/&gt;decisión&lt;s8/&gt; en &lt;s9/&gt;mayo&lt;s10/&gt; de &lt;s11/&gt;cerrar &lt;s12/&gt;el &lt;s13/&gt;semanario &lt;s14/&gt;orientado a la reforma  &lt;/f1&gt;&lt;/f0&gt;&lt;f15&gt;&lt;f16&gt;World Economic Herald (Shijie jingji daobao).&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10114,8 +10114,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He was thus acceptable to the leading &lt;/f33&gt;&lt;/f32&gt;ﬁ&lt;f34&gt;&lt;f35&gt;gures in the &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;Party,&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; and that in itself was an important quali&lt;/f39&gt;&lt;/f38&gt;ﬁ&lt;f40&gt;&lt;f41&gt;cation for leadership.&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011727Z">
-        <seg>Por consiguiente, él era considerado aceptable para las figuras destacadas en el Partido, y eso se lo consideraba como una característica importante para el liderazgo.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T201407Z">
+        <seg>Por lo tanto, él era considerado una persona aceptable por los &lt;/f33&gt;&lt;/f32&gt;dirigentes destacados &lt;f34&gt;&lt;f35&gt;del Partido&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;, y eso &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; se consideraba &lt;/f39&gt;&lt;/f38&gt;como una característica importante para el&lt;f40&gt;&lt;f41&gt; liderazgo.&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14282,8 +14282,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang’s relationship with Li Xiannian seems to have been particularly close.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011707Z">
-        <seg>La relación de Jiang con Li Xiannian parece haber sido particularmente cercana.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T201211Z">
+        <seg>La relación entre Jiang y Li Xiannian parece haber sido particularmente cercana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16725,8 +16725,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On April 19, the &lt;s19/&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;f20&gt;&lt;f21&gt;World Economic Herald&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; had convened a joint meeting in Beijing with the &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;New Observer (Xin guancha)&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; to memorialize Hu Yaobang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011815Z">
-        <seg>El 19 de abril este semanario había convocado una reunión conjunta en Pekín con The New Observer (Xin guancha) para conmemorar a Hu Yaobang.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T202002Z">
+        <seg>El 19 de abril este  &lt;s19/&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;f20&gt;&lt;f21&gt;semanario&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; había convocado una reunión conjunta en Pekín con &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;The New Observer (Xin guancha)&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; para conmemorar a Hu Yaobang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18150,8 +18150,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Run by the veteran revolutionary Ge Yang, the &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;New Observer&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; had been one of the principal outlets for &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;liberal &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;thinking in the 1980s and was at least as controversial as the &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;World Economic Herald&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011837Z">
-        <seg>Dirigido por el revolucionario veterano Ge Yang, The New Observer ha sido uno de los principales medios para el pensamiento liberal en los años 80s y era al menos controvertido como el World Economic Herald. &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T202148Z">
+        <seg>Dirigido por el revolucionario veterano Ge Yang, el  &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;New Observer&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;  ha sido uno de los principales medios para el pensamiento  &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;liberal en la década de los 80 y era al menos controvertido como el &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;World Economic Herald. &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;.</seg>
       </tuv>
     </tu>
     <tu>
