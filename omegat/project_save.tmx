@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25323,8 +25323,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>We will examine in this and the following chapters some of the ways in which intellectual concerns have intersected with elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T205853Z">
-        <seg>En este y en los próximos capítulos analizaremos algunas de las formas en las que las preocupaciones intelectuales han aumentado con la política de élite.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T210032Z">
+        <seg>En este y en los próximos capítulos analizaremos algunas de las formas en las que las preocupaciones intelectuales se interpusieron con la política de élite.</seg>
       </tuv>
     </tu>
     <tu>
