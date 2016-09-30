@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2186,8 +2186,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The obvious resistance to publicizing Deng’s trip – and the subsequent process of yielding partially while continuing to resist – reflects the very ambiguous nature of authority relations at the highest level of the CCP in the early 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T205225Z">
-        <seg>La resistencia evidente a hacer público el viaje de Deng (y el posterior proceso de cesión parcial y la continuación de la resistencia en forma simultánea) es un reflejo de la naturaleza extremadamente ambigua de las relaciones de autoridad en las altas esferas del PCCh a comienzo de la década de 1990&lt;f0&gt;. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T113912Z">
+        <seg>La resistencia evidente a divulgar el viaje de Deng,y el proceso posterior que consistió en ceder de forma parcial y en continuar la resistencia simultáneamente, es un reflejo de la naturaleza extremadamente ambigua de las relaciones de autoridad en las altas esferas del PCCh a comienzo de la década de 1990&lt;f0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11541,8 +11541,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If that was the case (and it seems highly unlikely), Deng soon changed his mind.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T003523Z">
-        <seg>Si ese fue el caso (aunque es poco probable), Deng pronto cambió de parecer.&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T113627Z">
+        <seg>Si ese fue el caso (aunque parece poco probable), Deng pronto cambió de parecer.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
