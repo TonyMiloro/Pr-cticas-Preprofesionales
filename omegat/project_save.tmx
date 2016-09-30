@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4340,8 +4340,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As a PRC-affiliated Hong Kong magazine later put it, “Deng played a crucial role in preventing China from incorrectly summing up the experiences of the Soviet coup and in rendering the ‘leftist’ forces in the Party unable to use the opportunity to expand their influence.”42 Internationally, Deng reiterated his call for caution, saying that China should “tackle calmly, observe coolly, and pay good attention to our own national affairs.”43 Domestically, he inaugurated a determined campaign to reassert his own leadership and to put his understanding of reform back in the center.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160918T163823Z">
-        <seg>Tal como una revista de Hong Kong afiliada con la República Popular de China lo expresó, "Deng tuvo un rol crucial para prevenir que China repita las experiencias del golpe de estado soviético y logrando que las fuerzas "izquierdistas" del partido no puedan utilizar esta oportunidad para expandir su influencia". 42 A nivel internacional, Deng reiteró su llamado a la precaución, expresando que China debería "atacar calmada, observar tranquila, y prestar atención a sus propios asuntos internos". 43 A nivel nacional, inauguró una campaña deteminada para asegurar su liderazgo y para poner su pensamiento sobre la reforma en el centro nuevamente.</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T152158Z">
+        <seg>Tal como una revista de Hong Kong afiliada con la República Popular de China lo expresó, ”Deng tuvo un rol crucial para prevenir que China repita las experiencias del golpe de estado soviético y logrando que las fuerzas ”izquierdistas” del partido no puedan utilizar esta oportunidad para expandir su influencia”. 42 A nivel internacional, Deng reiteró su llamado a la precaución, expresando que China debería ”atacar calmada, observar tranquila, y prestar atención a sus propios asuntos internos”. 43 A nivel nacional, inauguró una campaña deteminada para asegurar su liderazgo y para poner su pensamiento sobre la reforma en el centro nuevamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6285,8 +6285,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chen Yun, in a scarcely veiled attack on newly promoted vice-premier Zhu &lt;t1/&gt;Rongji&lt;t2/&gt;, reputedly warned against allowing a “Yeltsin-like figure” to emerge in China.41</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160918T162548Z">
-        <seg>Chen Yun, en un ataque apenas encubierto al recién promovido viceprimer ministro Zhu&lt;t1/&gt;Rongji&lt;t2/&gt;, se dice que advirtió en contra de permitir que una "figura del tipo de Yeltsin" surja en China. 41</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T152108Z">
+        <seg>Chen Yun, en un ataque apenas encubierto al recién promovido viceprimer ministro Zhu&lt;t1/&gt;Rongji&lt;t2/&gt;, se dice que advirtió en contra de permitir que una ”figura del tipo de Yeltsin” surja en China. 41</seg>
       </tuv>
     </tu>
     <tu>
@@ -26194,8 +26194,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>“Then what shall we do&lt;t0/&gt;?,&lt;t1/&gt;” he reportedly asked.40 The abortive coup in the Soviet Union posed, in the starkest possible terms, the fundamental question of the period: Should the CCP try to preserve</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160918T161759Z">
-        <seg>"¿Qué tenemos que hacer entonces&lt;t0/&gt;?&lt;t1/&gt;" se dice que preguntó. 40 El fallido golpe de estado en la Unión soviética planteba, en los términos más duros, la pregunta fundamental del período: ¿Debería el CCP tratar de preservar</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T152047Z">
+        <seg>”¿Qué tenemos que hacer entonces&lt;t0/&gt;?&lt;t1/&gt;”se dice que preguntó. 40 El fallido golpe de estado en la Unión soviética planteba, en los términos más duros, la pregunta fundamental del período: ¿Debería el CCP tratar de preservar</seg>
       </tuv>
     </tu>
     <tu>
