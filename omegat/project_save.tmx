@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13720,6 +13720,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was only natural – given the role that concern with globalization played&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;in stimulating the discussions of the New Left examined in Chapter&lt;s4/&gt;&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;4&lt;s7/&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;– that China’s participation in the WTO became a major point of intellectual dissension.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T204110Z" creationid="Lucia Cipolatti" creationdate="20160930T204110Z">
+        <seg>Era sólo natural, de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was particularly difficult for those who had reached the middle class to climb further into the highest social strata; middle class status itself was very precarious.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="user" changedate="20160929T035211Z" creationid="user" creationdate="20160929T035031Z">
@@ -24923,8 +24931,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang Shan’s Looking at China through a Third Eye smashed that taboo, and now books and journals are filled with critiques of official policy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T203938Z" creationid="Lucia Cipolatti" creationdate="20160930T131826Z">
-        <seg>&lt;t0/&gt;Looking at China through a Third Eye&lt;t1/&gt; de Wang Shan desterró ese tabú y ahora los libros y revistas estan repletos de críticas de políticas oficiales.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T204048Z" creationid="Lucia Cipolatti" creationdate="20160930T131826Z">
+        <seg>&lt;t0/&gt;Looking at China through a Third Eye&lt;t1/&gt; de Wang Shan destruyó ese tabú y ahora los libros y revistas estan repletos de críticas de políticas oficiales.</seg>
       </tuv>
     </tu>
     <tu>
