@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3796,8 +3796,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the Party, in the interest of putting ideological battles behind it at the beginning of the reform era, had ceased to describe intra-Party conflicts as “line struggles,” the notion of political line and hence of line struggle remained very much a part of Party life at the elite level.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T213912Z">
-        <seg>Aunque el Partido, en el interés de poner batallas ideológicas detrás de este a principios de la era de la reforma, había cesado de describir los conflictos intrapartidarios como "luchas de línea", la noción de línea política y, por consiguiente, la lucha de línea permanecieron como parte de la vida del Partido al nivel de la elite.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160930T011051Z">
+        <seg>Aunque el partido, en el interés de poner batallas ideológicas detrás de este a principios de la era de la reforma, había cesado de describir los conflictos intrapartidarios como "luchas de línea", la noción de línea política y, por consiguiente, la lucha de línea permanecieron como parte de la vida del partido al nivel de la elite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9329,8 +9329,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, Yuan Mu, hardline spokesman for the State Council and prot´eg´e of Premier Li Peng, stated that Zhao’s case would be handled “in accordance with the criterion based on law,” suggesting the possibility of legal prosecution.30[13] Some Party elders were even blunter.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160930T005655Z">
-        <seg>Por ejemplo, Yuan Mu, vocero de mano dura  para el Consejo de Estado y protegido del primer ministro Li Peng, manifestó que el caso de Zhao sería manejado "según lo establecido por la ley" y sugirió la posibilidad de un proceso judicial.30 Algunos miembros más antiguos del partido incluso fueron más directos.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160930T005727Z">
+        <seg>Por ejemplo, Yuan Mu, vocero de mano dura para el Consejo de Estado y protegido del primer ministro Li Peng, manifestó que el caso de Zhao sería manejado "según lo establecido por la ley" y sugirió la posibilidad de un proceso judicial.30 Algunos miembros más antiguos del partido incluso fueron más directos.</seg>
       </tuv>
     </tu>
     <tu>
