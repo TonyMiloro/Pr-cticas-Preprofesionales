@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -955,6 +955,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160927T020525Z">
         <seg>&lt;f0&gt;&lt;f1&gt;No le tomó mucho tiempo a varios de los líderes de las provincias de China para responder a la iniciativa de Deng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Joel Migdal, John Zysman, and others began to look at how strong states could bring about social change and economic development.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160930T005713Z" creationid="Flor" creationdate="20160930T005425Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Joel Migdal, John Zysman y otros comenzaron a observar cómo los Estados fuertes podían provocar cambio social y desarrollo económico.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6771,6 +6779,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>China could not simply follow the Western model of allowing some people to become very affluent.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;2&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Fortunately for Hu, the book was passed to Deng Nan, Deng Xiaoping’s daughter, who then passed it (or a summary) on to her father.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160930T010242Z" creationid="Flor" creationdate="20160930T005759Z">
+        <seg>El país no podía tan solo seguir el modelo occidental que le permitía a algunas personas volverse acaudaladas.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;2&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Por suerte para Hu, el libro llegó a las manos de Deng Nan, la hija de Deng Xiaoping, quien luego le hizo llegar una versión probablemente resumida a su padre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>China did remarkably well in the 1990s and into the new century.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160926T195552Z">
@@ -7663,6 +7679,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160914T024523Z">
         <seg>Deng Xiaoping falleció en 1997, Zhao Ziyang en 2005, y Li Peng se retiró de su último cargo oficial en 2003.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Xiaoping praised the work, and – not surprisingly – state resources were then lavished on the “national conditions research group” at CAS that Hu worked with.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;3&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Flor" changedate="20160930T010149Z" creationid="Flor" creationdate="20160930T010149Z">
+        <seg>Deng Xiaoping elogió el trabajo y, como era de esperarse, los recursos del Estado llegaron en generosas cantidades al Centro de Investigación de las Condiciones Nacionales de la CAS, lugar en el que trabajaba Hu.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;3&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
