@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3142,6 +3142,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160925T174228Z">
         <seg>Según Hu, ninguna autoridad local debería tener derecho a reducir o eliminar la colecta central de impuestos, o a gozar de cualquier tipo de privilegio legal o económico extra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to Hu, no local authorities should have the right to reduce or waive central tax levies or to enjoy any extralegal, extrasystemic economic privileges.&lt;/f13&gt;&lt;f14&gt;&lt;s15/&gt;He also expounded his views in a lecture to provincial governors at the Central Party School in June.&lt;/f14&gt;&lt;f16&gt;19&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T013005Z" creationid="Magui" creationdate="20160930T013005Z">
+        <seg>Según Hu, ninguna autoridad local debería tener derecho a reducir o eliminar la colecta central de impuestos, o a gozar de cualquier tipo de privilegio legal o económico extra. También expuso su postura en una conferencia para gobernadores en la Escuela Central del Partido Comunista en junio.&lt;/f7&gt;&lt;f8&gt;19&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23572,6 +23580,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
         <seg>This argument was then picked up by the press, with the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Economic Daily&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;writing a series of articles from July 2 to July 6 under the title, “How Will the Special Zones Continue to Be Special?” In August, Hu expanded on the views he had previously expressed internally by writing in the Hong Kong paper&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Ming pao&lt;/f6&gt;&lt;f7&gt;.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T162950Z">
+        <seg>Luego, la prensa tomó este argumento y, del 2 al 6 de julio, el diario&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Economic Daily&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;escribió una serie de artículos titulados: “¿Cómo seguirán siendo especiales las Zonas Económicas Especiales?". En agosto, Hu se explayó en la perspectiva que antes había expresado de manera interna y escribió en el diario&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Ming pao&lt;/f6&gt;&lt;f7&gt;de Hong Kong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This argument was then picked up by the press, with the&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Economic Daily&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;writing a series of articles from July 2 to July 6 under the title, “How Will the Special Zones Continue to Be Special?” In August, Hu expanded&lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;on the views he had previously expressed internally by writing in the Hong Kong paper&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Ming pao&lt;/f12&gt;&lt;f13&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T012833Z" creationid="Magui" creationdate="20160930T012833Z">
         <seg>Luego, la prensa tomó este argumento y, del 2 al 6 de julio, el diario&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Economic Daily&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;escribió una serie de artículos titulados: “¿Cómo seguirán siendo especiales las Zonas Económicas Especiales?". En agosto, Hu se explayó en la perspectiva que antes había expresado de manera interna y escribió en el diario&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Ming pao&lt;/f6&gt;&lt;f7&gt;de Hong Kong.</seg>
       </tuv>
     </tu>
