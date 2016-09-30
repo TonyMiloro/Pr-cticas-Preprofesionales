@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4820,16 +4820,16 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As soon as one problem is solved, another emerges.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T150600Z">
-        <seg>Una vez que un problema se resuelve, otro emerge.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185524Z">
+        <seg>Una vez que un problema se resuelve, surge otro.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>As soon as the traditional ideology of Mao Zedong’s idealism begins to be broken, then the government’s defense line must retreat step by step.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T150912Z">
-        <seg>Una vez que la ideologia tradicional del idealismo de Mao Zedong comience a desintegrarse, la linea de defensa del gobierno deberá retirarse paso a paso. </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185629Z">
+        <seg>Una vez que la ideología tradicional del idealismo de Mao Zedong comienza a desintegrarse, la línea de defensa del gobierno debe retirarse paso a paso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10170,8 +10170,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>How much is left?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T154854Z">
-        <seg>¿Cuánto nos queda?</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185742Z">
+        <seg>¿cuánto nos queda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14892,8 +14892,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Local governments continuously extend their hands asking for new “policies” and the central government has no choice but to compromise in the face of solving new problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T154443Z">
-        <seg>Los gobiernos locales estan  pidiendo de forma continua nuevas "politicas" al gobierno central quien no tiene otra opción más que asumir el compromiso ante nuevas dificultades.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185653Z">
+        <seg>Los gobiernos locales están continuamente pidiéndole nuevas "políticas" al gobierno central, que no tiene otra opción más que asumir el compromiso ante nuevas dificultades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16292,8 +16292,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Now, when we look back, what is left of Mao’s inheritance?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T155951Z">
-        <seg>Y ahora, si miramos hacia atras, ¿qué nos queda del legado de Mao?</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185726Z">
+        <seg>Y ahora, si miramos hacia atrás, ¿qué nos queda del legado de Mao?,</seg>
       </tuv>
     </tu>
     <tu>
