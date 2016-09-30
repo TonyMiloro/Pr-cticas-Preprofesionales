@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4972,8 +4972,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As we saw in Chapter 8, Hu Jintao's succession to power was smooth by historical standards but not without friction.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T181231Z">
-        <seg>Como hemos visto en el capítulo 8, la sucesión de Hu Jintao al poder se llevó a cabo sin problemas si la comparamos con las anteriores; sin embrargo, hubo algunos roces. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T180437Z">
+        <seg>Como hemos visto en el capítulo 8, la sucesión de Hu Jintao al poder se llevó a cabo sin problemas si la comparamos con las anteriores; sin embargo, hubo algunos roces. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7781,8 +7781,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng was striving to build a balance in the Party that would out- last himself and one that would contrast with the bitterly divisive leadership situation Mao Zedong had left behind when he died in 1976.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151811Z">
-        <seg>Deng se esfrozaba para logar un equilibrio en el partido que perdurara cuando él se hubiera ido y que contrastara con el gobierno tan dividido que Mao Zedong había dejado cuando falleció en 1976. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T180235Z">
+        <seg>Deng se esforzaba para logar un equilibrio en el partido que perdurara cuando él se hubiera ido y que contrastara con el gobierno tan dividido que Mao Zedong había dejado cuando falleció en 1976. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7958,8 +7958,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Despite reports that Zeng and Hu were working effec- tively together, Zeng remained a formidable political actor, one who could effectively constrain Hu's power and plans.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153004Z">
-        <seg>A pesar de que los rumores indicaban que Zeng y Hu trabajaban juntos de manera eficaz, Zeng, como un buen actor político, se mantuvo en una postura que podría limitar los planes y el poder de Hu. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T181431Z">
+        <seg>A pesar de que los rumores indicaban que Zeng y Hu trabajaban juntos de manera eficaz, Zeng, mantuvo una postura de buen político a través de la cuál podría limitar los planes y el poder de Hu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,8 +8992,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Following the Tiananmen upheaval, it will be recalled, Deng Xiaoping, in consultation with Chen Yun and Li Xiannian, selected Jiang Zemin as the "core" of the third gener- ation of leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T173301Z">
-        <seg>Luego de la revuelta de Tiananmén, como se recordará, Deng Xiaoping, en colaboración con Chen Yun y Li Xiannian, elijieron a Jiang Zemin como "núcleo" del liderazgo político de la tercera generación. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T175712Z">
+        <seg>Luego de la revuelta de Tiananmén, como se recordará, Deng Xiaoping, en colaboración con Chen Yun y Li Xiannian, eligieron a Jiang Zemin como "núcleo" del liderazgo político de la tercera generación. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13594,8 +13594,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It will be recalled that at the Fifteenth Party Congress in 1997, Jiang Zemin had been able to force Qiao Shi's retirement by imposing a retirement age of 70 (only to have Bo Yibo say that the 71-year-old Jiang should be exempted from this rule) (see Chapter 7).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152629Z">
-        <seg>Como se recordará, en el décimo cuarto congreso en 1997, Jiang Zemin forzó la jubilación de Qiao Shi luego de imponer la edad de jubilación a los 70 (solo que tuvo que aceptar el pedido de Bo Yibo de que se eximiera de esta regla a Jiang de 71 años) (véase capítulo 7) </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T181014Z">
+        <seg>Como se recordará, en el décimo cuarto congreso en 1997, Jiang Zemin forzó la jubilación de Qiao Shi luego de imponer la edad de jubilación a los 70 (solo que tuvo que aceptar el pedido de Bo Yibo de que se eximiera de esta regla a Jiang de 71 años) (véase capítulo 7). </seg>
       </tuv>
     </tu>
     <tu>
