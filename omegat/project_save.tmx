@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9738,8 +9738,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, before his remarks could be published in the People’s Daily, conservatives edited them to fit their agenda.57 The term “market economy” would not reappear until Deng’s trip to the Shenzhen Special Economic Zone (SEZ) in January 1992.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T043522Z">
-        <seg>Sin embargo, ante de que sus declaraciones pudieran ser publicadas en el diario People´s Daily, los conservadores las editaron para su beneficio.57. El término "economía de mercado" no resurgiría hasta el viaje de Deng a la zona económica especial de Shenzhen (ZEE) en enero de 1992.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T141539Z">
+        <seg>Sin embargo, antes de que sus declaraciones pudieran ser publicadas en el diario People´s Daily, los conservadores las editaron para su beneficio57. El término “economía de mercado” no resurgiría hasta el viaje de Deng a la zona económica especial de Shenzhen (ZEE) en enero de 1992.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10642,8 +10642,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In Deng’s June 9 talk, he referred to the “integration of planned economy and market regulation.”55 This expression restored the preferred usage of conservatives, which they had been able to impose during the 1981–2 retreat from more market-oriented reforms.56 As later revealed, Deng had originally called for the integration of the “planned economy and the market economy,” a formulation that put the two economic types on the same plane.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T004955Z">
-        <seg>En el discurso de Deng del 9 de julio, se refirió a la "integración de una economia planificada y a las regulaciones de mercado".55. Esta expresión recuperó el uso preferido de los conservadores, que habían logrado imponer en el retroceso de 1981/2 de  reformas más orientadas al mercado.56. Como se reveló tiempo después, originalmente, Deng habia llamado a la integración de la economía planificada y economía de mercado", una formulación que puso los dos tipos de economía en el mismo plano. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T141519Z">
+        <seg>En su discurso del 9 de julio, Deng se refirió a la “integración de una economía planificada y a las regulaciones de mercado”55. Esta expresión recuperó el uso preferido de los conservadores, que habían logrado imponer en el retroceso desde 1981 hasta 1982 de reformas más orientadas al mercado56. Como se reveló tiempo después, originalmente, Deng había llamado a la integración de la “economía planificada y economía de mercado”, una formulación que puso los dos tipos de economía en el mismo plano. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24325,8 +24325,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the suppression of the protest movement in Beijing and elsewhere and with the ouster of Zhao Ziyang, conservatives seized the opportunity to criticize Zhao’s leadership over the economy and impose their own interpretation of economic reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T041446Z">
-        <seg>Junto con la represión de las movimientos de protestas en Pekin y otros lugares y con la destitución de Zhao Ziyang, los conservadores aprovecharon la oportunidad para criticar la dirección económica que Zhao estaba tomando y la imposición de su interpretación personal de la reforma económica.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T141454Z">
+        <seg>Junto con la represión de los movimientos de protestas en Pekin y otros lugares y con la destitución de Zhao Ziyang, los conservadores aprovecharon la oportunidad para criticar la dirección económica que Zhao estaba tomando y la imposición de su interpretación personal de la reforma económica.</seg>
       </tuv>
     </tu>
     <tu>
