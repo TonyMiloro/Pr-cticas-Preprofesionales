@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26958,8 +26958,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Xing’s criticism of Farewell to Revolution also served the purpose of warning liberal thinkers &lt;t1/&gt;to hold their peace as Jiang turned his primary attention to warding off the left.56 What Xing Bensi’s long article in Renmin ribao did was to begin staking out a defensible middle ground in China’s political spectrum.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160930T125134Z" creationid="Lucrecia" creationdate="20160927T125926Z">
-        <seg>La crítica de Xing de decirle Adiós a la Revolución también sirvió para advertirles a los pensadores liberales&lt;t1/&gt; que guardaran silencio mientras Jiang se concentraba en mantener controlada la izquierda. Lo que hizo el extenso artículo de Xing Bensi en el People's Daily (Renmin ribao) fue empezar a afianzar un punto medio defensivo en el espectro político chino.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T221543Z" creationid="Lucrecia" creationdate="20160927T125926Z">
+        <seg>La crítica de Xing al libro “Farewell to Revolution” (Adiós a la revolución) también sirvió para advertirles a los pensadores liberales que guardaran silencio mientras Jiang se concentraba en mantener controlada la izquierda. Lo que hizo el extenso artículo de Xing Bensi en el People’s Daily (Renmin ribao) fue empezar a afianzar un punto medio defensivo en el espectro político chino.</seg>
       </tuv>
     </tu>
     <tu>
