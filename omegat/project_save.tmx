@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8153,6 +8153,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160928T213826Z">
         <seg>A pesar de sus intentos de censurar "la evolución pacífica" (y sus constantes advertencias sobre los intentos "hostiles" de "dividir" China y "occidentalizarla"), Jiang logró llevar a cabo mejoras significativas en la posición diplomática de China, colocó al país dentro de la OMC y pudo esquivar los embates de la crisis financiera de Asia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite interventions by Liu Ji and Su Shaozhi, Qin Benli refused to reconsider his actions, and Jiang seemed to be left hanging.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T211239Z" creationid="USER" creationdate="20160930T211239Z">
+        <seg>A pesar de las intervenciones de Liu Ji y Su Shaozhi, Qin Benli se negó a reconsiderar sus acciones, y parecía que se lo había dejado de lado a Jiang.</seg>
       </tuv>
     </tu>
     <tu>
