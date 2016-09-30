@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -158,6 +158,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1935</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155421Z" creationid="Mariela" creationdate="20160930T155421Z">
+        <seg>1935 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1938</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155236Z" creationid="Mariela" creationdate="20160930T155236Z">
+        <seg>1938 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1939</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155112Z" creationid="Mariela" creationdate="20160930T155112Z">
+        <seg>1939 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1940</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153752Z" creationid="Mariela" creationdate="20160930T153752Z">
@@ -178,6 +202,46 @@
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153445Z" creationid="Mariela" creationdate="20160930T153445Z">
         <seg>1942 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1943</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155404Z" creationid="Mariela" creationdate="20160930T155404Z">
+        <seg>1943 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1944</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155135Z" creationid="Mariela" creationdate="20160930T155135Z">
+        <seg>1944 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1949</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155535Z" creationid="Mariela" creationdate="20160930T155535Z">
+        <seg>1949 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1953</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155313Z" creationid="Mariela" creationdate="20160930T155313Z">
+        <seg>1953 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1955</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155344Z" creationid="Mariela" creationdate="20160930T155344Z">
+        <seg>1955 </seg>
       </tuv>
     </tu>
     <tu>
@@ -5443,6 +5507,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bo Xilai</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155530Z" creationid="Mariela" creationdate="20160930T155530Z">
+        <seg>Bo Xilai </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Books in Western academe began to relate these high growth rates to Asian culture.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160921T180807Z">
@@ -6171,6 +6243,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cao Gangchuan</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155505Z" creationid="Mariela" creationdate="20160930T155505Z">
+        <seg>Cao Gangchuan </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Central Committee</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160913T221352Z">
@@ -6725,8 +6805,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chr., CPPCC</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153815Z">
-        <seg>Presidente del CCPPC</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T154245Z">
+        <seg>Presidente de CCPPC</seg>
       </tuv>
     </tu>
     <tu>
@@ -9440,6 +9520,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He Guoqiang</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155359Z" creationid="Mariela" creationdate="20160930T155359Z">
+        <seg>He Guoqiang </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He also cited the 1988 elections, in which a number of candi- dates favored by the Party failed to be elected, to show that local interests were reducing the central government’s prerogatives with regard to the appointment of local personnel.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160927T033336Z" creationid="Rocio" creationdate="20160927T033200Z">
@@ -10156,6 +10244,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
         <seg>Los logros alcanzados por Hu en el congreso del partido se vieron reflejados en estos dos hechos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Huang Ju</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155231Z" creationid="Mariela" creationdate="20160930T155231Z">
+        <seg>Huang Ju </seg>
       </tuv>
     </tu>
     <tu>
@@ -14056,6 +14152,22 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Li Changchun</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155131Z" creationid="Mariela" creationdate="20160930T155131Z">
+        <seg>Li Changchun </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li Keqiang</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155339Z" creationid="Mariela" creationdate="20160930T155339Z">
+        <seg>Li Keqiang </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Li Peng, Yao Yilin, and Song Ping made up a conservative lock, while Li Ruihuan and Qiao Shi represented more moderate views.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T010545Z">
@@ -14374,6 +14486,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160929T013238Z" creationid="Agustín" creationdate="20160929T012730Z">
         <seg>Lu concluyó que la desigualdad de rentas no era un problema en sí, sino más bien la disparidad en su distribución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luo Gan</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155417Z" creationid="Mariela" creationdate="20160930T155417Z">
+        <seg>Luo Gan </seg>
       </tuv>
     </tu>
     <tu>
@@ -16501,8 +16621,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Other Full Members (Listed Alphabetically)</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T234549Z">
-        <seg>Otros miembros titulares (por orden alfabético)</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155452Z">
+        <seg>Otros miembros titulares (por orden alfabético) </seg>
       </tuv>
     </tu>
     <tu>
@@ -17100,6 +17220,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Propaganda</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155220Z" creationid="Mariela" creationdate="20160930T155220Z">
+        <seg>Propaganda </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Propaganda Department issues Document</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044055Z">
@@ -17550,8 +17678,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Secretariat</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T195610Z">
-        <seg>Secretariado</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155120Z">
+        <seg>Secretariado </seg>
       </tuv>
     </tu>
     <tu>
@@ -24804,6 +24932,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wu Guanzheng</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155327Z" creationid="Mariela" creationdate="20160930T155327Z">
+        <seg>Wu Guanzheng </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wu does not specify which leaders raised this issue.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211340Z">
@@ -24824,6 +24960,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Pc" changedate="20160909T175122Z">
         <seg>El mismo Wu hace referencia a un informe de 1986 escrito por Wang Huning, en aquel entonces un profesor de política internacional de la Universidad de Fudan, jefe de la Sección Política del Comité Central de la Oficina de Investigación a cargo de Jiang Zemin luego de 1995 (y luego promovido a director del Centro de Investigación de Política Central en el año 2002). A partir de este informe, Wu analiza la necesidad de la "concentración imprescindible" por parte de la autoridad central en el transcurso de la reforma2. El informe de Wang provocó una gran disputa acerca de la &lt;t0/&gt; política nacional cuando Hu Qii lo leyó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xi Jinping</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155308Z" creationid="Mariela" creationdate="20160930T155308Z">
+        <seg>Xi Jinping </seg>
       </tuv>
     </tu>
     <tu>
@@ -25045,6 +25189,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zeng Qinghong</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155105Z" creationid="Mariela" creationdate="20160930T155105Z">
+        <seg>Zeng Qinghong </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zeng Qinghong's retirement also came at the cost of the promotion of two other people close to the Jiang Zemin group - He Guoqiang and Zhou Yongkang.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T150218Z">
@@ -25185,6 +25337,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160926T192423Z">
         <seg>Jiang Zemin, el sucesor de Zhao como Secretario General, se retiró oficialmente en 2002, aunque conservó una influencia importante en los años siguientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhou Yongkang</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155439Z" creationid="Mariela" creationdate="20160930T155439Z">
+        <seg>Zhou Yongkang </seg>
       </tuv>
     </tu>
     <tu>
