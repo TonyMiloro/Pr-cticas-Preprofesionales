@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9636,6 +9636,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020801Z">
         <seg>Para muchos en Asia, estas tendencias reflejaron el triunfalismo estadounidense, incluso la arrogancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For many, anything that undermined the power of the Stalinist state was&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;ipso facto&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;reform-oriented and marketizing.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T023928Z" creationid="Sofi" creationdate="20160930T023904Z">
+        <seg>Para muchas personas, lo que afectó al poder del Estado estalinista estaba&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;inmediatamente orientado por la reforma y era mercantilizante.</seg>
       </tuv>
     </tu>
     <tu>
