@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -945,8 +945,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;In &lt;s3/&gt;short, &lt;s4/&gt;Jiang’s &lt;s5/&gt;career &lt;s6/&gt;was &lt;s7/&gt;one &lt;s8/&gt;of &lt;s9/&gt;steady &lt;s10/&gt;promotions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011439Z">
-        <seg>En poco tiempo, la carrera de Jiang fue en constante ascenso.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T200450Z">
+        <seg>En poco tiempo, la carrera de Jiang fue en constante ascenso.&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;s3/&gt; &lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10058,8 +10058,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He was appointed Minister of the Electronics Industry in June 1983.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011321Z">
-        <seg>Se lo nombró como Ministro de la Industria Electrónica en junio de 1983..</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T200200Z">
+        <seg>Fue nombrado Ministro de Industria Electrónica en junio de 1983.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11050,8 +11050,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1985, again with Wang Daohan’s support, Jiang was named mayor of Shanghai.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011341Z">
-        <seg>En 1985, nuevamente con el respaldo de Wang Daohan, Jiang fue nombrado intendente de Shanghái.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T200254Z">
+        <seg>En 1985, nuevamente con el respaldo de Wang Daohan, Jiang fue nombrado alcalde de Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24286,8 +24286,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Two years later, at the CCP’s Thirteenth Congress, Jiang Zemin was named as Shanghai CCP secretary and concurrently a member of the &lt;/f4&gt;&lt;/f3&gt;&lt;f25&gt;&lt;f26&gt;Politburo.&lt;/f26&gt;&lt;/f25&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011356Z">
-        <seg>Dos años después, en el Trigésimo tercer Congreso del PCCh, Jiang Zemin fue nombrado como el secretario del PCCh de Shanghái y posteriormente un miembro del Politburó.&lt;/f26&gt;&lt;/f25&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T200343Z">
+        <seg>Dos años después, en el Decimotercer Congreso del PCCh, Jiang Zemin fue nombrado el secretario del PCCh de Shanghái y, posteriormente, miembro del  &lt;/f4&gt;&lt;/f3&gt;&lt;f25&gt;&lt;f26&gt;Politburó.&lt;/f26&gt;&lt;/f25&gt;</seg>
       </tuv>
     </tu>
     <tu>
