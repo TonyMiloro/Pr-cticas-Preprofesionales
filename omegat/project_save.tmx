@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10642,8 +10642,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In Deng’s June 9 talk, he referred to the “integration of planned economy and market regulation.”55 This expression restored the preferred usage of conservatives, which they had been able to impose during the 1981–2 retreat from more market-oriented reforms.56 As later revealed, Deng had originally called for the integration of the “planned economy and the market economy,” a formulation that put the two economic types on the same plane.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T141519Z">
-        <seg>En su discurso del 9 de julio, Deng se refirió a la “integración de una economía planificada y a las regulaciones de mercado”55. Esta expresión recuperó el uso preferido de los conservadores, que habían logrado imponer en el retroceso desde 1981 hasta 1982 de reformas más orientadas al mercado56. Como se reveló tiempo después, originalmente, Deng había llamado a la integración de la “economía planificada y economía de mercado”, una formulación que puso los dos tipos de economía en el mismo plano. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T141936Z">
+        <seg>En su discurso del 9 de julio, Deng se refirió a la “integración de una economía planificada y a las regulaciones de mercado”55. Esta expresión recuperó el uso preferido de los conservadores, que habían logrado imponer en el retroceso desde 1981 hasta 1982 de reformas más orientadas al mercado56. Como se reveló tiempo después, originalmente, Deng había llamado a la integración de la “economía planificada y economía de mercado”, una formulación que puso los dos tipos de economía en el mismo plano.  </seg>
       </tuv>
     </tu>
     <tu>
