@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1922,8 +1922,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Liu Yunshan &lt;/f0&gt;&lt;f1&gt;Li Yuanchao &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160906Z" creationid="Mariela" creationdate="20160930T160906Z">
-        <seg>Liu Yunshan Li Yuanchao </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T173849Z" creationid="Mariela" creationdate="20160930T160906Z">
+        <seg>Liu Yunshan Li Yuanchao &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,8 +2282,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang Gang &lt;/f0&gt;&lt;f1&gt;Xu Caihou He young &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160755Z" creationid="Mariela" creationdate="20160930T160755Z">
-        <seg>Wang Gang Xu Caihou He young </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T173841Z" creationid="Mariela" creationdate="20160930T160755Z">
+        <seg>Wang Gang Xu Caihou He young &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6965,8 +6965,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chr., CPPCC</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T154245Z">
-        <seg>Presidente de CCPPC</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T174517Z">
+        <seg>Presidente de la CCPPC </seg>
       </tuv>
     </tu>
     <tu>
@@ -11379,8 +11379,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition, Hu was able to secure the appointments of Ling Jihua, Hu's former secretary, and Li Yuanchao, another &lt;f0&gt;prot&lt;/f0&gt;&lt;f1&gt;é&lt;/f1&gt;&lt;f2&gt;g&lt;/f2&gt;&lt;f3&gt;é &lt;/f3&gt;&lt;f4&gt;from&lt;/f4&gt; the CYL, to the Secretariat (see Table 6), enhancing ege &lt;s5/&gt;Hu's control over the day-to-day operation of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T161443Z">
-        <seg>Además, Hu pudo asegurar los nombramientos al Secretarido de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos de la LJC (véase tabla 6), lo que aumentaba el control de &lt;s5/&gt;Hu sobre las operaciones diarias del partido. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T173853Z">
+        <seg>Además, Hu pudo asegurar los nombramientos al Secretarido de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos de la LJC (véase tabla 6), lo que aumentaba el control de Hu sobre las operaciones diarias del partido. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;s5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
