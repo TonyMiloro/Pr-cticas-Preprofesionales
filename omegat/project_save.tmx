@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4381,8 +4381,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And those with talent and ambition &lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;tended to migrate from the rural areas, leaving large areas of the country with little hope of developing a modern social structure.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T041404Z">
-        <seg>Los talentosos y ambiciosos&lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;tendían a emigrar de las áreas rurales y por consiguiente dejaban extensas áreas del país con pocas esperanzas de desarrollar una estructura social moderna.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T234329Z">
+        <seg>Además, los campesinos con talento y ambición&lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;tendían a emigrar de las áreas rurales y, por consiguiente, dejaban extensas áreas del país con pocas esperanzas para el desarrollo de una estructura social moderna.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9553,8 +9553,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>For instance, in 1999, per capita consumption expenditure of agricultural workers was only 85 yuan, 73.9 percent of their monthly income.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;With such small demand, it was difficult for an entrepreneurial class to develop.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T041123Z">
-        <seg>Por ejemplo, en el año 1999, el gasto de consumo per cápita de los trabajadores agrícolas era solo de 85 yuanes, un 73.9 % de sus ingresos mensuales.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Tal pequeña demanda dificultaba el desarrollo de una clase emprendedora.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T234035Z">
+        <seg>Por ejemplo, en el año 1999, el consumo per cápita de los trabajadores agrícolas era solo de 85 yuanes, lo que significaba un 73,9 % de sus ingresos mensuales.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Esta escasa demanda dificultaba el desarrollo de una clase empresarial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22744,8 +22744,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The result, as Lu and others argue, was that China was developing a social structure not unlike Latin America where a promising beginning for economic development had stalled because a small, internationalized urban sector had not absorbed the large, poor population into an urban middle class.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T041841Z">
-        <seg>Tal como Lu y otros argumentan, el resultado fue que China estaba desarrollando una estructura social similar a la de América Latina, en donde un comienzo prometedor para el desarrollo económico se había detenido a causa de que un pequeño sector urbano internacionalizado no había incorporado la gran población en pobreza a una clase media urbana.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T234505Z">
+        <seg>Tal como Lu y otros alegan, los factores ya mencionados dieron origen a la formación de una estructura social similar a la de América Latina, donde un comienzo prometedor para el crecimiento económico se había estancado.</seg>
       </tuv>
     </tu>
     <tu>
