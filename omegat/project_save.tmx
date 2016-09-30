@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1562,8 +1562,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Despite this important endorsement, the meeting decided to delete a reference to guarding against leftism from the draft of Li Peng’s &lt;/f0&gt;&lt;f1&gt;Government Work Report &lt;/f1&gt;&lt;f2&gt;to the upcoming session of the NPC on the grounds that it would be inappropriate to include any reference to differences of opinion in a government (as opposed to Party) work report.&lt;/f2&gt;&lt;f3&gt;76 &lt;/f3&gt;&lt;f4&gt;A fusillade of criticism from the floor, clearly abetted by NPC &lt;/f4&gt;&lt;f5&gt;chairman &lt;/f5&gt;&lt;f6&gt;Wan Li, forced the premier to add a warning to his report that the main danger lay on the left – as well as to make 149 other large and small changes.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134734Z" creationid="Soledad Mori" creationdate="20160927T164655Z">
-        <seg>&lt;f0&gt;A pesar de este gran apoyo, la reunión decidió eliminar la alusión a la defensa en contra del izquierdismo en el&lt;/f0&gt;&lt;f1&gt; Reporte Laboral de Gobierno&lt;/f1&gt;&lt;f2&gt; de Li Peng de la próxima sesión de la APN de China; los argumentos sostenían que sería inapropiado incluir referencias a diferencias de opinión en un informe laboral de gobierno (a diferencia de un informe sobre el partido).&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Una avalancha de críticas incitadas por Wan Li, &lt;/f4&gt;&lt;f5&gt;el presidente&lt;/f5&gt;&lt;f6&gt; de la APN, obligaron al primer ministro a agregar una advertencia a su informe, en la que aclarara que la mayor amenaza proviene de la izquierda, así como también otras 149 grandes y pequeñas modificaciones.&lt;/f6&gt; </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T165821Z" creationid="Soledad Mori" creationdate="20160927T164655Z">
+        <seg>&lt;f0&gt;A pesar de este gran apoyo, la reunión decidió eliminar la alusión a la defensa en contra del izquierdismo en el&lt;/f0&gt;&lt;f1&gt; Reporte Laboral de Gobierno&lt;/f1&gt;&lt;f2&gt; de Li Peng de la próxima sesión de la APN de China; los argumentos sostenían que sería inapropiado incluir referencias a diferencias de opinión en un informe laboral de gobierno (a diferencia de un informe de partido).&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Una avalancha de críticas incitadas por Wan Li, &lt;/f4&gt;&lt;f5&gt;el presidente&lt;/f5&gt;&lt;f6&gt; de la APN, obligaron al primer ministro a agregar una advertencia a su informe, en la que aclarara que la mayor amenaza proviene de la izquierda, así como también otras 149 grandes y pequeñas modificaciones.&lt;/f6&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -26241,8 +26241,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>emerge in 2004 as the head of a newly established Marxism-Leninism Academy in CASS</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T143451Z" creationid="Soledad Mori" creationdate="20160927T170920Z">
-        <seg>y quien emergería en 2004 como el líder de una nueva Academia Marxista-Leninista en CASS </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T165752Z" creationid="Soledad Mori" creationdate="20160927T170920Z">
+        <seg>y quien surgiríai en 2004 como el líder de una nueva Academia Marxista-Leninista en CASS </seg>
       </tuv>
     </tu>
     <tu>
