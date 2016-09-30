@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6917,8 +6917,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chinese intellectuals would re-emerge in a very different society, and their reactions to the surrounding socioeconomic and political events polarized them in a way not apparent in the 1980s or even, perhaps, before.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T013232Z">
-        <seg>Los intelectuales chinos resurgirían en una sociedad muy distinta, y sus reacciones ante los eventos socioeconómicos y políticos circundantes los polarizaron de una forma que no era aparante en 1980 o incluso, tal vez, antes.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T183929Z">
+        <seg>Los intelectuales chinos resurgirían en una sociedad muy distinta, y sus reacciones ante los eventos socioeconómicos y políticos circundantes los polarizó de una forma que no era lógica en 1980 o incluso, tal vez, antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19756,8 +19756,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>The Party leadership was neither cowed into silence nor irrelevant, but it was shaken badly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T015450Z">
-        <seg>El liderazgo del partido no fue forzado a guardar silencio ni a mostrarse irrelevante, pero fue gravemente sacudido.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184137Z">
+        <seg>El liderazgo del partido no era forzado a guardar silencio ni era irrelevante, pero fue gravemente sacudido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21762,8 +21762,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The silence and general irrelevance of the intellectual community in the wake of Tiananmen contrasted vividly with the turmoil among the political elite.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T013857Z">
-        <seg>El silencio y la irrelevancia general de la comunidad intelectual en el despertar de Tiananmén contrastaba vívidamente con la agitación entre la élite política.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184017Z">
+        <seg>El silencio y la irrelevancia general de la comunidad intelectual en el despertar de Tiananmén contrastaba fuertemente con la agitación entre la élite política.</seg>
       </tuv>
     </tu>
     <tu>
