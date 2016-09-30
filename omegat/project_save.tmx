@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1113,8 +1113,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Soon the subject of social stability was on everyone’s lips.Hu Angang and Wang Shaoguang, who had raised the topic of declining central revenues in the 1990s, raised this issue sharply in a widely read article in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160917T004434Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Pronto, el tema de la estabilidad social estaba en boca de todos. Hu Angang y Wang Shaoguang, que habían planteado la cuestión de la disminución en los ingresos del gobierno central en los '90, hicieron eco de este asunto con fuerza en un artículo muy leído de &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Estrategia y Administración&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T181742Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Pronto, el tema de la estabilidad social estaba en boca de todos. Hu Angang y Wang Shaoguang, que habían planteado la cuestión de la disminución en los ingresos del gobierno central en la década de los 90, hicieron eco de este asunto con fuerza en un artículo muy leído de &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Estrategia y Administración&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
