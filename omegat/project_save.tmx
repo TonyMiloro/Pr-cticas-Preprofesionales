@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20457,8 +20457,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>That perceived threat lay behind the Party’s 1989 resolution barring private entrepreneurs from joining the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T210531Z">
-        <seg>Esta amenaza advertida ocultaba la resolución del Partido de 1989 que prohibía a los empresarios del sector privado unirse al Partido.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T231113Z">
+        <seg>Esta amenaza fue uno de los factores que impulsó la resolución del Partido de 1989 que prohibía a los empresarios del sector privado unirse al Partido.</seg>
       </tuv>
     </tu>
     <tu>
