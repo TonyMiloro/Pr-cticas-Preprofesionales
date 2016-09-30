@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20865,8 +20865,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The letter warned against the tendency to “completely negate” the theories of Marxism–Leninism–Mao Zedong Thought and declared, in direct opposition to Deng’s comments in Shenzhen, that “the biggest danger is the ‘rightist’ tendency and bourgeois liberalization in the last 10 years.” &lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T135559Z" creationid="Soledad Mori" creationdate="20160927T165544Z">
-        <seg> La carta advertía sobre la tendencia a "negar completamente" las teorías del marxismo-leninismo-pensamiento Mao Zedong y sostuvo, en contra de los comentarios de Deng en Shenzhen, que "el mayor peligro es la tendencia 'derechista' y la liberalización burguesa en los últimos 10 años".&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T161420Z" creationid="Soledad Mori" creationdate="20160927T165544Z">
+        <seg> La carta advertía sobre la tendencia a "negar completamente" las teorías del marxismo-leninismo-pensamiento Mao Zedong y sostuvo, en contra de los comentarios de Deng en Shenzhen, que "el mayor peligro es la tendencia 'derechista' y la liberalización burguesa en los últimos diez años".&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
