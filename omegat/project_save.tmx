@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1426,9 +1426,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Despite this important endorsement, the meeting decided to delete a reference to guarding against leftism from the draft of Li Peng’s &lt;/f0&gt;&lt;f1&gt;Government Work Report &lt;/f1&gt;&lt;f2&gt;to the upcoming session of the NPC on the grounds that it would be inappropriate to include any reference to differences of opinion in a government (as opposed to Party) work report.&lt;/f2&gt;&lt;f3&gt;76 &lt;/f3&gt;&lt;f4&gt;A fusillade of criticism from the floor, clearly abetted by NPC &lt;/f4&gt;&lt;f5&gt;chairman &lt;/f5&gt;&lt;f6&gt;Wan Li, forced the premier to add a warning to his report that the main danger lay on the left – as well as to make 149 other large and small changes.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133808Z" creationid="Soledad Mori" creationdate="20160927T164655Z">
-        <seg>&lt;f0&gt;A pesar de este gran apoyo, la reunión decidió eliminar la alusión a la defensa en contra
-del izquierdismo en el&lt;/f0&gt;&lt;f1&gt; Reporte Laboral de Gobierno&lt;/f1&gt;&lt;f2&gt; de Li Peng de la próxima sesión de la APN de China; los argumentos sostenían que sería inapropiado incluir referencias a diferencias de opinión en un informe laboral de gobierno (a diferencia de un informe sobre el partido).&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Una avalancha de críticas incitadas por Wan Li, &lt;/f4&gt;&lt;f5&gt;el presidente&lt;/f5&gt;&lt;f6&gt; de la APN, obligaron al primer ministro a agregar una advertencia a su informe, en la que aclarara que la mayor amenaza proviene de la izquierda, así como también otras 149 grandes y pequeñas modificaciones.&lt;/f6&gt; </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134734Z" creationid="Soledad Mori" creationdate="20160927T164655Z">
+        <seg>&lt;f0&gt;A pesar de este gran apoyo, la reunión decidió eliminar la alusión a la defensa en contra del izquierdismo en el&lt;/f0&gt;&lt;f1&gt; Reporte Laboral de Gobierno&lt;/f1&gt;&lt;f2&gt; de Li Peng de la próxima sesión de la APN de China; los argumentos sostenían que sería inapropiado incluir referencias a diferencias de opinión en un informe laboral de gobierno (a diferencia de un informe sobre el partido).&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Una avalancha de críticas incitadas por Wan Li, &lt;/f4&gt;&lt;f5&gt;el presidente&lt;/f5&gt;&lt;f6&gt; de la APN, obligaron al primer ministro a agregar una advertencia a su informe, en la que aclarara que la mayor amenaza proviene de la izquierda, así como también otras 149 grandes y pequeñas modificaciones.&lt;/f6&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -15862,8 +15861,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On March 31, the &lt;/f4&gt;&lt;f5&gt;People’s Daily &lt;/f5&gt;&lt;f6&gt;reprinted a long, flowery but detailed account of Deng’s activities in Shenzhen entitled, “East Wind Brings Spring All Around: On-the-Spot Report on Comrade Deng Xiaoping in Shenzhen.”&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133559Z" creationid="Soledad Mori" creationdate="20160927T163919Z">
-        <seg>El 31 de marzo,&lt;/f4&gt;&lt;f5&gt;People's Daily&lt;/f5&gt;&lt;f6&gt;El 31 de marzo, People's Daily volvió a publicar un largo, adornado, pero detallado informe acerca de las actividades de Deng en Shenzhen titulada "El viento del este trae la primavera consigo: informe inmediato sobre el camarada Deng Xiaoping en Shenzhen”.&lt;/f6&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134705Z" creationid="Soledad Mori" creationdate="20160927T163919Z">
+        <seg>El 31 de marzo,&lt;/f4&gt;&lt;f5&gt;People's Daily&lt;/f5&gt;&lt;f6&gt;. El 31 de marzo, People's Daily volvió a publicar un largo, adornado, pero detallado informe acerca de las actividades de Deng en Shenzhen titulada "El viento del este trae la primavera consigo: informe inmediato sobre el camarada Deng Xiaoping en Shenzhen”.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16318,8 +16317,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Over the ensuing months, four delegations of senior PLA officers visited the Shenzhen SEZ to demonstrate their support for reform and opening up; also, the army newspaper, the &lt;/f2&gt;&lt;f3&gt;Liberation Army Daily&lt;/f3&gt;&lt;f4&gt;, repeatedly ran articles in support of reform.78 The effort to professionalize and depoliticize the military, which had suffered badly with its crushing of the 1989 movement, was again set back.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134107Z" creationid="Soledad Mori" creationdate="20160927T165219Z">
-        <seg>Durante los meses subsiguientes, cuatro delegaciones de oficiales mayores de la EPL visitaron la ZEE de Shenzhen con el fin de demostrar su apoyo con respecto a la reforma y la apertura. También el diario de las fuerzas armadas, &lt;/f2&gt;&lt;f3&gt;Liberation Army Daily&lt;/f3&gt;&lt;f4&gt;,,publicó numerosos artículos que apoyaban la reforma </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134856Z" creationid="Soledad Mori" creationdate="20160927T165219Z">
+        <seg>Durante los meses subsiguientes, cuatro delegaciones de oficiales mayores de la EPL visitaron la ZEE de Shenzhen con el fin de demostrar su apoyo con respecto a la reforma y la apertura. También el diario de las fuerzas armadas, &lt;/f2&gt;&lt;f3&gt;Liberation Army Daily&lt;/f3&gt;&lt;f4&gt;, publicó numerosos artículos que apoyaban la reforma. Se obstaculizó nuevamente el esfuerzo para que las fuerzas armadas, que se habían visto afectadas por el fracaso del movimiento de 1989, se profesionalicen y se despoliticen. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19376,8 +19375,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The communiqu´e &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;issued by the Politburo meeting endorsed the “necessity” of upholding the “one center” of economic development and called on the Party to “accelerate the pace of reform and opening to the outside world.” Moreover, it affirmed Deng’s thesis that the main danger the Party faced was leftism.74 Accordingly, China’s central media finally publicized Deng’s trip.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133453Z" creationid="Soledad Mori" creationdate="20160927T163832Z">
-        <seg>El comunicado&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;emitido por la reunión del Politburó avaló la "necesidad" de defender "el único centro" de desarrollo económico y le solicitó al Partido "el aceleramiento del paso de la reforma y la apertura al mundo". Además, reafirmó la postura de Deng que sostenía la mayor amenaza que enfrenta el Partido es el izquierdismo74. Como correspondía, los medios de comunicación más importantes de China divulgaron el viaje de Deng. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134604Z" creationid="Soledad Mori" creationdate="20160927T163832Z">
+        <seg>El comunicado&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;emitido por la reunión del Politburó avaló la "necesidad" de defender "el único centro" de desarrollo económico y le solicitó al Partido "el aceleramiento del paso de la reforma y la apertura al mundo". Además, reafirmó la postura de Deng que sostenía la mayor amenaza que enfrenta el Partido es el izquierdismo. Como correspondía, los medios de comunicación más importantes de China divulgaron el viaje de Deng. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24519,8 +24518,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Yang Shangkun, Deng’s close associate and permanent vice-chairman of the CMC, led the charge by demanding that the body endorse Deng’s view of economic work at the center.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Jiang Zemin offered a self-criticism for his laxity in promoting reform and opening and echoed Yang’s views.72 Politburo member and NPC chairman Wan Li also strongly endorsed Deng’s views, and Politburo Standing Committee member Qiao Shi argued pointedly that the leadership of the Party remained hindered by leftist ideology that interfered with the effective implementation of the Party’s principles and policies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T132915Z" creationid="Soledad Mori" creationdate="20160927T163357Z">
-        <seg>Yang Shangkun, ínitimo socio de Deng y vice presidente permanente de la Comisión Militar Central, tomó las riendas al exigir que la organización acepte como lineamiento central la perspectiva de Deng sobre la labor económica. Jiang Zemin hizo una autocrítica por su descuido al promover reforma y apoyar la perspectiva de Yang72. Wan Li, presidente de la APN de China y miembro del Politburó, también respaldó firmemente la propuesta de Deng, y Qiao Shi, miembro del Comité Permanente del Politburó, sostuvo enfáticamente que el liderazgo del partido se encontraba obstaculizado por la ideología izquierdista que interfirió con la efectiva implementación de los principios y políticas del Partido.  
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134545Z" creationid="Soledad Mori" creationdate="20160927T163357Z">
+        <seg>Yang Shangkun, ínitimo socio de Deng y vice presidente permanente de la Comisión Militar Central, tomó las riendas al exigir que la organización acepte como lineamiento central la perspectiva de Deng sobre la labor económica. Jiang Zemin hizo una autocrítica por su descuido al promover reforma y apoyar la perspectiva de Yang72. Wan Li, presidente de la APN de China y miembro del Politburó, también respaldó firmemente la propuesta de Deng, y Qiao Shi, miembro del Comité Permanente del Politburó, sostuvo enfáticamente que el liderazgo del partido se encontraba obstaculizado por la ideología izquierdista que interfirió con la efectiva implementación de los principios y políticas del partido. 
 .&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
