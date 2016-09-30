@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7655,6 +7655,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T125954Z">
         <seg>Los aniversarios decenales se caracterizan porque los mandatarios dan discursos importantes, mientras que los aniversarios no decenales se conmemoran de una forma más sencilla con una editorial en primera plana del People’s Daily. &lt;t45/&gt;&lt;t46/&gt;&lt;t47/&gt;&lt;t48/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decrying the decline of central government revenues – the “two ratios” (the ratio of all government revenues as a percentage of GNP and the ratio of central government revenues as a percentage of all government revenues), as they were known – had been a staple of conservative political rhetoric</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T022819Z" creationid="Sofi" creationdate="20160930T022819Z">
+        <seg>La condena a la disminución de los ingresos del gobierno central, es decir las "dos relaciones" (la relación de todos los ingresos del gobierno en porcentaje del PNB y la relación de los ingresos del gobierno central en porcentaje de todos los ingresos del gobierno), ha sido la esencia de la retórica política conservadora</seg>
       </tuv>
     </tu>
     <tu>
@@ -28259,6 +28267,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174238Z">
         <seg>este enfoque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>throughout the 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T023144Z" creationid="Sofi" creationdate="20160930T023144Z">
+        <seg>durante la década de los 80.</seg>
       </tuv>
     </tu>
     <tu>
