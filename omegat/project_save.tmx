@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10647,6 +10647,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160915T175239Z">
         <seg>Sin embargo, los consejeros de Clinton en política interna (el ministro de finanzas Robert Rubin, el director del Consejo Nacional de Economía Gene Sperling y el consejero en política interna John Podesta) sostuvieron que, si no se garantizaban las protecciones para los sindicatos e industrias que competían directamente con sus equivalentes chinos, el Congreso votaría por poner fin al trato, lo que sería más perjudicial para las relaciones entre EE. UU. y China que si no se llegara a ningún acuerdo directamente.&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, Tianan&lt;/f5&gt;&lt;f6&gt;­men greatly changed the terms of debate.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T035859Z" creationid="Franco" creationdate="20160930T035859Z">
+        <seg>Sin embargo, Tianan&lt;/f5&gt;&lt;f6&gt;men cambió de gran manera los términos de debate.</seg>
       </tuv>
     </tu>
     <tu>
