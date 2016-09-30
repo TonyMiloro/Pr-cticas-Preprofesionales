@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7163,6 +7163,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Columbus' landing in the Americas), one that was brought about by global &lt;t0/&gt;capitalism - as symbolized not only by the collapse of socialism in East- ern Europe and the breakup of the Soviet Union but also by the CCP's acknowledgment, at the Fourteenth Party Congress in 1992, of the need to continue reform in the direction of further marketization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T203234Z" creationid="joaquin" creationdate="20160930T203234Z">
+        <seg> al desembarco de Colón a América), que se produjo por el capitalismo global; simbolizado no solo por el colapso del socialismo en Europa del Este y por la caída de la Unión Soviética sino también por el reconocimiento del PCCh en el XIV Congreso Nacional del Partido Comunista de China en 1992, de la necesidad de continuar con la reforma hacia una mayor mercantilización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coming into his own as a political leader, Jiang &lt;t0/&gt;Zemin&lt;t1/&gt; recognized the importance of improving relations with the United States for both domestic reform and his own legitimacy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T013719Z">
@@ -11228,6 +11236,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T121625Z">
         <seg>En mayo, la Agencia de Noticias Xinhua informó que al menos 120 oficiales habían sido despedidos por negligencia. Como muchos han notado, también existía un elemento político.&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;t7/&gt;contrast to the New Left views already described, Li took a positive view &lt;t8/&gt;of recent trends.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T203118Z" creationid="joaquin" creationdate="20160930T203118Z">
+        <seg>A diferencia de las opiniones de la nueva izquierda ya descritas, Li adoptó un punto de vista positivo con respecto a las nuevas tendencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16282,6 +16298,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not unlike Wang Hui, Li took 1989-92 as marking a &lt;t9/&gt;watershed in the acceleration of globalization (a process he traces back to</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T203200Z" creationid="joaquin" creationdate="20160930T203200Z">
+        <seg>Tal como Wang Hui, Li tomó el período comprendido entre 1989-1992 como un punto de inflexión en la aceleración de la globalización (un proceso que según él se remonta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: This schematic is arranged horizontally from the center outward, showing those who are far to the left and right of the political center (the Old Left and Liberals respectively) as well as those with left and right tendencies within the political center.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160928T200533Z">
@@ -17984,6 +18008,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160930T184225Z">
         <seg>Las preguntas acerca de los objetivos de la reforma se han venido cocinando cerca de la superficie por años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rather than &lt;t1/&gt;exhibit the shock shown by conservative politicians or the sense of threat &lt;t2/&gt;exhibited by New Left intellectuals, Li stated simply and boldly that "[t]he events that happened between 1989 and 1991 can in fact be understood as</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T203315Z" creationid="joaquin" creationdate="20160930T203315Z">
+        <seg> En lugar de exhibir la conmoción que mostraban los políticos conservadores o la sensación de amenaza de los intelectuales de la nueva izquierda, Li sostenía, de manera simple pero audaz,  que “los eventos que ocurrieron entre 1989 y 1991 pueden ser en realidad entendidos como</seg>
       </tuv>
     </tu>
     <tu>
@@ -23655,6 +23687,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This suggested a very different &lt;t6/&gt;attitude toward globalization than that held by postmodernist thinkers.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T203056Z" creationid="joaquin" creationdate="20160930T203056Z">
+        <seg>Esto sugería una actitud hacia la globalización muy diferente de la que tenían los pensadores posmodernistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This trend continued the following spring with Li Peng’s address to the NPC in March 1990.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160930T174319Z" creationid="Usuario" creationdate="20160930T174319Z">
@@ -27331,6 +27371,14 @@ Durante semanas y meses después de Tiananmén, no existía casi ningún debate 
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160927T231147Z">
         <seg>la economía había comenzado a deteriorarse en el año 1984, cuando se adoptó la desición sobre la Reforma de la Estructura Económica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the force of information destroying the fortress of isolation."&lt;t0/&gt;70</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T203323Z" creationid="joaquin" creationdate="20160930T203323Z">
+        <seg>la fuerza de la información que destruye el fuerte del aislamiento”.&lt;t0/&gt;70</seg>
       </tuv>
     </tu>
     <tu>
