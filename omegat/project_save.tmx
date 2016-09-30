@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1962,8 +1962,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The March 1992 Politburo meeting and the subsequent NPC session&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;marked important, if not unambiguous, victories for Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T135442Z" creationid="Soledad Mori" creationdate="20160927T165429Z">
-        <seg>&lt;f0&gt;La reunión del Politburo de marzo de 1992 y la posterior sesión de la APN &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;APN marcaron victorias importantes e inequívocas para Deng.  </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T154604Z" creationid="Soledad Mori" creationdate="20160927T165429Z">
+        <seg>&lt;f0&gt;La reunión del Politburo de marzo de 1992 y la posterior sesión de la APN &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;marcaron victorias importantes e incluso inequívocas para Deng.  </seg>
       </tuv>
     </tu>
     <tu>
