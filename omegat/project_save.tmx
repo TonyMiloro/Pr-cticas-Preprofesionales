@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>20.&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;See also Xiao’s full-length treatment,&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Weijizhong&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055522Z" creationid="Franco" creationdate="20160930T055522Z">
+        <seg>&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2005</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044402Z">
