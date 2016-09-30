@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7389,8 +7389,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Cui argues strongly that only by acknowledging workers as “stakeholders” in enterprises can China create a society that is both economically efficient and socially fair.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T135001Z" creationid="Martin" creationdate="20160929T134643Z">
-        <seg>Cui sostuvo con firmeza que solo a través del reconocimiento de los trabajadores como "partícipes" en las empresas, China podrá crear una sociedad que sea no solo económicamente eficaz sino también socialmente justa. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T003827Z" creationid="Martin" creationdate="20160929T134643Z">
+        <seg>Cui sostuvo con firmeza que solo a través del reconocimiento de los trabajadores como "depositarios" de las empresas, China podrá crear una sociedad que sea no solo económicamente eficaz sino también socialmente justa. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10043,8 +10043,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He cites changes in US laws that recognize the rights</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160930T003459Z" creationid="Martin" creationdate="20160929T151055Z">
-        <seg>Él cita cambios en las leyes de EE. UU. que reconocen los derechos.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T003534Z" creationid="Martin" creationdate="20160929T151055Z">
+        <seg>Él cita cambios en las leyes de EE. UU. que reconocen los derechos</seg>
       </tuv>
     </tu>
     <tu>
@@ -24437,8 +24437,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, Cui argues against the permanence (yongdongji, “inertia”) of institutions, saying that they can be altered and renewed in a variety of ways over time to make them more democratic.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T152002Z" creationid="Martin" creationdate="20160929T152002Z">
-        <seg>Es por eso que, Cui está en contra de la permanencia (Yongdong, "inercia") de las instituciones, ya que estas pueden ser modificadas y renovadas de varias maneras a lo largo del tiempo para que sean más democrático.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T003919Z" creationid="Martin" creationdate="20160929T152002Z">
+        <seg>Es por eso que, Cui está en contra de la permanencia (Yongdong, "inercia") de las instituciones, ya que estas pueden ser modificadas y renovadas de varias maneras a lo largo del tiempo para que sean más democráticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27504,8 +27504,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>not just of shareholders but also of stakeholders as one important instance of this.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160930T003516Z" creationid="Martin" creationdate="20160929T151243Z">
-        <seg>no solo de los accionistas sino también de los partícipes como un ejemplo importante.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T003713Z" creationid="Martin" creationdate="20160929T151243Z">
+        <seg>no solo de los accionistas sino también de los depositarios como un ejemplo importante.</seg>
       </tuv>
     </tu>
     <tu>
