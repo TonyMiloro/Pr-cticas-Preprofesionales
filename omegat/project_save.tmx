@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21594,8 +21594,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The son of one of those being denounced charged the platform to rescue his father, as many other villagers took the cue and began to assault local cadres (and the thugs they had hired), driving them away.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160930T150804Z">
-        <seg>Cuando el hijo de uno de los acusados atacó al estrado para rescatar a su padre, muchos otros aldeanos siguieron su ejemplo y comenzaron a agredir a los cuadros locales (y a los matones que estos habían contratado), y asílograron alejarlos.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T164056Z">
+        <seg>Cuando el hijo de uno de los acusados atacó al estrado para rescatar a su padre, muchos otros aldeanos siguieron su ejemplo y comenzaron a agredir a los cuadros locales (y a los matones que estos habían contratado), y así lograron alejarlos.</seg>
       </tuv>
     </tu>
     <tu>
