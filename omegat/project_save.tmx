@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25133,6 +25133,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thus, Yan argued that modernization must be based on preserving the “national spirit”&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;(guo- qing),&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;that is, on Confucianism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035714Z" creationid="Barri" creationdate="20160930T035714Z">
+        <seg>Por esto, Yan sostenía que la modernización debía basarse en preservar el “espíritu nacional”&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;(guo- qing),&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;es decir , del Confucianismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus, Zhao Yiheng believed that New Left &lt;t1/&gt;thinking was merely a continuation of the neoconservative thinking exam- &lt;t2/&gt;ined in Chapter&lt;t3/&gt; 3&lt;t4/&gt;,&lt;t5/&gt;88&lt;t6/&gt; Xu Ben has argued that the New Left are "cultural &lt;t7/&gt;explicators of official nationalism and authoritative domestic policies,"&lt;t8/&gt;89 &lt;t9/&gt;and Zhang Longxi goes so far as to accuse the New Left of being "spokesper- &lt;t10/&gt;sons for the Ministry of Foreign Affairs."&lt;t11/&gt;90&lt;t12/&gt; Lei Yi, a well-known historian &lt;t13/&gt;at the Institute of Modern History, pointed out the irony of a Third-World &lt;t14/&gt;scholar using the postmodernist discourse developed in the West to crit- icize the cultural hegemony of the West (which many New Left scholars &lt;t15/&gt;did).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160929T190809Z" creationid="joaquin" creationdate="20160929T190751Z">
@@ -26305,6 +26313,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T010211Z">
         <seg>Wenli son sentenciados a prisión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Western culture or technology could not simply be grafted onto China but had to find resonance within China’s tradition; the task of modernization had to be based on the growth, devel&lt;/f3&gt;&lt;f5&gt;­opment, and maturation of factors present in China’s original culture.&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Yan was consistent as a “neoconservative.” Prior to the 1911 revolution, Yan was critical of “radicals”&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;(jijin zhuyizhe),&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;such as Kang Youwei and Liang Qichao in the 1898 Reform Movement, who wanted to accomplish everything at once; following the i9ii revolution, Yan continued to look to Confucianism as the essence of China’s “national spirit.” It was in this way that he allowed himself to be swept into Yuan Shikai’s ill-fated monarchical movement and thus fall into personal tragedy.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035814Z" creationid="Barri" creationdate="20160930T035814Z">
+        <seg>La cultura o tecnología occidental simplemente no puede injertarse en China, pero tuvo que encontrar resonancia dentro de la tradición china; la tarea de modernización tenía que basarse en el crecimiento, de&lt;/f3&gt;&lt;f5&gt;sarrollo, y madurez de los factores presentes de la cultura original de China.&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Yan was consistent as a “neoconservative.” Prior to the 1911 revolution, Yan was critical of “radicals”&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;(jijin zhuyizhe),&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;such as Kang Youwei and Liang Qichao in the 1898 Reform Movement, who wanted to accomplish everything at once; following the i9ii revolution, Yan continued to look to Confucianism as the essence of China’s “national spirit.” It was in this way that he allowed himself to be swept into Yuan Shikai’s ill-fated monarchical movement and thus fall into personal tragedy.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
