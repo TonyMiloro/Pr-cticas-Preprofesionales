@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3142,6 +3142,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="multimedia08" changedate="20160926T202323Z">
         <seg>Después de todo, la pornografía estaba relacionada con las influencias occidentales, pero dificilmente planteaba los problemas ideológicos centrales que los conservadores deseaban perseguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After all,asHustated, the constitution was the “uniﬁed expression of the Party’s proposals and the people’s will.” The Party would operate within the scope of the constitution, but the constitution was the legal expression of the Party’s will.37 The very next day, Hu headed to Xibaipo, the sleepy central Hebei town that served as the CCP’s last revolutionary capital before Mao and his comrades entered Beijing in 1949.Huhad obviously thought hard about the image he sought to project.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T140136Z" creationid="andrea" creationdate="20160930T140004Z">
+        <seg>Después de todo, como expuso Hu, la constitución fue la “expresión unificada de las propuestas del partido y de la voluntad de la población”. El partido actuaría dentro del marco de la constitución, pero la constitución era la expresión legal de la voluntad del partido.Al día siguiente, Hu se dirigió hacia Xibaipo, la tranquila ciudad central de Hebei que funcionaba como la  última capital revolucionaria del PCCh antes de que Mao y sus camaradas entraran en Pekín en 1994. Hu, sin lugar a duda, había pensado seriamente sobre la imagen que quería transmitir.</seg>
       </tuv>
     </tu>
     <tu>
