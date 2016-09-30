@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4431,6 +4431,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160928T144357Z">
         <seg>Además de la opinión pública en el sentido tradicional, hay un claro esfuerzo por utilizar los libros para lograr que algunas ideas llamen la atención de los formadores de políticas o para lograr que estos defiendan públicamente sus ideas frente a otros miembros del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apparently angered by the silence with which the People’s Daily greeted his speeches–a silence induced perhaps by the inability of top leaders to agree on how to respond – Jiang arranged for the publication of Xing’s article.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220031Z" creationid="Usuario" creationdate="20160930T220031Z">
+        <seg>Aparentemente, enojado por el silencio con el que el People´s Daily  recibir sus discursos- un silencio inducido, tal vez, por la inhabilidad de los líderes en ponerse de acuerdo en cómo responder- Jiang organizó la publicación del artículo de Xing54.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9499,6 +9507,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160925T214555Z">
         <seg>Por ejemplo, cuando se reunió con Jiang Zemin y Yang Shangkun en noviembre, antes de que estos últimos viajaran a Shenzhen para conmemorar el décimo aniversario de la fundación de las ZEE (Zonas Económicas Especiales).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Sin duda, esta reunión da cuenta de la evaluación positiva que Jiang hizo de las zonas durante la reunión que tuvo lugar más tarde durante el mismo mes.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Luego, en la víspera del séptimo Plenario a fines de diciembre, Deng dio un discurso breve a varios líderes, en el que resaltó que la planificación y los mercados no eran características distintivas del socialismo y capitalismo, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, in calling for patriotism in the context of opening to the outside world, one article stated – in an implicit but clear reference to Deng Liqun’s wellknown comment – that “some comrades even believe that every new bit [fen] of foreign investment that is brought in is another bit of capitalism.” At least two of the commentaries highlighted the thesis that China was in the “primary stage of socialism,” a thesis that would become central at the Fifteenth Party Congress in 1997.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T215814Z" creationid="Usuario" creationdate="20160930T215748Z">
+        <seg>Por ejemplo, para exigir patriotismo en el contexto de la apertura al mundo, un artículo afirmaba, en una referencia implícita pero clara a la observación bien conocida de Deng Liqun, que “algunos compañeros creen incluso que cada nueva moneda [fen] que se trae de la inversión extranjera es otra moneda del capitalismo”51. Al menos dos de los comentarios resaltaron la tesis de que China estaba en la “primera etapa del socialismo”, una teoría que sería central en el décimo quinto Congreso del Partido en 1997.52</seg>
       </tuv>
     </tu>
     <tu>
@@ -17780,6 +17796,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other articles, however, were more openly critical of the left, even as they defended Party policy against charges of rightism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T215723Z" creationid="Usuario" creationdate="20160930T215723Z">
+        <seg>Otros artículos, sin embargo, fueron más abiertamente críticos de la izquierda, incluso cuando defendían la política del partido contra los cargos del derechismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other intellectuals, whether New Left or Liberal, are even more distant from the political center and are depicted as societal actors.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160930T210211Z">
@@ -22069,6 +22093,22 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most interesting of the commentaries was the final one, which more strongly than its predecessors called for opposing “dogmatism” and “vulgar” Marxism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T215853Z" creationid="Usuario" creationdate="20160930T215853Z">
+        <seg>El más interesante de los comentarios fue el último, el cual más fuerte que el de sus antecesores, pidió por un “dogmatismo” opositor y por un marxismo “vulgar”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most systematic effort to define a middle course and respond to the criticisms of the left came when Xing Bensi, vice-president of the Central Party School, published a long article in People’s Daily.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T215958Z" creationid="Usuario" creationdate="20160930T215958Z">
+        <seg>El esfuerzo más sistemático para explicar la mitad del recorrido y responder a las críticas de la izquierda apareció cuando Xing Bensi, vicepresidente de la Escuela Central del Partido, publicó un artículo en el People´s Daily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The natural tendency for the east coast – where human talent, technology, communications, and transportation are disproportionately concentrated – to move ahead was obscured at first both by the rural reforms, which increased the incomes of the large numbers of farmers who live inland, and by the slow start of urban reform, particularly in Shanghai (where large numbers of SOEs were concentrated).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160930T211837Z">
@@ -26340,6 +26380,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While Marxism must be upheld, it declared, “without being developed, Marxism would lose its vitality and energy.” It was therefore necessary to “break through dogmatic interpretations of Marxism and erroneous viewpoints that are attributed to Marxism, and break through those judgments and &lt;t0/&gt;conclusions that practice has already proven to be wrong and that are not appropriate to the new circumstances brought about by change.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T215940Z" creationid="Usuario" creationdate="20160930T215940Z">
+        <seg>&lt;t0/&gt;Mientras que el marxismo debe ser respaldado, declaró que, “si no se desarrolla, el marxismo perdería su vitalidad y energía”. Fue, por lo tanto, necesario “cortar con interpretaciones dogmáticas sobre el marxismo y puntos de vista erróneos que se atribuyen al mismo, y cortar con opiniones y conclusiones que fueron equivocadas y no apropiadas para las nuevas circunstancias provocadas mediante el cambio”53.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While such methodologies can provide valuable insights by uncovering forgotten voices and offering new explanations, there has been a marked tendency in recent years to deconstruct Western narratives of Chinese his-tory.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160922T213008Z">
@@ -28366,6 +28414,14 @@ Durante semanas y meses después de Tiananmén, no existía casi ningún debate 
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T021045Z">
         <seg>El "capitalismo Confuciano" se volvió un tema polémico tanto en Asia como en Occidente. Se hablaba permanentemente de Asia como la región más dinámica del mundo y se creía  que el siglo veintiuno iba a ser el siglo del Pacífico y particularmente el siglo de Asia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Democracy,” the commentary stated in its opening line, “is one of the fundamental goals for which our Party has always struggled.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T215657Z" creationid="Usuario" creationdate="20160930T215657Z">
+        <seg>La “Democracia”, declaró en su línea de apertura del comentario, “es uno de los objetivos fundamentales por los que nuestro partido siempre ha luchado”50.</seg>
       </tuv>
     </tu>
     <tu>
