@@ -2416,6 +2416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;ee the biographical note in Xiao Gongqin,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Xiao Gongqinji.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055412Z" creationid="Franco" creationdate="20160930T055412Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;elements it was importing.&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;As Yan put it, “[w]ithout renewal there will be no progress; without the old there would be nothing to hold on to.”&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;The trick was to modernize the national spirit while maintaining the culture as an organic whole.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160930T041036Z" creationid="Rocio" creationdate="20160930T040537Z">
@@ -28646,6 +28654,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160930T055355Z" creationid="Franco" creationdate="20160930T055355Z">
         <seg>&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>i&lt;/f6&gt;&lt;f8&gt;40&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055403Z" creationid="Franco" creationdate="20160930T055403Z">
+        <seg>&lt;/f6&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
