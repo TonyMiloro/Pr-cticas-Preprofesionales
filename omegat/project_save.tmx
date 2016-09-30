@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14105,8 +14105,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It was in this&lt;/f85&gt;&lt;f86&gt; &lt;/f86&gt;&lt;f87&gt;capacity that Liu was named to head the work group that took over the &lt;/f87&gt;&lt;f88&gt;World&lt;/f88&gt;&lt;f89&gt; &lt;/f89&gt;&lt;f90&gt;Economic Herald &lt;/f90&gt;&lt;f91&gt;after Jiang decided to close the controversial paper.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Vere" changedate="20160928T203322Z" creationid="Vere" creationdate="20160928T201223Z">
-        <seg>Fue en calidad de vicedirector de dicho departamento que Liu fue nombrado para dirigir el grupo de trabajo que asumió el control del "World Economic Herald" luego de que Jiang decidiera clausurar el controversial periódico.&lt;/f85&gt;&lt;f86&gt;&lt;/f86&gt;&lt;f87&gt;&lt;/f87&gt;&lt;f88&gt;&lt;/f88&gt;&lt;f89&gt;&lt;/f89&gt;&lt;f90&gt;&lt;/f90&gt;&lt;f91&gt;</seg>
+      <tuv lang="ES-US" changeid="Vere" changedate="20160930T223711Z" creationid="Vere" creationdate="20160928T201223Z">
+        <seg>Fue en calidad de vicedirector de dicho departamento que Liu fue llamado para dirigir el grupo de trabajo que asumió el control del "World Economic Herald" luego de que Jiang decidiera clausurar el controversial periódico.&lt;/f85&gt;&lt;f86&gt;&lt;/f86&gt;&lt;f87&gt;&lt;/f87&gt;&lt;f88&gt;&lt;/f88&gt;&lt;f89&gt;&lt;/f89&gt;&lt;f90&gt;&lt;/f90&gt;&lt;f91&gt;</seg>
       </tuv>
     </tu>
     <tu>
