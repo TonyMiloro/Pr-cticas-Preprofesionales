@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3146,6 +3146,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>According to some professors at the school, the president’s visit was highly successful.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T000821Z" creationid="Cami" creationdate="20160930T000821Z">
+        <seg>De acurdo con varios profesores universitarios, la visita del presidente fue un gran éxito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accordingly, local governments increasingly concen- trated on expanding their fiscal resources, and the fiscal contract responsi- bility system — under which governments promised to remit specific revenue targets to the central government while retaining any excess — provided the resources to pursue those interests.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160927T031531Z" creationid="Rocio" creationdate="20160927T031109Z">
@@ -5635,6 +5643,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beijing University has been the fount of liberal thinking in modern China and, more specifically, the leading force in the 1989 Tiananmen demonstrations.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T000633Z" creationid="Cami" creationdate="20160930T000633Z">
+        <seg>La Universidad de Pekín ha sido la fuente del pensamiento liberal en China moderna y, más específicamente, la fuerza principal en las manifestaciones de Tiananmen de 1989.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beijing’s initial reaction was one of shock and&lt;t6/&gt; &lt;t7/&gt;confusion.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160926T213505Z">
@@ -7351,6 +7367,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160928T214702Z">
         <seg>¿Es posible un modelo de reforma que conserve la identidad de China, evite las injusticias económicas y políticas asociadas con el capitalismo y aún así genere un desarrollo económico? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Critics have argued that Jiang’s visit to Beijing University paid too much attention to patriotism and the university’s role in the development of the CCP (the co-founders of the party, Li &lt;t0/&gt;Dazhao&lt;t1/&gt; and Chen &lt;t2/&gt;Duxiu&lt;t3/&gt;, were both Beijing University faculty).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T000745Z" creationid="Cami" creationdate="20160930T000737Z">
+        <seg>Los críticos aseguraron que en su visita a la Universidad de Pekín, Jiang le prestó mucha atención al patriotismo y al rol de la universidad en el desarrollo del PCCh (los co-fundadores del partido, Li  &lt;t0/&gt;Dazhao&lt;t1/&gt; y Chen &lt;t2/&gt;Duxiu&lt;t3/&gt;, fueron parte de la Universidad de Pekín).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14296,6 +14320,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jiang made this decision on his own and against the counsel of some of his advisers; they feared that the trip would be too controversial and perhaps even stir up a new student movement.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T000615Z" creationid="Cami" creationdate="20160930T000615Z">
+        <seg>Jiang tomó esta decisión por su cuenta sin la sugerencia de algunos de sus asesores; temían que el viaje fuera demasiado controvertido y quizás podría llegar a provocar un nuevo movimiento estudiantil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jiang quoted Deng as saying (when he returned to power in the late1970s) that there are two possible attitudes: “One is to act as a bur&lt;t0/&gt;eaucrat, the other is to work.”</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T173726Z">
@@ -16382,6 +16414,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="andre" changedate="20160929T000235Z">
         <seg>No obstante, el informe pronosticó que el PIB se cuadruplicaría para el 2020 e hizo hincapié en la ciencia y la tecnología como impulsoras del crecimiento económico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, what seems important was Jiang’s personal gesture in reaching out to intellectuals.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T000805Z" creationid="Cami" creationdate="20160930T000805Z">
+        <seg>Sin embargo, lo que resulta importante fue el gesto personal de Jiang para con los intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20852,6 +20892,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The court eventually dismissed the charges, but not without some dramatic political theater.24</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T000524Z" creationid="Cami" creationdate="20160930T000524Z">
+        <seg>La corte finalmente desestimó los cargos, sin dejar de lado el dramático teatro político24.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cover of Looking at China through a Third Eye identifies one “Luo yi ning ge er” as the author.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160928T140426Z">
@@ -25043,6 +25091,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang Dan, the student leader released to the United States in April 1998, was a Beijing University student.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T000650Z" creationid="Cami" creationdate="20160930T000650Z">
+        <seg>Wang Dan, el líder estudiantil puesto en libertad por Estados Unidos en abril de 1998, era un estudiante de la Universidad de Pekín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang Guangze, a journalist at the 21st</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044313Z">
@@ -26063,6 +26119,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160914T234344Z">
         <seg>Con esta campaña anticorrupción en plena marcha, el Decimosexto Comité Central convocó la Sexta Sesión Plenaria en Pekín el 8 de noviembre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this clash of criticism and countercriticism swirling around him, Jiang decided to go to Beijing University on May 4 to participate in the university’s centennial ceremonies.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T000553Z" creationid="Cami" creationdate="20160930T000553Z">
+        <seg>Con esta disputa de crítica y contra crítica a su alrededor, Jiang decidió ir a la Universidad de Pekín el 4 de mayo para participar en las ceremonias del centenario de la universidad.</seg>
       </tuv>
     </tu>
     <tu>
