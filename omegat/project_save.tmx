@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23726,8 +23726,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This was, after all, a government that believed it had to forge ahead with economic reform without questioning the official judgment on Tiananmen, a government that needed to deal with many of the social, economic, and political problems that had given rise to the more conservative intellectual atmosphere in the first place: growing regional inequality, income polarization, central–provincial relations, corruption, internal migration, crime, tense Sino–US relations, and so on.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T195155Z">
-        <seg>Este fue, después de todo, un gobierno que creyó que tenía que continuar con la reforma económica sin cuestionar la opinión oficial sobre Tiananment, un gobierno que necesitaba ocuparse de muchos de los problemas sociales, económicos y políticos que habían dado lugar a un ambiente intelectual más conservador en primer lugar: la creciente desigualdad regional, la desigualdad de ingresos, las relaciones central-provincial, la corrupción, la migración interna, la tensa relación entre Estados Unidos y China, etcétera. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T195206Z">
+        <seg>Este fue, después de todo, un gobierno que creyó que tenía que continuar con la reforma económica sin cuestionar la opinión oficial sobre Tiananment, un gobierno que necesitaba ocuparse de muchos de los problemas sociales, económicos y políticos que habían dado lugar a un ambiente intelectual más conservador en primer lugar: la creciente desigualdad regional, la desigualdad de ingresos, las relaciones central-provincial, la corrupción, la migración interna, la tensa relación entre los Estados Unidos y China, etcétera. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24198,8 +24198,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>To the extent that there was a common interest in problem solving, intellectuals could, by the mid-1990s, take up roles as advisers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T055501Z">
-        <seg>En la medida en que existiese un interés común en la resolución de problemas, los intelectuales podían asumir funciones de asesor, a mediados de los 90. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T195251Z">
+        <seg>En la medida en que existiese un interés común en la resolución de problemas, los intelectuales podían asumir funciones como asesores, a mediados de los 90. </seg>
       </tuv>
     </tu>
     <tu>
