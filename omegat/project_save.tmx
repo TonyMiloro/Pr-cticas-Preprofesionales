@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26349,8 +26349,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When Zeng Qinghong spoke at the Central Party School in late November 2002,hetalked of cadres being “under the ﬁrm leadership of the Party center with Hu Jintao as general secretary,” a formulation that conspicuously denied Hu the designation of “core,” a term that had been used to signal Jiang Zemin’s paramount status.34 When the People’s Daily listed China’s leadership, it listed Jiang Zemin ﬁrst, ahead of Hu.35 And when Hu gave an inner-Party acceptance speech, he promised to “seek instruction and listen to the views of Jiang Zemin.”36 As the designated successor to a politician still very much alive, Hu Jintao needed to follow two contradictory imperatives: ﬁrst, he had to demonstrate loyalty, and second, he had to establish independent authority, a task that included promoting people loyal to him, building coalitions, and articulating his own political program.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160930T033832Z" creationid="andrea" creationdate="20160928T182854Z">
-        <seg>Cuando Zeng Qinhong habló en la Escuela Central del Partido a fines de Noviembre de 2002, habló de los cuadros que estaba “bajo el firme liderazgo  del centro del Partido con Hu Jiantao como secretario general”, una afirmación que visiblemente le negaba a Hu la designación de “núcleo”, un término que había sido usado para señalar el estado de mayor importancia de Jiang Zemin. Cuando el diario People´s Daily  publicó una lista del liderazgo de China, pusieron a Jiang Zemin primero, por delante de Hu. Y cuando Hu ofreció su discurso de aceptación interna del partido, prometió “procurar instrucción y escuchar las opiniones de Jiang Zemin”. 36 Como el sucesor designado para un político con aún mucha fuerza. Hu Jintao necesitaba seguir dos imperativos contradictorios: primero, tenía que demostrar lealtad, y segundo, tenía que establecer autoridad independiente, una tarea que incluía promover a las personas leales a él, construyendo alianzas, y articulando su propio programa político.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T034452Z" creationid="andrea" creationdate="20160928T182854Z">
+        <seg>Cuando Zeng Qinhong habló en la Escuela Central del Partido a fines de Noviembre de 2002, habló de los cuadros que estaban “bajo el firme liderazgo del centro del partido con Hu Jiantao como secretario general”, una afirmación que visiblemente le negaba a Hu la designación de “núcleo”, un término que había sido usado para señalar el estado de mayor importancia de Jiang Zemin. Cuando el diario People´s Daily  publicó una lista del liderazgo de China, pusieron a Jiang Zemin primero, por delante de Hu. Cuando Hu ofreció su discurso de aceptación interna del partido, prometió “procurar instrucción y escuchar las opiniones de Jiang Zemin”. 36 Como el sucesor designado para un político con aún mucha fuerza. Hu Jintao necesitaba seguir dos imperativos contradictorios: primero, tenía que demostrar lealtad, y segundo, tenía que establecer autoridad independiente, una tarea que incluía promover a las personas leales a él, construyendo alianzas, y articulando su propio programa político.</seg>
       </tuv>
     </tu>
     <tu>
