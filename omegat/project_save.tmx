@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5966,8 +5966,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But before celebrating the apparent stability of the political system, it is important to keep in mind the very deep debates of recent years - debates that seem likely to continue into the future - and the risks that could develop if stability develops into stasis.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145403Z">
-        <seg>Pero antes de celebrar la aparente estabilidad del sistema político, es importante tener en cuenta los profundos debates de los últimos años (debates que probablemente continuarán en el futuro) y los conflictos que se podrían desarrollar si la estabilidad se paralizara. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T211115Z">
+        <seg>Pero antes de celebrar la aparente estabilidad del sistema político, es importante tener en cuenta los profundos debates de los últimos años (debates que probablemente continuarán en el futuro) y los conflictos que se podrían desarrollar si la estabilidad se viera interrumpida. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17718,8 +17718,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Particu- larly intriguing in this regard was his support for the "practice in which candidates for leading positions in grassroots party organizations are rec- ommended by both Party members and the public in an open manner and by the Party organization at the next highest level" and to "gradually extend direct election [zhijie xuanju] of leading members in grass-roots party orga- nizations to more places."&lt;t0/&gt; Although the text makes clear that Hu's reference to "direct election" was limited to inner-Party elections of grassroots leaders, his use of the term "public" (qunzhong, literally, the masses) in reference to recommending local leaders appears to give the green light to local experiments in which non-Party members of the public have played some role in selecting local Party leaders.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T171554Z">
-        <seg>Lo particularmente intrigante de este aspecto fue su apoyo a la "práctica en la que los candidatos a cargos directivos en organizaciones partidarias de su propia base política son recomendados tanto por miembros del partido como por el público de forma abierta, y luego por la organización del partido en la siguiente instancia" y su apoyo a "la gradual extensión de la elección directa [zhijie xuanjiu] de los miembros destacados en organizaciones partidarias de basecon el fin de ocupar otros cargos". Aunque el texto deja bien claro que la referencia que Hu hace a la "elección directa" solo se limitaba a las elecciones intrapartidarias de los líderes de base, el uso que hace del término "publico" (qunzhong, literalmente, las masas) que se refiere a la recomendación de los líderes locales, parece haber tenido éxito en los experimentos locales, en los cuales los miembros del público no pertenecientes al partido tuvieron cierta participación en la seleccion de los líderes locales. &lt;t0/&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T210640Z">
+        <seg>Lo particularmente intrigante de este aspecto fue su apoyo a la "práctica en la que los candidatos a cargos directivos en organizaciones partidarias de su propia base política son recomendados tanto por miembros del partido como por el público de forma abierta, y luego por la organización del partido en la siguiente instancia" y su apoyo a "la gradual extensión de la elección directa [zhijie xuanjiu] de los miembros destacados en organizaciones partidarias de base con el fin de ocupar otros cargos". Aunque el escrito deja bien claro que la referencia que Hu hace a la "elección directa" solo se limitaba a las elecciones intrapartidarias de los líderes de base, el uso que hace del término "publico" (qunzhong, literalmente, las masas) que se refiere a la recomendación de los líderes locales, parece haber tenido éxito en los experimentos locales, en los cuales los miembros del público no pertenecientes al partido tuvieron cierta participación en la selección de los líderes locales. &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17830,8 +17830,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Perhaps the subtext of the Party conclave, however, is that Hu must pursue these goals within the context of recognizing the different interests that exist within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T173115Z">
-        <seg>Quizás el trasfondo del cónclave del partido sea, en realidad, el hecho de que Hu debe alcanzar estos objetivos un marco en que se reconocen los diferentes intereses que existen dentro del partido. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T210919Z">
+        <seg>Quizás el trasfondo del cónclave del partido sea, en realidad, el hecho de que Hu debe alcanzar estos objetivos un marco en que se reconozcan los diferentes intereses que existen dentro del partido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19657,8 +19657,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Such experiments have been highly con- troversial, and while this statement falls far short of what many outside observers would like, it nevertheless represents an important affirmation of inner-Party reform thinking.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T172206Z">
-        <seg>Tales experimentos han generado bastante controversia, y aún cuando esta declaración no cumple con las expectativas de muchos observadores ajenos al partido, significa una importante ratificación del pensamiento reformista intrapartidario. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T210727Z">
+        <seg>Tales experimentos han generado bastante controversia, y aun cuando esta declaración no cumple con las expectativas de muchos observadores ajenos al partido, significa una importante ratificación del pensamiento reformista intrapartidario. </seg>
       </tuv>
     </tu>
     <tu>
