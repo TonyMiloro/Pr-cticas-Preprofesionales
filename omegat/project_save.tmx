@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20183,8 +20183,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The growing sense of popular nationalism reflected in the publication of</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T212416Z">
-        <seg>El sentimiento cada vez mayor del nacionalismo popular reflejado en la publicación del </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T154116Z">
+        <seg>El sentimiento creciente del nacionalismo popular reflejado en la publicación del </seg>
       </tuv>
     </tu>
     <tu>
