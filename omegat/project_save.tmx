@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2666,8 +2666,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s11/&gt;His &lt;s12/&gt;ability &lt;s13/&gt;to resume &lt;s14/&gt;his &lt;s15/&gt;career &lt;s16/&gt;in &lt;s17/&gt;1971 &lt;s18/&gt;re&lt;/f1&gt;&lt;/f0&gt;ﬂ&lt;f19&gt;&lt;f20&gt;ects &lt;s21/&gt;both &lt;s22/&gt;his &lt;s23/&gt;junior &lt;s24/&gt;status &lt;s25/&gt;and &lt;s26/&gt;his &lt;s27/&gt;technical credentials.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011454Z">
-        <seg>La habilidad de continuar con su carrera en 1971 refleja tanto su estado juvenil como sus credenciales técnicas. </seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T213654Z">
+        <seg>La habilidad de continuar con su carrera en 1971 refleja tanto su estado juvenil como sus credenciales técnicas. &lt;s11/&gt;&lt;s12/&gt;&lt;s13/&gt;&lt;s14/&gt;&lt;s15/&gt;&lt;s16/&gt;&lt;s17/&gt;&lt;s18/&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f19&gt;&lt;f20&gt;&lt;s21/&gt;&lt;s22/&gt;&lt;s23/&gt;&lt;s24/&gt;&lt;s25/&gt;&lt;s26/&gt;&lt;s27/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10531,8 +10531,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, Jiang emerged looking both decisive in opposing “&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;bourgeois&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;liberalization&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;” and capable in handling the local situation; unlike Beijing, Shanghai was under control.&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T210824Z" creationid="USER" creationdate="20160930T185822Z">
-        <seg>De todas formas, Jiang apareció decidido al oponerse a la “&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;liberación&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt; &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;burguesa&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T213531Z" creationid="USER" creationdate="20160930T185822Z">
+        <seg>De todas formas, Jiang apareció decidido al oponerse a la “liberación &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;burguesa&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;&lt;/f41&gt;&lt;/f40&gt;” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11315,7 +11315,7 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1982, Jiang was appointed &lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;rst &lt;s5/&gt;vice-minister &lt;s6/&gt;of &lt;s7/&gt;the &lt;s8/&gt;newly &lt;s9/&gt;established &lt;s10/&gt;Ministry &lt;s11/&gt;of &lt;s12/&gt;the &lt;s13/&gt;Electronics Industry &lt;s14/&gt;and &lt;s15/&gt;was &lt;s16/&gt;selected &lt;s17/&gt;as &lt;s18/&gt;a &lt;s19/&gt;member &lt;s20/&gt;of &lt;s21/&gt;the &lt;s22/&gt;CCP &lt;s23/&gt;Central &lt;s24/&gt;Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T213106Z">
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T213712Z">
         <seg>En 1982, Jiang fue nombrado&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt; primer&lt;f3&gt;&lt;f4&gt; viceministro &lt;s5/&gt; del&lt;s6/&gt; Ministerio &lt;s7/&gt;de&lt;s8/&gt; Industria Electrónica, &lt;s9/&gt;recién&lt;s10/&gt; establecido&lt;s11/&gt;, y fue&lt;s12/&gt; seleccionado&lt;s13/&gt; como&lt;s14/&gt; miembro&lt;s15/&gt; del&lt;s16/&gt; Comité&lt;s17/&gt; Central&lt;s18/&gt; del&lt;s19/&gt; PCCh.&lt;s20/&gt;&lt;s21/&gt;&lt;s22/&gt;&lt;s23/&gt;&lt;s24/&gt;</seg>
       </tuv>
     </tu>
