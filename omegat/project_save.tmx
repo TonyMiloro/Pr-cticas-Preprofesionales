@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14714,8 +14714,8 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang’s report, then, was a highly authoritative response to the 10,000 character manifestos and other expressions of leftist discontent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T223728Z" creationid="LENOVO" creationdate="20160919T223728Z">
-        <seg>El reporte de Jiang fue una respuesta muy influyente a los Manifiestos de 10000 caracteres y a otras expresiones de descontento en la Izquierda.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T020807Z" creationid="LENOVO" creationdate="20160919T223728Z">
+        <seg>El reporte de Jiang fue una respuesta muy influyente a los Manifiestos de 10 000 caracteres y a otras expresiones de descontento en la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
