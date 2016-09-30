@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12646,6 +12646,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160927T030922Z">
         <seg>En terminos de estratégia política, claramente Deng intentó relajar el ambiente político respondiendo a los enojos populares que subyacían a las demostraciones de Tiananment, minimizando las tensiones ideológicas y aliviando las tensiones internacionales en la mayor medida posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that decade, those who viewed themselves as reformers generally argued that it was necessary to break down the “overconcentration” of power in the central government on the grounds that the government stifled the development of market forces.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T023831Z" creationid="Sofi" creationdate="20160930T023831Z">
+        <seg>En esa década, aquellos que se veían como reformadores generalmente sostenían que era necesario evitar la "sobreconcentración" de poder en el gobierno central, ya que el gobierno reprimía el desarrollo de las fuerzas del mercado.</seg>
       </tuv>
     </tu>
     <tu>
