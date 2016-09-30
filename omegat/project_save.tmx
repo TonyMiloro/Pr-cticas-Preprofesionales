@@ -1217,8 +1217,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;s1/&gt;Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160930T050126Z" creationid="Rocio" creationdate="20160928T044644Z">
-        <seg>&lt;f0&gt;&lt;s1/&gt;&lt;t1/&gt;ibid.,p.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055341Z" creationid="Rocio" creationdate="20160928T044644Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28638,6 +28638,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160927T221924Z" creationid="Franco" creationdate="20160927T221924Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>i&lt;/f0&gt;&lt;f2&gt;39&lt;/f2&gt;&lt;f3&gt;.&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;44&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Ibid., p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055355Z" creationid="Franco" creationdate="20160930T055355Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
