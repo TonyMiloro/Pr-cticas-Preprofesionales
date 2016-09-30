@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2600,6 +2600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;There is little question that Deng’s prestige plummeted in the wake of Tiananmen.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T185607Z" creationid="rona" creationdate="20160930T185607Z">
+        <seg>&lt;s0/&gt;Casi sin duda, el prestigio de Deng se desplomó después de Tiananmén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;Advancing institutionalization would redound to Hu’s personal beneﬁt.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T012440Z" creationid="Ana Maria" creationdate="20160929T012440Z">
@@ -2628,6 +2636,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011136Z">
         <seg>Al año siguiente, cuando volvió a China, se lo envió a la Fábrica Automotriz número 1 Changchun donde pasó los siguientes seis años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;Mao developed his core position in the Party by leading it through the most traumatic phase of its history, bringing the Party back from the debacle in Jiangxi to become a vigorous and growing movement in the heady days of Yan’an and the Sino–Japanese War.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190058Z" creationid="rona" creationdate="20160930T190058Z">
+        <seg>&lt;s2/&gt;Mao construyó su posición fundamental en el partido al dirigirlo durante la etapa más traumática de su historia; rescató al partido de la debacle en Jiangxi y lo convirtió en un movimiento vigoroso y creciente durante el periodo decisivo en Yan'an y la guerra Sino-japonesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3996,8 +4012,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although vague, the term “core” suggests a leader who occupies the center of a wide-ranging web of formal and informal relations that confer an authority not easily displaced.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T023836Z">
-        <seg>Aunque sea algo vago, la palabra "cabeza" se refiere a un dirigente que ocupa el rol central en una red extensa de relaciones formales e informales que confiere una autoridad difícil de reemplazar.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T185923Z">
+        <seg>Aunque sea algo imprecisa, la palabra "cabeza" se refiere a un dirigente que ocupa el rol central en una red extensa de relaciones formales e informales que confiere una autoridad difícil de reemplazar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15068,8 +15084,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Mao’s immediate successor, Hua Guofeng, never attained core status because he lacked the range of experience and connections essential to that position.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160907T025801Z">
-        <seg>El sucesor inmediato de Mao, Hua Guofeng, nunca alzanzó estatus central porque le faltaba experiencia y las conecciones necesarias para esta posición.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190136Z">
+        <seg>El sucesor inmediato de Mao, Hua Guofeng, nunca alzanzó estatus central porque le faltaba experiencia y las conexiones necesarias para esta posición.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21941,6 +21957,14 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T222453Z">
         <seg>El término la nueva izquierda es el que identifica los aspectos de la postura intelectual de este grupo, pero como la mayoría de las etiquetas tiene también un valor controvertido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The term “core” was added to China’s political vocabulary by Deng himself, but it clearly reﬂects a &lt;t1/&gt;phenomenon that has characterized CCP politics at least since Mao and one that certainly has roots deep in China’s history.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T185837Z" creationid="rona" creationdate="20160930T185837Z">
+        <seg>El mismo Deng introdujo la palabra "cabeza" en el vocabulario político de China &lt;t1/&gt;, pero claramente reflejaun fenómeno que ha caracterizado la política PCChpor lo menos desde Mao, y que, con certeza, tiene raíces profundas en la historia de China .</seg>
       </tuv>
     </tu>
     <tu>
