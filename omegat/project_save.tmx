@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4894,6 +4894,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015814Z">
         <seg>Hasta 1996, Jiang había entablado contactos con la izquierda a partir de la declaración antes citada que realizó en el Sexto Pleno y que aseguraba: “No se sacrificará la cultura espiritual en aras de la cultura material”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As might be expected, the explanation of the proposal that Li Peng gave to the plenum split the differences among interests and presented a program that was as acceptable as it was vague.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T043238Z" creationid="Usuario" creationdate="20160930T043238Z">
+        <seg>Como se pudo esperar, la explicación de la propuesta que Li Peng le dió al pleno dividió las diferencias entre intereses y presentó un programa que fue tan aceptable como confuso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22853,6 +22861,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T004341Z">
         <seg>El problema es que bajo el auspicio del neoconservadurismo, en el cual ni la prensa ni un electorado popular podían controlar la implementación de la reforma, crecieron intereses poderosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The problem of the Jiang Zemin era, as the discussions on neostatism showed, was finding a way that combines centralization and decentralization – or, more precisely, building viable institutions without stifling economic growth.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T043142Z" creationid="Usuario" creationdate="20160930T043142Z">
+        <seg>El problema de la era de Jiang Zemin, como mostraron las discusiones sobre neoestatismo, fue encontrar una forma que combinara la centralización y la descentralización o, más precisamente, construir instituciones viables sin crecimiento económico agobiante. </seg>
       </tuv>
     </tu>
     <tu>
