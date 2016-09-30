@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21410,8 +21410,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The revisions to the Party constitution were the most extensive in the reform era and incorporated Hu's scientific development concept, calling it "a major strategic thought that must be upheld and applied in developing socialism with Chinese characteristics." Given how long it took to incorporate Deng Xiaoping's "theory' into the constitution and Jiang Zemin's "Three Represents," this rapid enshrinement of Hu Jintao's scientific development concept and demand to build a harmonious society marks a major achievement and suggests that Hu will be able to put an even greater stamp on the Chinese political system over the next five years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Las revisiones a la constitución del partido en la era de la reforma fueron las más amplias e incluyeron el concepto de desarrollo científico de Hu que se conoce como "un gran pensamiento estratégico que debe ser sostenido y aplicado para el desarrollo del socialismo chino". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping a la constitución y el concepto de la "Triple Representatividad" de Jiang Zemin, el rápido éxito del concepto de desarrollo científico de Hu Jintao y la necesidad de construir una sociedad en armonía, marca un gran logro e implica que Hu podrá seguir influyendo con mayor fuerza sistema político chino durante los próximos cinco años.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T163142Z">
+        <seg>Las revisiones a la constitución del partido en la era de la reforma fueron las más amplias e incluyeron el concepto de desarrollo científico de Hu que se conoce como "un gran pensamiento estratégico que debe ser sostenido y aplicado para el desarrollo del socialismo chino". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping a la constitución y el concepto de la "Triple Representatividad" de Jiang Zemin, el rápido éxito que tuvo del concepto de desarrollo científico de Hu Jintao y la necesidad de construir una sociedad en armonía, marca un gran logro e implica que Hu podrá seguir influyendo con mayor fuerza sistema político chino durante los próximos cinco años.</seg>
       </tuv>
     </tu>
     <tu>
