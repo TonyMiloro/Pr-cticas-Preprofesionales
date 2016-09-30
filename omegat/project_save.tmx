@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25631,6 +25631,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160923T124501Z">
         <seg>Wang coincidió con Nye en que, con el final de la Guerra Fría, la importancia del "poder duro" disminuyó mientras que la del "poder blando" aumentó, pero esto no hizo del mundo un lugar menos amenazante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang and Hu argued that the relative decline in central state revenues was fundamentally due to the fiscal reforms introduced in the 1980s, reforms that gave localities incentives to build up their local economies but not necessarily to pass on increased revenue to the central government.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T015943Z" creationid="Sofi" creationdate="20160930T015943Z">
+        <seg>Wang y Hu argumentaron que la disminución relativa de los ingresos del Estado central se debió principalmente a las reformas fiscales introducidas en la década de los 80. Estas reformas le dieron incentivos a las localidades para mejorar su economía local pero no necesariamente para transferir al gobierno central el aumento de los ingresos.</seg>
       </tuv>
     </tu>
     <tu>
