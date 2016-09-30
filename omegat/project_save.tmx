@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5677,8 +5677,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But, when Deng had retired from the PBSC in 1987,hehad the Party constitution rewritten so that the head of the CMC would not have to be a member of thePBSC,thuspavingthewayforDengtoretaincontroloverthemilitary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T181546Z" creationid="andrea" creationdate="20160928T181546Z">
-        <seg>Pero cuando Deng se había retirado de la PBSC en 1987, había reescrito la constitución del Partido para que el líder del CMC no tuviera que ser un miembro del PBSC, de esta forma abriéndole camino a Deng para mantener el control sobre el ejército.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T131412Z" creationid="andrea" creationdate="20160928T181546Z">
+        <seg>Pero cuando Deng se había retirado del PBSC en 1987, había reescrito la constitución del Partido para que el líder del CMC no tuviera que ser un miembro del PBSC, de esta forma abriéndole camino a Deng para mantener el control sobre el ejército.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22942,8 +22942,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Traditionally, the highest leader in China has been the person who linked the PLA and the Party by concurrently holding the highest position in both systems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160930T130452Z" creationid="andrea" creationdate="20160928T181502Z">
-        <seg>Tradicionalmente, el líder supremo de China ha sido la persona que unía a la EPL y al partido manteniendo la posición más alta en los dos sistemas al mismo tiempo. </seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T131144Z" creationid="andrea" creationdate="20160928T181502Z">
+        <seg>Tradicionalmente, el líder supremo de China ha sido la persona que unía a la EPL y al partido al ocupar el cargo más alto en los dos sistemas de forma simultanea. </seg>
       </tuv>
     </tu>
     <tu>
