@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1209,8 +1209,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;“Mass disturbances” numbered some 58,000 in 2003, and would rise to 74,000 in 2004 and 87,000 in 2005.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T155923Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;En 2003, los “disturbios en masa” alcanzaron 58 000, y se esperaba que este número llegara, en 2004, a 74 000, y en 2005, a 87 000.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T160226Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;En 2003, la cantidad de “disturbios en masa” fue de 58 000, y se esperaba que este número llegara, en 2004, a 74 000, y en 2005, a 87 000.</seg>
       </tuv>
     </tu>
     <tu>
