@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1704,6 +1704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hu Angang and Wang Shaoguang opposed the negotiated relationship between the central&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;government and the provinces (devolving authority and establishing fiscal contracts) because it had led, in their opinion, to the creation of privileged enclaves and vested interests with special privileges.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195234Z" creationid="Magui" creationdate="20160930T195234Z">
+        <seg>&lt;f0&gt;Hu Angang y Wang Shaoguang estaban en contra de la relación que se había negociado entre el gobierno central y las provincias (que transfería la autoridad y establecía contratos fiscales) porque había desencadenado, en su opinión, que se creen enclaves privilegiados e intereses con privilegios especiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hu Angang disagreed with this assessment and regarded growing regional inequalities as one of China’s most important problems.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160920T152601Z">
@@ -1724,6 +1732,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T164417Z">
         <seg>&lt;f0&gt;Las críticas de Hu y Wang acerca de "delegar la autoridad y otorgar beneficios" y sobre las desigualdades regionales tenían, sin dudas, la intención de criticar el programa de reforma de Deng Xiaoping. En este sentido, sus opiniones fueron claramente parte de la reflexión intelectual más amplia sobre las "fallas" de la década de los 80 y en particular de los 90.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hu and Wang’s criticisms of “devolving authority and granting benefits” and of regional&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;inequalities were clearly intended as critiques of the Deng Xiaoping reform program, and in this sense their views were clearly a part of the broader intellectual reflection on the “failings” of the 1980s and particularly of the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200000Z" creationid="Magui" creationdate="20160930T200000Z">
+        <seg>&lt;f0&gt;Las críticas de Hu y Wang acerca de la estrategia "transferencia de autoridad y entrega de beneficios" y sobre las desigualdades regionales tenían, sin dudas, la intención de criticar el programa de reforma de Deng Xiaoping. En este sentido, sus opiniones fueron claramente parte de la reflexión intelectual más amplia sobre las "fallas" de la década de los 80 y en particular de los 90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2476,6 +2492,22 @@
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T165331Z">
         <seg>&lt;f0&gt;de 1993) de reformar el sistema tributario.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Desde luego, la atención constante que le dedicaron Hu y Wang&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;a los problemas de desigualdad regional e inestabilidad política ha influido, de un modo similar, en la disposición del gobierno de abordar dichas problemáticas, como en la reciente decisión de desarrollar el oeste.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;of 1993) to revamp the tax system.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Certainly the constant attention Hu and Wang have&lt;s4/&gt;&lt;/f2&gt;&lt;f5&gt;drawn thttps://github.com/TonyMiloro/Pr-cticas-Preprofesionaleso the problems of regional inequality and political instability have similarly influenced the government’s willingness to address such issues, most recently in the decision to develop the west.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200411Z" creationid="Magui" creationdate="20160930T200411Z">
+        <seg>&lt;f0&gt;de 1993) de reformar el sistema tributario&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;.&lt;s3/&gt;Desde luego, la atención constante que le dedicaron Hu y Wang a los problemas de desigualdad regional e inestabilidad política ha influido, de un modo similar, en la disposición del gobierno de abordar dichas problemáticas, como en la reciente decisión de desarrollar el oeste.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;policy on regional differences was more palpable: the 1994 NPC meeting drew considerable attention to regional inequalities, Jiang Zemin explic-itly called for redu&lt;/f0&gt;&lt;f1&gt;cing regional gaps in his speech to the Fifth Plenum in September 1995, and in 2000 the development of western China was made a major theme of the NPC meeting.&lt;/f1&gt;&lt;f2&gt;23&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195908Z" creationid="Magui" creationdate="20160930T195908Z">
+        <seg>&lt;f0&gt;oficiales referidas a las diferencias regionales fue más evidente: la reunión de la APN en 1994 le dedicó bastante atención a las desigualdades regionales; Jiang Zemin pidió explícitamente reducir las brechas regionales en su discurso durante el quinto pleno en septiembre de 1995; y en el año 2000, el desarrollo de la China occidental se volvió un tema principal de la reunión de la APN&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3306,6 +3338,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>According to Hu, no local authorities should have the right to reduce or waive central tax levies or to enjoy any extralegal, extrasystemic economic privileges.&lt;/f13&gt;&lt;f14&gt;&lt;s15/&gt;He also expounded his views in a lecture to provincial governors at the Central Party School in June.&lt;/f14&gt;&lt;f16&gt;19&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195547Z" creationid="Magui" creationdate="20160930T195547Z">
+        <seg>Según Hu, ninguna autoridad local debería tener derecho a reducir o eliminar la colecta central de impuestos, o a gozar de cualquier tipo de privilegio legal o económico extra. También expuso su postura en una conferencia para gobernadores en la Escuela Central del Partido Comunista en junio&lt;/f14&gt;&lt;f16&gt;19&lt;/f16&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>According to many reports, Jiang Zemin himself approved of Chen’s removal, but Jiang was under tremendous pressure, including apparently investigations into the financial activities of his own son, Jiang Mianhong.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160928T214005Z">
@@ -3725,6 +3765,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
         <seg>Although influence is a notoriously difficult force to measure, there is reason to believe that their advocacy of tax reform played an important role in the reform of 1994.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160925T175748Z">
+        <seg>Si bien la influencia es una fuerza obviamente difícil de medir, hay motivos para creer que su adhesión a la reforma tributaria tuvo un papel importante en la reforma de 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although influence is a notoriously difficult force to measure, there is&lt;s0/&gt;reason to believe that their advocacy of tax reform played an important role in the reform of 1994.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200051Z" creationid="Magui" creationdate="20160930T200051Z">
         <seg>Si bien la influencia es una fuerza obviamente difícil de medir, hay motivos para creer que su adhesión a la reforma tributaria tuvo un papel importante en la reforma de 1994.</seg>
       </tuv>
     </tu>
@@ -4956,8 +5004,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As they put it, “reform does not necessarily mean weaken-ing state capacity, and a ma&lt;/f3&gt;&lt;f5&gt;rket economy does not necessarily connote the elimination of state intervention; modernization certainly does not need a weak central government.”&lt;/f5&gt;&lt;f6&gt;10&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;In making this case, Hu and Wang drew on the tradition in American political science that argues that “stro&lt;/f7&gt;&lt;f9&gt;ng states” are important in establishing stable societies and bringing about rapid eco-nomic development.&lt;/f9&gt;&lt;f10&gt;11&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170505Z" creationid="Magui" creationdate="20160930T170505Z">
-        <seg>Ellos decían: "Reformar no necesariamente significa debilitar la capacidad del Estado y una economía de mercado no necesariamente significa la eliminación de la intervención del Estado; la modernización definitivamente no necesita un gobierno central débil".&lt;/f5&gt;&lt;f6&gt;10&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Para defender su postura, Hu y Wang recurrieron a la ciencia política estadounidense que establece que los "Estados fuertes" son importantes para establecer sociedades firmes y generar un desarrollo económico rápido.&lt;/f9&gt;&lt;f10&gt;11&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T194821Z" creationid="Magui" creationdate="20160930T170505Z">
+        <seg>Ellos decían: "Reformar no necesariamente significa debilitar la capacidad del Estado y una economía de mercado no necesariamente significa la eliminación de la intervención del Estado; la modernización definitivamente no necesita un gobierno central débil"&lt;/f5&gt;&lt;f6&gt;10&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;.Para defender su postura, Hu y Wang recurrieron a la ciencia política estadounidense que establece que los "Estados fuertes" son importantes para establecer sociedades firmes y generar un desarrollo económico rápido&lt;/f9&gt;&lt;f10&gt;11&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5389,8 +5437,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At the same time, the number of&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;rural workers seeking employment in coastal cities grew significantly, drawing increased attention as rail lines were clogged (particularly around the lunar new year), shanty towns grew up, and crime rates increased.&lt;/f4&gt;&lt;f5&gt;13&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Nevertheless, when Deng Xiaoping visi&lt;/f6&gt;&lt;f8&gt;ted Shenzhen in 1992, he argued that the problem of regional differences need not be addressed too quickly: “Of course, it will not do to adopt this method [of the developed regions supporting the interior] too early.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160930T191942Z" creationid="Magui" creationdate="20160930T191942Z">
-        <seg>Al mismo tiempo aumentaba significativamente la cantidad de trabajadores rurales que buscaban trabajo en ciudades costeras, lo que llamó la atención ya que se obstruían las vías del tren (especialmente durante el año nuevo lunar), crecían las villas de emergencia y aumentaban las tasas de delincuencia.&lt;/f4&gt;&lt;f5&gt;13&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Sin embargo, cuando Deng Xiaoping visitó Shenzhen en 1992, argumentó que el problema de las diferencias regionales no necesitaba ser tratado con tanta urgencia: "Por supuesto, no será una solución adoptar este método (de las regiones desarrolladas que apoyan al interior) demasiado temprano.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T194915Z" creationid="Magui" creationdate="20160930T191942Z">
+        <seg>Al mismo tiempo aumentaba significativamente la cantidad de trabajadores rurales que buscaban trabajo en ciudades costeras, lo que llamó la atención ya que se obstruían las vías del tren (especialmente durante el año nuevo lunar), crecían las villas de emergencia y aumentaban las tasas de delincuencia&lt;/f4&gt;&lt;f5&gt;13&lt;/f5&gt;&lt;f6&gt;.&lt;s7/&gt;Sin embargo, cuando Deng Xiaoping visitó Shenzhen en 1992, argumentó que el problema de las diferencias regionales no necesitaba ser tratado con tanta urgencia: "Por supuesto, no será una solución adoptar este método (de las regiones desarrolladas que apoyan al interior) demasiado temprano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6765,8 +6813,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>China could not simply follow the Western model of allowing some pe&lt;/f8&gt;&lt;f9&gt;ople to become very affluent.&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;Fortunately for Hu, the book was passed to Deng Nan, Deng Xiaoping’s daughter, who then passed it (or a summary) on to her father.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160930T154827Z" creationid="Magui" creationdate="20160930T154656Z">
-        <seg>El país no podía simplemente seguir el modelo occidental que le permitía a algunas personas volverse acaudaladas. Por suerte para Hu, el libro llegó a las manos de Deng Nan, la hija de Deng Xiaoping, quien luego le hizo llegar una versión probablemente resumida a su padre.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T194641Z" creationid="Magui" creationdate="20160930T154656Z">
+        <seg>El país no podía simplemente seguir el modelo occidental que le permitía a algunas personas volverse acaudaladas&lt;/f9&gt;2&lt;f10&gt;&lt;s11/&gt;.Por suerte para Hu, el libro llegó a las manos de Deng Nan, la hija de Deng Xiaoping, quien luego le hizo llegar una versión probablemente resumida a su padre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10384,6 +10432,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hu Angang raised this is&lt;/f3&gt;&lt;f4&gt;sue in an internal report in early 1994.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195310Z" creationid="Magui" creationdate="20160930T195310Z">
+        <seg>Hu Angang planteó este tema en un informe interno a principios de 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hu Angang raised this issue in an internal report in early 1994.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160919T224209Z">
@@ -12452,8 +12508,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the period of the Seventh Five-Year Plan (1986–90), central government revenues accounted for only 40 percent of all government revenues, and Wang and Hu estimated&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;that this figure would fall to only 34 percent by the year 2000.&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;In contrast, the comparable figure in France was 88 percent, in Brazil 84 percent, in India 69 percent, and in the United States – the lowest of all industrialized countries – it was still 5&lt;/f4&gt;&lt;f6&gt;9 percent.&lt;/f6&gt;&lt;f7&gt;6&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160930T160200Z" creationid="Magui" creationdate="20160930T160200Z">
-        <seg>Durante el período del Séptimo Plan Quinquenal (1986-90), los ingresos del gobierno central representaban el 40 % del total de los ingresos del gobierno y Wang y Hu estimaron que para el año 2000 esta cifra caería a solo el 34 %.&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;Por el contrario, la misma cifra en Francia era del 88 %, en Brasil del 84 %, en India del 69 % y en Estados Unidos todavía era del 59 %, la más baja de todos los países industrializados.&lt;/f6&gt;&lt;f7&gt;6&lt;/f7&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T194721Z" creationid="Magui" creationdate="20160930T160200Z">
+        <seg>Durante el período del Séptimo Plan Quinquenal (1986-90), los ingresos del gobierno central representaban el 40 % del total de los ingresos del gobierno y Wang y Hu estimaron que para el año 2000 esta cifra caería a solo el 34 %&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;.Por el contrario, la misma cifra en Francia era del 88 %, en Brasil del 84 %, en India del 69 % y en Estados Unidos todavía era del 59 %, la más baja de todos los países industrializados&lt;/f6&gt;&lt;f7&gt;6&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13353,6 +13409,14 @@ It is not fire proof.</seg>
         <seg>It is not that people in the government, particularly the Ministry of Finance, had not thought of implementing tax reform – indeed, Lou Jiwei was appointed vice-minister of finance largely to draft a reform of the tax system – but that Hu and Wang’s report on state capacity packaged the idea in a compelling fashion that helped persuade political elites outside the ministry to accept ideas they had previously rejected.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T170611Z">
+        <seg>Esto no significa que los miembros del gobierno, en particular el ministro de economía, no hayan pensado en implementar una reforma tributaria (de hecho, Lou Jiwei fue designado viceministro de economía en gran parte para hacer un borrador de dicha reforma), pero el informe sobre capacidad del Estado de Hu y Wang planteaba la idea de una manera tan convincente que ayudaba a persuadir a elites políticas por fuera del ministerio a aceptar las ideas que antes habían rechazado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not that people in the government, particularly the Ministry of Finance, had not thought of implementing tax reform – indeed, Lou Jiwei was appointed&lt;s1/&gt;vice-minister of finance largely to draft a reform of the tax system – but that Hu and Wang’s report on state capacity packaged the idea in a compelling fashion that helped persuade political elites outside the ministry to accept ideas they had previously&lt;s2/&gt;rejected.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200100Z" creationid="Magui" creationdate="20160930T200100Z">
         <seg>Esto no significa que los miembros del gobierno, en particular el ministro de economía, no hayan pensado en implementar una reforma tributaria (de hecho, Lou Jiwei fue designado viceministro de economía en gran parte para hacer un borrador de dicha reforma), pero el informe sobre capacidad del Estado de Hu y Wang planteaba la idea de una manera tan convincente que ayudaba a persuadir a elites políticas por fuera del ministerio a aceptar las ideas que antes habían rechazado.</seg>
       </tuv>
     </tu>
@@ -14850,6 +14914,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like other New Left&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;intellectuals, Hu and Wang focused on the problem of social fairness, which was both a moral and a political issue.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200006Z" creationid="Magui" creationdate="20160930T200006Z">
+        <seg>De la misma manera que lo hicieron otros intelectuales de la nueva izquierda, Hu y Wang se centraron en el problema de la equidad social, que era un tema tanto moral como político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like the term "New Left," the term &lt;t2/&gt;"liberal" should probably not be accepted uncritically, even though there &lt;t3/&gt;has been less controversy over its use within China - either by liberals or &lt;t4/&gt;their critics - than there has been of the term "New Left." Moreover, con- &lt;t5/&gt;temporary Chinese liberalism shares the broad outlines of classical Western &lt;t6/&gt;liberalism, though the Western tradition's complexity and diversity make direct comparisons difficult.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160928T100103Z">
@@ -15962,6 +16034,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nevertheless, Hu felt partial vindication when Zhu Rongji told Lee Hsien Loong (son of Singapore senior minis-ter Lee Kuan Yew and later prime minister) in October of that year that, although the basic policies would remain unchanged, “some readjustm&lt;/f24&gt;&lt;f25&gt;ent and improvement” was needed in specific measures.&lt;/f25&gt;&lt;f26&gt;22&lt;/f26&gt;&lt;f27&gt;&lt;s28/&gt;The change in official&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195844Z" creationid="Magui" creationdate="20160930T195826Z">
+        <seg>Sin embargo, Hu se sintió en parte reivindicado en octubre de ese año cuando Zhu Rongji le dijo a Lee Hsien Loong (hijo del entonces viceprimer ministro de Singapur Lee Kuan Yew y futuro primer ministro) que, aunque las políticas básicas permanecerían iguales, "algunos reajustes y mejoras" eran necesarios en medidas específicas&lt;/f25&gt;&lt;f26&gt;22&lt;/f26&gt;&lt;f27&gt;&lt;s28/&gt;.El cambio en las políticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nevertheless, Hu felt partial vindication when Zhu Rongji told Lee Hsien Loong (son of Singapore senior minis-ter Lee Kuan Yew and later prime minister) in October of that year that, although the basic policies would remain unchanged, “some readjustment and improvement” was needed in specific measures.&lt;/f19&gt;&lt;f21&gt;22&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;The change in official&lt;/f22&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T164305Z">
@@ -16356,8 +16436,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Now, we cannot weaken the vitality of&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;the developed regions, and we cannot encourage ‘eating from the common pot’.”&lt;/f10&gt;&lt;f11&gt;14&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160930T192020Z" creationid="Magui" creationdate="20160930T192020Z">
-        <seg>Aún así, no podemos debilitar la vitalidad de las regiones desarrolladas y no podemos alentar a 'que se coma de la misma olla'".&lt;/f10&gt;&lt;f11&gt;14&lt;/f11&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T194929Z" creationid="Magui" creationdate="20160930T192020Z">
+        <seg>Aún así, no podemos debilitar la vitalidad de las regiones desarrolladas y no podemos alentar a 'que se coma de la misma olla'"&lt;/f10&gt;&lt;f11&gt;14&lt;/f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18917,6 +18997,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Social fairness was a moral issue in the general sense that reforms creating winners and losers also created a moral obligation to help thos&lt;/f4&gt;&lt;f5&gt;e who lost from reform – as well as in the specific sense that growing income inequalities undermined the egalitarian commitments that underlay much of the Communist Party’s claim to legitimacy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200018Z" creationid="Magui" creationdate="20160930T200018Z">
+        <seg>En general, era un problema moral porque las reformas que crearon ganadores y perdedores también crearon la obligación moral de ayudar a los que salieron perdiendo con la reforma; y en particular, porque las desigualdades salariales crecientes socavaron las responsabilidades igualitarias que sustentaban gran parte del derecho a la legitimidad del Partido Comunista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Social fairness was a moral issue in the general sense that reforms creating winners and losers also created a moral obligation to help those who lost from reform – as well as in the specific sense that growing income inequalities undermined the egalitarian commitments that underlay much of the Communist Party’s claim to legitimacy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T164524Z">
@@ -21021,6 +21109,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The government had an indispensable role to play.&lt;/f11&gt;&lt;f12&gt;17&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;A state could take effective action only if it had both a strong desire to address regional inequalities and a strong capacity to do so.&lt;/f13&gt;&lt;f15&gt;18&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;Thus,&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;their research on regional inequalities reinforced their conclusions in the report on state capacity – namely, that the fiscal strength of the state needed to be increased and the&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195047Z" creationid="Magui" creationdate="20160930T195047Z">
+        <seg>El gobierno tenía que desempeñar un papel indispensable&lt;/f11&gt;&lt;f12&gt;17&lt;/f12&gt;&lt;f13&gt;.&lt;s14/&gt;Un Estado podía actuar de manera efectiva solo si contaba con un gran deseo de abordar las desigualdades regionales y, al mismo tiempo, con una gran capacidad para llevarlo a cabo&lt;/f13&gt;&lt;f15&gt;18&lt;/f15&gt;&lt;f16&gt;.&lt;s17/&gt;Por lo tanto, la investigación sobre desigualdades regionales reforzó las conclusiones de su informe sobre capacidad del Estado (concretamente, que la fuerza fiscal del Estado debía aumentar y la&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The government had an indispensable role to play.&lt;/f5&gt;&lt;f7&gt;17&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;A state could take effective action only if it had both a strong desire to address regional inequalities and a strong capacity to do so.&lt;/f8&gt;&lt;f10&gt;18&lt;/f10&gt;&lt;f11&gt;&lt;s12/&gt;Thus, their research on regional inequalities reinforced their conclusions in the report on state capacity – namely, that the fiscal strength of the state needed to be increased and the&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T162539Z">
@@ -21784,6 +21880,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The report was subsequently reprinted in the Central Policy Research Office’s publication&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;Internal Information&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;(&lt;/f15&gt;&lt;f17&gt;Neibu xinxi&lt;/f17&gt;&lt;f18&gt;), which is directed at the top leadership, and then, in a longer version, in the&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;People’s Daily&lt;/f20&gt;&lt;f21&gt;’s internal&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;pub-lication,&lt;s24/&gt;&lt;/f22&gt;&lt;f25&gt;Internal Reference Reading&lt;/f25&gt;&lt;f26&gt;&lt;s27/&gt;(&lt;/f26&gt;&lt;f28&gt;Neibu canyue&lt;/f28&gt;&lt;f29&gt;), which has a much wider circulation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200313Z" creationid="Magui" creationdate="20160930T200313Z">
+        <seg>Luego, el informe fue reimpreso en la publicación de la Oficina de Investigación de Políticas del Comité Central,&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;Internal Information&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;(&lt;/f15&gt;&lt;f17&gt;Neibu xinxi&lt;/f17&gt;&lt;f18&gt;), dirigida a los máximos líderes, y más tarde fue publicado en una versión más larga en la publicación interna de&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;People’s Daily&lt;/f20&gt;&lt;f21&gt;,&lt;s24/&gt;&lt;/f22&gt;&lt;f25&gt;Internal Reference Reading&lt;/f25&gt;&lt;f26&gt;&lt;s27/&gt;(&lt;/f26&gt;&lt;f28&gt;Neibu canyue&lt;/f28&gt;&lt;f29&gt;), que cuenta con una difusión mucho más amplia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result might well have been a stronger, more nationalistic Soviet Union on China’s northern border.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020326Z">
@@ -21818,8 +21922,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The result was a “weak center and strong localities”;&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;the relationship between&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;center and localities had become one of “negotiation and bargaining between equals.”&lt;/f4&gt;&lt;f6&gt;8&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;The consequences of such a situation were said to be quite severe.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160930T160611Z" creationid="Magui" creationdate="20160930T160611Z">
-        <seg>El resultado fue un "centro débil y localidades fuertes";&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;la relación entre el centro y las localidades se había convertido en una relación de "negociaciones y regateos entre iguales"&lt;/f4&gt;&lt;f6&gt;8&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Se dijo que las consecuencias de dicha situación fueron bastante severas.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T194747Z" creationid="Magui" creationdate="20160930T160611Z">
+        <seg>El resultado fue un "centro débil y localidades fuertes"&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;;la relación entre el centro y las localidades se había convertido en una relación de "negociaciones y regateos entre iguales"&lt;/f4&gt;&lt;f6&gt;8&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;.Se dijo que las consecuencias de dicha situación fueron bastante severas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22290,6 +22394,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;responded with a series of highly vitriolic and personal attacks on&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu, a&lt;/f10&gt;&lt;f11&gt;nd the&lt;s12/&gt;&lt;/f11&gt;&lt;f13&gt;Enlightenment Daily&lt;/f13&gt;&lt;f14&gt;&lt;s15/&gt;ran an article arguing that the zones should be made even more special.&lt;/f14&gt;&lt;f16&gt;20&lt;/f16&gt;&lt;f17&gt;&lt;s18/&gt;The crux of the responses was (1) that the SEZs were still necessary to introduce and experiment with various forms of man-agement and government–enterpris&lt;/f17&gt;&lt;f19&gt;e relations and (2) that Hu’s arguments did not take the realities of China into account, that to eliminate the SEZ’s special role would amount to “contemporary egalitarianism”: “The special zones’ development does not hinder other regions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195719Z" creationid="Magui" creationdate="20160930T195719Z">
+        <seg>El periódico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;respondió con una serie de ataques personales y ponzoñosos hacia&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu y el diario&lt;s12/&gt;&lt;/f11&gt;&lt;f13&gt;Enlightenment Daily&lt;/f13&gt;&lt;f14&gt;&lt;s15/&gt;publicó un artículo que sostenía que las zonas debían ser todavía más especiales&lt;/f14&gt;&lt;f16&gt;20&lt;/f16&gt;&lt;f17&gt;&lt;s18/&gt;.La esencia de las reacciones era, en primer lugar, que las Zonas Económicas Especiales todavía eran necesarias para introducir y experimentar las diversas formas de administración y relaciones entre el gobierno y las empresas y, en segundo lugar, que los argumentos de Hu no tenían en cuenta las realidades de China y que eliminar el rol especial de las Zonas Económicas Especiales llevaría a un "igualitarismo contemporáneo": "El desarrollo de las ZEE no perjudica a las otras regiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;responded with a series of highly vitriolic and personal attacks on&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu, and the&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Enlightenment Daily&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;ran an article arguing that the zones should be made even more special.&lt;/f13&gt;&lt;f15&gt;20&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;The crux of the responses was (1) that the SEZs were still necessary to introduce and experiment with various forms of man-agement and government–enterprise relations and (2) that Hu’s arguments did not take the realities of China into account, that to eliminate the SEZ’s special role would amount to “contemporary egalitarianism”: “The special zones’ development does not hinder other regions.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160925T174727Z">
@@ -22326,6 +22438,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Vere" changedate="20160928T220343Z" creationid="Vere" creationdate="20160928T220343Z">
         <seg>La atención de los autores, sin embargo, estaba puesta en este último punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their developme&lt;/f19&gt;&lt;f20&gt;nt and the development of other regions can only promote one another; they do not negate one another.”&lt;/f20&gt;&lt;f21&gt;21&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;In June 1994 Jiang Zemin visited Shenzhen and tried to dampen the debate by declaring that the Party’s and state’s policies toward the SEZs had not cha&lt;/f22&gt;&lt;f24&gt;nged.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195758Z" creationid="Magui" creationdate="20160930T195758Z">
+        <seg>Ese desarrollo y el de las otras regiones solo puede promover más desarrollo para ambos grupos; el progreso de un grupo no resulta incompatible con el del otro”&lt;/f20&gt;&lt;f21&gt;21&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;.En junio de 1994, Jiang Zemin visitó Shenzhen y en un intento por enfriar el debate declaró que las políticas del Partido y del Estado hacia las Zonas Económicas Especiales no habían cambiado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22516,8 +22636,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There were market-oriented reformers who dissented from this view – the best known of whom was economist Wu Jinglian – but both the realities of politi-cal&lt;s7/&gt;&lt;/f5&gt;&lt;f8&gt;contestation and the understanding of reform-minded economists led the Dengist state to adopt the decentralizing strategy known as “devolving authority and granting benefits” (&lt;/f8&gt;&lt;f9&gt;fangquan rangli&lt;/f9&gt;&lt;f10&gt;).&lt;/f10&gt;&lt;f11&gt;12&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Magui" changedate="20160930T181006Z" creationid="Magui" creationdate="20160930T181006Z">
-        <seg>Había reformadores orientados al mercado que no estaban de acuerdo con esta postura (el más conocido era el economista Wu Junglian), pero tanto las realidades de la controversia política como la comprensión de economistas orientados a la reforma llevaron al Estado de Deng a adoptar la estrategia de descentralización conocida como "transferencia de autoridad y entrega de beneficios" (&lt;/f8&gt;&lt;f9&gt;fangquan rangli&lt;/f9&gt;&lt;f10&gt;).&lt;/f10&gt;&lt;f11&gt;12&lt;/f11&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T194845Z" creationid="Magui" creationdate="20160930T181006Z">
+        <seg>Había reformadores orientados al mercado que no estaban de acuerdo con esta postura (el más conocido era el economista Wu Junglian), pero tanto las realidades de la controversia política como la comprensión de economistas orientados a la reforma llevaron al Estado de Deng a adoptar la estrategia de descentralización conocida como "transferencia de autoridad y entrega de beneficios" (&lt;/f8&gt;&lt;f9&gt;fangquan rangli&lt;/f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;f11&gt;12&lt;/f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22990,6 +23110,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T162950Z">
         <seg>Luego, la prensa tomó este argumento y, del 2 al 6 de julio, el diario&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Economic Daily&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;escribió una serie de artículos titulados: “¿Cómo seguirán siendo especiales las Zonas Económicas Especiales?". En agosto, Hu se explayó en la perspectiva que antes había expresado de manera interna y escribió en el diario&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Ming pao&lt;/f6&gt;&lt;f7&gt;de Hong Kong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This argument was then picked up by the press, with the&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Economic Daily&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;writing a series of articles from July 2 to July 6 under the title, “How Will the Special Zones Continue to Be Special?” In August, Hu expanded&lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;on the views he had previously expressed internally by writing in the Hong Kong paper&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Ming pao&lt;/f12&gt;&lt;f13&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T195450Z" creationid="Magui" creationdate="20160930T195450Z">
+        <seg>Luego, la prensa tomó este argumento y, del 2 al 6 de julio, el diario&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Economic Daily&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;escribió una serie de artículos titulados: “¿Cómo seguirán siendo especiales las Zonas Económicas Especiales?". En agosto, Hu se explayó en la perspectiva que antes había expresado de manera interna y escribió en el diario&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Ming pao&lt;/f12&gt;&lt;f13&gt;de Hong Kong.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23764,6 +23892,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;is a publication directed at provincial- and&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;ministerial-level cadres.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200139Z" creationid="Magui" creationdate="20160930T200139Z">
+        <seg>&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;una publicación dirigida al personal de las provincias y de los ministerios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those in favor of the new authoritarianism were not opposed to</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160910T174143Z">
@@ -23896,6 +24032,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T164739Z">
         <seg>De esta manera, Hu intentó influir en la opinión del gobierno en diferentes niveles haciendo circular sus ideas a través de diversas publicaciones internas, y estos esfuerzos, sin dudas, repercutieron en la decisión del gobierno (en el verano&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, Hu tried to influence government opinion at different levels by circulating his ideas through various internal publications, and these efforts certainly fed&lt;/f29&gt;&lt;f30&gt;&lt;s31/&gt;into the government’s decision (in the summer&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T200334Z" creationid="Magui" creationdate="20160930T200334Z">
+        <seg>De esta manera, Hu intentó influir en la opinión del gobierno en diferentes niveles haciendo circular sus ideas a través de diversas publicaciones internas, y estos esfuerzos, sin dudas, repercutieron en la decisión del gobierno (en el verano&lt;</seg>
       </tuv>
     </tu>
     <tu>
