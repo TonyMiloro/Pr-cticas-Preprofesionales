@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13686,6 +13686,14 @@ It is not fire proof.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It turned out that the second version was actually the editorial as originally approved, but prior to transmission the director of the People’s Daily, 45 Gao Di, rewrote the first sentence to insert the conservative’s pet thesis.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T000608Z" creationid="Luisina" creationdate="20160930T000502Z">
+        <seg>Luego resultó que segunda versión era en realidad el editorial como había sido aprobado originalmente, pero antes de su emisión el director del People's Daily, 45 Gao Di, reescribió la primera oración para introducir la tesis de los conservativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was a powerful appeal, backed as it was by positive incentives for&lt;t18/&gt; &lt;t19/&gt;compliance and penalties for non-compliance.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160926T135202Z">
@@ -23413,6 +23421,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="daiana" changedate="20160919T172536Z">
         <seg>Este cambio de estatus se produjo con rapidez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This change was spotted, and at Deng’s behest Li &lt;t0/&gt;Ruihuan&lt;t1/&gt; ordered that the offending sentence be removed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T000715Z" creationid="Luisina" creationdate="20160930T000715Z">
+        <seg>Este cambio fue evidente, y bajo la órden de Deng, Li &lt;t0/&gt;Ruihuan&lt;t1/&gt;ordenó que la oración ofensiva se elimine. </seg>
       </tuv>
     </tu>
     <tu>
