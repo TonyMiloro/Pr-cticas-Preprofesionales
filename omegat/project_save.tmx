@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -929,8 +929,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;In 1947 Jiang Zemin began a career characterized by a gradual climb upward, though mostly in technical &lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;elds.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T191101Z">
-        <seg>En 1947 Jiang Zemin comenzó su carrera que se caracterizó por un crecimiento gradual aunque, en mayor parte, en el campo técnico.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T192225Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;En 1947 Jiang Zemin comenzó su carrera que se caracterizó por un crecimiento gradual aunque, en mayor parte, en el  &lt;/f1&gt;&lt;/f0&gt;campo técnico&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2650,8 +2650,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s19/&gt;When &lt;s20/&gt;he &lt;s21/&gt;returned &lt;s22/&gt;to China the following year, he was sent to the Changchun No. 1 Automobile Factory, where he spent the next six years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T191516Z">
-        <seg>Al año siguiente, cuando volvió a China, lo enviaron a la primera Fábrica Automotriz de Changchun donde pasó los siguientes seis años.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T192754Z">
+        <seg>&lt;s19/&gt;Al año siguiente, &lt;s20/&gt;cuando &lt;s21/&gt;volvió &lt;s22/&gt;a China, lo enviaron a la primera Fábrica Automotriz de Changchun donde pasó los siguientes seis años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,8 +2690,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s6/&gt;It &lt;s7/&gt;was &lt;s8/&gt;at &lt;s9/&gt;this &lt;s10/&gt;time &lt;s11/&gt;that &lt;s12/&gt;Jiang &lt;s13/&gt;became &lt;s14/&gt;actively involved in the Shanghai underground, and in June 1946 he joined the &lt;/f4&gt;&lt;/f3&gt;&lt;f15&gt;&lt;f16&gt;CCP.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T192054Z">
-        <seg>&lt;s6/&gt;Fue&lt;s7/&gt;en&lt;s8/&gt;ese&lt;s9/&gt;momento&lt;s10/&gt;cuando&lt;s11/&gt; Jiang &lt;s12/&gt;se involucró &lt;s13/&gt; de forma activa &lt;s14/&gt;en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T192143Z">
+        <seg>&lt;s6/&gt;Fue&lt;s7/&gt;en&lt;s8/&gt;ese&lt;s9/&gt;momento&lt;s10/&gt;cuando&lt;s11/&gt; Jiang &lt;s12/&gt;se involucró &lt;s13/&gt; de forma activa &lt;s14/&gt;en el grupo opositor de Shanghái, y en junio de 1946 se unió al &lt;/f4&gt;&lt;/f3&gt;&lt;f15&gt;&lt;f16&gt;PCCh.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10986,16 +10986,16 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1953 he was recruited into Shanghai’s No. 2 &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Design Bureau&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; by his &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;political mentor&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, Wang Daohan (later mayor of Shanghai).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T191133Z">
-        <seg>En 1953, fue contratado en la segunda Agencia de Diseño de Shanghái por su mentor político, Wang Daohan (luego, intendente de esa ciudad).</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T192436Z">
+        <seg>En 1953, fue contratado en la segunda&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Agencia de Diseño de Shanghái &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;por su  &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;mentor político &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, Wang Daohan (luego, intendente de esa ciudad).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In 1955 he was selected to study automotive engineering &lt;s13/&gt;at &lt;s14/&gt;the &lt;s15/&gt;Stalin &lt;s16/&gt;Autoworks &lt;s17/&gt;in &lt;s18/&gt;Moscow.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T191202Z">
-        <seg>En 1955, fue seleccionado para estudiar ingeniería automotriz en la Fábrica Automotriz Stalin en Moscú. </seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T192658Z">
+        <seg>En 1955, fue seleccionado para estudiar ingeniería automotriz&lt;s13/&gt; en&lt;s14/&gt; la &lt;s15/&gt;Fábrica&lt;s16/&gt; Automotriz&lt;s17/&gt; Stalin en &lt;s18/&gt;Moscú. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25254,8 +25254,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When the Cultural Revolution broke out, Jiang inevitably came under attack as a “person in authority taking the &lt;/f12&gt;&lt;/f11&gt;&lt;f23&gt;&lt;f24&gt;capitalist &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;road,” but he quickly resumed his career when he was selected in 1971 to lead a technical delegation to Romania.&lt;/f26&gt;&lt;/f25&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011217Z">
-        <seg>Cuando la Revolución Cultural comenzó, Jiang fue criticado de manera inevitable como una “persona con autoridad que toma el camino capitalista”, pero rápidamente continuó con su carrera cuando se lo eligió en 1971 para liderar una delegación técnica a Rumania.&lt;/f26&gt;&lt;/f25&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T193034Z">
+        <seg>Cuando la revolución cultural comenzó, Jiang fue criticado de manera inevitable como una “persona con autoridad que toma el camino  &lt;/f12&gt;&lt;/f11&gt;&lt;f23&gt;&lt;f24&gt;capitalista&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;”, pero rápidamente continuó con su carrera cuando se lo eligió en 1971 para liderar una delegación técnica a Rumania.&lt;/f26&gt;&lt;/f25&gt;</seg>
       </tuv>
     </tu>
     <tu>
