@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11932,8 +11932,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In other words, reform had generated a profound range of social changes, and the question that had racked the Party for years was how it should respond to these changes.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T145633Z">
-        <seg>en otras palabras, la reforma había generado una gama de profundos cambios sociales, y la pregunta que había atormentado al partido por años era cómo deberían responder a estos cambios.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T185054Z">
+        <seg>En otras palabras, la reforma había generado una gama de profundos cambios sociales, y la pregunta que había atormentado al partido por años era cómo deberían responder a estos cambios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21610,16 +21610,16 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The question of the content of reform – or, in Chinese jargon, the political line – was related to a &lt;s0/&gt;number of &lt;s1/&gt;state–society questions: the relations between the central government and the localities, the rapidly changing social structure of Chinese society (including the emergence of a &lt;f2&gt;nouveau&lt;/f2&gt; &lt;f3&gt;riche&lt;/f3&gt; class, the growing independence of the intellectual elite, and the rising expectations of society), and the very real fears of many people that reform might hurt rather than help their interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T144857Z">
-        <seg>La pregunta sobre el contenido de la reforma, o en jerga china, la línea pollítica, se relacionaba con &lt;s0/&gt;un número de &lt;s1/&gt;preguntas de caracter estatal y social: las relaciones entre el gobierno central y las localidades, la estructura social que cambiaba rápida y permanentemente de la sociedad China (incluyendo el surgimiento de la clase &lt;f2&gt;de&lt;/f2&gt; &lt;f3&gt;nuevos&lt;/f3&gt; ricos, la independencia en expansión de la élite intelectual, y las crecientes expectativas de la sociedad),</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T185034Z">
+        <seg>La pregunta sobre el contenido de la reforma, o en jerga china, la línea política, se relacionaba con &lt;s0/&gt;un número de &lt;s1/&gt;preguntas de caracter estatal y social: las relaciones entre el gobierno central y las localidades, la estructura social china que cambiaba rápida y permanentemente (incluyendo el surgimiento de la clase &lt;f2&gt;de&lt;/f2&gt; &lt;f3&gt;nuevos&lt;/f3&gt; ricos, la expansión de la independencia de la élite intelectual, y el crecimiento en las expectativas de la sociedad),y el gran temor de muchos que creían que la reforma podría perjudicar en vez de ayudar a sus intereses.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The question thrown open by Tiananmen, then, was the nature of Deng’s leadership and thus whether or not the Party should continue reform as it had been deﬁned by Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160930T184748Z">
-        <seg>Entonces durante Tiananmén surgieron cuestionamientos acerca de la naturaleza del liderazgo de Deng y, en consecuencia, si el partido debía o no continuar la reforma como venía siendo definida por Deng.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184810Z">
+        <seg>Entonces durante Tiananmén surgieron cuestionamientos acerca de la naturaleza del liderazgo de Deng y, en consecuencia, si el partido debía o no continuar la reforma como la venía plantenado Deng.</seg>
       </tuv>
     </tu>
     <tu>
