@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>(thereby sidestepping direct confrontation) but doing so only as little as possible (in the hopes that Deng would yield to resistance).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014827Z">
-        <seg>(y así evitar la confrontación directa). pero hacerlo lo menos posible (con la esperanza de que Deng cedería a la resistencia).</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130834Z">
+        <seg>(y de este modo evitar la confrontación directa). Pero, hacían esto lo menos posible (con la esperanza de que Deng cedería ante la resistencia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -665,8 +665,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;claimed that the failure of the PRC media to cover Deng’s trip was at Deng’s insistence.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130501Z">
-        <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que los medios de comunicación de la República Popular China no cubrieron el viaje por insistencia de Deng</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130628Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que los medios de comunicación de la RPCh no cubrieron el viaje por insistencia de Deng</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,9 +1994,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The obvious resistance to publicizing Deng’s trip – and the subsequent process of yielding partially while continuing to resist – reflects the very ambiguous nature of authority relations at the highest level of the CCP in the early 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130353Z">
-        <seg>La resistencia evidente a divulgar el viaje de Deng, y el proceso posterior que consistió
-en ceder en forma parcial y en continuar la resistencia simultáneamente, es un reflejo de la naturaleza extremadamente ambigua de las relaciones de autoridad en las altas esferas del PCCh a comienzo de la década de los 90. &lt;f0&gt;. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130635Z">
+        <seg>La resistencia evidente a divulgar el viaje de Deng, y el proceso posterior que consistió en ceder en forma parcial y en continuar la resistencia simultáneamente, es un reflejo de la naturaleza extremadamente ambigua de las relaciones de autoridad en las altas esferas del PCCh a comienzo de la década de los 90. &lt;f0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8458,8 +8457,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Five days later, on February 20, Shenzhen’s paper launched a series of eight articles that gave new details about Deng’s visit and summarized the content of his remarks –the first such coverage in PRC media.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193645Z">
-        <seg>CInco días después, el 20 de febrero, el papel de Shenzhen’s publicó una serie de ocho artículos que contaban nuevos detalles acerca de la visita de Deng y que resumían el contenido de sus comentarios. Este era la primera cobertura realizada por los medios de comunicaicón de la RPCh.&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130903Z">
+        <seg>CInco días después, el 20 de febrero, el papel de Shenzhen’s publicó una serie de ocho artículos que daban nuevos detalles acerca de la visita de Deng y que resumían el contenido de sus comentarios. Este era la primera cobertura realizada por los medios de comunicaicón de la RPCh.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21925,8 +21924,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This limited dissemination of Deng’s views reflected a pattern that would hold throughout most of the spring: namely, yielding to pressure from Deng&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021537Z">
-        <seg>Esta divulgación limitada de las opiniones de Deng eran el reflejo de un patrón que se mantendría durante la mayor parte de la primavera, a saber, ceder a la presión ejercida por Deng.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130743Z">
+        <seg>Esta divulgación limitada de las opiniones de Deng era el reflejo de un patrón que se mantendría durante la mayor parte de la primavera, a saber, ceder ante la presión ejercida por Deng.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
