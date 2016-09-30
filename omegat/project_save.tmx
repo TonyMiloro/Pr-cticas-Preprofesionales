@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7286,8 +7286,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chinese politics since Tiananmen, as in many crisis situations, tended to be defined by polarities: one was either for “upholding socialism” or for “bourgeois liberalization.” Taking heed of the fate of his predecessors, Hu Yaobang and Zhao Ziyang, Jiang spent much of his first six years making sure that no one could accuse him of being “lax” on bourgeois liberalization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T145036Z" creationid="Lucrecia" creationdate="20160927T131416Z">
-        <seg>La política China desde el incidente de Tiananmen, como durante otras crisis, era propensa a ser definida por polaridades: uno era "defensor del socialismo" o apoyaba "la liberación burguesa". Jiang siguió el consejo de sus predecesores, Hu Yaobang and Zhao Ziyang, y pasó la mayor parte de sus primeros seis años asegurándose de que nadie lo pudiera acusar de ser "permisivo" con respecto a la liberación burguesa.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220730Z" creationid="Lucrecia" creationdate="20160927T131416Z">
+        <seg>La política china desde el incidente de Tiananmen, como durante otras crisis, era propensa a ser definida por polaridades: una para la “defensa del socialismo”, otra para la“liberación burguesa”. Jiang siguió el consejo de sus antecesores, Hu Yaobang y Zhao Ziyang, y pasó la mayor parte de sus primeros seis años asegurándose de que nadie lo pudiera acusar de ser “permisivo” con respecto a la liberalización burguesa.</seg>
       </tuv>
     </tu>
     <tu>
