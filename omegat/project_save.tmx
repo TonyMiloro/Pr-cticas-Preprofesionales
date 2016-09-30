@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9811,8 +9811,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu Jintao had indeed replaced Jiang Zemin as general secretary of the Party, but it was evident that Jiang intended to retain political inﬂuence through his prot´eg´es.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T181411Z" creationid="andrea" creationdate="20160928T181411Z">
-        <seg>Hu Jintao de hecho había reemplazado a Jiang Zemin como secretario general del partido, pero fue evidente que Jiang trataba de conservar influencia política a través de sus protegidos.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T130039Z" creationid="andrea" creationdate="20160928T181411Z">
+        <seg>De hecho, Hu Jintao había reemplazado a Jiang Zemin como secretario general del partido, pero era evidente que Jiang trataba de conservar influencia política a través de sus protegidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13330,8 +13330,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang’s desire to follow the Deng model of slow withdrawal from the political scene was even more evident when it was announced that Jiang would stay on as head &lt;t0/&gt;of the powerful CMC.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T181439Z" creationid="andrea" creationdate="20160928T181439Z">
-        <seg>El deseo de Jiang de seguir el modelo de Deng de un retiro lento “del escenario político fue aún más evidente cuando se anunció que Jiang se quedaría como cabeza del poderoso CMC.&lt;t0/&gt;of the powerful CMC.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T130138Z" creationid="andrea" creationdate="20160928T181439Z">
+        <seg>El deseo de Jiang de seguir el modelo de Deng de un retiro lento “del escenario político fue aún más evidente cuando se anunció que Jiang se quedaría como líder del poderoso CMC.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
