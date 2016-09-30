@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3677,8 +3677,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although Xing’s criticism of Li and Liu’s book illustrated the need for the Party to respond to intellectual discussions, Xing’s motive here seems to have been to set up a “right” to juxtapose to the “left” of the manifestos.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T145006Z" creationid="Lucrecia" creationdate="20160927T123934Z">
-        <seg>A pesar de que la crítica de Xing al libro de Li y Liu mostraba la necesidad  de un Partido que respondiera a las discusiones intelectuales, el objetivo de Xing parece haber sido crear una "derecha" que sirviera como oposición a la "izquierda" de los manifiestos.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220415Z" creationid="Lucrecia" creationdate="20160927T123934Z">
+        <seg>A pesar de que la crítica de Xing al libro de Zehouh y Zaifu mostraba la necesidad de un partido que respondiera a las discusiones intelectuales, el objetivo de Xing parece haber sido crear una “derecha” que sirviera como oposición a la “izquierda” de los manifiestos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4159,6 +4159,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T143815Z">
         <seg>Aunque las “respuestas &lt;/f0&gt;&lt;f1&gt;realistas” exigían un reajuste de las relaciones centrales-locales a favor del centro y rechazaban la fe ciega en las fuerzas del mercado como "capitalismo utópico", no reconciliaron esa agenda ya sea con su aceptación de la fuerzas del mercado (tímida de fe ciega) o con el bajo desempeño continuo de las empresas estatales y el rápido crecimiento del sector no estatal que había acompañado el crecimiento de las fuerzas del mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although “some” of the “fundamental principles” (jiben yuanli) of Marxism are still applicable, he said, “indeed a considerable portion of the principles” of Marxism have changed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220130Z" creationid="Usuario" creationdate="20160930T220130Z">
+        <seg>Aunque “algunos” de los “principios fundamentales” (jiben yuanli) del marxismo son todavía relevantes, él dijo que, “ciertamente una porción considerable de los principios” del marxismo han cambiado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5476,6 +5484,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the same time, Xing defined a “right” that was just as anti-Marxist as the left.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220257Z" creationid="Usuario" creationdate="20160930T220257Z">
+        <seg>Al mismo tiempo, Xing definió a una “derecha” que estaba tan en contra del marxismo como la izquierda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the same time, as premier and&lt;t22/&gt; &lt;t23/&gt;as a product of ministerial culture, Li consistently supported the interests&lt;t24/&gt; &lt;t25/&gt;of China’s bureaucracy – making him a popular figure within influential&lt;t26/&gt; &lt;t27/&gt;circles.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160919T131534Z">
@@ -6302,8 +6318,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By doing so, Xing could define a “middle course” for Jiang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T144840Z" creationid="Lucrecia" creationdate="20160927T124047Z">
-        <seg>Al hacer esto, Xing pudo definir un "punto medio" para Jiang.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220448Z" creationid="Lucrecia" creationdate="20160927T124047Z">
+        <seg>Al hacer esto, Xing pudo definir un “punto medio” para Jiang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13112,6 +13128,14 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T142951Z" creationid="Lucrecia" creationdate="20160927T130034Z">
         <seg>Al tratar de definir un punto medio, Jiang parecía estar siguiendo los pasos de la historia y tratando de esquivar su disyuntiva política más seria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In trying to define what constituted “real” Marxism (and thus refute the left that positioned itself as defender of the faith), Xing argued that a lot had changed since the birth of Marx 150 years ago.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220049Z" creationid="Usuario" creationdate="20160930T220049Z">
+        <seg>En el momento de intentar definir qué constituía al marxismo “real” (y por lo tanto refutar a la izquierda que se posicionó a sí misma como defensora de la fe), Xing argumentó que mucho ha cambiado desde el nacimiento de Marx 150 años atrás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26035,6 +26059,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What Xing Bensi’s long article in Renmin ribao did was to begin staking out a defensible middle ground in China’s political spectrum.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220616Z" creationid="Usuario" creationdate="20160930T220616Z">
+        <seg>Lo que hizo el extenso artículo de Xing Bensi en el People’s Daily (Renmin ribao) fue empezar a afianzar un punto medio defensivo en el espectro político chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What bothered Wang was what he perceived as the elitism of the authors of River Elegy and the cultural elite of which they were a part.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T193136Z">
@@ -26798,8 +26830,16 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Xing cited several manifestations of rightism, including “privatization” and revisionist interpretations of Chinese history that implied that China had taken the wrong road in pursuing the revolutionary path and that it was now necessary to say “farewell to revolution.” This was a reference to the well-known book (discussed in Chapter 3) by prominent philosopher Li Zehou and leading literary critic Liu Zaifu.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T132411Z" creationid="Lucrecia" creationdate="20160927T123634Z">
-        <seg>Xing citó varias declaraciones de derechismo, incluyendo la "privatización" y las interpretaciones revisionistas de la historia de China que sugerían que China tomó el camino equivocado al elegir ir detrás de la revolución y que ahora era necesario decirle "adiós a la revolución". Esto hace referencia al conocido libro (tratado en el Capítulo 3) escrito por el notorio filósofo Li Zehou y la principal crítica literaria Liu Zaifu.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220339Z" creationid="Lucrecia" creationdate="20160927T123634Z">
+        <seg>Xing citó varias declaraciones del derechismo, que incluían a la “privatización” y a las interpretaciones revisionistas de la historia de China que sugerían que China tomó el camino equivocado al elegir ir detrás de la revolución y que ahora era necesario decirle “adiós a la revolución”. Esto hace referencia al conocido libro (tratado en el capítulo 3) escrito por el notorio filósofo Li Zehou y la principal crítica literaria Liu Zaifu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xing claimed that there are parts of Marxism that contain universal truth and are still applicable, parts that need to be supplemented, and also parts that are “completely unsuitable for use, which should not be continued and upheld in the present day.” Thus, according to Xing: “The criterion for determining the border dividing Marxism and anti-Marxism has to rest on developed Marxism; in present day China the ‘only correct’ criterion for distinguishing Marxism and anti-Marxism is the ‘theory of socialism with Chinese characteristics established by Deng Xiaoping’ – most importantly upholding the ‘one center [economic construction] and two basic points’ [the four cardinal principles and emancipating the mind].” Xing thus juxtaposed “Deng Xiaoping theory” against leftist thought and referred explicitly to the first 10,000 character manifesto when he criticized those who declared that reform had brought about a “new bourgeoisie.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220228Z" creationid="Usuario" creationdate="20160930T220228Z">
+        <seg>Xing afirmó que hay partes del marxismo que contienen la verdad universal y son todavía relevantes, partes que necesitan ser suplementadas, y también partes que son “completamente inapropiadas para el uso, las cuales no deben ser continuadas y sostenidas en la actualidad”55. De este modo, según Xing: “El criterio para determinar los límites que dividen al marxismo del antimarxismo tiene que detenerse en un marxismo desarrollado; en la actualidad de China el único criterio ‘correcto’ para distinguir al marxismo del antimarxismo es la ‘teoría del socialismo con las características de China establecidas por Deng Xiaoping’- que sostiene como más importante a ‘un centro [construcción económica] y dos puntos básicos’ [los cuatro principios fundamentales y la emancipación de la mente]”. Xing, por lo tanto, contrapuso la “teoría de Den Xiaopng” con el pensamiento izquierdista e hizo referencia explícita al primer manifiesto de 10 000 caracteres cuando criticó a aquellos que afirmaron que la reforma creó una “nueva burguesía”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26816,6 +26856,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160930T125134Z" creationid="Lucrecia" creationdate="20160927T125926Z">
         <seg>La crítica de Xing de decirle Adiós a la Revolución también sirvió para advertirles a los pensadores liberales&lt;t1/&gt; que guardaran silencio mientras Jiang se concentraba en mantener controlada la izquierda. Lo que hizo el extenso artículo de Xing Bensi en el People's Daily (Renmin ribao) fue empezar a afianzar un punto medio defensivo en el espectro político chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xing’s criticism of Farewell to Revolution also served the purpose of warning liberal thinkers to hold their peace as Jiang turned his primary attention to warding off the left.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T220511Z" creationid="Usuario" creationdate="20160930T220511Z">
+        <seg>La crítica de Xing al libro “Farewell to Revolution” (Adiós a la revolución) también sirvió para advertirles a los pensadores liberales que guardaran silencio mientras Jiang se concentraba en mantener controlada la izquierda56.</seg>
       </tuv>
     </tu>
     <tu>
