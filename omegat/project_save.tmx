@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1624,6 +1624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hu and Wang’s criticisms of “devolving authority and granting benefits” and of regional&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;inequalities were clearly intended as critiques of the Deng Xiaoping reform program, and in this sense their views were clearly a part of the broader intellectual reflection on the “failings” of the 1980s and particularly of the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T014414Z" creationid="Magui" creationdate="20160930T014414Z">
+        <seg>&lt;f0&gt;Las críticas de Hu y Wang acerca de la estrategia "transferencia de autoridad y entrega de beneficios" y sobre las desigualdades regionales tenían, sin dudas, la intención de criticar el programa de reforma de Deng Xiaoping. En este sentido, sus opiniones fueron claramente parte de la reflexión intelectual más amplia sobre las "fallas" de la década de los 80 y en particular de los 90.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hu’s arguments touched off a major debate.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160919T225854Z">
@@ -2324,6 +2332,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T165331Z">
         <seg>&lt;f0&gt;de 1993) de reformar el sistema tributario.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Desde luego, la atención constante que le dedicaron Hu y Wang&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;a los problemas de desigualdad regional e inestabilidad política ha influido, de un modo similar, en la disposición del gobierno de abordar dichas problemáticas, como en la reciente decisión de desarrollar el oeste.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;policy on regional differences was more palpable: the 1994 NPC meeting drew considerable attention to regional inequalities, Jiang Zemin explic-itly called for redu&lt;/f0&gt;&lt;f1&gt;cing regional gaps in his speech to the Fifth Plenum in September 1995, and in 2000 the development of western China was made a major theme of the NPC meeting.&lt;/f1&gt;&lt;f2&gt;23&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T014121Z" creationid="Magui" creationdate="20160930T014121Z">
+        <seg>&lt;f0&gt;oficiales referidas a las diferencias regionales fue más evidente: la reunión de la APN en 1994 le dedicó bastante atención a las desigualdades regionales; Jiang Zemin pidió explícitamente reducir las brechas regionales en su discurso durante el quinto pleno en septiembre de 1995; y en el año 2000, el desarrollo de la China occidental se volvió un tema principal de la reunión de la APN.&lt;/f0&gt;&lt;f1&gt;23&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15362,6 +15378,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like other New Left&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;intellectuals, Hu and Wang focused on the problem of social fairness, which was both a moral and a political issue.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T014554Z" creationid="Magui" creationdate="20160930T014554Z">
+        <seg>De la misma manera que lo hicieron otros intelectuales de la nueva izquierda, Hu y Wang se centraron en el problema de la equidad social, que era un tema tanto moral como político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like the removal of the Yang brothers from the military in 1992, the ouster of the widely disliked Beijing Party secretary Chen &lt;t0/&gt;Xitong&lt;t1/&gt; in 1995, the various campaigns against corruption, and the easing of Li Peng out of the premiership, Jiang’s visit to Beijing University was an important gesture that tried to put Tiananmen behind him and reach out to the intellectual community at the same time.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Cami" changedate="20160930T001719Z" creationid="Cami" creationdate="20160930T001719Z">
@@ -16518,6 +16542,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160928T101111Z" creationid="joaquin" creationdate="20160928T101111Z">
         <seg>No obstante, aún hay varios importantes pensadores liberales, especialistas tanto mayores como jóvenes, que se mantuvieron activos o  volvieron a adquirir un papel activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, Hu felt partial vindication when Zhu Rongji told Lee Hsien Loong (son of Singapore senior minis-ter Lee Kuan Yew and later prime minister) in October of that year that, although the basic policies would remain unchanged, “some readjustm&lt;/f24&gt;&lt;f25&gt;ent and improvement” was needed in specific measures.&lt;/f25&gt;&lt;f26&gt;22&lt;/f26&gt;&lt;f27&gt;&lt;s28/&gt;The change in official&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T014105Z" creationid="Magui" creationdate="20160930T014105Z">
+        <seg>Sin embargo, Hu se sintió en parte reivindicado en octubre de ese año cuando Zhu Rongji le dijo a Lee Hsien Loong (hijo del entonces viceprimer ministro de Singapur Lee Kuan Yew y futuro primer ministro) que, aunque las políticas básicas permanecerían iguales, "algunos reajustes y mejoras" eran necesarios en medidas específicas.&lt;/f19&gt;&lt;f21&gt;22&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;El cambio en las políticas&lt;/f22&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23093,6 +23125,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Vere" changedate="20160928T220343Z" creationid="Vere" creationdate="20160928T220343Z">
         <seg>La atención de los autores, sin embargo, estaba puesta en este último punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their developme&lt;/f19&gt;&lt;f20&gt;nt and the development of other regions can only promote one another; they do not negate one another.”&lt;/f20&gt;&lt;f21&gt;21&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;In June 1994 Jiang Zemin visited Shenzhen and tried to dampen the debate by declaring that the Party’s and state’s policies toward the SEZs had not cha&lt;/f22&gt;&lt;f24&gt;nged.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T013919Z" creationid="Magui" creationdate="20160930T013919Z">
+        <seg>Ese desarrollo y el de las otras regiones solo puede promover más desarrollo para ambos grupos; el progreso de un grupo no resulta incompatible con el del otro”.&lt;/f16&gt;&lt;f18&gt;21&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;En junio de 1994, Jiang Zemin visitó Shenzhen y en un intento por enfriar el debate declaró que las políticas del Partido y del Estado sobre las Zonas Económicas Especiales no habían cambiado.</seg>
       </tuv>
     </tu>
     <tu>
