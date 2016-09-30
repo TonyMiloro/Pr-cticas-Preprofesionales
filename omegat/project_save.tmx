@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12657,8 +12657,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It is printed on far better paper th&lt;/f0&gt;&lt;f1&gt;an the average journal, indicat&lt;/f1&gt;&lt;f2&gt;ing its substantial financial backing – reputedly contributed by a wealthy overseas Chinese from Thailand but also suggesting its support from the military.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T134008Z" creationid="Lucia Cipolatti" creationdate="20160930T130813Z">
-        <seg>Está impresa en un papel de mucho mejor calidad que el que se usa en&lt;t10/&gt; la mayoría de las revistas,&lt;t11/&gt; lo que pone en evidencia el gran respaldo financiero de un acaudalado residente que proviene de diáspora china que reside en Tailandia pero que también insinuaba un respaldo del sector militar.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T134203Z" creationid="Lucia Cipolatti" creationdate="20160930T130813Z">
+        <seg>Está impresa en un papel de mucho mejor calidad que el que se usa en&lt;t10/&gt; la mayoría de las revistas,&lt;t11/&gt; lo que pone en evidencia el gran respaldo financiero de un acaudalado residente de la comunidad de la diáspora china que reside en Tailandia pero que también insinuaba un respaldo del sector militar.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
