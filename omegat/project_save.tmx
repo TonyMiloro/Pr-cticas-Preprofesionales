@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5493,8 +5493,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At the same time, the number of rural workers seeking employment in coastal cities grew significantly, drawing increased attention as rail lines were clogged (particularly around the lunar new year), shanty towns grew up, and crime rates increased.&lt;/f2&gt;&lt;f3&gt;13&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;Nevertheless, when Deng Xiaoping visited Shenzhen in 1992, he argued that the problem of regional differences need not be addressed too quickly: “Of course, it will not do to adopt this method [of the developed regions supporting the interior] too early.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T024922Z" creationid="Sofi" creationdate="20160930T024835Z">
-        <seg>Al mismo tiempo aumentaba significativamente la cantidad de trabajadores rurales que buscaban trabajo en ciudades costeras, lo que llamó la atención ya que se obstruían las vías del tren (especialmente durante el año nuevo lunar), crecían las villas de emergencia y aumentaban las tasas de delincuencia&lt;/f2&gt;&lt;f3&gt;13&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;. Sin embargo, cuando Deng Xiaoping visitó Shenzhen en 1992, argumentó que el problema de las diferencias regionales no necesitaba ser tratado con tanta urgencia: "Por supuesto, no hará que se tome este método (de las regiones desarrolladas que apoyan al interior) demasiado temprano.</seg>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T025736Z" creationid="Sofi" creationdate="20160930T024835Z">
+        <seg>Al mismo tiempo aumentaba significativamente la cantidad de trabajadores rurales que buscaban trabajo en ciudades costeras, lo que llamó la atención ya que se obstruían las vías del tren (especialmente durante el año nuevo lunar), crecían las villas de emergencia y aumentaban las tasas de delincuencia&lt;/f2&gt;&lt;f3&gt;13&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;. Sin embargo, cuando Deng Xiaoping visitó Shenzhen en 1992, argumentó que el problema de las diferencias regionales no necesitaba ser tratado con tanta urgencia: "Por supuesto, no será una solución adoptar este método (de las regiones desarrolladas que apoyan al interior) demasiado temprano.</seg>
       </tuv>
     </tu>
     <tu>
