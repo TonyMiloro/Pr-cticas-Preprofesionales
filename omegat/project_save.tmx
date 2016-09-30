@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8878,6 +8878,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, Li made clear that political reform was part of cultural modern- &lt;t0/&gt;ization and China's joining the world.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T205939Z" creationid="joaquin" creationdate="20160930T205939Z">
+        <seg>Finalmente, Li dejó en claro que la reforma política fue parte de la modernización cultural y la adhesión de China al mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, all three approaches share a populist orientation, although the neostatist is characterized by a concern for state building that popular nationalists like Wang Xiaodong do not display.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160930T153509Z" creationid="Magui" creationdate="20160930T153453Z">
@@ -11830,6 +11838,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="ROMI" changedate="20160928T222603Z" creationid="ROMI" creationdate="20160928T222603Z">
         <seg>Al hacer esto, Wang argumenta que el problema del socialismo en China es parte de una "crisis de modernidad" mundial, por lo tanto cada respuesta a los problemas de China no puede basarse solamente en los conceptos de modernidad de Occidente sino que debe responder también a los problemas en el capitalismo Occidental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In early 1998, as China entered one &lt;t1/&gt;of its periods of political relaxation, Li published a short essay arguing that &lt;t2/&gt;the time had come for political reform to catch up to economic reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210001Z" creationid="joaquin" creationdate="20160930T210001Z">
+        <seg>En los comienzos de 1998, mientras que China ingresaba a unos de sus períodos de relajación política, Li publicó un ensayo corto que argumentaba que había llegado el momento de que la reforma política alcanzara la reforma económica.</seg>
       </tuv>
     </tu>
     <tu>
