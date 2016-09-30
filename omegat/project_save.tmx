@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15470,6 +15470,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T154443Z">
         <seg>Los gobiernos locales estan  pidiendo de forma continua nuevas "politicas" al gobierno central quien no tiene otra opción más que asumir el compromiso ante nuevas dificultades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local revenues were not remitted to the central government not only because many were designated as extrabudgetary and thus earmarked for local pur-poses but also because the central government did not have tax offices in the localities.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T020135Z" creationid="Sofi" creationdate="20160930T020135Z">
+        <seg>Los ingresos locales no se enviaban al gobierno central no solo porque muchos de ellos eran asignados como extrapresupuestarios y por eso eran reservados para asuntos locales, sino también porque también porque el gobierno central no tenía oficinas tributarias en las localidades.</seg>
       </tuv>
     </tu>
     <tu>
