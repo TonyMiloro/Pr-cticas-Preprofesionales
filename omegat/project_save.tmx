@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7413,8 +7413,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Dashing their hopes, Deng on May 31 informed Li Peng and Politburo Standing Committee member Yao Yilin that the Party leadership (Deng said that he had conferred with Party elders Chen Yun and Li Xiannian, giving a fairly accurate sense of who constituted the Party leadership) had decided that Jiang Zemin, then CCP secretary of Shanghai, would be plucked from relative obscurity to become the “core” of the third generation of CCP leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T234759Z">
-        <seg>Deng terminó con sus expectativas el 31 de mayo cuando le informó a Li Peng y a uno de los miembros del Comité Permanente del Politburó Yao Yilin que el dirigente del Partido (Deng dijo que él y antiguos miembros del partido Chen Yun y Li Xiannian resolvieron que le darían un análisis justo y certero de quíen sería el próximo líder del partido) había decidido sacar de una relativa oscuridad a Jiang Zemin, el entonces secretario del PCCh de Shanghai, y convertirlo en la "cabeza" de la tercera generación de dirigentes del PCCh.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190521Z">
+        <seg>Deng terminó con esas expectativas el 31 de mayo cuando le informó a Li Peng y a uno de los miembros del Comité Permanente del Politburó Yao Yilin que el dirigente del Partido (Deng dijo que él y antiguos miembros del partido Chen Yun y Li Xiannian resolvieron que le darían un análisis justo y certero de quíen sería el próximo líder del partido) había decidido sacar de una relativa oscuridad a Jiang Zemin, el entonces secretario del PCCh de Shanghai, y convertirlo en la "cabeza" de la tercera generación de dirigentes del PCCh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7685,8 +7685,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng also tried to forestall an all-out attack on Zhao’s policies (and himself) by declaring that “the political report of the Thirteenth Party Congress was passed by the representatives of the Party to the congress; even one character must not be changed.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T010309Z">
-        <seg>Deng incluso intentó prevenir un ataque fatal a las políticas de Zhao (y a él mismo) al declarar que "el informe de las políticas del XIII Congreso del Partido fue promulgado por los representantes del partido en el congreso; ni una sola letra podía ser alterada".</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190311Z">
+        <seg>Deng incluso intentó prevenir un ataque fatal a las políticas de Zhao (y a él mismo) al declarar que "el informe de las políticas del Decimotercer Congreso del Partido fue promulgado por los representantes del partido en el congreso; ni una sola letra podía ser alterada".</seg>
       </tuv>
     </tu>
     <tu>
@@ -10906,8 +10906,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If we put up a front so that people feel that it is an ossiﬁed leadership, a conservative leadership, or if the people believe that it is a mediocre leadership that cannot reﬂect the future of China, then there will be constant trouble and there will never be a peaceful day.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T000103Z">
-        <seg>Si ponemos un frente para que las personas sientan que es un liderazgo fosilizado, un liderazgo conservador, o si las personas creen que es un liderazgo mediocre que no puede reflejar el futuro de China, entonces habría constantes problemas y no habría ni un día de paz".</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190608Z">
+        <seg>Si nos mostramos fuertes ante las adverisidades para que las personas sientan que es un liderazgo fosilizado, un liderazgo conservador, o si las personas creen que es un liderazgo mediocre que no puede reflejar el futuro de China, entonces habría constantes problemas y no habría ni un día de paz".</seg>
       </tuv>
     </tu>
     <tu>
@@ -11056,6 +11056,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 1989 there were ﬁve members of &lt;s11/&gt;the &lt;s12/&gt;Politburo &lt;s13/&gt;Standing &lt;s14/&gt;Committee.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190919Z" creationid="rona" creationdate="20160930T190919Z">
+        <seg>En 1989 había cinco miembros del Comité Permanente del Politburó&lt;s11/&gt;&lt;s12/&gt; &lt;s13/&gt;&lt;s14/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1989, China had a GDP of 1.7 trillion yuan; by yearend 2006 its GDP stood at 20.9 trillion yuan.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160926T193340Z">
@@ -11066,8 +11074,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1989, Deng could use his core status to stress continuity and to dominate decisions on leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T222156Z">
-        <seg>En 1989, Deng aprovechó su estatus central para subrayar continuidad y dominar las decisiones del liderazgo.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190233Z">
+        <seg>En 1989, Deng aprovechó su estatus central para subrayar la continuidad y dominar las decisiones del liderazgo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16052,8 +16060,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>No doubt, given the defense of the Party against the so-called counter- revolutionary rebellion and the discrediting of Zhao Ziyang, conservatives hoped that one of their own – perhaps Premier Li Peng, economic planner Yao Yilin, or even former Propaganda Department head Deng Liqun – might replace Zhao as general secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T010536Z">
-        <seg>Sin duda, dado a que la defensa de la rebelión de la llamada rebelión contra-revolucionaria y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos - quizá el primer ministro Li PEng, el planeador económico Yao Yilin, o inclusive el ex presidente de la secretaría de difusión Deng Liqun - reemplazarían a Zhao como secretario general.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190426Z">
+        <seg>Sin duda, dado a que la defensa de la rebelión de la llamada rebelión contra revolucionaria y la desacreditación de Zhao Ziyang, los consevadores esperaban que uno de ellos (quizá el primer ministro Li PEng, el planeador económico Yao Yilin, o inclusive el ex presidente de la secretaría de difusión Deng Liqun) reemplazarían a Zhao como secretario general.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20325,6 +20333,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The choice of Jiang Zemin surprised &lt;s0/&gt;insiders &lt;s1/&gt;and &lt;s2/&gt;outsiders &lt;s3/&gt;alike, &lt;s4/&gt;but &lt;s5/&gt;in &lt;s6/&gt;fact &lt;s7/&gt;there &lt;s8/&gt;were &lt;s9/&gt;not &lt;s10/&gt;many viable candidates from whom to choose.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190804Z" creationid="rona" creationdate="20160930T190804Z">
+        <seg>Tanto miembros como no miembros se sorprendieron con la elección de Jiang Zemin, pero en realidad no había muchos candidatos viables para elegir. &lt;s0/&gt; &lt;s1/&gt; &lt;s2/&gt; &lt;s3/&gt;&lt;s4/&gt; &lt;s5/&gt; &lt;s6/&gt; &lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The collapse of socialism in Eastern Europe, as noted previously, was provoking new debate in Beijing and bringing about a new</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T222820Z">
@@ -23750,8 +23766,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus began Deng’s efforts to install a new leadership – his third attempt following the dismissals of Hu Yaobang and Zhao Ziyang – and so guarantee the continuation of his policies after his death.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T000327Z">
-        <seg>Así comenzaron los esfuerzos de Deng para instarlar un nuevo liderazgo - el tercer intento después de la expulsión de Hu Yaobang y Zhao Ziyang- y así se aseguró que sus políticas perdurarían después de su muerte. </seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T190644Z">
+        <seg>Así comenzaron los esfuerzos de Deng para instarlar un nuevo liderazgo (el tercer intento después de la expulsión de Hu Yaobang y Zhao Ziyang) y así se aseguró que sus políticas perdurarían después de su muerte. </seg>
       </tuv>
     </tu>
     <tu>
