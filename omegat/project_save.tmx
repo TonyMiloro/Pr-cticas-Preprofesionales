@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10746,8 +10746,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In November 1989, Chen Yun’s economic thought was restored as orthodoxy by the Fifth Plenary Session of the Thirteenth Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T010311Z">
-        <seg>En noviembre de 1989, el pensamiento económico de Chen Yun fue restaurado como ortodoxia por la Quinta sesión plenaria del Decimo Tercer Comité Central</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T142207Z">
+        <seg>En noviembre de 1989, el pensamiento económico de Chen Yun fue restablecido como ortodoxo por la Quinta sesión plenaria del Décimo Tercer Comité Central. </seg>
       </tuv>
     </tu>
     <tu>
@@ -18650,8 +18650,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>That decision, like much commentary in the months since Tiananmen, hinted at the implicit line struggle that had existed within the Party by suggesting that</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160926T133441Z">
-        <seg>Esta desición, asi como la mayoría de los comentarios en los meses que siguieron a la revolución de Tiananmen,fueron un indicio del problema implicito que había existido dentro del partido al sugerir que</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T142251Z">
+        <seg>Esta decisión, así como la mayoría de los comentarios en los meses que siguieron a la revolución de Tiananmén, fueron un indicio del problema implícito que había existido dentro del partido al sugerir que</seg>
       </tuv>
     </tu>
     <tu>
@@ -21148,8 +21148,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The “CCP Central Committee Decision on Furthering Improvement and Rectification and Deepening Reform” (frequently referred to as “The 39 Points”) that was adopted by the plenum laid out a systematic, though implicit, critique of Zhao’s management of the economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T232926Z">
-        <seg>La "Decisión del Comité Central del PCCh de seguir Mejorando, Corrigiendo y Profundizando la reforma" (conocida más frecuentemente por "los 39 puntos")que fue aprobada por el pleno expuso una crítica sistemática,pero implícta, del manejo de Zhao en la económia.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T142233Z">
+        <seg> La “Decisión del Comité Central del PCCh de Seguir Mejorando, Corrigiendo y Profundizando la Reforma” (conocida más frecuentemente por “los 39 puntos”) que fue aprobada por el Pleno expuso una crítica sistemática, pero implícita, del manejo de Zhao en la economía.</seg>
       </tuv>
     </tu>
     <tu>
