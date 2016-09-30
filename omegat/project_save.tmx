@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4228,8 +4228,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Deng and Li Ruihuan tried to cool the ideological atmosphere and refocus the Party’s attention on reform and opening up, conservatives were determined to press their advantage.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T234106Z">
-        <seg>Mientras que Deng y Li Ruihuan intentaban calmar la atmosfera ideológica y enfocar la atención del partido en la reforma y la expansión, los conservadores estaban decididos a aprovechar su ventaja.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140810Z">
+        <seg>Mientras que Deng y Li Ruihuan intentaban calmar la atmósfera ideológica y enfocar la atención del partido en la reforma y la expansión, los conservadores estaban decididos a aprovechar su ventaja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10746,16 +10746,16 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In September, Li asked in a sharply worded interview with the PRC-owned Hong Kong paper Ta kung pao: “Why do we always have to go to excess?” Berating conservative ideologues, Li said that “[w]e must not use dogmatic and rigid methods to criticize bourgeois liberalization.”47</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T002053Z">
-        <seg>En septiembre, Li preguntó en términos incisivos en una entrevista con  el diario Ta Kung Pao de Hong Kong del Partido Comunista de China: "Por qué siempre tenemos que ser tan excesivos". Regañando las ideologias conservadoras, Li dijo que "No debemos utilizar métodos dogmáticos y rigidos para criticar la liberalización burguesa". 47</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140349Z">
+        <seg> En septiembre, Li preguntó en términos incisivos en una entrevista con el diario Ta Kung Pao de Hong Kong del Partido Comunista de China: “¿Por qué siempre tenemos que ser tan excesivos?”. Regañando las ideologías conservadoras, Li dijo que “No debemos utilizar métodos dogmáticos y rígidos para criticar la liberalización burguesa”47.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In September, on the eve of the Party’s Fifth Plenum, Deng told American physicist T. D. Lee that “reform and opening up will certainly be continued.”51 The message of reform and opening up was pressed by a People’s Daily editorial six days later which strongly reiterated that reform would be continued and declared, “[w]e certainly must not stop eating for fear of choking.”52</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T002723Z">
-        <seg>En septiembre, en la vispera del Quinto Pleno del Partido, Deng le comentó al físico estadounidese T.D.Lee que "Sin duda, la reforma y la expansión van a continuar". 51. El mensaje de reforma y expansión fue publicado por una editorial de People´s Daily seis dias después, donde se reiteró fuertemente que la reforma iba a continuar y además declaraba que "definitivamente no tenemos que parar de comer por miedo a ahogarnos".52. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140509Z">
+        <seg>En septiembre, en la vispera del Quinto Pleno del Partido, Deng le comentó al físico estadounidense T. D. Lee que “Sin duda, la reforma y la expansión van a continuar”51. El mensaje de reforma y expansión fue publicado por una editorial de People´s Daily seis días después, donde se reiteró fuertemente que la reforma iba a continuar y además declaraba que “definitivamente no tenemos que parar de comer por miedo a ahogarnos”52. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13897,8 +13897,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Li Ruihuan, the former carpenter whom Deng had put in charge of ideology, made an effort to relax the ideological atmosphere in the summer by calling for a campaign against pornography.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160920T023642Z">
-        <seg>Li Ruihuan, el excarpintero que Deng habia puesto a cargo de la ideología, hizo un esfuerzo para relajar la atmósfera ideológica en el verano cuando ideó una campaña en contra de la portnografia.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140147Z">
+        <seg>Li Ruihuan, el excarpintero que Deng había puesto a cargo de la ideología, hizo un esfuerzo para relajar la atmósfera ideológica en el verano cuando ideó una campaña en contra de la pornografía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15780,8 +15780,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On &lt;t0/&gt;the eve of the Fourth Plenum, Deng urged the leaders not to dissipate the energies of the Party in futile ideological disputes: “If at this time we open up some sort of discussion on ideology, such as a discussion regarding markets and planning, then not only would bringing up this sort of issue be disadvantageous to stability but it would cause us to miss an opportunity.”45 Yet it was, of course, precisely this sort of discussion – whether the given policies were “socialist” or “capitalist” – that was already</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T232815Z">
-        <seg>En  &lt;t0/&gt;visperas del Cuarto Pleno, Deng instó a los lideres a que no disipen las energias del partido en disputas ideológicas innecesarias: "Si a estas alturas abrimos algún tipo de discusión sobre ideología, como por ejemplo de mercados y planeamiento, no solo será una desventaja para la estabilidad pero tambien provocara que perdamos una oportunidad".45.Sin embargo era, por supuesto este tipo de discusión precisamente, de si las políticas eran "socialistas" o "capitalistas", lo que que estaba empezando a colmar los medios</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140105Z">
+        <seg>En vísperas &lt;t0/&gt; del Cuarto Pleno, Deng instó a los lideres a que no disipen las energías del partido en disputas ideológicas innecesarias: “Si a estas alturas abrimos algún tipo de discusión sobre ideología, como por ejemplo de mercados y planeamiento, no solo será una desventaja para la estabilidad, sino también provocará que perdamos una oportunidad”45. Sin embargo era, por supuesto, precisamente este tipo de discusión, de si las políticas eran “socialistas” o “capitalistas”, lo que que estaba empezando a colmar los medios </seg>
       </tuv>
     </tu>
     <tu>
@@ -17750,8 +17750,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Similarly, Deng harped on the issue of stability – eventually coining the phrase “stability overrides everything” (wending yadao yiqie) 50 – and emphasized the continuity of reform and opening up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T002159Z">
-        <seg>De forma similar, Deng seguía insistiendo sobre el asunto de la estabilidad, y eventualmente acuñó la frase "La estabilidad se antepone a todo" (wending yadao yiqie)50, y enfatizó la continuidad de la reforma y la expansión.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140441Z">
+        <seg>De forma similar, Deng seguía insistiendo sobre el asunto de la estabilidad, y eventualmente acuñó la frase “La estabilidad se antepone a todo” (wending yadao yiqie)50, y enfatizó la continuidad de la reforma y la expansión. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19350,8 +19350,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The campaign started on July 11, 1989, when the Press and Publications Bureau issued a circular on rectifying the cultural market.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160921T002252Z">
-        <seg>La campaña empezó el 11 de julio de 1989, cuando la Oficina de Prensa y Publicación publicó una circular para corregir el mercado cultural.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140226Z">
+        <seg>Durante el verano, Li debatió varias veces el tema de la pornografía46. Fue una estrategia astuta que dejó a los conservadores desconcertados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25175,8 +25175,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>conservatives press their advantage</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160922T162425Z">
-        <seg>Los conservadores aprovechan su ventaja.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140830Z">
+        <seg>LOS CONSERVADORES APROVECHAN SU VENTAJA.</seg>
       </tuv>
     </tu>
     <tu>
