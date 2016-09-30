@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2068,6 +2068,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133913Z" creationid="Soledad Mori" creationdate="20160927T165004Z">
         <seg>&lt;f0&gt;Las enormes inversiones y la predisposición de Deng a usar todos los métodos necesarios para salir adelante se pusieron de manifiesto en la reunión de la APN cuando Yang Baibing, vice presidente de la Comisión Militar Central declaró que el Ejército Popular de Liberación (EPL) "protegerá y acompañará" (&lt;/f0&gt;&lt;f1&gt;baojia huhang&lt;/f1&gt;&lt;f2&gt;) la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The growing wealth of the localities and the declining capacity of the central state had clear and negative political ramifications, in the opinion of Hu and Wang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T160233Z" creationid="Magui" creationdate="20160930T160233Z">
+        <seg>&lt;f0&gt;De acuerdo con Hu and Wang, el creciente aumento de la riqueza de las localidades y la disminución de la capacidad del Estado central tuvo consecuencias políticas claras y negativas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12066,6 +12074,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the period of the Seventh Five-Year Plan (1986–90), central government revenues accounted for only 40 percent of all government revenues, and Wang and Hu estimated&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;that this figure would fall to only 34 percent by the year 2000.&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;In contrast, the comparable figure in France was 88 percent, in Brazil 84 percent, in India 69 percent, and in the United States – the lowest of all industrialized countries – it was still 5&lt;/f4&gt;&lt;f6&gt;9 percent.&lt;/f6&gt;&lt;f7&gt;6&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T160200Z" creationid="Magui" creationdate="20160930T160200Z">
+        <seg>Durante el período del Séptimo Plan Quinquenal (1986-90), los ingresos del gobierno central representaban el 40 % del total de los ingresos del gobierno y Wang y Hu estimaron que para el año 2000 esta cifra caería a solo el 34 %.&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;Por el contrario, la misma cifra en Francia era del 88 %, en Brasil del 84 %, en India del 69 % y en Estados Unidos todavía era del 59 %, la más baja de todos los países industrializados.&lt;/f6&gt;&lt;f7&gt;6&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the preface, “Luo yi ning ge er” is identified as a German and as Europe’s most famous Sinologist.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160928T140513Z">
@@ -21220,6 +21236,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Nuevo" changedate="20160929T141531Z">
         <seg>El resultado fue un documento tortuoso; el proceso que llevó a cabo el Comité para su redacción puede verse claramente en cada párrafo.&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result was a “weak center and strong localities”;&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;the relationship between&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;center and localities had become one of “negotiation and bargaining between equals.”&lt;/f4&gt;&lt;f6&gt;8&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;The consequences of such a situation were said to be quite severe.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T160611Z" creationid="Magui" creationdate="20160930T160611Z">
+        <seg>El resultado fue un "centro débil y localidades fuertes";&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;la relación entre el centro y las localidades se había convertido en una relación de "negociaciones y regateos entre iguales"&lt;/f4&gt;&lt;f6&gt;8&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Se dijo que las consecuencias de dicha situación fueron bastante severas.</seg>
       </tuv>
     </tu>
     <tu>
