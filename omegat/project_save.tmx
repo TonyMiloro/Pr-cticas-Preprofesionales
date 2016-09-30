@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.&lt;/f5&gt;&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055209Z" creationid="Franco" creationdate="20160930T055209Z">
+        <seg> &lt;/f5&gt;&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>40</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160825T153713Z">
@@ -651,6 +659,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160927T013223Z" creationid="Antonio" creationdate="20160927T013223Z">
         <seg>7th of July</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;For a positive interpretation of these trends, see Jean Oi,&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Rural China Takes Off.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055228Z" creationid="Franco" creationdate="20160930T055228Z">
+        <seg>&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1209,8 +1225,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1/&gt;Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T030157Z" creationid="Rocio" creationdate="20160927T025946Z">
-        <seg>&lt;f0&gt;&lt;t1/&gt;ibid.,p.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055218Z" creationid="Rocio" creationdate="20160927T025946Z">
+        <seg>&lt;f0&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
