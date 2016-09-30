@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16331,6 +16331,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nevertheless, even if one looks only at the official figures, it is apparent that China has experienced very rapid growth in this sector in recent years.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T212213Z" creationid="PC" creationdate="20160930T212213Z">
+        <seg>Aun así, si se observan solo las cifras oficiales, resulta evidente que China ha experimentado un crecimiento muy rápido en este sector en los últimos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nevertheless, he said, local Party organizations ignore this&lt;/f90&gt;&lt;f91&gt; &lt;/f91&gt;&lt;f92&gt;injunction.&lt;/f92&gt;&lt;a93&gt;&lt;f94&gt;74&lt;/f94&gt;&lt;/a93&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T204437Z" creationid="marcelo lavarda" creationdate="20160928T201812Z">
@@ -17296,6 +17304,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160917T061703Z">
         <seg>Una de las formas de "imperialismo cultural" contra la que He constantemente luchaba era la economía neoclásica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One might date the growth of a significant private sector from 1987, when the Thirteenth Party Congress declared that the private sector should be “permitted to exist,” and from the revision of the state constitution in March 1988 to legalize the conduct of private business.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T212251Z" creationid="PC" creationdate="20160930T212251Z">
+        <seg>El crecimiento de un sector privado significativo se puede datar de 1987, cuando el décimo tercer Congreso del Partido declaró que el sector privado debía ser “autorizado a existir”, y de la revisión de la constitución estatal de marzo de 1988 para legalizar la realización de negocios privados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21882,6 +21898,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T004917Z">
         <seg>Esta norma de centralismo democrático también implicaba la noción de que había que seguir procedimientos en las reuniones de toma de decisón del partido, de modo que una persona no puediera imponerse arbitrariamente dentro del partido o en la dirigencia; esto incluía, por ejemplo, los asuntos de reclutamiento, evaluación, y promoción de los cuadros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of registered private enterprises more than doubled between 1991 (before Deng’s trip) and 1993 (after the Fourteenth Party Congress), and the amount of registered capital soared from about 12 billion yuan to over 68 billion yuan – more than a 5-fold increase.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T212352Z" creationid="PC" creationdate="20160930T212352Z">
+        <seg>La cantidad de empresas privadas registradas se han más que duplicado entre 1991 (antes del viaje de Deng) y 1993 (después del décimo cuarto Congreso del Partido) y la cantidad de capital registrada ha incrementado aproximadamente desde 12 000 millones de yuanes hasta 68 000 millones de yuanes, un aumento 5 veces mayor.</seg>
       </tuv>
     </tu>
     <tu>
