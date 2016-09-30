@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8672,8 +8672,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Finally, and potentially most interesting, in a section on building "social- ist democracy," Hu called for an "organic integration of CCP leadership, the position of the people as masters of the country, and the rule of law," though he did not note the seeming incompatibility of these goals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145241Z">
-        <seg>Finalmente, y quizá más interesante, en un apartado sobre la construcción de una "democracia socialista", Hu solicitó una "integración dinámica del liderazgo político del PCCh, que el pueblo sea empoderado, y que haya u estado de derecho", aunque no tuvo en cuenta la aparente incompatibilidad de estos objetivos. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T165620Z">
+        <seg>Finalmente, y quizá o más interesante, es que en un apartado sobre la construcción de una "democracia socialista", Hu solicitó una "integración dinámica del liderazgo político del PCCh, que el pueblo sea empoderado, y que haya u estado de derecho", aunque no tuvo en cuenta la aparente incompatibilidad de estos objetivos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9786,8 +9786,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He declared the need to build a "resource-saving and environment-friendly society." Such calls are consis- tent with the policies Hu and Wen have been articulating in recent years, but implementing policies based on these goals with be difficult.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T165443Z">
-        <seg>Además, Hu manifestó la necesidad de construir "una sociedad que proteja los recursos y el ambiente". Las peticiones son consistentes con las políticas que Hu y Wen han planteado en los ultimos años, aunque implementar políticas que se basen en estos objetivos será muy dificil.  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T165517Z">
+        <seg>Además, Hu manifestó la necesidad de construir "una sociedad que proteja los recursos y el ambiente". Las peticiones son consistentes con las políticas que Hu y Wen han planteado en los ultimos años, aunque implementar políticas que se basen en estos objetivos no será fácil. </seg>
       </tuv>
     </tu>
     <tu>
