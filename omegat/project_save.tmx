@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27167,8 +27167,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Yan believed that radicals viewed the problems of modernization too simply and naively and ended up making matters worse; this explained Yan’s disappointment with China’s situation following the i9ii revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T035907Z" creationid="Rocio" creationdate="20160930T035907Z">
-        <seg>Yan creía en que los radicales veían los problemas de modernización de forma demasiado simple e ingenua, lo que terminó por empeorar las cosas; esto explicó la decepción de Yancon la situación de China después de la revolución de 1911.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T040038Z" creationid="Rocio" creationdate="20160930T035907Z">
+        <seg>Yan creía en que los radicales veían los problemas de modernización de forma demasiado simple e ingenua, lo que terminó por empeorar las cosas; esto explicó la decepción de Yan por la situación de China después de la revolución de 1911.</seg>
       </tuv>
     </tu>
     <tu>
