@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16501,8 +16501,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On May 22, Deng showed up at Capital Iron and Steel (usually referred to by its Chinese abbreviation, Shougang) and listened to Zhou Guanwu, the long-time leader of the model enterprise, report on the enterprise’s reform experience.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145834Z" creationid="Soledad Mori" creationdate="20160927T173323Z">
-        <seg>El 22 de mayo, Deng se presentó en Capital Iron and Steel (a la que usualmente se hace referencia por su abreviación en chino, Shougang) y escuchó a Zhou Guanwu, el líder de muchos años en la empresa modelo, quien informó sobre la experiencia de reforma que tuvo la empresa. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T170556Z" creationid="Soledad Mori" creationdate="20160927T173323Z">
+        <seg>El 22 de mayo, Deng se presentó en Capital Iron and Steel (a la que usualmente se hace referencia por su abreviación en chino, Shougang) y escuchó a Zhou Guanwu, el líder durante varios años en la empresa modelo, quien informó sobre la experiencia de reforma que tuvo la empresa. </seg>
       </tuv>
     </tu>
     <tu>
