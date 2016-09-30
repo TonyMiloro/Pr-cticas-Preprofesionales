@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9713,8 +9713,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Government officials may have welcomed an expression of nationalism, but they also realized that it was something that could be turned against them, as it had been so many times in the twentieth century.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T043020Z">
-        <seg>Los funcionarios del gobierno tal vez le dieron una bienvenida a la expresión de nacionalismo, aunque también sabían que era algo que se podía volver contra ellos, como había sucedido muchas veces durante el siglo XX.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T190312Z">
+        <seg>Los funcionarios del gobierno tal vez le dieron una bienvenida a la expresión de nacionalismo, aunque también se dieron cuenta de que era algo que se podía poner en su contra, como había sucedido muchas veces durante el siglo XX.</seg>
       </tuv>
     </tu>
     <tu>
