@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10565,8 +10565,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hence, Wang is interested in political culture: how the turbulent history of twentieth- century China has led to an uneasy overlapping of traditional, modern, and post-1949 cultural concerns; and how the political system might play a role in shaping a modern political culture that will support reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160912T001229Z">
-        <seg>Por consiguiente, Wang está interesado en la cultura política: como la turbulenta historia de China en el siglo veinte ha llevado a una superposición de intereses tradicionales, modernos y culturales post-1949; y como el sistema político puede tener un papel crucial al momento de darle forma a la cultura política moderna que apoyará a la reforma. </seg>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T045944Z">
+        <seg>Por consiguiente, Wang está interesado en la cultura política: como la turbulenta historia de China en el siglo veinte ha llevado a una superposición de intereses tradicionales, modernos y culturales post-1949; y cómo el sistema político puede tener un papel crucial al momento de darle forma a la cultura política moderna que apoyará a la reforma. </seg>
       </tuv>
     </tu>
     <tu>
