@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7381,8 +7381,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng had previously done to Mao: reinterpreted the leader’s thought by insisting that it be</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T170247Z" creationid="Soledad Mori" creationdate="20160927T170209Z">
-        <seg>lo que él le había provocado anteriormente a Mao: reinterpretar el pensamiento del líder al insistir que sea </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T142838Z" creationid="Soledad Mori" creationdate="20160927T170209Z">
+        <seg>lo que él le había provocado anteriormente a Mao:  en el artículo, se reinterpretaba el pensamiento del líder al insistir en que sea </seg>
       </tuv>
     </tu>
     <tu>
@@ -25882,8 +25882,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>viewed “comprehensively.” For instance, while endorsing Deng’s view about the</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T170337Z" creationid="Soledad Mori" creationdate="20160927T170337Z">
-        <seg>visto de manera "comprensiva". Por ejemplo, mientras apoyaba la postura de Deng sobre la</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T143105Z" creationid="Soledad Mori" creationdate="20160927T170337Z">
+        <seg>concebido de manera "exhaustiva".  Por ejemplo, pese a que apoyaba la postura de Deng sobre la </seg>
       </tuv>
     </tu>
     <tu>
