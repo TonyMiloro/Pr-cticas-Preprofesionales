@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17710,8 +17710,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Public opinion on foreign policy questions is a politically sensitive topic, and few surveys are allowed (or allowed to be published).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T033432Z">
-        <seg>La opinión pública con respecto a preguntas de política exterior es un tema muy delicado desde un punto de vista político. Debido a eso se permiten pocas investigaciones (o no se permite su publicación).</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T175523Z">
+        <seg>La opinión pública con respecto a preguntas de política exterior es un tema muy delicado desde un punto de vista político y se permiten pocas investigaciones (o no se permite su publicación).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19395,8 +19395,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>That anti-American sentiments were widespread at the time is supported not only by sales figures but also by survey research.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T175420Z">
-        <seg>No sólo las cifras de ventas sino también la investigación por encuesta respaldan el hecho de que esos sentimientos antiestadounidenses se expandieron en ese momento es en que era apoyado no solo por cifras de ventas sino también por investigaciones. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T175438Z">
+        <seg>No sólo las cifras de ventas sino también la investigación por encuesta respaldan el hecho de que esos sentimientos antiestadounidenses se expandieron en ese momento. </seg>
       </tuv>
     </tu>
     <tu>
