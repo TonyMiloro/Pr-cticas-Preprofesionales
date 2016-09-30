@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12541,8 +12541,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, some of the most prominent and outspoken of the liberal intelligentsia worked for the state, often in high places, and their self-assigned mission was to change the state from within.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160910T173109Z">
-        <seg>En efecto, varios de los intelectuales liberales más prominentes y aguerridos trabajaban para el estado, generalmente en puestos importantes, y su misión autoasignada era cambiar el estado desde adentro.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160930T160721Z">
+        <seg>En efecto, varios de los intelectuales liberales más prominentes y aguerridos trabajaban para el Estado, generalmente en puestos importantes, y su misión autoasignada era cambiar el estado desde adentro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14668,8 +14668,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Mao had made it clear in his 1942 speech to the Yan’an Forum on Literature and Art that intellectuals must overcome their natural petty bourgeois nature by self-consciously “integrating” themselves with the “masses” – with the Party as judge of how successfully they had done so.13 With the perspective of thirty years of persecution, intellectuals naturally were critics of the Party/state even when they served it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USUARIO" changedate="20160920T191111Z">
-        <seg>Mao había dejado en claro, en su discurso de 1942 ante el Foro de Literatura y Arte de Yan’an, que los intelectuales debían sobreponerse a su insignificante naturaleza burguesa e “integrarse” deliberadamente en las “masas”, con el partido como juez para decidir en qué medida lo habían logrado13. Frente a la perspectiva de treinta años de persecución, los intelectuales naturalmente eran críticos del partido/estado, aun cuando trabajaban para él.</seg>
+      <tuv lang="ES-US" changeid="USUARIO" changedate="20160930T160707Z">
+        <seg>Mao había dejado en claro, en su discurso de 1942 ante el Foro de Literatura y Arte de Yan’an, que los intelectuales debían sobreponerse a su insignificante naturaleza burguesa e “integrarse” deliberadamente en las “masas”, con el partido como juez para decidir en qué medida lo habían logrado13. Frente a la perspectiva de treinta años de persecución, los intelectuales naturalmente eran críticos del partido/Estado, aun cuando trabajaban para él.</seg>
       </tuv>
     </tu>
     <tu>
