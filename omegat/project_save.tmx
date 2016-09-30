@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -937,8 +937,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;In the Chinese political system, Party congresses provide an occasion for the gathering and analysis of the sort of information that allows the system to take stock of itself.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T154621Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;En el sistema político chino, los congresos del Partido brindan la oportunidad de recopilar y analizar toda información que le permita al sistema hacer su propio balance.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T154703Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;En el sistema político chino, los congresos del Partido brindan la oportunidad de recopilar y analizar toda información que le permita al sistema realizar una autoevaluación de su funcionamiento.</seg>
       </tuv>
     </tu>
     <tu>
