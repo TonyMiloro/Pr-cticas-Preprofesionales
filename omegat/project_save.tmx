@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23052,8 +23052,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This relative absence of state–intellectual communication in the immediate aftermath of Tiananmen points to the temporal aspect of this relationship.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160928T031521Z">
-        <seg>Esta ausencia relativa de comunicación entre los intelectuales y el estado en el período inmediato a los sucesos de Tiananmén muestra el aspecto temporal de esta relación.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160930T164639Z">
+        <seg>Esta ausencia relativa de comunicación entre los intelectuales y el Estado en el período inmediato a los sucesos de Tiananmén muestra el aspecto temporal de esta relación.</seg>
       </tuv>
     </tu>
     <tu>
