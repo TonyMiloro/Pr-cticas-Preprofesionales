@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4546,6 +4546,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As &lt;t0/&gt;Chinese politics had polarized in the late 1980s, it had been increasingly difficult to prevent them from reverting to a struggle between two lines, as indeed the harsh criticism of Zhao Ziyang in the wake of Tiananmen suggested that, to a certain extent, it had.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T050615Z" creationid="Usuario" creationdate="20160930T050615Z">
+        <seg>&lt;t0/&gt;Como la política China habían polarizado a finales de la década de los 80, había sido cada vez más difícil prevenirlos de volver a la lucha entre dos líneas,  como, de hecho, la crítica dura de Zaho Ziyang tras Tiananmen sugirió que, hasta cierto punto, lo había sido.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As &lt;t0/&gt;he put it at one point, those who declared that we should "rely on Chinese &lt;t1/&gt;culture to save the world" are "arrogant and conceited" (&lt;t2/&gt;kuangwang&lt;t3/&gt;); not &lt;t4/&gt;only will this approach not push forward China's modernization, it runs</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183648Z" creationid="joaquin" creationdate="20160929T183648Z">
@@ -5369,6 +5377,14 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160909T033230Z">
         <seg>Al principio, esto&lt;t4/&gt; &lt;t5/&gt;parecía no hacer mucha diferencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least in some readings of history, Mao had done the same thing in his battles against “rightist opportunism” (represented by Chen Duxiu) and “leftism” (represented by Wang Ming).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T050509Z" creationid="Usuario" creationdate="20160930T050509Z">
+        <seg>Al menos, en algunas lecturas de historia, Mao había hecho la misma cosa en las batallas en contra del “oportunismo de derecha” (representado por Chen Duxiu) e “izquierdista” (representado por Wang Ming). </seg>
       </tuv>
     </tu>
     <tu>
@@ -6729,6 +6745,14 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160930T045738Z" creationid="Usuario" creationdate="20160930T045729Z">
         <seg>podemos permitirnos no prestarle atención a la política, o podemos bajar nuestra guardia y dejar de luchar cuando fuerzas hostiles en el Occidente quieren “occidentalizarnos” (xihua) y “dividirnos” (fenhua), e imponernos su “democracia” y su “libertad”; y cuando Lee Teng-hui está empeñado en promover la “independencia de Taiwán”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carving out a middle course, however, is not a simple matter.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T050713Z" creationid="Usuario" creationdate="20160930T050713Z">
+        <seg>Forjar un curso medio, sin embargo, no es un asunto simple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12228,6 +12252,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast, Deng had defined himself and had been able to carry out reform by carving out a “middle course.” Indeed, Deng secured his authority in the post-Cultural Revolution context by abandoning the “struggle between two lines” in favor of a “struggle on two fronts” (that is, both left and right).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T050443Z" creationid="Usuario" creationdate="20160930T050337Z">
+        <seg>Por lo contrario, Deng había definido el mismo y había sido capaz de realizar la reforma al forjar un “curso medio”. De hecho, Deng aseguró su autoridad en el contexto de la  Revolución Pos-Cultural al abandonar la “lucha entre las líneas” a favor de una “lucha entre dos frentes” (es decir, izquierda y derecha).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast, cadres tended to see the issues differently.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160930T050134Z" creationid="Agustín" creationdate="20160929T013332Z">
@@ -14148,6 +14180,14 @@ It is not fire proof.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143734Z">
         <seg>Se podría decir que los neoautoritarios subestimaron la posibilidad de que una autoridad recentralizada se utilizara para fortalecer la autoridad personal (¡no necesariamente la de Zhao Ziyang!) en lugar de utilizarla para avanzar con las reformas mercadizadoras que ansiaban, de la misma forma en que los intelectuales liberales subestimaron las verdaderas dificultades que había para mantener la estabilidad social y continuar con la reforma económica, ya que algunas requerían de la creación de un Estado más fuerte, o al menos de uno más efectivo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It needs to be articulated and defended against critics on both the left and the right.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T050931Z" creationid="Usuario" creationdate="20160930T050740Z">
+        <seg>Necesita que lo expresen y que lo defiendan de las críticas de la izquierda y de la derecha. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17360,6 +17400,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T020405Z" creationid="LENOVO" creationdate="20160919T222321Z">
         <seg>Ahora Jiang reavivaba esa consigna y se identificaba con las reformas de Deng. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, after six years as general secretary and after being able slowly to build up his personal authority, Jiang began his attempt to define a new center.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T050659Z" creationid="Usuario" creationdate="20160930T050659Z">
+        <seg> Ahora, después de seis años como secretario general y después de poder crear con lentitud su autoridad personal, Jiang trató de definir un nuevo centro.  </seg>
       </tuv>
     </tu>
     <tu>
