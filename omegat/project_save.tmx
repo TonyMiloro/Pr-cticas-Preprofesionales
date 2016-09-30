@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9305,8 +9305,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For instance, when urban residents were asked who the primary beneficiaries of reform were, more people (59.2 percent) selected “Party and state cadres” than any other category (though private entrepreneurs and entertainers were not far behind at 55.4 percent and 43 percent respectively).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;But, when responses were arranged by social class, the results were even more disturbing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T191412Z" creationid="Agustín" creationdate="20160929T003550Z">
-        <seg>Por ejemplo, cuando se les preguntó a los habitantes de sectores urbanos quiénes se habían visto más beneficiados por la reforma, la mayoría (un 59,2 %) eligió a los "cuadros del Partido y del Estado" antes que cualquier otra categoría (aunque los empresarios del sector privado y los artistas no se encontraban muy por detrás con un 55,4 porciento y un 43 porciento, respectivamente).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sin embargo, cuando se organizaban las respuestas por clase social, éstas eran aun más inquietantes.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T191630Z" creationid="Agustín" creationdate="20160929T003550Z">
+        <seg>Por ejemplo, cuando se les preguntó a los habitantes de sectores urbanos quiénes se habían visto más beneficiados por la reforma, la mayoría (un 59,2 %) eligió a los "cuadros del Partido y del Estado" antes que a cualquier otro sector (aunque los empresarios del sector privado y los artistas no se encontraban muy por detrás con un 55,4 % y un 43 %, respectivamente).&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sin embargo, cuando se organizaban las respuestas por clase social, éstas eran aun más inquietantes.</seg>
       </tuv>
     </tu>
     <tu>
