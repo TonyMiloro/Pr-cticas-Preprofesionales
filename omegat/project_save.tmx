@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4132,8 +4132,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And sometimes, the campaign against peaceful evolution is more important.”&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Chen Yun himself presided over a meeting of the &lt;/f8&gt;&lt;f9&gt;CAC&lt;/f9&gt;&lt;f10&gt; held in Beijing on February 17 at which he declared that the only way for the &lt;/f10&gt;&lt;f11&gt;CCP&lt;/f11&gt;&lt;f12&gt; to avoid a &lt;/f12&gt;&lt;f13&gt;CPSU&lt;/f13&gt;&lt;f14&gt; style collapse was to emphasize &lt;/f14&gt;&lt;f15&gt;communist&lt;/f15&gt;&lt;f16&gt; ideology and strengthen Party building.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T131829Z">
-        <seg>Además, a veces, la campaña en contra de la evolución pacífica es más importante”. &lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;El mismísimo Chen Yun presidió la reunión de la  &lt;/f8&gt;&lt;f9&gt;Comisión Asesora Central&lt;/f9&gt;&lt;f10&gt;que tuvo lugar en Pekín el 17 de febrero; él que afirmó que el único modo en la que el &lt;/f10&gt;&lt;f11&gt;PCCh&lt;/f11&gt;&lt;f12&gt; podría evitar &lt;/f12&gt;&lt;f13&gt;un colapso&lt;/f13&gt;&lt;f14&gt; al estilo del PCUS era hacer hincapié &lt;/f14&gt;&lt;f15&gt;en la ideología&lt;/f15&gt;&lt;f16&gt; comunista y fortalecer la estructura del Partido.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T170038Z">
+        <seg>Además, a veces, la campaña en contra de la evolución pacífica es más importante”. &lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;El mismísimo Chen Yun presidió la reunión de la  &lt;/f8&gt;&lt;f9&gt;Comisión Asesora Central&lt;/f9&gt;&lt;f10&gt;que tuvo lugar en Pekín el 17 de febrero; él que afirmó que el único modo en la que el &lt;/f10&gt;&lt;f11&gt;PCCh&lt;/f11&gt;&lt;f12&gt; podría evitar &lt;/f12&gt;&lt;f13&gt;un colapso&lt;/f13&gt;&lt;f14&gt; al estilo del PCUS era hacer hincapié &lt;/f14&gt;&lt;f15&gt;en la ideología&lt;/f15&gt;&lt;f16&gt; comunista y fortalecer la estructura del partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4260,8 +4260,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Appearing in Shanghai on the eve of Labor Day, the Party elder encouraged leaders there to “emancipate their minds” and “take bold steps.” According to one report, Chen’s declaration came on the heels of a high-level meeting with Deng, Peng Zhen, Li Xiannian, Bo Yibo, and Yang Shangkun.86 Chen, who in 1978–9 had opposed the establishment of the SEZs and especially opposed the establishment of one in Shanghai, was now quoted as saying, “I very much favor the development and opening of Pudong!”&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145523Z" creationid="Soledad Mori" creationdate="20160927T173047Z">
-        <seg>En una aparición en Shanghái en la víspera del Día del Trabajador, este veterano del Partido alentó a los líderes a que “emancipen sus mentes” y “den pasos con valentía”. De acuerdo con un informe, la declaración de Chen tuvo lugar luego de una reunión de alto nivel con Deng, Peng Zhen, Li Xiannin, Bo Yibo, y Yang Shangkun. Chen, quien en 1978-9 se opuso al establecimiento de las ZEE y en especial al establecimiento de una en Shanghái, ahora se lo citaba afirmando: “¡Estoy a favor del desarrollo y la apertura de Pudong!”&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T170134Z" creationid="Soledad Mori" creationdate="20160927T173047Z">
+        <seg>En una aparición en Shanghái en la víspera del Día del Trabajador, este veterano del partido alentó a los líderes a que “emancipen sus mentes” y “den pasos con valentía”. De acuerdo con un informe, la declaración de Chen tuvo lugar luego de una reunión de alto nivel con Deng, Peng Zhen, Li Xiannin, Bo Yibo, y Yang Shangkun. Chen, quien en 1978-9 se opuso al establecimiento de las ZEE y en especial al establecimiento de una en Shanghái, ahora se lo citaba afirmando: “¡Estoy a favor del desarrollo y la apertura de Pudong!”&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8808,8 +8808,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>First, he wanted to reassert his dominance in the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174614Z" creationid="Soledad Mori" creationdate="20160927T174614Z">
-        <seg>Por un lado, quería reafirmar su dominio en el Partido. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T170150Z" creationid="Soledad Mori" creationdate="20160927T174614Z">
+        <seg>Por un lado, quería reafirmar su dominio en el partido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11428,8 +11428,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In contrast to the emphasis on slow and steady economic &lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;growth that had dominated press coverage in recent months, the &lt;/f7&gt;&lt;f8&gt;People’s Daily &lt;/f8&gt;&lt;f9&gt;now declared that “the fundamental point for upholding &lt;/f9&gt;&lt;f10&gt;socialism&lt;/f10&gt;&lt;f11&gt; is developing the economy as fast as possible.”&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;The editorial made clear its criticism of “&lt;/f13&gt;&lt;f14&gt;leftists&lt;/f14&gt;&lt;f15&gt;” within the Party by pointing out the “catastrophes” caused in the past by “taking class struggle as the key link.” Two days later, a second editorial urged people to “be more daring in carrying out reform” and cited the Dengist &lt;/f15&gt;&lt;f16&gt;dictum&lt;/f16&gt;&lt;f17&gt;, “Practice is the sole criterion of truth.”&lt;/f17&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T131353Z">
-        <seg>Contrariamente al énfasis en el crecimiento económico lento y constante&lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;que había dominado la cobertura de los medios de comunicación en los últimos meses, &lt;/f7&gt;&lt;f8&gt;People’s Daily &lt;/f8&gt;&lt;f9&gt;ahora afirmaba que “la clave fundamental para defender el  &lt;/f9&gt;&lt;f10&gt;socialismo&lt;/f10&gt;&lt;f11&gt;es desarrollar la economía tan rápido como sea posible”. &lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Esta nota editorial puso en evidencia su crítica a los“&lt;/f13&gt;&lt;f14&gt;izquierdistas&lt;/f14&gt;&lt;f15&gt;”&lt;/f15&gt;&lt;f16&gt;” en el seno del Partido al señalar las “catástrofes” ocurridas en el pasado por considerar a la lucha de clases como el eslabón clave.” Dos días después, una segunda nota editorial abogó por que las personas “sean más audaces para llevar a cabo la reforma” y citó la máxima &lt;/f16&gt;&lt;f17&gt;de Deng: “la práctica es el único criterio de la verdad”.&lt;/f17&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T170017Z">
+        <seg>Contrariamente al énfasis en el crecimiento económico lento y constante&lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;que había dominado la cobertura de los medios de comunicación en los últimos meses, &lt;/f7&gt;&lt;f8&gt;People’s Daily &lt;/f8&gt;&lt;f9&gt;ahora afirmaba que “la clave fundamental para defender el  &lt;/f9&gt;&lt;f10&gt;socialismo&lt;/f10&gt;&lt;f11&gt;es desarrollar la economía tan rápido como sea posible”. &lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Esta nota editorial puso en evidencia su crítica a los“&lt;/f13&gt;&lt;f14&gt;izquierdistas&lt;/f14&gt;&lt;f15&gt;”&lt;/f15&gt;&lt;f16&gt;” en el seno del partido al señalar las “catástrofes” ocurridas en el pasado por considerar a la lucha de clases como el eslabón clave.” Dos días después, una segunda nota editorial abogó por que las personas “sean más audaces para llevar a cabo la reforma” y citó la máxima &lt;/f16&gt;&lt;f17&gt;de Deng: “la práctica es el único criterio de la verdad”.&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20087,8 +20087,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The communiqu´e &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;issued by the Politburo meeting endorsed the “necessity” of upholding the “one center” of economic development and called on the Party to “accelerate the pace of reform and opening to the outside world.” Moreover, it affirmed Deng’s thesis that the main danger the Party faced was leftism.74 Accordingly, China’s central media finally publicized Deng’s trip.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134604Z" creationid="Soledad Mori" creationdate="20160927T163832Z">
-        <seg>El comunicado&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;emitido por la reunión del Politburó avaló la "necesidad" de defender "el único centro" de desarrollo económico y le solicitó al Partido "el aceleramiento del paso de la reforma y la apertura al mundo". Además, reafirmó la postura de Deng que sostenía la mayor amenaza que enfrenta el Partido es el izquierdismo. Como correspondía, los medios de comunicación más importantes de China divulgaron el viaje de Deng. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T170112Z" creationid="Soledad Mori" creationdate="20160927T163832Z">
+        <seg>El comunicado&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;emitido por la reunión del Politburó avaló la "necesidad" de defender "el único centro" de desarrollo económico y le solicitó al partido "el aceleramiento del paso de la reforma y la apertura al mundo". Además, reafirmó la postura de Deng que sostenía la mayor amenaza que enfrenta el Partido es el izquierdismo. Como correspondía, los medios de comunicación más importantes de China divulgaron el viaje de Deng. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20399,8 +20399,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The effort was to turn Deng into the titular leader of the Party, much as Liu Shaoqi and Deng himself may have hoped to do to Mao in the early 1960s.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130051Z">
-        <seg>Se concentró el esfuerzo en convertir a Deng en el líder nominal del Partido, lo cual era lo mismo que Liu Shaoqi y el mismo Deng podían haber esperado hacer con Mao a comienzo de la década de los 60.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T165955Z">
+        <seg>Se concentró el esfuerzo en convertir a Deng en el líder nominal del partido, lo cual era lo mismo que Liu Shaoqi y el mismo Deng podían haber esperado hacer con Mao a comienzo de la década de los 60.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25134,8 +25134,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the Tiananmen incident, Deng’s prestige within the Party plummeted, weakening his ability to exercise informal authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130146Z">
-        <seg>Debido al incidente de Tiananmén, el prestigio de Deng dentro del Partido se vio reducido de forma considerable. Esto trajo aparejado el debilitamiento de su capacidad para ejercer autoridad informal. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T165858Z">
+        <seg>Debido al incidente de Tiananmén, el prestigio de Deng dentro del partido se vio reducido de forma considerable. Esto trajo aparejado el debilitamiento de su capacidad para ejercer autoridad informal.p</seg>
       </tuv>
     </tu>
     <tu>
