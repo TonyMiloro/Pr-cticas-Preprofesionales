@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19205,9 +19205,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The attention that Hu Jintao and Wen Jiabao paid (and would continue to pay) to rural issues reﬂected China’s development needs–the increasing gap between the wealthy east coast and the poorer inland areas (and more speciﬁcally between the rural areas and the cities) was a constant theme in social commentary–but it also set up an implicit contrast with Jiang Zemin, whose personal style seemed increasingly detached from the concerns of ordinary citizens and who&lt;f2&gt;se &lt;/f2&gt;economic development efforts had sparked the phenomenal growth of Shanghai and other east coast metropolises but had opened up the tremendous gap with the agricultural interior.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160930T142902Z" creationid="andrea" creationdate="20160930T142902Z">
-        <seg>La atención que Hu Jintao and Wen Jiabao le prestaron, y continuarían prestando, a las cuestiones rurales reflejaron las necesidades de desarrollo de China, tales como la creciente brecha entre la próspera costa oriental y las regiones del interior más pobres (en particular entre las zonas rurales y las ciudades) que constituyó un eje constante en el comentario social. Pero este eje también estableció un contraste implícito con Jiang Zemin, cuyo estilo personal parecía cada vez más distanciado de las inquietudes de los ciudadanos y cuyos esfuerzos de desarrollo económico habían provocado el crecimiento admirable de Shanghai y otras costas orientales metropolitanas, pero había  
-abierto una enorme brecha con el interior agrícola.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T143220Z" creationid="andrea" creationdate="20160930T142902Z">
+        <seg>La atención que Hu Jintao and Wen Jiabao le prestaron, y continuarían prestando, a las cuestiones rurales reflejó las necesidades de desarrollo de China, tales como la creciente brecha entre la próspera costa oriental y las regiones del interior más pobres (en particular entre las zonas rurales y las ciudades) que constituyó un eje constante en el comentario social. Pero este eje también estableció un contraste implícito con Jiang Zemin, cuyo estilo personal parecía cada vez más distanciado de las inquietudes de los ciudadanos y cuyos esfuerzos de desarrollo económico habían provocado el crecimiento admirable de Shanghái y otras costas orientales metropolitanas, pero había abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
     </tu>
     <tu>
