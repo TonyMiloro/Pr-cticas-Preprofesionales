@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12981,8 +12981,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Incidents were often large – sometimes involving thousands and even tens of thousands of people – and occasionally violent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175253Z">
-        <seg>Con frecuencia había incidentes importantes, que a veces involucraban a miles o incluso decenas de miles de personas, y en ocasiones llegaban a ser violentos.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T010925Z">
+        <seg>Con frecuencia había incidentes significativos, que a veces involucraban a miles o incluso decenas de miles de personas, y en ocasiones llegaban a ser violentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17389,8 +17389,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One deputy Party secretary in Hunan’s Xinning county had an ear cut off as he tried to collect taxes; in Hunan’s Longshan county two cadres were killed in clashes.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175352Z">
-        <seg>A un vice-secretario del Partido en la sub-prefectura de Xinning de Hunan le cortaron una oreja cuando intentaba recaudar impuestos; y en la subprefectura de Longshan de Hunan, dos dirigentes murieron en enfrentamientos.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T010941Z">
+        <seg>A un vicesecretario del Partido en la sub-prefectura de Xinning de Hunan le cortaron una oreja cuando intentaba recaudar impuestos; y en la subprefectura de Longshan de Hunan, dos dirigentes murieron en enfrentamientos.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
