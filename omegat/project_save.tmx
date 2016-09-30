@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3420,8 +3420,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although Cui would deny any nationalist intent, his critiques of Western neoliberalism and his evocation of China’s Maoist heritage are very much a part of the 1990s’ turn away from the new enlightenment problematique of the 1980s and an effort to build a China-centered social science in contradistinction to Western traditions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T155717Z" creationid="Martin" creationdate="20160929T155253Z">
-        <seg>Aunque Cui negará cualquier intento nacionalista, sus críticas en contra del neoliberalismo occidental y su evocación del patrimonio maoísta de China son sin dudar una parte de la década de los 90 lejos de la nueva problemática de la iluminación de la década de los 80  y un esfuerzo por construir una ciencia social centrada en China en contraste con las tradiciones del Occidente.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T010652Z" creationid="Martin" creationdate="20160929T155253Z">
+        <seg>Aunque Cui negaría cualquier intención nacionalista, sus críticas en contra del neoliberalismo occidental y su evocación del patrimonio maoísta de China son sin dudar una parte de los años noventa que se distancian de la nueva problemática de la Ilustración de los años ochenta y un esfuerzo por construir una ciencia social enfocada en China en contraste con las tradiciones de Occidente.</seg>
       </tuv>
     </tu>
     <tu>
