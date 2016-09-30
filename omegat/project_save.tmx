@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22744,8 +22744,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The result, as Lu and others argue, was that China was developing a social structure not unlike Latin America where a promising beginning for economic development had stalled because a small, internationalized urban sector had not absorbed the large, poor population into an urban middle class.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T234505Z">
-        <seg>Tal como Lu y otros alegan, los factores ya mencionados dieron origen a la formación de una estructura social similar a la de América Latina, donde un comienzo prometedor para el crecimiento económico se había estancado.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T234608Z">
+        <seg>Tal como Lu y otros alegan, los factores ya mencionados dieron origen a la formación de una estructura social similar a la de América Latina, donde un comienzo prometedor para el crecimiento económico se había estancado. Esto se debió a la acción de un pequeño sector urbano internacionalizado que no había permitido el acceso de la gran población en situación de pobreza a la clase media urbana.</seg>
       </tuv>
     </tu>
     <tu>
