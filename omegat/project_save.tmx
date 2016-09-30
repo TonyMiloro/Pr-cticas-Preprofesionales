@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21882,8 +21882,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The roles of Hu Angang and Wang Shaoguang are illustrative in this regard.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T051448Z">
-        <seg>Las funciones de Hu Angang y Wang Shaoguang son ilustrativas en este sentido. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T195434Z">
+        <seg>Las funciones de Hu Angang y Wang Shaoguang son un claro ejemplo en este sentido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24198,8 +24198,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>To the extent that there was a common interest in problem solving, intellectuals could, by the mid-1990s, take up roles as advisers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T195350Z">
-        <seg>En la medida en que existiese un interés común en la resolución de problemas, los intelectuales podían asumir funciones como asesores a mediados de los 90. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T195409Z">
+        <seg>En la medida en que existiese un interés común en la resolución de problemas, a mediados de los 90, los intelectuales podían asumir funciones como asesores.</seg>
       </tuv>
     </tu>
     <tu>
