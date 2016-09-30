@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13762,8 +13762,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was only natural – given the role that concern with globalization played&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;in stimulating the discussions of the New Left examined in Chapter&lt;s4/&gt;&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;4&lt;s7/&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;– that China’s participation in the WTO became a major point of intellectual dissension.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T205544Z" creationid="Lucia Cipolatti" creationdate="20160930T204110Z">
-        <seg>Era normal que la participación de China en la OMC se convirtiera en un aspecto importante en la discordia intelectual debido a la influencia del interés global en las discuciones de la nueva izquierda que se examinaron en el capítulo 4.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T210149Z" creationid="Lucia Cipolatti" creationdate="20160930T204110Z">
+        <seg>Era normal que la participación de China en la OMC se convirtiera en un aspecto importante en la discordia intelectual debido a la influencia del interés global en las discuciones de la nueva izquierda que se analizaron en el capítulo 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25323,8 +25323,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>We will examine in this and the following chapters some of the ways in which intellectual concerns have intersected with elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T210032Z">
-        <seg>En este y en los próximos capítulos analizaremos algunas de las formas en las que las preocupaciones intelectuales se interpusieron con la política de élite.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T210134Z">
+        <seg>En este y en los próximos capítulos analizaremos algunas de las formas en las que los intereses intelectuales se interpusieron con la política de élite.</seg>
       </tuv>
     </tu>
     <tu>
