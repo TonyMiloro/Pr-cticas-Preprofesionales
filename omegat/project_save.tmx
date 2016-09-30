@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055031Z" creationid="Franco" creationdate="20160930T055031Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10ft x 10ft / 3m x 3m • 10ft x 15ft / 3m x 4.6m • 10ft x 20ft / 3m x 6m</seg>
       </tuv>
       <tuv lang="ES-US" changeid="multimedia08" changedate="20160929T123436Z" creationid="multimedia08" creationdate="20160929T123436Z">
@@ -2642,8 +2650,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134429Z">
-        <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;lbid.,p.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055022Z">
+        <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
