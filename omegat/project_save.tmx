@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11203,8 +11203,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition to selecting a new leadership, Party congresses typically revise the Party constitution to reﬂect changed political thinking and listen to the general secretary give a report that lays out the Party's vision for the next five years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Además de elegir un nuevo líder político, a menudo, los congresistas del partido modifican la constitución para reflejar cambios en el pensamiento politico y tienen en cuenta el reporte hecho por el secretario general que muestra la visión que tendrá el partido en los próximos cinco años.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T162912Z">
+        <seg>Además de elegir un nuevo líder político, a menudo, los congresistas del partido modifican la constitución para reflejar cambios en el pensamiento político y tienen en cuenta el reporte hecho por el secretario general que muestra la visión que tendrá el partido en los próximos cinco años. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11243,8 +11243,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition, Hu was able to secure the appointments of Ling Jihua, Hu's former secretary, and Li Yuanchao, another &lt;f0&gt;prot&lt;/f0&gt;&lt;f1&gt;é&lt;/f1&gt;&lt;f2&gt;g&lt;/f2&gt;&lt;f3&gt;é &lt;/f3&gt;&lt;f4&gt;from&lt;/f4&gt; the CYL, to the Secretariat (see Table 6), enhancing ege &lt;s5/&gt;Hu's control over the day-to-day operation of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Además, Hu pudo asegurar los nombramientos al Secretarido de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos de la LJC (véase tabla 6), lo que aumentaba el control de &lt;s5/&gt;Hu sobre las operaciones diarias del partido.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T161443Z">
+        <seg>Además, Hu pudo asegurar los nombramientos al Secretarido de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos de la LJC (véase tabla 6), lo que aumentaba el control de &lt;s5/&gt;Hu sobre las operaciones diarias del partido. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17189,8 +17189,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Personnel changes in the rest of the Politburo followed the same pattern of age-based retirements and bargaining over new appointments.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T144457Z">
-        <seg>Los cambios de personal en el resto del Polítburó continuaron el mismo patrón de jubilaciones en base a la edad y a las negociaciones sobre los nuevos nombramientos.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T162124Z">
+        <seg>Los cambios de personal en el resto del Polítburó continuaron con el mismo patrón de jubilaciones sobre la base de la edad y las negociaciones sobre los nuevos nombramientos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20575,8 +20575,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The four people born before 1940 retired.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="cintia soler" changedate="20160919T173124Z">
-        <seg>Las cuatro personas nacidas antes de 1940 se jubilaron.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T162301Z">
+        <seg>Las cuatro personas nacidas antes de 1940 se jubilaron. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22340,8 +22340,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These were filled by Li Yuanchao, who will take over the Organization Department and help shape a Party leadership more in Hu's image; Wang Qishan, an experienced banker who is likely to be named a vice-premier at the NPC meeting in March 2008; Liu Yandong, a CYL cadre who has good ties with Zeng Qinghong for historical reasons; Bo Xilai, the son of the late Party elder Bo Yibo; Zhang Gaoli, who replaced Zhang Lichang as Party secretary of Tianjin, one of the three municipalities that are granted seats on the Politburo; and Xu Caihou, a vice-chairman of the CMC who replaces the retiring Cao Gangchuan and maintains the PLA tradition of having two seats on the Politburo.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Estas vacantes fueron ocupadas por: Li Yuanchao, quien estará a cargo del Departamento de Organización y además contribuirá a dar forma al liderazgo del partido para que se adecúe a la imagen de Hu; Wang Qishan, un bancario con experiencia quien probablemente sería nombrado vice primer ministro en la reunión de la APN en marzo de 2008; Liu Yandong, un delegado de la LJC, quien mantiene una buena relación con Zeng Qinghong debido a cuestiones históricas; Bo Xilai, hijo del antiguo miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del partido en Tianjin, uno de los tres municipios a los que se le otorgan bancas en el Politburó; y Xu Caihou, el vicepresidente de la Comisión Militar Central, quien reemplaza al retirado Cao Gangchuan y quien mantiene la tradición del EPL de ocupar dos bancas en el Politburó.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T162635Z">
+        <seg>Estas vacantes fueron ocupadas por: Li Yuanchao, quien estará a cargo del Departamento de Organización y además contribuirá a dar forma al liderazgo del partido para que se adecue a la imagen de Hu; Wang Qishan, un bancario con experiencia quien probablemente sería nombrado vice primer ministro en la reunión de la APN en marzo de 2008; Liu Yandong, un delegado de la LJC, quien mantiene una buena relación con Zeng Qinghong debido a cuestiones históricas; Bo Xilai, hijo del antiguo miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del partido en Tianjin, uno de los tres municipios a los que se le otorgan bancas en el Politburó; y Xu Caihou, el vicepresidente de la Comisión Militar Central, quien reemplaza al retirado Cao Gangchuan y quien mantiene la tradición del EPL de ocupar dos bancas en el Politburó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25078,8 +25078,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the decision to promote He Guo- qiang and Zhou Yongkang to the PBSC, there were seven slots (including that opened by Chen Liangyu's arrest).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T204337Z">
-        <seg>Luego de la decisión de ascender a He Guoqiang y Zhou Yongkang al PBSC, había siete puestos vacantes (entre los que se incluye el que quedó luego del arresto de Chen Lyangyu).</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T162323Z">
+        <seg>Luego de la decisión de ascender a He Guoqiang y Zhou Yongkang al PBSC, había siete puestos vacantes (entre los que se incluye el que quedó luego del arresto de Chen Lyangyu). </seg>
       </tuv>
     </tu>
     <tu>
