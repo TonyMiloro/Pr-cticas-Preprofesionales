@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1081,8 +1081,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Zhao Shukai, a researcher at the State Council’s Development Research Center, took a similarly negative view of township governance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160913T203323Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Zhao Shukai, un investigador del Centro de Investigaciones para el Desarrollo, tenía una opinión negativa similar sobre el gobierno municipal.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160930T153257Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Zhao Shukai, un investigador del Centro de Investigación para el Desarrollo, tenía una opinión negativa similar sobre el gobierno municipal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11684,8 +11684,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the 1980s, many townships had invested in enterprises, but many of those had gone bankrupt, which was a major cause of the debt.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Moreover, the number of cadres at the township level had tripled since the 1980s; altogether, county and township governments took in approximately 20 percent of China’s governmental revenue, but they supported 71 percent of China’s public employees.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160916T235008Z">
-        <seg>En los 80, muchos municipios habían invertido en empresas, pero varias de ellas habían quebrado, lo que fue una causa importante de deuda.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Además, el número de cuadros dirigentes se había triplicado a nivel municipal desde esta década. En conjunto, los gobiernos de las sub-prefecturas y municipios consumían cerca del 20 por ciento de los ingresos públicos, pero respaldaban al 71 por ciento de los empleados públicos de China.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160930T153445Z">
+        <seg>En la década de los 80, muchos municipios habían invertido en empresas, pero varias de ellas habían quebrado, lo que fue una causa importante de deuda.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Además, el número de cuadros dirigentes se había triplicado a nivel municipal desde esta década. En conjunto, los gobiernos de las sub-prefecturas y municipios consumían cerca del 20 por ciento de los ingresos públicos, pero respaldaban al 71 por ciento de los empleados públicos de China.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
