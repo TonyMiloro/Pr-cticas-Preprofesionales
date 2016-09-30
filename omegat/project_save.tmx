@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10400,6 +10400,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hu asked pointedly, “[o]ne can well imagine that if a ruling Party can wantonly deprive its &lt;t6/&gt;leaders of their minimal human rights, is it not more difficult for this Party to respect the human rig&lt;t7/&gt;hts of dissidents in general?”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T172220Z" creationid="Cami" creationdate="20160930T172206Z">
+        <seg>Hu cuestionó enfáticamente, “uno bien puede suponer que si un partido dominante puede privar gratuitamente a sus líderes de los derechos  humanos básicos, &lt;t6/&gt;entonces,&lt;t7/&gt;¿no es más difícil para este partido respetar los derechos humanos de los disidentes en general?”17.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hu certainly tolerated criticism of “public intellectuals” and consistently took measures to exert control over the media, including the Internet.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T001719Z">
@@ -11189,6 +11197,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160927T193139Z">
         <seg>En marzo de 1998, la Novena Sesión de la APN designó de manera oficial como primer ministro a Zhu Rongji, en reemplazo de Li Peng. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In March the journal Methods (&lt;t0/&gt;Fangfa&lt;t1/&gt;), whose editorial board was stocked with liberal intellectuals, ran a series of articles that would have been risky only a short time before.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T172313Z" creationid="Cami" creationdate="20160930T172313Z">
+        <seg>En marzo, la revista  Methods (&lt;t0/&gt;Fangfa&lt;t1/&gt;), cuya junta editorial estaba conformada por intelectuales liberales, publicó una serie de artículos que hubiera sido arriesgado publicar un tiempo atrás. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17351,6 +17367,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T162124Z">
         <seg>Los cambios de personal en el resto del Polítburó continuaron con el mismo patrón de jubilaciones sobre la base de la edad y las negociaciones sobre los nuevos nombramientos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Picking up Jiang Zemin’s call for “rule of law” and political reform at the Fifteenth Party Congress, China’s liberal intelligentsia tried to push for greater political reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T172355Z" creationid="Cami" creationdate="20160930T172355Z">
+        <seg>A causa del pedido de Jiang Zemin por un “estado de derecho” y una reforma política en el Decimoquinto Congreso del Partido, la intelectualidad liberal de China intentó alcanzar una reforma política mayor. </seg>
       </tuv>
     </tu>
     <tu>
