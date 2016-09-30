@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4052,8 +4052,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>An incident had the possibil-ity of evolving into a destructive riot.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T172513Z">
-        <seg>Cualquier incidente, por más pequeño que fuere, podía llegar a convenirse en una revuelta intensa.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T183940Z">
+        <seg>Cualquier incidente, por más pequeño que fuera, podía llegar a convertirse en una revuelta intensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22052,8 +22052,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The “tragic history of 1957,” Wang writes, proved that “the intellectuals created by China’s old culture and civilization .</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T175917Z">
-        <seg>Los "trágicos hechos históricos de 1957", escribe Wang, demostraron que "los intelectuales provenientes de la antigua cultura y civilización de China.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184113Z">
+        <seg>Según Wang, los “trágicos hechos históricos de 1957” demostraron que “los intelectuales provenientes de la antigua cultura y civilización china...han nacido con defectos que no pueden afrontar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22380,8 +22380,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thereupon, Mao could not but take action.”&lt;/f4&gt;&lt;f5&gt;55&lt;/f5&gt;&lt;f6&gt; The intellectuals, like the peasants, were not worthy of Mao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T220934Z">
-        <seg>Por lo tanto, Mao no podía hacer nada más que actuar”.&lt;/f4&gt;&lt;f5&gt;55&lt;/f5&gt;&lt;f6&gt;Los intelectuales, al igual que los campesinos, no eran dignos de Mao. </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184017Z">
+        <seg>Por lo tanto, Mao no podía hacer nada más que actuar”55. Los intelectuales, al igual que los campesinos, no eran dignos de Mao.</seg>
       </tuv>
     </tu>
     <tu>
