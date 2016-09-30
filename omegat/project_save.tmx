@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3490,6 +3490,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although his graduate work&lt;s0/&gt;focused on the Cultural Revolution, he quickly</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153910Z" creationid="Magui" creationdate="20160930T153910Z">
+        <seg>A pesar de que su tesis se centró en la Revolución Cultural, pronto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although his policies had been under nearly constant attack since 1989 and Chen Yun’s economic thought had been repeatedly written into speeches and policy documents, the Fourteenth Party Congress lauded Deng for his “tremendous political courage in opening up new paths in socialist construction and a tremendous theoretical courage in opening up a new</seg>
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160908T224210Z">
@@ -4933,8 +4941,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At least prior to China’s final push to join the World Trade Organization (WTO), neostatists like Hu Angang and Wang Shaoguang were interested in influencing state policy and in appeal-ing to Zhu.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160927T162410Z">
-        <seg>Al menos hasta antes de que China finalmente se uniera a la Organización Mundial del Comercio (OMC) por última vez, los neoestatistas como Hu Angang y Wang Shaoguang estaban interesados en influir en la política de Estado y en recurrir a Zhu.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153629Z">
+        <seg>Al menos hasta antes de que China finalmente se uniera a la Organización Mundial del Comercio (OMC), los neoestatistas como Hu Angang y Wang Shaoguang estaban interesados en influir en la política de Estado y en recurrir a Zhu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,6 +8414,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, all three approaches share a populist orientation, although the neostatist is characterized by a concern for state building that popular nationalists like Wang Xiaodong do not display.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153509Z" creationid="Magui" creationdate="20160930T153453Z">
+        <seg>Por último, todos comparten una orientación populista, aunque los neoestatistas se destacan por un interés en la construcción del Estado que los nacionalistas populares como Wang Xiaodong no demuestran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, all three approaches share a populist orientation, although the neostatist is characterized by a concern for state building that popular nationalists like Wang Xiaodong do not display.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160918T220820Z">
@@ -11162,6 +11178,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast, the New Leftists worried about “premature” institutionalization, the clarification of property rights, the power relations hidden behind capitalist relations, and&lt;s2/&gt;the integration of China’s economy into the international economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153715Z" creationid="Magui" creationdate="20160930T153715Z">
+        <seg>A diferencia de los neoestatistas, los neoizquierdistas se preocupaban por la institucionalización "prematura", el esclarecimiento de los derechos de la propiedad, las relaciones de poder escondidas detrás de relaciones capitalistas, y la integración de la economía de China en la economía internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In direct opposition to Deng’s theses that economic development would promote social stability and that ideological debates should be put off – or better, not taken up – Wang argued that stability could only be built on the basis of Marxist ideology.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160930T144106Z" creationid="Usuario" creationdate="20160930T144106Z">
@@ -13840,6 +13864,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keeping in mind these commonalities and differences, we turn first to the issue of state capacity and the work of Hu Angang and&lt;s4/&gt;Wang Shaoguang.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153829Z" creationid="Magui" creationdate="20160930T153829Z">
+        <seg>Con estas similitudes y diferencias en mente, nos enfocaremos primero en la capacidad del Estado y el trabajo de Hu Angang y Wang Shaoguang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Korea’s Park Chung Hee provided a positive example of how nationalism could be used to bolster economic development.71</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T145739Z" creationid="Lucia Cipolatti" creationdate="20160930T131239Z">
@@ -15197,6 +15229,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
         <seg>Nationalists share the neostatists’ desire to strengthen the state but are skeptical of the present political lead-ership’s ability to govern successfully, to articulate China’s national interests forcefully, or to use state power to bring about social justice.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T162804Z">
+        <seg>Los nacionalistas comparten el deseo neoestatista de fortalecer el Estado, pero son escépticos ante la habilidad del liderazgo político actual para gobernar con éxito, para articular los intereses nacionales de China con contundencia, o para usar el poder del Estado para proporcionar justicia social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nationalists share the neostatists’ desire to strengthen the state but are skeptical of the present political lead-ership’s ability to&lt;s3/&gt;govern successfully, to articulate China’s national interests forcefully, or to use state power to bring about social justice.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153818Z" creationid="Magui" creationdate="20160930T153818Z">
         <seg>Los nacionalistas comparten el deseo neoestatista de fortalecer el Estado, pero son escépticos ante la habilidad del liderazgo político actual para gobernar con éxito, para articular los intereses nacionales de China con contundencia, o para usar el poder del Estado para proporcionar justicia social.</seg>
       </tuv>
     </tu>
@@ -20181,6 +20221,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The greatest tension across these different groups of&lt;s0/&gt;thinkers is centered on the figure of Zhu Rongji.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153536Z" creationid="Magui" creationdate="20160930T153536Z">
+        <seg>La mayor tensión entre estos grupos de pensadores se centra en la figura pública de Zhu Rongji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The growing sense of popular nationalism reflected in the publication of</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T154116Z">
@@ -21981,6 +22029,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
         <seg>They saw Zhu as someone who could both centralize state power and marketize the economy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T162437Z">
+        <seg>Veían a Zhu como alguien que podía tanto centralizar el poder del Estado como mercantilizar la economía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They saw&lt;s1/&gt;Zhu as someone who could both centralize state power and marketize the economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153654Z" creationid="Magui" creationdate="20160930T153654Z">
         <seg>Veían a Zhu como alguien que podía tanto centralizar el poder del Estado como mercantilizar la economía.</seg>
       </tuv>
     </tu>
@@ -25514,6 +25570,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
         <seg>developed an interest in the issue of state capacity and how that might relate to China’s economic and political development.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160917T213600Z">
+        <seg>desarrolló un interés por la capacidad del Estado y por cómo esta podría relacionarse con el desarrollo económico y político de China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>developed an interest in the issue of state capacity and how that might relate to&lt;s0/&gt;China’s economic and political development.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153925Z" creationid="Magui" creationdate="20160930T153925Z">
         <seg>desarrolló un interés por la capacidad del Estado y por cómo esta podría relacionarse con el desarrollo económico y político de China.</seg>
       </tuv>
     </tu>
