@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7581,8 +7581,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng Xiaoping himself raised this issue in his June 9, 1989 address to martial law troops.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T151011Z">
-        <seg>El mismo Deng Xiaoping planteó este asunto el 9 de junio de 1989  ADDRESS TO la ley marcial para las tropas.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T185158Z">
+        <seg>El mismo Deng Xiaoping planteó esta situación en su discurso del 9 de junio de 1989 para las tropas de ley marcial.</seg>
       </tuv>
     </tu>
     <tu>
