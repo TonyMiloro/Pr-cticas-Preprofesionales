@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23667,8 +23667,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This incident underscores the deadly serious nature of “documentary politics” in the PRC, but it also makes clear that reformers were responding quickly to evolving events in the Soviet Union and &lt;t0/&gt;restoring the push that had stalled the previous spring.47 In late September, Deng instructed Jiang Zemin and Yang &lt;t1/&gt;Shangkun&lt;t2/&gt; to persevere in reform and opening up&lt;t3/&gt;,48&lt;t4/&gt; and Yang subsequently gave a ringing endorsement of reform on the 80th anniversary of the 1911 Revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T001519Z" creationid="Luisina" creationdate="20160930T001231Z">
-        <seg>Este incidente enfatiza la naturaleza peligrosa de las "políticas de registro" en la Reública Popular de China, pero también hace evidente que los reformistas estaban respondiendo rápido a los eventos que se desarrollaban en la Unión Soviética y &lt;t0/&gt; reinstaurando el impulso que había cesado la primavera anterior. </seg>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T001758Z" creationid="Luisina" creationdate="20160930T001231Z">
+        <seg>Este incidente enfatiza la naturaleza peligrosa de las "políticas de registro" en la Reública Popular de China, pero también hace evidente que los reformistas estaban respondiendo rápido a los eventos que se desarrollaban en la Unión Soviética y &lt;t0/&gt; reinstaurando el impulso que había cesado la primavera anterior. 47 A fines de diciembre, Deng instruyó a Jian Zemin y Yang &lt;t1/&gt;Shangkun&lt;t2/&gt; para perseverar en la reforma y la apertura&lt;t3/&gt;,48&lt;t4/&gt; y subsecuentemente Yang Le dio un gran apoyo a la reforma en el aniversario número 80 de la Revolución de 1911.</seg>
       </tuv>
     </tu>
     <tu>
