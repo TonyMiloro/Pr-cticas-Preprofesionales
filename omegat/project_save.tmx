@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9970,8 +9970,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He declares that “[a] society without faith is in danger”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt; and argues that the Dengist reforms have progressively eroded Maoist ideology until there is nothing left to inspire people and unify the nation:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185402Z">
-        <seg>quien declara que “[una] sociedad sin fe corre peligro”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt;. Y además sostiene que las reformas de Deng han disminuido la ideología Maoísta de forma progresiva a tal punto que no quede nada ni nadie que inspire a la población y unifique la nación:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T193022Z">
+        <seg>quien declara que “[una] sociedad sin fe corre peligro”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt;. Y además sostiene que las reformas de Deng han disminuido la ideología Maoísta de forma progresiva a tal punto que no quede nada ni nadie que inspire a la población y unifique la nación&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;:</seg>
       </tuv>
     </tu>
     <tu>
