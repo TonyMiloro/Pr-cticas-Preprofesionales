@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2362,8 +2362,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;elements it was importing.&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;As Yan put it, “[w]ithout renewal there will be no progress; without the old there would be nothing to hold on to.”&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;The trick was to modernize the national spirit while maintaining the culture as an organic whole.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T040537Z" creationid="Rocio" creationdate="20160930T040537Z">
-        <seg>&lt;f0&gt;que estaban importando.&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;As Yan put it, “[w]ithout renewal there will be no progress; without the old there would be nothing to hold on to.”&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;The trick was to modernize the national spirit while maintaining the culture as an organic whole.&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T040929Z" creationid="Rocio" creationdate="20160930T040537Z">
+        <seg>&lt;f0&gt;que estaban importando.&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Como Yan decía, “[S]in renovación no habrá progreso; sin lo antiguo no habrá nada a que aferrarse.”&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;The trick was to modernize the national spirit while maintaining the culture as an organic whole.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
