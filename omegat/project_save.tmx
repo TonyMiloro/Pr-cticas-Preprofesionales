@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12228,8 +12228,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In his report to the Party congress, Jiang devoted considerable space to political and legal reform; he stated: “Without democracy, there can be no socialism and no socialist modernization.” Although Jiang stopped well short of endorsing anything resembling Western-style democracy, his repeated use of the word “democracy” (some 32 times) prompted hopes of greater opening up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T220714Z" creationid="Cami" creationdate="20160929T220714Z">
-        <seg>En el informe que Jiang elaboró para el congreso del partido dedicó un espacio considerable a la reforma política y legal y también manifestó: “sin democracia no puede haber socialismo ni modernización socialista”. Aunque Jiang se percató de no respaldar algo que se pareciera a la democracia en el occidente, uso reiteradas veces la palabra “democracia” (unas 32 veces), lo que generó esperanzas de una mayor apertura.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T023804Z" creationid="Cami" creationdate="20160929T220714Z">
+        <seg>En el informe que elaboró para el Congreso del Partido, Jiang dedicó un espacio considerable a la reforma política y legal y también manifestó: “Sin democracia no puede haber socialismo ni modernización socialista”. Aunque Jiang se percató de no respaldar algo que se pareciera a la democracia en occidente, uso reiteradas veces la palabra “democracia” (unas 32 veces), lo que generó esperanzas de una mayor apertura.</seg>
       </tuv>
     </tu>
     <tu>
