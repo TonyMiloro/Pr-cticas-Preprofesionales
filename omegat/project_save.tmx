@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2138,8 +2138,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;What attracted even greater attention, though it carried less weight, was a vigorous defense (the likes of which had not been seen in over two years) of learning from &lt;/f0&gt;&lt;f1&gt;capitalism&lt;/f1&gt;&lt;f2&gt; by Fang Sheng, an economist at Chinese People’s University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020200Z">
-        <seg>&lt;f0&gt;Lo que llamó aun más la atención, aunque tenía menos peso fue una defensa vigorosa que no se había vista en casi dos años) de aprender del  &lt;/f0&gt;&lt;f1&gt;capitalismo&lt;/f1&gt;&lt;f2&gt; que hizo Fang Sheng, un economista de la Universidad Popular China. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T124904Z">
+        <seg>&lt;f0&gt;Lo que llamó aun más la atención, aunque tenía menos peso, fue una defensa vigorosa (del tipo que no se había vista en aproximadamente dos años) sobre aprender del &lt;/f0&gt;&lt;f1&gt;capitalismo&lt;/f1&gt;&lt;f2&gt; que hizo Fang Sheng,economista de la Universidad Popular China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7053,8 +7053,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Decrying “leftist” influences in the past that had led China to take a “tortuous” path, Fang urged “absorbing certain views, models, and methods from contemporary &lt;/f2&gt;&lt;f3&gt;bourgeois&lt;/f3&gt;&lt;f4&gt; economic theories” – even if it meant that “exploitation” would exist in China for a while.&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;However, despite publication of the two editorials and of Fang Sheng’s article, Beijing’s media remained silent about Deng’s trip to the south, indicating the deep opposition within the Party to Deng and his views.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160909T013027Z">
-        <seg>Criticando las influencias “izquierdistas” en el pasado que llevaron a China por un camino “tortuoso”, Fang abogó por la “absorción de ciertos puntos de vistas, modelos y métodos de las teorías económicas de la &lt;/f2&gt;&lt;f3&gt;burguesía&lt;/f3&gt;&lt;f4&gt; contemporánea” aunque ello implicaba que la “explotación” existiría en China por un período.&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Sin embargo, pese a la publicación de las dos notas editoriales y del árticulo editorial de Fang Sheng, los medios de comunicación de Pekín no dijeron ni una palabra acerca del viaje de Deng hacia el sur. Esto indicaba la fuerte oposición que existía en el seno del partido con respecto a Deng y sus puntos de vista. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T125114Z">
+        <seg>Criticando las influencias “izquierdistas” en el pasado que llevaron a China por un camino “tortuoso”, Fang abogó por la “absorción de ciertos puntos de vistas, modelos y métodos de las teorías económicas de la &lt;/f2&gt;&lt;f3&gt;burguesía&lt;/f3&gt;&lt;f4&gt; contemporánea”, incluso si ello implicaba que la “explotación” existiría en China durante un período.&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Sin embargo, pese a la publicación de las dos notas editoriales y del árticulo editorial de Fang Sheng, los medios de comunicación de Pekín no dijeron ni una palabra acerca del viaje de Deng hacia el sur. Esto indicaba la fuerte oposición que existía en el seno del partido con respecto a Deng y sus puntos de vista. </seg>
       </tuv>
     </tu>
     <tu>
