@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24525,8 +24525,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Yang Ping and Wang Xiaodong brought to their editorial direction a strong sense of nationalism, a desire to see a strong state that expressed that nationalism, and a sense of populism that made them sometimes quite critical of the existing government.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160908T121522Z">
-        <seg>Yang Ping y Wang Xiaodong trajeron a su dirección editorial un gran sentimiento de nacionalismo, el deseo de ver un estado poderoso que expresara ese nacionalismo y un sentimiento de populismo que a veces los hacía críticos del gobierno presente.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T142041Z">
+        <seg>Yang Ping y Wang Xiaodong incorporaron a su dirección editorial un gran sentimiento de nacionalismo, el deseo de ver un estado poderoso que expresara ese nacionalismo y un sentimiento de populismo que a veces los hacía críticos del gobierno presente.</seg>
       </tuv>
     </tu>
     <tu>
