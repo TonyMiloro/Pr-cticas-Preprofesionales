@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9410,8 +9410,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hastily written and published, the five young authors were taking advantage of the anti-American sentiment that had welled up in the wake of the 1995–6 Taiwan Straits crisis and the dispatch of two American carrier task forces to the area.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T024413Z">
-        <seg>Los 5 autores del libro, el cual fue escrito y publicado en muy poco tiempo, estaban aprovechándose del sentimiento antiestadounidense que había surgido luego de la crisis del Estrecho de Taiwán entre 1995 y 1996, y del envió de dos transportes de unidad militar estadounidense a esa región.  </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T155209Z">
+        <seg>Los 5 autores del libro, el cual fue escrito y publicado en muy poco tiempo, se aprovechaban del sentimiento antiestadounidense que había surgido luego de la crisis del Estrecho de Taiwán entre 1995 y 1996, y del envió de dos transportes de unidad militar estadounidense a esa región.  </seg>
       </tuv>
     </tu>
     <tu>
