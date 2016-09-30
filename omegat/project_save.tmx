@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13223,8 +13223,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In this way Xiao, like Sheng Hong, was quite different from neoconservatives who simply sought to strengthen the central state as well as from the New Left thinkers (examined in the next chapter) who rejected economic and political liberalism in a search for a new path.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160930T041239Z" creationid="Franco" creationdate="20160930T041111Z">
-        <seg>De esta manera Xiao, como Sheng Hong, era un tanto diferente de los neoconservadores, quienes simplemente buscaban fortalecer el estado central, así como también los pensadores de la nueva izquierda (analizados en este capítulo), quienes rechazaban el liberalismo económico y político en busca de un nuevo camino.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T041332Z" creationid="Franco" creationdate="20160930T041111Z">
+        <seg>De esta manera Xiao, como Sheng Hong, era un tanto diferente de los neoconservadores, quienes simplemente buscaban fortalecer el estado central, así como también los intelecuales de la nueva izquierda (analizados en este capítulo), quienes rechazaban el liberalismo económico y político en busca de un nuevo camino.</seg>
       </tuv>
     </tu>
     <tu>
