@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2330,8 +2330,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang’s desire for elite rule is rooted in his passion for stability.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T180528Z">
-        <seg>&lt;f0&gt;El deseo de Wang de que gobierne la elite esta arraigado en su pasión por la estabilidad.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T190421Z">
+        <seg>&lt;f0&gt;El deseo de Wang de que gobierne la élite está arraigado en su pasión por la estabilidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,8 +2458,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;fear that reform will be too destabilizing.&lt;/f0&gt;&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt; As he puts it: “What I fear most is that as soon as revolutionary thought or theories are imported into China they will stimulate the division of strata, which has already started, and bring about a destructive revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T203658Z">
-        <seg>&lt;f0&gt;teme que la reforma sea muy desestabilizadora.&lt;/f0&gt;&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt; En sus palabras: "Lo que mas temo es que en cuanto los pensamientos y teorias revolucionarias se importen en China, provocarán la división de estratos, que ya ha comenzado, y ocasionarán una revolución destructiva.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T191159Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;porque teme que la reforma sea muy desestabilizadora&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt;. En sus palabras: "Lo que mas temo es que en cuanto los pensamientos y teorias revolucionarias se importen en China, provocarán la división de estratos, que ya ha comenzado, y ocasionarán una revolución destructiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9120,8 +9120,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>For all of his expressed sympathy for the Cultural Revolution, Wang declares that he wants China to “improve” (&lt;/f0&gt;&lt;f1&gt;gailiang&lt;/f1&gt;&lt;f2&gt;) rather than “reform” (&lt;/f2&gt;&lt;f3&gt;gaige&lt;/f3&gt;&lt;f4&gt;) for&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T203013Z">
-        <seg>Debido a la evidente simpatía que expresa por la Revolución Cultural, Wang declara que desea que China " mejore” (&lt;/f0&gt;&lt;f1&gt;gailiang&lt;/f1&gt;&lt;f2&gt;) antes que  “reforme” (&lt;/f2&gt;&lt;f3&gt;gaige&lt;/f3&gt;&lt;f4&gt;) porque &lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T190828Z">
+        <seg>Debido a la evidente simpatía que expresa por la revolución cultural, Wang declara que desea que China “mejore” (&lt;/f0&gt;&lt;f1&gt;gailiang&lt;/f1&gt;&lt;f2&gt;) antes de que “se reforme” (&lt;/f2&gt;&lt;f3&gt;gaige&lt;/f3&gt;&lt;f4&gt;) porque&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11541,6 +11541,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160927T024950Z">
         <seg>En una entrevista con &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;La charla&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;quincenal&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Banyue tan&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;), Chen invocó la retórica de Deng en reiteradas oportunidades, criticando el &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;“pensamiento anquilosado” y respaldando explícitamente la "teoría del gato" de Deng.&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;17&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; En cambio, el secretario del partido de Pekín, quien sería expulsado por su resistencia evidente a las políticas de Deng luego del viaje del patriarca a Shenzhen en 1992, evitó el uso de la misma retórica reformista.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In an interview, writer Liu Zhifeng says, “[y]ou hint that China needs a god like Mao Zedong, a great idol”; Wang replies, “[y]es, but I can’t easily say this.” Liu continues: “My understanding is that you are saying that China needs a period of rule by man, of elite rule, and cannot very quickly institute rule by law.” Wang’s response: “Yes, elite rule.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T190252Z" creationid="Usuario-Pc" creationdate="20160930T190252Z">
+        <seg>Durante una entrevista, el escritor Lui Zhifengm expresa: “insinúas que China necesita un dios como Mao Zedong, un gran ídolo”; Wang le responde: “sí, pero no me es fácil decirlo”. A lo que Lui continúa: “Comprendo que estas enunciando que China necesita un período de gobierno de los hombres, de gobierno de élite y que no se puede instaurar el gobierno a través la ley”. Wang responde: “Sí, gobierno de élite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18038,8 +18046,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Rule by law is unreliable.”&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T180617Z">
-        <seg>El gobierno a través de la ley no es confiable”.&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T190337Z">
+        <seg>El gobierno a través de la ley no es confiable”&lt;/f0&gt;&lt;f1&gt;62&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
