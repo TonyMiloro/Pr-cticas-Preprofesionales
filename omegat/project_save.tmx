@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25198,8 +25198,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wen Jiabao presides over a State Council meeting that discusses the SARS issue</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T200530Z">
-        <seg>Wen Jibao preside una reunión del Consejo de Estado para tratar el SRAG (Síndrome Respiratorio Agudo Grave).</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T201516Z">
+        <seg>Wen Jibao preside una reunión del Consejo de Estado para tratar el SRAS.</seg>
       </tuv>
     </tu>
     <tu>
