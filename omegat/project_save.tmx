@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13450,8 +13450,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang, although no longer on the Politburo, was nevertheless shown in the center of the picture, a full step ahead of Hu Jintao and others.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T015122Z" creationid="Ana Maria" creationdate="20160929T015122Z">
-        <seg>Si bien no pertenecía ya al politburó, se encontraba en el centro de la fotografía y un paso más adelante de Hu Jintao y otros.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T144120Z" creationid="Ana Maria" creationdate="20160929T015122Z">
+        <seg>Si bien no pertenecía ya al politburó, se encontraba en el centro de la fotografía y un paso más adelante de Hu Jintao y de otros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15772,8 +15772,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Of course, Jiang was still president of the PRC at the time, but this visual eclipsing of Hu suggested a leader unwilling to give up his pride of place in the political system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T015302Z" creationid="Ana Maria" creationdate="20160929T015159Z">
-        <seg>No cabe duda que Jiang era aun presidente de la RPCh en ese momento, pero este eclipse visual de Hu sugería un líder renuente a abandonar su lugar de privilegio en el sistema político.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T144159Z" creationid="Ana Maria" creationdate="20160929T015159Z">
+        <seg>No cabe duda que Jiang era aún presidente de la RPCh en ese momento, pero este eclipse visual de Hu sugería un líder renuente a abandonar su lugar de privilegio en el sistema político.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15829,8 +15829,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On April 6, 2003, China’s Arbor Day, following the closing of the NPC, Jiang was again prominently displayed in the center of a picture in the People’s Daily.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T015352Z" creationid="Ana Maria" creationdate="20160929T015352Z">
-        <seg>El 6 de abril de 2003, el día del árbol en China, seguido del cierre de la APN, Jiang apareció nuevamente en el centro de una fotografía en People’s Daily.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T144319Z" creationid="Ana Maria" creationdate="20160929T015352Z">
+        <seg>El 6 de abril de 2003, el Día del Árbol en China, seguido del cierre de la APN, Jiang apareció nuevamente en el centro de una fotografía en People’s Daily.</seg>
       </tuv>
     </tu>
     <tu>
