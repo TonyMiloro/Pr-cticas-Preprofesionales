@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7397,8 +7397,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Cui draws heavily on analytic Marxism (especially the work of John Roemer), neo-evolutionary biology, and critical legal studies (particularly Roberto Unger) to derive what are basically social democratic solutions to China’s problems.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T135630Z" creationid="Martin" creationdate="20160929T135630Z">
-        <seg>Cui se basa en gran medida en el marxismo analítico (sobre todo en la obra de John Roemer), la biología neo-evolutiva, y los estudios críticos del derecho (en especial Roberto Unger) para deducir básicamente soluciones democráticas sociales para los problemas de China.</seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T002617Z" creationid="Martin" creationdate="20160929T135630Z">
+        <seg>Cui se basa en gran medida en el marxismo analítico (sobre todo en la obra de John Roemer), la biología neoevolutiva, y los estudios críticos del derecho (en especial Roberto Unger) para deducir lo que son basicamente soluciones democráticas sociales a los problemas de China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16532,8 +16532,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nonetheless, Cui has drawn on neo-evolutionary biology to argue that just as animals in the course of evolution might lose a characteristic while retaining the gene – and thus the ability to regain the lost characteristic at some later point in evolutionary history – contemporary Chinese society can draw on some of the practices of the Mao era, including that of Anshan, to create a more just and humane society in the future.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160930T001755Z" creationid="Gime" creationdate="20160929T030918Z">
-        <seg>No obstante, Cui recurrió a la biología neoevolucionaria para justificar que al igual que los animales pueden perder características pero retener el gen durante su evolución (y por lo tanto también retener la habilidad de recuperar esas características perdidas en algún punto de la historia evolucionaria) China contemporánea también puede hacer uso de algunas de las prácticas de la era maoísta, incluso aquellas de Anshan, para crear una sociedad más justa y humana en el futuro. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T002317Z" creationid="Gime" creationdate="20160929T030918Z">
+        <seg>No obstante, Cui recurrió a la biología neoevolutiva para justificar que al igual que los animales pueden perder características pero retener el gen durante su evolución (y por lo tanto también retener la habilidad de recuperar esas características perdidas en algún punto de la historia evolucionaria) China contemporánea también puede hacer uso de algunas de las prácticas de la era maoísta, incluso aquellas de Anshan, para crear una sociedad más justa y humana en el futuro. </seg>
       </tuv>
     </tu>
     <tu>
