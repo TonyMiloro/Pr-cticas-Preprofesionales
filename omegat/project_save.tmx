@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15589,8 +15589,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Lurking behind much of this criticism, as with&lt;t4/&gt; &lt;t5/&gt;similar criticism in the West, was a deep-seated suspicion of multinational&lt;t6/&gt; &lt;t7/&gt;firms and capitalism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160930T220113Z">
-        <seg>Escondida detras de muchas de estas críticas, como con&lt;t4/&gt; &lt;t5/&gt;críticas similares del oeste, se encontraba una sospecha arraigada sobre compañías&lt;t6/&gt; &lt;t7/&gt;multinacionales y capitalismo.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160930T220155Z">
+        <seg>Escondida detras de muchas de estas críticas (como con&lt;t4/&gt; &lt;t5/&gt;críticas similares hechas en Occidente) se encontraba una sospecha arraigada sobre compañías&lt;t6/&gt; &lt;t7/&gt;multinacionales y capitalismo.</seg>
       </tuv>
     </tu>
     <tu>
