@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20127,8 +20127,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The bottom line is that as Hu Jintao moves into his second term as general secretary, the Seventeenth Party Congress has given him a substantial, but not unlimited, mandate to pursue his agenda of addressing inequity in society, pursuing growth in ways that are more compatible with sustainable development, and the implementation of Party building efforts that will incorporate a greater degree of inner-Party democracy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T172313Z">
-        <seg>El resultado es que a medida que Hu Jintao avanza hacia su segundo período como secretario general, el decimo séptimo congreso del partido le ha encomendado, de manera sustancial, pero no ilimitada, que continúe con su agenda que aborda la inequidad en la sociedad, que busca el crecimiento de formas que sean más compatibles con el desarrollo sustentable, y que busca la implementación de iniciativas por parte del partido que contribuyan a los esfuerzos de construir un mayor grado de democracia intrapartidaria. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T172525Z">
+        <seg>El resultado es que a medida que Hu Jintao avanza hacia su segundo período como secretario general, el decimo séptimo congreso del partido le ha encomendado, de manera sustancial, pero no ilimitada, que continúe con su agenda que aborda la inequidad social, que busca el crecimiento de modos que sean más compatibles con el desarrollo sustentable, y que busca la implementación de iniciativas por parte del partido que contribuyan a los esfuerzos de construir un mayor grado de democracia intrapartidaria. </seg>
       </tuv>
     </tu>
     <tu>
