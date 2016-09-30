@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5383,6 +5383,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="user" changedate="20160929T024630Z" creationid="user" creationdate="20160929T024630Z">
         <seg>A la vez, la clase media no podía desarrollarse de manera significativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the same time, the number of&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;rural workers seeking employment in coastal cities grew significantly, drawing increased attention as rail lines were clogged (particularly around the lunar new year), shanty towns grew up, and crime rates increased.&lt;/f4&gt;&lt;f5&gt;13&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Nevertheless, when Deng Xiaoping visi&lt;/f6&gt;&lt;f8&gt;ted Shenzhen in 1992, he argued that the problem of regional differences need not be addressed too quickly: “Of course, it will not do to adopt this method [of the developed regions supporting the interior] too early.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T191942Z" creationid="Magui" creationdate="20160930T191942Z">
+        <seg>Al mismo tiempo aumentaba significativamente la cantidad de trabajadores rurales que buscaban trabajo en ciudades costeras, lo que llamó la atención ya que se obstruían las vías del tren (especialmente durante el año nuevo lunar), crecían las villas de emergencia y aumentaban las tasas de delincuencia.&lt;/f4&gt;&lt;f5&gt;13&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;Sin embargo, cuando Deng Xiaoping visitó Shenzhen en 1992, argumentó que el problema de las diferencias regionales no necesitaba ser tratado con tanta urgencia: "Por supuesto, no será una solución adoptar este método (de las regiones desarrolladas que apoyan al interior) demasiado temprano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16346,6 +16354,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now, we cannot weaken the vitality of&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;the developed regions, and we cannot encourage ‘eating from the common pot’.”&lt;/f10&gt;&lt;f11&gt;14&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T192020Z" creationid="Magui" creationdate="20160930T192020Z">
+        <seg>Aún así, no podemos debilitar la vitalidad de las regiones desarrolladas y no podemos alentar a 'que se coma de la misma olla'".&lt;/f10&gt;&lt;f11&gt;14&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, when we look back, what is left of Mao’s inheritance?</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185726Z">
@@ -19980,6 +19996,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Seventh Five-Year Plan (1986–90) formalized the strategy, and the policy of integrating the east coast into the international economy by putting “both ends on the outside” (&lt;/f0&gt;&lt;f1&gt;liangtou zaiwai&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;–&lt;s4/&gt;&lt;/f2&gt;&lt;f5&gt;i.e., importing raw materials and exporting finished products) further extended the pol-icy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T191630Z" creationid="Magui" creationdate="20160930T191630Z">
+        <seg>El Séptimo Plan Quinquenal (1986-90) formalizó la estrategia y la política de integrar la costa este con la economía internacional mediante la colocación de "ambos extremos afuera" (&lt;/f0&gt;&lt;f1&gt;liangtou zaiwai&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;–&lt;s4/&gt;&lt;/f2&gt;&lt;f5&gt;es decir importar materia prima y exportar el producto terminado) extendió la política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Sixteenth Party Congress had approved a campaign to study the&lt;t0/&gt; &lt;t1/&gt;Three Represents, and Li Changchun had called for the same during a national meeting of propaganda department heads in &lt;t2/&gt;January.&lt;t3/&gt;50&lt;t4/&gt; &lt;t5/&gt;It &lt;t6/&gt;is likely that the launch of the campaign was delayed by the SARS crisis, but by June the Party felt able to move ahead with the promised ideological campaign.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T124040Z">
@@ -22710,6 +22734,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235644Z">
         <seg>Según creía, estas personas &lt;t0/&gt;se identificaban&lt;t1/&gt; con Occidente y denigraban al pueblo chino sobre la base de estándares occidentales, algo que él luego catalogaría como "racismo inverso". En sus palabras, los autores "ridiculizaban el amor torpe por la tierra amarilla que sentían los campesinos chinos y veneraban profundamente el valor y la perspicacia de los occidentales al exponerse a &lt;t2/&gt;dificultades&lt;t3/&gt; innumerables". En un artículo posterior, Wang manifestó que en los años 80 (e incluso en los 90) "los intelectuales chinos se dejaron llevar por la idea de que la cultura china era inferior y que la población china era una raza inferior", lo cual constituía una tendencia de pensamiento que, según Wang, el gobierno había fomentado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These policies clearly helped China’s economic development, but they also brought about increasing inequalities as the eastern seaboard began to develop more quick&lt;/f5&gt;&lt;f6&gt;ly.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T191642Z" creationid="Magui" creationdate="20160930T191642Z">
+        <seg>Estas políticas claramente ayudaron al desarrollo económico de China, pero también trajeron grandes desigualdades ya que la costa este comenzó a desarrollarse más rápido.</seg>
       </tuv>
     </tu>
     <tu>
