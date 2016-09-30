@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2292,6 +2292,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160930T034804Z" creationid="Barri" creationdate="20160930T034804Z">
         <seg>&lt;f0&gt;Xiao Gongqin es un pensador que se inclina más hacia lo histórico que Wang Huning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Xiao argued that Yan’s thinking should not be dichotomized into early reformism and later conservatism but instead should be seen as a whole.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035615Z" creationid="Barri" creationdate="20160930T035615Z">
+        <seg>&lt;f0&gt;Xiao sostenía que el pensamiento de Yanno debía ser una dicotomía entre la primera época  del reformismo y el final del conservadurismo, en cambio debía ser visto como un todo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26397,6 +26405,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What unified Yan’s thinking, in Xiao’s opinion, was his understanding that societies were complex and organic wholes that could not be cut apart or transplanted lock, stock, and barrel; they had to evolve.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035636Z" creationid="Barri" creationdate="20160930T035636Z">
+        <seg>Lo que unificó el pensamiento de Yan, según el punto de vista de Xiao, era comprender que las sociedades eran un todo complejo y orgánico que no podía dividirse o transplantarse y almacenarse; tenían que evolucionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What was different in the globalization of recent years when compared &lt;t0/&gt;with that of the past five centuries, and which gave symbolic import to the &lt;t1/&gt;date 1992, was that the pace of globalization had increased exponentially &lt;t2/&gt;and its nature had changed.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160929T183138Z" creationid="joaquin" creationdate="20160929T183134Z">
@@ -27105,6 +27121,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200816Z">
         <seg>Secretariado del PCCh en Xinjiang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yan is usually understood as introducing Western learning as a means to make China “wealthy and powerful”&lt;s15/&gt;&lt;/f14&gt;&lt;f16&gt;(fuqiang&lt;/f16&gt;&lt;f17&gt;).&lt;/f17&gt;&lt;f18&gt;&lt;t19/&gt;&lt;/f18&gt;&lt;f20&gt;&lt;s21/&gt;Following the revolution of 1911 and particularly in his support of Yuan Shikai’s monarchical efforts, Yan is usually depicted as a tired and conservative old man who had fallen behind the spirit of his times.&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035423Z" creationid="Barri" creationdate="20160930T035423Z">
+        <seg>Por lo general, se sobreentiende que Yan es el introductor del aprendizaje occidental como un medio para hacer que China sea “rica y poderosa”&lt;s15/&gt;&lt;/f14&gt;&lt;f16&gt;(fuqiang&lt;/f16&gt;&lt;f17&gt;).&lt;/f17&gt;&lt;f18&gt;&lt;t19/&gt;&lt;/f18&gt;&lt;f20&gt;&lt;s21/&gt;Después de la revolución de 1911 y en particular su apoyo a los esfuerzos monárquicos de Yuan Shikai, generalmente se lo describe a Yan como un viejo cansado y conservador que se ha quedado atrás en el tiempo.&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
