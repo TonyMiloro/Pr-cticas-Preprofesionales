@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -713,8 +713,8 @@
       <tuv lang="EN-US">
         <seg>60 Some within the Party argued that the implementation of reform in Eastern Europe had led to the collapse of communism there, while others argued that communism collapsed because the planned economy had continued to prevail in those countries.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T001345Z">
-        <seg>Dentro del Partido, algunos argumentan que la implementación de la reforma en Europa Oriental ha llevado al colapso del comunismo allí establecido, mientras que otros argumentan que el comunismo colapsó a causa de que de la economía planificada ha prevalecido en aquellos países.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T163838Z" creationid="Usuario" creationdate="20160930T163838Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4466,6 +4466,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As Wang put it, “[o]nly by criticizing and struggling against the ideological trend of bourgeois liberalization will we be able to consolidate and develop the political situation of stability and unity and to promote the smooth development of &lt;t0/&gt;socialist construction.” In effect, Wang reinterpreted Deng’s slogan “stability overrides everything” – a phrase coined to relax ideological tension – as a clarion call for ideological struggle as the 58 “Zhonggong Zhongyang guanyu jinyibu zhili zhengdun he shenhua gaige de jueding (zhaiyao).” 59 Jiang Zemin, “Zai dang de shisanjie wuzhong quanhui shangde jianghua,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T162951Z" creationid="Usuario" creationdate="20160930T162951Z">
+        <seg>Wang afirmó que, solo por este camino, el labor económico podría llevarse a cabo sin desviarse de la orientación socialista. Como Wang dijo, “solo criticando y luchando contra la tendencia ideológica de la liberalización burguesa seremos capaces de consolidar y desarrollar la atmósfera política de estabilidad y unidad y promover el desarrollo parejo de la construcción socialista”. De hecho, Wang reinterpretó el eslogan de Deng “La estabilidad se antepone a todo”, una frase creada para atenuar tensiones ideológicas, como un llamado a una lucha ideológica como base de algún supuesto equilibrio futuro. Para que nadie piense que el tiempo ha llevado a flexibilizar la campaña en contra de la liberalización burguesa Wang declaró: “recién hemos comenzado” a esclarecer los errores ideológicos y que “la lógica de la lucha es cruel y despiadada”61.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As Wang put it, “[o]nly by criticizing and struggling against the ideological trend of bourgeois&lt;s3/&gt;liberalization will we be able to consolidate and develop the political situation of stability and unity and to promote the smooth development of socialist construction.” In effect, Wang reinterpreted Deng’s slogan “stability overrides everything” – a phrase coined to relax ideological tension – as a clarion call for ideological struggle as the 58 “Zhonggong Zhongyang guanyu jinyibu zhili zhengdun he shenhua gaige de jueding (zhaiyao).” 59 Jiang Zemin, “Zai dang de shisanjie wuzhong quanhui shangde jianghua,” p.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T001039Z">
@@ -4556,8 +4564,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As a result, basic energy and material sectors were drained of investment capital while transportation and energy supplies were always strained by demand.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T012041Z">
-        <seg>Como resultado,se le quitó capital de inversión a la energía básica y los sectores materiales mientras que el transporte y los suministros de energía siempre han sido presionados por la demanda.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T165522Z">
+        <seg>Como resultado, se le quitó el capital de inversión a los sectores de energía básica y de materiales, mientras que el transporte y los suministros de energía siempre han sido agotados por la demanda. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5125,8 +5133,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At that meeting, conservative Party leaders, concerned that Zhao and others would blunt the campaign against bourgeois liberalization that had unfolded in the wake of Hu Yaobang’s ouster, tried to breathe new fire into the movement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T032645Z">
-        <seg>En este encuentro,los líderes del Partido Conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de reavivar el movimiento.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T163943Z">
+        <seg>En este encuentro, los líderes del partido conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de reavivar el movimiento. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9273,8 +9281,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For years, conservatives had complained that reform had directed investment into small-scale, less efficient industries (mostly township and village enterprises, TVEs) that competed with large- and medium-sized state-owned industries for scarce energy, transportation, and raw materials.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T031652Z">
-        <seg>Durante años, los conservadores se han quejado de que la reforma ha direccionado inversiones a una menor escala, industrias menos eficientes ( mayormente empresas de poblados y aldeas, TVE) que competían por escaza energía, transporte y materia prima con las industrias estatales grandes y medianas. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T165504Z">
+        <seg>Durante años, los conservadores se han quejado de que la reforma ha direccionado inversiones a industrias de menor escala y menos eficientes (la mayoría empresas de comunas y pueblos, TVE) que competían con grandes y medianas industrias estatales por energía limitada, transporte y materia prima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13278,6 +13286,14 @@ It is not fire proof.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was after that meeting, and apparently because of it, that Deng authorized Zhao’s famous May 13, 1987 speech that closed off the campaign against bourgeois liberalization and prepared the political atmosphere for the Thirteenth Party Congress in the fall.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T164019Z" creationid="Usuario" creationdate="20160930T164019Z">
+        <seg>Fue después de aquel encuentro, y aparentemente a causa de este, que Deng autorizó el famoso discurso de Zhao el 13 de mayo del año 1987 que finalizó la campaña en contra de la liberalización burguesa y preparó la atmósfera política para el Decimotercer Congreso Partidario en otoño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was after that meeting, and apparently because of it, that Deng authorized Zhao’s famous May 13, 1987 speech that closed off the campaign against bourgeois liberalization and prepared the political atmosphere for the Thirteenth&lt;s4/&gt;Party Congress in the fall.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T003527Z">
@@ -14330,8 +14346,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Lest anyone think that the time had come to relax the campaign against bourgeois liberalization, Wang declared that “[w]e have only just started” to clarify ideological errors and that “[t]he logic of struggle is cruel and merciless.”61 Wang’s speech was followed by a full-page article in the People’s Daily praising the notorious “Zhuozhuo meeting” of 1987.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T002139Z">
-        <seg>Para que nadie piense que el tiempo ha llevado a flexibilizar la campaña en contra de la liberación de la burguesía, Wang declaró : " recién hemos comenzado" a esclarecer los errores ideológios y que " la lógica de la problemática es cruel y no tiene piedad".61 Al discurso de Wang le siguió una página completa de un artículo en el People´s Daily que elogiaba el notorio " encuentro Zhiozhuo" de 1987.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T163924Z">
+        <seg>Al discurso de Wang le siguió una página completa de un artículo en el People´s Daily que elogiaba el notorio “encuentro Zhiozhuo” de 1987.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15340,8 +15356,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, reform strategy had led to a regional bias as TVEs along the east coast grew and developed while industry and living standards in the interior lagged behind.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160928T012529Z">
-        <seg>Además , la estrategia de reforma ha llevado a una inclinación regional como TVE a lo largo de la costa oriental que ha crecido y desarrollado mientras que la industria y el nivel de vida en el interior ha quedado por detrás.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T165542Z">
+        <seg>Además, la estrategia de la reforma provocó diferencias regionales  debido a que las TVE crecieron y se desarrollaron a lo largo de la costa este, mientras que la industria y el nivel de vida en el interior quedaron atrás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16076,8 +16092,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Now, in the wake of Zhao’s ouster, conservative writer Chen Daixi (writing under the pseudonym “Yi Ren”) accused Zhao of using “all kinds of dirty tricks with the most malicious motives” to suppress the Zhuozhuo meeting.62 Obviously, Chen, as well as other conservative writers at the time, was aware that Deng had fully supported the stoppage of the 1987 campaign and they hoped to prevent him from doing so again.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T033549Z">
-        <seg>Ahora, tras la destitución de Zhao, el escritor conservador Chen Daixi ( quién escribe bajo el pseudónimo "Yi Ren") acusó a Zhao de usar "todo tipo de trucos sucios con los más malintencionados motivos" para suprimir el encuentro llamado Zhuozhuo.62 Obviamente, Chen, así como otros escritores conservadores del momento, era consciente de que Deng había apoyado enérgicamente la suspención de la campaña de 1987 y esperaban impedirle que lo volviese a hacer.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T164026Z">
+        <seg>Ahora, tras la destitución de Zhao, el escritor conservador Chen Daixi (quién escribe bajo el pseudónimo “Yi Ren”) acusó a Zhao de usar “todo tipo de trucos sucios con los más malintencionados motivos” para suprimir el encuentro Zhuozhuo62. Obviamente, Chen, así como otros escritores conservadores del momento, era consciente de que Deng había apoyado enérgicamente la suspención de la campaña de 1987 y esperaban impedirle que lo volviese a hacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26579,6 +26595,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T230536Z">
         <seg>La reforma llega a su punto más bajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reinforcing state planning The strength of the conservative wing of the Party in the winter of 1989– 90 was indicated not only by the directness of the challenge to Deng’s ideological authority but also by a major effort to restore at least a significant measure of state planning to the economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T165438Z" creationid="Usuario" creationdate="20160930T165438Z">
+        <seg>FORTALECIMIENTO DE LA PLANIFICACIÓN ESTATAL. La fuerza de la tendencia conservadora del partido en el invierno de 1989-90 se observaba no sólo en el evidente desafío a la autoridad ideológica de Deng, sino también en el gran esfuerzo para reestablecer al menos una medida significativa de la planificación estatal de la economía.</seg>
       </tuv>
     </tu>
     <tu>
