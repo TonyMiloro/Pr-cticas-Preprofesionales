@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20050,8 +20050,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Such generational change did not end opposition to more thoroughgoing reform, as there seemed to be a limitless supply of central officials whose careers and interests are tied to the preservation of the old state-run economy, but it certainly weakened political resistance at the highest reaches of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015937Z" creationid="LENOVO" creationdate="20160919T220657Z">
-        <seg>Este cambio generacional no significó el fin de la oposición a una reforma más exhaustiva ya que parecía haber un suministro ilimitado de funcionarios cuyas carreras e intereses dependían de la preservación de una economía controlada por el Estado pero, definitivamente, debilitó la resistencia política de las más altas esferas del Partido. </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015954Z" creationid="LENOVO" creationdate="20160919T220657Z">
+        <seg>Este cambio generacional no significó el fin de la oposición a una reforma más exhaustiva ya que parecía haber un suministro ilimitado de funcionarios cuyas carreras e intereses dependían de la preservación de una economía controlada por el estado pero, definitivamente, debilitó la resistencia política de las más altas esferas del Partido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26005,8 +26005,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>What is more, the mounting problems of state-owned enterprises were becoming 1 Wei Ming, “&lt;t6/&gt;Yijiu&lt;t7/&gt; &lt;t8/&gt;jiu’er&lt;t9/&gt; &lt;t10/&gt;nian&lt;t11/&gt; &lt;t12/&gt;yilai&lt;t13/&gt; &lt;t14/&gt;zichan&lt;t15/&gt; &lt;t16/&gt;jieji&lt;t17/&gt; &lt;t18/&gt;ziyouhua&lt;t19/&gt; de &lt;t20/&gt;dongtai&lt;t21/&gt; he &lt;t22/&gt;tedian&lt;t23/&gt;.” &lt;t24/&gt;2 Jiang Zemin, “Memorial Speech at Deng Xiaoping’s Memorial Meeting.”&lt;t25/&gt; P1: SJT 9780521866934c07 CUUK1178/&lt;t26/&gt;Fewsmith&lt;t27/&gt; 9780521866934 June 6, 2008 21:3 Elite politics under globalization and nationalism 199 increasingly difficult to deny.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T220846Z" creationid="LENOVO" creationdate="20160919T220846Z">
-        <seg>Además, los crecientes problemas de las empresas estatales se volvían cada vez más difíciles de negar.&lt;t6/&gt;Yijiu&lt;t7/&gt; &lt;t8/&gt;jiu’er&lt;t9/&gt; &lt;t10/&gt;nian&lt;t11/&gt; &lt;t12/&gt;yilai&lt;t13/&gt; &lt;t14/&gt;zichan&lt;t15/&gt; &lt;t16/&gt;jieji&lt;t17/&gt; &lt;t18/&gt;ziyouhua&lt;t19/&gt; de &lt;t20/&gt;dongtai&lt;t21/&gt; he &lt;t22/&gt;tedian&lt;t23/&gt;.” &lt;t24/&gt;2 Jiang Zemin, “Memorial Speech at Deng Xiaoping’s Memorial Meeting.”&lt;t25/&gt; P1: SJT 9780521866934c07 CUUK1178/&lt;t26/&gt;Fewsmith&lt;t27/&gt;</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T020032Z" creationid="LENOVO" creationdate="20160919T220846Z">
+        <seg>Además, los crecientes problemas de las empresas estatales se volvían cada vez más difíciles de negar. &lt;t6/&gt;Yijiu&lt;t7/&gt; &lt;t8/&gt;jiu’er&lt;t9/&gt; &lt;t10/&gt;nian&lt;t11/&gt; &lt;t12/&gt;yilai&lt;t13/&gt; &lt;t14/&gt;zichan&lt;t15/&gt; &lt;t16/&gt;jieji&lt;t17/&gt; &lt;t18/&gt;ziyouhua&lt;t19/&gt; de &lt;t20/&gt;dongtai&lt;t21/&gt; he &lt;t22/&gt;tedian&lt;t23/&gt;.” &lt;t24/&gt;2 Jiang Zemin, “Memorial Speech at Deng Xiaoping’s Memorial Meeting.”&lt;t25/&gt; P1: SJT 9780521866934c07 CUUK1178/&lt;t26/&gt;Fewsmith&lt;t27/&gt;</seg>
       </tuv>
     </tu>
     <tu>
