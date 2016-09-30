@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3667,6 +3667,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although Xing’s article was a step in this direction, Jiang was not yet prepared to confront directly the disputes wracking the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213234Z" creationid="Usuario" creationdate="20160930T213234Z">
+        <seg>Aunque el artículo de Xing fue un paso en esta dirección, Jiang todavía no estaba preparado para enfrentar de forma directa los conflictos que destruían al partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although Xing’s criticism of Li and Liu’s book illustrated the need for the Party to respond to intellectual discussions, Xing’s motive here seems to have been to set up a “right” to juxtapose to the “left” of the manifestos.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T145006Z" creationid="Lucrecia" creationdate="20160927T123934Z">
@@ -4571,6 +4579,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As &lt;t0/&gt;Chinese politics had polarized in the late 1980s, it had been increasingly difficult to prevent them from reverting to a struggle between two lines, as indeed the harsh criticism of Zhao Ziyang in the wake of Tiananmen suggested that, to a certain extent, it had.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213611Z" creationid="Usuario" creationdate="20160930T213611Z">
+        <seg>Como&lt;t0/&gt; la política china se había polarizado a finales de la década de los 80, había sido cada vez más difícil prevenir que vuelva la lucha entre dos líneas, como de hecho, lo había sido, hasta cierto punto, según lo sugirió la crítica dura de Zaho Ziyang tras Tiananmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As &lt;t0/&gt;he put it at one point, those who declared that we should "rely on Chinese &lt;t1/&gt;culture to save the world" are "arrogant and conceited" (&lt;t2/&gt;kuangwang&lt;t3/&gt;); not &lt;t4/&gt;only will this approach not push forward China's modernization, it runs</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160930T205240Z" creationid="joaquin" creationdate="20160930T205046Z">
@@ -5320,6 +5336,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160909T033230Z">
         <seg>Al principio, esto&lt;t4/&gt; &lt;t5/&gt;parecía no hacer mucha diferencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least in some readings of history, Mao had done the same thing in his battles against “rightist opportunism” (represented by Chen Duxiu) and “leftism” (represented by Wang Ming).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213645Z" creationid="Usuario" creationdate="20160930T213645Z">
+        <seg>Al menos, en algunas lecturas de historia, Mao había hecho lo mismo en las batallas en contra del “oportunismo derechista” (representado por Chen Duxiu) y el “izquierdismo” (representado por Wang Ming58).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6632,6 +6656,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155505Z" creationid="Mariela" creationdate="20160930T155505Z">
         <seg>Cao Gangchuan </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carving out a middle course, however, is not a simple matter.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213344Z" creationid="Usuario" creationdate="20160930T213344Z">
+        <seg>Forjar un curso intermedio, sin embargo, no es un asunto simple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11939,6 +11971,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast, Deng had defined himself and had been able to carry out reform by carving out a “middle course.” Indeed, Deng secured his authority in the post-Cultural Revolution context by abandoning the “struggle between two lines” in favor of a “struggle on two fronts” (that is, both left and right).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213725Z" creationid="Usuario" creationdate="20160930T213725Z">
+        <seg>Por lo contrario, al forjar un “curso intermedio”, Deng se había autodefinido y había sido capaz de llevar a cabo la reforma. De hecho, Deng aseguró su autoridad en el contexto de la revolución poscultural al abandonar la “lucha entre las dos líneas” a favor de una “lucha entre dos frentes” (es decir, la izquierda y la derecha57).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast, cadres tended to see the issues differently.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160930T203938Z" creationid="Agustín" creationdate="20160929T013332Z">
@@ -12383,6 +12423,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="daiana" changedate="20160927T005242Z">
         <seg>En síntesis, aunque las “respuestas realistas” marcaron una cierta maduración del pensamiento neoconservador, fue en verdad un punto de partida para nuevas exploraciones más que una agenda política desarrollada.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In short, cautiousness meant passivity; Jiang was general secretary, but it was the left that defined the limits to his actions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213756Z" creationid="Usuario" creationdate="20160930T213756Z">
+        <seg>En pocas palabras, la prudencia significa pasividad; Jiang fue Secretario General, pero fue la izquierda quien definió los límites de su acciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13747,6 +13795,14 @@ It is not fire proof.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Ana Paula" changedate="20160910T143734Z">
         <seg>Se podría decir que los neoautoritarios subestimaron la posibilidad de que una autoridad recentralizada se utilizara para fortalecer la autoridad personal (¡no necesariamente la de Zhao Ziyang!) en lugar de utilizarla para avanzar con las reformas mercadizadoras que ansiaban, de la misma forma en que los intelectuales liberales subestimaron las verdaderas dificultades que había para mantener la estabilidad social y continuar con la reforma económica, ya que algunas requerían de la creación de un Estado más fuerte, o al menos de uno más efectivo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It needs to be articulated and defended against critics on both the left and the right.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213307Z" creationid="Usuario" creationdate="20160930T213307Z">
+        <seg>Necesita que lo expresen y que lo defiendan tanto de las críticas de la izquierda como de la derecha. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16807,6 +16863,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160930T131706Z" creationid="andrea" creationdate="20160928T181712Z">
         <seg>Jiang comenzó a copiar este modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, after six years as general secretary and after being able slowly to build up his personal authority, Jiang began his attempt to define a new center.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213452Z" creationid="Usuario" creationdate="20160930T213452Z">
+        <seg>Ahora, después de seis años como Secretario General y después de poder crear con lentitud su autoridad personal, Jiang trató de definir un nuevo centro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26384,6 +26448,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160926T195220Z">
         <seg>Dentro del gobierno, se consideraba a Jian como "indulgente" en Estados Unidos y como un fuerte partidario de la membresía de la OMC.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without differentiating himself from the left, Jiang had neither the ability to tackle the serious problems that plagued the economy nor the freedom to define a “line” of his own.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213821Z" creationid="Usuario" creationdate="20160930T213821Z">
+        <seg>Sin diferenciarse de la izquierda, Jiang no tenía ni la habilidad de afrontar los problemas serios que fastidiaban a la economía ni la libertad para definir la “línea” por sí solo.</seg>
       </tuv>
     </tu>
     <tu>
