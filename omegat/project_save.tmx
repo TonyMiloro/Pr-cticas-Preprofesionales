@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2010,8 +2010,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Reflecting the same resentment of China’s cultural elite as Wang Xiaodong, Wang Shan declares in &lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt; that intellectuals lack the “knowledge, experience, ability, character, and prestige” to participate effec-tively in government and push forward the democratization of the coun-try.&lt;/f2&gt;&lt;f3&gt;54&lt;/f3&gt;&lt;f4&gt; The history of China’s various democratic movements, beginning with the Hundred Flowers Movement in 1957, shows that owing to the lack of maturity of China’s intellectuals, their struggles have failed to pro-mote the causes for which they strove.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T235827Z">
-        <seg>&lt;f0&gt; Con el mismo resentimiento que expresa Wang Xiaodong hacia la élite cultural de China, Wang Shan declara en  &lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt;  que a los intelectuales les falta "conocimiento, experiencia, habilidad, carácter y prestigio" para participar en el gobierno de forma eficaz y seguir adelante con la democratización del país.&lt;/f2&gt;&lt;f3&gt;54&lt;/f3&gt;&lt;f4&gt;  La historia de los diferentes movimientos democráticos de China, empezando por el Movimiento de las Cien Flores de 1957, muestra que los esfuerzos realizados para promover las causas por las que lucharon los intelectuales de China han fallado debido a su falta de madurez.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T183412Z">
+        <seg>&lt;f0&gt; Con el mismo resentimiento que expresa Wang Xiaodong hacia la élite cultural de China, Wang Shan declara en &lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt; (Un tercer ojo) que a los intelectuales les falta “conocimiento, experiencia, habilidad, carácter y prestigio” para participar en el gobierno de forma eficaz y seguir adelante con la democratización del país&lt;/f2&gt;&lt;f3&gt;54&lt;/f3&gt;&lt;f4&gt; . La historia de los diferentes movimientos democráticos de China, que comienza con el Movimiento de las Cien Flores en el año 1957, muestra que debido a la falta de madurez de los intelectuales chinos, los esfuerzos realizados para promover las causas por las que ellos lucharon han fallado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15004,8 +15004,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Mao wanted an “open door” rectification campaign in order to check the unbridled power of the bureaucrats.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T175749Z">
-        <seg>Mao quería establecer una campaña de rectificación de "puertas abiertas" para controlar el poder desenfrenado de los burócratas.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T183530Z">
+        <seg>Mao quería establecer una campaña de rectificación de “puertas abiertas” para controlar el poder desenfrenado de los burócratas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19051,8 +19051,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Students in Beijing and Shanghai started to leave their campuses.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T220438Z">
-        <seg>Estudiantes en Beijin y Shangai comenzaron a abandonar los campuses.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T183700Z">
+        <seg>Estudiantes en Pekín y Shanghái comenzaron a abandonar las universidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24982,8 +24982,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When accusations were raised against people in the Party, they apologized for their wrongdoing, “but this only whetted the ambitions of intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T220343Z">
-        <seg>Cuando se intensificaron las acusaciones en contra de la gente del Partido, ellos se disculparon por sus delitos "pero esto solo siguió alimentado las ambiciones de los intelectuales.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T183602Z">
+        <seg>Cuando se intensificaron las acusaciones contra los miembros del Partido, estos se disculparon por sus delitos “pero esto solo logró seguir alimentado las ambiciones de los intelectuales.</seg>
       </tuv>
     </tu>
     <tu>
