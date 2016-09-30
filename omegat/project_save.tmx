@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8800,8 +8800,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>Facing challenges from the left and right, one might think that Jiang hoped Deng Xiaoping would survive long enough to see Jiang through the critical Fifteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T154419Z">
-        <seg>Al afrontar los desafíos provenientes de la izquierda y la derecha, se podría pensar que Jiang esperaba que Deng Xiaoping sobreviviera lo suficiente para observar a Jiang en crucial XV Congreso del Partido Comunista. </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015040Z">
+        <seg>Al afrontar los ataques de la izquierda y la derecha, se podría pensar que Jiang esperaba que Deng Xiaoping sobreviviera lo suficiente para observarlo en el Decimoquinto Congreso del Partido Comunista, que fue crucial.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -13239,14 +13239,6 @@ appear critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160926T205733Z" creationid="Jesica" creationdate="20160915T145529Z">
         <seg>De hecho, más que cualquier otro problema, China había propuesto la membresía en la OMC y la reaccion ante el bombardeo a la embajada  demostró la unión, por lo menos temporal, de politicas élitarias y las opiniones públicas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Indeed, on the eve of Deng’s death, the left circulated the fourth 10,000 character manifesto.1 Despite this challenge, Deng’s passing in February 1997 proved a blessing for the general secretary.</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T014414Z">
-        <seg>En efecto, en vísperas de la muerte de Deng, la izquierda difundió el cuarto manifiesto de 10 000 caracteres.1 A pesar de este desafío,  la muerte de Deng en febrero de 1997 favoreció al secretario general.</seg>
       </tuv>
     </tu>
     <tu>
