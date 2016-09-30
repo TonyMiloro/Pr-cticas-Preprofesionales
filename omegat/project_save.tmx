@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8159,8 +8159,8 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       <tuv lang="EN-US">
         <seg>Deng’s ill-fated effort to introduce comprehensive price reform in 1988 by “storming the pass” was one expression of such tension, as were the debates between democrats and new authoritarians — both of whom wanted to break the tension, albeit by different means.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160930T040617Z" creationid="Franco" creationdate="20160930T040617Z">
-        <seg>El desafortunado esfuerzo de Deng por ponerle un precio absoluto a la reforma de 1988 al “atormentar la causa” fue una expresión de dicha tensión, así como eran los debates entre los demócratas y los nuevos autoritarios— ambos querían romper la tensión, aunque a través de distintos medios.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T040920Z" creationid="Franco" creationdate="20160930T040617Z">
+        <seg>El desafortunado esfuerzo de Deng por ponerle un precio absoluto a la reforma en 1988 al “atormentar la causa” fue una expresión de dicha tensión, así como lo eran los debates entre los demócratas y los nuevos autoritarios (ambos querían romper la tensión, aunque mediante distintos medios).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14092,6 +14092,14 @@ It is not fire proof.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T142611Z" creationid="Lucrecia" creationdate="20160927T121547Z">
         <seg>También debe tenerse en cuenta que .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be noted that although Xiao became one of the best-known articulators of neoconservatism in the early i990s, he remained true to the new authoritarian faith of the i980s: namely, that the point of incremental- ism was to build a political and economic system that could support liberal democracy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T041047Z" creationid="Franco" creationdate="20160930T041047Z">
+        <seg>Cabe destacar que aunque Xiao se convirtió en uno de los articuladores del neoconservadurismo más conocidos a principios de la década de los 90, permaneció consistente respecto a la nueva fe autoritaria de la década de los 80: específicamente, que el punto del gradualismo era construir un sistema político y económico que pudiera soportar la democracia liberal.</seg>
       </tuv>
     </tu>
     <tu>
