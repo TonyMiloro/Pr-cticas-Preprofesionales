@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6469,8 +6469,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>China needed to renew the spirit of “emancipating the mind” that had prevailed then.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T171533Z" creationid="Soledad Mori" creationdate="20160927T171533Z">
-        <seg>. China necesitaba renovar el espíritu de "emancipar a la mente" que había estado en auge en ese momento. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T144619Z" creationid="Soledad Mori" creationdate="20160927T171533Z">
+        <seg>China necesitaba renovar el espíritu de "la emancipación de la mente" que había estado en auge en ese momento. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22638,8 +22638,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;talk marked an important signal to intellectuals and opened the way to harsher attacks on leftism.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T171647Z" creationid="Soledad Mori" creationdate="20160927T171647Z">
-        <seg>Esta&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;charla originó una señal importante para los intelectuales y dio lugar a ataques incisivos contra la izquierda.  &lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T144757Z" creationid="Soledad Mori" creationdate="20160927T171647Z">
+        <seg>Esta&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
