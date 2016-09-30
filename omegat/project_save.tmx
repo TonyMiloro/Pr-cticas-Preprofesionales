@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1642,8 +1642,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;In late April, Vice-Premier Tian Jiyun went to the Central Party School&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;and la&lt;/f2&gt;&lt;bk3/&gt;&lt;f4&gt;mbasted leftists for having “basically repudiated all the most fundamental and substantial elements that we have upheld since reform and opening up.” In a barb apparently directed at General Secretary Jiang Zemin, Tian declared that “[t]o do away with ‘leftist’ influence, one must particularly guard against those who bend with the wind, the political acrobats &lt;s5/&gt;who readily vacillae in attitude.” With a parody rare in Chinese politics, Tian told his listeners that leftists should go to a “special leftist zone” in which there would be total state planning, supplies would be rationed, and people could line up for food and other consumer items.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T172504Z" creationid="Soledad Mori" creationdate="20160927T172504Z">
-        <seg>&lt;f0&gt;A fines de abril, el Vice Primer Ministro Tian Jiyun se presentó en la Escuela Central del Partido Comunista Chino&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; y arremetió&lt;/f2&gt;&lt;bk3/&gt;&lt;f4&gt; contra los izquierdistas por haber “básicamente repudiado todos los elementos más fundamentales y significativos que hemos defendido desde la reforma y la apertura”. En un comentario mordaz dirigido aparentemente al Secretario General Jiang Zemin, Tian declaró que “para deshacerse de la influencia de la izquierda, uno debe cuidarse especialmente de aquellos que fluyen con la corriente, los acróbatas de la política&lt;s5/&gt; que sin problemas vacilan en su actitud”. Haciendo uso de una parodia poco común para la política china, Tian le dijo a su audiencia que los de izquierda deberían irse a una “área especial para izquierdistas” en la que habría planeamiento estatal total, los suministros serían racionados y la gente haría colas para obtener alimentos y otros bienes de consumo. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145056Z" creationid="Soledad Mori" creationdate="20160927T172504Z">
+        <seg>&lt;f0&gt;A fines de abril, el Vice Primer Ministro Tian Jiyun se presentó en la Escuela Central del Partido Comunista Chino&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; y arremetió&lt;/f2&gt;&lt;bk3/&gt;&lt;f4&gt;contra los izquierdistas por haber “básicamente repudiado todos los elementos más fundamentales y significativos que hemos defendido desde la reforma y la apertura”. En un comentario mordaz dirigido aparentemente al secretario general Jiang Zemin, Tian declaró que “[para] deshacerse de la influencia de la izquierda, uno debe cuidarse especialmente de aquellos que fluyen con la corriente, los acróbatas de la politica&lt;s5/&gt;que sin problemas muestran una actitud vacilante.”. Haciendo uso de una parodia poco común para la política china, Tian le afirmó ante su audiencia que los izquierdistas deberían irse a una “área especial para izquierdistas” en la que se adoptaría el planeamiento estatal total, se racionarían los suministros y la gente haría fila para obtener alimentos y otros bienes de consumo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18152,7 +18152,7 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Soon, pirated copies of Tian’s talk were being sold on the streets of Beijing.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T172533Z" creationid="Soledad Mori" creationdate="20160927T172533Z">
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145117Z" creationid="Soledad Mori" creationdate="20160927T172533Z">
         <seg>Al poco tiempo, copias piratas de la charla que dio Tian comenzaron a venderse en las calles de Pekín.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
@@ -22638,8 +22638,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;talk marked an important signal to intellectuals and opened the way to harsher attacks on leftism.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T144757Z" creationid="Soledad Mori" creationdate="20160927T171647Z">
-        <seg>Esta&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T144840Z" creationid="Soledad Mori" creationdate="20160927T171647Z">
+        <seg>Esta&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; charla envió una señal importante para los intelectuales y dio lugar a ataques incisivos contra el izquierdismo&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
