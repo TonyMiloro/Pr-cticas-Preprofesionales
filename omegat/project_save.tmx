@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8557,6 +8557,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fang, who had previously been a researcher in the Institute of Politics at CASS and later had left government to go into business in 1995, called for multiparty democracy, direct elections of legislative bodies at all levels, the acceptance of international economic and political norms, respect for human rights, and an improvement in China’s international relations, especially with the United States and Japan.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T171227Z" creationid="Cami" creationdate="20160930T171227Z">
+        <seg>Fang, quien previamente fue investigador en CASS y posteriormente abandonó su cargo en el gobierno para dedicarse a los negocios en 1995, exigió una democracia multipartidista, elecciones directas en todos los niveles de los órganos legislativos, la aprobación de normas económicas y políticas internacionales, el respeto por los derechos humanos y una mejora en las relaciones internacionales de China, especialmente con Estados Unidos y Japón. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Far more than the Sixteenth Party Congress report of 2002, the Sixth Plenum resolution emphasized the need to “gradually reverse” the increasing regional income gaps, promising to use transfer payments from the central treasury to improve the infrastructure, educational facilities, health care, and other needs in the central and western regions of the country.&lt;t0/&gt;121&lt;t1/&gt; The Jiang Zemin era was clearly waning as Hu Jintao moved to consolidate political and ideological authority</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160926T192029Z">
@@ -11080,6 +11088,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In December, &lt;t0/&gt;Hu&lt;t1/&gt; &lt;t2/&gt;Jiwei&lt;t3/&gt;, the crusading former editor-in-chief of People’s Daily, published a series of articles calling for political reform in a major Hong Kong daily.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T171408Z" creationid="Cami" creationdate="20160930T171408Z">
+        <seg>En diciembre, &lt;t0/&gt;Hu&lt;t1/&gt; &lt;t2/&gt;Jiwei&lt;t3/&gt;,el ex jefe editor que hacía campaña en el diario People’s Daily, publicó una serie de artículos en un diario importante de Hong Kong, donde exigía una reforma política. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Deng’s June 9 talk, he referred to the “integration of planned economy and market regulation.”55 This expression restored the preferred usage of conservatives, which they had been able to impose during the 1981–2 retreat from more market-oriented reforms.56 As later revealed, Deng had originally called for the integration of the “planned economy and the market economy,” a formulation that put the two economic types on the same plane.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160930T141936Z">
@@ -13468,6 +13484,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="user" changedate="20160929T035211Z" creationid="user" creationdate="20160929T035031Z">
         <seg>Para aquellas personas que habían alcanzado ser parte de la clase media era especialmente difícil seguir avanzando hasta llegar al estrato social más alto; el estatus/posición social de clase media de por sí mismo era bastante precario.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was the most direct and farthest-ranging proposal for political reform since Tiananmen – and Fang remained free until the crackdown on democratic activists a year later.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T171314Z" creationid="Cami" creationdate="20160930T171314Z">
+        <seg>Fue la propuesta más directa y con mayor alcance para una reforma política desde Tiananmen (y Fang permaneció en libertad hasta el momento en que se tomaron medidas severas contra los activistas democráticos un año después) 16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17920,6 +17944,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131942Z">
         <seg>GESTIÓN Y ESTRATEGIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scathing in its criticism of Deng Xiaoping and his handling of the June 4 incident, Hu decried the fact that Zhao &lt;t4/&gt;Ziyang&lt;t5/&gt; had been under house arrest and “deprived of his minimal rights as a Party member and citizen” ever since.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T171927Z" creationid="Cami" creationdate="20160930T171845Z">
+        <seg>Los artículos de Hu presentaban fuertes críticas a Deng Xiaoping y a la manera en que manipuló el incidente del 4 de junio, además de denunciar el arresto domiciliario y “la privación de los derechos básicos de  Zhao &lt;t4/&gt;Ziyang&lt;t5/&gt; como miembro del partido y como ciudadano”.  </seg>
       </tuv>
     </tu>
     <tu>
