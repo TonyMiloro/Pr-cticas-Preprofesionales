@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6605,8 +6605,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>China Can Say No was striking not just because of its highly emotional tone but also because the authors all claimed to have been strongly influenced by the United States, only to have become disillusioned in the 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T162152Z" creationid="Lucia Cipolatti" creationdate="20160930T131354Z">
-        <seg>China puede decir no fue impactante no solo por el alto tono emocional alto sino también por la declaración de los autores, quienes afirmaron haber sido influenciados por Estados Unidos, solo para haberse decepcionado en la década de los 90.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T162230Z" creationid="Lucia Cipolatti" creationdate="20160930T131354Z">
+        <seg>China puede decir no fue impactante no solo por el alto tono emocional alto sino también por la declaración de los autores, quienes afirmaron haber sido muy influenciados por Estados Unidos, solo para luego desepcionarse en la década de los 90.</seg>
       </tuv>
     </tu>
     <tu>
