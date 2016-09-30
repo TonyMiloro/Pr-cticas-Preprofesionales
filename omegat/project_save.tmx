@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5637,8 +5637,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But the Seventeenth Party Congress left open questions about the institutionalization of the Chinese political system; there was the sort of bargaining necessary to achieve compromise but which thereby suggested the uninstitutionalized aspects of elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Aunque el Décimo Séptimo Congreso del partido abrió un interrogante sobre la institucionalización del sistema político chino, hubo algunas negociaciones necesarias con el fin de llegar a un acuerdo, pero hacerlo significó desinstitucionalizar algunos aspectos de la elite política.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Aunque el Décimo Séptimo congreso del partido abrió un interrogante sobre la institucionalización del sistema político chino, hubo algunas negociaciones necesarias con el fin de llegar a un acuerdo, pero hacerlo significó desinstitucionalizar algunos aspectos de la elite política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7461,8 +7461,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng was striving to build a balance in the Party that would out- last himself and one that would contrast with the bitterly divisive leadership situation Mao Zedong had left behind when he died in 1976.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Deng se esfrozaba para logar un equilibrio en el partido que perdurara cuando él se hubiera ido y que contrastara con el gobierno tan dividido que Mao Zedong había dejado cuando falleció en 1976.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151811Z">
+        <seg>Deng se esfrozaba para logar un equilibrio en el partido que perdurara cuando él se hubiera ido y que contrastara con el gobierno tan dividido que Mao Zedong había dejado cuando falleció en 1976. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7975,8 +7975,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Epilogue: the Seventeenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151041Z">
-        <seg>Epílogo: El décimo séptimo Congreso del partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Epílogo: El décimo séptimo congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -10058,8 +10058,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu's achievements at this Party Congress were reﬂected in both these events.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Los logros alcanzados por Hu en el Congreso del partido se vieron reflejados en estos dos hechos.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Los logros alcanzados por Hu en el congreso del partido se vieron reflejados en estos dos hechos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11700,8 +11700,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the case of the Seventeenth Party Congress, enforcing a retirement age of 68 was important because Zeng Qinghong was 68.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>En el caso del Décimo Séptimo Congreso del partido, haber impuesto los 68 años como edad de jubilación fue significativo ya que Zeng Qinghong tenía esa edad.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>En el caso del Décimo Séptimo congreso del partido, haber impuesto los 68 años como edad de jubilación fue significativo ya que Zeng Qinghong tenía esa edad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13042,8 +13042,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It will be recalled that at the Fifteenth Party Congress in 1997, Jiang Zemin had been able to force Qiao Shi's retirement by imposing a retirement age of 70 (only to have Bo Yibo say that the 71-year-old Jiang should be exempted from this rule) (see Chapter 7).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T192420Z">
-        <seg>Como se recordará, en el Décimo Cuarto Congreso en 1997, Jiang Zemin forzó la jubilación de Qiao Shi luego de imponer la edad de jubilación a los 70 (solo que tuvo que aceptar el pedido de Bo Yibo de que se eximiera de esta regla a Jiang de 71 años) (véase capítulo 7) </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Como se recordará, en el Décimo Cuarto congreso en 1997, Jiang Zemin forzó la jubilación de Qiao Shi luego de imponer la edad de jubilación a los 70 (solo que tuvo que aceptar el pedido de Bo Yibo de que se eximiera de esta regla a Jiang de 71 años) (véase capítulo 7) </seg>
       </tuv>
     </tu>
     <tu>
@@ -15212,8 +15212,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, in 1992, Deng Xiaoping selected Hu Jintao, then only 50 years of age, to the Politburo Standing Committee (PBSC) at the Fourteenth Party Congress, apparently naming him internally as Jiang's successor.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145527Z">
-        <seg>Sin embargo, en 1992, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, como secretario general del Comité Permanente del Politburó (PBSC) en el Décimo Cuarto Congreso del partido, lo que parecía significar que Deng había elegido a Hu para ser el sucesor de Jiang.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151749Z">
+        <seg>Sin embargo, en 1992, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, como secretario general del Comité Permanente del Politburó (PBSC) en el décimo cuarto congreso del partido, lo que parecía significar que Deng había elegido a Hu para ser el sucesor de Jiang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16565,8 +16565,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Congreso del partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -17350,8 +17350,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, in part because Jiang Zemin was so successful in promoting his prot&lt;f0&gt;égé&lt;/f0&gt; to the Politburo at the Sixteenth Party Congress, the Seventeenth Party Congress could not rely simply on promotion by seniority to choose a new leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el Décimo Sexto Congreso del partido, el Décimo Séptimo Congreso del partido, que debía elegir al nuevo líder, no podía hacerlo teniendo en cuenta solamente el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el Décimo Sexto congreso del partido, el Décimo Séptimo congreso del partido, que debía elegir al nuevo líder, no podía hacerlo teniendo en cuenta solamente el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17678,8 +17678,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Seventeenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Décimo Séptimo Congreso del partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Décimo Séptimo congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -17895,8 +17895,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Sixteenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Décimo Sexto Congreso del partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Décimo Sexto congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -18844,8 +18844,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>The CCP convened its Seventeenth Party Congress, October 15-20, 2007, followed on October 21 by the First Plenary Session of the newly elected Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T150927Z">
-        <seg>El PCCh convocó su décimo séptimo Congreso del partido del 15 al 20 de octubre de 2007, al que le siguió el 21 de octubre la primera sesión plenaria del Comité Central recién electo. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>El PCCh convocó su décimo séptimo congreso del partido del 15 al 20 de octubre de 2007, al que le siguió el 21 de octubre la primera sesión plenaria del Comité Central recién electo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19038,8 +19038,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The Seventeenth Party Congress was the fourth Party Congress held since the tragic events of June 1989, and it marked a new stage in the political evolution of the CCP.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145521Z">
-        <seg>El Décimo Séptimo Congreso del partido fue el cuarto en celebrarse luego de los trágicos eventos de junio de 1989, y marcó una nueva etapa en la evolución política del PCCh. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151716Z">
+        <seg>El décimo séptimo congreso del partido fue el cuarto en celebrarse luego de los trágicos eventos de junio de 1989, y marcó una nueva etapa en la evolución política del PCCh. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19375,8 +19375,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The bottom line is that as Hu Jintao moves into his second term as general secretary, the Seventeenth Party Congress has given him a substantial, but not unlimited, mandate to pursue his agenda of addressing inequity in society, pursuing growth in ways that are more compatible with sustainable development, and the implementation of Party building efforts that will incorporate a greater degree of inner-Party democracy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>El resultado es que a medida que Hu Jintao avanza hacia su segundo período como secretario general, el Decimo Séptimo Congreso del partido le ha encomendado, de manera sustancial, pero no ilimitada, que continúe con su agenda que aborda la inequidad en la sociedad, que busca el crecimiento de formas que sean más compatibles con el desarrollo sustentable, y que busca la implementación de iniciativas por parte del partido que contribuyan a los esfuerzos de construir un mayor grado de democracia intrapartidaria. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>El resultado es que a medida que Hu Jintao avanza hacia su segundo período como secretario general, el Decimo Séptimo congreso del partido le ha encomendado, de manera sustancial, pero no ilimitada, que continúe con su agenda que aborda la inequidad en la sociedad, que busca el crecimiento de formas que sean más compatibles con el desarrollo sustentable, y que busca la implementación de iniciativas por parte del partido que contribuyan a los esfuerzos de construir un mayor grado de democracia intrapartidaria. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19855,8 +19855,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The evidence coming out of the Congress suggests that Hu Jintao was quite successful, if not as successful as he perhaps would have wanted to be.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T190510Z">
-        <seg>La evidencia que surgió del Congreso indica que Hu Jintao tuvo bastante éxito, quizás tanto como él hubiera querido. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>La evidencia que surgió del congreso indica que Hu Jintao tuvo bastante éxito, quizás tanto como él hubiera querido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20602,8 +20602,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The political report that Hu delivered to the Congress did at least three things.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T213750Z">
-        <seg>El informe político que Hu entregó al Congreso tuvo al menos tres consecuencias.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>El informe político que Hu entregó al congreso tuvo al menos tres consecuencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21908,8 +21908,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Third, to what extent would the Seventeenth Party Congress ratify Hu Jintao's ideas, such as the scientific development concept?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>En tercer lugar, ¿hasta qué punto ratificaría el Décimo Séptimo Congreso del partido las ideas de Hu Jintao, tales como el concepto de desarrollo científico? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>En tercer lugar, ¿hasta qué punto ratificaría el Décimo Séptimo congreso del partido las ideas de Hu Jintao, tales como el concepto de desarrollo científico? </seg>
       </tuv>
     </tu>
     <tu>
@@ -22132,8 +22132,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This is a question that necessarily will con- tinue to hang over the Party through at least the next Party Congress in 2012.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Sin dudas, ese asunto sería un pensamiento recurrente entre los miembros del partido al menos hasta el siguiente Congreso en el año 2012.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Sin dudas, ese asunto sería un pensamiento recurrente entre los miembros del partido al menos hasta el siguiente congreso en el año 2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22918,8 +22918,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, there were three interesting questions to be tackled at the Sev- enteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>De este modo, había tres temas importantes que se debían resolver en el Décimo Séptimo Congreso del partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>De este modo, había tres temas importantes que se debían resolver en el Décimo Séptimo congreso del partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23326,8 +23326,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Until the CCP is willing to commit itself on paper to a rule governing retirement at the highest level, it has to be assumed that the retirement age adopted at any given Party Congress is subject to negotiation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Hasta que el PCCh esté dispuesto a comprometerse por escrito a imponer la edad de jubilación de los gobernantes de alto rango, se supone que la edad de jubilación que se emplea en cualquier Congreso del partido es negociable.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Hasta que el PCCh esté dispuesto a comprometerse por escrito a imponer la edad de jubilación de los gobernantes de alto rango, se supone que la edad de jubilación que se emplea en cualquier congreso del partido es negociable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24094,8 +24094,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When the results of the Congress and Plenary Session were announced, it was apparent that Hu had made important gains even while making impor- tant compromises (see Tables 5 and 6).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T191431Z">
-        <seg>Cuando se anunciaron los resultados del Congreso y de la sesión plenaria, era evidente que Hu progresaba significativamente incluso cuando logró acuerdos importantes (véase tablas 5 y 6).</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
+        <seg>Cuando se anunciaron los resultados del congreso y de la sesión plenaria, era evidente que Hu progresaba significativamente incluso cuando logró acuerdos importantes (véase tablas 5 y 6).</seg>
       </tuv>
     </tu>
     <tu>
