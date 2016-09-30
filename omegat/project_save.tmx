@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25152,8 +25152,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>be&lt;t0/&gt; calm and steady.” Underscoring his implicit but pointed criticism of Chen Yun’s thought, which had just been endorsed again by the Seventh Plenum in December 1990, Deng went on: “We must pay attention to the steady and coordinated development of the economy, but being steady and coordinated is relative, not absolute.” He then called on Guangdong to catch up to the “four small dragons” (South Korea, Taiwan, Singapore, and Hong Kong) in twenty years.58</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T225314Z">
-        <seg>puede ser &lt;t0/&gt;calmo y estable". Al enfatizar su crítica implícita pero provocadora sobre el pensamiento de Chen Yun, que había sido respaldado nuevamente por el Séptimo Pleno en diciembre de 1990, Deng continuó: “Debemos prestar atención al desarrollo estable y coordinado de la economía, pero estable y coordinado es algo relativo, no absoluto”. Luego recurrió a Guangdong para que se ponga al día con los “cuatro tigres asiáticos” (South Korea, Taiwan, Singapore, and Hong Kong) en veinte años.</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T152402Z">
+        <seg>puede ser &lt;t0/&gt;calmo y estable”. Al enfatizar su crítica implícita pero provocadora sobre el pensamiento de Chen Yun, que había sido respaldado nuevamente por el Séptimo Pleno en diciembre de 1990, Deng continuó: “Debemos prestar atención al desarrollo estable y coordinado de la economía, pero estable y coordinado es algo relativo, no absoluto”. Luego recurrió a Guangdong para que se ponga al día con los “cuatro tigres asiáticos” (South Korea, Taiwan, Singapore, and Hong Kong) en veinte años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25329,8 +25329,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>deng’s “southern tour”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160907T220205Z">
-        <seg>El "viaje al sur" de Deng</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T152236Z">
+        <seg>El ”viaje al sur” de Deng</seg>
       </tuv>
     </tu>
     <tu>
