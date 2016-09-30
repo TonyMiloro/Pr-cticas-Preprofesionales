@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12077,8 +12077,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Incidents were often large – sometimes involving thousands and even tens of thousands of people – and occasionally violent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175253Z">
-        <seg>Con frecuencia había incidentes importantes, que a veces involucraban a miles o incluso decenas de miles de personas, y en ocasiones llegaban a ser violentos.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160930T145500Z">
+        <seg>Con frecuencia había incidentes significativos, que a veces involucraban a miles o incluso decenas de miles de personas, y en ocasiones llegaban a ser violentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12663,8 +12663,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It is even possible that reform could be broken off and social chaos [ensue].”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;But the problem was not just income inequalities; it was also a matter of local cadres seizing economic opportunities by force, preventing people under their control from the chance to prosper.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T200826Z">
-        <seg>Incluso es posible que se ponga fin a la reforma y que esto [produzca] el caos social”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Pero el problema iba más allá de la desigualdad en los ingresos; también estaba asociado al aprovechamiento de oportunidades económicas mediante la fuerza por parte de los cuadros de dirigentes locales, lo que quitaba la posibilidad de prosperar a la gente que se encontraba bajo su control.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160930T145440Z">
+        <seg>Incluso es posible que se ponga fin a la reforma y que esto [produzca] el caos social”.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Pero el problema iba más allá de la desigualdad en los ingresos; también estaba asociado al aprovechamiento de oportunidades económicas mediante la fuerza por parte de los cuadros, lo que le quitaba la posibilidad de prosperar a la gente que se encontraba bajo su control.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14948,8 +14948,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Most such incidents – some 70– 80 percent, according to one county in Shandong province, and 90 percent according to a survey in Sichuan – were caused by tensions between cadres and masses, and most of the violence was initiated by cadres.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;The Organization Department attributed these disturbances largely to growing income inequalities, saying that “if income inequalities cannot be controlled within certain limits, the broad masses of the people will inevitably lose faith in socialism and their faith in the Party will be shaken.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160929T095834Z">
-        <seg>La mayoría de estos incidentes, aproximadamente un 70 u 80 %, según la sub-prefectura de la provincia de Shandong y un 90 %, según una encuesta llevada a cabo en Sichuan, se ocasionaron por tensiones entre los cuadros y las masas, y fueron los cuadros quienes iniciaron la mayoría de los incidentes.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;En gran medida, el Departamento de Organización atribuyó estos disturbios al aumento en la desigualdad de los ingresos, argumentando que "si no es posible mantener esta desigualdad dentro de ciertos límites, será inevitable que las grandes masas pierdan la fe en el socialismo y que se derrumbe su fe en el Partido.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160930T145239Z">
+        <seg>La mayoría de estos incidentes, aproximadamente un 70 u 80 %, según la subprefectura de la provincia de Shandong y un 90 %, según una encuesta llevada a cabo en Sichuan, se ocasionaron por tensiones entre los cuadros y las masas, y fueron los cuadros quienes iniciaron la mayoría de los incidentes.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;En gran medida, el Departamento de Organización atribuyó estos disturbios al aumento en la desigualdad de los ingresos, argumentando que: "si no es posible mantener esta desigualdad dentro de ciertos límites, será inevitable que las grandes masas pierdan la fe en el socialismo y que se derrumbe su fe en el Partido.</seg>
       </tuv>
     </tu>
     <tu>
