@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2074,8 +2074,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table 6:&lt;/f0&gt;&lt;f1&gt; The Secretariat &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160643Z">
-        <seg>&lt;f0&gt;Table 6:&lt;/f0&gt;&lt;f1&gt; El Secretariado&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T175342Z">
+        <seg>&lt;f0&gt;Tabla 6:&lt;/f0&gt;&lt;f1&gt; El Secretariado&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
