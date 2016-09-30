@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13743,8 +13743,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It became apparent when the Sixteenth Party Congress met that not only would these two sit on the Politburo, but that Jia’s and Huang’s “transfer to the center” indicated that both would sit on the PBSC – the coreofChina’spowerstructure.AttheNPCmeetingthefollowingspring, Jia Qinglin was named to head the CPPCC and Huang Ju took over as vice-premier in charge of ﬁnance.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160929T231210Z" creationid="andrea" creationdate="20160928T174925Z">
-        <seg>Se volvió aparente que cuando el Décimo Sexto Congreso del Partido se reuniera estos dos candidatos no sólo  formarían parte del Politburó, pero que “la transferencia al centro” de  Jia y Huang indicaba que ambos serían también miembros del PBSC, el centro de la estructura del poder de China.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T025118Z" creationid="andrea" creationdate="20160928T174925Z">
+        <seg>Se volvió aparente que cuando el Décimo Sexto Congreso del Partido se reuniera estos dos candidatos no sólo  formarían parte del Politburó, pero que “la transferencia al centro” de  Jia y Huang indicaba que ambos serían también miembros del PBSC, el centro de la estructura del poder de China.En la reunión de la APN de la siguiente primavera, Jia Qinglin fue nombrado cabeza del CCPPC (Conferencia Consultiva Política del Pueblo Chino) Y Huang Ju asumió como vice primer ministro encargado de las finanzas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14698,8 +14698,8 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang was able to arrange this by taking the extraordinary measure of expanding the PBSC from seven to nine members.Table 3 shows the Politburo lineup following the Sixteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T175425Z" creationid="andrea" creationdate="20160928T175018Z">
-        <seg>En la reunión de la APN de la siguiente primavera, Jia Qinglin fue nombrado cabeza del CCPPC (Conferencia Consultiva Política del Pueblo Chino) Y Huang Ju asumió como vice primer ministro encargado de las finanzas.Jiang fue capaz de acomodar esto tomando la extraordinaria medida de expandir el PBSC de siete a nueve miembros.                                             La tabla 3 muestra la línea sucesoria del Politburó después del Décimosexto Congreso del Partido.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T025101Z" creationid="andrea" creationdate="20160928T175018Z">
+        <seg>Jiang fue capaz de acomodar esto tomando la extraordinaria medida de expandir el PBSC de siete a nueve miembros.                                             La tabla 3 muestra la línea sucesoria del Politburó después del Décimosexto Congreso del Partido.</seg>
       </tuv>
     </tu>
     <tu>
