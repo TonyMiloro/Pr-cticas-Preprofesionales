@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5790,8 +5790,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Because of the weight of this and other lower-income strata, the average person in most areas of China continued to have a belowaverage income.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T233324Z">
-        <seg>Debido a la importancia este sector social y de otros estratos de bajos ingresos, en la mayoría de las áreas de China el común de las personas sigue teniendo un nivel de ingresos inferior al promedio.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T233427Z">
+        <seg>Debido a la importancia este sector social y de otros estratos de bajos ingresos, en la mayoría de las áreas de China el común de los habitantes continuaba con un nivel de ingresos inferior al promedio.</seg>
       </tuv>
     </tu>
     <tu>
