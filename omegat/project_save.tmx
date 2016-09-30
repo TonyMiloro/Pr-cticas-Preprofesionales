@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12301,8 +12301,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>In writing a nationalistic best seller, the authors of China Can Say No demonstrated&lt;bs0/&gt;&lt;be1/&gt;&lt;s2/&gt;that the same broadening of mass culture that had previously been evident in popular literature, television, and the entertainment industry was also available for political mobilization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131354Z" creationid="Lucia Cipolatti" creationdate="20160930T131338Z">
-        <seg>Al escribir un best seller nacionalista, los autores de China puede decir no demostraron que la misma cultura de masas que antes tuvo lugar en la literatura popular, en la televisión y en la industria del entretenimiento, ahora se encontraba también disponible para una movilización política.&lt;bs0/&gt;&lt;be1/&gt;&lt;s2/&gt;</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T160301Z" creationid="Lucia Cipolatti" creationdate="20160930T131338Z">
+        <seg>Al escribir un exitoso libro nacionalista, los autores de China puede decir no demostraron que la misma cultura de masas que antes tuvo lugar en la literatura popular, en la televisión y en la industria del entretenimiento, ahora se encontraba también disponible para una movilización política.&lt;bs0/&gt;&lt;be1/&gt;&lt;s2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
