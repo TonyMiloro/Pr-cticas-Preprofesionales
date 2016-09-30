@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12194,6 +12194,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indeed, not long after returning from Xibaipo, Hu presided over a Politburo meeting that discussed rural issues in anticipation of the rural work conference that would convene in early January.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T141914Z" creationid="andrea" creationdate="20160930T141914Z">
+        <seg>De hecho, poco después de volver de Xibaipo, Hu presidió la reunión del Politburó que trató cuestiones rurales en previsión de la conferencia de trabajo rural que se llevaría a cabo a principios de enero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indeed, on the eve of Deng’s death, the left circulated the fourth 10,000 character manifesto.1 Despite this challenge, Deng’s passing in February 1997 proved a blessing for the general secretary.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T155331Z">
@@ -20298,6 +20306,14 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       </tuv>
       <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T013856Z" creationid="Ana Maria" creationdate="20160929T013856Z">
         <seg>La reunión resaltó la necesidad de “un plan integral” (tongchou) de desarrollo económico urbano y rural e introdujo un concepto que se convertiría en eje principal de la Tercera Sesión Plenaria del partido en 2003.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The meeting noted the need for “comprehensive planning” (tongchou)o furban and rural economic development, introducing a concept that would become a major theme of the Party’s Third Plenary Session in 2003.Atthe rural work conference, Wen Jiabao, who would be named premier at the National People’s Congress meeting in March 2003, said that “The level of relative afﬂuence that China has now attained is not comprehensive or balanced, and the main discrepancy is in the rural areas.” He went on to call for increasing rural incomes, in part by eliminating the agricultural tax, and urged that contractual rights be stabilized.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T142227Z" creationid="andrea" creationdate="20160930T142227Z">
+        <seg>La reunión resaltó la necesidad de “un plan integral” (tongchou) de desarrollo económico urbano y rural e introdujo un concepto que se convertiría en eje principal de la Tercera Sesión Plenaria del partido en 2003. En la conferencia de trabajo rural, Wen Jiabao, quien sería nombrado primer ministro en la reunión de la APN en marzo de 2003, dijo que “el nivel de prosperidad relativa que China ha alcanzado no es completa o equilibrada y que la principal discrepancia se presenta en las áreas rurales”. Pidió que se incrementaran los ingresos rurales en parte a través de la eliminación del impuesto agrario e instó a la estabilización de los derechos contractuales.</seg>
       </tuv>
     </tu>
     <tu>
