@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19051,8 +19051,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Such people as Wang Ruoshui, the former deputy editor of the People’s Daily, and Wu Zuguang, the famous playwright who had been expelled from the Party in 1987, addressed the forum.95 In the months that followed, other books denouncing leftism came off the press.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151745Z" creationid="Soledad Mori" creationdate="20160927T174051Z">
-        <seg>Figuras destacadas como Wang Ruoshui, anterior editor adjunto de People’s Daily, y Wu Zuguang, famoso dramaturgo que había sido expulsado del partido en el año 1987, pronunciaron un discurso ante el foro. En los meses siguientes, se publicaron otros libros que denunciaban al izquierdismo</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T170818Z" creationid="Soledad Mori" creationdate="20160927T174051Z">
+        <seg>Figuras destacadas como Wang Ruoshui, anterior editor adjunto de People’s Daily, y Wu Zuguang, famoso dramaturgo que había sido expulsado del partido en el año 1987, pronunciaron un discurso ante el foro. En los meses posteriores, se publicaron otros libros que denunciaban al izquierdismo</seg>
       </tuv>
     </tu>
     <tu>
