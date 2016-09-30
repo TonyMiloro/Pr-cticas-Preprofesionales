@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1402,8 +1402,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Deng’s criticism of China’s leadership finally stirred Jiang Zemin to&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;action.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173506Z" creationid="Soledad Mori" creationdate="20160927T173506Z">
-        <seg>&lt;f0&gt;La crítica de Deng hacia los líderes de China instó a Jiang Zemin a ponerse en &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;acción.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T150249Z" creationid="Soledad Mori" creationdate="20160927T173506Z">
+        <seg>&lt;f0&gt;La crítica de Deng hacia la cúpula política de China instó a Jiang Zemin a ponerse en&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;acción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7349,8 +7349,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng complained that many leaders were “merely going through the motions” of supporting reform and that they were in danger of losing their jobs.88 Just as important, Deng signaled his strong support for Zhu Rongji, whom he had sponsored to become vice-premier in March 1991.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145935Z" creationid="Soledad Mori" creationdate="20160927T173356Z">
-        <seg>Deng se quejó de que muchos de los líderes “estaban actuando por inercia” en su apoyo a la reforma y que estaban en peligro de perder sus empleos88. Igual de importante fue que Deng indicó su fuerte apoyo a Zhu Rongji, a quien había patrocinado para que se convirtiera en vice primer ministro en marzo de 1991.  </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145954Z" creationid="Soledad Mori" creationdate="20160927T173356Z">
+        <seg>Deng se quejó de que muchos de los líderes “estaban actuando por inercia” en su apoyo a la reforma y que estaban en peligro de perder sus empleos. Igual de importante fue que Deng indicó su fuerte apoyo a Zhu Rongji, a quien había patrocinado para que se convirtiera en vice primer ministro en marzo de 1991.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15893,8 +15893,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On June 9, the general secretary followed in the wake of Qiao Shi and Tian Jiyun by giving a major speech at the Central Party School.Jiang at last openly endorsed the view that the “primary focus &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;must be guarding against the ‘left’.” Quoting liberally from Deng’s talks in Shenzhen, Jiang now argued that reform is like “steering a boat against the current.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200213Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
-        <seg>El 9 de junio, el secretario general siguió los pasos de Qiao Shi y Tian Jiyun al dar un importante discurso en la Escuela Central del Partido Comunista Chino. Finalmente mostró abiertamente su adherencia a la idea de que “el enfoque primordial&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;debería estar en prevenir el izquierdismo”. En una cita libre de las charlas que dio Deng en Shenzhen, Jiang ahora argumentaba que la reforma es como “navegar un barco en contracorrientep</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T150307Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
+        <seg>&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;debería estar en prevenir el izquierdismo”. En una cita libre de las charlas que dio Deng en Shenzhen, Jiang ahora argumentaba que la reforma es como “navegar un barco en contracorrientep</seg>
       </tuv>
     </tu>
     <tu>
@@ -24927,8 +24927,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhu, Deng said, was “quite capable” in economics.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T180000Z" creationid="Soledad Mori" creationdate="20160927T173420Z">
-        <seg>Zhu, dijo Den, fue “bastante competente” para la economía.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T150047Z" creationid="Soledad Mori" creationdate="20160927T173420Z">
+        <seg>. Zhu, afirmó Deng, era “bastante competente” en materia de economía.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
