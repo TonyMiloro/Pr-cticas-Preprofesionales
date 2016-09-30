@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3043,8 +3043,8 @@
         <seg>A meeting of conservative writers and artists in July, for instance, declared that Zhao was the “biggest umbrella for bourgeois liberalization in literature and art circles” and accused him of “rudely critic[izing] comrades who adhered to the four cardinal principles” and who, as a result, were “vilified, suppressed, and attacked by others.”38[21]
 Other articles criticized Zhao for putting forth the idea of “transforming the ideological and political work” and thus weakening the Party’s ideological work.39[22] For instance, one author complained that “[i]n recent years the viewpoint that class struggle in society will certainly find expression within the Party has been criticized as being a ‘leftist’ viewpoint.”40[23] The weakening of ideological and political work was held, among other things, to undermine the sense of class struggle, of which Deng was certainly every bit as guilty as Zhao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160930T011154Z">
-        <seg>Una junta de escritores y artistas conservadores en julio, por ejemplo, expresó que Zhao era "la protección más grande para la liberalización burguesa en los círculos de la literatura y del arte" y lo acusó de "criticar con rudeza a sus colegas que se adhirieron a los cuatro principios cardinales" y que, como resultado, fueron "denigrados, reprimidos y atacados".38 Otros artículos criticaron a Zhao por proponer la idea de "transformar el trabajo ideológico y político" y así debilitar el trabajo ideológico del partido.39 Por ejemplo, un autor objetó que "en estos últimos años el punto de vista de que la lucha de clases en la sociedad definitivamente encontrará una expresión dentro del partido ha sido criticado como un punto de vista "izquierdista". 40 El debilitamiento del trabajo ideológico y político fue apoyado, entre otras cosas, para socavar el sentido de lucha de clase, de la cual Deng era definitivamente tan culpable como Zhao. </seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160930T035247Z">
+        <seg>Una junta de escritores y artistas conservadores en julio, por ejemplo, expresó que Zhao era "la protección más grande para la liberalización burguesa en los círculos de la literatura y del arte" y lo acusó de "criticar con rudeza a sus colegas que se adhirieron a los cuatro principios cardinales" y que, como resultado, fueron "denigrados, reprimidos y atacados".38 Otros artículos criticaron a Zhao por proponer la idea de "transformar el trabajo ideológico y político" y así debilitar el trabajo ideológico del partido.39 Por ejemplo, un autor objetó que "en estos últimos años el punto de vista de que la lucha de clases en la sociedad definitivamente encontrará una expresión dentro del partido ha sido criticado como un punto de vista "izquierdista".40 El debilitamiento del trabajo ideológico y político fue apoyado, entre otras cosas, para socavar el sentido de lucha de clase, de la cual Deng era definitivamente tan culpable como Zhao. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9403,8 +9403,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For Song, Tiananmen was the inevitable outcome of a trend of bourgeois liberalization that extended back to the democratic movement of 1978, had never been effectively opposed, and had resulted in such “absurd theories” (miaolun) as the “criterion of productive forces.” The theory of productive forces, a phrase used (primarily by critics) to describe the view that anything that improves the economy is ipso facto socialist, was voiced prominently in an article by Zhao Ziyang that appeared in the People’s Daily in February 1988,35[18] but Song’s reference was clearly to Deng Xiaoping as well.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T214723Z">
-        <seg>Para Song, Tiananmén fue el resultado inevitable de una tendencia de liberalización burguesa que se extendía hacia el movimiento democrático de 1978, que nunca había encontrado resistencia convincente y había resultado en tales "teorías absurdas" (miaolun) como el "criterio de fuerzas de producción". La teoría de fuerzas de producción, una frase usada (principalmente por los críticos) para describir la postura de que lo que mejore la economía es ipso facto socialista, fue expresada de manera notoria en un artículo escrito por Zhao Ziyang que apareció en el Diario del Pueblo en febrero de 1988 35, pero la referencia de Song era claramente también hacia Deng Xiaoping.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160930T035551Z">
+        <seg>Para Song, Tiananmén fue el resultado inevitable de una tendencia de liberalización burguesa que se extendía hacia el movimiento democrático de 1978, que nunca había encontrado resistencia convincente y había resultado en tales "teorías absurdas" (miaolun) como el "criterio de fuerzas de producción". La teoría de fuerzas de producción, una frase usada (principalmente por los críticos) para describir la postura de que lo que mejore la economía es ipso facto socialista, fue expresada de manera notoria en un artículo escrito por Zhao Ziyang que apareció en el Diario del Pueblo en febrero de 198835, pero la referencia de Song era claramente también hacia Deng Xiaoping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24141,8 +24141,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This assumption about inner-Party struggles comes through clearly in a talk Song Ping gave to a national meeting of organization department heads, where he implicitly criticized Zhao for making line errors.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T213950Z">
-        <seg>Esta suposición sobre las luchas intrapartidarias se esclarecen en una charla que Song Ping dio en una reunión nacional de las cabezas del departamento de organización, donde implícitamente criticó a Zhao por comenter errores de línea. </seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160930T035709Z">
+        <seg>Esta suposición sobre las luchas intrapartidarias se esclarecen en una charla que Song Ping dio en una reunión nacional de las cabezas del departamento de organización, donde implícitamente criticó a Zhao por comenter errores de línea.</seg>
       </tuv>
     </tu>
     <tu>
