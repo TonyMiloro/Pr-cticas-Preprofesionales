@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23469,6 +23469,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160910T011006Z">
         <seg>Hubieron grandes debates sobre la política de la reforma en los 80 y, en particular, tras los hechos en Tiananmén cuando más líderes conservadores sacaron ventaja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were market-oriented reformers who dissented from this view – the best known of whom was economist Wu Jinglian – but both the realities of politi-cal contestation and the understanding of reform-minded economists led the Dengist state to adopt the decentralizing strategy known as “devolving authority and granting benefits” (&lt;/f3&gt;&lt;f5&gt;fangquan rangli&lt;/f5&gt;&lt;f6&gt;).&lt;/f6&gt;&lt;f7&gt;12&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T024117Z" creationid="Sofi" creationdate="20160930T024024Z">
+        <seg>Había reformadores orientados al mercado que no estaban de acuerdo con esta postura (el más conocido era el economista Wu Junglian), pero tanto las realidades de la controversia política como la comprensión de economistas orientados a la reforma llevaron al Estado de Deng a adoptar la estrategia de descentralización conocida como "transferencia de autoridad y entrega de beneficios"(&lt;/f3&gt;&lt;f5&gt;fangquan rangli&lt;/f5&gt;&lt;f6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
