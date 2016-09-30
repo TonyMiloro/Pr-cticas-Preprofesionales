@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21574,8 +21574,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The division between the PBSC, headed by Zhao Ziyang, and the CMC, headed by Deng, had contributed to the tragedy of Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160930T033102Z" creationid="andrea" creationdate="20160928T181633Z">
-        <seg>La división entre el PBSC, liderada por Zhao Ziyang, y el CMC, liderada por Deng, habían contribuído a la tragedia de Tiananmen.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T033116Z" creationid="andrea" creationdate="20160928T181633Z">
+        <seg>La división entre el PBSC, liderada por Zhao Ziyang, y el CMC, liderada por Deng, habían contribuído a la tragedia de Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
