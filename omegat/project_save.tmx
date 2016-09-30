@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9056,8 +9056,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>For instance, Jiang paid homage to Deng’s emphasis on economic construction, saying that “from beginning to end, we must take economic construction as the center,” and he even managed to incorporate (minimally) Deng’s remarks in Shanghai by saying, “[p]&lt;t0/&gt;lan&lt;t1/&gt; and market are methods of market regulation” and asserting that they “are not signs by which to differentiate socialism and capitalism.” Nevertheless, conservative themes predominated.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T151824Z">
-        <seg>Por ejemplo, Jiang le rindió tributo al énfasis que Deng puso en la construcción económica, diciendo que “de principio a fin debemos situar a la construcción económica en el centro”, e incluso consiguió incorporar (lo mínimo) los comentarios de Deng en Shanghái diciendo que, ”la[p]&lt;t0/&gt;lanificación&lt;t1/&gt;  y el mercado son métodos para la regulación del mercado” y aseveró que ”no son señales para diferenciar el el socialismo del capitalismo”. Sin embargo, predominaron los temas conservadores.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T181141Z">
+        <seg>Por ejemplo, Jiang le rindió tributo al énfasis que Deng puso en la construcción económica, diciendo que “de principio a fin debemos situar a la construcción económica en el centro”, e incluso consiguió incorporar (lo mínimo) los comentarios de Deng en Shanghái diciendo que,  “la[p]&lt;t0/&gt;lanificación&lt;t1/&gt;  y el mercado son métodos para la regulación del mercado” y aseveró que  “no son señales para diferenciar el el socialismo del capitalismo”. Sin embargo, predominaron los temas conservadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9786,8 +9786,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He also linked domestic class struggle to international class struggle and emphasized that “the ideological arena is an important arena for the struggle between peaceful evolution and anti-peaceful evolution.” Moreover, with regard to economic policy, Jiang emphasized that “large- and medium-sized &lt;t3/&gt;stateowned&lt;t4/&gt; enterprises are the backbone strength of the socialist economy” and that “shaking public ownership of the means of production would shake the economic foundation of socialism and harm the fundamental interests of the whole people, to say nothing of socialism.”34 In short, it was a speech that, despite its bows in a reformist direction, clearly reflected conservative dominance over the overall ideological and policy agenda.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T204851Z">
-        <seg>También relacionó la lucha nacional de clases con la lucha internacional de clases y subrayó que “el ámbito ideológico es importante para la lucha entre la evolución pacífica y la evolución no pacífica". Además, en relación con políticas económicas, Jiang remarcó que “grandes y medianas empresas &lt;t3/&gt;públicas&lt;t4/&gt;son el soporte principal de la economia socialista” y que “quitar la propiedad pública de los medios de producción afectaría la base económica del socialismo y dañaría los intereses básicos de todas las pesonas, sin mencionar los del socialismo”.34 En síntesis, fue un discurso que, a pesar de hacer ciertas menciones en una dirección reformista, claramente reflejaba la preponderancia conservadora sobre la agenda política e ideológica.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T181214Z">
+        <seg>También relacionó la lucha nacional de clases con la lucha internacional de clases y subrayó que  “el ámbito ideológico es importante para la lucha entre la evolución pacífica y la evolución no pacífica”. Además, en relación con políticas económicas, Jiang remarcó que “grandes y medianas empresas &lt;t3/&gt;públicas&lt;t4/&gt;son el soporte principal de la economia socialista” y que “quitar la propiedad pública de los medios de producción afectaría la base económica del socialismo y dañaría los intereses básicos de todas las pesonas, sin mencionar los del socialismo”.34 En síntesis, fue un discurso que, a pesar de hacer ciertas menciones en una dirección reformista, claramente reflejaba la preponderancia conservadora sobre la agenda política e ideológica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19099,8 +19099,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Such an explanation assumes not only that Deng failed to win over (or intimidate) his opponents, but also that he failed to win the support of the “silent majority” of Party elders who seem to move to one side or the other in periods of political conflict, thereby affecting the political center of gravity.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T151647Z">
-        <seg>Esta explicación supone que no solo Deng falló en convencer (o intimidar) a sus opositores sino también falló en ganar el apoyo de la ”mayoría silenciosa” de veteranos del partido, que en período de conflicto político parecen cambiarse de un partido a otro, y de esta manera afectan el centro de gravedad político.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T181042Z">
+        <seg>Esta explicación supone que no solo Deng falló en convencer (o intimidar) a sus opositores sino también falló en ganar el apoyo de la “mayoría silenciosa” de veteranos del partido, que en período de conflicto político parecen cambiarse de un partido a otro, y de esta manera afectan el centro de gravedad político.</seg>
       </tuv>
     </tu>
     <tu>
