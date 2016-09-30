@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6710,8 +6710,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Can China chart a path that might lead to liberalization and perhaps to democratization?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T000444Z">
-        <seg>¿Puede China trazar un camino que pueda llevar hacia la liberalización y tal vez hacia la democratización?</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T223238Z">
+        <seg>¿Puede China trazar un camino que la llevará hacia la liberalización y tal vez hacia la democratización?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6726,8 +6726,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Can political reform follow the same, incremental path of “crossing the river while feeling the stones” as the economic reforms?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T001524Z">
-        <seg>¿Puede la reforma política seguir el mismo camino progresivo "cruzando el rio sintiendo las piedras" como lo hizo la reforma económica?</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T223334Z">
+        <seg>¿Puede la reforma política seguir el mismo camino progresivo "cruzando el río sintiendo las piedras" como lo hizo la reforma económica?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11315,8 +11315,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If the rules of political struggle in the twentieth century have been domi-nated by the perception that actors were in a game to win all, it is neverthe-less true that the inauguration of reform has posed a significant challenge to this perception.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T002127Z">
-        <seg>Si las reglas de la lucha política del siglo xx estuvieron basadas en la percepción de que los participantes estaban allí para ganarlo todo, no se puede negar que la implementación de la reforma significó un verdadero desafío para esta percepción. </seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T224029Z">
+        <seg>Si las reglas de la lucha política del siglo xx estuvieron dominadas por la idea de que los participantes jugaban a todo o nada, no se puede negar que la implementación de la reforma significó un verdadero desafío para esta percepción. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24812,8 +24812,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Those in the Soviet Union and Eastern Europe imploded, while those in Cuba and North Korea have resisted reform; China and Vietnam have reformed economically but political reform has been limited (though recently Vietnam has made important strides).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T000318Z">
-        <seg>Los sistemas leninistas de la Unión Soviética y Europa del Este colapsaron, mientras que los de Cuba y Corea del Norte se resistieron a la reforma; China y Vietnam aplicaron reformas económicas pero la reforma política ha sido limitada (a pesar de que Vietnam ha tenido grandes avances recientemente).</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T223134Z">
+        <seg>Los sistemas leninistas de la Unión Soviética y Europa del Este colapsaron, mientras que los de Cuba y Corea del Norte se resistieron a la reforma; China y Vietnam aplicaron reformas económicas pero la reforma política ha sido limitada (aunque Vietnam ha tenido grandes avances recientemente).</seg>
       </tuv>
     </tu>
     <tu>
