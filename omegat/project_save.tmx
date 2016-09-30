@@ -679,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055241Z" creationid="Franco" creationdate="20160930T055241Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt; argues that the reform period eroded faith in Marxism–Leninism, undermined the power and authority of the Party and state, and unleashed a host of social problems – including corruption, crime, economic polarization, and moral decay – that the government, given its weakened authority, is increasingly unable to deal with.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183121Z">
@@ -1227,6 +1235,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160930T055218Z" creationid="Rocio" creationdate="20160927T025946Z">
         <seg>&lt;f0&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1/&gt;Samuel Huntington,&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;Political Order in Changing Societies.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055254Z" creationid="Franco" creationdate="20160930T055254Z">
+        <seg>&lt;f0&gt;&lt;t1/&gt;&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26339,6 +26355,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Barri" changedate="20160908T130727Z">
         <seg>Wang Huning, quien sería transladado a Beijing en 1995 por Jiang Zemin para encabezar la Sección Política de la Oficina de Investigación de Políticas del PCCh, nació en 1955.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Huning, “Zhongguo bianhua zhong de zhongyang he difang zhengfu de guanxi: Zhengzhi de hanyi,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055237Z" creationid="Franco" creationdate="20160930T055237Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
