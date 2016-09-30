@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19395,8 +19395,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>That anti-American sentiments were widespread at the time is supported not only by sales figures but also by survey research.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160928T033048Z">
-        <seg>Ese sentimiento antiestadounidense se expandió en el momento en que era apoyado no solo por cifras de ventas sino también por investigaciones. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T174718Z">
+        <seg>Ese sentimiento antiestadounidense se expandió al mismo momento en que era apoyado no solo por cifras de ventas sino también por investigaciones. </seg>
       </tuv>
     </tu>
     <tu>
