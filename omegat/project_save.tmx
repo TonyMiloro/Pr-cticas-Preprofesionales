@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1169,8 +1169,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;A turning point in this struggle for dominance – the first of several – came when a Politburo meeting on February 12, 1992, under obvious pressure from Deng, decided to relay the content of Deng’s talks orally only to &lt;/f0&gt;&lt;f1&gt;cadres &lt;/f1&gt;&lt;f2&gt;at or above the ministerial, provincial, and army ranks.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014741Z">
-        <seg>&lt;f0&gt;Un punto de inflexión en esta lucha por el dominio (el primero de muchos) tuvo lugar cuando la reunión del Politburó del 12 de febrero de 1992, por presión de Deng, decidió retransmitir el contenido de las charlas de Deng en forma oral sólo a los  &lt;/f0&gt;&lt;f1&gt;cuadros &lt;/f1&gt;&lt;f2&gt;que estén al nivel o por encima del nivel de las filas ministeriales, provinciales y militares.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T125837Z">
+        <seg>&lt;f0&gt;Un punto de inflexión en esta lucha por el dominio (el primero de varios) tuvo lugar en la reunión del Politburó del 12 de febrero de 1992, cuando por presión de Deng, se decidió retransmitir el contenido de las charlas de Deng en forma oral sólo a los  &lt;/f0&gt;&lt;f1&gt;cuadros &lt;/f1&gt;&lt;f2&gt;que estaban al nivel de las filas ministeriales, provinciales y militares o en el nivel superior a estas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,8 +1650,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;In the face of this passive resistance, Dengist forces used local media to step up the pressure on Beijing’s still silent official media.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T014922Z">
-        <seg>&lt;f0&gt;Frente a la resistencia pasiva, las los partidarios de Deng emplearon los medios de comunicación locales para aumentar la presión sobre los medios oficiales de Pekín que todavía guardaban silencio. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T125643Z">
+        <seg>&lt;f0&gt;Frente a la resistencia pasiva, los partidarios de Deng emplearon los medios de comunicación locales para aumentar la presión sobre los medios oficiales de Pekín que todavía guardaban silencio. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15693,8 +15693,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On February 15, Shanghai’s &lt;/f0&gt;&lt;f1&gt;Liberation Daily &lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;Jiefang ribao&lt;/f3&gt;&lt;f4&gt;) published a full page of pictures of Deng taken by Yang Shaoming, Yang Shangkun’s son.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T015052Z">
-        <seg>EL 15 de febrero, el periódico de Shanghai  &lt;/f0&gt;&lt;f1&gt;Liberation Daily &lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;Jiefang ribao&lt;/f3&gt;&lt;f4&gt;) publicó fotos en una página completa de Deng tomadas por Yang Shaoming, hijo de Yang Shangkun. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T125618Z">
+        <seg>EL 15 de febrero, el diario de Shanghai, &lt;/f0&gt;&lt;f1&gt;Liberation Daily &lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;Jiefang ribao&lt;/f3&gt;&lt;f4&gt;) publicó una página completa de fotos de Deng tomadas por Yang Shaoming, hijo de Yang Shangkun. </seg>
       </tuv>
     </tu>
     <tu>
