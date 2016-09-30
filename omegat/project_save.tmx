@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17957,8 +17957,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Only by continuing to show fealty to Jiang could he take advantage of the natural trajectory of incumbency to consolidate power, but only by moving away from Jiang could he establish power in his own right.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T183420Z" creationid="andrea" creationdate="20160928T183420Z">
-        <seg>Solo en la continuación de su demostración de lealtad a Jiang podría tomar ventaja de la trayectoria natural del cargo para consolidar poder, pero solo apartándose de Jiang podría establecer poder por derecho propio.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T035052Z" creationid="andrea" creationdate="20160928T183420Z">
+        <seg>Solo en la continuación de su demostración de lealtad a Jiang podría tomar ventaja de la trayectoria natural del cargo para consolidar el poder, pero solo apartándose de Jiang podría establecer poder por derecho propio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24147,8 +24147,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This classic conundrum, often called the “successor’s dilemma,” applied to Hu after he took the formal reins of power just as it did when he was waiting in the wings.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T183409Z" creationid="andrea" creationdate="20160928T183218Z">
-        <seg>Esta clásica disyuntiva, generalmente llamado “el dilema del sucesor”, incluía a Hu después de tomar formalmente las riendas del poder tal como lo hizo cuando estaba esperando en las bambalinas.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T035008Z" creationid="andrea" creationdate="20160928T183218Z">
+        <seg>Esta clásica disyuntiva, generalmente llamada “el dilema del sucesor”, incluía a Hu después de tomar formalmente las riendas del poder tal como lo hizo cuando estaba esperando en las bambalinas.</seg>
       </tuv>
     </tu>
     <tu>
