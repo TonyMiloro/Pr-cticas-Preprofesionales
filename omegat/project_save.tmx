@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18031,8 +18031,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>So even though the political system was hierarchical and authoritarian, populism was very much a part of the CCP’s tradition.72 Hu Weixi (of Qinghua University) pushed this analysis back further, noting that the “national essence” movement (guocui yundong), the anarchist movement, and the rural reconstruction movement in the first half of the twentieth century – despite all their differences – shared a populist orientation.73 Although discussed in a historical vein, their concerns were clearly contemporary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T153907Z" creationid="Lucia Cipolatti" creationdate="20160930T131322Z">
-        <seg>Aunque el sistema político ha sido jerárquico y autoritario, el populismo formó parte de la tradición de CCP.&lt;t6/&gt;72&lt;t7/&gt; Hu Weixi (de la Universidad de Qinghua) hizo retroceder aún más este análisis y se dio cuenta que el movimiento de "esencia nacional" (national essencel), el movimiento anarquista,  y el movimiento de la reconstrucción rural durante la primera mirad del siglo XX – a pesar de todas sus diferencias – compartieron una orientación populista.&lt;t12/&gt;73&lt;t13/&gt; A pesar de que se discuta de una manera histórica, sus preocupaciones eran claramente contemporanteas.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T153936Z" creationid="Lucia Cipolatti" creationdate="20160930T131322Z">
+        <seg>Aunque el sistema político ha sido jerárquico y autoritario, el populismo formó parte de la tradición de CCP.&lt;t6/&gt;72&lt;t7/&gt; Hu Weixi (de la Universidad de Qinghua) hizo retroceder aún más este análisis y se dio cuenta que el movimiento de "esencia nacional" (national essencel), el movimiento anarquista,  y el movimiento de la reconstrucción rural durante la primera mirad del siglo XX – a pesar de todas sus diferencias – compartieron una orientación populista.&lt;t12/&gt;73&lt;t13/&gt; A pesar de que se discutía de una manera histórica, sus preocupaciones eran claramente contemporanteas.</seg>
       </tuv>
     </tu>
     <tu>
