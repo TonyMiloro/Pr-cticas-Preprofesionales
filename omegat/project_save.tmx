@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1971,8 +1971,8 @@ del izquierdismo en el&lt;/f0&gt;&lt;f1&gt; Reporte Laboral de Gobierno&lt;/f1&g
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The enormous stakes involved and Deng’s willingness to use any and all methods to carry the day were clearly revealed at the NPC meeting when Yang Baibing, vice-chairman of the CMC, declared that the People’s Liberation Army (PLA) would “protect and escort” (&lt;/f0&gt;&lt;f1&gt;baojia huhang&lt;/f1&gt;&lt;f2&gt;) reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T180533Z" creationid="Soledad Mori" creationdate="20160927T165004Z">
-        <seg>&lt;f0&gt;Los enormes intereses y la predisposición de Deng de usar todos los métodos necesarios para salir adelante fueron revelados en la reunión de la Legislatura cuando Yang Baibing, vice-presidente de la Comisión Militar Central declaró que el Ejército Popular de Liberación (EPL) "protegerá y acompañará" (&lt;/f0&gt;&lt;f1&gt;baojia huhang&lt;/f1&gt;&lt;f2&gt;) a la reforma.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133913Z" creationid="Soledad Mori" creationdate="20160927T165004Z">
+        <seg>&lt;f0&gt;Las enormes inversiones y la predisposición de Deng a usar todos los métodos necesarios para salir adelante se pusieron de manifiesto en la reunión de la APN cuando Yang Baibing, vice presidente de la Comisión Militar Central declaró que el Ejército Popular de Liberación (EPL) "protegerá y acompañará" (&lt;/f0&gt;&lt;f1&gt;baojia huhang&lt;/f1&gt;&lt;f2&gt;) la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10252,8 +10252,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If military support was useful to Deng in 1992, it also suggested that the military could support or withhold support from political leaders at will, a violation of the stricture that the Party controls the gun.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165335Z" creationid="Soledad Mori" creationdate="20160927T165335Z">
-        <seg>Si el apoyo militar fue útil para Deng en 1992, también da cuenta de que las fuerzas armadas pudieron apoyar o restringir el respaldo a voluntad de líderes políticos, una violación de la restricción de que el Partido tiene el mando. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134146Z" creationid="Soledad Mori" creationdate="20160927T165335Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -14789,8 +14789,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, the military kept up the pressure and, in doing so, went too far.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165048Z" creationid="Soledad Mori" creationdate="20160927T165048Z">
-        <seg>Asimismo, las fuerzas armadas mantuvieron la presión y, al hacer esto, se pasaron de la raya. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133957Z" creationid="Soledad Mori" creationdate="20160927T165048Z">
+        <seg>Asimismo, las fuerzas armadas mantuvieron la presión y, al hacer esto, cruzaron los límites. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16318,8 +16318,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Over the ensuing months, four delegations of senior PLA officers visited the Shenzhen SEZ to demonstrate their support for reform and opening up; also, the army newspaper, the &lt;/f2&gt;&lt;f3&gt;Liberation Army Daily&lt;/f3&gt;&lt;f4&gt;, repeatedly ran articles in support of reform.78 The effort to professionalize and depoliticize the military, which had suffered badly with its crushing of the 1989 movement, was again set back.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165219Z" creationid="Soledad Mori" creationdate="20160927T165219Z">
-        <seg>Durante los meses subsiguientes, cuatro delegaciones de oficiales mayores de la EPL visitaron la Zona Económica Especial (ZEE) de Shenzhen con el fin de asentar su apoyo respecto de la reforma y la apertura, como así también el periódico de las fuerzas armadas,&lt;/f2&gt;&lt;f3&gt;Liberation Army Daily&lt;/f3&gt;&lt;f4&gt;, publicó numerosos artículos que favorecían a la reforma. El esfuerzo por mantener a las fuerzas armadas, que habían sufrido con el impacto del movimiento de 1989, de manera profesional y fuera de la política fue obstaculizado. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T134107Z" creationid="Soledad Mori" creationdate="20160927T165219Z">
+        <seg>Durante los meses subsiguientes, cuatro delegaciones de oficiales mayores de la EPL visitaron la ZEE de Shenzhen con el fin de demostrar su apoyo con respecto a la reforma y la apertura. También el diario de las fuerzas armadas, &lt;/f2&gt;&lt;f3&gt;Liberation Army Daily&lt;/f3&gt;&lt;f4&gt;,,publicó numerosos artículos que apoyaban la reforma </seg>
       </tuv>
     </tu>
     <tu>
@@ -22125,8 +22125,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This military intervention in domestic politics was a clear indication of the degree of tension in the Party and perhaps of the political ambitions of the Yang brothers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165026Z" creationid="Soledad Mori" creationdate="20160927T165026Z">
-        <seg>Esta intervención militar en la política interna era un claro indicio del grado de tensión en el Partido y de la ambición política de los hermanos Yang. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133936Z" creationid="Soledad Mori" creationdate="20160927T165026Z">
+        <seg>Esta intervención militar en la política nacional era un claro indicio del grado de tensión que existía en el partido y de la ambición política de los hermanos Yang.  </seg>
       </tuv>
     </tu>
     <tu>
