@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14344,6 +14344,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jiang spent a whole morning there, addressing faculty in French, English, Russian, and Japanese (which he said he would speak better if he had not been forced to learn it under the Japanese occupation) and exchanging couplets of Tang poetry with students.25</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T001336Z" creationid="Cami" creationdate="20160930T001336Z">
+        <seg>Jiang pasó toda la mañana allí, y se dirigió al público en francés, inglés, ruso y japonés (el cual dijo que lo hablaría mejor si lo hubieran forzado a aprenderlo durante la ocupación japonesa) además intercambió pareados de la poesía de Tang con los estudiantes25. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jiang therefore had to preserve the&lt;t30/&gt; &lt;t31/&gt;US relationship as well as demonstrate to his critics his toughness.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160926T195950Z">
@@ -14484,6 +14492,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T191213Z">
         <seg>El discurso de Jiang reflejaba las opiniones conflictivas dentro del partido, afirmando los temas reformistas pero enfatizando las preocupaciones de los conservadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang’s visit to Beijing University appears to have been part of a strategy to assuage the anger left by Tiananmen without formally revising the Party’s judgment on that event.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T001407Z" creationid="Cami" creationdate="20160930T001407Z">
+        <seg>La visita de Jiang a la Universidad de Pekín parece haber sido parte de una estrategia para aliviar el enojo que dejó Tiananmen sin revisar formalmente la opinión del partido sobre ese evento.</seg>
       </tuv>
     </tu>
     <tu>
