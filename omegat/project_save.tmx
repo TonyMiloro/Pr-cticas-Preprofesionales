@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4812,8 +4812,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As late as 1996, Jiang had reached out to the left with his statement in the Sixth Plenum resolution cited previously that “spiritual civilization would not be sacrificed to material civilization.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T015839Z">
-        <seg>Hasta 1996, Jiang se había acercado a la izquierda con la declaración antes citada que realizó en la VI Sesión Plenaria de que “no se sacrificará la civilización espiritual en aras de la civilización material”.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015814Z">
+        <seg>Hasta 1996, Jiang había entablado contactos con la izquierda a partir de la declaración antes citada que realizó en el Sexto Pleno y que aseguraba: “No se sacrificará la cultura espiritual en aras de la cultura material”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10603,8 +10603,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, the political situation had changed notably since Jiang had arrived in the capital.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T184719Z">
-        <seg>Sin embargo, el contexto político había cambiado particularmente desde la llegada de Jiang a la capital.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015842Z">
+        <seg>Sin embargo, el contexto político había cambiado particularmente desde la llegada de Jiang a la capital. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13149,8 +13149,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, Jiang had drawn much support from the left wing of the Party in his early years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T182522Z">
-        <seg>De hecho, Jiang se había ganado en sus primeros años gran parte del apoyo de la izquierda del Partido.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015745Z">
+        <seg>De hecho, Jiang se había ganado en sus primeros años mucho apoyo de la izquierda del Partido.</seg>
       </tuv>
     </tu>
     <tu>
