@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3122,8 +3122,8 @@
       <tuv lang="EN-US">
         <seg>A decade later, however, Chinese intellectuals and the Party alike were re-evaluating that position; the advantages of a middle class in securing social stability had become apparent, and even the Central Organization Department’s study mentioned above argued that China should develop a middle class.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T060117Z" creationid="Agustín" creationdate="20160929T023601Z">
-        <seg>Sin embargo, una década más tarde, tanto los intelectuales chinos como los miembros del Partido se replantearon esta postura. Ya eran conscientes de que la clase media podría asegurar la estabilidad social. Incluso el estudio realizado por el Departamento de Organización del Comité Central mencionado anteriormente confirmó que a China le resularía conveniente la existencia de esta clase social.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T060157Z" creationid="Agustín" creationdate="20160929T023601Z">
+        <seg>Sin embargo, una década más tarde, tanto los intelectuales chinos como los miembros del Partido se replantearon esta postura. Ya eran conscientes de que la clase media podría asegurar la estabilidad social, e incluso el estudio del Departamento de Organización del Comité Central mencionado anteriormente confirmó que a China le resularía conveniente la existencia de esta clase social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16046,8 +16046,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Lu Xueyi’s 2001 study on China’s social strata is a major contribution to our understanding of social differentiation in China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160929T025236Z" creationid="Agustín" creationdate="20160929T024946Z">
-        <seg>El estudio sobre la estratificación social de China que Lu Xueyi llevó a cabo en el año 2001 es una contribución importante para la comprensión de la diferencias sociales de China.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T060358Z" creationid="Agustín" creationdate="20160929T024946Z">
+        <seg>El estudio sobre la estratificación social de China que Lu Xueyi llevó a cabo en el año 2001 es un aporte importante para la comprensión de la diferencias sociales de China.</seg>
       </tuv>
     </tu>
     <tu>
