@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8808,8 +8808,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>First, it reaffirmed "reform and opening up." This reaffirmation may not seem strange until one recalls the very heated debates about reform pol- icy discussed in Chapter 8.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T214628Z">
-        <seg>Primero, reafirmó "la reformas políticas y la apertura al mundo". Esta ratificación puede no parecer extraña hasta que uno evoca los intensos debates sobre las politicas de reforma discutidas en el capítulo 8.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T163927Z">
+        <seg>Primero, reafirmó "la reformas políticas y la apertura al mundo". Esta ratificación parece excepcional hasta que se recuerdan los intensos debates sobre las políticas de reforma discutidas en el capítulo 8. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16941,8 +16941,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Over the summer of 2007, tens of retired cadres wrote a strongly worded letter to the Central Committee, "Have we lost our correct orientation?" The letter goes on and says that "The reforms now being carried out in China are reforms for turning the public ownership system into the private ownership system and for turning socialism into capitalism."</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T221145Z">
-        <seg>En el verano de 2007, un grupo de expertos retirados redactaron una carta clara y concisa dirigida al Comité Central que decía: "¿Hemos perdido nuestro eje?" La carta continúa y agrega: "Las reformas que se están llevando a cabo en este momento en China tienen como objetivo transformar el sistema de propiedad pública en un sistema de propiedad privada y convertir el socialismo en capitalismo". </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T164135Z">
+        <seg>En el verano de 2007, un grupo de expertos retirados redactaron una carta clara y concisa dirigida al Comité Central que señalaba: "¿Hemos perdido nuestro eje?" Se prosigue y se agrega: "Las reformas que se están llevando a cabo en este momento en China tienen como objetivo transformar el sistema de propiedad pública en un sistema de propiedad privada y convertir el socialismo en capitalismo". </seg>
       </tuv>
     </tu>
     <tu>
@@ -21450,8 +21450,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The revisions to the Party constitution were the most extensive in the reform era and incorporated Hu's scientific development concept, calling it "a major strategic thought that must be upheld and applied in developing socialism with Chinese characteristics." Given how long it took to incorporate Deng Xiaoping's "theory' into the constitution and Jiang Zemin's "Three Represents," this rapid enshrinement of Hu Jintao's scientific development concept and demand to build a harmonious society marks a major achievement and suggests that Hu will be able to put an even greater stamp on the Chinese political system over the next five years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T163142Z">
-        <seg>Las revisiones a la constitución del partido en la era de la reforma fueron las más amplias e incluyeron el concepto de desarrollo científico de Hu que se conoce como "un gran pensamiento estratégico que debe ser sostenido y aplicado para el desarrollo del socialismo chino". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping a la constitución y el concepto de la "Triple Representatividad" de Jiang Zemin, el rápido éxito que tuvo del concepto de desarrollo científico de Hu Jintao y la necesidad de construir una sociedad en armonía, marca un gran logro e implica que Hu podrá seguir influyendo con mayor fuerza sistema político chino durante los próximos cinco años.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T163453Z">
+        <seg>Las revisiones a la constitución del partido en la era de la reforma fueron las más amplias e incluyeron el concepto de desarrollo científico de Hu que se conoce como "un gran pensamiento estratégico que debe ser sostenido y aplicado para el desarrollo del socialismo chino". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping a la constitución y el concepto de la "Triple Representatividad" de Jiang Zemin, el rápido éxito que tuvo del concepto de desarrollo científico de Hu Jintao y la necesidad de construir una sociedad en armonía, se considera un gran logro que implica que Hu podrá seguir influyendo con mayor fuerza en el sistema político chino durante los próximos cinco años. </seg>
       </tuv>
     </tu>
     <tu>
