@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5062,6 +5062,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T014726Z">
         <seg>Tal como se menciona en el último capítulo de este libro, Hu trabajó cuidadosamente para diseñar su agenda como una "extensión" de la Triple Representatividad de Jiang y no como un cuestionamiento directo, luego se las arregló para persuadir a Jiang de retirarse de la CMC, y finalmente golpeó duro a la "banda de Shanghái" deteniendo a Chen Liangyu bajo cargos de corrupción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the leadership of the CCP was clearly aware, the inauguration of a new plan presented them with an opportunity to lay out an agenda for where this “third generation” of leadership intended to take China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T042239Z" creationid="Usuario" creationdate="20160930T042239Z">
+        <seg>Porque el liderazgo del PCCh (Partido Comunista Chino) estaba muy bien informado, la inauguración de un plan nuevo les presentó una oportunidad de organizar una agenda por donde esta “tercera generación” de la directiva tenía la intención de tomar a China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22042,6 +22050,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="mannu" changedate="20160929T224801Z" creationid="mannu" creationdate="20160929T224801Z">
         <seg>El primero en plantear públicamente la temática de una reforma política fue Shang Dewen,  &lt;t0/&gt;seguido por un profesor de economía &lt;t1/&gt;de 65 años de la Universidad de Pekín. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first was the Ninth Five-Year Plan that was to be formally approved by the Fourth session of the Eighth NPC meeting the following spring.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T042140Z" creationid="Usuario" creationdate="20160930T042140Z">
+        <seg>El primeroera el Noveno Plan Quinquenal que la Cuarta sesión de la Octava reunión de la Asamblea Popular Nacional (APN) iba a aprobar oficialmente la próxima primavera. </seg>
       </tuv>
     </tu>
     <tu>
