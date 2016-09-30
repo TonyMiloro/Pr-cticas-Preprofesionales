@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6349,6 +6349,14 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By politics, I mean political direction, political stand, political viewpoints, political discipline, political perception, and political sensitivity .</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T045631Z" creationid="Usuario" creationdate="20160930T045621Z">
+        <seg>Por política, yo quiero decir dirección política, posición política, puntos de vista políticos, disciplina política, percepción política y una sensibilidad política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By right, township officials should be the agents of the central government, but instead it was they who criticized the report detailing how the central government would lighten the burdens on peasants as an “evil document,” even contemptuously deriding it as “dog crap.” In order to extort the blood and sweat of the peasants to fatten themselves, township officials do not care about the country being ruled in peace for a long time; instead they aid and abet the growth of evil forces in society and let these forces clothe themselves in the apparel of “squadrons that are upholding the law” or “work squads.” These evil forces despise discipline, act unreasonably and arbitrarily, commit crimes and break the law, and oppress the people.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160930T022411Z">
@@ -6713,6 +6721,14 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T001524Z">
         <seg>¿Puede la reforma política seguir el mismo camino progresivo "cruzando el rio sintiendo las piedras" como lo hizo la reforma económica?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can we afford not to pay attention to politics, or can we afford to lower our guard and stop fighting when hostile forces in the West want to “Westernize” (xihua) and “divide” (fenhua) us, and impose their “democracy” and “freedom” on us; and when Lee Teng-hui is bent on promoting “Taiwan independence.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T045738Z" creationid="Usuario" creationdate="20160930T045729Z">
+        <seg>podemos permitirnos no prestarle atención a la política, o podemos bajar nuestra guardia y dejar de luchar cuando fuerzas hostiles en el Occidente quieren “occidentalizarnos” (xihua) y “dividirnos” (fenhua), e imponernos su “democracia” y su “libertad”; y cuando Lee Teng-hui está empeñado en promover la “independencia de Taiwán”.</seg>
       </tuv>
     </tu>
     <tu>
