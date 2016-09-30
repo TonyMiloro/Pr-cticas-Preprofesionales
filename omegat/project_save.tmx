@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1588,6 +1588,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160920T145500Z">
         <seg>&lt;f0&gt;Hu Angang y Wang Shaoguang estaban en contra de la relación que se había negociado entre el gobierno central y las provincias (que delegaba la autoridad y establecía contratos fiscales) porque había desencadenado, en su opinión, la creación de enclaves privilegiados y derechos adquiridos con privilegios especiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hu Angang and Wang Shaoguang opposed the negotiated relationship between the central&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;government and the provinces (devolving authority and establishing fiscal contracts) because it had led, in their opinion, to the creation of privileged enclaves and vested interests with special privileges.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T012234Z" creationid="Magui" creationdate="20160930T012234Z">
+        <seg>&lt;f0&gt;Hu Angang y Wang Shaoguang estaban en contra de la relación acordada entre el gobierno central y las provincias (que transfería la autoridad y establecía contratos fiscales) porque había desencadenado, en su opinión, la creación de enclaves privilegiados y derechos adquiridos con privilegios especiales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21540,6 +21548,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The government had an indispensable role to play.&lt;/f11&gt;&lt;f12&gt;17&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;A state could take effective action only if it had both a strong desire to address regional inequalities and a strong capacity to do so.&lt;/f13&gt;&lt;f15&gt;18&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;Thus,&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;their research on regional inequalities reinforced their conclusions in the report on state capacity – namely, that the fiscal strength of the state needed to be increased and the&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T011739Z" creationid="Magui" creationdate="20160930T011513Z">
+        <seg>El gobierno tenía que desempeñar un papel indispensable.&lt;/f5&gt;&lt;f7&gt;17&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;Un Estado podía actuar de manera efectiva solo si contaba con un gran deseo de abordar las desigualdades regionales y, al mismo tiempo, con una gran capacidad para llevarlo a cabo.&lt;/f8&gt;&lt;f10&gt;18&lt;/f10&gt;&lt;f11&gt;&lt;s12/&gt;Por lo tanto, la investigación sobre desigualdades regionales reforzó las conclusiones de su informe sobre la capacidad del Estado (concretamente, que la fuerza fiscal del Estado debía aumentar y la&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The government had an indispensable role to play.&lt;/f5&gt;&lt;f7&gt;17&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;A state could take effective action only if it had both a strong desire to address regional inequalities and a strong capacity to do so.&lt;/f8&gt;&lt;f10&gt;18&lt;/f10&gt;&lt;f11&gt;&lt;s12/&gt;Thus, their research on regional inequalities reinforced their conclusions in the report on state capacity – namely, that the fiscal strength of the state needed to be increased and the&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T162539Z">
@@ -24399,6 +24415,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160925T174115Z">
         <seg>A pesar de que las diferencias regionales desataron interrogantes sobre lo que es justo , parece ser que el problema más urgente en la cabeza de Hu era el del orden social.&lt;/f0&gt;&lt;f1&gt;15&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;En consecuencia, informó que un cuestionario realizado a las autoridades provinciales que asistieron a la Escuela Central del Partido Comunista en 1994 demostró que el 84% identificó a la inestabilidad social como el mayor problema generado por las brechas regionales y que el 16% temía que esas brechas pudieran causar una división nacional. &lt;/f2&gt;&lt;f4&gt;16&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;Así como lo manifestaron en su informe sobre capacidad del Estado, Hu y Wang sostuvieron que las desigualdades regionales no podían dejarse en manos del mercado, ya que el mercado podría incrementar las disparidades salariales en vez de reducirlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though regional differences raised questions of&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;fairness, it is apparent that the more urgent problem in Hu’s mind was that of social order.&lt;/f2&gt;&lt;f3&gt;15&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;Thus, he reported that a questionnaire given to provincial officials attending the Central Party School in 1994 showed that 84 percent identified social instabil&lt;/f4&gt;&lt;f6&gt;ity as the greatest problem generated by regional gaps; 16 percent feared such gaps could lead to national division.&lt;/f6&gt;&lt;f7&gt;16&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;As in their report on state capacity, Hu and Wang argued that regional inequalities cannot be left to the market, since the market alone&lt;s10/&gt;&lt;/f8&gt;&lt;f11&gt;might well increase rather than reduce income dis-parities.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T011752Z" creationid="Magui" creationdate="20160930T011413Z">
+        <seg>A pesar de que las diferencias regionales desataron interrogantes sobre lo que es justo , parece ser que el problema más urgente en la cabeza de Hu era el del orden social.&lt;/f0&gt;&lt;f1&gt;15&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;En consecuencia, informó que un cuestionario realizado a las autoridades provinciales que asistieron a la Escuela Central del Partido Comunista en 1994 demostró que el 84% identificó a la inestabilidad social como el mayor problema generado por las brechas regionales y que el 16% temía que esas brechas pudieran causar una división nacional. &lt;/f2&gt;&lt;f4&gt;16&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;Así como lo manifestaron en su informe sobre la capacidad del Estado, Hu y Wang sostuvieron que las desigualdades regionales no podían dejarse en manos del mercado, ya que el mercado podría incrementar las disparidades salariales en vez de reducirlas.</seg>
       </tuv>
     </tu>
     <tu>
