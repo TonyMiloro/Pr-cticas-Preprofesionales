@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17580,6 +17580,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press supervision, Ma said in adapting a line from Deng Xiaoping, “could be used by capitalism, and could &lt;t10/&gt;be used as well by socialism.”&lt;t11/&gt; Liu &lt;t12/&gt;Junning&lt;t13/&gt;, a political theorist at CASS, argued that political reform should start by protecting individual property rights.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T172851Z" creationid="Cami" creationdate="20160930T172851Z">
+        <seg>La supervisión de la prensa, declaró Ma reformulando las palabras de Deng Xiaoping,  &lt;t10/&gt;“podría utilizarse por el capitalismo tanto como por el socialismo”19. &lt;t11/&gt; Liu &lt;t12/&gt;Junning&lt;t13/&gt;, , un teórico político de CASS, planteó que la reforma política debería empezar por proteger los derechos de la propiedad individual. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previously marginalized groups – individual entrepreneurs, joint venture employees, and &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;entertainers – began to &lt;/f2&gt;&lt;f3&gt;create a new urban consumer culture.&lt;/f3&gt;&lt;f4&gt;2 &lt;/f4&gt;&lt;f5&gt;With the passing of Tiananmen, &lt;/f5&gt;&lt;f6&gt;Marxist ideology lost whatever residual hold it had maintained on people, and the state implicitly but strongly reaffirmed the social contract that had emerged in the 1980s: economic prosperity in exchange for political quiescence.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T145714Z">
@@ -25761,6 +25769,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T142950Z">
         <seg>Zeng fue promovido a miembro suplente del Politburó en el XV Congreso del Partido en 1997, y luego a la posición número cinco en el Comité Permanente del Politburó en 2002&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;22&lt;/f14&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang &lt;t2/&gt;Ximing&lt;t3/&gt;, a young journalist at CASS who had been involved in the writing of &lt;t4/&gt;Heartto&lt;t5/&gt;-Heart Talks with the General Secretary, opened by calling for a press law (something that had been widely discussed in the 1980s before being abandoned after Tiananmen) that would&lt;t6/&gt; protect freedom of the press.&lt;t7/&gt; Ma &lt;t8/&gt;Licheng&lt;t9/&gt;, then a journalist in the editorial department of People’s Daily who would soon become famous for co-authoring a controversial book called Crossed Swords, followed with a short article arguing that press supervision of public authority would benefit, not detract from, social order.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Cami" changedate="20160930T172628Z" creationid="Cami" creationdate="20160930T172628Z">
+        <seg>Zhang &lt;t2/&gt;Ximing&lt;t3/&gt;,un periodista joven de CASS que había participado en la redacción de &lt;t4/&gt;Heartto&lt;t5/&gt;-Heart Talks with the General Secretary (Charlas corazón a corazón con el secretario general), se hizo conocido al exigir una ley de prensa &lt;t6/&gt; (ley que ya había generado discusiones extensas en la década de los 80 antes de ser descuidada después de Tiananmen) que protegiera la libertad de prensa18. &lt;t7/&gt; Ma &lt;t8/&gt;Licheng&lt;t9/&gt;, en ese entonces periodista del departamento editorial del diario People’s Daily y que luego se haría famoso por ser coautor de un libro controvertido llamado “Cross Swords” (“Espadas cruzadas”), continuó con un artículo corto en el que sostenía que la supervisión por parte de la prensa a la autoridad pública beneficiaría, pero no desmerecería, al orden social.</seg>
       </tuv>
     </tu>
     <tu>
