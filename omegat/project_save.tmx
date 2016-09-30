@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23369,8 +23369,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This is not (or at least not yet) the long-hoped-for emergence of a “public sphere” in China, but it does suggest that the days of government pronouncements and media “education” of public opinion have passed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T203118Z" creationid="Lucia Cipolatti" creationdate="20160930T202747Z">
-        <seg>Esto no es (o por lo menos por ahora) la tan esperada surgimiento de la esfera pública en China, pero esto implica que los días de gobierno   </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T203225Z" creationid="Lucia Cipolatti" creationdate="20160930T202747Z">
+        <seg>Esto no es (o por lo menos por ahora) la tan esperada surgimiento de la esfera pública en China, pero esto implica que los días del dictamen gubernamental   </seg>
       </tuv>
     </tu>
     <tu>
