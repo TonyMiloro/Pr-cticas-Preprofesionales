@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6213,8 +6213,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By right, township officials should be the agents of the central government, but instead it was they who criticized the report detailing how the central government would lighten the burdens on peasants as an “evil document,” even contemptuously deriding it as “dog crap.” In order to extort the blood and sweat of the peasants to fatten themselves, township officials do not care about the country being ruled in peace for a long time; instead they aid and abet the growth of evil forces in society and let these forces clothe themselves in the apparel of “squadrons that are upholding the law” or “work squads.” These evil forces despise discipline, act unreasonably and arbitrarily, commit crimes and break the law, and oppress the people.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T021544Z">
-        <seg>Lo correcto sería que los funcionarios municipales sean agentes del gobierno central pero, en realidad, eran ellos mismos quienes criticaban el informe que brindaba detalles acerca de las medidas que tomaría el gobierno central para alivianar los problemas de los campesinos. Consideraban que era un "documento maldito" y se burlaban con desdén llamándolo "mierda de perro". Con la intención de explotar la sangre y sudor de los campesinos para llenar sus propios bolsillos, los funcionarios municipales no se preocupan por gobernar el pueblo de manera pacífica durante un largo tiempo, sino que son cómplices y colaboran con el crecimiento de las fuerzas malvadas que existen en la sociedad y permiten que estas fuerzas se disfracen de "brigadas defensoras de la ley" o "brigadas de trabajo". Estas fuerzas malvadas detestan la disciplina, actúan de forma irracional y arbitraria, cometen crímenes, violan la ley y oprimen al pueblo.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T022411Z">
+        <seg>Lo correcto sería que los funcionarios municipales sean agentes del gobierno central pero, en realidad, eran ellos mismos quienes criticaban el informe que brindaba detalles acerca de las medidas que tomaría el gobierno central para alivianar los problemas de los campesinos. Consideraban que era un "documento maldito" y se burlaban con desdén llamándolo "mierda de perro". Con la intención de explotar la sangre y sudor de los campesinos para llenar sus propios bolsillos, los funcionarios municipales no se preocupan por gobernar el pueblo de manera pacífica durante un largo tiempo, sino que son cómplices y colaboran con el crecimiento de las fuerzas malvadas que existen en la sociedad y permiten que estas fuerzas se disfracen de "brigadas defensoras de la ley" o "brigadas de trabajo". Estas fuerzas malvadas desprecian la disciplina, actúan de forma irracional y arbitraria, cometen crímenes, violan la ley y oprimen al pueblo.</seg>
       </tuv>
     </tu>
     <tu>
