@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12164,8 +12164,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the 1980s, the rapid growth of township and village enterprises (TVEs) drew nearly 130 million off the land, but the number of jobs being created by TVEs has stagnated now for nearly a decade.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160921T181234Z">
-        <seg>En los 80, el rápido crecimiento de las TVE (Township and Village Enterprises) provocó que 130 millones abandonaran el campo, pero la cantidad de empleos creados por las TVE se estancó por casi una década.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T182930Z">
+        <seg>En los 80, el rápido crecimiento de las TVE (empresas de poblados y aldeas) provocó que 130 millones abandonaran el campo, pero la cantidad de empleos creados por las TVE se estancó por casi una década.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15340,8 +15340,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Meanwhile, urban layoffs have created an underclass of some 30 million urban poor – a problem China has never faced before.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T004802Z">
-        <seg>Mientras tanto, los despidos en la zona urbana han creado una subclase de aproximadamente 30 millones de pobres - un problema que China no había enfrentado antes.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T182941Z">
+        <seg>Mientras tanto, los despidos en la zona urbana han creado una subclase de aproximadamente 30 millones de pobres, un problema que China no había enfrentado antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17926,8 +17926,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Rural incomes grew very slowly from the mid-1980s to the early 2000s; meanwhile, urban incomes grew rapidly.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160921T180807Z">
-        <seg>Los ingresos rurales se incrementaron paulatinamente desde mediados de los 80 hasta comienzos de la primera década de este siglo; mientras que las urbanas aumentaron rápidamente.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T182817Z">
+        <seg>Los ingresos rurales se incrementaron paulatinamente desde mediados de los 80 hasta comienzos de este siglo; mientras que las urbanas aumentaron rápidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21033,8 +21033,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The juxtaposition of a very wealthy &lt;f0&gt;nouveau riche&lt;/f0&gt; urban elite and a still struggling rural population and now a new urban poor class has proven a fertile ground for those who question the direction of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160921T182451Z">
-        <seg>La yuxtaposición de una acaudalada élite urbana, &lt;f0&gt;nouveau riche,&lt;/f0&gt;  una población rural aún en apuros, y ahora una nueva clase urbana de pobres favorece a quienes cuestionan la regulación de la reforma.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T183003Z">
+        <seg>La yuxtaposición de una acaudalada élite urbana, &lt;f0&gt;los nuevos ricos;&lt;/f0&gt;  una población rural aún en apuros, y ahora una nueva clase urbana de pobres favorece a quienes cuestionan la regulación de la reforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24254,8 +24254,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Urbanization may be the only long-term solution to this urban–rural gap, but that is a very long-term proposition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160921T181058Z">
-        <seg>La urbanización es quizás la única solución a largo plazo para reducir esta brecha urbano rural, pero es una propuesta a largo plazo.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T182830Z">
+        <seg>La urbanización es quizás la única solución a largo plazo para reducir esta brecha urbano rural, pero es una propuesta perdurable.</seg>
       </tuv>
     </tu>
     <tu>
