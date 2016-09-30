@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1524,6 +1524,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T015219Z">
         <seg>&lt;f0&gt;Por último el &lt;/f0&gt;&lt;f1&gt;People’s Daily &lt;/f1&gt;&lt;f2&gt;comenzó a ceder ante la presión. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Following Tiananmen, the grievances of interior provinces were given greater voice, and the central government announced that it would adopt a “biased” or “slanting” (&lt;/f0&gt;&lt;f1&gt;qingxiang&lt;/f1&gt;&lt;f2&gt;) policy that would favor the interior.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T024648Z" creationid="Sofi" creationdate="20160930T024648Z">
+        <seg>Luego de Tiananmén, comenzaron a darle más importancia a las provincias del interior y a escuchar sus reclamos, además el gobierno central anunció que adoptaría una política "parcial" o "inclinada" (qingxiang) que favoreciera al interior.</seg>
       </tuv>
     </tu>
     <tu>
