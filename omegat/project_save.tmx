@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24999,8 +24999,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Those who had doubts about the course of reform, or who quickly developed them following that tragedy, came to see Tiananmen not so much as a case of repression as another instance of romantic radicalism bringing about its own defeat.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160930T040026Z" creationid="Franco" creationdate="20160930T040026Z">
-        <seg>Los que estaban en duda sobre el rumbo de la reforma o quienes rápidamente las desarrollaron después de esa tragedia, vinieron a ver a Tiananmen no tanto como un caso de represión sino como una instancia de radicalismo romántico que causó su propia derrota.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T040122Z" creationid="Franco" creationdate="20160930T040026Z">
+        <seg>Aquellos que tenían dudas acerca del rumbo de la reforma o quienes rápidamente las desarrollaron después de esa tragedia, llegaron a ver a Tiananmen no tanto como un caso de represión sino como una instancia de radicalismo romántico que causó su propia derrota.</seg>
       </tuv>
     </tu>
     <tu>
