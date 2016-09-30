@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10139,8 +10139,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Having served two terms as premier, Li was constitutionally barred from continuing in office, but no Party head or premier had ever left office voluntarily.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T222444Z" creationid="Cami" creationdate="20160929T222444Z">
-        <seg>Li cumplió dos mandatos como primer ministro, por lo tanto no podía continuar con ese cargo porque así lo establecía la constitución. Sin embargo, ningún líder del partido o primer ministro había abandonado su cargo por voluntad propia.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T024624Z" creationid="Cami" creationdate="20160929T222444Z">
+        <seg>Li cumplió dos mandatos como primer ministro. Por lo tanto, no podía continuar con ese cargo porque así lo establecía la constitución. Sin embargo, ningún líder del partido o primer ministro había abandonado su cargo por voluntad propia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17677,8 +17677,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One aspect of the Fifteenth Party Congress that is particularly illuminating in terms of institutionalization is the way Li Peng was handled.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T222409Z" creationid="Cami" creationdate="20160929T222409Z">
-        <seg>Un aspecto del Decimoquinto Congreso del Partido que es revelador en cuanto a la institucionalización es como se ocuparon de Li Peng.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T024552Z" creationid="Cami" creationdate="20160929T222409Z">
+        <seg>Un aspecto del Decimoquinto Congreso del Partido que es revelador en cuanto a la institucionalización es cómo se ocuparon de Li Peng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24797,8 +24797,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This, combined with Jiang’s call to reduce military staffing by 500,000 – with 100,000 to be shorn from the officer corps – marked a clear effort to make China’s military smaller, better equipped, more pro&lt;t1/&gt;fessional, and less political.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T024438Z" creationid="Cami" creationdate="20160929T222327Z">
-        <seg>Esto, junto con la demanda de Jiang para reducir la dotación del personal militar a 500 000 (100 000 del cuerpo de oficiales), constituyó un esfuerzo evidente para que China sea un país con Fuerzas Armadas menos poderosasmenos militar, mejor equipado, más profesional &lt;t1/&gt;y menos político..</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T024503Z" creationid="Cami" creationdate="20160929T222327Z">
+        <seg>Esto, junto con la demanda de Jiang para reducir la dotación del personal militar a 500 000 (100 000 del cuerpo de oficiales), constituyó un esfuerzo evidente para que China sea un país con Fuerzas Armadas menos poderosas, mejor equipado, más profesional &lt;t1/&gt;y menos político..</seg>
       </tuv>
     </tu>
     <tu>
