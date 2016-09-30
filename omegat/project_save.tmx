@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23105,8 +23105,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They pointed to private entrepreneurs and entertainers rather than themselves as the chief beneficiaries of reform.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;Indeed, according to a survey of cadres attending a training program at the Central Party School, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;not one &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;respondent identified cadres as being the chief beneficiaries of reform.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T204159Z" creationid="Agustín" creationdate="20160929T013632Z">
-        <seg>No se contaban a ellos mismos entre los principales beneficiarios sino a los empresarios del sector privado y a los artistas.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;De hecho, según una encuesta realizada a cuadros que asistían un programa de entrenamiento en la Escuela Central del Partido, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;ninguno identificó a estos como&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;los principales favorecidos por dicha reforma.&lt;/f16&gt;&lt;/f15&gt;</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T205133Z" creationid="Agustín" creationdate="20160929T013632Z">
+        <seg>No se contaban a ellos mismos entre los principales beneficiarios sino a los empresarios del sector privado y a los artistas.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;De hecho, según una encuesta realizada a cuadros que asistían un programa de entrenamiento en la Escuela Central del Partido, &lt;/f12&gt;&lt;/f11&gt;ninguno&lt;f13&gt;&lt;f14&gt;identificó al propio grupo como&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;el principal favorecido por dicha reforma.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
