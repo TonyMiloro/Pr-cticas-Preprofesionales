@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6821,8 +6821,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Conservative Party elder Song Renqiong declared in early March that he could not detect leftist influences in current political, ideological, and economic work.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T132411Z" creationid="Soledad Mori" creationdate="20160927T031914Z">
-        <seg>Song Renqiong, veterano del Partido Conservador, declaró a principios de marzo que no pudo detectar influencias izquierdistas en la actual labor política, ideológica y económica</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T132432Z" creationid="Soledad Mori" creationdate="20160927T031914Z">
+        <seg>Song Renqiong, veterano del Partido Conservador, declaró a principios de marzo que no pudo detectar influencias izquierdistas en la actual labor política, ideológica y económica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11292,8 +11292,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In opposition, Politburo Standing Committee member Yao Yilin argued that Deng’s comments on guarding against leftism referred to the economic field; there were no indications of leftism in other fields.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T163711Z" creationid="Soledad Mori" creationdate="20160927T163711Z">
-        <seg>No obstante, Yao Yilin, miembro del Comité Permanente del Politburo, sostuvo que los comentarios de Deng en contra de la corriente izquierdista se reducen al ámbito económico. No hubo indicios de izquierda en otros sectores.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133045Z" creationid="Soledad Mori" creationdate="20160927T163711Z">
+        <seg>No obstante, Yao Yilin, miembro del Comité Permanente del Politburó, sostuvo que los comentarios de Deng de defensa contra del izquierdismo se referían al ámbito económico. No había indicios de izquierdismo en otros sectores</seg>
       </tuv>
     </tu>
     <tu>
@@ -17751,8 +17751,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Similarly, the conservative director of the &lt;/f0&gt;&lt;f1&gt;People’s Daily&lt;/f1&gt;&lt;f2&gt;, Gao Di, declared on March 9 that “[w]e have already published two or three comments, and that is enough for the moment.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T032629Z" creationid="Soledad Mori" creationdate="20160927T032629Z">
-        <seg>De forma similar, el director conservador del  &lt;/f0&gt;&lt;f1&gt;People’s Daily&lt;/f1&gt;&lt;f2&gt;, Gao Di, declaró el 9 de marzo que "ya hemos publicado dos o tres comentarios, y eso es suficiente por el momento. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T132542Z" creationid="Soledad Mori" creationdate="20160927T032629Z">
+        <seg>De forma similar, el director conservador de  &lt;/f0&gt;&lt;f1&gt;People’s Daily&lt;/f1&gt;&lt;f2&gt;, Gao Di, declaró el 9 de marzo que "ya [h]emos publicado dos o tres comentarios, y eso es suficiente por el momento.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -19375,8 +19375,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The communiqu´e &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;issued by the Politburo meeting endorsed the “necessity” of upholding the “one center” of economic development and called on the Party to “accelerate the pace of reform and opening to the outside world.” Moreover, it affirmed Deng’s thesis that the main danger the Party faced was leftism.74 Accordingly, China’s central media finally publicized Deng’s trip.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T164047Z" creationid="Soledad Mori" creationdate="20160927T163832Z">
-        <seg>El comunicado&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt; emitido por la reunión del Politburo avaló la "necesidad" de defender "el único centro" de desarrollo económico y le solicitó al Partido "acelerar el paso de la reforma y la apertura al mundo". Además, reafirmó la postura de Deng de que la mayor amenaza que enfrenta el Partido es la izquierda. Finalmente, los medios de comunicación de China publicaron el viaje de Deng.  </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133453Z" creationid="Soledad Mori" creationdate="20160927T163832Z">
+        <seg>El comunicado&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;emitido por la reunión del Politburó avaló la "necesidad" de defender "el único centro" de desarrollo económico y le solicitó al Partido "el aceleramiento del paso de la reforma y la apertura al mundo". Además, reafirmó la postura de Deng que sostenía la mayor amenaza que enfrenta el Partido es el izquierdismo74. Como correspondía, los medios de comunicación más importantes de China divulgaron el viaje de Deng. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24518,9 +24518,9 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Yang Shangkun, Deng’s close associate and permanent vice-chairman of the CMC, led the charge by demanding that the body endorse Deng’s view of economic work at the center.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Jiang Zemin offered a self-criticism for his laxity in promoting reform and opening and echoed Yang’s views.72 Politburo member and NPC chairman Wan Li also strongly endorsed Deng’s views, and Politburo Standing Committee member Qiao Shi argued pointedly that the leadership of the Party remained hindered by leftist ideology that interfered with the effective implementation of the Party’s principles and policies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T163522Z" creationid="Soledad Mori" creationdate="20160927T163357Z">
-        <seg>Yang Shangkun, el socio cercano de Deng y vice-presidente permanente de la Comisión Militar Central, tomó las riendas al exigir que la organización apoye la perspectiva económica de Deng.
-.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Jiang Zemin hizo una autocrítica por su descuido al promover reforma y apoyar la perspectiva de Yang. Wan Li, presidente de la Legislatura de China y miembro del Politburo, también respaldó firmemente la propuesta de Deng, y Qiao Shi, miembro del Comité Permanente del Politburo, sostuvo que el liderazgo del Partido se encontraba obstaculizado por la ideología de izquierda que interfirió con la efectiva implementación de los principios y normas del Partido. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T132915Z" creationid="Soledad Mori" creationdate="20160927T163357Z">
+        <seg>Yang Shangkun, ínitimo socio de Deng y vice presidente permanente de la Comisión Militar Central, tomó las riendas al exigir que la organización acepte como lineamiento central la perspectiva de Deng sobre la labor económica. Jiang Zemin hizo una autocrítica por su descuido al promover reforma y apoyar la perspectiva de Yang72. Wan Li, presidente de la APN de China y miembro del Politburó, también respaldó firmemente la propuesta de Deng, y Qiao Shi, miembro del Comité Permanente del Politburó, sostuvo enfáticamente que el liderazgo del partido se encontraba obstaculizado por la ideología izquierdista que interfirió con la efectiva implementación de los principios y políticas del Partido.  
+.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24543,8 +24543,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Yao’s comments were echoed by Song Ping, also a member of the Standing Committee.73 The outcome favored Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T163755Z" creationid="Soledad Mori" creationdate="20160927T163755Z">
-        <seg>Las observaciones de Yao fueron compartidas por Song Ping, miembro del Comité Permanente. El resultado favoreció a Deng. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133407Z" creationid="Soledad Mori" creationdate="20160927T163755Z">
+        <seg>Song Ping, miembro del Comité Permanente, se hizo eco de los comentarios de Yao. El resultado favoreció a Deng. </seg>
       </tuv>
     </tu>
     <tu>
