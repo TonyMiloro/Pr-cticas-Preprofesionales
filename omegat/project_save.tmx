@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2338,8 +2338,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang’s diagnosis of China’s social ills and his hope that the CCP could provide stability in a period of transition is related to an unabashed nation-alism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T211410Z">
-        <seg>&lt;f0&gt;El diagnóstico de Wang con respecto a los males sociales de China y la esperanza de que el PCC podría proveer estabilidad en un período de transición esta relacionado con un nacionalismo descarado. </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T192345Z">
+        <seg>&lt;f0&gt;El diagnóstico de Wang con respecto a los males sociales de China y la esperanza de que el PCCh (Partido Comunista de China) pudiera proveer estabilidad en un período de transición está relacionado con un nacionalismo descarado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,8 +2458,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;fear that reform will be too destabilizing.&lt;/f0&gt;&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt; As he puts it: “What I fear most is that as soon as revolutionary thought or theories are imported into China they will stimulate the division of strata, which has already started, and bring about a destructive revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T191159Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;porque teme que la reforma sea muy desestabilizadora&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt;. En sus palabras: "Lo que mas temo es que en cuanto los pensamientos y teorias revolucionarias se importen en China, provocarán la división de estratos, que ya ha comenzado, y ocasionarán una revolución destructiva.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T191754Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;porque teme que la reforma sea muy desestabilizadora&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt;Como lo expresó con sus palabras: “Lo que más temo es que en cuanto los pensamientos y teorías revolucionarias lleguen a China, provocarán la división de estratos, que ya ha comenzado y ocasionarán una revolución destructiva. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6837,8 +6837,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>China needs stability.”&lt;/f2&gt;&lt;f3&gt;64&lt;/f3&gt;&lt;f4&gt; In order to enhance stability and stop the decline in morals in society, Wang unabashedly favors raising high the banner of communism, “so that it becomes the banner flying above our heads and becomes our common faith (&lt;/f4&gt;&lt;f5&gt;xinyang&lt;/f5&gt;&lt;f6&gt;) and religion (&lt;/f6&gt;&lt;f7&gt;zongjiao&lt;/f7&gt;&lt;f8&gt;).”&lt;/f8&gt;&lt;f9&gt;65&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T210150Z">
-        <seg>China necesita estabilidad”.&lt;/f2&gt;&lt;f3&gt;64&lt;/f3&gt;&lt;f4&gt; Para lograr la estabilidad y frenar el deterioro de los valores morales de la sociedad, Wang descaradamente favorece levantar bien alto la bandera del comunismo, " asi se convierte en la bandera que flamea sobre nuestras cabezas  y también en nuestra  fe (&lt;/f4&gt;&lt;f5&gt;xinyang&lt;/f5&gt;&lt;f6&gt;) y religión (&lt;/f6&gt;&lt;f7&gt;zongjiao&lt;/f7&gt;&lt;f8&gt;)común”. &lt;/f8&gt;&lt;f9&gt;65&lt;/f9&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T192231Z">
+        <seg>China necesita estabilidad”&lt;/f2&gt;&lt;f3&gt;64&lt;/f3&gt;&lt;f4&gt;. Para lograr esa estabilidad y frenar el deterioro de los valores morales de la sociedad, Wang se muestra a favor de levantar bien alto la bandera del comunismo, “así se convierte en la bandera que flamea en nuestro cielo y sobre nuestra fe (&lt;/f4&gt;&lt;f5&gt;xinyang&lt;/f5&gt;&lt;f6&gt;) y religión  (&lt;/f6&gt;&lt;f7&gt;zongjiao&lt;/f7&gt;&lt;f8&gt;) común”&lt;/f8&gt;&lt;f9&gt;65&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24806,8 +24806,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang makes clear his belief that the student demonstrations of spring 1989 were encouraged and supported (if not instigated) by the United States and were aimed at overthrowing the CCP because America feared China’s nuclear power.&lt;/f0&gt;&lt;f1&gt;66&lt;/f1&gt;&lt;f2&gt; Like other nationalists, he asserts not only that the United States is in moral and social decline but also that the cure to the ills gener-ated by an “economic mechanism flooded with liberalism” could only lie in the East.&lt;/f2&gt;&lt;f3&gt;67&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T212254Z">
-        <seg>Wang deja en claro su idea de que las manifestaciones estudiantiles de la primavera de 1989 fueron impulsadas y apoyadas (y hasta incluso incitadas) por Estados Unidos con el objetivo de derrocar al PCC porque Estados Unidos temia al poder nuclear de China.&lt;/f0&gt;&lt;f1&gt;66&lt;/f1&gt;&lt;f2&gt; Como otros nacionalistas, Wang afirma no solo que Estados Unidos esta pasando por un deterioro moral y social, sino que tambien la cura para los males generados por un "mecanismo económico lleno de liberalismo" seria solo una mentira en el Este. &lt;/f2&gt;&lt;f3&gt;67&lt;/f3&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T192506Z">
+        <seg>Wang deja en claro la idea de que las manifestaciones estudiantiles de la primavera de 1989 fueron impulsadas y apoyadas (y hasta incluso incitadas) por Estados Unidos con el objetivo de derrocar al PCCh ya que Estados Unidos le temía al poder nuclear de China&lt;/f0&gt;&lt;f1&gt;66&lt;/f1&gt;&lt;f2&gt;. Como otros nacionalistas, Wang afirma no solo que Estados Unidos está pasando por un deterioro moral y social, sino también que la cura para los males generados por un “mecanismo económico lleno de liberalismo” solo se puede encontrar en Oriente&lt;/f2&gt;&lt;f3&gt;67&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
