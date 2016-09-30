@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1199,6 +1199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Although the neostatist desire to increase state capacity appears at first glance to move in the opposite d&lt;/f0&gt;&lt;f1&gt;irection from popular nationalism and its criticisms of the existing government – and both of these seem distant from the New Left concerns discussed in Chapter&lt;s2/&gt;&lt;/f1&gt;&lt;a3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;&lt;/f5&gt;&lt;/a3&gt;&lt;f7&gt;– in fact, all three of these trends share a basic intellectual ori&lt;/f7&gt;&lt;f8&gt;entation, and personal relations across them tend to be quite close.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153227Z" creationid="Magui" creationdate="20160930T153227Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;A pesar de que el deseo neoestatista de incrementar la capacidad del Estado parece en principio ir en dirección opuesta al nacionalismo popular y sus críticas hacia el gobierno actual, y ambas posturas parecen distantes de los intereses de la nueva izquierda presentados en el Capítulo &lt;/f1&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;/a5&gt;&lt;f8&gt;&lt;f9&gt;, en realidad las tres corrientes comparten una orientación intelectual básica y las relaciones personales entre ellas tienden a ser muy cercanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Although the neostatist desire to increase state capacity appears at first glance to move in the opposite direction from popular nationalism and its criticisms of the existing government – and both of these seem distant from the New Left concerns discussed in Chapter&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;4&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;/a2&gt;&lt;f6&gt;– in fact, all three of these trends share a basic intellectual orientation, and personal relations across them tend to be quite close.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160918T220807Z">
@@ -1738,8 +1746,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Joel Migdal, John Zysman, and others began to look at how strong states could bring about social change and economic development.&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160908T014222Z">
-        <seg>&lt;f0&gt;Joel Migdal, John Zysman y otros comenzaron a observar cómo los estados fuertes podían provocar cambio social y desarrollo económico.&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153324Z">
+        <seg>Joel Migdal, John Zysman y otros comenzaron a observar cómo los Estados fuertes podían provocar un cambio social y un desarrollo económico.&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5725,8 +5733,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By 1992–3, however, as noted in the previous chapter, the economic and social bases had developed for a broader intellectual acceptance of New Left ideas that would have been considered “conservative” only a few years earlier.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Flor" changedate="20160927T161417Z">
-        <seg>Sin embargo, tal y como se mencionó en el capítulo anterior, para los años 1992 y 1993 las bases económicas y sociales habían evolucionado con una aceptación intelectual más amplia de ideas de nueva izquierda que hubiesen sido consideradas "conservadoras" apenas unos años antes.</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T152647Z">
+        <seg>Sin embargo, tal y como se mencionó en el capítulo anterior, para los años 1992 y 1993 las bases económicas y sociales habían evolucionado con una aceptación intelectual más amplia de ideas de la nueva izquierda que hubiesen sido consideradas "conservadoras" apenas unos años antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6199,6 +6207,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T161035Z" creationid="Flor" creationdate="20160927T144303Z">
         <seg>En el Capítulo &lt;/f17&gt;&lt;/f16&gt;&lt;a18&gt;&lt;f19&gt;&lt;f20&gt;3&lt;/f20&gt;&lt;/f19&gt;&lt;/a18&gt;&lt;a21&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;/a21&gt;&lt;f24&gt;&lt;f25&gt;se analizó el nacionalismo de personas como He Xin y los impulsos de recentralización de personas como Chen Yuan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter&lt;s13/&gt;&lt;/f12&gt;&lt;a14&gt;&lt;f15&gt;3&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;&lt;/f16&gt;&lt;/a14&gt;&lt;f18&gt;discussed the nationalism of people like He Xin and t&lt;/f18&gt;&lt;f19&gt;he recentralizing impulses of people like Chen Yuan.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T152025Z" creationid="Magui" creationdate="20160930T152025Z">
+        <seg>En el Capítulo&lt;s13/&gt;&lt;/f12&gt;&lt;a14&gt;&lt;f15&gt;3&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;&lt;/f16&gt;&lt;/a14&gt;&lt;f18&gt;se habló del nacionalismo de personas como He Xin y de los impulsos de recentralización de personas como Chen Yuan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8530,6 +8546,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130748Z">
         <seg>En primer lugar, el gobierno continuó apoyando las reformas de mercado, una labor creciente para el sector privado y una integración creciente en el orden global económico. &lt;bs1/&gt;&lt;be2/&gt;&lt;s3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, there is a common nationalism directed primarily against the United States, both in t&lt;/f8&gt;&lt;f9&gt;erms of its presumed desire to control China internationally and in terms of the American model of liberal democracy and neoclassical economics.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153402Z" creationid="Magui" creationdate="20160930T153402Z">
+        <seg>En primer lugar, hay un nacionalismo común dirigido en principio en contra de Estados Unidos, tanto por el supuesto deseo del país occidental de querer controlar a China en el ámbito internacional, como por el modelo estadounidense de democracia liberal y economía neoclásica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15154,6 +15178,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neostatism and popular&lt;s0/&gt;nationalism</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T152812Z" creationid="Magui" creationdate="20160930T152812Z">
+        <seg>Neoestatismo y nacionalismo popular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neostatists</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160921T014649Z">
@@ -17380,6 +17412,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Second, the approaches share a concern with social justice, though they differ somewhat in their preferred solu&lt;/f9&gt;&lt;f10&gt;tions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T153422Z" creationid="Magui" creationdate="20160930T153422Z">
+        <seg>En segundo lugar, los enfoques comparten un interés por la justicia social, aunque de alguna manera difieren en las soluciones que le darían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Second, the approaches share a concern with social justice, though they differ somewhat in their preferred solutions.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T162102Z">
@@ -17824,6 +17864,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
         <seg>Similarly, although Chen Yuan sought ways to combine market economics with a stronger central government, he never developed a systematic conceptual approach.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T015150Z">
+        <seg>De manera similar, aunque Chen Yuan buscó la manera de combinar la economía de mercado con un gobierno central más fuerte, nunca desarrolló un enfoque conceptual sistemático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Similarly, although Chen Yuan&lt;/f19&gt;&lt;f20&gt;&lt;s21/&gt;sought ways to combine market economics with a stronger central government, he never developed a systematic conceptual approach.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T152111Z" creationid="Magui" creationdate="20160930T152111Z">
         <seg>De manera similar, aunque Chen Yuan buscó la manera de combinar la economía de mercado con un gobierno central más fuerte, nunca desarrolló un enfoque conceptual sistemático.</seg>
       </tuv>
     </tu>
@@ -21706,6 +21754,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These limitations condemned the neoconservatism of the 1989–92 period to the margins of Chinese intellectual life, even as it&lt;s22/&gt;&lt;/f20&gt;&lt;f23&gt;expressed a prevalent mood within a segment of the political leadership.&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T152527Z" creationid="Magui" creationdate="20160930T152409Z">
+        <seg>Estas limitaciones condenaron al neoconservadurismo de los años 1989 a 1992 a los márgenes de la vida intelectual china, incluso aunque predominara dentro de un segmento del liderazgo político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These moves were necessary if Jiang was going to handle successfully the paramount issue of the day, economic reform.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160927T194323Z">
@@ -22006,6 +22062,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T160813Z" creationid="Flor" creationdate="20160927T143900Z">
         <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han ocurrido en paralelo con lo presentado en el Capítulo&lt;/f9&gt;&lt;/f8&gt;&lt;a10&gt;&lt;f11&gt;&lt;f12&gt;4&lt;/f12&gt;&lt;/f11&gt;&lt;/a10&gt;&lt;a13&gt;&lt;f14&gt;&lt;f15&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter focuses on more specifically political issues that have arisen parallel to the discussions described in Chapter&lt;/f7&gt;&lt;f9&gt;.&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;In particular, we focus on two issues that at first glance appear to be contradictory: the eme&lt;/f11&gt;&lt;f12&gt;rgence of a body of neostatist thought that has revolved around the issue of “state capacity” on the one hand, and the emergence of populist nationalism on the other.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T151942Z" creationid="Magui" creationdate="20160930T151942Z">
+        <seg>Este capítulo se enfoca de modo más específico en cuestiones políticas que han surgido en paralelo con lo presentado en el Capítulo&lt;s7/&gt;&lt;/f6&gt;&lt;a8&gt;&lt;f9&gt;4&lt;/f9&gt;&lt;f10&gt;.&lt;s11/&gt;&lt;/f10&gt;&lt;/a8&gt;&lt;f12&gt;Nos centraremos, en especial, en dos acontecimientos que a simple vista parecen contradictorios: por un lado, la aparición de un organismo de pensamiento neoestatista basado en la "capacidad del Estado", y por el otro, el surgimiento del nacionalismo populista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23087,6 +23151,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
         <seg>To that extent, the discussion was fairly abstract, as are many of the writings in this genre.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160902T014506Z">
+        <seg>Hasta ese punto, la discusión era bastante abstracta, como en muchos de los textos de este género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To that extent, the discussion was fairly abstract, as are many of the writings in this&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;genre.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T151849Z" creationid="Magui" creationdate="20160930T151849Z">
         <seg>Hasta ese punto, la discusión era bastante abstracta, como en muchos de los textos de este género.</seg>
       </tuv>
     </tu>
@@ -24713,6 +24785,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160918T220742Z">
         <seg>Pero mientras algunos pensadores como Wang Hui y Cui Zhiyuan comenzaron a explorar nuevos conceptos de "modernidad" y distintos caminos hacia el desarrollo, otros investigadores, en especial Hu Angang y Wang Shaoguang, cuyas ideas presentaremos más adelante,desviaron su atención hacia la "capacidad del Estado". La capacidad del Estado es un concepto antiguo de las ciencias políticas estadounidenses que recibió una inyección de vitalidad intelectual en la década de los 80 cuando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet as social thinkers like Wang Hui, Cui Zhiyuan, and others began to explore new understandings of “modernity” and different development paths, other scholars – particularly Hu Angang and Wang Shaoguang, whose&lt;s0/&gt;ideas are discussed shortly – turned their attention to the issue of “state capacity.” State capacity is an old issue in American political science that received an infusion of new intellectual vitality in the 1980s as</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T152800Z" creationid="Magui" creationdate="20160930T152800Z">
+        <seg>Pero mientras algunos pensadores como Wang Hui y Cui Zhiyuan comenzaron a explorar nuevos conceptos de "modernidad" y distintos caminos hacia el desarrollo, otros investigadores, en especial Hu Angang y Wang Shaoguang, cuyas ideas presentaremos más adelante, desviaron su atención hacia la "capacidad del Estado". La capacidad del Estado es un concepto antiguo de las ciencias políticas estadounidenses que recibió una inyección de vitalidad intelectual en la década de los 80 cuando</seg>
       </tuv>
     </tu>
     <tu>
