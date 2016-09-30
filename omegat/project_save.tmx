@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3788,8 +3788,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although reﬂections and introspections began almost immediately, it would be over two years before intellectuals began to regain their voice, and when they did it was not only a different voice that emerged but also a very changed and divided community.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160925T230936Z">
-        <seg>Aunque las reflexiones y la introspección comenzaron casi de inmediato, debieron pasar dos años hasta que los intelectuales recuperaron su voz, y cuando lo hicieron, no sólo surgió una voz diferente, también una comunidad ransformada y dividida.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T183824Z">
+        <seg>Aunque las reflexiones y la introspección comenzaron casi de inmediato, debieron pasar más de dos años hasta que los intelectuales recuperaron su voz, y cuando lo hicieron, no sólo surgió una voz diferente, también una comunidad transformada y dividida.</seg>
       </tuv>
     </tu>
     <tu>
