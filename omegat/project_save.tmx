@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12348,8 +12348,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In so arguing, Cui seems to be combining a moral revulsion at the concentration of wealth and abuse of power that have occurred in the reform years with an idealism that socialist and economic democracy can be implemented in China despite the lack of stable social, economic, and legal institutions to build upon.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Martin" changedate="20160929T155151Z" creationid="Martin" creationdate="20160929T154104Z">
-        <seg>De tanta discusión, parece que Cui está combinando una moral repugnante en la concentración de la riqueza y el abuso de poder que tomaron lugar en los años de reforma con un idealismo de que la democracia socialista y económica puede ser implementada en China a pesar de la falta de instituciones sociales, económicas y legales para construir. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T005841Z" creationid="Martin" creationdate="20160929T154104Z">
+        <seg>De este modo, parece que Cui está combinando una repugnancia moral sobre la concentración de la riqueza y el abuso de poder que ocurrieron en los años de reforma con un idealismo de democracia socialista y económica que puede ser implementado en China a pesar de la falta de instituciones sociales, económicas y legales lo suficientemente estables sobre las cuales basarse. </seg>
       </tuv>
     </tu>
     <tu>
