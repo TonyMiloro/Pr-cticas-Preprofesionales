@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18207,8 +18207,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Only 4.7 percent of the respondents declared that there was no conflict in Chinese society; nearly a third said that there was “a comparatively large amount of conflict” or “serious conflict.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Over 80 percent believed that social conflict was likely to get worse to some degree in the future, which, as the authors state, was an “extremely dangerous expectation.”&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;When asked what they would do if a co-worker or neighbor were to ask them to participate in a collective action or petition, only 9.3 percent said they would try to persuade them not to undertake such an action, whereas a third of the respondents said they would participate.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T051025Z" creationid="Agustín" creationdate="20160929T015105Z">
-        <seg>Solamente el 4,7 % manifestó que no había ningún conflicto en la sociedad china y cerca de un tercio respondió que había "una gran cantidad de conflictos" relativamente o "conflictos graves".&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Más del 80 porciento expresó que consideraban que los conflictos sociales podrían empeorar de alguna manera en el futuro, la cual era una "expectativa extremadamente peligrosa" según los autores. &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Cuando les preguntaron qué harían si un compañero de trabajo o un vecino les pidiera que participaran en una medida o reclamo colectivo, solo el 9,3 porciento dijo que intentarían convencerlos de no hacerlo, mientras que un tercio admitió que participaría.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T051334Z" creationid="Agustín" creationdate="20160929T015105Z">
+        <seg>Solamente el 4,7 % manifestó que no había ningún conflicto en la sociedad china y cerca de un tercio respondió que había "en comparación, una gran cantidad de conflictos" o que estos eran"conflictos graves".&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Más del 80 porciento expresó que consideraban que los conflictos sociales podrían empeorar de alguna manera en el futuro, la cual era una "expectativa extremadamente peligrosa" según los autores. &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Cuando les preguntaron qué harían si un compañero de trabajo o un vecino les pidiera que participaran en una medida o reclamo colectivo, solo el 9,3 porciento dijo que intentarían convencerlos de no hacerlo, mientras que un tercio admitió que participaría.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
