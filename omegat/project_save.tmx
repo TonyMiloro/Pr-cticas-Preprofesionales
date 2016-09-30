@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9329,8 +9329,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, he said that he could not remember ever saying “corruption is inevitable at the initial stage of socialism.” He rejected the accusation of neglecting political and ideological education by saying that he was worried that the “old methods” of ideology would not work and “might even arouse people’s repugnance.” Even while admitting responsibility for grasping economic work firmly but being lax with regard to bourgeois liberalization, he defended himself by citing Deng’s words from April 1987, a time when Deng was trying to dampen an earlier campaign against bourgeois liberalization: “The struggle against bourgeois liberalization is a long-term struggle and is also a prolonged process of education.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160930T005506Z">
-        <seg>Por ejemplo, expresó que no recuerda haber dicho alguna vez que "la corrupción es inevitable en una etapa inicial de socialismo". Rechazó la acusación de desatender la educación política e ideológica cuando expresó que estaba preocupado que "los antiguos métodos" de ideología no resultaran e incluso generaran repugnancia en la gente". A su vez, mientras asumió la responsabilidad por ser riguroso con el trabajo económico pero ser flexible en la liberalización burgueza, se defendió citando palabras de Deng de abril de 1987, en ese momento Deng intentaba apaciguar una previa campaña contra la liberalización burguesa: "La lucha contra la liberalización burgueza es una larga lucha y es, también, un prolongado proceso de educación.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20160930T005521Z">
+        <seg>Por ejemplo, expresó que no recuerda haber dicho alguna vez que "la corrupción es inevitable en una etapa inicial de socialismo". Rechazó la acusación de desatender la educación política e ideológica cuando expresó que estaba preocupado que "los antiguos métodos" de ideología no resultaran e incluso generaran repugnancia en la gente". A su vez, mientras asumió la responsabilidad por ser riguroso con el trabajo económico pero ser flexible en la liberalización burguesa, se defendió citando palabras de Deng de abril de 1987, en ese momento Deng intentaba apaciguar una previa campaña contra la liberalización burguesa: "La lucha contra la liberalización burgueza es una larga lucha y es, también, un prolongado proceso de educación.</seg>
       </tuv>
     </tu>
     <tu>
