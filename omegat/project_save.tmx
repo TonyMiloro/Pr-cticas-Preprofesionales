@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14562,8 +14562,8 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang revived the thesis in 1997 to legitimize reforming SOEs through the widespread adoption of the shareholding system, a theme anticipated in Heart-to-Heart Talks with the General Secretary and Liu Ji’s writings&lt;t2/&gt;.&lt;t3/&gt; “The shareholding system,” Jiang declared, “can be used both under capitalism and socialism.” Large and medium-sized state-owned enterprises would be reorganized into “standard corporations” with “clear ownership” that would be genuinely independent of government control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T225111Z" creationid="LENOVO" creationdate="20160919T224507Z">
-        <seg>Jiang reavivó la hipótesis en 1997 para legitimar la reforma de las empresas estatales a través de la adopción generalizada del sistema de acciones, un tema que se anticipó en Charlas sinceras con el Secretario General y los escritos de Liu Ji&lt;t2/&gt;.&lt;t3/&gt; “El sistema de acciones", explicó Jiang, "puede ser utilizado tanto por el capitalismo como por el socialismo". Las empresas estatales grandes y medianas se reorganizarían en "emoresas convencionales" con "propiedad clara" que serían verdaderamente independientes del control del estado. </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T020925Z" creationid="LENOVO" creationdate="20160919T224507Z">
+        <seg>Jiang reavivó la hipótesis en 1997 para legitimar la reforma de las empresas estatales a través de la adopción generalizada del sistema de acciones, un tema que se anticipó en Conversaciones profundas con el Secretario General y los escritos de Liu Ji&lt;t2/&gt;.&lt;t3/&gt; “El sistema de acciones", explicó Jiang, "puede ser utilizado tanto por el capitalismo como por el socialismo". Las empresas estatales grandes y medianas se reorganizarían en "empresas convencionales" con "propiedad clara" que serían verdaderamente independientes del control del estado. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24027,8 +24027,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This effort to break with leftist interpretations of Marxism–Leninism was also apparent in Jiang’s unexpected decision to feature the thesis that China is in the “primary stage of socialism,” an argument that had been developed by then-General Secretary Zhao &lt;t0/&gt;Ziyang&lt;t1/&gt; at the Thirteenth Party Congress in 1987 in order to justify further reform but then quietly dropped after 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T224419Z" creationid="LENOVO" creationdate="20160919T224419Z">
-        <seg>Dicho esfuerzo para romper con las interpretaciones izquierdistas del marxismo-lenimismo también se hizo aparente en la inesperada decisión de presenta la hipótesis de que China está en la "primera etapa del socialismo", un argumento que había sido desarrollado para entonces-Secretario General &lt;t0/&gt;ZhaoZiyang&lt;t1/&gt; en el Decimotercer Congreso del Partidoen 1987 para justificar nuevas reformas pero abandonó silenciosamente luego de 1989.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T020839Z" creationid="LENOVO" creationdate="20160919T224419Z">
+        <seg>Dicho esfuerzo para romper con las interpretaciones izquierdistas del marxismo-lenimismo también se hizo aparente en la inesperada decisión de presentar la hipótesis de que China está en la "primera etapa del socialismo", un argumento que había sido desarrollado para entonces-Secretario General &lt;t0/&gt;ZhaoZiyang&lt;t1/&gt; en el Decimotercer Congreso del Partidoen 1987 para justificar nuevas reformas pero abandonó silenciosamente luego de 1989.</seg>
       </tuv>
     </tu>
     <tu>
