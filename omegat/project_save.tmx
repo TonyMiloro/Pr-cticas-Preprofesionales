@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7566,8 +7566,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Despite Li &lt;t2/&gt;Ruihuan’s&lt;t3/&gt; formal position as head of the Ideological Leading Small Group, conservatives had dominated the top reaches of the Propaganda and Organization Departments, as well as economic policy-making, since 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160909T132752Z">
-        <seg>A pesar de la oposición formal de Li Ruihuan como jefe del Pequeño grupo ideológico al mando (Ideological Leading Small Group), los conservadores habían dominado los mejores logros de los Departamentos de Propaganda y Organización, como así también el diseño de políticas económicas desde 1989. </seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T143022Z">
+        <seg>A pesar de la oposición formal de Li Ruihuan como jefe del Pequeño Grupo Ideológico al mando (Ideological Leading Small Group), los conservadores habían dominado los mejores logros de los Departamentos de Propaganda y Organización, como así también el diseño de políticas económicas desde 1989. </seg>
       </tuv>
     </tu>
     <tu>
