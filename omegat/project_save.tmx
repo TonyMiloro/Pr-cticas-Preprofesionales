@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -440,8 +440,8 @@
       <tuv lang="EN-US">
         <seg>4 China since Tiananmen</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="marielaromina" changedate="20160922T153201Z">
-        <seg>4 China desde Tiananmén</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T224135Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,8 +13398,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, one of the major thrusts of reform was to curtail</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T002435Z">
-        <seg>De hecho, una de las motivaciones más importantes para impulsar la reforma fue la de reducir</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T224153Z">
+        <seg>De hecho, una de las motivaciones más importantes para impulsar la reforma fue la de mitigar</seg>
       </tuv>
     </tu>
     <tu>
@@ -14251,8 +14251,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was widely believed among the veteran cadres who returned to power in the late 1970s that “normal” Party life had been badly disrupted and was in urgent need of restoration.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T003144Z">
-        <seg>Muchos de los cuadros más veteranos que volvieron al poder al final de los años 70, creían que la actividad "normal" del partido se había visto severamente afectada y que había una necesidad imperante de restaurar el sistema.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T224442Z">
+        <seg>Muchos de los cuadros veteranos que volvieron al poder al final de los años 70, creían que la actividad "normal" del partido se había visto severamente afectada y que había una necesidad imperante de restaurar el sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28372,8 +28372,8 @@ Durante semanas y meses después de Tiananmén, no existía casi ningún debate 
       <tuv lang="EN-US">
         <seg>the abuses of authority that had been associated with Mao’s rule, partic-ularly during the Cultural Revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T002818Z">
-        <seg>los abusos de autoridad asociados con el gobierno de Mao, particularmente durante la Revolución Cultural china.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T224255Z">
+        <seg>los abusos de autoridad asociados con el gobierno de Mao, que tuvieron lugar particularmente durante la Revolución Cultural china.</seg>
       </tuv>
     </tu>
     <tu>
