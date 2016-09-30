@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -154,6 +154,30 @@
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160927T222048Z" creationid="Franco" creationdate="20160927T222048Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1940</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153752Z" creationid="Mariela" creationdate="20160930T153752Z">
+        <seg>1940 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1941</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153536Z" creationid="Mariela" creationdate="20160930T153536Z">
+        <seg>1941 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1942</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153445Z" creationid="Mariela" creationdate="20160930T153445Z">
+        <seg>1942 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,8 +1930,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Politburo membership before and after the Seventeenth &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200419Z">
-        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del Décimo Séptimo &lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153320Z">
+        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del décimo séptimo &lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6693,8 +6717,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chr., CPPCC</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T195536Z">
-        <seg>Presidente de CCPPC</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153815Z">
+        <seg>Presidente del CCPPC</seg>
       </tuv>
     </tu>
     <tu>
@@ -9177,8 +9201,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200655Z">
-        <seg>Secretario General</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153506Z">
+        <seg>Secretario General </seg>
       </tuv>
     </tu>
     <tu>
@@ -9900,6 +9924,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160919T224209Z">
         <seg>Hu Angang planteó este tema en un informe interno a principios de 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hu Jintao</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153430Z" creationid="Mariela" creationdate="20160930T153430Z">
+        <seg>Hu Jintao </seg>
       </tuv>
     </tu>
     <tu>
@@ -10891,8 +10923,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addi- tion, Jia's continuance on the PBSC is awkward at best because Hu has been campaigning vigorously against corruption whereas many Chinese remember Jia's apparent involvement in the Yuan Hua scandal of 1999.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T200632Z">
-        <seg>Además, la continuidad de Jia en el PBSC resultaba, en el mejor de los casos, incómoda ya que Hu había llevado a cabo una fuerte campaña en contra de la corrupción; sin embargo, muchos chinos recuerdan que Jia podría haber estado involucrado en el escándalo de Yuan Hua en 1999.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153300Z">
+        <seg>Además, la continuidad de Jia en el PBSC resultaba, en el mejor de los casos, incómoda ya que Hu había llevado a cabo una fuerte campaña en contra de la corrupción; sin embargo, muchos chinos recuerdan que Jia podría haber estado involucrado en el escándalo de Yuan Hua en 1999. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13228,6 +13260,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160928T201344Z">
         <seg>18 de enero a 21 de febrero El “viaje al sur” de Deng Xiaoping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jia Qinglin</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153748Z" creationid="Mariela" creationdate="20160930T153748Z">
+        <seg>Jia Qinglin </seg>
       </tuv>
     </tu>
     <tu>
@@ -17444,6 +17484,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secretary</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153453Z" creationid="Mariela" creationdate="20160930T153453Z">
+        <seg>Secretario del partido en Pekín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secretary published</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T205502Z">
@@ -18272,8 +18320,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Standing Committee (in rank order)</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160919T231725Z">
-        <seg>Comité Permanente (por orden de rango)</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153349Z">
+        <seg>Comité Permanente (por orden de rango) </seg>
       </tuv>
     </tu>
     <tu>
@@ -23940,6 +23988,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wen Jiabao</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153601Z" creationid="Mariela" creationdate="20160930T153601Z">
+        <seg>Wen Jiabao </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wen Jiabao is named</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T231655Z">
@@ -24608,6 +24664,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160926T192232Z">
         <seg>Wu Jichuan, Ministro de Industrias de la Información (telecomunicaciones inclusive), habría presentado su renuncia (que no fue aceptada). 38 La supuesta presentación de renuncia y las acciones prosiguientes de Wu, en particular su curioso anuncio de que era ilegal que empresas extranjeras invirtieran en el negocio por Internet de China (cosa que ya sucedía), señalan la ferocidad de la opocisión de alto nivel. 39 Wu Jichuan tiene en sí la reputación de una persona de carácter apacible, no del tipo de personas que defían a sus jefes, especialmente uno cuya reputación es de tener mal carácter como Zhu Rongji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wu Bangguo</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153529Z" creationid="Mariela" creationdate="20160930T153529Z">
+        <seg>Wu Bangguo </seg>
       </tuv>
     </tu>
     <tu>
