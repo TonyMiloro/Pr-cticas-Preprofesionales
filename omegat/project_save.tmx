@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8560,8 +8560,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Five years later, Jiang lowered the retirement age to 68, which necessitated Li Ruihuan's stepping down.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T192715Z">
-        <seg>Cinco años después, Jiang redujo la edad de jubilación a 68, lo que significó que Li Ruihuan dejara su cargo.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152716Z">
+        <seg>Cinco años después, Jiang redujo la edad de jubilación a 68, lo que significó que Li Ruihuan dejara su cargo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11708,8 +11708,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the case of the Seventeenth Party Congress, enforcing a retirement age of 68 was important because Zeng Qinghong was 68.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
-        <seg>En el caso del Décimo Séptimo congreso del partido, haber impuesto los 68 años como edad de jubilación fue significativo ya que Zeng Qinghong tenía esa edad.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152756Z">
+        <seg>En el caso del décimo séptimo congreso del partido, haber impuesto los 68 años como edad de jubilación fue significativo ya que Zeng Qinghong tenía esa edad.</seg>
       </tuv>
     </tu>
     <tu>
