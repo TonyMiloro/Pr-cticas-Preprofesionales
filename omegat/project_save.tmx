@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -753,8 +753,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt; argues that the reform period eroded faith in Marxism–Leninism, undermined the power and authority of the Party and state, and unleashed a host of social problems – including corruption, crime, economic polarization, and moral decay – that the government, given its weakened authority, is increasingly unable to deal with.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183121Z">
-        <seg>&lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt;sostiene que el periodo de reforma disminuyó la fe en el Marxismo- Leninismo, debilitó el poder y autoridad del Partido y del estado, y desató un sinfín de problemas sociales; entre ellos, corrupción, crimen, polarización economica y deterioro moral, que son cada vez mas dificiles de tratar por la incapacidad del gobierno debido a su autoridad debilitada.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185247Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;A Third Eye&lt;/f1&gt;&lt;f2&gt; (Un tercer ojo) sostiene que el periodo de reforma disminuyó la fe en el marxismo-leninismo, debilitó el poder y la autoridad del Partido así como también del Estado. Además, desató un sinfín de problemas sociales como la corrupción, el crimen, la polarización económica y el deterioro moral que son cada vez más difíciles de tratar debido a la incapacidad del gobierno y su poca autoridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,8 +2298,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang also casts a sympathetic eye on the Cultural Revolution, particu-larly on Mao’s motivations in initiating it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T181827Z">
-        <seg>&lt;f0&gt;Wang también le da una mirada positiva a la Revolución Cultural, particularmente a los motivos que tuvo Mao para iniciarla.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184327Z">
+        <seg>&lt;f0&gt;Wang también le dio una mirada positiva a la revolución cultural y en particular a los motivos que tuvo Mao para iniciarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,8 +2314,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang’s assessment of Mao is certainly related to (one is tempted to say derived from) his evaluation of contemporary China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183023Z">
-        <seg>&lt;f0&gt;Wang realiza una evalución sobre Mao que sin dudas se relaciona con (y se podria decir que deriva de) su evaluación sobre China contemporanea.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185107Z">
+        <seg>&lt;f0&gt;Wang realiza un juicio sobre Mao que sin dudas se relaciona con (y se podría decir que deriva de) su evaluación sobre la China contemporánea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,8 +2514,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;that certainly would have erupted from such an elitist system by bringing about a non-bureaucratic, classless, and democratic society.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182253Z">
-        <seg>&lt;f0&gt;que sin duda iban a desencadenarse de un sistema elitista, a través del desarrollo de una sociedad democrática no burocrática donde no existe la división de clases. </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184740Z">
+        <seg>&lt;f0&gt;que sin dudas el sistema elitista iba a desencadenar a través del desarrollo de una sociedad democrática, no-burocrática donde no exista la división de clases.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5533,8 +5533,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Because of this, they cannot unite with the ruling Party, the state power, and the primary forces that are leading the people forward and thereby bring their great ability to bear.”&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183022Z">
-        <seg>Por esa razón, no pueden unirse con el Partido gobernante, el poder estatal y las fuerzas más importantes que dirigen el pueblo hacia el progreso y así pueda aportar su gran capacidad".&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184918Z">
+        <seg>Por esa razón, no pueden unirse con el Partido gobernante, el poder estatal y las fuerzas más importantes que dirigen al pueblo hacia el progreso y lo lleven a aportar su gran capacidad”&lt;/f6&gt;&lt;f7&gt;56&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9922,8 +9922,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He declares that “[a] society without faith is in danger”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt; and argues that the Dengist reforms have progressively eroded Maoist ideology until there is nothing left to inspire people and unify the nation:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183508Z">
-        <seg>quien declara que "[una] sociedad sin fe se encuentra en peligro”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt; Y sostiene, además, que las reformas Dengistas han disminuido la ideología Maoista de forma progresiva a tal punto que no quede nada ni nadie que inspire a la población y unifique la nación:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185402Z">
+        <seg>quien declara que “[una] sociedad sin fe corre peligro”&lt;/f2&gt;&lt;f3&gt;60&lt;/f3&gt;&lt;f4&gt;. Y además sostiene que las reformas de Deng han disminuido la ideología Maoísta de forma progresiva a tal punto que no quede nada ni nadie que inspire a la población y unifique la nación:&lt;/f4&gt;&lt;f5&gt;61&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12108,8 +12108,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In striking contrast to the Mao who is known to the West and older intellectuals in China, Wang depicts him as a benevolent, idealistic leader, one even given at times to sentimen-talism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T233456Z">
-        <seg>Marcando una gran diferencia del Mao reconocido por el mundo Occidental y los antiguos intelectuales de China, Wang lo presenta como un líder caritativo e idealista, y a veces envuelto en sentimentalismo.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184412Z">
+        <seg>A diferencia del Mao presentado por el mundo Occidental y los antiguos intelectuales chinos, Wang lo presenta como un líder caritativo e idealista y a veces envuelto en sentimentalismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12717,8 +12717,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, Wang suggests that “people may discover that some ideas from the Cultural Revolution are wise and prescient.”&lt;/f2&gt;&lt;f3&gt;59&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182434Z">
-        <seg>De hecho, Wang sugiere que "es muy probable que el pueblo descubra que varias ideas de la Revolución Cultural son sabias y premonitorias”.&lt;/f2&gt;&lt;f3&gt;59&lt;/f3&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185038Z">
+        <seg>De hecho, Wang sugiere que “es muy probable que el pueblo descubra que varias ideas de la revolución cultural son sabias y premonitorias”&lt;/f2&gt;&lt;f3&gt;59&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21988,8 +21988,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The tragedy of Mao was that Chinese society did not have the conditions for such a demo-cratic society and thus his effort failed.&lt;/f0&gt;&lt;f1&gt;58&lt;/f1&gt;&lt;f2&gt; But Mao, the author argues, was not wrong in his initial motivation; the mistakes that resulted in tragedy occurred later (and were largely the fault of Jiang Qing and Lin Biao).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182409Z">
-        <seg>La tragedia de Mao se generó porque la sociedad China no contaba con las condiciones necesarias para crear esa sociedad democrática; entonces, su esfuerzo fracazó. Sin embargo, sostiene el autor, Mao no estaba equivocado con respecto a sus motivos iniciales; los errores que resultaron en tragedia ocurrieron mas tarde, debido a Jiang Qing y Lin Biao principalmente.&lt;/f0&gt;&lt;f1&gt;58&lt;/f1&gt;&lt;f2&gt; </seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185005Z">
+        <seg>La tragedia de Mao se generó porque la sociedad China no contaba con las condiciones necesarias para crear esa sociedad democrática; entonces, su esfuerzo fracazó &lt;/f0&gt;&lt;f1&gt;58&lt;/f1&gt;&lt;f2&gt;. Sin embargo, sostiene el autor, Mao no estaba equivocado con respecto a sus motivos iniciales; los errores que resultaron en tragedia ocurrieron mas tarde, debido a Jiang Qing y Lin Biao principalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22140,8 +22140,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The “tragic history of 1957,” Wang writes, proved that “the intellectuals created by China’s old culture and civilization .</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184113Z">
-        <seg>Según Wang, los “trágicos hechos históricos de 1957” demostraron que “los intelectuales provenientes de la antigua cultura y civilización china...han nacido con defectos que no pueden afrontar.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184236Z">
+        <seg>Según Wang, los “trágicos hechos históricos de 1957” demostraron que “los intelectuales provenientes de la antigua cultura y civilización china</seg>
       </tuv>
     </tu>
     <tu>
@@ -22468,8 +22468,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thereupon, Mao could not but take action.”&lt;/f4&gt;&lt;f5&gt;55&lt;/f5&gt;&lt;f6&gt; The intellectuals, like the peasants, were not worthy of Mao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184017Z">
-        <seg>Por lo tanto, Mao no podía hacer nada más que actuar”55. Los intelectuales, al igual que los campesinos, no eran dignos de Mao.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184935Z">
+        <seg>Por lo tanto, Mao no podía hacer nada más que actuar”&lt;/f4&gt;&lt;f5&gt;55&lt;/f5&gt;&lt;f6&gt;. Los intelectuales, al igual que los campesinos, no eran dignos de Mao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24262,8 +24262,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Unless something is done to reverse the erosion of state authority, the author maintains, China will find itself beset by political and social turmoil.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T183418Z">
-        <seg>Según sostiene el autor, a menos que se actúe para revertir la disminución de la autoridad estatal, China se encontrará en medio de una gran agitación politica y social.</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185307Z">
+        <seg>Según sostiene el autor, a menos que se actúe para revertir la disminución de la autoridad del Estado, China se encontrará en medio de una gran agitación política y social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24662,8 +24662,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang describes Mao as having been “like a good and patient family head, thinking of the whole country as a ‘large family’.” He also declares that “Mao was a god, and people are perhaps only beginning to understand him several years later.”&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; Mao’s initiation of the Cultural Revolution is depicted as the effort of an idealist to overcome the gap between the com-mon people and officials; his motive was to pre-empt the political crises&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160920T182149Z">
-        <seg>Wang describe la figura de Mao "como un jefe de familia bueno y paciente, que considera al país entero como una 'gran familia' ”. También expresa que "Mao era un Dios, y que la gente comienza a  comprenderlo varios años mas tarde".&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; El inicio de la  Revolución Cultural por parte de Mao esta representado como el esfuerzo realizado por un idealista para poder destruir la brecha existente entre la gente común y los oficiales; su motivo principal era prevenir crisis políticas&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T184631Z">
+        <seg>Wang describe la figura de Mao “como un jefe de familia que se caracteriza por ser bueno y paciente y que considera al país entero como una ‘gran familia’”. También expresa que “Mao era un Dios y la gente comienza a verlo así años más tarde”&lt;/f0&gt;&lt;f1&gt;57&lt;/f1&gt;&lt;f2&gt; . El inicio de la revolución cultural por parte de Mao está representado como el esfuerzo realizado por un idealista para poder destruir la brecha existente entre la gente común y los funcionarios. El motivo principal de Mao fue prevenir las crisis políticas&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
