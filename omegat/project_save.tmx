@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>32.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055448Z" creationid="Franco" creationdate="20160930T055448Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>326&lt;/f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;f5&gt;8.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T212530Z">
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T220313Z">
         <seg>347, nota 2.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>35.&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;49&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Ibid.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055500Z" creationid="Franco" creationdate="20160930T055500Z">
+        <seg>&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2452,6 +2468,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T203658Z">
         <seg>&lt;f0&gt;teme que la reforma sea muy desestabilizadora.&lt;/f0&gt;&lt;f1&gt;63&lt;/f1&gt;&lt;f2&gt; En sus palabras: "Lo que mas temo es que en cuanto los pensamientos y teorias revolucionarias se importen en China, provocarán la división de estratos, que ya ha comenzado, y ocasionarán una revolución destructiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;iao Gongqin, “Wuxu bianfa de zai fanxing,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055506Z" creationid="Franco" creationdate="20160930T055506Z">
+        <seg>&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27587,6 +27611,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044757Z">
         <seg>Xiantian publica una carta en internet oponiendose a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xiao Gongqin, “ ‘Yan Fu beilun’ yu jindai xinbaoshou zhuyi biange guan,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055443Z" creationid="Franco" creationdate="20160930T055443Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
