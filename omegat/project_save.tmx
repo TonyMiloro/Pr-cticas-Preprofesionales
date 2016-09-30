@@ -328,8 +328,8 @@
       <tuv lang="EN-US">
         <seg>34.&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;36&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T140727Z">
-        <seg>34.&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;36&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;lbid., p.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055145Z">
+        <seg>&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
