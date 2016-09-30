@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12036,8 +12036,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In its stress on patriotism and its assessment that economic development is the common goal of all Chinese, communist or not, Yang’s speech echoed the 1986 Third Plenum resolution on building socialist civilization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T002104Z" creationid="Luisina" creationdate="20160930T002104Z">
-        <seg>En su énfasis en el patriotismo y su evaluación de que el desarrollo económico es el objetivo principal de toda China, comunista o no, </seg>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T002225Z" creationid="Luisina" creationdate="20160930T002104Z">
+        <seg>En su énfasis en el patriotismo y su evaluación de que el desarrollo económico es el objetivo principal de toda China, comunista o no, el discurso de Yang hacía eco de la resolución  sobre la construcción de la civilización socialista del Tercer Plenario de 1986. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20164,6 +20164,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174437Z" creationid="Silvina Nuñez" creationdate="20160927T174437Z">
         <seg>ya que la misma decretó: “el principio de que todos deben ser iguales ante la disciplina debe ser respetado y se investigarán y  sancionarán a aquellos miembros del partido que no respeten la disciplina”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;19&lt;/f3&gt;&lt;/f2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;f7&gt;&lt;f8&gt;. No se sabe si esta y otras restricciones se incluyeron en la resolución teniendo en cuenta el caso de Chen Xitong.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That resolution played down the importance of communist ideology in favor of a “common ideal” to which all patriotic Chinese could subscribe.50 &lt;t0/&gt;Moreimportantly&lt;t1/&gt; in terms of the immediate political debate, Yang declared unequivocally that “all other work must be subordinate to and serve” economic construction and that the Party must not allow its “attention to be diverted or turned away” from economic construction.51</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T002340Z" creationid="Luisina" creationdate="20160930T002259Z">
+        <seg>Esa resolución le restaba importancia a la ideología comunista a favor de un "ideal común"  con el que todos los patriotas chinos se sentirían identificados. </seg>
       </tuv>
     </tu>
     <tu>
