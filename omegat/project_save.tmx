@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -665,8 +665,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;claimed that the failure of the PRC media to cover Deng’s trip was at Deng’s insistence.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193048Z">
-        <seg>El periódico&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que fue por insistencia de Deng que los medios de comunicación de la PRCh no cubrieron el viaje.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130501Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que los medios de comunicación de la República Popular China no cubrieron el viaje por insistencia de Deng</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,8 +1698,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Initially, the PRC media did not report Deng’s trip and the CCP did not relay his comments internally.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193007Z">
-        <seg>En un principio, los medios de comunicación de la RPCh no informaron sobre el viaje de Deng y el PCCh no difundió los comentarios de Deng en su seno.&lt;f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130540Z">
+        <seg>En un principio, los medios de comunicación de la RPCh no informaron sobre el viaje de Deng y el PCCh no difundió internamente los comentarios de Deng.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,8 +1986,9 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The obvious resistance to publicizing Deng’s trip – and the subsequent process of yielding partially while continuing to resist – reflects the very ambiguous nature of authority relations at the highest level of the CCP in the early 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T205225Z">
-        <seg>La resistencia evidente a hacer público el viaje de Deng (y el posterior proceso de cesión parcial y la continuación de la resistencia en forma simultánea) es un reflejo de la naturaleza extremadamente ambigua de las relaciones de autoridad en las altas esferas del PCCh a comienzo de la década de 1990&lt;f0&gt;. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130353Z">
+        <seg>La resistencia evidente a divulgar el viaje de Deng, y el proceso posterior que consistió
+en ceder en forma parcial y en continuar la resistencia simultáneamente, es un reflejo de la naturaleza extremadamente ambigua de las relaciones de autoridad en las altas esferas del PCCh a comienzo de la década de los 90. &lt;f0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7245,8 +7246,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng began to shed his formal authority by stepping down from the Politburo Standing Committee at the Thirteenth Party Congress in September 1987 and then yielding leadership over the Party’s Central&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Military Commission (CMC) to Jiang Zemin inNovember 1989.However, it seems that Deng was unwilling to shed all vestiges of formal authority and rule solely through informal politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021655Z">
-        <seg>Deng comenzó a despojarse de su autoridad formal al renunciar al Comité Permanente del Politburó en el Décimotercer Congreso Nacional del Partido en septiembre de 1987 y, con posterioridad, al ceder el mando de la Comisión Militar&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Central del Partido en favor de Jiang Zemin en noviembre de 1989. Sin embargo, parece que Deng no estaba dispuesto despojarse de todos los vestigios de autoridad formal y a gobernar únicamente a través de la política informal.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130324Z">
+        <seg>Deng comenzó a despojarse de su autoridad formal al renunciar al Comité Permanente del Politburó en el Décimotercer Congreso Nacional del Partido en septiembre de 1987 y, con posterioridad, al ceder el mando de la Comisión Militar&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Central del Partido a de Jiang Zemin en noviembre de 1989. Sin embargo, al parecer,Deng no estaba dispuesto despojarse de todos los vestigios de autoridad formal y a gobernar únicamente a través de la política informal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10227,8 +10228,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If that was the case (and it seems highly unlikely), Deng soon changed his mind.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160910T003523Z">
-        <seg>Si ese fue el caso (aunque es poco probable), Deng pronto cambió de parecer.&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130359Z">
+        <seg>Si ese fue el caso (aunque parece poco probable), Deng pronto cambió de parecer.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12786,8 +12787,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was only after the Hong Kong media began reporting on Deng’s trip that the PRC-owned Hong Kong papers &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;and &lt;/f4&gt;&lt;f5&gt;Ta kung pao &lt;/f5&gt;&lt;f6&gt;began covering it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193034Z">
-        <seg>No fue sino hasta después de que los medios de comunicación de Hong Kong comenzaron a informar sobre el viaje de Deng que los periódicos de Hong Kong que eran propiedad de la RPCh, &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;y&lt;/f4&gt;&lt;f5&gt;Ta kung pao, &lt;/f5&gt;&lt;f6&gt;empezaron a cubrir el viaje.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130519Z">
+        <seg>No fue sino hasta después de que los medios de comunicación de Hong Kong comenzaron a informar sobre el viaje de Deng que los diarios de Hong Kong que eran propiedad de la RPCh, &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;y&lt;/f4&gt;&lt;f5&gt;Ta kung pao, &lt;/f5&gt;&lt;f6&gt;empezaron a cubrir el viaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19029,6 +19030,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The authority conferred by this resolution is ambiguous, though, since “helmsman” was not a formal position and it was not clear whether Deng’s wishes still needed to be obeyed in the same way as before his retirement.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130209Z" creationid="Soledad Mori" creationdate="20160930T130209Z">
+        <seg>Sin embargo, la autoridad que confería esta resolución es ambigua, ya que el título de “timonel” no era una posición formal y no quedaba claro si aún tenían que obedecerse los deseos de Deng de la misma forma en la que se los obedecía antes de su retiro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The authors &lt;t2/&gt;reﬂected&lt;t3/&gt; great awareness of the CCP’s fragile legitimacy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160922T232043Z">
@@ -22566,8 +22575,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, the Thirteenth Party Congress passed a secret resolution to refer all major decisions to Deng Xiaoping as the “helmsman” of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021728Z">
-        <seg>Por ello, el Décimotercer Congreso Nacional del Partido aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping, quien era reconocido como el "timonel" del Partido.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T130243Z">
+        <seg>Por ello, el Décimotercer Congreso Nacional aprobó una resolución secreta para remitir todas las decisiones importantes a Deng Xiaoping, quien era reconocido como el “timonel” del partido.</seg>
       </tuv>
     </tu>
     <tu>
