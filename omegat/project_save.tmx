@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6661,8 +6661,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chen had long felt that Deng had, like Mao, created his own “one voice chamber” (&lt;t0/&gt;yiyantang&lt;t1/&gt;) and had thereby not abided by the tenets of collective leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T145747Z">
-        <seg>Chen había sentido por mucho tiempo que Deng, al igual que Mao, había creado su propia  ”cámara de una sola voz” (yiyantang) y entonces no había respetado los principios del liderazgo conjunto.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191249Z">
+        <seg>Chen había sentido por mucho tiempo que Deng, al igual que Mao, había creado su propia  ”cámara de una sola voz” (yiyantang) y entonces no había respetado los principios del liderazgo conjunto.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7309,8 +7309,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Contemporary Trends was one of several conservative journals that began publication in the wake of June 4 (others include The Quest for Truth [&lt;t4/&gt;Zhenli&lt;t5/&gt; de &lt;t6/&gt;zhuiqiu&lt;t7/&gt;] and Mainstream [&lt;t8/&gt;Zhongliu&lt;t9/&gt;]) and was edited by conservative ideologue &lt;t10/&gt;Duan&lt;t11/&gt; &lt;t12/&gt;Ruofei&lt;t13/&gt;, who had previously worked at the Party journal &lt;t14/&gt;Hongqi&lt;t15/&gt; (Red Flag).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160914T131848Z">
-        <seg>Contemporary Trends fue uno de los tantos periódicos conservadores que iniciaron la publicación tras el 4 de junio (otros como The Quest for Truth [Zhenli de zhuiqiu] y Mainstream [Zhongliu]) y fue editado por el conservador dialoguista Duan Ruofei, quen había previamente trabajado en el periódico del Partido Hongqi (Red Flag).</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191320Z">
+        <seg>Contemporary Trends fue uno de los tantos periódicos conservadores que iniciaron la publicación tras el 4 de junio (otros como The Quest for Truth [Zhenli de zhuiqiu] y Mainstream [Zhongliu]) y fue editado por el conservador dialoguista Duan Ruofei, quen había previamente trabajado en el periódico del Partido Hongqi (Red Flag).&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7974,8 +7974,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Despite Li &lt;t2/&gt;Ruihuan’s&lt;t3/&gt; formal position as head of the Ideological Leading Small Group, conservatives had dominated the top reaches of the Propaganda and Organization Departments, as well as economic policy-making, since 1989.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T143022Z">
-        <seg>A pesar de la oposición formal de Li Ruihuan como jefe del Pequeño Grupo Ideológico al mando (Ideological Leading Small Group), los conservadores habían dominado los mejores logros de los Departamentos de Propaganda y Organización, como así también el diseño de políticas económicas desde 1989. </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191341Z">
+        <seg>A pesar de la oposición formal de Li Ruihuan como jefe del Pequeño Grupo Ideológico al mando (Ideological Leading Small Group), los conservadores habían dominado los mejores logros de los Departamentos de Propaganda y Organización, como así también el diseño de políticas económicas desde 1989. &lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9994,8 +9994,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He had indeed used provincial officials to undermine the draft of the Eighth Five-Year Plan and then to publicize and promote his own thought, and he had laid the foundation of a later breakthrough by promoting Zhu &lt;t0/&gt;Rongji&lt;t1/&gt; and giving him an institutional base from which to compete with Li Peng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T135715Z">
-        <seg>De hecho había utilizado funcionarios provinciales para debilitar el boceto del Octavo Plan Quinquenal y luego para publicitar y promover sus propias ideas y había extendido la base de un avance posterior apoyando a Zhu Rongji y dándole una base institucional con la que pudiera competir con Li Peng.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191230Z">
+        <seg>De hecho había utilizado funcionarios provinciales para debilitar el boceto del Octavo Plan Quinquenal y luego para publicitar y promover sus propias ideas y había extendido la base de un avance posterior apoyando a Zhu Rongji y dándole una base institucional con la que pudiera competir con Li Peng.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12332,8 +12332,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the baldest statement of that thesis since Zhao &lt;t0/&gt;Ziyang&lt;t1/&gt; had championed it on the front page of the People’s Daily four years before, Deng declared that socialism could be defined in terms of three “advantages”: whether or not something was “advantageous to the development of socialist productive forces, advantageous to increasing the comprehensive strength of a socialist nation, and advantageous to raising the people’s standard of living.”57</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160929T144402Z">
-        <seg>Mediante una simple declaración, Deng declaró que el socialismo podría definirse desde el punto de vista de tres “beneficios”: si algo es “beneficioso para el desarrollo de las fuerzas de producción socialistas, beneficioso para el aumento de la amplia fuerza de una nación socialista y beneficioso para la mejora de la calidad de vida de las personas”.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191348Z">
+        <seg>Mediante una simple declaración, Deng declaró que el socialismo podría definirse desde el punto de vista de tres “beneficios”: si algo es “beneficioso para el desarrollo de las fuerzas de producción socialistas, beneficioso para el aumento de la amplia fuerza de una nación socialista y beneficioso para la mejora de la calidad de vida de las personas”.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12797,8 +12797,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, as soon as the &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping commentaries appeared, conservatives launched an investigation into their background, an effort that apparently concluded only when Deng’s office let it be known that Deng himself lay behind the commentaries.30 The knowledge that the commentaries expressed Deng’s views apparently did not impress conservative leaders any more than had Deng’s previous efforts to promote his views in the capital, and conservatives launched a variety of direct and indirect assaults on Deng’s policies and the &lt;t2/&gt;Huangfu&lt;t3/&gt; Ping commentaries.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T154124Z">
-        <seg>De hecho, apenas aparecieron los comentarios de Huangfu Ping, los conservadores impulsaron una investigación de los antecedentes, un esfuerzo que aparentemente concluyó solo cuando la oficina de Deng dio a conocer que el propio Deng había respaldado los comentarios. El conocimiento de que los comentarios expresaban la opinión de Deng aparentemente no impresionó a los líderes conservadores tanto como los esfuerzos previos de Deng para promover su punto de vista en la capital, y los conservadores lanzaron varios ataques directos e indirectos a las políticas de Deng y a los comentarios de Huangfu Ping.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191307Z">
+        <seg>De hecho, apenas aparecieron los comentarios de Huangfu Ping, los conservadores impulsaron una investigación de los antecedentes, un esfuerzo que aparentemente concluyó solo cuando la oficina de Deng dio a conocer que el propio Deng había respaldado los comentarios. El conocimiento de que los comentarios expresaban la opinión de Deng aparentemente no impresionó a los líderes conservadores tanto como los esfuerzos previos de Deng para promover su punto de vista en la capital, y los conservadores lanzaron varios ataques directos e indirectos a las políticas de Deng y a los comentarios de Huangfu Ping.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18791,8 +18791,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Since its founding, Contemporary Trends had published several articles by leading hardline officials, including Deng &lt;t16/&gt;Liqun&lt;t17/&gt; and Wang Zhen, and had carried numerous articles criticizing bourgeois liberalization in extremely harsh terms.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160909T155833Z">
-        <seg>Desde su fundación, Contemporary Trends había publicado varios artículos por los altos funcionarios extremistas, incluídos Deng Liqun y Wang Zhen, y había publicado numerosos artículos criticando la liberalización burguesa en términos extremadamente severos. </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191359Z">
+        <seg>Desde su fundación, Contemporary Trends había publicado varios artículos por los altos funcionarios extremistas, incluídos Deng Liqun y Wang Zhen, y había publicado numerosos artículos criticando la liberalización burguesa en términos extremadamente severos. &lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19788,8 +19788,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>The April commentator article warned that those in favor of “bourgeois liberalization” remained “resolute” and that “we must be soberly aware that the liberalized trend of thought and political influence, which was once a major trend, will not disappear because we have won a victory in quelling the rebellion, but will again stubbornly manifest itself in a new form, spar with us, and attack us.” Harkening back to themes raised by Song Ping and Wang &lt;t0/&gt;Renzhi&lt;t1/&gt; the previous year, the commentary argued that opposing bourgeois liberalization – not developing productive forces – was the key to ensuring political stability.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T150551Z">
-        <seg>El artículo de opinión de abril alertaba que aquellos a favor de la ”liberalización burguesa” permanecían ”firmes” y que ”debemos ser conscientes con prudencia que la tendencia liberalizada del pensamiento y la influencia política, lo que fue una tendencia mayor no desaparecerá porque hemos ganado una victoria en reprimir la rebelión, pero de nuevo se manifestará obstinadamente en una forma nueva, discutir con nosotros y atacarnos”. Rememorando los temas planteados por Song Ping y Wanq Renzhi el año pasado, el comentario sostenía que la liberalización burguesa opuesta (fuerzas productivas no desarrolladas) era la clave para asegurar la estabilidad política.   </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191327Z">
+        <seg>El artículo de opinión de abril alertaba que aquellos a favor de la ”liberalización burguesa” permanecían ”firmes” y que ”debemos ser conscientes con prudencia que la tendencia liberalizada del pensamiento y la influencia política, lo que fue una tendencia mayor no desaparecerá porque hemos ganado una victoria en reprimir la rebelión, pero de nuevo se manifestará obstinadamente en una forma nueva, discutir con nosotros y atacarnos”. Rememorando los temas planteados por Song Ping y Wanq Renzhi el año pasado, el comentario sostenía que la liberalización burguesa opuesta (fuerzas productivas no desarrolladas) era la clave para asegurar la estabilidad política.   &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21946,8 +21946,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The sharpest attack on them, and hence on Deng, was a commentator article in the conservative journal Contemporary Trends (&lt;t0/&gt;Dangdai&lt;t1/&gt; &lt;t2/&gt;sichao&lt;t3/&gt;) that was excerpted shortly thereafter in the People’s Daily.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T150417Z">
-        <seg>El ataque más ácido entre ellos, y sobre todo a Deng, fue el artículo de opinión en el diario conservador Contemporary Trends (Dangfai sichao) que fue publicado poco después in el People´s Daily.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191316Z">
+        <seg>El ataque más ácido entre ellos, y sobre todo a Deng, fue el artículo de opinión en el diario conservador Contemporary Trends (Dangfai sichao) que fue publicado poco después in el People´s Daily.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23028,8 +23028,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This change was spotted, and at Deng’s behest Li &lt;t0/&gt;Ruihuan&lt;t1/&gt; ordered that the offending sentence be removed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T154747Z" creationid="Luisina" creationdate="20160930T154747Z">
-        <seg>Este cambio fue evidente, y bajo la órden de Deng, Li Ruihuanordenó que la oración ofensiva se elimine.  </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191335Z" creationid="Luisina" creationdate="20160930T154747Z">
+        <seg>Este cambio fue evidente, y bajo la órden de Deng, Li Ruihuanordenó que la oración ofensiva se elimine.  &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23196,8 +23196,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This incident underscores the deadly serious nature of “documentary politics” in the PRC, but it also makes clear that reformers were responding quickly to evolving events in the Soviet Union and &lt;t0/&gt;restoring the push that had stalled the previous spring.47 In late September, Deng instructed Jiang Zemin and Yang &lt;t1/&gt;Shangkun&lt;t2/&gt; to persevere in reform and opening up&lt;t3/&gt;,48&lt;t4/&gt; and Yang subsequently gave a ringing endorsement of reform on the 80th anniversary of the 1911 Revolution.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T160516Z" creationid="Luisina" creationdate="20160930T154839Z">
-        <seg>Este incidente enfatiza la naturaleza peligrosa de las "políticas de registro" en la República Popular de China, pero también hace evidente que los reformistas estaban respondiendo rápido a los eventos que se desarrollaban en la Unión Soviética y  reinstaurando el impulso que había cesado la primavera anterior. 47 A fines de diciembre, Deng instruyó a Jian Zemin y Yang Shangkun para perseverar en la reforma y la apertura,48 y subsecuentemente Yang Le dio un gran apoyo a la reforma en el aniversario número 80 de la Revolución de 1911. </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T191355Z" creationid="Luisina" creationdate="20160930T154839Z">
+        <seg>Este incidente enfatiza la naturaleza peligrosa de las "políticas de registro" en la República Popular de China, pero también hace evidente que los reformistas estaban respondiendo rápido a los eventos que se desarrollaban en la Unión Soviética y  reinstaurando el impulso que había cesado la primavera anterior. 47 A fines de diciembre, Deng instruyó a Jian Zemin y Yang Shangkun para perseverar en la reforma y la apertura,48 y subsecuentemente Yang Le dio un gran apoyo a la reforma en el aniversario número 80 de la Revolución de 1911. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
