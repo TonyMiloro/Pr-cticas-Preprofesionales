@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1410,8 +1410,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Deng’s demonstration that he would not back off this time, underscored&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;by the mobilization of the army on his behalf, stirred Chen Yun to make some concessions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T180033Z" creationid="Soledad Mori" creationdate="20160927T172958Z">
-        <seg>&lt;f0&gt;La demostración de Deng de que no se retractaría esta vez, acentuada&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;por la movilización del ejército en su nombre, apresuró a Chen Yun a realizar algunas concesiones. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145424Z" creationid="Soledad Mori" creationdate="20160927T172958Z">
+        <seg>&lt;f0&gt;La demostración de Deng de que no se retractaría esta vez, acentuada &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;por la movilización del ejército en su nombre, apresuró a Chen Yun a realizar algunas concesiones. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4068,8 +4068,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Appearing in Shanghai on the eve of Labor Day, the Party elder encouraged leaders there to “emancipate their minds” and “take bold steps.” According to one report, Chen’s declaration came on the heels of a high-level meeting with Deng, Peng Zhen, Li Xiannian, Bo Yibo, and Yang Shangkun.86 Chen, who in 1978–9 had opposed the establishment of the SEZs and especially opposed the establishment of one in Shanghai, was now quoted as saying, “I very much favor the development and opening of Pudong!”&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200113Z" creationid="Soledad Mori" creationdate="20160927T173047Z">
-        <seg>En una aparición en Shanghái en la víspera del Día del Trabajo, el mayor del Partido animó a los líderes a que “emancipen sus mentes” y “den pasos con valentía”. De acuerdo con un informe, la declaración de Chen tuvo lugar luego de una reunión de alto nivel con Deng, Peng Zhen, Li Xiannin, Bo Yibo, y Yang Shangkun. Chen, quien en 1978-9 se opuso al establecimiento de ZEE y en especial al establecimiento de uno en Shanghay, ahora se lo citaba diciendo, “¡Estoy a favor del desarrollo y la apertura de Pudong!”&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145458Z" creationid="Soledad Mori" creationdate="20160927T173047Z">
+        <seg>En una aparición en Shanghái en la víspera del Día del Trabajador, este veterano del Partido alentó a los líderes a que “emancipen sus mentes” y “den pasos con valentía”. De acuerdo con un informe, la declaración de Chen tuvo lugar luego de una reunión de alto nivel con Deng, Peng Zhen, Li Xiannin, Bo Yibo, y Yang Shangkun86. Chen, quien en 1978-9 se opuso al establecimiento de las ZEE y en especial al establecimiento de una en Shanghái, ahora se lo citaba afirmando: “¡Estoy a favor del desarrollo y la apertura de Pudong!”&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18152,8 +18152,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Soon, pirated copies of Tian’s talk were being sold on the streets of Beijing.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145117Z" creationid="Soledad Mori" creationdate="20160927T172533Z">
-        <seg>Al poco tiempo, copias piratas de la charla que dio Tian comenzaron a venderse en las calles de Pekín.&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145321Z" creationid="Soledad Mori" creationdate="20160927T172533Z">
+        <seg>Al poco tiempo, comenzaron a venderse en las calles de Pekín copias piratas de la charla que dio Tian.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
