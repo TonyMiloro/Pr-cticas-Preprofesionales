@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22259,8 +22259,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This opposition was led by the father–son combination of Chen Yun and Chen Yuan, then the deputy governor of the People’s Bank of China (and, later, the governor of the China Development Bank).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160909T153433Z">
-        <seg>Esta oposición fue encabezada por la combinación padre-hijo de Chen Yun y Chen Yuan, quien luego se convirtió en el vicegobernador del Banco Popular de China ( y más tarde en gobernador del Banco de Desarrollo de China).</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T143401Z">
+        <seg>Esta oposición fue encabezada por la combinación padre e hijo de Chen Yun y Chen Yuan, quien luego se convirtió en el vicegobernador del Banco Popular de China ( y más tarde en gobernador del Banco de Desarrollo de China).</seg>
       </tuv>
     </tu>
     <tu>
