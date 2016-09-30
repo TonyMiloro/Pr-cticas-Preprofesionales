@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26511,8 +26511,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Western culture or technology could not simply be grafted onto China but had to find resonance within China’s tradition; the task of modernization had to be based on the growth, devel&lt;/f3&gt;&lt;f5&gt;­opment, and maturation of factors present in China’s original culture.&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Yan was consistent as a “neoconservative.” Prior to the 1911 revolution, Yan was critical of “radicals”&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;(jijin zhuyizhe),&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;such as Kang Youwei and Liang Qichao in the 1898 Reform Movement, who wanted to accomplish everything at once; following the i9ii revolution, Yan continued to look to Confucianism as the essence of China’s “national spirit.” It was in this way that he allowed himself to be swept into Yuan Shikai’s ill-fated monarchical movement and thus fall into personal tragedy.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035814Z" creationid="Barri" creationdate="20160930T035814Z">
-        <seg>La cultura o tecnología occidental simplemente no puede injertarse en China, pero tuvo que encontrar resonancia dentro de la tradición china; la tarea de modernización tenía que basarse en el crecimiento, de&lt;/f3&gt;&lt;f5&gt;sarrollo, y madurez de los factores presentes de la cultura original de China.&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Yan was consistent as a “neoconservative.” Prior to the 1911 revolution, Yan was critical of “radicals”&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;(jijin zhuyizhe),&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;such as Kang Youwei and Liang Qichao in the 1898 Reform Movement, who wanted to accomplish everything at once; following the i9ii revolution, Yan continued to look to Confucianism as the essence of China’s “national spirit.” It was in this way that he allowed himself to be swept into Yuan Shikai’s ill-fated monarchical movement and thus fall into personal tragedy.&lt;/f13&gt;</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T043314Z" creationid="Barri" creationdate="20160930T035814Z">
+        <seg>La cultura o tecnología occidental simplemente no puede injertarse en China, pero tuvo que encontrar resonancia dentro de la tradición china; la tarea de modernización tenía que basarse en el crecimiento, de&lt;/f3&gt;&lt;f5&gt;sarrollo, y madurez de los factores presentes de la cultura original de China.&lt;/f5&gt;&lt;f6&gt;&lt;t7/&gt;&lt;/f6&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Yan fue consistente como “neoconservador.”  Antes de la revolución de 1911, Yan fue crítico de los “radicales”&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;(jijin zhuyizhe),&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;como Kang Youwei y Liang Qichao en el Movimiento Reformista de 1898, quienes querían lograr todo de una sola vez; después de la revolución de 1911, Yan continuó para buscar fortaleza en el Confucianismo como la esencia del "espíritu nacional" de China.Fue de esta manera que se dejó arrastrar al infortunado movimiento monárquico de Yuan Shikai y, por ello, se dejó caer en una tragedia personal..&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
