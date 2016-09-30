@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27449,8 +27449,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the Tiananmen incident, Deng’s prestige within the Party plummeted, weakening his ability to exercise informal authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T210133Z">
-        <seg>Debido al incidente de Tiananmen, el prestigio de Deng dentro del Partido se vio reducido en forma considerable. Como consecuencia se debilitó su capacidad para ejercer autoridad informal.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T115825Z">
+        <seg>Debido al incidente de Tiananmén, el prestigio de Deng dentro del Partido se vio reducido en forma considerable. Esto trajo aparejado el debilitamiento de su capacidad para ejercer autoridad informal.</seg>
       </tuv>
     </tu>
     <tu>
