@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23021,6 +23021,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T143823Z">
         <seg> La editorial del periódico chino&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;People’s Daily (Pueblo en Línea)&lt;s3/&gt;&lt;/f2&gt;&lt;t4/&gt;&lt;f5&gt; que cubría el cierre del pleno afirmó que “el poder principal colectivo de la segunda generación fue sustituido con éxito por el de la tercera generación” (asunto que Li Peng recalcó durante su viaje a Corea, y algunos días después Jiang Zemin, durante su viaje a Malasia)&lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;.&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;El pleno adoptó la “decisión sobre asuntos importantes para fortalecer la formación de partidos”, lo que por un lado, dio lugar a tendencias negativas como la corrupción y la inoperatividad de las organizaciones partidarias populares y, por otro lado, centró la atención en el centralismo democrático, haciendo hincapié en la subordinación de los niveles inferiores a los niveles superiores, de las partes con el todo, y del todo en relación con el centro del partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;responded with a series of highly vitriolic and personal attacks on&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu, a&lt;/f10&gt;&lt;f11&gt;nd the&lt;s12/&gt;&lt;/f11&gt;&lt;f13&gt;Enlightenment Daily&lt;/f13&gt;&lt;f14&gt;&lt;s15/&gt;ran an article arguing that the zones should be made even more special.&lt;/f14&gt;&lt;f16&gt;20&lt;/f16&gt;&lt;f17&gt;&lt;s18/&gt;The crux of the responses was (1) that the SEZs were still necessary to introduce and experiment with various forms of man-agement and government–enterpris&lt;/f17&gt;&lt;f19&gt;e relations and (2) that Hu’s arguments did not take the realities of China into account, that to eliminate the SEZ’s special role would amount to “contemporary egalitarianism”: “The special zones’ development does not hinder other regions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T013713Z" creationid="Magui" creationdate="20160930T013713Z">
+        <seg>El periódico&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Shenzhen Special Zone&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;Journal&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;respondió con una serie de ataques personales y ponzoñosos hacia&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;Hu y el diario&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Enlightenment Daily&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;publicó un artículo que sostenía que las zonas debían ser todavía más especiales.&lt;/f13&gt;&lt;f15&gt;20&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;Las reacciones tenían dos puntos cruciales. En primer lugar, que las Zonas Económicas Especiales todavía eran necesarias para introducir y experimentar las diversas formas de administración y relaciones entre el gobierno y las empresas y, en segundo lugar, que los argumentos de Hu no tenían en cuenta las realidades de China y que eliminar el rol especial de las Zonas Económicas Especiales llevaría a un "igualitarismo contemporáneo": "El desarrollo de las ZEE no perjudica a las otras regiones.</seg>
       </tuv>
     </tu>
     <tu>
