@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3622,6 +3622,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T152209Z" creationid="Usuario" creationdate="20160929T152209Z">
         <seg>A pesar de que Li era inflexible ante la necesidad de continuar con la "mejora y rectificación", nombre designado para las políticas restrictivas implementadas en el otoño de 1988, él pidió que se encontrara la forma para "integrar" con éxito la planificación y la regulación de mercado.67 Esta charla dio inicio al debate público sobre esta temática, el tercer debate de este tipo en la historia de la RPCh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although Xing’s article was a step in this direction, Jiang was not yet prepared to confront directly the disputes wracking the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T051033Z" creationid="Usuario" creationdate="20160930T051033Z">
+        <seg>Aunque el artículo de Xing fué un paso en esta dirección, Jiang todavía no estaba preparado para enfrentar de forma directa los conflictos que destruían al partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11851,6 +11859,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In May, Jiang met with the enterprise heads and political leaders from seven provinces, telling them that reform had reached an “extremely critical moment.” This was Jiang’s strongest affirmation of reform in the period since he took over as general secretary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T051235Z" creationid="Usuario" creationdate="20160930T051235Z">
+        <seg>En mayo, Jiang se reunió con los dirigentes empresariales y con los líderes políticos de siete provincias y les contó que la reforma había alcanzado un “momento extremadamente crítico”. Esta fué la afirmación de reforma más fuerte de Jian en el período ya que quedó a cargo como secretario general. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In November (two months after the congress), Fang &lt;t2/&gt;Jue&lt;t3/&gt;, then a 44-year-old former deputy director of the planning commission of Fuzhou city, distributed a statement calling for political reform.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="mannu" changedate="20160929T225320Z" creationid="mannu" creationdate="20160929T225320Z">
@@ -13192,6 +13208,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160903T221849Z">
         <seg>En el mismo período, la cantidad de empresas privadas había crecido de 10 667, con 9,7 millones de personas contratadas, a 123 820, empleando más de 34,5 millones de trabajadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the spring of 1996, Jiang was clearly tacking to the right, endorsing a new round of reform.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T051141Z" creationid="Usuario" creationdate="20160930T051141Z">
+        <seg>En la primavera de 1996, claramente, Jiang se estaba uniendo a la derecha en la que endorsaba una nueva ronda de reforma. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17000,6 +17024,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T133144Z">
         <seg>Sin embargo, como hemos sugerido, muchas de estas discusiones contenían un elemento populista, ya sea la crítica de Wang Xiaodong hacia la élite cultural que escribió y dirigió&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt; River elegy&lt;/f2&gt;&lt;f3&gt; (Elegía del río), los esfuerzos de He Xin en reunir apoyo para un gobierno muy criticado o la democracia económica solicitada por Cui Zhiyuan y muchos otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, by fall, he was again charting a conservative ideological direction.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T051330Z" creationid="Usuario" creationdate="20160930T051256Z">
+        <seg>Sin embargo, en otoño, estaba trazando otra vez una dirección de ideología conservadora.</seg>
       </tuv>
     </tu>
     <tu>
