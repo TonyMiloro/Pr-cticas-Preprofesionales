@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3508,8 +3508,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although many outside observers label them “neoconservatives,” they reject that label and instead see themselves as “true liberals” or as part of the New Left (xin zuopai).&lt;/f20&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131022Z" creationid="Lucia Cipolatti" creationdate="20160930T131022Z">
-        <seg>A pesar de que los ajenos al tema los catalogaban de "neoconservadores", ellos rechazaban esa etiqueta y en cambio se veían como "verdaderos liberales" o como parte de la Nueva Izquierda (&lt;t38/&gt;xin zuopai&lt;t39/&gt;).</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131046Z" creationid="Lucia Cipolatti" creationdate="20160930T131022Z">
+        <seg>A pesar de que los ajenos al tema los catalogaban de "neoconservadores", ellos rechazaban esa etiqueta y en cambio se veían como "verdaderos liberales" o como parte de la Nueva Izquierda (&lt;t38/&gt;xin zuopai&lt;t39/&gt;).&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3981,6 +3981,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
         <seg>Another major theme in the pages of &lt;t0/&gt;Strategy and Management&lt;t1/&gt; was populism.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T133717Z">
+        <seg>Otro gran tema que se presentó en&lt;t0/&gt;Gestión y Estrategia&lt;t1/&gt; fue el populismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another major theme in the pages of Strategy and Management was populism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131253Z" creationid="Lucia Cipolatti" creationdate="20160930T131253Z">
         <seg>Otro gran tema que se presentó en&lt;t0/&gt;Gestión y Estrategia&lt;t1/&gt; fue el populismo.</seg>
       </tuv>
     </tu>
@@ -6343,6 +6351,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160928T041113Z">
         <seg>China puede decir no fue impactante no solo por tener un tono emocional alto sino también por el reclamo de los autores a la gran influencia de Estados Unidos, solo para haberse decepcionado en la década de los 90. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China Can Say No was striking not just because of its highly emotional tone but also because the authors all claimed to have been strongly influenced by the United States, only to have become disillusioned in the 1990s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131354Z" creationid="Lucia Cipolatti" creationdate="20160930T131354Z">
+        <seg>China puede decir no fue impactante no solo por tener un tono emocional alto sino también por el reclamo de los autores a la gran influencia de Estados Unidos, solo para haberse decepcionado en la década de los 90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11971,6 +11987,14 @@ appear critical.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In writing a nationalistic best seller, the authors of China Can Say No demonstrated&lt;bs0/&gt;&lt;be1/&gt;&lt;s2/&gt;that the same broadening of mass culture that had previously been evident in popular literature, television, and the entertainment industry was also available for political mobilization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131354Z" creationid="Lucia Cipolatti" creationdate="20160930T131338Z">
+        <seg>Al escribir un best seller nacionalista, los autores de China puede decir no demostraron que la misma cultura de masas que antes tuvo lugar en la literatura popular, en la televisión y en la industria del entretenimiento, ahora se encontraba también disponible para una movilización política.&lt;bs0/&gt;&lt;be1/&gt;&lt;s2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In&lt;t0/&gt; &lt;t1/&gt;sacking&lt;t2/&gt; &lt;t3/&gt;Zhang&lt;t4/&gt; &lt;t5/&gt;and&lt;t6/&gt; &lt;t7/&gt;Meng,&lt;t8/&gt; &lt;t9/&gt;Hu&lt;t10/&gt; &lt;t11/&gt;was&lt;t12/&gt; &lt;t13/&gt;clearly&lt;t14/&gt; &lt;t15/&gt;trying&lt;t16/&gt; &lt;t17/&gt;to&lt;t18/&gt; &lt;t19/&gt;make&lt;t20/&gt; &lt;t21/&gt;a&lt;t22/&gt; &lt;t23/&gt;point&lt;t24/&gt; &lt;t25/&gt;about accountability that would become one of the hallmarks of his adminis- tration.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160831T214516Z">
@@ -13636,6 +13660,14 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160917T212412Z">
         <seg>Con estas similitudes y diferencias en mente, nos enfocaremos primero en la capacidad del Estado y el trabajo de Hu Angang y Wang Shaoguang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Korea’s Park Chung Hee provided a positive example of how nationalism could be used to bolster economic development.71</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131239Z" creationid="Lucia Cipolatti" creationdate="20160930T131239Z">
+        <seg>El coreano Park Chung Hee dio un ejemplo optimista de como el nacionalismo puede ser utilizado para reforzar el desarrollo económico.&lt;t18/&gt;71</seg>
       </tuv>
     </tu>
     <tu>
@@ -17829,6 +17861,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So even though the political system was hierarchical and authoritarian, populism was very much a part of the CCP’s tradition.72 Hu Weixi (of Qinghua University) pushed this analysis back further, noting that the “national essence” movement (guocui yundong), the anarchist movement, and the rural reconstruction movement in the first half of the twentieth century – despite all their differences – shared a populist orientation.73 Although discussed in a historical vein, their concerns were clearly contemporary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131322Z" creationid="Lucia Cipolatti" creationdate="20160930T131322Z">
+        <seg>Aunque el sistema político fue jerárquico y autoritario, el populismo fue parte de la tradición de CCP.&lt;t6/&gt;72&lt;t7/&gt; Hu Weixi (de la Universidad de Qinghua) impulzó este análisis hacia atrás, y se dio cuenta que el movimiento "national essence" (&lt;t8/&gt;guocui yundong&lt;t9/&gt;), el movimiento anarquista,  y el movimiento de la reconstrucción rural durante la primera mirad del siglo 20 – a pesar de todas su&lt;t10/&gt;s diferencias – compartiero una orientación pop&lt;t11/&gt;ulista.&lt;t12/&gt;73&lt;t13/&gt; A pesar de que se discuta de una manera histórica, sus preocupaciones eran claramente contemporanteas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So even though the political system was hierarchical and authoritarian, populism was very much a part of the CCP’s tradition.&lt;t6/&gt;72&lt;t7/&gt; Hu Weixi (of Qinghua University) pushed this analysis back further, noting that the “national essence” movement (&lt;t8/&gt;guocui yundong&lt;t9/&gt;), the anarchist movement, and the rural reconstruction movement in the first half of the twentieth century – despite all t&lt;t10/&gt;heir differences – shared a pop&lt;t11/&gt;ulist orientation.&lt;t12/&gt;73&lt;t13/&gt; Although discussed in a historical vein, their concerns were clearly contemporary.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T151030Z">
@@ -18090,6 +18130,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160928T014350Z">
         <seg>Aún así, esta interacción &lt;t0/&gt; se puede percibir&lt;t1/&gt;si se observan determinadas situaciones y eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strategy and Management did just that in a symposium in the June 1994 issue.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131116Z" creationid="Lucia Cipolatti" creationdate="20160930T131116Z">
+        <seg>En&lt;t2/&gt;Gestión y Estrategia&lt;t3/&gt; se hizo justamente eso durante el simposio de la edición de junio de 1994.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19056,6 +19104,14 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T131010Z">
         <seg>Los artículos no eran en si provocativos, sin duda mucho menos que el libro &lt;t4/&gt;Looking at China through a Third Eye&lt;t5/&gt; ("Viendo a China a través de un tercer ojo") de Wang Shan,&lt;t6/&gt; publicado posteriormente ese mismo año, pero se plantearon problemas importantes.&lt;t7/&gt;69&lt;t8/&gt; Por ejemplo, Pi Mingyong (de la Academia de Ciencias Militares) sostenía que el nacionalismo &lt;t9/&gt;había sido un problema en el siglo XX en China porque estaba inevitablemente en riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The articles were not particularly inflammatory – certainly much&lt;s0/&gt;&lt;t1/&gt;less so than Wang Shan’s book Looking at China through a Third Eye, published later the same year – but they did raise some important issues.69 For instance, Pi Mingyong (from the Academy of Military Sciences) argued that nationalism had been a difficult issue in twentieth-century China because it was necessarily compromised.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131210Z" creationid="Lucia Cipolatti" creationdate="20160930T131131Z">
+        <seg>Los artículos no eran en si provocativos, sin duda mucho menos que el libro &lt;t4/&gt;Looking at China through a Third Eye&lt;t5/&gt; ("Viendo a China a través de un tercer ojo") de Wang Shan,&lt;t6/&gt; publicado posteriormente ese mismo año, pero se plantearon problemas importantes.&lt;t7/&gt;69&lt;t8/&gt; Por ejemplo, Pi Mingyong (de la Academia de Ciencias Militares) sostenía que el nacionalismo &lt;t9/&gt;había sido un problema en el siglo XX en China porque estaba inevitablemente en riesgo.&lt;s0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20640,6 +20696,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rhetorical status given to peasants and&lt;s0/&gt;workers, the egalitarian distribution system, the effort to eliminate income differences across regions, the commune movement during the Great Leap Forward, and the criticism of Soviet “revisionism” and of “bourgeois rights” during the Cultural Revolution all reflected populist values.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131322Z" creationid="Lucia Cipolatti" creationdate="20160930T131307Z">
+        <seg>La condición retórica que se le dio a los campesinos y &lt;t2/&gt;trabajadores, la distribución igualitaria&lt;t3/&gt; del sistema, el esfuerzo para eliminar las diferencias de ingresos a lo largo de las regiones, el movimiento de la comuna durante el Gran Salto Adelante, y la crítica del "revisionismo" soviético y de “los derechos burgueses” durante la Revolución&lt;t4/&gt;Cultu&lt;t5/&gt;ral reflejaron valores populistas.&lt;s0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rise of national studies in the &lt;/f5&gt;&lt;f6&gt;1990s marked an assertion of cultural nationalism, but it was not without a certain amount of official sponsorship.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T020245Z">
@@ -20986,6 +21050,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The “great nationalism” of the Han Chinese&lt;s2/&gt;conflicted with the “small nationalism” of the minority, Pi wrote, while the anti-traditionalism of the nationalistic May Fourth Movement denigrated the history of the very people it hoped to lift up.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131215Z" creationid="Lucia Cipolatti" creationdate="20160930T131153Z">
+        <seg>Pi escribió que cuando el “gran nacionalismo” del grupo étnico de los Han entró en conflicto con el “pequeño nacionalismo” de las naciones minoritarias, el antitradicionalismo del&lt;t10/&gt; Movimiento nacionalista del Cuatro de Mayo deshonró la historia de todas las personas que esperaban mejorarlo. &lt;t11/&gt;&lt;s2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The “honorary director” was former PLA Chief of Staff Xiao Ke, the director was former Secretariat member Gu Mu, and the “senior advisers” included such luminaries as retired general Zhang Aiping, former &lt;t12/&gt;People’s Daily &lt;t13/&gt;editor-in-chief Qin Chuan, former State Economic Com-mission head Yuan Baohua, and former Secretariat member Yan Mingfu.&lt;t14/&gt;68&lt;t15/&gt; The editor of &lt;t16/&gt;Strategy and Management&lt;t17/&gt; was Qin Chaoying, son of the&lt;t18/&gt; former editor-in-chief of the &lt;t19/&gt;People’s Daily&lt;t20/&gt;, Qin Chuan, but the editorial direction came primarily from&lt;t21/&gt; Yang Ping and Wang Xiaodong.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T130536Z">
@@ -21302,6 +21374,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Monzon" changedate="20160912T154825Z">
         <seg>Desde ese entonces, las organizaciones campesinas, aunque no fueron reconocidas oficialmente, se volvieron parte de la realidad &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;de facto &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;en esta parte de Hunan.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the Chinese government had always adopted an ambiguous policy that tried to use the strengths of nationalism without incurring its weaknesses.70 Yin Baoyun (from Beijing University) argued that nationalism was a vital component of economic development but that many Third-World countries had encountered difficulties because they emphasized culturalism, racism,&lt;bs3/&gt;&lt;be4/&gt;&lt;s5/&gt;or localism, neglecting the pride and progressive spirit of nationalism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131220Z" creationid="Lucia Cipolatti" creationdate="20160930T131210Z">
+        <seg>Por lo tanto, el gobierno chino siempre ha adoptado una política ambigua que trato de utilizar la solidez del nacionalismo sin provocar su debilidad.&lt;t12/&gt;70&lt;t13/&gt; Yin Baoyun (de la universidad de Beijing) dijo que &lt;t14/&gt; el nacionalismo fue un componente vital del desarrollo económico &lt;t15/&gt; pero que muchos de los países del tercer mundo tuvieron dificultades porque hicieron hincapié en el culturalismo, racismo,&lt;t16/&gt; &lt;t17/&gt;o localismo e ignoraron el orgullo y el espíritu progresista del nacionalismo.&lt;bs3/&gt;&lt;be4/&gt;&lt;s5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
