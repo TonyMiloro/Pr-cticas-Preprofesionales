@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9184,8 +9184,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>For instance, one article made a thinly veiled allusion to the &lt;t1/&gt;Huangfu&lt;t2/&gt; Ping commentaries of the previous spring and asked whether the orientation of the author of those commentaries was “socialist or capitalist.”36 Moreover, deputy director of the Propaganda Department Xu &lt;t3/&gt;Weicheng&lt;t4/&gt;, writing under his pen name Yu &lt;t5/&gt;Xinyan&lt;t6/&gt;, attacked the “Western monopoly capitalist class” for gloating over its success in promoting peaceful evolution, declaring that it had “rejoiced too soon.”37</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T164945Z" creationid="carolaamiel" creationdate="20160930T151922Z">
-        <seg>Por ejemplo, un articulo hacia </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T172828Z" creationid="carolaamiel" creationdate="20160930T151922Z">
+        <seg>Por ejemplo, un articulo hizo una alusión un poco encubierta a los comentarios de </seg>
       </tuv>
     </tu>
     <tu>
