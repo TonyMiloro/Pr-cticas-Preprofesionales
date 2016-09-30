@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12556,6 +12556,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In other words, if the Fourth Plenary Session the preceding year was marked by political succession, the Fifth Plenum was defined by the effort to lay out, if only in preliminary terms, a program that would define the new generation as distinct from its predecessors.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T042529Z" creationid="Usuario" creationdate="20160930T042529Z">
+        <seg>En otras palabras, si la sucesión política marcó la Cuarta Sección Plenaria el año anterior, el Quinto Pleno se definió por esfuerzo por organizar, solo si en términos preliminares, un programa que definiría a la nueva generación distinta de sus antecesores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In other words, reform had generated a profound range of social changes, and the question that had racked the Party for years was how it should respond to these changes.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160926T145633Z">
@@ -13955,6 +13963,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="Nico" changedate="20160928T143050Z">
         <seg>Disminuyó en el sentido de que los líderes del gobierno son con frecuencia intelectuales y, por lo tanto, tienen el mismo bagaje que otros intelectuales.&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has often been remarked thatMao’s era was defined by the concentration of power and Deng’s by its dispersion; Mao’s concentration of power is said to have brought to an end a period of domestic disorder and international war while Deng’s devolution of authority unleashed the economic energy that brought a new level of prosperity to the country.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T042718Z" creationid="Usuario" creationdate="20160930T042718Z">
+        <seg>Se ha destacado  a menudo que la concentración de poder y la de Deng por su dispersión; se dice que la concentración de Mao ha llegado a terminar con un período de desorden nacional y guerra internacional mientras que la delegación de autoridad de Deng desató la energía económica que trajo un nuevo nivel de prosperidad al país. </seg>
       </tuv>
     </tu>
     <tu>
