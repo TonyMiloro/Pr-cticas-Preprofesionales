@@ -288,8 +288,8 @@
       <tuv lang="EN-US">
         <seg>284—6.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130421Z">
-        <seg>284-6.&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055000Z">
+        <seg> &lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1185,8 +1185,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1/&gt;GaoXin,&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;Jiang Zemin de muliao&lt;/f3&gt;&lt;f4&gt;, pp.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T130410Z">
-        <seg>&lt;f0&gt;&lt;t1/&gt;GaoXin,&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;Jian Zemin de muliao&lt;/f3&gt;&lt;f4&gt;, pp.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T054954Z">
+        <seg>&lt;f0&gt;&lt;t1/&gt;&lt;s2/&gt;&lt;/f0&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
