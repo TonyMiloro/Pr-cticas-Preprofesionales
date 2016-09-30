@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15186,8 +15186,8 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Legal Affairs Committee,and Jiang Zemin had succeeded in having ﬁve or six of his closest political associates join the Politburo StandingCommittee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T181333Z" creationid="andrea" creationdate="20160928T181155Z">
-        <seg>de la comisión de Asuntos Jurídicos, y Jiang Zemin han tenido éxito en tener cinco o seis de sus socios políticos más cercanos en el Comité Permanente del Politburó.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T031712Z" creationid="andrea" creationdate="20160928T181155Z">
+        <seg>de la Comisión de Asuntos Jurídicos, y Jiang Zemin han tenido éxito en tener cinco o seis de sus socios políticos más cercanos en el Comité Permanente del Politburó.</seg>
       </tuv>
     </tu>
     <tu>
