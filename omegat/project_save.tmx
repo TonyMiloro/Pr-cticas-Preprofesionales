@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6797,8 +6797,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Comprehensively Implement the Party’s Basic Line,” Yuan’s article did to Deng what</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165752Z" creationid="Soledad Mori" creationdate="20160927T165752Z">
-        <seg>"La implementación de la norma básica del Partido de manera firme, precisa y comprensiva". Esto le provocó a Deng</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T142708Z" creationid="Soledad Mori" creationdate="20160927T165752Z">
+        <seg>El artículo se titulaba "Implementen la norma básica del partido de manera firme, precisa y exhaustiva". Esto le provocó a Deng </seg>
       </tuv>
     </tu>
     <tu>
@@ -7943,8 +7943,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Entitled “Firmly, Accurately, and</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165719Z" creationid="Soledad Mori" creationdate="20160927T165719Z">
-        <seg>El artículo se titulaba </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T142637Z" creationid="Soledad Mori" creationdate="20160927T165719Z">
+        <seg>El artículo se titulaba</seg>
       </tuv>
     </tu>
     <tu>
@@ -17748,6 +17748,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shortly thereafter, on April 14, the People’s Daily ran a long article by Li Peng confidante</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T142506Z" creationid="Soledad Mori" creationdate="20160930T142506Z">
+        <seg>Poco tiempo después, el 14 de abril People's Daily publicó un artículo extenso hecho por un socio de Li Peng,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should the rules on foreign investment be relaxed even further?</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160907T011104Z">
@@ -24646,8 +24654,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Yuan Mu, head of the State Council Research Office.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T165640Z" creationid="Soledad Mori" creationdate="20160927T165640Z">
-        <seg>Yuan Mu, quien era director de la Oficina de Investigación del Consejo de Estado.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T142524Z" creationid="Soledad Mori" creationdate="20160927T165640Z">
+        <seg>Yuan Mu, director de la Oficina de Investigación del Consejo de Estado.</seg>
       </tuv>
     </tu>
     <tu>
