@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2344,6 +2344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;of 1993) to revamp the tax system.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Certainly the constant attention Hu and Wang have&lt;s4/&gt;&lt;/f2&gt;&lt;f5&gt;drawn thttps://github.com/TonyMiloro/Pr-cticas-Preprofesionaleso the problems of regional inequality and political instability have similarly influenced the government’s willingness to address such issues, most recently in the decision to develop the west.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T020104Z" creationid="Magui" creationdate="20160930T020104Z">
+        <seg>&lt;f0&gt;de 1993) de reformar el sistema tributario.&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Desde luego, la atención constante que le dedicaron Hu y Wang&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;a los problemas de desigualdad regional e inestabilidad política ha influido, de un modo similar, en la disposición del gobierno de abordar dichas problemáticas, como en la reciente decisión de desarrollar el oeste.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;policy on regional differences was more palpable: the 1994 NPC meeting drew considerable attention to regional inequalities, Jiang Zemin explic-itly called for redu&lt;/f0&gt;&lt;f1&gt;cing regional gaps in his speech to the Fifth Plenum in September 1995, and in 2000 the development of western China was made a major theme of the NPC meeting.&lt;/f1&gt;&lt;f2&gt;23&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160930T014121Z" creationid="Magui" creationdate="20160930T014121Z">
@@ -3669,6 +3677,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
         <seg>Although influence is a notoriously difficult force to measure, there is reason to believe that their advocacy of tax reform played an important role in the reform of 1994.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160925T175748Z">
+        <seg>Si bien la influencia es una fuerza obviamente difícil de medir, hay motivos para creer que su adhesión a la reforma tributaria tuvo un papel importante en la reforma de 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although influence is a notoriously difficult force to measure, there is&lt;s0/&gt;reason to believe that their advocacy of tax reform played an important role in the reform of 1994.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T015246Z" creationid="Magui" creationdate="20160930T015246Z">
         <seg>Si bien la influencia es una fuerza obviamente difícil de medir, hay motivos para creer que su adhesión a la reforma tributaria tuvo un papel importante en la reforma de 1994.</seg>
       </tuv>
     </tu>
@@ -13774,6 +13790,14 @@ It is not fire proof.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not that people in the government, particularly the Ministry of Finance, had not thought of implementing tax reform – indeed, Lou Jiwei was appointed&lt;s1/&gt;vice-minister of finance largely to draft a reform of the tax system – but that Hu and Wang’s report on state capacity packaged the idea in a compelling fashion that helped persuade political elites outside the ministry to accept ideas they had previously&lt;s2/&gt;rejected.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T015349Z" creationid="Magui" creationdate="20160930T015349Z">
+        <seg>Esto no significa que los miembros del gobierno, en particular el ministro de economía, no hayan pensado en implementar una reforma tributaria (de hecho, Lou Jiwei fue designado viceministro de economía en gran parte para hacer un borrador de dicha reforma), pero el informe sobre capacidad del Estado de Hu y Wang planteaba la idea de una manera tan convincente que ayudaba a persuadir a elites políticas por fuera del ministerio a aceptar las ideas que antes habían rechazado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is open to question whether the turn away from the Enlightenment&lt;t4/&gt; ideals of the May Fourth Movement can continue to pressure the political system in ways that promote greater openness, accountability, and restraint.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160928T055232Z">
@@ -19631,10 +19655,26 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Social fairness was a moral issue in the general sense that reforms creating winners and losers also created a moral obligation to help thos&lt;/f4&gt;&lt;f5&gt;e who lost from reform – as well as in the specific sense that growing income inequalities undermined the egalitarian commitments that underlay much of the Communist Party’s claim to legitimacy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T014721Z" creationid="Magui" creationdate="20160930T014721Z">
+        <seg>En general, era un problema moral porque las reformas que crearon ganadores y perdedores también crearon la obligación moral de ayudar a los que salieron perdiendo con la reforma; y en particular, porque las desigualdades salariales crecientes socavaron las responsabilidades igualitarias que sustentaban gran parte del derecho a la legitimidad del Partido Comunista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Social fairness was a moral issue in the general sense that reforms creating winners and losers also created a moral obligation to help those who lost from reform – as well as in the specific sense that growing income inequalities undermined the egalitarian commitments that underlay much of the Communist Party’s claim to legitimacy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T164524Z">
         <seg>En general, era un problema moral porque las reformas que crearon ganadores y perdedores también crearon la obligación moral de ayudar a los que salieron perdiendo con la reforma; y en particular, porque las desigualdades salariales crecientes socavaron las responsabilidades igualitarias que sustentaban gran parte del derecho a la legitimidad del Partido Comunista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Social fairness was a political issue because, as Hu Angang a&lt;/f5&gt;&lt;f6&gt;rgued, the sense of injustice was fueling social tensions and outbreaks of violence.&lt;/f6&gt;&lt;f7&gt;24&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T014832Z" creationid="Magui" creationdate="20160930T014832Z">
+        <seg>La equidad social era también un problema político porque, como Hu Angang sostuvo, el sentido de la injusticia estaba exacerbando las tensiones sociales y los brotes de violencia.&lt;/f0&gt;&lt;f1&gt;24&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22615,6 +22655,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The report was subsequently reprinted in the Central Policy Research Office’s publication&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;Internal Information&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;(&lt;/f15&gt;&lt;f17&gt;Neibu xinxi&lt;/f17&gt;&lt;f18&gt;), which is directed at the top leadership, and then, in a longer version, in the&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;People’s Daily&lt;/f20&gt;&lt;f21&gt;’s internal&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;pub-lication,&lt;s24/&gt;&lt;/f22&gt;&lt;f25&gt;Internal Reference Reading&lt;/f25&gt;&lt;f26&gt;&lt;s27/&gt;(&lt;/f26&gt;&lt;f28&gt;Neibu canyue&lt;/f28&gt;&lt;f29&gt;), which has a much wider circulation.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T015537Z" creationid="Magui" creationdate="20160930T015537Z">
+        <seg>Luego, el informe fue reimpreso en la publicación de la Oficina de Investigación de Políticas del Comité Central,&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Internal Information&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;(&lt;/f13&gt;&lt;f15&gt;Neibu xinxi&lt;/f15&gt;&lt;f16&gt;), dirigida a los máximos líderes, y más tarde fue publicado en una versión más larga en la publicación interna de&lt;s17/&gt;&lt;/f16&gt;&lt;f18&gt;People’s Daily,&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;&lt;/f19&gt;&lt;f21&gt;Internal Reference Reading&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;(&lt;/f22&gt;&lt;f24&gt;Neibu canyue&lt;/f24&gt;&lt;f25&gt;), que cuenta con una difusión mucho más amplia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result might well have been a stronger, more nationalistic Soviet Union on China’s northern border.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160923T020326Z">
@@ -24643,6 +24691,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;is a publication directed at provincial- and&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;ministerial-level cadres.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T015448Z" creationid="Magui" creationdate="20160930T015448Z">
+        <seg>&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;&lt;/f8&gt;&lt;f10&gt;una publicación dirigida al personal de las provincias y de los ministerios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those in favor of the new authoritarianism were not opposed to</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160910T174143Z">
@@ -24782,6 +24838,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
         <seg>Thus, Hu tried to influence government opinion at different levels by circulating his ideas through various internal publications, and these efforts certainly fed into the government’s decision (in the summer&lt;/f25&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T164739Z">
+        <seg>De esta manera, Hu intentó influir en la opinión del gobierno en diferentes niveles haciendo circular sus ideas a través de diversas publicaciones internas, y estos esfuerzos, sin dudas, repercutieron en la decisión del gobierno (en el verano&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, Hu tried to influence government opinion at different levels by circulating his ideas through various internal publications, and these efforts certainly fed&lt;/f29&gt;&lt;f30&gt;&lt;s31/&gt;into the government’s decision (in the summer&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T015600Z" creationid="Magui" creationdate="20160930T015600Z">
         <seg>De esta manera, Hu intentó influir en la opinión del gobierno en diferentes niveles haciendo circular sus ideas a través de diversas publicaciones internas, y estos esfuerzos, sin dudas, repercutieron en la decisión del gobierno (en el verano&lt;/f25&gt;</seg>
       </tuv>
     </tu>
