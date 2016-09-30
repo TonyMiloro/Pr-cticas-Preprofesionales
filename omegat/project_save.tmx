@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6493,8 +6493,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>CYL Communist Youth League</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T021444Z">
-        <seg>CYL Liga de la Juventud Comunista</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T210459Z">
+        <seg>LJC Liga de la Juventud Comunista</seg>
       </tuv>
     </tu>
     <tu>
