@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10653,8 +10653,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, Tianan&lt;/f5&gt;&lt;f6&gt;­men greatly changed the terms of debate.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160930T035859Z" creationid="Franco" creationdate="20160930T035859Z">
-        <seg>Sin embargo, Tianan&lt;/f5&gt;&lt;f6&gt;men cambió de gran manera los términos de debate.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T035922Z" creationid="Franco" creationdate="20160930T035859Z">
+        <seg>Sin embargo, Tianan&lt;/f5&gt;&lt;f6&gt;men cambió en una gran medida los términos del debate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24993,6 +24993,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160929T203902Z">
         <seg>Aquellos que por lo general se identifican con este grupo preferirían considerarse como intelectuales "críticos" (tomando el sentido de este término como se utiliza en la crítica literaria en Occidente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those who had doubts about the course of reform, or who quickly developed them following that tragedy, came to see Tiananmen not so much as a case of repression as another instance of romantic radicalism bringing about its own defeat.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T040026Z" creationid="Franco" creationdate="20160930T040026Z">
+        <seg>Los que estaban en duda sobre el rumbo de la reforma o quienes rápidamente las desarrollaron después de esa tragedia, vinieron a ver a Tiananmen no tanto como un caso de represión sino como una instancia de radicalismo romántico que causó su propia derrota.</seg>
       </tuv>
     </tu>
     <tu>
