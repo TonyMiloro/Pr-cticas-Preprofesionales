@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6254,8 +6254,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But whereas such criticisms in the West tend to&lt;t8/&gt; &lt;t9/&gt;be fueled more by concerns with the environment and labor standards, in&lt;t10/&gt; &lt;t11/&gt;China they are fueled by nationalism – the fear that China will be entrapped&lt;t12/&gt; &lt;t13/&gt;by global capital and by US “hegemony” in particular.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sabri" changedate="20160928T234509Z">
-        <seg>Pero mientras que tales críticas en el oeste tienden a ser &lt;t8/&gt; &lt;t9/&gt;alimentadas por preocupaciones por el medio ambiente y estándares de trabajo, en&lt;t10/&gt; &lt;t11/&gt;China se alimentan del nacionalismo: el miedo de que China sea atrapada&lt;t12/&gt; &lt;t13/&gt;por el mercado y por la "hegemonía" de Estados Unidos en particular.</seg>
+      <tuv lang="ES-US" changeid="Sabri" changedate="20160930T220312Z">
+        <seg>Pero mientras que tales críticas en Occidente tienden a &lt;t8/&gt; &lt;t9/&gt;alimentarse de preocupaciones por el medio ambiente y estándares de trabajo, en&lt;t10/&gt; &lt;t11/&gt;China se alimentan del nacionalismo: el miedo de que China sea atrapada&lt;t12/&gt; &lt;t13/&gt;por el mercado y por la "hegemonía" de Estados Unidos en particular.</seg>
       </tuv>
     </tu>
     <tu>
