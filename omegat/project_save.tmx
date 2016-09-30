@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15028,8 +15028,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Liberal thinkers in China react strongly and negatively to Cui’s suggestions that Maoist practices can be shorn of their radicalism and thence provide a basis for economic democracy in contemporary China; for instance, no liberal would accept Cui’s assertion that “[t]here are really quite a few pos-itive factors in Mao’s thought waiting to be excavated.” Similarly, liberals bridle at the notion that the Anshan Iron and Steel Factory Constitution, held up by Mao during the Cultural Revolution as a model of worker participation, really foreshadowed “quality circles” and can be resurrected as a model of economic democracy in the present era.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Gime" changedate="20160929T025930Z" creationid="Gime" creationdate="20160929T020208Z">
-        <seg>Los liberales en China tienen una reacción fuerte y negativa ante las sugerencias de Cui que indican que las prácticas maoistas pueden ser despojadas de su radicalismo y por lo tanto dar una base para la demoracia económica en China contemporánea; por ejemplo, ningún liberal aceptaría la afirmación de Cui de que "realmente hay varios factores positivos en el pensamiento de Mao esperando ser profundizados". De manera similiar, los liberales se ofenden frente a la noción de que las compañias Anshan Iron y Steel Factory Constitution, sostenidas por Mao como modelos de participación de trabajadores durante la revolución cultural, realmente presagiaron "círculos de calidad" y pueden resucitar como un modelo de democracia económica en la era presente. </seg>
+      <tuv lang="ES-US" changeid="Gime" changedate="20160930T001158Z" creationid="Gime" creationdate="20160929T020208Z">
+        <seg>Los liberales en China tienen una reacción fuerte y negativa ante las sugerencias de Cui que indican que las prácticas maoistas pueden ser despojadas de su radicalismo, y por lo tanto dar una base para la demoracia económica en China contemporánea; por ejemplo, ningún liberal aceptaría la afirmación de Cui de que "realmente hay varios factores positivos en el pensamiento de Mao esperando ser profundizados". De manera similiar, los liberales se ofenden frente a la noción de que las compañias Anshan Iron y Steel Factory Constitution, tomadas por Mao como modelos de participación de trabajadores durante la Revolución Cultural, realmente presagiaron los "círculos de calidad" y pueden resucitar como un modelo de democracia económica en la actualidad. </seg>
       </tuv>
     </tu>
     <tu>
