@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7727,6 +7727,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160926T141956Z">
         <seg>Deng y otros dirigentes de alto rango estaban más preocupados por tres problemas relacionados: la autoridad del PCCh sobre la sociedad, la autoridad del centro sobre las localidades y la autoridad de Jiang Zemin sobre sus colegas en el liderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng angrily declared that the “People’s Daily wants to comprehensively criticize Deng Xiaoping.”46</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T000935Z" creationid="Luisina" creationdate="20160930T000935Z">
+        <seg>Deng declaró enoja que el "People´s Daily quiere citicar comprensivamente a Deng Xiaoping". 46</seg>
       </tuv>
     </tu>
     <tu>
@@ -24487,6 +24495,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T212847Z">
         <seg>Por consiguiente, mientras más se ha introducido el concepto de homo economicus en empresas estatales, peor ha sido, y cuando el individualismo tuvo mayor aceptación en la sociedad, mayores han sido los problemas sociales. En términos apocalípticos, el autor expresó que si la reforma guiada por el concepto de homo economicus no lograba una aprobación "decisiva" (guoduan) y no se reestablecía el concepto colectivista, entonces todo por lo que el partido había luchado durante setenta años habría sido en vano.&lt;/f26&gt;&lt;t27/&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;&lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;&lt;/f37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, the editorial that appeared in the People’s Daily on September 2 differed from what listeners had heard on the radio the evening before.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T000839Z" creationid="Luisina" creationdate="20160930T000839Z">
+        <seg>Por lo tanto, el editorial que apareció en el People´s Daily el 2 de septiembre era diferente a lo que los oyentes habían escuchado en la radio la noche anterior. </seg>
       </tuv>
     </tu>
     <tu>
