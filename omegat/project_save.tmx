@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6717,8 +6717,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>China has come a long way from the deep divisions that were so apparent in the period before and after Tiananmen; power is now exercised in a way that both allows for both a primus inter pares and also a balancing of competing interests within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>China ha avanzado bastante desde las profundas divisiones que eran tan evidentes durante el período anterior y posterior a Tiananmén; el poder ahora es ejercido de una manera que permite un (primus inter pares) y un equilibrio de los intereses opuestos dentro del partido.  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T173610Z">
+        <seg>China ha evolucionado bastante en cuando a las profundas divisiones que eran muy evidentes en el período anterior y posterior a Tiananmén; el poder ahora es ejercido de una manera que permite un primus inter pares y un equilibrio de los intereses opuestos dentro del partido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17349,8 +17349,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Perhaps the subtext of the Party conclave, however, is that Hu must pursue these goals within the context of recognizing the different interests that exist within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T172844Z">
-        <seg>Quizás el trasfondo del cónclave del partido sea, en realidad, el hecho de que Hu debe alcanzar estos objetivos dentro del marco de reconocimiento de los diferentes intereses que existen dentro del partido. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T173115Z">
+        <seg>Quizás el trasfondo del cónclave del partido sea, en realidad, el hecho de que Hu debe alcanzar estos objetivos un marco en que se reconocen los diferentes intereses que existen dentro del partido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22844,8 +22844,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This context implies a long period of navigating among competing interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145348Z">
-        <seg>Este contexto implica atravesar un largo período de intereses competitivos. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T173025Z">
+        <seg>Este marco implica atravesar un largo período de intereses competitivos. </seg>
       </tuv>
     </tu>
     <tu>
