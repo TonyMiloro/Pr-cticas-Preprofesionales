@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1770,8 +1770,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Many intellectuals had taken heart from Deng Xiaoping’s trip to the&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;south and his harsh denunciations of the left.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174435Z" creationid="Soledad Mori" creationdate="20160927T174435Z">
-        <seg>&lt;f0&gt;Muchos intelectuales se reanimaron con el viaje de Deng Xiaoping al&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;sur y por sus duras acusaciones de la izquierda.  </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152055Z" creationid="Soledad Mori" creationdate="20160927T174435Z">
+        <seg>&lt;f0&gt;Muchos intelectuales se sintieron reanimados con el viaje de Deng Xiaoping al&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;sur y por sus duras acusaciones en contra de la izquierda.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,8 +2042,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;The renewed activities of such liberal intellectuals was certainly grist for&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;the leftists’ mill.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174221Z" creationid="Soledad Mori" creationdate="20160927T174221Z">
-        <seg>&lt;f0&gt;La reanudación de las actividades por parte de semejantes intelectuales liberales fue &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;más que bienvenida por el izquierdismo.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151846Z" creationid="Soledad Mori" creationdate="20160927T174221Z">
+        <seg>&lt;f0&gt;La reanudación de las actividades por parte de semejantes intelectuales liberales echaron leña&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;al fuego del izquierdismo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,8 +2090,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Thus, the Fourteenth Party Congress that convened in October 1992&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;sought to attain two seemingly contradictory goals: establish the dominance of Deng (and his line of reform and opening up) over the left and deny the fruits of victory to the “bourgeois liberals” within the Party.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021909Z" creationid="Soledad Mori" creationdate="20160927T175357Z">
-        <seg>&lt;f0&gt;De modo que el Décimocuarto Congreso Nacional del Partido que fue convocado en octubre de 1992&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;pretendía alcanzar dos metas en apariencia contradictorias entre sí: establecer el dominio de Deng (y su línea de reforma y apertura) por sobre la izquierda, y negarle los frutos de la victoria a los “burgueses liberales” dentro del partido.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T153108Z" creationid="Soledad Mori" creationdate="20160927T175357Z">
+        <seg>&lt;f0&gt;De modo que el Décimocuarto Congreso Nacional del Partido que se convocó en octubre de 1992&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;pretendía alcanzar dos metas en apariencia contradictorias entre sí: establecer el dominio de Deng (y su línea de reforma y apertura) por sobre la izquierda, y negarle los frutos de la victoria a los “burgueses liberales” dentro del partido.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,8 +2258,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;environment had set off demonstrated just how precarious that goal was.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;In 1989 Deng had endorsed the concept of neo-authoritarianism, the idea&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;that the authority of the state could be used to build a strong economy and stable society a la the authoritarian regimes on &lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;China’s periphery.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175116Z" creationid="Soledad Mori" creationdate="20160927T175116Z">
-        <seg>&lt;f0&gt;desataron terribles luchas internas en el partido que demostraron cuan precaria era en realidad esa meta.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;En 1989, Deng respaldó el concepto de neoautoritarismo, la idea de&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;quese podía utilizar la autoridad del estado para construir una economía fuerte y una sociedad estable al estilo de los regímenes autoritarios que se desplegaban en&lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;en las periferias de China. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152802Z" creationid="Soledad Mori" creationdate="20160927T175116Z">
+        <seg>&lt;f0&gt;desataron terribles luchas internas en el partido que demostraron cuan precaria era en realidad esa meta. &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;En 1989, Deng respaldó el concepto de neoautoritarismo, la idea de&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;que se podía utilizar la autoridad del estado para construir una economía fuerte y una sociedad estable al estilo de los regímenes autoritarios que existían &lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;en las periferias de China. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,8 +2378,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;willingness to use the military in an intra-Party struggle demonstrated his&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;determination; the Fourteenth Party Congress’ enshrinement of Deng’s thought would signal his success.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160929T021807Z" creationid="Soledad Mori" creationdate="20160927T174822Z">
-        <seg>&lt;f0&gt;predisposición a hacer uso del ejército en caso de una lucha interna del partido pusieron de manifiesto su&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; determinación; la consagración del pensamiento de Deng en el Décimocuarto Congreso Nacional del Partido evidenciarían su triunfo. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152503Z" creationid="Soledad Mori" creationdate="20160927T174822Z">
+        <seg>predisposición a hacer uso de las fuerzas armadas en caso de una lucha interna del partido pusieron de manifiesto su determinación; la consagración del pensamiento de Deng en el Décimocuarto Congreso Nacional del Partido evidenciaría su triunfo. &lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2794,8 +2794,8 @@
       <tuv lang="EN-US">
         <seg>A collection of essays by such famous intellectuals as Wang Meng (former Minister of Culture), Hu Jiwei (former editor-in-chief of the People’s Daily), and Sun Changjiang (former deputy editor of Science and Technology Daily [Keji ribao]) created a storm when it was published under the title Historical Trends.93 The book’s sharp criticism of leftism quickly brought the wrath of the Propaganda Department, which banned the book.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173945Z" creationid="Soledad Mori" creationdate="20160927T173945Z">
-        <seg>Una recopilación de ensayos escritos por algunos famosos intelectuales como Wang Meng (anterior Ministro de Cultura), Hu Jiwei (anterior editor en jefe de People’s Daily), y Sun Changjiang (anterior editor adjunto del Science and Technology Daily [Keji ribao]) ocasionaron un torbellino cuando fueron publicados bajo el título Tendencias Históricas. La aguda crítica que realiza el libro al izquierdismo pronto desató la furia del Departamento de Propaganda, que prohibió el libro.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151610Z" creationid="Soledad Mori" creationdate="20160927T173945Z">
+        <seg>Una recopilación de ensayos escritos por algunos famosos intelectuales como Wang Meng (ex ministro de cultura), Hu Jiwei (anterior editor en jefe de People’s Daily), y Sun Changjiang (anterior editor adjunto del Science and Technology Daily [Keji ribao]) ocasionaron un torbellino cuando fueron publicados bajo el título Tendencias históricas93. La aguda crítica realizada en el libro contra el izquierdismo pronto desató la furia del Departamento de Propaganda, el cual uque prohibió el libro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7509,8 +7509,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng’s calculus, however, remained different from that of the intellectuals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174536Z" creationid="Soledad Mori" creationdate="20160927T174536Z">
-        <seg>Sin embargo, el cálculo de Deng seguía una línea diferente al de los intelectuales, </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152138Z" creationid="Soledad Mori" creationdate="20160927T174536Z">
+        <seg>Sin embargo, el cálculo de Deng seguía una línea diferente al de los intelectuales. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7533,8 +7533,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng’s goals were twofold.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174551Z" creationid="Soledad Mori" creationdate="20160927T174551Z">
-        <seg>ya que su meta era doble. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152154Z" creationid="Soledad Mori" creationdate="20160927T174551Z">
+        <seg>La meta de Deng era doble.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -10979,8 +10979,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In an internal speech at the Contemporary China History Institute, Deng called for “extra vigilance over the recent rise in rightist tendencies.”&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174327Z" creationid="Soledad Mori" creationdate="20160927T174327Z">
-        <seg>En un discurso interno que tuvo lugar en el Instituto de Historia Contemporánea de China, Deng exigió “reforzar la vigilancia sobre el reciente aumento en las tendencias derechistas.”&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152008Z" creationid="Soledad Mori" creationdate="20160927T174327Z">
+        <seg>En un discurso interno que tuvo lugar en el Instituto de Historia Contemporánea de China, Deng hizo un llamamiento para “reforzar la vigilancia sobre el reciente aumento en las tendencias derechistas”.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17398,8 +17398,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, however, Deng sought a path that might ensure stability after his passing, and the terrible intra-Party struggles that Tiananmen and the ensuing changes in the international&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174904Z" creationid="Soledad Mori" creationdate="20160927T174711Z">
-        <seg>Por otro lado, sin embargo, Den estaba en busca de un camino que le permitiera asegurar estabilidad luego de su deceso, pero Tiananmén y los cambios resultantes en el ámbito internacional&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152602Z" creationid="Soledad Mori" creationdate="20160927T174711Z">
+        <seg>Por otro lado, sin embargo, Deng estaba en busca de un camino que le permitiera asegurar la estabilidad luego de su deceso, pero Tiananmén, pero los consecuentes cambios en el ámbito internacional &lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17815,16 +17815,16 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Shortly after the book’s publication, Yuan Hongbing – the law lecturer from Beijing University who had edited the book – presided over a gathering of more than 100 well-known intellectuals in Beijing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174004Z" creationid="Soledad Mori" creationdate="20160927T174004Z">
-        <seg>Poco después de su publicación, Yuan Hongbing, el profesor de leyes de la Universidad de Pekín a cargo de la edición del libro, presidió una reunión en la que se encontraban más de 100 intelectuales reconocidos de Pekín. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151704Z" creationid="Soledad Mori" creationdate="20160927T174004Z">
+        <seg>Poco después de su publicación, Yuan Hongbing, profesor de Derecho de la Universidad de Pekín a cargo de la edición del libro, presidió una reunión en la que se encontraban más de 100 intelectuales reconocidos de Pekín. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Shortly after the forum in Beijing, Deng Liqun launched a new attack.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174257Z" creationid="Soledad Mori" creationdate="20160927T174257Z">
-        <seg>. Poco después del foro en Pekín, Deng Liqun lanzó un nuevo ataque</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151932Z" creationid="Soledad Mori" creationdate="20160930T151932Z">
+        <seg>Poco después del foro en Pekín, Deng Liqun lanzó un nuevo ataque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18491,8 +18491,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Such people as Wang Ruoshui, the former deputy editor of the People’s Daily, and Wu Zuguang, the famous playwright who had been expelled from the Party in 1987, addressed the forum.95 In the months that followed, other books denouncing leftism came off the press.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174051Z" creationid="Soledad Mori" creationdate="20160927T174051Z">
-        <seg>Figuras destacadas como Wang Ruoshui, anterior editor adjunto de People’s Daily, y Wu Zuguang, el famoso dramaturgo que había sido expulsado del partido en el año 1987, se dirigieron ante el foro. En los meses siguientes, se publicaron otros libros que denunciaban al izquierdismo.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151745Z" creationid="Soledad Mori" creationdate="20160927T174051Z">
+        <seg>Figuras destacadas como Wang Ruoshui, anterior editor adjunto de People’s Daily, y Wu Zuguang, famoso dramaturgo que había sido expulsado del partido en el año 1987, pronunciaron un discurso ante el foro. En los meses siguientes, se publicaron otros libros que denunciaban al izquierdismo</seg>
       </tuv>
     </tu>
     <tu>
@@ -21892,8 +21892,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>They hoped that the patriarch would at last deal a fatal blow to such leftist leaders as Deng Liqun, Wang Renzhi, and Gao Di.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T174509Z" creationid="Soledad Mori" creationdate="20160927T174509Z">
-        <seg>Tenían la esperanza de que el patriarca por lo menos le pondría un punto final a las acciones de Deng Liqun, Wang Renzhi, y Gao Di. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152115Z" creationid="Soledad Mori" creationdate="20160927T174509Z">
+        <seg>Tenían la esperanza de que el patriarca por lo menos le asestaría un golpe moral contra líderes izquierdistas como Deng Liqun, Wang Renzhi, y Gao Di. </seg>
       </tuv>
     </tu>
     <tu>
