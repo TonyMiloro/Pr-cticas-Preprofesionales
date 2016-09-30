@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3228,8 +3228,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>A well-known study calls this nouveau riche group the “never-left-out class” (bu luokong jieji) because every time Chinese society entered a new round of adjustment in which resources were reallocated, this group has benefited the most.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T013932Z" creationid="Lucrecia" creationdate="20160927T013932Z">
-        <seg>Este grupo de "nouveau riche" es conocido por un estudio prestigioso como "la clase nunca dejada de lado" (bu luokong jieji) porque cada vez que la sociedad china entraba a una nueva ronda de ajuste en la que los recursos se reacomodaban, este grupo es el que mas se ha beneficiado.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T214416Z" creationid="Lucrecia" creationdate="20160927T013932Z">
+        <seg>Un estudio prestigioso nombra a este grupo de nouveau riche como “la clase nunca dejada de lado” (bu luokong jieji) porque cada vez que la sociedad china entraba a una nueva ronda de ajuste en la que los recursos se reacomodaban, este grupo es el que más se ha beneficiado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17182,8 +17182,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Often they were the offspring of high cadres who used their family connections to amass large sums of money.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T140447Z">
-        <seg>A menudo eran parientes de ejecutivos importantes que usaban sus conexiones familiares para acumular grandes cantidades de dinero.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T214248Z">
+        <seg>A menudo eran descendientes de grandes cuadros de ejecutivos que usaban sus conexiones familiares para acumular grandes cantidades de dinero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22592,8 +22592,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The same study argues that this group possesses “comprehensive” (zongtixing) capital resources, meaning that it is able to mobilize its multidimensional economic and political contacts to monopolize the best opportunities.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T014514Z" creationid="Lucrecia" creationdate="20160927T014514Z">
-        <seg>El mismo estudio sostiene que este grupo tiene recursos "amplios" (zongtixing) de capital, lo que significa que es capaz de movilizar sus contactos polifacéticos relacionados a la economía y la política para monopolizar las mejores oportunidades.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T214444Z" creationid="Lucrecia" creationdate="20160927T014514Z">
+        <seg>El mismo estudio sostiene que este grupo tiene recursos "amplios" (zongtixing) de capital, lo que significa que es capaz de movilizar sus contactos polifacéticos en relación con la economía y la política para monopolizar las mejores oportunidades.</seg>
       </tuv>
     </tu>
     <tu>
