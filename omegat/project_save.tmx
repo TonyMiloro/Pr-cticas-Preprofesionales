@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -905,8 +905,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;At the same time, Zhao Ziyang, who had journeyed to North Korea April 23–30 &lt;s3/&gt;in &lt;s4/&gt;one &lt;s5/&gt;of &lt;s6/&gt;the &lt;s7/&gt;worst-timed &lt;s8/&gt;diplomatic &lt;s9/&gt;trips &lt;s10/&gt;imaginable, &lt;s11/&gt;returned and &lt;s12/&gt;convened &lt;s13/&gt;a &lt;s14/&gt;meeting &lt;s15/&gt;of &lt;s16/&gt;the &lt;s17/&gt;Politburo &lt;s18/&gt;on &lt;s19/&gt;May &lt;s20/&gt;10.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T190119Z" creationid="USER" creationdate="20160930T185951Z">
-        <seg>Al mismo tiempo, Zhao Ziyang, quien viajó a Corea del Norte entre el 23 y 30 de abril en uno de los peores tiempos imaginables para realizar viajes diplomáticos, regresó y pactó una reunión con el Politburó el 10 de mayo.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T210118Z" creationid="USER" creationdate="20160930T185951Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Al mismo tiempo, Zhao Ziyang, quien viajó a Corea del Norte entre el 23 y 30 de abril &lt;s3/&gt;en uno de los peores viajes diplomáticos imaginables de todos los tiempos, regresó y pactó una reunión con el Politburó el 10 de mayo. &lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt;&lt;s11/&gt;&lt;s12/&gt;&lt;s13/&gt;&lt;s14/&gt;&lt;s15/&gt;&lt;s16/&gt;&lt;s17/&gt;&lt;s18/&gt;&lt;s19/&gt;&lt;s20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,8 +2674,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s14/&gt;Carrying &lt;s15/&gt;banners &lt;s16/&gt;that &lt;s17/&gt;identi&lt;/f8&gt;&lt;/f7&gt;ﬁ&lt;f18&gt;&lt;f19&gt;ed their papers – &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;People’s Daily (Renmin ribao)&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;, &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Workers Daily (Gongren ribao), Enlightenment Daily&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;s28/&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f29&gt;&lt;f30&gt;(Guangming ribao)&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, and so on – journalists hoisted signs declaring that they would not be forced to lie again.&lt;/f32&gt;&lt;/f31&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T190346Z" creationid="USER" creationdate="20160930T190346Z">
-        <seg>Con carteles que identificaban a sus diarios (People’s Daily, Workers Daily, Enlightenment Daily, entre otros), los periodistas elevaban pancartas con la leyenda de que no serían forzados a mentir de nuevo.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T205906Z" creationid="USER" creationdate="20160930T190346Z">
+        <seg>&lt;s14/&gt;Con&lt;s15/&gt; carteles&lt;s16/&gt; que&lt;s17/&gt;identificaban&lt;/f8&gt;&lt;/f7&gt; a&lt;f18&gt;&lt;f19&gt; sus diarios &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;(People’s Daily, Workers Daily, Enlightenment Daily, entre otros)&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;, los periodistas elevaban pancartas con la leyenda de que no serían forzados a mentir de nuevo.&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;s28/&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f29&gt;&lt;f30&gt;&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;/f31&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2706,8 +2706,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s21/&gt;Referring &lt;s22/&gt;to &lt;s23/&gt;the &lt;s24/&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f25&gt;&lt;f26&gt;World Economic Herald&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt; incident, Zhao declared that the Shanghai Party Committee had “made a mess of things.” Before the meeting concluded, an anxious Jiang followed Li Ruihuan to the men’s room to seek his advice.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T190218Z" creationid="USER" creationdate="20160930T190218Z">
-        <seg>Refiriéndose al incidente del World Economic Herald, Zhao declaró que el Comité del Partido de Shanghái había “hecho un gran lio”. Antes de que terminara la reunión, un ansioso Jiang siguió a Li Ruihuan hasta baño de hombres para que lo aconsejara.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T210239Z" creationid="USER" creationdate="20160930T190218Z">
+        <seg>&lt;s21/&gt;Refiriéndose al &lt;s22/&gt;incidente &lt;s23/&gt;del &lt;s24/&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f25&gt;&lt;f26&gt;World Economic Herald&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, Zhao declaró que el Comité del Partido de Shanghái había “hecho un gran lio”. Antes de que terminara la reunión, un ansioso Jiang siguió a Li Ruihuan hasta baño de hombres para que lo aconsejara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9447,6 +9447,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the &lt;/f6&gt;&lt;/f5&gt;ﬁ&lt;f7&gt;&lt;f8&gt;rst time since the demonstrations had started, &lt;s9/&gt;journalists &lt;s10/&gt;took &lt;s11/&gt;to &lt;s12/&gt;the &lt;s13/&gt;streets.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T205201Z" creationid="USER" creationdate="20160930T205201Z">
+        <seg>Por &lt;/f6&gt;&lt;/f5&gt;primera&lt;f7&gt;&lt;f8&gt; vez desde que las manifestaciones habían comenzado, los  &lt;s9/&gt;periodistas&lt;s10/&gt; salieron &lt;s11/&gt;a la &lt;s12/&gt;calle&lt;s13/&gt; a protestar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the first time, the Party's leadership would have to manage succession to a younger generation without the shadow of Deng Xiaoping and others handing over them.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
@@ -10354,8 +10362,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, Jiang emerged looking both decisive in opposing “&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;bourgeois&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;liberalization&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;” and capable in handling the local situation; unlike Beijing, Shanghai was under control.&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T185848Z" creationid="USER" creationdate="20160930T185822Z">
-        <seg>De todas formas, Jiang apareció decidido al oponerse a la “liberación burguesa” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T210824Z" creationid="USER" creationdate="20160930T185822Z">
+        <seg>De todas formas, Jiang apareció decidido al oponerse a la “&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;liberación&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt; &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;burguesa&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17749,8 +17757,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Perhaps, if Jiang’s efforts to reverse his “decisive” handling of the &lt;s29/&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;f30&gt;&lt;f31&gt;World Economic Herald&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt; case had succeeded, he would not have been chosen as general secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T185832Z" creationid="USER" creationdate="20160930T185832Z">
-        <seg>Tal vez, si los esfuerzos de Jiang por revertir el manejo “decisivo” del caso del World Economic Herald hubieran sido exitosos, no se lo hubiese elegido como secretario general.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T210850Z" creationid="USER" creationdate="20160930T185832Z">
+        <seg>Tal vez, si los esfuerzos de Jiang por revertir el manejo “decisivo” del caso del &lt;s29/&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;f30&gt;&lt;f31&gt;World Economic Herald&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;  hubieran sido exitosos, no se lo hubiese elegido como secretario general.</seg>
       </tuv>
     </tu>
     <tu>
