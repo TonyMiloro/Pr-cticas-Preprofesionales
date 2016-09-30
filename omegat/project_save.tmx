@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9495,6 +9495,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the beginning of the reform period, the central government had encouraged the provinces along the eastern seaboard to carry out reforms that were more far-ranging than those in the inland areas.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T181122Z" creationid="Magui" creationdate="20160930T181122Z">
+        <seg>Desde el comienzo del período de reforma, el gobierno central había motivado a las provincias de la costa este a llevar a cabo reformas que fueran más amplias que aquellas de las áreas continentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Furthermore, cultural influence was directly related to the construction of international norms and regimes, which were not always in the best interest of the developing nations.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T133814Z">
@@ -18517,6 +18525,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shortly after the publication of their report on state capacity, Hu Angang and Wang Shaoguang shifted their focus to the problem of regional inequal-ities, which had begun to draw increasing attention.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T181053Z" creationid="Magui" creationdate="20160930T181053Z">
+        <seg>Luego de la publicación de su informe sobre la capacidad del Estado, Hu Angang y Wang Shaoguang cambiaron su foco hacia el problema de las desigualdades regionales que habían comenzado a llamar la atención.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shortly thereafter, on April 14, the People’s Daily ran a long article by Li Peng confidante</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T142506Z" creationid="Soledad Mori" creationdate="20160930T142506Z">
@@ -22298,6 +22314,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There were market-oriented reformers who dissented from this view – the best known of whom was economist Wu Jinglian – but both the realities of politi-cal&lt;s7/&gt;&lt;/f5&gt;&lt;f8&gt;contestation and the understanding of reform-minded economists led the Dengist state to adopt the decentralizing strategy known as “devolving authority and granting benefits” (&lt;/f8&gt;&lt;f9&gt;fangquan rangli&lt;/f9&gt;&lt;f10&gt;).&lt;/f10&gt;&lt;f11&gt;12&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T181006Z" creationid="Magui" creationdate="20160930T181006Z">
+        <seg>Había reformadores orientados al mercado que no estaban de acuerdo con esta postura (el más conocido era el economista Wu Junglian), pero tanto las realidades de la controversia política como la comprensión de economistas orientados a la reforma llevaron al Estado de Deng a adoptar la estrategia de descentralización conocida como "transferencia de autoridad y entrega de beneficios" (&lt;/f8&gt;&lt;f9&gt;fangquan rangli&lt;/f9&gt;&lt;f10&gt;).&lt;/f10&gt;&lt;f11&gt;12&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There were moments of small progress.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160831T015835Z">
@@ -23190,6 +23214,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160929T015925Z">
         <seg>Esta página se dejó en blanco intencionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This policy was reflected in the establishment of the first four Special Economic Zones (Shenzhen, Zhuhai, Shantou, and Xiamen) and the generous fiscal contracts given to Guangdong and Fujian</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T181201Z" creationid="Magui" creationdate="20160930T181201Z">
+        <seg>Esta política se reflejó en el establecimiento de las primeras cuatro zonas económicas especiales (Shenzhen, Zhuhai, Shantou y Xiamen) y los contratos fiscales generosos que fueron entregados a las provincias de Guangdong y Fujian.</seg>
       </tuv>
     </tu>
     <tu>
