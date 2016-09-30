@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>(see Chapter 8), that used Deng’s words to blunt Deng’s own offensive.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T170948Z" creationid="Soledad Mori" creationdate="20160927T170948Z">
-        <seg>(ver Capítulo 8). Leng Rong utilizó las palabras de Deng en su contra.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T143548Z" creationid="Soledad Mori" creationdate="20160927T170948Z">
+        <seg>(véase el Capítulo 8). ). Leng Rong utilizó las palabras de Deng en contrade la ofensiva de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19165,8 +19165,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The article</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T170957Z" creationid="Soledad Mori" creationdate="20160927T170957Z">
-        <seg>El artículo</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T143614Z" creationid="Soledad Mori" creationdate="20160927T170957Z">
+        <seg>En su artículo</seg>
       </tuv>
     </tu>
     <tu>
@@ -25167,8 +25167,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>cautioned against bourgeois liberalization by quoting Deng as saying, “[h]enceforth, if</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T171121Z" creationid="Soledad Mori" creationdate="20160927T171121Z">
-        <seg>en su artículo se advertía sobre la amenaza de la liberalización burguesa al citar a Deng diciendo: "a partir de ahora, si </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T143646Z" creationid="Soledad Mori" creationdate="20160927T171121Z">
+        <seg>se advertía sobre la amenaza de la liberalización burguesa con una cita textual en la que Deng afirmaba: "[a] partir de ahora, si </seg>
       </tuv>
     </tu>
     <tu>
@@ -25841,8 +25841,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>them as soon as possible.”This was not the message that Deng was trying to promote in the</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T171202Z" creationid="Soledad Mori" creationdate="20160927T171202Z">
-        <seg>eliminarlos tan pronto como se pueda. Esto no fue el mensaje que Deng trataba de transmitir en la </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T143829Z" creationid="Soledad Mori" creationdate="20160927T171202Z">
+        <seg>eliminarlos tan pronto como se pueda”. Este no fue el mensaje que Deng trataba de promover en la </seg>
       </tuv>
     </tu>
     <tu>
