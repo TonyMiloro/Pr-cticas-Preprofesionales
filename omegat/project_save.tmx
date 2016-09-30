@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -993,8 +993,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Although the number of agricultural workers had decreased from 70 percent of China’s working population to 44 percent, the number of peasants remained extremely large and unlikely to be absorbed into a middle class any time soon.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T233031Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Aunque la proporción de trabajadores agrícolas en la población de China disminuyó de un 70 % a un 44 %, la cantidad de campesinos se mantuvo bastante alta y sin posibilidades de que sea incorporada a una clase media dentro de poco tiempo.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T233241Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Aunque la proporción de trabajadores agrícolas en la población trabajadora china disminuyó de un 70 % a un 44 %, la cantidad de campesinos se mantuvo bastante alta y sin posibilidades de incorporarse a una clase media en un futuro cercano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5790,8 +5790,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Because of the weight of this and other lower-income strata, the average person in most areas of China continued to have a belowaverage income.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T024123Z">
-        <seg>Debido a la importancia de esta situación y de otros estratos de ingresos inferiores, en la mayoría de las áreas de China el común de las personas sigue teniendo un nivel de ingresos inferior al promedio.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T233324Z">
+        <seg>Debido a la importancia este sector social y de otros estratos de bajos ingresos, en la mayoría de las áreas de China el común de las personas sigue teniendo un nivel de ingresos inferior al promedio.</seg>
       </tuv>
     </tu>
     <tu>
