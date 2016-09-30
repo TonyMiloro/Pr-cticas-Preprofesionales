@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19985,8 +19985,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Structurally, much of China remained traditional (that is, overwhelmingly agricultural), even though the east coast economy was modern and integrated into the global economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T234341Z">
-        <seg>Gran parte de la estructura social de China se mantuvo de forma tradicional (es decir, ampliamente agrícola), a pesar de que la economía de la costa este era moderna y estaba integrada a la economía global.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T234413Z">
+        <seg>Gran parte de la estructura social de China se mantuvo tradicional (es decir, ampliamente agrícola), a pesar de que la economía de la costa este era moderna y estaba integrada a la economía global.</seg>
       </tuv>
     </tu>
     <tu>
