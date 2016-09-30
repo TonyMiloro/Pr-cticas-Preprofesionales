@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7149,8 +7149,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Conservative Party leaders believed that Zhao had been leading reform farther and farther from socialism and that Tiananmen was the inevitable and &lt;s0/&gt;foreseeable denouement of &lt;s1/&gt;the &lt;s2/&gt;reform &lt;s3/&gt;program &lt;s4/&gt;that &lt;s5/&gt;Zhao &lt;s6/&gt;led &lt;s7/&gt;and symbolized.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T022559Z">
-        <seg>Los líderes del partido conservador creían que Zhao había alejado más y más la reforma del socialismo y que los sucesos de Tiananmén era un deselance inevitable&lt;s0/&gt;y predecible del&lt;s1/&gt;programa &lt;s2/&gt;de la&lt;s3/&gt;reforma &lt;s4/&gt;que &lt;s5/&gt;Zhao &lt;s6/&gt;lideró &lt;s7/&gt;y  de la que fue símbolo.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184422Z">
+        <seg>Los líderes del partido conservador creían que Zhao había alejado más y más la reforma del socialismo y que los sucesos de Tiananmén era un deselance inevitable&lt;s0/&gt;y predecible del&lt;s1/&gt;programa &lt;s2/&gt;de la&lt;s3/&gt;reforma &lt;s4/&gt;done &lt;s5/&gt;Zhao &lt;s6/&gt;fue líder &lt;s7/&gt;y símbolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17742,8 +17742,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Questions about the goals of reform had simmered just below the surface for years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T020242Z">
-        <seg>Las preguntas acerca de los objetivos de la reforma han estado muy cerca de la superficie por años.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184225Z">
+        <seg>Las preguntas acerca de los objetivos de la reforma se han venido cocinando cerca de la superficie por años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24734,8 +24734,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Was reform, as Party documents repeatedly proclaimed, about the “self-perfection” of socialism or was reform leading China away from socialism?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T020743Z">
-        <seg>¿La reforma se trataba acerca del perfeccionamiento del socialismo, como se proclamaba repetidas veces en los documentos del partido, o se trataba de alejar a China del socialismo?.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184256Z">
+        <seg>¿La reforma trataba acerca del perfeccionamiento del socialismo, como se proclamaba repetidas veces en los documentos del partido, o trataba de alejar a China del socialismo?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25927,8 +25927,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhao Ziyang was a lightning rod for such issues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T021201Z">
-        <seg>Zhao Ziyang era el pararrayos de esos asuntos.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184311Z">
+        <seg>Zhao Ziyang era un imán para este tipo de problemas.</seg>
       </tuv>
     </tu>
     <tu>
