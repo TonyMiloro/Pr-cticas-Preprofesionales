@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6245,8 +6245,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chen Yun was the only one in the Party with the stature to challenge Deng, but just as he had never challenged Mao, with whom he disagreed, he never challenged Deng’s political position.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T025613Z">
-        <seg>Chen Yun era el único en el partido con la importancia necesaria para desafiar a Deng, pero nunca había desafiado a Mao, con quién no estaba de acuerdo, ni tampoco la posición política de Deng.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135731Z">
+        <seg>Chen Yun era el único en el partido con el prestigio necesario para desafiar a Deng, pero así como nunca había desafiado a Mao, con quién no estaba de acuerdo, tampoco nunca se había opuesto a la posición política de Deng. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7349,8 +7349,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng had always coupled “reform” with “opening up” not only because he believed that China’s economic modernization needed capital, technology, and export markets that only the West could provide, but because he recognized that jettisoning the Maoist emphasis on international class struggle was necessary for dampening domestic calls for a continuing emphasis on class struggle, something that would (and did) make the implementation of economic reform more difficult, perhaps &lt;s0/&gt;impossible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T122949Z">
-        <seg>Deng siempre asoció "reforma" con "expansión" no sólo porque creía que la modernización economica de China necesitaba el capital, la tecnología y los mercados de exportación que solo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha internacional de clases para disminuir los llamados de atención del pueblo por un énfasis continuo en la lucha de clases, algo que podría (y así lo hizo) tornar la implementación de la reforma económica mucho más difícil, quizás hasta imposible&lt;s0/&gt;.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135628Z">
+        <seg>Deng siempre asoció “reforma” con “expansión” no solo porque creía que la modernización económica de China necesitaba el capital, la tecnología y los mercados de exportación que solo el Occidente podía proveer, sino porque reconocía que era necesario deshacerse del énfasis maoísta en la lucha internacional de clases. Esta acción era necesaria para atenuar las demandas locales por un énfasis continuo en la lucha de clases, algo que podría hacer que la implementación de la reforma económica se tornara aún más difícil, casi imposible, tal como sucedió. &lt;s0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7525,9 +7525,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng’s task was made even more difficult by the tense international atmosphere that prevailed in the months after Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T022855Z">
-        <seg>
-El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera internacional que prevaleció en los años posteriores a Tiananmén.
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135546Z">
+        <seg>El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera internacional que prevaleció en los años posteriores a Tiananmén.
 </seg>
       </tuv>
     </tu>
@@ -11540,8 +11539,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In terms of political strategy, Deng clearly tried to relax the political atmosphere by responding to the popular resentments that had underlain the Tiananmen demonstrations, by trying to play down ideological tensions, and by ameliorating international tensions to the greatest extent possible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160927T030922Z">
-        <seg>En terminos de estratégia política, claramente Deng intentó relajar el ambiente político respondiendo a los enojos populares que subyacían a las demostraciones de Tiananment, minimizando las tensiones ideológicas y aliviando las tensiones internacionales en la mayor medida posible.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135814Z">
+        <seg>En términos de estrategia política, claramente Deng intentó relajar el ambiente político respondiendo a los enojos populares que subyacían a las demostraciones de Tiananmén, minimizando las tensiones ideológicas y aliviando las tensiones internacionales en la mayor medida posible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21028,8 +21027,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The unraveling of communism in Eastern Europe would make Deng’s position even more difficult as the dangers of “peaceful evolution” were brought home vividly to China’s leaders, Deng included.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T024644Z">
-        <seg>El desmoronamiento del comunismo en Europa del Este haría que la posición de Deng fuera aun más difícil debido a que los riesgos de la "revolución pacífica" llegaron de forma intensa e impactaron a los líderes de China, incluído Deng.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135645Z">
+        <seg>El desmoronamiento del comunismo en Europa del Este haría que la posición de Deng fuera aun más difícil tal como los riesgos de la “revolución pacífica” se lo habían dejado en claro a los líderes de China, incluido Deng.</seg>
       </tuv>
     </tu>
     <tu>
