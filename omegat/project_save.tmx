@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18151,8 +18151,8 @@ Un informe adjunto sobre las joint ventures en la industria cervecera en China  
       <tuv lang="EN-US">
         <seg>Particularly worrisome was the merging of “evil forces” and local administration.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160913T195957Z">
-        <seg>Lo que resultaba especialmente preocupante era la combinación de  "fuerzas malvadas" y la administración local.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T021106Z">
+        <seg>Sobre todo, lo que resultaba preocupante era la combinación de  "fuerzas malvadas" y la administración local.</seg>
       </tuv>
     </tu>
     <tu>
