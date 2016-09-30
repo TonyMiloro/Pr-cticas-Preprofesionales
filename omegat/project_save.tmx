@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22977,6 +22977,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reformers had simplistic and optimistic expectations, with the result that they misjudged the situation and the reform failed completely.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T041940Z" creationid="Rocio" creationdate="20160930T041940Z">
+        <seg>Los reformistas tenían expectativas simplistas y optimistas, con el resultado que mal juzgaran la situación y la reforma fallara en su totalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The report was subsequently reprinted in the Central Policy Research Office’s publication&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;Internal Information&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;(&lt;/f13&gt;&lt;f15&gt;Neibu xinxi&lt;/f15&gt;&lt;f16&gt;), which is directed at the top leadership, and then, in a longer version, in the&lt;s17/&gt;&lt;/f16&gt;&lt;f18&gt;People’s Daily&lt;/f18&gt;&lt;f19&gt;’s internal pub-lication,&lt;s20/&gt;&lt;/f19&gt;&lt;f21&gt;Internal Reference Reading&lt;/f21&gt;&lt;f22&gt;&lt;s23/&gt;(&lt;/f22&gt;&lt;f24&gt;Neibu canyue&lt;/f24&gt;&lt;f25&gt;), which has a much wider circulation.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160921T164732Z">
@@ -23663,6 +23671,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="User" changedate="20160831T212454Z">
         <seg>Es propable que existiera&lt;t10/&gt; &lt;t11/&gt;un elemento de competencia burocrática involucrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was a pan- moralistic&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;(fan daode zhuyi)&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;view holding that the new and the old, like fire and water, could not coexist.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T041408Z" creationid="Rocio" creationdate="20160930T041408Z">
+        <seg>Había un enfoque panmoralista&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;(fan daode zhuyi)&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;que sostenía que lo nuevo y lo antiguo, así como el agua y el fuego, no podían coexistir.</seg>
       </tuv>
     </tu>
     <tu>
