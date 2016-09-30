@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22563,6 +22563,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Nuevo" changedate="20160929T141531Z">
         <seg>El resultado fue un documento tortuoso; el proceso que llevó a cabo el Comité para su redacción puede verse claramente en cada párrafo.&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result was a “weak center and strong localities”;&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;the relationship between center and localities had become one of “negotiation and bargaining between equals.”&lt;/f2&gt;&lt;f4&gt;8&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;The consequences of such a situation were said to be quite severe.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T013903Z" creationid="Sofi" creationdate="20160930T013820Z">
+        <seg> El resultado fue un "centro débil y localidades fuertes";&lt;/f0&gt;&lt;f1&gt;7&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;la relación entre el centro y las localidades se había convertido en una relación de "negociaciones y regateos entre iguales".&lt;/f2&gt;&lt;f4&gt;8&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;Se dijo que las consecuencias de dicha situación fueron bastante severas.</seg>
       </tuv>
     </tu>
     <tu>
