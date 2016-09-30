@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1712,6 +1712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hu and Wang’s use of this political science literature stood the main-stream Chinese intellectual perspective of the 1980s on its head.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170538Z" creationid="Magui" creationdate="20160930T170538Z">
+        <seg>La utilización de esta ciencia política por parte de Hu y Wang puso de cabeza a la corriente principal de la perspectiva intelectual china de la década de los 80.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hu’s arguments touched off a major debate.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160919T225854Z">
@@ -1772,6 +1780,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131748Z" creationid="Daniel-Andrea" creationdate="20160928T011400Z">
         <seg>&lt;f0&gt;Jiang Zemin, de un solo golpe, tomó medidas contra los líderes más afianzados del país, apostó por el apoyo popular en la campaña&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;anticorrupción y atentó contra las personas más poderosas que podrían oponerse a él en el futuro, incluida la familia de Deng y uno de los miembros veteranos del partido, Wan Li (Wan había sido colaborador durante mucho tiempo de Shougang y, como ex vicealcalde de Pekín, tenía una estrecha relación con los líderes de la ciudad).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In contrast to such old conservatives who argued for centralization and against marketization, Hu and Wang argued in favor of centralization&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;and&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;marketization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170242Z" creationid="Magui" creationdate="20160930T170242Z">
+        <seg>A diferencia de los conservadores de antes que estaban a favor de la centralización y en contra de la mercantilización, Hu y Wang estaban a favor de la centralización y la mercantilización.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,6 +4890,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As they put it, “reform does not necessarily mean weaken-ing state capacity, and a ma&lt;/f3&gt;&lt;f5&gt;rket economy does not necessarily connote the elimination of state intervention; modernization certainly does not need a weak central government.”&lt;/f5&gt;&lt;f6&gt;10&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;In making this case, Hu and Wang drew on the tradition in American political science that argues that “stro&lt;/f7&gt;&lt;f9&gt;ng states” are important in establishing stable societies and bringing about rapid eco-nomic development.&lt;/f9&gt;&lt;f10&gt;11&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170505Z" creationid="Magui" creationdate="20160930T170505Z">
+        <seg>Ellos decían: "Reformar no necesariamente significa debilitar la capacidad del Estado y una economía de mercado no necesariamente significa la eliminación de la intervención del Estado; la modernización definitivamente no necesita un gobierno central débil".&lt;/f5&gt;&lt;f6&gt;10&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;Para defender su postura, Hu y Wang recurrieron a la ciencia política estadounidense que establece que los "Estados fuertes" son importantes para establecer sociedades firmes y generar un desarrollo económico rápido.&lt;/f9&gt;&lt;f10&gt;11&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As they put it: “If we were permitted to take another step here and speculate on the worst case scenario, it seems possible that once the&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;‘political strong man’ at the center (for example, Deng Xiaoping) passes away, a situation like that in Yugoslavia after the death of Tito could take place in China .</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160930T165307Z" creationid="Magui" creationdate="20160930T165307Z">
@@ -7419,6 +7443,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decrying the decline of central government revenues – the “two ratios” (the ratio of all government revenues as a percentage of GNP and the ratio of central government revenues as a percentage of all government revenues), as they were known – had been a staple of conservative political rhetoric</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170056Z" creationid="Magui" creationdate="20160930T170056Z">
+        <seg>La condena a la disminución de los ingresos del gobierno central, es decir las "dos relaciones" (la relación de todos los ingresos del gobierno en porcentaje del PNB y la relación de los ingresos del gobierno central en porcentaje de todos los ingresos del gobierno), ha sido la esencia de la retórica política conservadora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decrying “leftist” influences in the past that had led China to take a “tortuous” path, Fang urged “absorbing certain views, models, and methods from contemporary &lt;/f2&gt;&lt;f3&gt;bourgeois&lt;/f3&gt;&lt;f4&gt; economic theories” – even if it meant that “exploitation” would exist in China for a while.&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;However, despite publication of the two editorials and of Fang Sheng’s article, Beijing’s media remained silent about Deng’s trip to the south, indicating the deep opposition within the Party to Deng and his views.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T131426Z">
@@ -8081,6 +8113,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175219Z" creationid="Soledad Mori" creationdate="20160927T175209Z">
         <seg>Durante su visita a Shougang, remarcó que había descubierto la herramienta para construir tal sociedad: Zhu Rongji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During that period, however, those who worried about&lt;s0/&gt;Beijing’s declining share of the wealth were primarily such bureau-cracies as the Ministry of Finance and the State Planning Commission, organs that had a vested interest in strengthening the role of the planned economy and maintaining their own bureaucratic power.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170152Z" creationid="Magui" creationdate="20160930T170152Z">
+        <seg>Sin embargo, durante ese período, los que se preocupaban por la caída de la distribución de las riquezas de Pekín eran principalmente los miembros de la administración pública, tales como el Ministerio de Finanzas y la Comisión Estatal de Planificación, órganos que tenían un interés particular en fortalecer el rol de la economía planificada y mantener su propio poder burocrático.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9211,6 +9251,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160909T020801Z">
         <seg>Para muchos en Asia, estas tendencias reflejaron el triunfalismo estadounidense, incluso la arrogancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For many, anything th&lt;/f1&gt;&lt;f2&gt;at undermined the power of the Stalinist state was&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;ipso facto&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;reform-oriented and marketizing.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170630Z" creationid="Magui" creationdate="20160930T170630Z">
+        <seg>Para muchas personas, lo que afectó al poder del Estado estalinista estaba inmediatamente orientado por la reforma y era mercantilizante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11990,6 +12038,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135814Z">
         <seg>En términos de estrategia política, claramente Deng intentó relajar el ambiente político respondiendo a los enojos populares que subyacían a las demostraciones de Tiananmén, minimizando las tensiones ideológicas y aliviando las tensiones internacionales en la mayor medida posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that dec&lt;/f0&gt;&lt;f1&gt;ade, those who viewed themselves as reformers generally argued that it was necessary to break down the “overconcentration” of power in the central government on the grounds that the government stifled the development of market forces.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170612Z" creationid="Magui" creationdate="20160930T170612Z">
+        <seg>En esa década, aquellos que se veían como reformadores generalmente sostenían que era necesario evitar la "sobreconcentración" de poder en el gobierno central, ya que el gobierno reprimía el desarrollo de las fuerzas del mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26828,6 +26884,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160907T174238Z">
         <seg>este enfoque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>throughout the 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T170115Z" creationid="Magui" creationdate="20160930T170115Z">
+        <seg>durante la década de los 80.</seg>
       </tuv>
     </tu>
     <tu>
