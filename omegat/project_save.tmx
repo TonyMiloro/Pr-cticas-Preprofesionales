@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>.&lt;s7/&gt;&lt;/f5&gt;&lt;f8&gt;we could go from economic&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;disintegration to political fragmentation, and, in the end, fall into national disintegration&lt;/f11&gt;&lt;f12&gt;.”&lt;/f12&gt;&lt;f13&gt;9&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T014910Z" creationid="Sofi" creationdate="20160930T014705Z">
-        <seg>&lt;s7/&gt;&lt;/f5&gt;&lt;f8&gt;podríamos ir desde una desintegración económica&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;a una fragmentación política y al final caer en una desintegración nacional&lt;/f11&gt;&lt;f12&gt;".</seg>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T014922Z" creationid="Sofi" creationdate="20160930T014705Z">
+        <seg>&lt;s7/&gt;&lt;/f5&gt;&lt;f8&gt;podríamos ir desde una desintegración económica&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;a una fragmentación política y al final caer en una desintegración nacional&lt;/f11&gt;&lt;f12&gt;".&lt;/f12&gt;&lt;f13&gt;9&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
