@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5036,8 +5036,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As just discussed, intellectuals such as Wu Jiaxiang and Zhang Bingjiu argued that authority needed to be recentralized in the hands of the cen&lt;/f0&gt;&lt;f1&gt;­tral government — not, as conservatives would have it, to restore the old Marxist—Leninist order, but to use the strength of the central government to push the marketization of the economy against local forces that supported decentralization but not marketization.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160930T044958Z">
-        <seg>Como se ha mencionado antes, intelectuales como Wu Jiaxiang y Zhang Bingjiu sostenían que la autoridad necesitaba ser recentralizada en las manos del &lt;/f0&gt;&lt;f1&gt;gobierno central, no para restaurar el antiguo orden Marxista-Leninista (como los conservaores lo querían) sino para utilizar la fuerza del gobierno central para empujar la mercantilización hacia las fuerzas locales que apoyaban la decentralización, pero no la mercantilización.</seg>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T072542Z">
+        <seg>Como se ha mencionado antes, intelectuales como Wu Jiaxiang y Zhang Bingjiu sostenían que la autoridad necesitaba ser recentralizada en las manos del &lt;/f0&gt;&lt;f1&gt;gobierno central, no para restaurar el antiguo orden Marxista-Leninista (como lo querían los conservaores) sino para utilizar la fuerza del gobierno central para empujar la mercantilización hacia las fuerzas locales que apoyaban la decentralización, pero no la mercantilización.</seg>
       </tuv>
     </tu>
     <tu>
