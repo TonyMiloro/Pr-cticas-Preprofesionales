@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17190,8 +17190,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>STRATEGY AND MANAGEMENT</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T114525Z">
-        <seg>Gestión y Estrategia</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131942Z">
+        <seg>GESTIÓN Y ESTRATEGIA</seg>
       </tuv>
     </tu>
     <tu>
