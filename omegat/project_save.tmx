@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6360,6 +6360,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160902T015150Z">
         <seg>El Decimoséptimo Congreso del Partido, que estaba programado para la primavera de 2007, comenzó a cobrar relevancia durante el invierno y la primavera de 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By the summer of 1996, as elite tensions remained high because of the Taiwan Straits crisis and domestic criticism of reform, a new wave of criticism – this one focusing on the impact of foreign investment – began in the pages of Economic Daily (Jingji ribao), the country’s most authoritative economic paper, which is supervised by the State Council.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T212845Z" creationid="PC" creationdate="20160930T212845Z">
+        <seg>Para el verano de 1996, mientras las tensiones en la élite seguían siendo altas debido a la crisis del Estrecho de Taiwán y a la crítica nacional de la reforma, una nueva oleada de críticas, enfocadas en el impacto de la inversión extranjera, había comenzado en las páginas del Economic Daily (Jingji ribao), el diario de economía de mayor reputación en el país supervisado por el Consejo de Estado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17108,6 +17116,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On June 20, Economic Daily ran a commentator article introducing a series of fifteen articles that in the coming days would take an unusually critical look at the impact of foreign capital on Chinese enterprises.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T212935Z" creationid="PC" creationdate="20160930T212935Z">
+        <seg>El 20 de junio, el diario Economic Daily publicó un artículo de opinión que presentaba un conjunto de quince artículos los cuales en los próximos días tomarían un aspecto crítico inusual sobre el impacto del capital extranjero en las empresas chinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On June 9, the general secretary followed in the wake of Qiao Shi and Tian Jiyun by giving a major speech at the Central Party School.Jiang at last openly endorsed the view that the “primary focus &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;must be guarding against the ‘left’.” Quoting liberally from Deng’s talks in Shenzhen, Jiang now argued that reform is like “steering a boat against the current.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T150638Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
@@ -20855,6 +20871,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Evelyn" changedate="20160903T222820Z">
         <seg>El colapso del socialismo en Europa occidental, como se mencionó previamente, provocaba nuevos debates en Pekín y ocasionaba un nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The commentator article argued that the role of foreign investment in China’s economy was growing rapidly: imported capital then accounted for about 20 percent of all investment in fixed assets in China, foreign-invested enterprises (sanzi qiye) accounted for 39 percent of China’s exports, and foreign trade equaled some 40 percent of domestic production; all this suggested a high degree of dependence.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213003Z" creationid="PC" creationdate="20160930T213003Z">
+        <seg>El artículo de opinión sostenía que el rol de la inversión extranjera en la economía de China estaba creciendo rápidamente: el capital importado en ese momento representaba alrededor del 20 % de toda la inversión en activos fijos en China, empresas con inversión extranjera (sanzi qiye) representaban el 39 % de las exportaciones chinas y el comercio internacional era igual al 40 % de la producción nacional. Todo esto implicaba un alto nivel de dependencia.</seg>
       </tuv>
     </tu>
     <tu>
