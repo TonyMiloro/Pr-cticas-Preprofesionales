@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4500,8 +4500,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>April &lt;f0&gt;14 &lt;/f0&gt;Management buyouts of large state-owned</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T195513Z">
-        <seg>&lt;f0&gt;14 &lt;/f0&gt;de abril Se prohíben los MBO para las grandes</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T202709Z">
+        <seg>&lt;f0&gt;14 &lt;/f0&gt;de abril Se prohíben las compras gerenciales para las grandes</seg>
       </tuv>
     </tu>
     <tu>
@@ -18967,8 +18967,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Small- and medium-sized SOEs must clarify who is funding a buyout and who will manage the business before any MBO can be approved</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T202452Z">
-        <seg>Pequeñas y medianas Empresas de Propiedad Estatal deben aclarar quién financia la compra y quién manejará el negocio antes de que sea aprobada la compra gerencial (MBO).</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T202621Z">
+        <seg>Pequeñas y medianas Empresas de Propiedad Estatal deben aclarar quién financia la compra y quién manejará el negocio antes de que sea aprobada la compra gerencial.</seg>
       </tuv>
     </tu>
     <tu>
