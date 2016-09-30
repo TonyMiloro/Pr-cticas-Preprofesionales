@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -739,6 +739,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Antonio" changedate="20160927T013223Z" creationid="Antonio" creationdate="20160927T013223Z">
         <seg>7th of July</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>72 The combination of subsiding inflationary fears and stagnating industrial production brought renewed calls to revive reform, although it is surprising how slowly such calls were heeded given the debacle produced by conservative control of the economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T180032Z" creationid="Usuario" creationdate="20160930T180032Z">
+        <seg>La combinación de la disminución de la preocupación por la inflación y el estancamiento de la producción industrial reanimó las demandas de reforma, a pesar de que es sorprendente cuánto tardaron en atenderse esos pedidos debido al desastre provocado por el control conservador de la economía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3067,8 +3075,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>A number of well-known, if conservative, economists – including Ma Hong, Zhang Zhuoyuan, Li Chengrui, and Wang Jiye – argued the case for the Fifth Plenum’s call for continuing retrenchment in measured, academic terms.66 These economists defended continued retrenchment as more liberal economists began to suggest that the policy of reform and readjustment had already achieved the major goal of controlling inflation and was beginning to hurt the development of the economy by excessively reducing demand.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T151036Z" creationid="Usuario" creationdate="20160929T151036Z">
-        <seg>Un grupo de reconocidos economistas, posiblemente conservadores, en los que se incluye a Ma Hong, Zhang Zhuoyuan, Li Chengrui y Wang Jiye, apoyó la demanda del Quinto Pleno para continuar el recorte de forma moderada y académica.66 Estos economistas defendían el recorte contínuo mientras que más economistas liberales comenzaban a sugerir que la política de reforma y reajuste ya había alcanzado el objetivo principal de controlar la inflación, y además estaba comenzando a perjudicar el desarrollo económico al reducir excesivamente la demanda. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T173133Z" creationid="Usuario" creationdate="20160929T151036Z">
+        <seg>Un grupo de reconocidos economistas, posiblemente conservadores, en los que se incluye a Ma Hong, Zhang Zhuoyuan, Li Chengrui y Wang Jiye, apoyó la demanda del Quinto Pleno para continuar el recorte de forma moderada y académica66. Estos economistas defendían el recorte continuo mientras que más economistas liberales comenzaban a sugerir que la política de reforma y reajuste ya había alcanzado el objetivo principal de controlar la inflación, y además estaba comenzando a perjudicar el desarrollo económico al reducir excesivamente la demanda.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,6 +3542,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Nuevo" changedate="20160926T015014Z">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;A pesar de que el discurso de Jiang había sido una mirada razonable y considerada sobre los problemas que enfrentaba China (en comparación con el famoso discurso de Mao “Diez grandes relaciones”), hubo poco seguimiento en términos de política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although Li was uncompromising on the need to continue “improvement and rectification,” the name given to the retrenchment policies adopted in the fall of 1988, he called for finding a way to successfully “integrate” planning and market regulation.67 This talk inaugurated a public discussion on this topic, the third such discussion in the history of the PRC.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T174334Z" creationid="Usuario" creationdate="20160930T174334Z">
+        <seg>A pesar de que Li era inflexible ante la necesidad de continuar con la “mejora y rectificación”, nombre designado para las políticas restrictivas implementadas en el otoño de 1988, él pidió que se encontrara la forma para “integrar” con éxito la planificación y la regulación de mercado67. Esta charla dio inicio al debate público sobre esta temática, el tercer debate de este tipo en la historia de la RPCh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4012,8 +4028,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Among Party conservatives there was a deep sense of “we told you so.” Their warnings, they believed, had not been listened to, and Tiananmen was the fulfillment of their predictions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135240Z">
-        <seg>Entre los miembros del partido conservador, había una gran impresión de “Te lo habíamos advertido”. Los conservadores creían que sus advertencias no habían sido escuchadas, y Tiananmén fue la materialización de estas predicciones.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T183058Z">
+        <seg>Entre los miembros del Partido Conservador, había una gran impresión de “Te lo habíamos advertido”. Los conservadores creían que sus advertencias no habían sido escuchadas, y Tiananmén fue la materialización de estas predicciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4478,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Agustín" changedate="20160929T032747Z" creationid="Agustín" creationdate="20160929T031638Z">
         <seg>Como lo explica Lu, aquellos sectores de la población que deberían haber crecido (es decir, la clase media), no lo hicieron, o al menos no lo suficiente, mientras que aquellos&lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;que deberían haberse reducido (los grupos con bajos ingresos), no lo hicieron.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;El resultado fue una estructura social distorsionada y, hasta cierto punto, ilegítima que deja una incertidumbre con respecto a la estabilidad social y al crecimiento económico futuro.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As Naughton has argued, China’s economy in 1989 was far healthier than the conservatives’ declaration of profound economic crisis would suggest.68 The harsh restrictions on credit and investment were so successful in reducing demand that, by September 1989, consumer prices were actually falling – though China’s planners, calculating inflation on a year-to-year rather than a month-to-month basis, were unaware of this 66 See Ma Hong, “Have a Correct Understanding of the Economic Situation”; Zhang Zhuoyuan, “Promoting Economic Rectification by Deepening Reform”; Li Chengrui, “Some Thoughts on Sustained, Steady, and Coordinated Development”; and Wang Jiye, “Several Questions on Achieving Overall Balance and Restructuring.” 67 Li Peng, “Wei woguo zhengzhi jingji he shehui de jinyibu wending fazhan er fendou.” 68 Barry Naughton, Growing Out of the Plan, p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T174531Z" creationid="Usuario" creationdate="20160930T174531Z">
+        <seg>Tal como Naughton había sostenido, la economía de China en 1989 era más sólida que lo que los conservadores anunciaron en su declaración de una profunda crisis económica68. Las duras restricciones en el crédito e inversión fueron tan exitosas en la reducción de la demanda que, en realidad, para septiembre de 1989, los precios al consumidor estaban bajando, a pesar de que los planificadores de China, quiénes calculaban la inflación sobre una base anual y no mensual, no estaban al tanto de este cambio radical69.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5157,8 +5181,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>At that meeting, conservative Party leaders, concerned that Zhao and others would blunt the campaign against bourgeois liberalization that had unfolded in the wake of Hu Yaobang’s ouster, tried to breathe new fire into the movement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T163943Z">
-        <seg>En este encuentro, los líderes del partido conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de reavivar el movimiento. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T183058Z">
+        <seg>En este encuentro, los líderes del Partido Conservador, preocupados por el hecho de que Zhao y otros puedan mitigar la campaña en contra de la liberalización burguesa que ha desaparecido después de la destitución de Hu Yaobang, trataron de reavivar el movimiento. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5767,6 +5791,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160921T183022Z">
         <seg>Sin embargo, a medida que las desigualdades sociales crecían, &lt;s1/&gt; &lt;s2/&gt;se desencadenaron dudas &lt;s3/&gt;y &lt;s4/&gt;debates nuevos&lt;s5/&gt; &lt;s6/&gt;, &lt;s7/&gt;en particular &lt;s8/&gt;a comienzos &lt;s9/&gt;de &lt;s10/&gt;2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But at least an opening for rational discourse on the economy had been created.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T174427Z" creationid="Usuario" creationdate="20160930T174427Z">
+        <seg>Pero al menos se había dado comienzo al debate racional en la economía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8377,6 +8409,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T145445Z">
         <seg>A pesar de que Deng llevó su mensaje a Shanghái, el People´s Daily realizó un extenso artículo escrito por el secretario del Partido Zheijiang Li Zemin en el que se revelan comentarios el año anterior de Chen Yun quien se mantenía recluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even as Li Peng was seeking to define and defend a policy that would recentralize the economy and reimpose a significant degree of planning, economic trends were revealing just how wrong such conservative views of the economy were.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T174454Z" creationid="Usuario" creationdate="20160930T174454Z">
+        <seg>Aunque Li Peng buscaba definir y defender una política que re-centralizaría la economía y volvería a imponer un grado significativo de planificación, las tendencias económicas revelaban cuán incorrectas eran estas visiones conservadoras de la economía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11032,6 +11072,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 1990, profits of in-budget state firms fell 57 percent.70 At the same time, inventory stocks shot up, enterprise losses jumped 89 percent over the same period the previous year, and the retail sales of commodities fell 1.9 &lt;t1/&gt;percent.71 Difficulties in the state-owned sector would force the government to pump an additional 270 billion yuan of loans into that sector in 1990 on top of the 126 billion yuan of loans issued in the fourth quarter of 1989.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T180004Z" creationid="Usuario" creationdate="20160930T180004Z">
+        <seg>En 1990, la ganancia de las empresas con presupuestos estatales cayeron un 57 por ciento70. Simultáneamente, los inventarios se dispararon, las pérdidas de las empresas aumentaron 89 por ciento durante el mismo período el año pasado, y las ventas de mercancías al por menor cayeron 1,9 por ciento71. Problemas en el sector público forzarían al gobierno a invertir unos 270 mil millones de yuanes más en préstamos para este sector en 1990 encima de los 126 mil millones de yuanes en préstamos ya otorgados en el último cuarto del año 198972.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1991, Hu came to Yale as a visiting scholar and met Wang Shaoguang.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160917T224557Z">
@@ -11233,6 +11281,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In May and June of 1990, some leaders solicited input from economists by raising the question of whether or not China’s economy had come out of the economic trough.73 This call stirred a new round of economic debate, and that summer the Economic Situation Group of the Chinese Academy of Social Sciences, headed by Liu Guoguang, proposed that the “weight” of reform be increased.74 This proposal by no means rejected the austerity program adopted in 1988 (indeed, Liu had been one of the authors of that program), but it did emphasize that improvement and rectification were intended to bring about an atmosphere for a market-oriented reform rather than a reinstitution of the planned economy</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T180141Z" creationid="Usuario" creationdate="20160930T180141Z">
+        <seg>En mayo y junio de 1990, algunos líderes solicitaron aportes de economistas al plantear la pregunta de que si la economía de China había logrado salir o no del bache económico73. Este pedido avivó una nueva ronda de debate sobre economía, y ese verano el Grupo de Situación Económica de la Academia China de Ciencias Sociales, encabezado por Liu Guoguang, propuso un incremento en el número de reformas74. Esta propuesta no rechazaba en absoluto el programa de ajuste adoptado en 1988 (de hecho, Liu había sido uno de los autores de ese programa), pero remarcó que mejora y rectificación estaba diseñado para generar una atmósfera para una reforma orientada al mercado y no para la restauración de la economía planificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In November 1989, Chen Yun’s economic thought was restored as orthodoxy by the Fifth Plenary Session of the Thirteenth Central Committee.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160930T142207Z">
@@ -11243,7 +11299,7 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In September, Li asked in a sharply worded interview with the PRC-owned Hong Kong paper Ta kung pao: “Why do we always have to go to excess?” Berating conservative ideologues, Li said that “[w]e must not use dogmatic and rigid methods to criticize bourgeois liberalization.”47</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T140349Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T183030Z">
         <seg> En septiembre, Li preguntó en términos incisivos en una entrevista con el diario Ta Kung Pao de Hong Kong del Partido Comunista de China: “¿Por qué siempre tenemos que ser tan excesivos?”. Regañando las ideologías conservadoras, Li dijo que “No debemos utilizar métodos dogmáticos y rígidos para criticar la liberalización burguesa”47.</seg>
       </tuv>
     </tu>
@@ -11574,6 +11630,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160930T153715Z" creationid="Magui" creationdate="20160930T153715Z">
         <seg>A diferencia de los neoestatistas, los neoizquierdistas se preocupaban por la institucionalización "prematura", el esclarecimiento de los derechos de la propiedad, las relaciones de poder escondidas detrás de relaciones capitalistas, y la integración de la economía de China en la economía internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In contrast, this new discussion was intended to justify integration on the basis of planning.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T174412Z" creationid="Usuario" creationdate="20160930T174412Z">
+        <seg>Este nuevo debate, en cambio, intentaba justificar la integración sobre la base de la planificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15338,6 +15402,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meanwhile, the profitability of large state firms – the very sector that conservative policies had been designed to shore up – was collapsing.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T175948Z" creationid="Usuario" creationdate="20160930T175948Z">
+        <seg> Mientras tanto, la rentabilidad de grandes empresas estatales, sector que se esperaba que fuese beneficiado por las políticas conservadoras, estaba colapsando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meanwhile, urban layoffs have created an underclass of some 30 million urban poor – a problem China has never faced before.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160930T182941Z">
@@ -17149,8 +17221,16 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>P1: SJT 9780521866934c01 CUUK1178/Fewsmith 9780521866934 June 9, 2008 19:13 42 China since Tiananmen In fact, most economic commentaries carried by the People’s Daily and Enlightenment Daily in those early months were by unknown reporters or economists.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150946Z" creationid="Usuario" creationdate="20160929T150946Z">
-        <seg>P1: SJT 9780521866934c01 CUUK1178/Fewsmith 9780521866934 June 9, 2008 19:13 42 China since Tiananmen En realidad, la mayoría de los comentarios sobre economía presentados por los diarios People's Daily y Enlightenment Daily en esos primeros meses habían sido realizados por periodistas o economistas desconocidos.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T173051Z" creationid="Usuario" creationdate="20160929T150946Z">
+        <seg>En realidad, la mayoría de los comentarios sobre economía presentados por los diarios People's Daily y Enlightenment Daily en esos primeros meses habían sido realizados por periodistas o economistas desconocidos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P1: SJT 9780521866934c01 CUUK1178/Fewsmith 9780521866934 June 9, 2008 19:13 The conservative critique of reform 43 dramatic turnaround.69 Even calculating on a year-to-year basis, inflation in the first half of 1990 was only 3.2 percent, making it apparent to everyone that the urgency behind the retrenchment policies had passed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T175910Z" creationid="Usuario" creationdate="20160930T175910Z">
+        <seg>Aun así, calculándola sobre una base anual, la inflación en la primer mitad del año 1990 era sólo de 3,2 por ciento, y ponía en evidencia a todo el mundo que ya no era necesaria la aplicación de políticas restrictivas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18631,8 +18711,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Since that time, the Fifth Plenum decision declared, economic policy had ignored China’s “national strength,” allowed aggregate demand to “far, far” exceed aggregate supply, permitted the balance between industry and agriculture to be thrown off, ignored basic industries, and overly dispersed financial resources, thus eroding the state’s ability to exercise macroeconomic control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T143235Z">
-        <seg>Desde ese momento, la decisión del Quinto Pleno declaró que la política económica había ignorado el "potencial nacional" de China,lo que permitió una demanda agregada que exedía "exageradamente" la oferta agregada,y a su vez  permitió que el balance entre la industria y la agricultura sea dejado de lado, también ignoró las industrias básicas y dispersó los recursos financieros abiertamente y como consecuencia provocó el un deterioro en la habilidad del estado para ejercer un control macroeconómico.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T180152Z">
+        <seg>Desde ese momento, la decisión del Quinto Pleno estableció que la política económica había ignorado el “potencial nacional” de China, permitió que la demanda total exceda “exageradamente” la oferta total, permitió que el balance entre la industria y la agricultura se desestabilizara, ignoró las industrias básicas y dispersó abiertamente los recursos financieros, lo que provocó un deterioro en el poder del estado para ejercer un control macroeconómico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21456,6 +21536,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The previous two rounds of discussion, however, had been inaugurated in the wake of economic difficulties in 1959 and 1979 and were meant to justify an expansion of market forces.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T174357Z" creationid="Usuario" creationdate="20160930T174357Z">
+        <seg>Sin embargo, las dos rondas de debate previas habían sido iniciadas tras las dificultades económicas de 1959 y 1979, y estaban destinadas a justificar una expansión de las fuerzas del mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The problem is that under the auspices of neoconservatism, when neither press nor a popular electorate could check the implementation of reform, powerful interests grew up.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T004341Z">
@@ -21932,8 +22020,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>The unraveling of communism in Eastern Europe would make Deng’s position even more difficult as the dangers of “peaceful evolution” were brought home vividly to China’s leaders, Deng included.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135645Z">
-        <seg>El desmoronamiento del comunismo en Europa del Este haría que la posición de Deng fuera aun más difícil tal como los riesgos de la “revolución pacífica” se lo habían dejado en claro a los líderes de China, incluido Deng.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T181049Z">
+        <seg>El desmoronamiento del comunismo en Europa del Este haría que la posición de Deng fuera aun más difícil tal como los riesgos de la "Revolución Pacífica” se lo habían dejado en claro a los líderes de China, incluido Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23302,6 +23390,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160922T211457Z">
         <seg>&lt;t0/&gt;Sin embargo, este gran apoyo no significaba que no existieran tensiones. Tal como se menciona anteriormente, la sombra de Jiang se extendía a lo largo del escenario político como se refleja en las fotografías del político en el People’s Daily: las imágenes de Jiang tenían por lo general un lugar central y se cortaban del mismo tamaño que las imágenes de Hu Jintao cuando aparecían ambos líderes. &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;&lt;t42/&gt; &lt;t43/&gt;&lt;t44/&gt; &lt;t45/&gt;&lt;t46/&gt; &lt;t47/&gt;&lt;t48/&gt; &lt;t49/&gt;&lt;t50/&gt; &lt;t51/&gt; &lt;t52/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This trend continued the following spring with Li Peng’s address to the NPC in March 1990.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T174319Z" creationid="Usuario" creationdate="20160930T174319Z">
+        <seg>Esta misma tendencia continuó la primavera siguiente con el discurso de Li Peng en la APN en marzo de 1990.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26809,8 +26905,10 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>renewed debate over the direction of the economy In the weeks and months after Tiananmen, there was virtually no debate over the course of the economy – at least not in the major newspapers.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T150918Z" creationid="Usuario" creationdate="20160929T150812Z">
-        <seg>Nuevo debate sobre el rumbo de la economía durante semanas y meses después de Tiananmén, no existía casi ningún debate sobre el rumbo de la economía; al menos no en los principales diarios.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T172659Z" creationid="Usuario" creationdate="20160929T150812Z">
+        <seg>
+NUEVO DEBATE SOBRE EL RUMBO DE LA ECONOMÍA.
+Durante semanas y meses después de Tiananmén, no existía casi ningún debate sobre el rumbo de la economía; al menos no en los principales diarios.</seg>
       </tuv>
     </tu>
     <tu>
