@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10940,8 +10940,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In contrast to the emphasis on slow and steady economic &lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;growth that had dominated press coverage in recent months, the &lt;/f7&gt;&lt;f8&gt;People’s Daily &lt;/f8&gt;&lt;f9&gt;now declared that “the fundamental point for upholding &lt;/f9&gt;&lt;f10&gt;socialism&lt;/f10&gt;&lt;f11&gt; is developing the economy as fast as possible.”&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;The editorial made clear its criticism of “&lt;/f13&gt;&lt;f14&gt;leftists&lt;/f14&gt;&lt;f15&gt;” within the Party by pointing out the “catastrophes” caused in the past by “taking class struggle as the key link.” Two days later, a second editorial urged people to “be more daring in carrying out reform” and cited the Dengist &lt;/f15&gt;&lt;f16&gt;dictum&lt;/f16&gt;&lt;f17&gt;, “Practice is the sole criterion of truth.”&lt;/f17&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T020011Z">
-        <seg>Contrariamente al énfasis en el crecimiento económico lento y constante&lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;que había dominado la cobertura de los medios de comunicación en los últimos meses el &lt;/f7&gt;&lt;f8&gt;People’s Daily &lt;/f8&gt;&lt;f9&gt;ahora afirmaba que “la clave fundamental para defender el  &lt;/f9&gt;&lt;f10&gt;socialismo&lt;/f10&gt;&lt;f11&gt;es desarrollar la economía tan rápido como sea posible”. &lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Esta nota editorial puso en evidencia su crítica a los“&lt;/f13&gt;&lt;f14&gt;izquierdistas&lt;/f14&gt;&lt;f15&gt;”&lt;/f15&gt;&lt;f16&gt;” en el seno del Partido al señalar las “catástrofes” ocurridas en el pasado por “tomar a la lucha de clases como el eslabón clave.” Dos días después, una segunda nota editorial abogó por que las personas “sean más más audaces para llevar a cabo la reforma” y citó la sentencia &lt;/f16&gt;&lt;f17&gt;de Deng, “la práctica es el único criterio de la verdad”.&lt;/f17&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T125450Z">
+        <seg>Contrariamente al énfasis en el crecimiento económico lento y constante&lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;que había dominado la cobertura de los medios de comunicación en los últimos meses el &lt;/f7&gt;&lt;f8&gt;People’s Daily &lt;/f8&gt;&lt;f9&gt;ahora afirmaba que “la clave fundamental para defender el  &lt;/f9&gt;&lt;f10&gt;socialismo&lt;/f10&gt;&lt;f11&gt;es desarrollar la economía tan rápido como sea posible”. &lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Esta nota editorial puso en evidencia su crítica a los“&lt;/f13&gt;&lt;f14&gt;izquierdistas&lt;/f14&gt;&lt;f15&gt;”&lt;/f15&gt;&lt;f16&gt;” en el seno del Partido al señalar las “catástrofes” ocurridas en el pasado por “tomar a la lucha de clases como el eslabón clave.” Dos días después, una segunda nota editorial abogó por que las personas “sean más audaces para llevar a cabo la reforma” y citó la sentencia &lt;/f16&gt;&lt;f17&gt;de Deng: “la práctica es el único criterio de la verdad”.&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15701,8 +15701,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On February 22, it published an authoritative &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt;ditorial&lt;/f4&gt;&lt;f5&gt;, apparently reflecting the Politburo meeting ten days earlier, that called for strengthening reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160905T015348Z">
-        <seg>El 22 de febrero, el periódico publicó una nota &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt;ditorial&lt;/f4&gt;&lt;f5&gt;, acreditada que, al parecer reflejaba la reunión del Politburó realizada diez días antes.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T125504Z">
+        <seg>El 22 de febrero, el periódico publicó una nota &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt;ditorial&lt;/f4&gt;&lt;f5&gt;,acreditada que, al parecer reflejaba la reunión del Politburó que se había realizado diez días antes.</seg>
       </tuv>
     </tu>
     <tu>
