@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12559,8 +12559,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It had been widely predicted that at least one or two of Hu Jintao’s close allies from his CYL days, such as Li Keqiang or Li Yuanchao, would be promoted to the Politburo both to support the new general secretary and as possible candidates to replace Hu in 2011 at the Eighteenth Party Congress (assuming Hu will serve two terms).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T182657Z" creationid="andrea" creationdate="20160928T182657Z">
-        <seg>Había sido abiertamente predicho que al menos uno o dos de los aliados más cercanos de Hu Jintao de sus días LJC, como Li Keqiang o Li Yuanchao, serían promovidos al Politburó para apoyar al nuevo secretario general y como posibles candidatos para reemplazar a Hu en 2011 en el Décimoctavo Congreso del Partido (presuponiendo que Hu desempeñará dos mandatos).</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T131934Z" creationid="andrea" creationdate="20160928T182657Z">
+        <seg>Se predijo de manera amplia que al menos uno o dos de los aliados más cercanos de Hu Jintao de sus días LJC, como Li Keqiang o Li Yuanchao, serían promovidos al Politburó para apoyar al nuevo secretario general y como posibles candidatos para reemplazar a Hu en 2011 en el Décimo Octavo Congreso del Partido (presuponiendo que Hu desempeñará dos mandatos).</seg>
       </tuv>
     </tu>
     <tu>
