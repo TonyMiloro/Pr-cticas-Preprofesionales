@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10747,8 +10747,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In May 1991, the elder Chen was back in the public eye with a rare televised report of Chen meeting with Shanghai leaders.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T150252Z">
-        <seg>En mayo de 1991, el mayor de los Chen recobró notoriedad con un extraño reporte televisado del encuentro de Chen con los líderes de Shanghai.i</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T151447Z">
+        <seg>En mayo de 1991, el mayor de los Chen recobró notoriedad con un extraño reporte televisado del encuentro de Chen con los líderes de Shanghai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13786,8 +13786,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Lambasting the decline in central authority that had resulted from a decade and more of devolving economic power, Chen called for a “new centralization” to deal with the emergence of “feudal lords” and “this disintegration of macrocontrol.”28</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T162843Z">
-        <seg>Censurando con dureza la caída de la autoridad central que había resultado de más de una década de delegamiento del poder económico, Chen llamó a una "nueva centralización" para resolver la emergencia de los "señores feudales" y "la desintegración del macrocontrol". </seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T151432Z">
+        <seg>Censurando con dureza la caída de la autoridad central que había resultado de más de una década de delegamiento del poder económico, Chen llamó a una ”nueva centralización” para resolver la emergencia de los ”señores feudales” y ”la desintegración del macrocontrol”. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22758,8 +22758,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, Chen was quoted as saying, “[a]s leading cadres, we must pay attention to exchanging views with others, especially those who hold views opposite from our own.”27</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T145924Z">
-        <seg>Por eso se citó a Chen diciendo, "como principal cuadro, debemos prestar atención al intercambio de opiniones con otros, en especial a aquellos que no piensan igual que nosotros".d</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T151237Z">
+        <seg>Por eso se citó a Chen diciendo, "como principal cuadro, debemos prestar atención al intercambio de opiniones con otros, en especial a aquellos que no piensan igual que nosotros".</seg>
       </tuv>
     </tu>
     <tu>
