@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3099,8 +3099,8 @@
       <tuv lang="EN-US">
         <seg>A decade or so later, &lt;t2/&gt;there were at least one million households with annual incomes exceeding one million yuan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T134521Z">
-        <seg>Una década después más o menos, &lt;t2/&gt; había por le menos un millón de familias con ingresos anuales que superaban el millón de yuanes.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213759Z">
+        <seg>Aproximadamente una década después, &lt;t2/&gt; había por lo menos un millón de familias con ingresos anuales que superaban el millón de yuanes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8958,6 +8958,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feeling that the assault on China’s policy of opening to the outside could not go unrefuted, economic reformers – including Zhu Rongji – urged People’s Daily to issue an authoritative rebuttal.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213202Z" creationid="PC" creationdate="20160930T213202Z">
+        <seg>Con el sentimiento de que la agresión a la política china de abrirse al exterior no podía dejar de ser refutada, reformadores de economía, incluyendo a Zhu Rongji, exhortaron al People’s Daily a publicar una refutación oficial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feng mockingly derided &lt;/f19&gt;&lt;f20&gt;Heart-to-Heart&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;T&lt;/f22&gt;&lt;f23&gt;alks&lt;/f23&gt;&lt;f24&gt;,&lt;/f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;saying&lt;/f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;f28&gt;that&lt;/f28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;the&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;authors’&lt;/f32&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;desire&lt;/f34&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;to&lt;/f36&gt;&lt;f37&gt; “&lt;/f37&gt;&lt;f38&gt;modern- ize&lt;/f38&gt;&lt;f39&gt;” &lt;/f39&gt;&lt;f40&gt;Marxism meant diluting it as an ideological weapon for directing class struggle and also meant turning Marxism into nothing more substantive&lt;/f40&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;than&lt;/f42&gt;&lt;f43&gt; &lt;/f43&gt;&lt;f44&gt;a&lt;/f44&gt;&lt;f45&gt; &lt;/f45&gt;&lt;f46&gt;new&lt;/f46&gt;&lt;f47&gt; &lt;/f47&gt;&lt;f48&gt;version&lt;/f48&gt;&lt;f49&gt; &lt;/f49&gt;&lt;f50&gt;of&lt;/f50&gt;&lt;f51&gt; &lt;/f51&gt;&lt;f52&gt;Chiang&lt;/f52&gt;&lt;f53&gt; &lt;/f53&gt;&lt;f54&gt;Kai-shek’s&lt;/f54&gt;&lt;f55&gt; &lt;/f55&gt;&lt;f56&gt;“New&lt;/f56&gt;&lt;f57&gt; &lt;/f57&gt;&lt;f58&gt;Life&lt;/f58&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;Movement”&lt;/f60&gt;&lt;f61&gt; &lt;/f61&gt;&lt;f62&gt;– the vapid conservative movement Chiang had sponsored in the &lt;/f62&gt;&lt;f63&gt;1930&lt;/f63&gt;&lt;f64&gt;s in an attempt to instill a diluted Confucian morality.&lt;/f64&gt;&lt;a65&gt;&lt;f66&gt;75&lt;/f66&gt;&lt;/a65&gt;&lt;f67&gt;Feng also criticized&lt;/f67&gt;&lt;f68&gt; &lt;/f68&gt;&lt;f69&gt;Heart-to-Heart&lt;/f69&gt;&lt;f70&gt; &lt;/f70&gt;&lt;f71&gt;T&lt;/f71&gt;&lt;f72&gt;alks&lt;/f72&gt;&lt;f73&gt; &lt;/f73&gt;&lt;f74&gt;for&lt;/f74&gt;&lt;f75&gt; &lt;/f75&gt;&lt;f76&gt;putting&lt;/f76&gt;&lt;f77&gt; &lt;/f77&gt;&lt;f78&gt;out&lt;/f78&gt;&lt;f79&gt; &lt;/f79&gt;&lt;f80&gt;a&lt;/f80&gt;&lt;f81&gt; &lt;/f81&gt;&lt;f82&gt;“revisionist”&lt;/f82&gt;&lt;f83&gt; &lt;/f83&gt;&lt;f84&gt;interpretation of Deng Xiaoping’s thinking (diluting Deng’s admonition that socialism means “eliminating exploitation and avoiding polarization”), for arguing that individualism is compatible with Marxism, for desiring to mix Chinese culture with Western culture, and for advocating greater integration into the world economy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160928T204125Z" creationid="marcelo lavarda" creationdate="20160928T201657Z">
@@ -10485,6 +10493,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160930T185742Z">
         <seg>¿cuánto nos queda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How much longer can Chinese-produced beer last?” The articles in Economic Daily were undertaken at the paper’s own initiative but with the intention of appealing to Li Peng, who headed the State Council to which the paper was subordinate.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213129Z" creationid="PC" creationdate="20160930T213129Z">
+        <seg>¿Cuánto tiempo más puede durar la fabricación de cerveza china?”. Los artículos en el Economic Daily comenzaron a raíz de la iniciativa propia del diario pero con la intención de atraer a Li Peng, quien dirigía el Consejo de Estado al cual el diario estaba subordinado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12773,8 +12789,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the mid-1980s, there was fevered talk in the Chinese press, which turned out to be exaggerated, of the emergence of “ten-thousand-yuan households” (wanyuanhu) – an almost unimaginable amount of income in a period in which the average rural resident earned only about 350 yuan per year.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T143631Z">
-        <seg>A mediados de 1980 se habló mucho en la prensa china, aunque terminó siendo exagerado, acerca del surgimiento de familias con ingresos de 10 millones de yuanes (wanyuanhu): un ingreso casi inimaginable en un período en el que un residente rural promedio ganaba solamente al rededor de 350 yuanes por día.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213656Z">
+        <seg>A mediados de la década de los 80 se habló mucho en la prensa china, aunque terminó siendo exagerado, acerca del surgimiento de familias con ingresos de 10 millones de yuanes (wanyuanhu): un ingreso casi inimaginable en un período en el que un residente rural promedio ganaba solamente al rededor de 350 yuanes por día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16573,8 +16589,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, the new middle class, including the much more prosperous nouveau riche, drove the new consumerism of the 1990s and so changed the nature and role of culture in Chinese society by commercializing it and diversifying it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T133113Z">
-        <seg>No obstante, la nueva clase media, incluyendo la "nouveau riche" que era más próspera, impulsó el nuevo consumerismo de 1990 y, por lo tanto, cambió la naturaleza y rol de la cultura en la sociedad china ya que comenzó a comercializarla y diversificarla.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213857Z">
+        <seg>No obstante, la nueva clase media, la cual incluía a la nouveau riche que era más próspera, impulsó el nuevo consumismo de 1990 y, por lo tanto, cambió la naturaleza y rol de la cultura en la sociedad china ya que comenzó a comercializarla y diversificarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17720,6 +17736,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160928T133801Z">
         <seg>Solo dos, Li Peng and Yao Yilin, apoyaban la decisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening up to the outside world was good, the commentator said, “but looking across the various countries of the world, [we see] that opening up definitely cannot be without certain principles and certain limits.” It is important to “pay attention to protecting national industries.” As an accompanying report on joint ventures in China’s beer industry asked, “Must Chinese beer [companies] form so many joint ventures?</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213051Z" creationid="PC" creationdate="20160930T213051Z">
+        <seg>Abrirse al resto del mundo fue positivo, expresó el comentarista, “pero al observar los diversos países del mundo, [consideramos] que esa apertura definitivamente no puede realizarse sin ciertos principios y ciertos límites”. Es importante “prestar atención a la protección de las industrias nacionales”40. Un informe adjunto sobre las joint ventures en la industria cervecera en China cuestionó: ¿Deberían las [compañías] cerveceras chinas formar tantas joint ventures?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21275,6 +21299,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dispute in the pages of these two leading dailies clearly reflected the intersection of ideological concerns (as expressed in the various “10,000 character” manifestos and other documents), societal concerns (as expressed by the economic nationalism of various enterprises), and elite politics (as reflected in the differing opinions of the two papers).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213512Z" creationid="PC" creationdate="20160930T213512Z">
+        <seg>La disputa en las páginas de estos dos diarios principales reflejó claramente la intersección de cuestiones ideológicas (expresado en los diferentes manifiestos de “10 000 caracteres” y otros documentos), preocupaciones sociales (expresadas a través del nacionalismo económico de distintas empresas) y la política de élite (reflejada en las opiniones diferentes de los dos diarios).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The division between the PBSC, headed by Zhao Ziyang, and the CMC, headed by Deng, had contributed to the tragedy of Tiananmen.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160930T131547Z" creationid="andrea" creationdate="20160928T181633Z">
@@ -21759,8 +21791,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The incident further confirmed the economic and social bases of contemporary Chinese nationalism and the differing responses of the Chinese leadership to international economic forces and the social changes in China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T143604Z">
-        <seg>El incidente además confirmó las bases económicas y sociales del nacionalismo contemporáneo chino y las diferentes respuestas de los líderes de China a las fuerzas económicas internacionales y los cambios sociales en China.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213557Z">
+        <seg>El incidente además confirmó las bases económicas y sociales del nacionalismo contemporáneo chino y las diferentes respuestas del liderazgo chino a las fuerzas económicas internacionales y los cambios sociales en China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22118,6 +22150,14 @@ a long and detailed report to the Standing Committee of the National People’s 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The obvious – and unusual – public disagreement between Economic Daily and People’s Daily suggests high-level leadership disputes regarding the issue of foreign capital, disputes that would burst into public view three years later when the Chinese leadership finally decided to make the commitments necessary to reach agreement with the United States and other trading partners over China’s accession to the World Trade Organization (see Chapter 7).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213433Z" creationid="PC" creationdate="20160930T213433Z">
+        <seg>El desacuerdo público obvio, e inusual, entre el Economic Daily y el People’s Daily implica disputas de un alto nivel de liderazgo sobre el problema del capital extranjero; disputas que estallarían en la opinión pública tres años más tarde cuando el liderazgo chino finalmente haya decidido hacer los compromisos necesarios para lograr un acuerdo con Estados Unidos y con otros socios comerciales sobre la adhesión de China a la Organización Mundial del Comercio (véase capítulo 7).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The opposite trend of thought (the “right”) is liberalism.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T222409Z">
@@ -22178,6 +22218,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160927T154851Z">
         <seg>El extraordinario crecimiento de internet facilitó en gran parte esta &lt;s0/&gt;internacionalización del discurso chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The placement of the People’s Daily commentary in the upper left-hand “lead article” space of the front page, endorsed by an “editor’s note,” conveyed the sense of importance that People’s Daily attached to this rebuttal.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213319Z" creationid="PC" creationdate="20160930T213319Z">
+        <seg>El comentario, avalado por una “nota del editor”, se encontraba en la parte superior izquierda donde se ubica el “artículo principal” en la primera página, lo cual expresaba la importancia que el People’s Daily le atribuía a esta refutación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22552,8 +22600,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The seamy side of this story is that those who did the best in this new economy – and some did very well indeed – almost always seemed to have strong political connections.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160913T135535Z">
-        <seg>La parte escandalosa de la historia es que a los que les fue bien con esta nueva economía (y a algunos les fue muy bien de verdad) casi siempre parecían tener fuertes conexiones políticas.</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213938Z">
+        <seg>La parte escandalosa de la historia es que a aquellas personas a las que le fue bien con esta nueva economía (y a algunas les fue muy bien de verdad) casi siempre parecían tener fuertes conexiones políticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23306,8 +23354,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These dramatic socioeconomic changes have had the effect of producing a nouveau riche class.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucrecia" changedate="20160929T140044Z">
-        <seg>Estos cambios  socioeconómicos dramáticos han producido una clase social llamada "nouveau riche" (nuevos ricos).</seg>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213626Z">
+        <seg>Estos cambios  socioeconómicos dramáticos han producido una clase social llamada nouveau riche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24735,6 +24783,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160930T190302Z" creationid="joaquin" creationdate="20160928T100715Z">
         <seg>Es por esto que los liberales generalmente hablan en términos de “izquierda” y “derecha” o “conservadores” y “reformadores”, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, on July 16, about a month after Economic Daily launched its series of columns, People’sDaily published a major commentary implicitly refuting the series.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T213252Z" creationid="PC" creationdate="20160930T213252Z">
+        <seg>De este modo, el 16 de julio, alrededor de un mes después de que el Economic Daily lanzara la serie de columnas, el diario People’s Daily publicó un gran comentario que las refutaba implícitamente.</seg>
       </tuv>
     </tu>
     <tu>
