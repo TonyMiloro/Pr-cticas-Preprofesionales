@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17213,8 +17213,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On October 23, the People’s Daily published a hard-hitting article by leftist ideologue Deng &lt;t0/&gt;Liqun&lt;t1/&gt;, entitled “Have a Correct Understanding of Contradictions in Socialist Society, Take the Initiative in Grasping and Handling Contradictions.” In stark contrast to Yang &lt;t2/&gt;Shangkun’s&lt;t3/&gt; speech two weeks earlier, Deng declared that class struggle was more acute than at any time since the founding of the PRC.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T003340Z" creationid="Luisina" creationdate="20160930T003205Z">
-        <seg>El 23 de octubre, el People's Daily publicó un duro artículo por Deng&lt;t0/&gt;Liqun&lt;t1/&gt; (de ideología izquierdista), que se titulaba "Tenga un Correcto entendimiento de las contradicciones en la sociedad socialista, tome la iniciativa en contradicciones avaras y manipuladas".  </seg>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T003524Z" creationid="Luisina" creationdate="20160930T003205Z">
+        <seg>El 23 de octubre, el People's Daily publicó un duro artículo por Deng&lt;t0/&gt;Liqun&lt;t1/&gt; (de ideología izquierdista), que se titulaba "Tenga un Correcto entendimiento de las contradicciones en la sociedad socialista, tome la iniciativa en contradicciones avaras y manipuladas".  En un duro contraste con el discurso de Yang&lt;t3/&gt;Shangkun&lt;t2/&gt; de dos semanas antes, Deng declaró que la lucha de clases era la más profunda desde la fundación de la República </seg>
       </tuv>
     </tu>
     <tu>
