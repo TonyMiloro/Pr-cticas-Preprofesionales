@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10370,8 +10370,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, unlike the discourse that grew up in the late 1980s whose participants came to confront the government, many intellectuals in the 1990s found themselves implicitly or explicitly more supportive of the government than they or their counterparts had been only a few years before.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T192357Z">
-        <seg>Sin embargo, a diferencia del discurso que se dió a conocer a finales de los 80 y cuyos participantes llegaron para confrontar al gobierno, muchos intelectuales se mostraron de manera implícita o explícita más a favor del gobierno de lo que ellos o sus pares hubiesen estado hace apenas unos años. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T192434Z">
+        <seg>Sin embargo, a diferencia del discurso que se dió a conocer a finales de los 80 y cuyos participantes llegaron para enfrentarse al gobierno, muchos intelectuales se mostraron de manera implícita o explícita más a favor del gobierno de lo que ellos o sus pares hubiesen estado hace apenas unos años. </seg>
       </tuv>
     </tu>
     <tu>
