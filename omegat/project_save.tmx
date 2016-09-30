@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24781,8 +24781,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This, combined with Jiang’s call to reduce military staffing by 500,000 – with 100,000 to be shorn from the officer corps – marked a clear effort to make China’s military smaller, better equipped, more pro&lt;t1/&gt;fessional, and less political.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T222327Z" creationid="Cami" creationdate="20160929T222327Z">
-        <seg>Esto, en conjunto con la demanda de Jiang para reducir la dotación del personal militar a 500 000 (100 000 del cuerpo de oficiales) constituyó un esfuerzo evidente para que China sea un país menos militar, mejor equipado, más profesional &lt;t1/&gt;y menos político..</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T024359Z" creationid="Cami" creationdate="20160929T222327Z">
+        <seg>Esto, junto con la demanda de Jiang para reducir la dotación del personal militar a 500 000 (100 000 del cuerpo de oficiales), constituyó un esfuerzo evidente para que China sea un país menos militar, mejor equipado, más profesional &lt;t1/&gt;y menos político..</seg>
       </tuv>
     </tu>
     <tu>
