@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5519,7 +5519,7 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       <tuv lang="EN-US">
         <seg>At least in some readings of history, Mao had done the same thing in his battles against “rightist opportunism” (represented by Chen Duxiu) and “leftism” (represented by Wang Ming).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T050509Z" creationid="Usuario" creationdate="20160930T050509Z">
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T120330Z" creationid="Usuario" creationdate="20160930T050509Z">
         <seg>Al menos, en algunas lecturas de historia, Mao había hecho la misma cosa en las batallas en contra del “oportunismo de derecha” (representado por Chen Duxiu) e “izquierdista” (representado por Wang Ming). </seg>
       </tuv>
     </tu>
@@ -6717,6 +6717,14 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CARVING OUT A MIDDLE PATH</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T120352Z" creationid="Usuario" creationdate="20160930T120352Z">
+        <seg>BUSCANDO UN CAMINO INTERMEDIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAS Chinese Academy of Sciences</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160928T200858Z">
@@ -6887,8 +6895,8 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       <tuv lang="EN-US">
         <seg>Can we afford not to pay attention to politics, or can we afford to lower our guard and stop fighting when hostile forces in the West want to “Westernize” (xihua) and “divide” (fenhua) us, and impose their “democracy” and “freedom” on us; and when Lee Teng-hui is bent on promoting “Taiwan independence.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T045738Z" creationid="Usuario" creationdate="20160930T045729Z">
-        <seg>podemos permitirnos no prestarle atención a la política, o podemos bajar nuestra guardia y dejar de luchar cuando fuerzas hostiles en el Occidente quieren “occidentalizarnos” (xihua) y “dividirnos” (fenhua), e imponernos su “democracia” y su “libertad”; y cuando Lee Teng-hui está empeñado en promover la “independencia de Taiwán”.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T120435Z" creationid="Usuario" creationdate="20160930T045729Z">
+        <seg>Podemos permitirnos no prestarle atención a la política, o podemos bajar nuestra guardia y dejar de luchar cuando fuerzas hostiles en el Occidente quieren “occidentalizarnos” (xihua) y “dividirnos” (fenhua), e imponernos su “democracia” y su “libertad”; y cuando Lee Teng-hui está empeñado en promover la “independencia de Taiwán”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24821,10 +24829,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This frank statement suggests the difficulty Jiang Zemin was having in securing the compliance of many of his colleagues as well as Jiang’s need to play the nationalistic card in his warnings of foreign (primarily American) efforts to “Westernize” and “divide” China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T045824Z" creationid="Usuario" creationdate="20160930T045824Z">
-        <seg>Esta declaración franca siguiere la dificultad que Jiang Zemin tenía en asegurar el cumplimiento de muchos de sus colegas, así como la necesidad de Jiang de jugar la carta nacionalista en su advertencia sobre los esfuerzos extranjeros (fundamentalmente americanos) para “occidentalizar” y “dividir” a China.
-
-</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T120522Z" creationid="Usuario" creationdate="20160930T045824Z">
+        <seg>Esta declaración franca siguiere la dificultad que Jiang Zemin tenía en asegurar el cumplimiento de muchos de sus colegas, así como la necesidad de Jiang de jugar la carta nacionalista en su advertencia sobre los esfuerzos extranjeros (fundamentalmente americanos) para “occidentalizar” y “dividir” a China.</seg>
       </tuv>
     </tu>
     <tu>
