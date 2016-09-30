@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1700,6 +1700,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131748Z" creationid="Daniel-Andrea" creationdate="20160928T011400Z">
         <seg>&lt;f0&gt;Jiang Zemin, de un solo golpe, tomó medidas contra los líderes más afianzados del país, apostó por el apoyo popular en la campaña&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;anticorrupción y atentó contra las personas más poderosas que podrían oponerse a él en el futuro, incluida la familia de Deng y uno de los miembros veteranos del partido, Wan Li (Wan había sido colaborador durante mucho tiempo de Shougang y, como ex vicealcalde de Pekín, tenía una estrecha relación con los líderes de la ciudad).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In contrast to such old conservatives who argued for centralization and against marketization, Hu and Wang argued in favor of centralization&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;and&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;marketization.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T023321Z" creationid="Sofi" creationdate="20160930T023321Z">
+        <seg>A diferencia de los conservadores de antes que estaban a favor de la centralización y en contra de la mercantilización, Hu y Wang estaban a favor de la centralización y la mercantilización.</seg>
       </tuv>
     </tu>
     <tu>
