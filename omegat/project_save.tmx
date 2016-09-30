@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -945,8 +945,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;In &lt;s3/&gt;short, &lt;s4/&gt;Jiang’s &lt;s5/&gt;career &lt;s6/&gt;was &lt;s7/&gt;one &lt;s8/&gt;of &lt;s9/&gt;steady &lt;s10/&gt;promotions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T200450Z">
-        <seg>En poco tiempo, la carrera de Jiang fue en constante ascenso.&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;s3/&gt; &lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T200508Z">
+        <seg>En resumen, la carrera de Jiang fue un constante ascenso.&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;s3/&gt; &lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19635,8 +19635,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>That he was able to survive in the Ministry of Machine Building in the 1970s no doubt re&lt;/f20&gt;&lt;/f19&gt;ﬂ&lt;f28&gt;&lt;f29&gt;ects his cautious nature, something that might have cost him further promotion in the &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;reform &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;era if he had not been technically trained and not had the support of patrons such as Wang Daohan.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011519Z">
-        <seg>Su habilidad para sobrevivir en el Ministerio de Construcción de Maquinaria en los años ’70 refleja sin dudas su naturaleza prudente, lo cual le pudo haber costado más ascensos en la era de la reforma si no se hubiera entrenado en el área técnica y no hubiese tenido el respaldo de patrocinadores como Wang Daohan.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T201015Z">
+        <seg>El hecho que haya sobrevivido en el Ministerio de Construcción de Maquinaria en los años 70 refleja, sin duda, su naturaleza prudente, algo que podría haberle costado muchos ascensos en la era de la reforma si no se hubiera preparado en el área técnica y no hubiese tenido el respaldo de patrocinadores como Wang Daohan.&lt;/f20&gt;&lt;/f19&gt;&lt;f28&gt;&lt;f29&gt;&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;</seg>
       </tuv>
     </tu>
     <tu>
