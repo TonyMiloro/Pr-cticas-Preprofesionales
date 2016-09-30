@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4828,8 +4828,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As “Realistic Responses” and the editorial board of Strategy and Management suggested, this was a g&lt;/f16&gt;&lt;f17&gt;roup of youth who were well con&lt;/f17&gt;&lt;f18&gt;nected with higher-ups in the Party but who were also frustrated by what they regarded as the lack of new ideas and forceful leadership of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130949Z" creationid="Lucia Cipolatti" creationdate="20160930T130938Z">
-        <seg>Como sugirió Realistic Responses y el consejo editorial de &lt;t30/&gt;Gestión&lt;t31/&gt; &lt;t32/&gt;y Estrategia&lt;t33/&gt;, este era un grupo &lt;t34/&gt;de jóvenes que estaba en contacto con personas muy influyentes dentro del partido, pero que a su vez se sintieron decepcionados por la falta de nuevas ideas y el liderazgo pujante del partido&lt;t35/&gt;.&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T141735Z" creationid="Lucia Cipolatti" creationdate="20160930T130938Z">
+        <seg>Como sugirió Realistic Responses y el consejo editorial de &lt;t30/&gt;Gestión&lt;t31/&gt; &lt;t32/&gt;y Estrategia&lt;t33/&gt;, este era un grupo &lt;t34/&gt;de jóvenes que estaba en contacto con personas muy influyentes dentro del partido, pero que a su vez se sentían decepcionados por la falta de nuevas ideas y el liderazgo pujante del partido&lt;t35/&gt;.&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
