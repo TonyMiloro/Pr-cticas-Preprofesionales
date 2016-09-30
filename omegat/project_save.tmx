@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19829,6 +19829,14 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T151030Z">
         <seg>Aunque el sistema político fue jerárquico y autoritario, el populismo fue parte de la tradición de CCP.&lt;t6/&gt;72&lt;t7/&gt; Hu Weixi (de la Universidad de Qinghua) impulzó este análisis hacia atrás, y se dio cuenta que el movimiento "national essence" (&lt;t8/&gt;guocui yundong&lt;t9/&gt;), el movimiento anarquista,  y el movimiento de la reconstrucción rural durante la primera mirad del siglo 20 – a pesar de todas su&lt;t10/&gt;s diferencias – compartiero una orientación pop&lt;t11/&gt;ulista.&lt;t12/&gt;73&lt;t13/&gt; A pesar de que se discuta de una manera histórica, sus preocupaciones eran claramente contemporanteas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So the left is not devoid of a certain mass base; to the extent that it can tap into the fears of workers facing layoffs and a decline in their social status, it can extend that mass base to certain sectors of the population.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T040048Z" creationid="Usuario" creationdate="20160930T035952Z">
+        <seg>Por lo tanto, la izquierda no está desprovista de una cierta base de masas; en la medida en que pueda aprovechar los temores de los trabajadores que enfrentan desempleos y una disminución en su estatus social, puede extender esa base de masas a ciertos sectores de la población. </seg>
       </tuv>
     </tu>
     <tu>
