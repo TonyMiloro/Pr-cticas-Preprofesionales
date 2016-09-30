@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58,6 +58,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160908T224648Z">
         <seg>*Murió en febrero de 1993</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.&lt;s12/&gt;&lt;/f10&gt;&lt;f13&gt;we could go from economic&lt;/f13&gt;&lt;f14&gt;&lt;s15/&gt;&lt;/f14&gt;&lt;f16&gt;disintegration to political fragmentation, and, in the end&lt;/f16&gt;&lt;f17&gt;, fall into national disintegration&lt;/f17&gt;&lt;f18&gt;.”&lt;/f18&gt;&lt;f19&gt;9&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T165449Z" creationid="Magui" creationdate="20160930T165449Z">
+        <seg>.&lt;s12/&gt;&lt;/f10&gt;&lt;f13&gt;podríamos ir desde una desintegración económica &lt;/f13&gt;&lt;f14&gt;&lt;s15/&gt;&lt;/f14&gt;&lt;f16&gt;a una fragmentación política y al final &lt;/f16&gt;&lt;f17&gt;caer en una desintegración nacional&lt;/f17&gt;&lt;f18&gt;”&lt;/f18&gt;&lt;f19&gt;9&lt;/f19&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4862,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160923T212942Z">
         <seg>Como bien ellos notaron, históricamente había dos bases para la legitimidad del PCCh: la Revolución de Octubre en Rusia y el "marxismo de las montañas y valles" de Mao Zedong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As they put it: “If we were permitted to take another step here and speculate on the worst case scenario, it seems possible that once the&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;‘political strong man’ at the center (for example, Deng Xiaoping) passes away, a situation like that in Yugoslavia after the death of Tito could take place in China .</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T165307Z" creationid="Magui" creationdate="20160930T165307Z">
+        <seg> Según lo que ellos dijeron: "Si se nos permitiera ir un poco más lejos y especular sobre el peor de los casos, parece posible que una vez que el&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;'hombre fuerte de la política' en el centro muriese (por ejemplo Den Xiaoping), una situación similar a la de Yugoslavia luego de la muerte de Tito podría suceder en China.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14690,6 +14706,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local revenues were not remitted to the central government not only because many were designated as extrabudgetary and thus earmarked for local pur-poses but also because the central&lt;s1/&gt;government did not have tax offices in the localities.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T165549Z" creationid="Magui" creationdate="20160930T165549Z">
+        <seg>Los ingresos locales no se enviaban al gobierno central no solo porque muchos de ellos eran asignados como extrapresupuestarios y por eso eran reservados para asuntos locales, sino también porque también porque el gobierno central no tenía oficinas tributarias en las localidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Looking at China through a Third Eye</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160904T010829Z">
@@ -17520,6 +17544,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T132404Z">
         <seg>Las autoridades provinciales se esforzaron por promover (y ocultar) esos fondos, y no cederían de manera voluntaria sus intereses económicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provincial governments were supposed to pass up part of the revenues they collected, but the localities had an interest in retaining as much revenue as possible, so there was much “slippage” between what was collected and what was remitted.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T165612Z" creationid="Magui" creationdate="20160930T165612Z">
+        <seg>Se suponía que los gobiernos provinciales renunciarían a una parte de los ingresos que obtuviesen, pero las localidades estaban interesadas en retener cuanto más puediesen de esos ingresos, por lo tanto había un "desfase" entre lo que se obtenía y lo que se enviaba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24304,6 +24336,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160923T124501Z">
         <seg>Wang coincidió con Nye en que, con el final de la Guerra Fría, la importancia del "poder duro" disminuyó mientras que la del "poder blando" aumentó, pero esto no hizo del mundo un lugar menos amenazante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang and Hu argued that the relative decline in central state revenues was fundamentally due to the fiscal reforms introduced in the 1980s, reforms that gave localities incentives to build up their local economies but&lt;s0/&gt;not necessarily to pass on increased revenue to the central government.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T165525Z" creationid="Magui" creationdate="20160930T165525Z">
+        <seg>Wang y Hu argumentaron que la disminución relativa de los ingresos del Estado central se debió principalmente a las reformas fiscales introducidas en la década de los 80. Estas reformas le dieron incentivos a las localidades para mejorar su economía local pero no necesariamente para transferir al gobierno central el aumento de los ingresos.</seg>
       </tuv>
     </tu>
     <tu>
