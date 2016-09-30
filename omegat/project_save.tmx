@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22408,8 +22408,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The first was the Ninth Five-Year Plan that was to be formally approved by the Fourth session of the Eighth NPC meeting the following spring.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T042140Z" creationid="Usuario" creationdate="20160930T042140Z">
-        <seg>El primeroera el Noveno Plan Quinquenal que la Cuarta sesión de la Octava reunión de la Asamblea Popular Nacional (APN) iba a aprobar oficialmente la próxima primavera. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T124631Z" creationid="Usuario" creationdate="20160930T042140Z">
+        <seg>El primero era el Noveno Plan Quinquenal que la Cuarta sesión de la Octava reunión de la Asamblea Popular Nacional (APN) iba a aprobar oficialmente la próxima primavera. </seg>
       </tuv>
     </tu>
     <tu>
