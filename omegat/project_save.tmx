@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6823,6 +6823,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160928T234605Z">
         <seg>El ingreso propuesto de China en la OMC causó un balance incómodo&lt;t0/&gt; &lt;t1/&gt;entre el deseo de los líderes chinos de demonstrar el estatus de "gran poder" de&lt;t2/&gt; &lt;t3/&gt;China y de avanzar el desarrollo económico al unir la economía&lt;t4/&gt; &lt;t5/&gt;internacional por un lado, y, por el otro, los instintos proteccionistas de&lt;t6/&gt; &lt;t7/&gt;algunas regiones y burocracias, las preocupaciones ideológicas y&lt;t8/&gt;políticas que&lt;t9/&gt; &lt;t10/&gt;tal integración podría resultar socialmente inquietante, las preocupaciones de los intelectuales de la nueva&lt;t11/&gt; &lt;t12/&gt;izquierda, y el nacionalismo populista de un gran segmento del público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>China’s weakened state capacity put China at risk of disintegrating, just as Yugoslavia had.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T161012Z" creationid="Magui" creationdate="20160930T161012Z">
+        <seg>La capacidad del Estado de China estaba debilitada, lo que la puso en riesgo de desintegración, tal como fue el caso de Yugoslavia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15870,6 +15878,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160928T220206Z">
         <seg>No solo existe un diálogo más obvio entre el estado y la sociedad, sino que el alcance de ese diálogo se ha ampliado de manera significativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only would macroeconomic stability and economic growth be undermined, but even China’s political u&lt;/f7&gt;&lt;f9&gt;nity would be threatened.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T160943Z" creationid="Magui" creationdate="20160930T160943Z">
+        <seg>No solo se verían afectados la estabilidad macroeconómica y el crecimiento económico, sino que también se vería amenazada la unidad política de China.</seg>
       </tuv>
     </tu>
     <tu>
