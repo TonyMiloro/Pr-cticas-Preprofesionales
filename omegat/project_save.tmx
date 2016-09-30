@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5637,8 +5637,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But the Seventeenth Party Congress left open questions about the institutionalization of the Chinese political system; there was the sort of bargaining necessary to achieve compromise but which thereby suggested the uninstitutionalized aspects of elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
-        <seg>Aunque el Décimo Séptimo congreso del partido abrió un interrogante sobre la institucionalización del sistema político chino, hubo algunas negociaciones necesarias con el fin de llegar a un acuerdo, pero hacerlo significó desinstitucionalizar algunos aspectos de la elite política.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152512Z">
+        <seg>Aunque el décimo séptimo congreso del partido abrió un interrogante sobre la institucionalización del sistema político chino, hubo algunas negociaciones necesarias con el fin de llegar a un acuerdo, pero hacerlo significó desinstitucionalizar algunos aspectos de la elite política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6813,8 +6813,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Compromises were made.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T190529Z">
-        <seg>Se llegó a un acuerdo.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152451Z">
+        <seg>Y así se llegó a un acuerdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10218,8 +10218,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If Hu Jintao was to be able to put his own stamp on the new leadership, there would have to be some mix of institutional procedures and non-institutional bargaining.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T184512Z">
-        <seg>Si Hu Jintao quería segur influyendo en los altos mandos, entonces tendría que haber algún tipo de combinación de procesos institucionalizados y negociaciones no institucionalizadas.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152303Z">
+        <seg>Si Hu Jintao quería segur influyendo en los altos mandos, entonces tendría que haber algún tipo de combinación de procesos institucionalizados y negociaciones no institucionalizadas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17358,8 +17358,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, in part because Jiang Zemin was so successful in promoting his prot&lt;f0&gt;égé&lt;/f0&gt; to the Politburo at the Sixteenth Party Congress, the Seventeenth Party Congress could not rely simply on promotion by seniority to choose a new leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
-        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el Décimo Sexto congreso del partido, el Décimo Séptimo congreso del partido, que debía elegir al nuevo líder, no podía hacerlo teniendo en cuenta solamente el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152230Z">
+        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el décimo sexto congreso del partido, el décimo séptimo congreso del partido, que debía elegir al nuevo líder, no podía hacerlo teniendo en cuenta solamente el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20546,8 +20546,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The ouster of Shanghai Party Secretary Chen Liangyu in September 2006 (see Chapter 8) was the inevitable opening shot in the informal political bargaining that would take place.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>La destitución de Chen Liangyu, secretario general del partido Comunista chino en Shanghái, en septiembre de 2006 (véase capítulo 8) fue el anticipo inevitable de futuras negociaciones políticas informales.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152345Z">
+        <seg>La destitución de Chen Liangyu, secretario general del partido comunista chino en Shanghái, en septiembre de 2006 (véase capítulo 8) fue el anticipo inevitable de futuras negociaciones políticas informales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21916,8 +21916,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Third, to what extent would the Seventeenth Party Congress ratify Hu Jintao's ideas, such as the scientific development concept?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
-        <seg>En tercer lugar, ¿hasta qué punto ratificaría el Décimo Séptimo congreso del partido las ideas de Hu Jintao, tales como el concepto de desarrollo científico? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152415Z">
+        <seg>En tercer lugar, ¿hasta qué punto ratificaría el décimo séptimo congreso del partido las ideas de Hu Jintao, tales como el concepto de desarrollo científico? </seg>
       </tuv>
     </tu>
     <tu>
@@ -23942,8 +23942,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>What mechanisms would they use to select Hu Jintao's successor?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160907T175806Z">
-        <seg>¿Qué mecanismos usarían para elegir al sucesor de Hu Jintao?</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T152134Z">
+        <seg>¿Qué mecanismos usarían para elegir al sucesor de Hu Jintao? </seg>
       </tuv>
     </tu>
     <tu>
