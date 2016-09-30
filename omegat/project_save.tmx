@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25965,8 +25965,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang pointed to the rise of regional inequality in China and to the weakness of the Yugoslav Federal government (then still in existence) as consequences of localism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160927T033121Z" creationid="Rocio" creationdate="20160927T033048Z">
-        <seg>Wang señaló al incrementó de la inequidad regional en China y la debilidad del gobierno Federal Yugoslavo (todavía existente en ese entonces) como consecuencias del localismo.</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T033931Z" creationid="Rocio" creationdate="20160927T033048Z">
+        <seg>Wang señaló el incremento de la inequidad regional en China y la debilidad del gobierno Federal Yugoslavo (todavía existente en ese entonces) como consecuencias del localismo.</seg>
       </tuv>
     </tu>
     <tu>
