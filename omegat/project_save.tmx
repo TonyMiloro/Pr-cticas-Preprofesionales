@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -785,8 +785,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;In 1943, Jiang began to study electrical engineering at Nanjing’s Central University, which was subsequently merged with Shanghai’s Jiaotong &lt;s5/&gt;University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T005622Z">
-        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;En 1943, Jiang comenzó a estudiar ingeniería eléctrónica en la Universidad Central de Nanjing, la cual se fusionó posteriormente con la Universidad Jiaotong de Shanghai&lt;s5/&gt;.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T190924Z">
+        <seg>En 1943, Jiang comenzó a estudiar ingeniería eléctrica en la Universidad Central de Nanjing, la cual se fusionó posteriormente con la Universidad Jiaotong de Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -915,6 +915,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T220257Z">
         <seg>&lt;f0&gt;88&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;radio Pekín, 1º de&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt; diciembre,&lt;/f5&gt;&lt;f6&gt;&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;1990.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;At the same time, Zhao Ziyang, who had journeyed to North Korea April 23–30 &lt;s3/&gt;in &lt;s4/&gt;one &lt;s5/&gt;of &lt;s6/&gt;the &lt;s7/&gt;worst-timed &lt;s8/&gt;diplomatic &lt;s9/&gt;trips &lt;s10/&gt;imaginable, &lt;s11/&gt;returned and &lt;s12/&gt;convened &lt;s13/&gt;a &lt;s14/&gt;meeting &lt;s15/&gt;of &lt;s16/&gt;the &lt;s17/&gt;Politburo &lt;s18/&gt;on &lt;s19/&gt;May &lt;s20/&gt;10.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T190119Z" creationid="USER" creationdate="20160930T185951Z">
+        <seg>Al mismo tiempo, Zhao Ziyang, quien viajó a Corea del Norte entre el 23 y 30 de abril en uno de los peores tiempos imaginables para realizar viajes diplomáticos, regresó y pactó una reunión con el Politburó el 10 de mayo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,6 +2640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s14/&gt;Carrying &lt;s15/&gt;banners &lt;s16/&gt;that &lt;s17/&gt;identi&lt;/f8&gt;&lt;/f7&gt;ﬁ&lt;f18&gt;&lt;f19&gt;ed their papers – &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;People’s Daily (Renmin ribao)&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;, &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Workers Daily (Gongren ribao), Enlightenment Daily&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;s28/&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f29&gt;&lt;f30&gt;(Guangming ribao)&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, and so on – journalists hoisted signs declaring that they would not be forced to lie again.&lt;/f32&gt;&lt;/f31&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T190346Z" creationid="USER" creationdate="20160930T190346Z">
+        <seg>Con carteles que identificaban a sus diarios (People’s Daily, Workers Daily, Enlightenment Daily, entre otros), los periodistas elevaban pancartas con la leyenda de que no serían forzados a mentir de nuevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s19/&gt;When &lt;s20/&gt;he &lt;s21/&gt;returned &lt;s22/&gt;to China the following year, he was sent to the Changchun No. 1 Automobile Factory, where he spent the next six years.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011136Z">
@@ -2656,6 +2672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s21/&gt;Referring &lt;s22/&gt;to &lt;s23/&gt;the &lt;s24/&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f25&gt;&lt;f26&gt;World Economic Herald&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt; incident, Zhao declared that the Shanghai Party Committee had “made a mess of things.” Before the meeting concluded, an anxious Jiang followed Li Ruihuan to the men’s room to seek his advice.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T190218Z" creationid="USER" creationdate="20160930T190218Z">
+        <seg>Refiriéndose al incidente del World Economic Herald, Zhao declaró que el Comité del Partido de Shanghái había “hecho un gran lio”. Antes de que terminara la reunión, un ansioso Jiang siguió a Li Ruihuan hasta baño de hombres para que lo aconsejara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s3/&gt;When one looks at this list,it is apparent that Zhu Rongji had succeeded in promoting Wen Jiabao as his replacement,Li Peng had succeeded in having his chosen replacement,Luo Gan,take over as head of the Political and</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160930T125842Z" creationid="andrea" creationdate="20160928T175111Z">
@@ -2666,8 +2690,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s6/&gt;It &lt;s7/&gt;was &lt;s8/&gt;at &lt;s9/&gt;this &lt;s10/&gt;time &lt;s11/&gt;that &lt;s12/&gt;Jiang &lt;s13/&gt;became &lt;s14/&gt;actively involved in the Shanghai underground, and in June 1946 he joined the &lt;/f4&gt;&lt;/f3&gt;&lt;f15&gt;&lt;f16&gt;CCP.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T010907Z">
-        <seg>&lt;s6/&gt;Fue en ese momento cuando Jiang se involucró de forma activa en el subterráneo de esa ciudad y en junio de 1946 se unió al PCCh.  &lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt;&lt;s11/&gt; &lt;s12/&gt;&lt;s13/&gt;&lt;s14/&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;/f15&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T191004Z">
+        <seg>Fue en ese momento cuando Jiang se involucró de forma activa en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10224,6 +10248,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, Jiang emerged looking both decisive in opposing “&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;bourgeois&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;liberalization&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;” and capable in handling the local situation; unlike Beijing, Shanghai was under control.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T185848Z" creationid="USER" creationdate="20160930T185822Z">
+        <seg>De todas formas, Jiang apareció decidido al oponerse a la “liberación burguesa” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, before his remarks could be published in the People’s Daily, conservatives edited them to fit their agenda.57 The term “market economy” would not reappear until Deng’s trip to the Shenzhen Special Economic Zone (SEZ) in January 1992.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160930T141539Z">
@@ -17459,6 +17491,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perhaps, if Jiang’s efforts to reverse his “decisive” handling of the &lt;s29/&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;f30&gt;&lt;f31&gt;World Economic Herald&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt; case had succeeded, he would not have been chosen as general secretary.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T185832Z" creationid="USER" creationdate="20160930T185832Z">
+        <seg>Tal vez, si los esfuerzos de Jiang por revertir el manejo “decisivo” del caso del World Economic Herald hubieran sido exitosos, no se lo hubiese elegido como secretario general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perhaps&lt;t50/&gt; &lt;t51/&gt;more importantly,&lt;t52/&gt; &lt;t53/&gt;if&lt;t54/&gt; &lt;t55/&gt;Hu&lt;t56/&gt; &lt;t57/&gt;Jintao&lt;t58/&gt; &lt;t59/&gt;did&lt;t60/&gt; &lt;t61/&gt;not&lt;t62/&gt; &lt;t63/&gt;assume&lt;t64/&gt; &lt;t65/&gt;leadership&lt;t66/&gt; &lt;t67/&gt;of&lt;t68/&gt; &lt;t69/&gt;the&lt;t70/&gt; &lt;t71/&gt;CMC,&lt;t72/&gt; &lt;t73/&gt;eventually the rumor mill would begin working overtime in Beijing, sowing doubts &lt;t74/&gt;about&lt;t75/&gt; &lt;t76/&gt;H&lt;t77/&gt;u&lt;t78/&gt;’&lt;t79/&gt;s&lt;t80/&gt; &lt;t81/&gt;p&lt;t82/&gt;o&lt;t83/&gt;w&lt;t84/&gt;er&lt;t85/&gt; &lt;t86/&gt;and&lt;t87/&gt; &lt;t88/&gt;longevity&lt;t89/&gt; &lt;t90/&gt;as&lt;t91/&gt; &lt;t92/&gt;leade&lt;t93/&gt;r&lt;t94/&gt;.&lt;t95/&gt; &lt;t96/&gt;S&lt;t97/&gt;uch&lt;t98/&gt; &lt;t99/&gt;doubts,&lt;t100/&gt; &lt;t101/&gt;left&lt;t102/&gt; &lt;t103/&gt;unadd&lt;t104/&gt;r&lt;t105/&gt;essed, &lt;t106/&gt;could become self-fulfilling prophecies.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160928T130847Z" creationid="Flor" creationdate="20160928T130847Z">
@@ -17944,6 +17984,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160927T193038Z">
         <seg>Reestructuración del gobierno y la economía: la Novena Asamblea Nacional Popular &lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returning to Shanghai, Jiang tried to repair the damage.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T190231Z" creationid="USER" creationdate="20160930T190231Z">
+        <seg>Al regresar a Shanghái, Jiang trató de reparar el daño.</seg>
       </tuv>
     </tu>
     <tu>
