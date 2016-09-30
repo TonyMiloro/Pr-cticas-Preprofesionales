@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16773,8 +16773,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One exception was the well-known survey done by Wang Xiaodong, Fang Ning, and others at China Youth Daily, which has been conducting investigations of youth attitudes since the mid-1990s.78 Taking advantage of the fiftieth anniversary of the end of the war against Japan, China Youth Daily conducted a large-scale public opinion poll in May of 1995; it found that 87.1 percent of respondents believed the United States was the country “least friendly” to China, while 57.2 percent indicated that the United States was the country toward which they felt most negative.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T175950Z">
-        <seg> Una excepción fue la muy conocida investigación de Wang Xiaodong, Fang Ning, y otros miembros de China Youth Daily, que ha estado realizando investigaciones sobre la postura de los jóvenes desde mediados de la década de los 90. Aprovechándose del quincuagésimo aniversario del fin de la guerra contra Japón, China Youth Daily realizó una encuesta de opinión pública de gran dimensidad en mayo de 1995. Se descubrió que el 87.1 porciento de los encuestados creía que Estados Unidos era el país ''menos amigable'' para China, mientras que el 57.2 por ciento indicó que Estados Unidos era el país hacia el cual sentían una mayor negatividad.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T180141Z">
+        <seg> Una excepción fue la muy conocida investigación de Wang Xiaodong, Fang Ning, y otros miembros de China Youth Daily, que ha estado realizando investigaciones sobre la postura de los jóvenes desde mediados de la década de los 90. Aprovechándose del quincuagésimo aniversario del fin de la guerra contra Japón, China Youth Daily realizó una encuesta de opinión pública a gran escala en mayo de 1995. Se descubrió que el 87.1 porciento de los encuestados creía que Estados Unidos era el país ''menos amigable'' para China, mientras que el 57.2 por ciento indicó que Estados Unidos era el país hacia el cual sentían una mayor negatividad.</seg>
       </tuv>
     </tu>
     <tu>
