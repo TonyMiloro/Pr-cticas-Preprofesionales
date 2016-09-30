@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12278,6 +12278,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160929T213249Z">
         <seg>En su discurso del Día Nacional de 1989 (1 de octubre), Jiang Zemin afirmó que había dos tipos de reforma: una que apoyaba los cuatro principios cardinales y una basada en la "liberalización burguesa". La cuestión, dijo Jiang, era si la orientación socialista sería apoyada.33 Deng había abierto el camino para esta línea de análisis en su charla del 31 de mayo con Li Peng y Yao Yilin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In his early work, Xiao focused on Yan Fu (1853—1921), the famed translator of Adam Smith’s&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;The Wealth ofNations&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;and other major works of Western intellectual history.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035132Z" creationid="Barri" creationdate="20160930T035132Z">
+        <seg> A sus comienzos, Xiao enfocó su trabajo en Yan Fu (1853—1921), el famoso traductor de Adam Smith,&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;La Riqueza de las Naciones&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;y otras obras de importancia de la historia intelectual occidental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26547,6 +26555,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whereas China’s efforts to introduce knowledge from abroad had previously been limited mostly to technology, particularly weapons and later light manufacturing, Yan’s translations served to make the point that Western technology was part of a complex culture; it would be impossible, as Yan’s contemporary Zhang Zhidong was advising, to “take Chinese cul&lt;/f9&gt;&lt;f10&gt;­ture as the essence and Western learning for practical use”&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;(Zhongti xiyong)&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;— culture and technology were not separable.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035319Z" creationid="Barri" creationdate="20160930T035319Z">
+        <seg>Mientras que los esfuerzos de China por introducir conocimiento de afuera se habían antes limitado principalmente a la tecnología, armas en particular y luego a la fabricación de luces, las traducciones de Yan sirvieron para demostrar que la tecnología occidental era parte de una cultura compleja; sería imposible para Yan, como el contemporáneo Zhang Zhidong le advertía,  “considerar la  cul&lt;/f9&gt;&lt;f10&gt;­tura china como la esencia y el aprendizaje occidental para uso práctico”&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;(Zhongti xiyong)&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;— La cultura y la tecnología no se separan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whereas Western commentators continued to view the image of the lone person standing in front of a column of tanks as emblematic of the aspirations of the Chinese people, more and more Chinese saw that person as symbolizing the excessive romanticism of the 1980s reform movement.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T055638Z">
@@ -27096,6 +27112,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235818Z">
         <seg>Yang y Wang convocaron a aproximadamente una decena de jóvenes, y el artículo "Respuestas realistas" constituyó un resumen del debate llevado a cabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yan’s translations and commentaries marked a new stage in China’s understanding of the West.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035149Z" creationid="Barri" creationdate="20160930T035149Z">
+        <seg>Las traducciones y comentarios de Yan marcaron una nueva etapa en la interpretación de China para con el occidente.</seg>
       </tuv>
     </tu>
     <tu>
