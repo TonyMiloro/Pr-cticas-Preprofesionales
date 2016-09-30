@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24429,6 +24429,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160929T015925Z">
         <seg>Esta página se dejó en blanco intencionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This policy was reflected in the establishment of the first four Special Economic Zones (Shenzhen, Zhuhai, Shantou, and Xiamen) and the generous fiscal contracts given to Guangdong and Fujian</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T024337Z" creationid="Sofi" creationdate="20160930T024337Z">
+        <seg>Esta política se reflejó en el establecimiento de las primeras cuatro zonas económicas especiales (Shenzhen, Zhuhai, Shantou y Xiamen) y los contratos fiscales generosos que fueron entregados a las provincias de Guangdong y Fujian.</seg>
       </tuv>
     </tu>
     <tu>
