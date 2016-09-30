@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13519,8 +13519,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>Intimating that he would continue this process, Jiang called for an “emancipation &lt;t4/&gt;of the mind in the new period.”&lt;t5/&gt; Conservative Premier Li Peng, of all people, made this implication clear when he reiterated to a group of delegates that the present was the third of three pe&lt;t6/&gt;riods of emancipating the mind.&lt;t7/&gt; This theme would be picked up and expanded upon in the months that followed during the limited political opening that became known as the “Beijing spring.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T022739Z" creationid="LENOVO" creationdate="20160930T022345Z">
-        <seg>Jiang insinuó que él continuaría este proceso y pidió una &lt;t4/&gt;“emancipación de la mente en este nuevo período”&lt;t5/&gt; Conservative Premier Li Peng, of all people, made this implication clear when he reiterated to a group of delegates that the present was the third of three pe&lt;t6/&gt;riods of emancipating the mind.&lt;t7/&gt; This theme would be picked up and expanded upon in the months that followed during the limited political opening that became known as the “Beijing spring.”</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T022851Z" creationid="LENOVO" creationdate="20160930T022345Z">
+        <seg>Jiang insinuó que él continuaría este proceso y pidió una &lt;t4/&gt;“emancipación de la mente en este nuevo período”.&lt;t5/&gt; El primer ministro conservador Li Peng dejó en claro esta insinuación cuando le repitió a un grupo de delegados que el período actual era el &lt;t6/&gt;tercer período de la emancipación de la mente.&lt;t7/&gt; Este tema se retomaría y se expandiría en los meses siguientes durante la limitada apertura política que se conoció como “la primavera de Pekín”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22385,8 +22385,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The other news that caught the Western headlines was that &lt;t0/&gt;Qiao&lt;t1/&gt; Shi had been dropped from the Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T215132Z" creationid="Cami" creationdate="20160929T215132Z">
-        <seg>La otra noticia que fue titular en el occidente fue la expulsión de &lt;t0/&gt;Qiao&lt;t1/&gt; Shi del Comité Central.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T022915Z" creationid="Cami" creationdate="20160929T215132Z">
+        <seg>La otra noticia que fue titular en occidente fue la expulsión de &lt;t0/&gt;Qiao&lt;t1/&gt; Shi del Comité Central.</seg>
       </tuv>
     </tu>
     <tu>
