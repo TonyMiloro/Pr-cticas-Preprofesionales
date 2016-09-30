@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13237,8 +13237,8 @@ appear critical.</seg>
       <tuv lang="EN-US">
         <seg>Indeed, on the eve of Deng’s death, the left circulated the fourth 10,000 character manifesto.1 Despite this challenge, Deng’s passing in February 1997 proved a blessing for the general secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T155331Z">
-        <seg>En efecto, en vísperas de la muerte de Deng, la izquierda difundió el cuarto manifiesto de 10000 caracteres.1 A pesar de este desafío,  la muerte de Deng en febrero de 1997 favoreció al secretario general.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T014414Z">
+        <seg>En efecto, en vísperas de la muerte de Deng, la izquierda difundió el cuarto manifiesto de 10 000 caracteres.1 A pesar de este desafío,  la muerte de Deng en febrero de 1997 favoreció al secretario general.</seg>
       </tuv>
     </tu>
     <tu>
