@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8216,8 +8216,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>During his November visit to Shanghai, Li Peng could not resist telling Zhu &lt;t0/&gt;Rongji&lt;t1/&gt;, who had overseen the writing of the &lt;t2/&gt;Huangfu&lt;t3/&gt; Ping articles, that “[t]he influence of the ‘&lt;t4/&gt;Huangfu&lt;t5/&gt; Ping’ articles was terrible.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T002908Z" creationid="Luisina" creationdate="20160930T002752Z">
-        <seg>Durante su visita a Shanghai en noviembre, Li Peng no pudo resistir y le dijo a Zhu&lt;t0/&gt;Rongji&lt;t1/&gt;, quien había controlado la escritura de los artículos &lt;t2/&gt;Huangfu&lt;t3/&gt;Ping, que </seg>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T002948Z" creationid="Luisina" creationdate="20160930T002752Z">
+        <seg>Durante su visita a Shanghai en noviembre, Li Peng no pudo resistir y le dijo a Zhu&lt;t0/&gt;Rongji&lt;t1/&gt;, quien había controlado la escritura de los artículos &lt;t2/&gt;Huangfu&lt;t3/&gt;Ping, que "la influencia de los artículos de '&lt;t4/&gt;Huangfu&lt;t5/&gt;Ping' era terrible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13493,6 +13493,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It caused the unified thinking that the center had expended a great deal of effort to bring about to become chaotic again.”52</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T003101Z" creationid="Luisina" creationdate="20160930T003101Z">
+        <seg>Causaba un pensamiento único de que el centro había puesto mucho esfuerzo para volverse caóyico de nuevo".52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It celebrated the Three Represents (sange daibiao),called for “keeping pace with the times”(yushi jujin),and declared that the “strategic adjustment of the economic structure has been crowned with success” and that “it is of vital importance to take economic development as the main task.” The report recognized that there were problems in society.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160928T125022Z">
@@ -17199,6 +17207,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173323Z" creationid="Soledad Mori" creationdate="20160927T173323Z">
         <seg>El 22 de mayo, Deng se presentó en Capital Iron and Steel (usualmente nombrada por su abreviación en chino, Shougang) y escuchó a Zhou Guanwu, el líder de muchos años en la empresa modelo, quien informó sobre la reforma que experimentó la empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On October 23, the People’s Daily published a hard-hitting article by leftist ideologue Deng &lt;t0/&gt;Liqun&lt;t1/&gt;, entitled “Have a Correct Understanding of Contradictions in Socialist Society, Take the Initiative in Grasping and Handling Contradictions.” In stark contrast to Yang &lt;t2/&gt;Shangkun’s&lt;t3/&gt; speech two weeks earlier, Deng declared that class struggle was more acute than at any time since the founding of the PRC.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T003205Z" creationid="Luisina" creationdate="20160930T003205Z">
+        <seg>El 23 de octubre, el People's Daily publicó un duro artículo por Deng&lt;t0/&gt;Liqun&lt;t1/&gt; (de ideología izquierdista), </seg>
       </tuv>
     </tu>
     <tu>
