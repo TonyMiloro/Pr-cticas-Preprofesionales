@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4677,8 +4677,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Lu puts it, those segments of the population that should have increased (that is, the middle class), did not, or at least not sufficiently, while those &lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;segments that should have decreased in size (the lower income groups), did not.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;The result was a distorted, and to some extent illegitimate, social structure that left social stability – and future economic growth – very much in doubt.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T232721Z">
-        <seg>En términos de Lu, el sector de la población que debería haber crecido (es decir, la clase media), no lo hicieron, o al menos no lo suficiente, mientras que aquellos&lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;que deberían haberse reducido (los grupos con bajos ingresos), no lo hicieron.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;El resultado fue una estructura social distorsionada y, hasta cierto punto, ilegítima que deja una incertidumbre con respecto a la estabilidad social y al crecimiento económico futuro.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T232818Z">
+        <seg>En términos de Lu, el sector de la población que debería haber crecido (es decir, la clase media), no lo hizo, o al menos no lo suficiente y aquel que debería haberse reducido&lt;/f1&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;&lt;f4&gt;que deberían haberse reducido (los grupos con bajos ingresos), no lo hicieron.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;El resultado fue una estructura social distorsionada y, hasta cierto punto, ilegítima que deja una incertidumbre con respecto a la estabilidad social y al crecimiento económico futuro.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
