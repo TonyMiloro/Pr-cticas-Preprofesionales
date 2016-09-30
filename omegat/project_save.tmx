@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7509,8 +7509,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng’s offensive from the fall of 1990 through the spring of 1991 would prove to be a trial run for his efforts of the following year, but in 1991 he came up short.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T004341Z">
-        <seg>La ofensiva de Deng desde el otoño de 1990 hasta la primavera de 1991 demostraría ser un período de prueba de los intentos para el año próximo, pero en 1991 no obtuvo lo suficiente. </seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T135356Z">
+        <seg>La ofensiva de Deng desde el otoño de 1990 hasta la primavera de 1991 demostraría ser un período de prueba de los intentos para el año próximo, pero en 1991 no obtuvo lo suficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9475,8 +9475,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He had indeed used provincial officials to undermine the draft of the Eighth Five-Year Plan and then to publicize and promote his own thought, and he had laid the foundation of a later breakthrough by promoting Zhu &lt;t0/&gt;Rongji&lt;t1/&gt; and giving him an institutional base from which to compete with Li Peng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160909T161313Z">
-        <seg>De hecho había utilizado funcionarios provinciales para debilitar el boceto del Octavo Plan Quinquenal y luego para publicitar y promover sus propias ideas, y había extendido la base de un descubrimiento posterior apoyando a Zhu Rongji y dándole una base institucional con la que pudiera competir con Li Peng</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T135715Z">
+        <seg>De hecho había utilizado funcionarios provinciales para debilitar el boceto del Octavo Plan Quinquenal y luego para publicitar y promover sus propias ideas y había extendido la base de un avance posterior apoyando a Zhu Rongji y dándole una base institucional con la que pudiera competir con Li Peng.</seg>
       </tuv>
     </tu>
     <tu>
