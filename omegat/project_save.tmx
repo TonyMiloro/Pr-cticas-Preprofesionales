@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14474,8 +14474,8 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang cited Deng’s 1978 battle with Party Chairman Hua &lt;t0/&gt;Guofeng’s&lt;t1/&gt; “two &lt;t2/&gt;whatevers&lt;t3/&gt;” (“whatever decisions Chairman Mao made, we resolutely support; whatever instructions Chairman Mao made, we will steadfastly abide by”) as a period of “emancipating the mind”; he said Deng’s 1992 trip to the south was a second such period.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T022111Z" creationid="LENOVO" creationdate="20160930T021808Z">
-        <seg>Jiang se refirió a la batalla de 1978 de Deng contra las “dos cualquieras” del presidente del Partido Hua &lt;t0/&gt;Guofeng&lt;t1/&gt; (cualquier decisión que el presidente Mao tome, la apoyaremos con firmeza, cualquier instrucción que el presidente Mao dicte, la cumpliremos con resolución) &lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T022210Z" creationid="LENOVO" creationdate="20160930T021808Z">
+        <seg>Jiang se refirió a la batalla de 1978 de Deng contra las “dos cualquieras” del presidente del Partido Hua &lt;t0/&gt;Guofeng&lt;t1/&gt; (cualquier decisión que el presidente Mao tome, la apoyaremos con firmeza, cualquier instrucción que el presidente Mao dicte, la cumpliremos con resolución) como un período de la “emancipación de la mente”; dijo que el viaje de Deng al sur en 1992 fue el segundo de uno de estos períodos. &lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
