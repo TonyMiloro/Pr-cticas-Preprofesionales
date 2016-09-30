@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2650,8 +2650,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t12/&gt;Qiao&lt;t13/&gt; supporters Wan Li and Yang &lt;t14/&gt;Shangkun&lt;t15/&gt; reportedly sat mute through the meeting, realizing tha&lt;t16/&gt;t they had been out-maneuvered.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T023246Z" creationid="Cami" creationdate="20160929T215839Z">
-        <seg>&lt;t12/&gt;Los&lt;t13/&gt; partidarios de Qiao Wan Li y Yang &lt;t14/&gt;Shangkun&lt;t15/&gt; se sentaron en silencio durante toda la reunión y se dieron cuenta de que&lt;t16/&gt;los demás habían sido más astutos que ellos9.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T023253Z" creationid="Cami" creationdate="20160929T215839Z">
+        <seg>&lt;t12/&gt;Los&lt;t13/&gt; partidarios de Qiao Wan Li y Yang &lt;t14/&gt;Shangkun&lt;t15/&gt; se sentaron en silencio durante toda la reunión y se dieron cuenta de que&lt;t16/&gt;los demás habían sido más astutos que ellos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6205,8 +6205,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By getting rid of &lt;t8/&gt;Qiao&lt;t9/&gt;, Jiang was free to adopt much of &lt;t10/&gt;Qiao’s&lt;t11/&gt; program.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T220532Z" creationid="Cami" creationdate="20160929T220532Z">
-        <seg>Cuando se liberó de &lt;t8/&gt;Qiao&lt;t9/&gt;, Jiang tuvo la libertad de adoptar &lt;t10/&gt;su&lt;t11/&gt; programa.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T023539Z" creationid="Cami" creationdate="20160929T220532Z">
+        <seg>Cuando se liberó de &lt;t8/&gt;Qiao&lt;t9/&gt;, Jiang tuvo la libertad de adoptar gran parte &lt;t10/&gt;su&lt;t11/&gt; programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15652,8 +15652,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Many interpreted &lt;t0/&gt;Qiao’s&lt;t1/&gt; removal as a pulling back from the liberal themes that he had touted, but in fact &lt;t2/&gt;Qiao’s&lt;t3/&gt; ouster facilitated Jiang’s move to the “right.” With &lt;t4/&gt;Qiao&lt;t5/&gt; in place, any movement to relax political control and emphasize the rule of law would have been taken advantage of by &lt;t6/&gt;Qiao&lt;t7/&gt; to increase the role of the National People’s Congress at Jiang’s expense.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T220339Z" creationid="Cami" creationdate="20160929T220339Z">
-        <seg>Muchos interpretaron la destitución de &lt;t0/&gt;Qiao&lt;t1/&gt; como una forma de desvincularse de los temas liberales que este había elogiado pero de hecho &lt;t2/&gt;su&lt;t3/&gt; expulsión facilitó que Jiang se inclinara hacia la “derecha”. &lt;t4/&gt;&lt;t5/&gt; Qiao habría aprovechado cualquier movimiento para flexibilizar el control político y para enfatizar el estado de derecho y de esta forma incrementar &lt;t6/&gt;&lt;t7/&gt; el papel de la Asamblea Popular Nacional a costa de Jiang.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T023448Z" creationid="Cami" creationdate="20160929T220339Z">
+        <seg>Muchos interpretaron la destitución de &lt;t0/&gt;Qiao&lt;t1/&gt; como una forma de desvincularse de los temas liberales que este había elogiado pero, de hecho, &lt;t2/&gt;su&lt;t3/&gt; expulsión facilitó que Jiang se inclinara hacia la “derecha”. &lt;t4/&gt;&lt;t5/&gt; Qiao habría aprovechado cualquier movimiento para flexibilizar el control político y para enfatizar el estado de derecho y, de esta forma, incrementar &lt;t6/&gt;&lt;t7/&gt; el papel de la Asamblea Popular Nacional a costa de Jiang.</seg>
       </tuv>
     </tu>
     <tu>
