@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6887,8 +6887,8 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       <tuv lang="EN-US">
         <seg>Chen sharply criticized Zhao for his opposition to the closing of the World Economic Herald, his speech to the Asian Development Bank, and his revelation to Gorbachev of the Thirteenth Party Congress resolution referring important Party matters to Deng – which Chen described as “deliberately directing the fire of criticism at Deng Xiaoping.”24[7] In his criticism of some of the intellectuals linked to Zhao, however, Chen hinted at the depth of the struggle within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T203508Z">
-        <seg>Chen criticó duramente a Zhao por su oposición al cierre del periódico World Economic Herald, su discurso ante el Banco de Desarrollo Asiático, y su revelación a Gorbachev de la resolución del Décimotercer Congreso del Partido que derivaba importantes asuntos del partido a Deng, lo cual Chen describía como "direccionar deliberadamente al centro de la crítica a Deng Xiaoping". 24 Sin embargo, en su crítica a algunos de los intelectuales relacionados con Zhao, Chen insinúo la profunda lucha dentro del partido.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160930T041955Z">
+        <seg>Chen criticó duramente a Zhao por su oposición al cierre del periódico World Economic Herald, su discurso ante el Banco de Desarrollo Asiático, y su revelación a Gorbachev de la resolución del Décimotercer Congreso del Partido que derivaba importantes asuntos del partido a Deng, lo cual Chen describía como "direccionar deliberadamente al centro de la crítica a Deng Xiaoping"24. Sin embargo, en su crítica a algunos de los intelectuales relacionados con Zhao, Chen insinúo la profunda lucha dentro del partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22563,8 +22563,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
         <seg>The nature and consequences of his mistakes are very serious.”23 [6]The public case for this judgment was made by Beijing mayor Chen Xitong, who presented
 a long and detailed report to the Standing Committee of the National People’s Congress (NPC) on June 30.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160929T203157Z">
-        <seg>La naturaleza y las consecuencias de sus errores son muy serias".23 El alcalde de Pekín Chen Xitong realizó el caso público por esta sentencia, quien presentó un amplio y detallado informe a la APN el 30 de junio.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20160930T042011Z">
+        <seg>La naturaleza y las consecuencias de sus errores son muy serias"23. El alcalde de Pekín Chen Xitong realizó el caso público por esta sentencia, quien presentó un amplio y detallado informe a la APN el 30 de junio.</seg>
       </tuv>
     </tu>
     <tu>
