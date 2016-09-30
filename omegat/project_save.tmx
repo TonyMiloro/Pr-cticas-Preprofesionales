@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4010,6 +4010,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An editor’s note stated that “the harsh reality of struggle has made clear to us that pragmatism can make a breach for peaceful evolution.”53 The term “pragmatism” seemed a clear allusion to the policies of Deng Xiaoping.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T163539Z" creationid="Luisina" creationdate="20160930T163539Z">
+        <seg>Una nota del editor declaraba que "la dura realidad de la lucha ha hecho evidente que el pragmatismo puede generar una ruptura en la evolución pacífica". 53 El término "pragmastismo" parecía una clara alusión a las políticas de Deng Xiaoping. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of the former is Chinese artists whose works have become popular in the West, such as the film director Zhang Yimou, Zheng Nian (Cheng Nien, the author of Life and Death in Shanghai), and Zhang Rong (Chang Jung, author of Wild Swans and, more recently, co-author of The Unknown Story of Mao).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="ROMI" changedate="20160926T162702Z">
@@ -5119,6 +5127,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174223Z" creationid="Silvina Nuñez" creationdate="20160927T174223Z">
         <seg>Durante el Quinto Pleno del partido, en septiembre de 1995, se destituyó oficialmente a Chen como miembro del Politburó y, en 1998, fue sentenciado a 16 años de cárcel, aunque más adelante se le otorgó libertad condicional por motivos médicos&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;18&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the meeting of the Central Advisory Commission (CAC) convened on November 29, Party elder Bo &lt;t0/&gt;Yibo&lt;t1/&gt; conveyed six points raised by Chen Yun that stressed strengthening Party organization, the threat of peaceful evolution posed by the United States, and the danger posed by overzealous efforts to speed up economic development.54 In late November, Deng Xiaoping urged the &lt;t2/&gt;leadership to improve relations with the United States by not raising the issue of peaceful evolution so often and by compromising with the United States on human rights issues.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T163609Z" creationid="Luisina" creationdate="20160930T163609Z">
+        <seg>En la reunión de la Comisión Asesora Central (CAC) del 29 de noviembre, el veterano del partido Bo &lt;t0/&gt;Yibo&lt;t1/&gt; expresó los seis puntos planteados por Chen Yun que enfatizaban el fortalecimiento de la organización del partido, la amenaza de la evolución pacífica que representaba Estados Unidos, y el peligro representado por esfuerzos entusiastas para acelerar el desarrollo económico.54 A fines de noviembre, Deng Xiaoping urgió a los &lt;t2/&gt;líderes a mejorar las relaciones con Estados Unidos no planteando el tema de la evolución pacífica tan frecuentemente y comprometiéndose con Estados Unidos en temas de derechos humanos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7127,6 +7143,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T020035Z">
         <seg>El teórico conservador Hu Qiaomu fallece a los</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conservatives participating in the group denounced Li &lt;t7/&gt;Ruihuan&lt;t8/&gt; as “a person who wants to be Gorbachev” and called &lt;t9/&gt;Qiao&lt;t10/&gt; Shi a “fence sitter.”56</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T163726Z" creationid="Luisina" creationdate="20160930T163726Z">
+        <seg>Los conservativos que participaban en el grupo denunciaron a Li &lt;t7/&gt;Ruihuan&lt;t8/&gt; como "una persona que quiere ser Gorbachev" y llamaron a &lt;t9/&gt;Qiao&lt;t10/&gt; Shi un "neutral".56 </seg>
       </tuv>
     </tu>
     <tu>
@@ -16443,10 +16467,26 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On October 23, the People’s Daily published a hard-hitting article by leftist ideologue Deng &lt;t0/&gt;Liqun&lt;t1/&gt;, entitled “Have a Correct Understanding of Contradictions in Socialist Society, Take the Initiative in Grasping and Handling Contradictions.” In stark contrast to Yang &lt;t2/&gt;Shangkun’s&lt;t3/&gt; speech two weeks earlier, Deng declared that class struggle was more acute than at any time since the founding of the PRC.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T163523Z" creationid="Luisina" creationdate="20160930T163523Z">
+        <seg>El 23 de octubre, el People's Daily publicó un duro artículo por Deng&lt;t0/&gt;Liqun&lt;t1/&gt; (de ideología izquierdista), que se titulaba "Tenga un Correcto entendimiento de las contradicciones en la sociedad socialista, tome la iniciativa en contradicciones avaras y manipuladas".  En un duro contraste con el discurso de Yang&lt;t2/&gt;Shangkun&lt;t3/&gt; de dos semanas antes, Deng declaró que la lucha de clases era la más profunda desde la fundación de la República Popular de China. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On average, the Chinese economy had expanded by over 9 percent per year for 16 years.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160928T203745Z">
         <seg>En promedio, la economía china se había expandido un 9 por ciento anual durante 16 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On hearing Deng’s suggestion, Party elder Wang Zhen apparently flew into a rage, declaring that Deng’s policies were leading the country down the road to capitalism.55 &lt;t3/&gt;At&lt;t4/&gt; the time, as Wang Zhen’s outburst showed, the Party remained deeply divided over the danger posed by “peaceful evolution.” In September, Propaganda Department head Wang &lt;t5/&gt;Renzhi&lt;t6/&gt; and others had organized an “anti-peaceful evolution” study group at the Central Party School which warned that peaceful evolution could be boosted by “pragmatists” in the leadership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T163701Z" creationid="Luisina" creationdate="20160930T163701Z">
+        <seg> Luego de escuchar la sugerencia de Deng, el veterano del partido Wang Zhen aparentemente entró en rabia, declarando que las políticas de Deng estaban llevando al país hacia el camino del capitalismo. 55&lt;t3/&gt;En&lt;t4/&gt;ese momento, tal como el exabrupto de Deng lo demostraba, el partido seguía profundamente dividido por el peligro que representaba la "evolució pacífica". En septiembre, el jefe del Departamento de Propaganda Wang&lt;t5/&gt;Renzhi&lt;t6/&gt; y otras personas habían organizado un grupo de estudio de "evolución anti-pacífica" en la Escuela Central del Partido Comunista Chino que advertía que la evolución pacífica podía ser estimulada por los "pragmáticos" en posición de líderes.</seg>
       </tuv>
     </tu>
     <tu>
