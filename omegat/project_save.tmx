@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -222,10 +222,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1945</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160026Z" creationid="Mariela" creationdate="20160930T160026Z">
+        <seg>1945 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1946</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155704Z" creationid="Mariela" creationdate="20160930T155704Z">
+        <seg>1946 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1947</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160044Z" creationid="Mariela" creationdate="20160930T160044Z">
+        <seg>1947 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1948</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160300Z" creationid="Mariela" creationdate="20160930T160300Z">
+        <seg>1948 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1949</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155535Z" creationid="Mariela" creationdate="20160930T155535Z">
         <seg>1949 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1950</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155903Z" creationid="Mariela" creationdate="20160930T155903Z">
+        <seg>1950 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1856,6 +1896,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Liu Yunshan &lt;/f0&gt;&lt;f1&gt;Li Yuanchao &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160906Z" creationid="Mariela" creationdate="20160930T160906Z">
+        <seg>Liu Yunshan Li Yuanchao </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Many intellectuals had taken heart from Deng Xiaoping’s trip to the&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;south and his harsh denunciations of the left.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T152055Z" creationid="Soledad Mori" creationdate="20160927T174435Z">
@@ -2002,8 +2050,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table 6:&lt;/f0&gt;&lt;f1&gt; The Secretariat &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T201428Z">
-        <seg>&lt;f0&gt;Table 6:&lt;/f0&gt;&lt;f1&gt; Secretariado&lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160643Z">
+        <seg>&lt;f0&gt;Table 6:&lt;/f0&gt;&lt;f1&gt; El Secretariado&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2204,6 +2252,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160923T133656Z">
         <seg>&lt;f0&gt;W&lt;/f0&gt;&lt;f1&gt;ANG SHAN Y LA APARICIÓN DEL NACIONALISMO POPULISTA&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Wang Gang &lt;/f0&gt;&lt;f1&gt;Xu Caihou He young &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160755Z" creationid="Mariela" creationdate="20160930T160755Z">
+        <seg>Wang Gang Xu Caihou He young </seg>
       </tuv>
     </tu>
     <tu>
@@ -4636,8 +4692,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As of the moment, Xi Jinping appears to have the edge; not only was he ranked one position higher than Li in the PBSC, he was also named to head the Secretariat, the powerful body that implements Politburo decisions and oversees much of the day-to-day handling of party affairs.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T202920Z">
-        <seg>Hasta el momento, Xi Jinping parecía tener ventaja, no solo tenía un puesto superior que Li en el PBSC, sino que también había sido designado para liderar el Secretariado, la poderosa institución que implementa las decisiones del Politburó y que supervisa la forma en la que el partido trata sus asuntos.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T161402Z">
+        <seg>Hasta el momento, Xi Jinping parecía tener ventaja, no solo tenía un puesto superior que Li en el PBSC, sino que también había sido designado para liderar el Secretariado, la poderosa institución que implementa las decisiones del Politburó y que supervisa la forma en la que el partido trata sus asuntos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5445,8 +5501,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Beijing CCP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200705Z">
-        <seg>Secretariado del PCCh en Pekín</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155957Z">
+        <seg>Secretariado del PCCh en Pekín </seg>
       </tuv>
     </tu>
     <tu>
@@ -5797,8 +5853,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But the rest of the leadership was not prepared to acquiesce in this arrangement.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T202140Z">
-        <seg>Pero el resto de los líderes no estaban preparados para aceptar este acuerdo.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T161043Z">
+        <seg>Pero el resto de los líderes no estaban preparados para aceptar este acuerdo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6355,6 +6411,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chen Liangyu</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155659Z" creationid="Mariela" creationdate="20160930T155659Z">
+        <seg>Chen Liangyu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chen Liangyu was also the highest ranking Party official to be cashiered since Jiang Zemin had removed Chen Xitong in 1996, and his arrest marked a significant diminution in the influence of the so-called Shanghai gang.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160926T184416Z">
@@ -6813,8 +6877,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chongqing CCP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200121Z">
-        <seg>Secretariado del PCCh. en Chongqing</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155645Z">
+        <seg>Secretariado del PCCh en Chongqing </seg>
       </tuv>
     </tu>
     <tu>
@@ -9497,8 +9561,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Guangdong CCP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T201024Z">
-        <seg>Secretariado del PCCh en Guangdong</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160345Z">
+        <seg>Secretariado del PCCh en Guangdong </seg>
       </tuv>
     </tu>
     <tu>
@@ -9515,6 +9579,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160902T232954Z">
         <seg>Guidi y Chu Tao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guo Boxiong</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155735Z" creationid="Mariela" creationdate="20160930T155735Z">
+        <seg>Guo Boxiong </seg>
       </tuv>
     </tu>
     <tu>
@@ -9572,6 +9644,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155359Z" creationid="Mariela" creationdate="20160930T155359Z">
         <seg>He Guoqiang </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He Yong</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160914Z" creationid="Mariela" creationdate="20160930T160914Z">
+        <seg>He Yong </seg>
       </tuv>
     </tu>
     <tu>
@@ -10314,8 +10394,16 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hubei CCP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200958Z">
-        <seg>Secretariado del PCCh en Hubei</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160322Z">
+        <seg>Secretariado del PCCh en Hubei </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hui Liangyu</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155809Z" creationid="Mariela" creationdate="20160930T155809Z">
+        <seg>Hui Liangyu </seg>
       </tuv>
     </tu>
     <tu>
@@ -12911,8 +12999,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It has long been rumored creditably that Hu would like to pass power on to Li Keqiang, the former head of the CYL who has subsequently served as Party secretary in Henan and Liaoning provinces, two of the most difficult assignments in Chinese politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T150143Z">
-        <seg>Desde hacía mucho tiempo, había rumores bastante acertados de que Hu tenía la intención de cederle el poder a Li Keqiang, antiguo líder de la LJC y posterior secretario del partido en las provincias de Henan y Liaoning, dos de las tareas más difíciles en la política china.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T161031Z">
+        <seg>Desde hacía mucho tiempo, había rumores bastante acertados de que Hu tenía la intención de cederle el poder a Li Keqiang, antiguo líder de la LJC y posterior secretario del partido en las provincias de Henan y Liaoning, dos de las tareas más difíciles en la política china. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14289,6 +14377,14 @@ Putting Zhao on trial, as Deng had the Gang of Four, would have had profound imp
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Li Yuanchao</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155855Z" creationid="Mariela" creationdate="20160930T155855Z">
+        <seg>Li Yuanchao </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Li accompanied &lt;t6/&gt;Zhou Enlai to the Geneva and Bandung conferences but was then attacked &lt;t7/&gt;during the anti-rightist movement of 1957.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160928T102210Z" creationid="joaquin" creationdate="20160928T102210Z">
@@ -14474,6 +14570,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ling Jihua</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160925Z" creationid="Mariela" creationdate="20160930T160925Z">
+        <seg>Ling Jihua </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of abbreviations and tables</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160901T023250Z">
@@ -14494,6 +14598,38 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T015358Z">
         <seg>Las revistas literarias están cambiando &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt; de dirección en grandes números, hay un deterioro universal en la calidad de la nueva literatura, el número de lectores con habilidad de apreciar (lo que están leyendo) está decayendo de manera contínua, y la cantidad de escritores y críticos que descubrieron que han elegido la carrera equivocada y que están saltando "al mar" [de los negocios] está creciendo más y más"&lt;/f4&gt;&lt;f5&gt;18. &lt;/f5&gt;&lt;f6&gt;Intentar mantener los valores de una élite cultural a pesar de las presiones comerciales fue una tarea cada vez más ingrata, e incluso a aquellos decididos a perseguir tal ideal, les pareció necesario redefinir sus roles en la sociedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Liu Qi</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160005Z" creationid="Mariela" creationdate="20160930T160005Z">
+        <seg>Liu Qi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Liu Yandong</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160022Z" creationid="Mariela" creationdate="20160930T160022Z">
+        <seg>Liu Yandong </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Liu Yunshan</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160040Z" creationid="Mariela" creationdate="20160930T160040Z">
+        <seg>Liu Yunshan </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LiuQi</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155949Z" creationid="Mariela" creationdate="20160930T155949Z">
+        <seg>Liu Qi</seg>
       </tuv>
     </tu>
     <tu>
@@ -15588,8 +15724,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, the contest to be Hu's successor appears to be open.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T203053Z">
-        <seg>Sin embargo, la disputa para ser el sucesor de Hu parecía estar abierta.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T161416Z">
+        <seg>Sin embargo, la disputa para ser el sucesor de Hu parecía estar abierta. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16669,8 +16805,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Organization</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002402Z">
-        <seg>Organización</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155846Z">
+        <seg>Organización </seg>
       </tuv>
     </tu>
     <tu>
@@ -17334,8 +17470,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Public Security</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T003119Z">
-        <seg>Seguridad Pública</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160540Z">
+        <seg>Seguridad Pública </seg>
       </tuv>
     </tu>
     <tu>
@@ -18062,8 +18198,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Seventeenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
-        <seg>Décimo Séptimo congreso del partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160840Z">
+        <seg>Décimo séptimo congreso del partido </seg>
       </tuv>
     </tu>
     <tu>
@@ -18078,16 +18214,16 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Shanghai CCP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T201213Z">
-        <seg>Secretariado del PCCh en Shanghai</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160526Z">
+        <seg>Secretariado del PCCh en Shanghai </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Shanghai CPP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200212Z">
-        <seg>Secretariado del CPP en Shanghái</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155711Z">
+        <seg>Secretariado del CPP en Shanghái </seg>
       </tuv>
     </tu>
     <tu>
@@ -18287,8 +18423,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Sixteenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
-        <seg>Décimo Sexto congreso del partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160653Z">
+        <seg>Décimo sexto congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -21226,8 +21362,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The result of the bargaining that ensued was the selection of two people - Xi Jinping, the 54-year-old son of reform leader Xi Zhongxun, and Li Keqiang - as possible successors, with neither appointed to the Central Military Commission, an appointment that would have suggested that a decision had been made.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T202402Z">
-        <seg>Las negociaciones que siguieron resultaron en la elección de dos personas: Xi Jinping, de 54 años, hijo del líder de la reforma Xi Zhongxun, y Li Keqiang; como posibles sucesores aunque ninguno de ellos fue designado a la Comisión Militar Central; hacerlo habría indicado que ya se había tomado una decisión. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T161127Z">
+        <seg>Las negociaciones que siguieron resultaron en la elección de dos personas: Xi Jinping, de 54 años, hijo del líder de la reforma Xi Zhongxun, y Li Keqiang; como posibles sucesores, aunque ninguno de ellos fue designado a la Comisión Militar Central; hacerlo habría indicado que ya se había tomado una decisión. </seg>
       </tuv>
     </tu>
     <tu>
@@ -23470,16 +23606,16 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Tianjin CCP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T201315Z">
-        <seg>Secretariado del PCCh en Tianjin</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160605Z">
+        <seg>Secretariado del PCCh en Tianjin </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tianjin mayor</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160920T002910Z">
-        <seg>Alcalde de Tianjin</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160517Z">
+        <seg>Alcalde de Tianjin </seg>
       </tuv>
     </tu>
     <tu>
@@ -23870,8 +24006,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>V.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200331Z">
-        <seg>Vicepresidente</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155746Z">
+        <seg>Vicepresidente </seg>
       </tuv>
     </tu>
     <tu>
@@ -23902,16 +24038,16 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Vice premier</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T195802Z">
-        <seg>Vice primer ministro</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T155839Z">
+        <seg>Vice primer ministro </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vice-Premier</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200624Z">
-        <seg>Vice primer ministro</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160245Z">
+        <seg>Vice primer ministro </seg>
       </tuv>
     </tu>
     <tu>
@@ -23964,6 +24100,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang Gang</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160211Z" creationid="Mariela" creationdate="20160930T160211Z">
+        <seg>Wang Gang </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang Guangze, a journalist at the 21st</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T044313Z">
@@ -23992,6 +24136,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160907T214545Z">
         <seg>Wang Hui, el editor de la revista Reading mencionado anteriormente, sostuvo que el pensamiento de la Ilustración perdió su vitalidad porque se basa en la aceptación de las categorías del pensamiento occidental (incluyendo la democracia liberal, la economía neoclásica, el individualismo y la ley) y también porque depende de ciertas dicotomías tales como China versus Occidente y tradición versus modernidad para analizar los problemas de China. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Huning</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160934Z" creationid="Mariela" creationdate="20160930T160934Z">
+        <seg>Wang Huning </seg>
       </tuv>
     </tu>
     <tu>
@@ -24036,6 +24188,22 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wang Lequan</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160151Z" creationid="Mariela" creationdate="20160930T160151Z">
+        <seg>Wang Lequan </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Qishan</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160255Z" creationid="Mariela" creationdate="20160930T160255Z">
+        <seg>Wang Qishan </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wang Shan’s &lt;t0/&gt;Looking at China through a Third Eye&lt;t1/&gt; smashed that taboo, and now books and journals are filled with critiques of official policy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T165206Z">
@@ -24056,6 +24224,22 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T162920Z">
         <seg>Wang Shaoguang formó parte del séquito de jóvenes chinos brillantes que llegaron a Estados Unidos para estudiar en la década de los 80. Fue profesor de la Universidad de Yale y luego se trasladó a la Universidad China de Hong Kong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Yang</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160337Z" creationid="Mariela" creationdate="20160930T160337Z">
+        <seg>Wang Yang </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Zhaoguo</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160220Z" creationid="Mariela" creationdate="20160930T160220Z">
+        <seg>Wang Zhaoguo </seg>
       </tuv>
     </tu>
     <tu>
@@ -25044,6 +25228,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wu Yi</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160234Z" creationid="Mariela" creationdate="20160930T160234Z">
+        <seg>Wu Yi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wu does not specify which leaders raised this issue.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211340Z">
@@ -25134,8 +25326,16 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Xinjiang CCP sec.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200816Z">
-        <seg>Secretariado del PCCh en Xinjiang</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160159Z">
+        <seg>Secretariado del PCCh en Xinjiang </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xu Caihou</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160437Z" creationid="Mariela" creationdate="20160930T160437Z">
+        <seg>Xu Caihou </seg>
       </tuv>
     </tu>
     <tu>
@@ -25261,6 +25461,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yu Zhengsheng</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160311Z" creationid="Mariela" creationdate="20160930T160311Z">
+        <seg>Yu Zhengsheng </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yuan Mu, head of the State Council Research Office.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T142524Z" creationid="Soledad Mori" creationdate="20160927T165640Z">
@@ -25289,6 +25497,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160904T010427Z">
         <seg>Comienza el liderazgo de Zhu Rongji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zeng Peiyang</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160355Z" creationid="Mariela" creationdate="20160930T160355Z">
+        <seg>Zeng Peiyang </seg>
       </tuv>
     </tu>
     <tu>
@@ -25341,10 +25557,34 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zhang Dejiang</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160421Z" creationid="Mariela" creationdate="20160930T160421Z">
+        <seg>Zhang Dejiang </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang Gaoli</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160555Z" creationid="Mariela" creationdate="20160930T160555Z">
+        <seg>Zhang Gaoli </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zhang Kuan was one of the earliest and most influential participants in discussions on Orientalism and colonial culture, but he was by no means alone.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Martin" changedate="20160927T160158Z" creationid="Martin" creationdate="20160927T155800Z">
         <seg>Zhang Kuan era uno de los primeros participantes con mayor influencia en discusiones acerca del orientalismo y la cultura colonial, pero no se encontraba solo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang Lichang</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160511Z" creationid="Mariela" creationdate="20160930T160511Z">
+        <seg>Zhang Lichang </seg>
       </tuv>
     </tu>
     <tu>
