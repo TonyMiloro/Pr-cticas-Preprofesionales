@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14274,8 +14274,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Just as they had raised the specter of national disintegration in their report on state capacity, they suggested that, left unaddressed, social tensions in China could lead to the collapse of the system, as it had in Indonesia.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T182525Z">
-        <seg>Además habían advertido acerca del fantasma de la desintegración nacional en el informe sobre la capacidad estatal, sugirieron que, de no resolverse, las tensiones sociales en China podrían provocar que el sistema colapse, tal como había ocurrido en Indonesia.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T182735Z">
+        <seg>Además habían advertido acerca del fantasma de la desintegración nacional en el informe sobre la capacidad estatal, sugirieron que, de no resolverse, la tensión social en China podría provocar que el sistema colapse, tal como había ocurrido en Indonesia.</seg>
       </tuv>
     </tu>
     <tu>
