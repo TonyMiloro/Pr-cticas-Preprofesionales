@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10187,8 +10187,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He Xin attended that conference, as did anumber of“princes” (those whoseparents werehigh-ranking cadres).&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;This conference was part of an increasingly heated debate between advo- cates of “incremental” change and those who favored “radical” change; indeed, Xiao’s work was very much a part of this debate.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160930T035253Z" creationid="Franco" creationdate="20160930T035245Z">
-        <seg>He Xin, asistió a esa conferencia, así como también una cantidad de“príncipes” (aquellos cuyos padres eran del cuadro de grado superior).&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;This conference was part of an increasingly heated debate between advo- cates of “incremental” change and those who favored “radical” change; indeed, Xiao’s work was very much a part of this debate.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T035339Z" creationid="Franco" creationdate="20160930T035245Z">
+        <seg>He Xin, asistió a esa conferencia, como también lo hicieron varios “príncipes” (aquellos cuyos padres eran líderes políticos de alto nivel).&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;This conference was part of an increasingly heated debate between advo- cates of “incremental” change and those who favored “radical” change; indeed, Xiao’s work was very much a part of this debate.</seg>
       </tuv>
     </tu>
     <tu>
