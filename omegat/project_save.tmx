@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1850,8 +1850,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Reform was given new momentum in late May with the circulation of&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Document No. 4, “The CCP Central Committee’s Opinions on Expediting Reform, Opening Wider to the Outside World, and Working to Raise the Economy to a New Level in a Better and Quicker Way.” The document, apparently drafted under the auspices of Zhu Rongji, marked a major new stage in China’s policy of opening to the outside by declaring that five major inland cities along the Yangtze and nine border trade cities would be opened and that the thirty capitals of China’s provinces and municipalities would enjoy the same preferential treatments and policies as the SEZs.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T194652Z" creationid="Soledad Mori" creationdate="20160927T173753Z">
-        <seg>&lt;f0&gt;a reforma adquirió una importancia considerable a fines de mayo con la circulación&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; del Documento N.º 4, “Las Opiniones del Comité Central del Partido Comunista Chino sobre Expedir la Reforma, Abrirse Más al Mundo, y Trabajar para Elevar la Economía a un Nuevo Nivel de una Manera Mejor y Más Rápida”. El documento, aparentemente esbozado bajo el auspicio de Zhu Rongji, marcó una nueva e importante etapa en las políticas de China sobre su apertura al exterior al declarar que cinco ciudades grandes del interior a lo largo del Yangtze y nueve ciudades comerciales fronterizas se abrirían y que treinta capitales de provincias y municipalidades chinas disfrutarían del mismo tratamiento y políticas preferenciales que las ZEE. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151306Z" creationid="Soledad Mori" creationdate="20160927T173753Z">
+        <seg>&lt;f0&gt;La reforma adquirió una importancia considerable a fines de mayo con la circulación&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; de Documento N.º 4, “Las Opiniones del Comité Central del Partido Comunista Chino sobre la Expedición de la Reforma, y una Mayor Apertura al mundo, y el Trabajo para la Elevación de la Economía a un Nuevo Nivel de una Manera Mejor y Más Rápida”. El documento, aparentemente esbozado bajo el auspicio de Zhu Rongji, marcó una nueva e importante etapa en las políticas de China sobre su apertura al exterior al declarar que cinco ciudades grandes del interior a lo largo del Yangtze y nueve ciudades comerciales fronterizas se abrirían y que treinta capitales de provincias y municipalidades chinas disfrutarían del mismo tratamiento y políticas preferenciales que las ZEE. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14844,8 +14844,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Moreover, the document stated formally what Deng had said in January –namely, that Guangdong was to catch up with the four small dragons in twenty years.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173852Z" creationid="Soledad Mori" creationdate="20160927T173852Z">
-        <seg>Además, en el documento se establecía formalmente que Deng había dicho en enero, principalmente, que Guangdong alcanzaría a los cuatro dragones asiáticos (Corea del Sur, Hong Kong, Singapur y Taiwán) en veinte años.&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151339Z" creationid="Soledad Mori" creationdate="20160927T173852Z">
+        <seg>Además, en el documento se establecía formalmente que Deng había dicho en enero, principalmente, que Guangdong alcanzaría a los cuatro dragones asiáticos en veinte años.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15893,8 +15893,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On June 9, the general secretary followed in the wake of Qiao Shi and Tian Jiyun by giving a major speech at the Central Party School.Jiang at last openly endorsed the view that the “primary focus &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;must be guarding against the ‘left’.” Quoting liberally from Deng’s talks in Shenzhen, Jiang now argued that reform is like “steering a boat against the current.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T150307Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
-        <seg>&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;debería estar en prevenir el izquierdismo”. En una cita libre de las charlas que dio Deng en Shenzhen, Jiang ahora argumentaba que la reforma es como “navegar un barco en contracorrientep</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T150638Z" creationid="Soledad Mori" creationdate="20160927T173533Z">
+        <seg>El 9 de junio, el secretario general siguió los pasos de Qiao Shi y Tian Jiyun al dar un importante discurso en la Escuela Central del Partido Comunista. Finalmente mostró abiertamente su adherencia a la idea de que “el enfoque primordial &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;debería estar en defenderse del izquierdismo”. En una cita libre de las charlas que dio Deng en Shenzhen, Jiang ahora argumentaba que la reforma es como “navegar un barco en contracorriente. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20385,8 +20385,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The more open political atmosphere of the spring encouraged long-silenced liberal intellectuals finally to raise their voices again in protest against leftism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173916Z" creationid="Soledad Mori" creationdate="20160927T173916Z">
-        <seg>La atmósfera política de la primavera era un poco más abierta e incitó a los intelectuales liberales, que por mucho tiempo permanecieron en silencio, a alzar sus voces otra vez como modo de protesta en contra del izquierdismo. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T151505Z" creationid="Soledad Mori" creationdate="20160927T173916Z">
+        <seg>La atmósfera política de la primavera era un poco más abierta e incitó a los intelectuales liberales, que por mucho tiempo permanecieron en silencio, a alzar sus voces otra vez para protestar en contra del izquierdismo.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -23798,8 +23798,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>We will be driven back if we do not forge ahead.” The Party chief nevertheless refrained from calling for a “socialist market economy,” which would become the keynote of the Fourteenth Party Congress, continuing to refer instead to “market regulation” (though he dropped the formulation “integration of planned economy and market regulation”).90 Jiang’s speech was the occasion of the People’s Daily’s first authoritative comment on reform since February.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200254Z" creationid="Soledad Mori" creationdate="20160927T173638Z">
-        <seg> El mar nos va a devolver a menos que avancemos con pasos agigantados”. El jefe del partido, sin embargo, se abstuvo de exigir una “economía de mercado socialista”, lo que se convertiría en la idea clave del Décimococuarto Congreso Nacional del Partido, por lo que siguió hablando de “regulación de mercado” (aunque dejó de lado la fórmula “integración de economía planificada y regulación de mercado”). El discurso de Jiang fue la oportunidad para el importantísimo diario comunista People’s Daily’ de realizar el primer comentario acreditado sobre la reforma desde febrero.&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T150923Z" creationid="Soledad Mori" creationdate="20160927T173638Z">
+        <seg>El mar nos va a devolver a menos que avancemos con determinación”. El jefe del partido, sin embargo, se abstuvo de hacer un llamamiento a la adopción una “economía de mercado socialista”, lo que se convertiría en la idea clave del Décimocuarto Congreso Nacional del Partido, y, en vez de ello, siguió hablando de “regulación de mercado”; sin embargo, dejó de lado la fórmula “integración de economía planificada y regulación de mercado”. El discurso de Jiang fue la oportunidad para el importantísimo diario comunista People’s Daily de realizar el primer comentario acreditado sobre la reforma desde febrero.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
