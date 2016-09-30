@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15060,8 +15060,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Most of these analyses are internal, and thus are never viewed by the public, but as the Sixteenth Party Congress approached, one such analysis, compiled under the auspices of the Central Organization Department, was published openly.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Unfortunately, when the &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;New York Times &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;wrote about the publication, it was quickly withdrawn, shutting down this tentative move in the direction of greater openness.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Nevertheless, this publication, which deals with the growing social order problems facing China, provides a vivid picture of Chinese society as seen from the perspective of the organization system.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T155115Z">
-        <seg>La mayoría de los análisis son asuntos internos y por ello nunca se dan a conocer al público. No obstante, con motivo del  Decimosexto Congreso del Partido, uno de los análisis, recopilado bajo el auspicio del Departamento de Organización del Comité Central, se publicó abiertamente.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lamentablemente, luego de que el &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;New York Times &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;escribiera acerca de este suceso, la publicación se sacó de circulación, poniéndole un freno al avance prometedor hacia una mayor apertura del sistema.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Sin embargo, esta publicación que aborda los crecientes problemas de orden social que China enfrenta brinda, a partir del punto de vista del sistema de organización, una imagen vívida de la sociedad de China.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T155408Z">
+        <seg>La mayoría de los análisis son asuntos internos y por ello nunca se dan a conocer al público. No obstante, con motivo del  Decimosexto Congreso del Partido, uno de los análisis, recopilado bajo el auspicio del Departamento de Organización del Comité Central, se publicó abiertamente.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lamentablemente, luego de que el &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;New York Times &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;escribiera acerca de este suceso, la publicación se sacó de circulación, poniéndole un freno al avance prometedor hacia una mayor apertura del sistema.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Sin embargo, esta publicación, que aborda los crecientes problemas de orden social que China enfrenta, brinda, a partir del punto de vista del sistema de organización, una imagen vívida de la sociedad de China.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
