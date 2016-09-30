@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6193,6 +6193,14 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="XP" changedate="20160915T034135Z">
         <seg>Pero es claro que las presiones políticas y sociales a favor y en contra de distintos tipos de medidas de reforma son más complicadas de lo que eran hace apenas unos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the threat to Jiang Zemin was real.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T040219Z" creationid="Usuario" creationdate="20160930T040219Z">
+        <seg>Sin embargo, la amenaza a Jiang Zemin es real. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20490,6 +20498,14 @@ criminal prosecution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE FIFTH PLENUM: TRYING TO SHAPE AN AGENDA</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T041715Z" creationid="Usuario" creationdate="20160930T041715Z">
+        <seg>El quinto pleno: tratar de darle forma a una agenda </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE TURN AWAY FROM CULTURAL LIBERALISM</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160920T002307Z">
@@ -24675,6 +24691,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This pushed the bounds of acceptable political behavior and was soon curtailed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T040148Z" creationid="Usuario" creationdate="20160930T040148Z">
+        <seg>Esto pasó los límites de un comportamiento político aceptable y pronto fue reducido. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This reaction, it should be noted, differed greatly both from views widely held in the West and by democracy activists in both China and the West.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="daiana" changedate="20160929T180114Z">
@@ -25241,6 +25265,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T134255Z">
         <seg>De este modo, un simposio sobre populismo a finales de 1994 hizo notar este tema tan importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, after circulating the first 10,000 character manifesto, leftists went to the northeast – which was experiencing widescale layoffs – and called meetings in factories to explain the content of the article.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T040114Z" creationid="Usuario" creationdate="20160930T040114Z">
+        <seg>Así, después de rondar los primeros manifiesto de 10 000 caracteres, los izquierdistas fueron al noreste, donde estaban sufriendo despidos a gran escala, y organizaron reuniones en fábricas para explicar el contenido de los artículos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26657,6 +26689,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011217Z">
         <seg>Cuando la Revolución Cultural comenzó, Jiang fue criticado de manera inevitable como una “persona con autoridad que toma el camino capitalista”, pero rápidamente continuó con su carrera cuando se lo eligió en 1971 para liderar una delegación técnica a Rumania.&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Fourteenth Central Committee convened its Fifth Plenum on September 25–28, 1996, there were two items at the top of the agenda.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T041929Z" creationid="Usuario" creationdate="20160930T041929Z">
+        <seg>Cuando la Comité Central decimocuarta  convocó su Quinto Pleno el 25 y 28 de septiembre de 1996, hubo dos puntos prioritarios en la agenda.</seg>
       </tuv>
     </tu>
     <tu>
