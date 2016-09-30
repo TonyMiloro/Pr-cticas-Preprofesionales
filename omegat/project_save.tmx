@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2818,8 +2818,8 @@
       <tuv lang="EN-US">
         <seg>A deci- sion not to name any alternates to the Politburo allowed Wang Gang to be elevated to full membership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T210928Z">
-        <seg>La decisión de no nombrar a ningún suplente al Politburó permitió que Wang Gang ascendiera y tuviera plena adhesión en el Partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>La decisión de no nombrar a ningún suplente al Politburó permitió que Wang Gang ascendiera y tuviera plena adhesión en el partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4388,8 +4388,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As an article in the PRC-owned Hong Kong paper, Ta Kung Pao, put it, "as reform goes deeper, it becomes harder for reform to continue, the contradictions become more conspicuous, the number of difficult issues become more &lt;t0/&gt;numerous, and problems at a deeper level and of structural and essential nature are beginning to impact on the in-depth reform." In response to the current difficulties, the article continued, the government will launch another "great debate on emancipating the mind" and introduce new theories, new ideas, and new policies to push reform deeper.&lt;t1/&gt; So Hu's work report needs to be read in the context of the debates discussed in Chapter 8, debates that were, at least to some extent, stirred up by the populist rhetoric Hu himself had used since becoming general secretary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T224319Z">
-        <seg>Como informa un artículo en el diario estatal de Hong Kong, Ta Kung Pao, "a medida que la reforma se profundiza, se hace más difícil que continúe; las contradicciones se hacen más notorias, el número de dificultades aumenta, y además los problemas centrales y de naturaleza estructural y esencial comienzan a impactar en esta profunda reforma". En respuesta a las dificultades del momento, el artículo continúa, el gobierno comenzará otro "gran debate acerca de la apertura a nuevas ideas" e introducirá nuevas teorías, nuevas ideas y nuevas políticas para profundizar la reforma. Por lo tanto, el informe de trabajo de Hu debería ser analizado en el contexto de los debates mencionados en el capítulo 8. Debates que fueron, hasta cierto punto, fomentados por la retórica populista que el propio Hu había utilizado cuando se convirtió en secretario general. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T144958Z">
+        <seg>Como informa un artículo en el diario estatal de Hong Kong, Ta Kung Pao, "a medida que la reforma se profundiza, se hace más difícil que continúe; las contradicciones se hacen más notorias, el número de dificultades aumenta, y además los problemas centrales y de naturaleza estructural y esencial comienzan a impactar en esta profunda reforma". En respuesta a las dificultades del momento, el artículo continúa, el gobierno comenzará otro "gran debate acerca de la apertura a nuevas ideas" e introducirá nuevas teorías, nuevas ideas y nuevas políticas para profundizar la reforma.  Por lo tanto, el informe de trabajo de Hu debería ser analizado en el contexto de los debates mencionados en el capítulo 8.  Debates que fueron, hasta cierto punto, fomentados por la retórica populista que el propio Hu había utilizado cuando se convirtió en secretario general. &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5525,8 +5525,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But before celebrating the apparent stability of the political system, it is important to keep in mind the very deep debates of recent years - debates that seem likely to continue into the future - and the risks that could develop if stability develops into stasis.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T003707Z">
-        <seg>Pero antes de celebrar la aparente estabilidad del sistema político, es importante tener en cuenta los profundos debates de los últimos años (debates que probablemente continuarán en el futuro) y los conflictos que se podrían desarrollar si la estabilidad se paralizara.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145403Z">
+        <seg>Pero antes de celebrar la aparente estabilidad del sistema político, es importante tener en cuenta los profundos debates de los últimos años (debates que probablemente continuarán en el futuro) y los conflictos que se podrían desarrollar si la estabilidad se paralizara. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5637,8 +5637,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But the Seventeenth Party Congress left open questions about the institutionalization of the Chinese political system; there was the sort of bargaining necessary to achieve compromise but which thereby suggested the uninstitutionalized aspects of elite politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T190529Z">
-        <seg>Aunque el Décimo Séptimo Congreso del Partido abrió un interrogante sobre la institucionalización del sistema político chino, hubo algunas negociaciones necesarias con el fin de llegar a un acuerdo, pero hacerlo significó desinstitucionalizar algunos aspectos de la elite política.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Aunque el Décimo Séptimo Congreso del partido abrió un interrogante sobre la institucionalización del sistema político chino, hubo algunas negociaciones necesarias con el fin de llegar a un acuerdo, pero hacerlo significó desinstitucionalizar algunos aspectos de la elite política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6437,8 +6437,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>China has come a long way from the deep divisions that were so apparent in the period before and after Tiananmen; power is now exercised in a way that both allows for both a primus inter pares and also a balancing of competing interests within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T003347Z">
-        <seg>China ha avanzado bastante desde las profundas divisiones que eran tan evidentes durante el período anterior y posterior a Tiananmén; el poder ahora es ejercido de una manera que permite un (primus inter pares) y un equilibrio de los intereses opuestos dentro del Partido. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>China ha avanzado bastante desde las profundas divisiones que eran tan evidentes durante el período anterior y posterior a Tiananmén; el poder ahora es ejercido de una manera que permite un (primus inter pares) y un equilibrio de los intereses opuestos dentro del partido.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -7461,8 +7461,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng was striving to build a balance in the Party that would out- last himself and one that would contrast with the bitterly divisive leadership situation Mao Zedong had left behind when he died in 1976.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T180530Z">
-        <seg>Deng se esfrozaba para logar un equilibrio en el Partido que perdurara cuando él se hubiera ido y que contrastara con el gobierno tan dividido que Mao Zedong había dejado cuando falleció en 1976.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Deng se esfrozaba para logar un equilibrio en el partido que perdurara cuando él se hubiera ido y que contrastara con el gobierno tan dividido que Mao Zedong había dejado cuando falleció en 1976.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7975,8 +7975,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Epilogue: the Seventeenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T184616Z">
-        <seg>Epílogo: El Décimo Séptimo Congreso del Partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151041Z">
+        <seg>Epílogo: El décimo séptimo Congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -8384,8 +8384,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Finally, and potentially most interesting, in a section on building "social- ist democracy," Hu called for an "organic integration of CCP leadership, the position of the people as masters of the country, and the rule of law," though he did not note the seeming incompatibility of these goals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T231620Z">
-        <seg>Finalmente, y quizá más interesante, en un apartado sobre la construcción de una "democracia socialista", Hu solicitó una "integración dinámica del liderazgo político del PCCh, que el pueblo sea empoderado, y que haya u estado de derecho", aunque no tuvo en cuenta la aparente incompatibilidad de estos objetivos.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145241Z">
+        <seg>Finalmente, y quizá más interesante, en un apartado sobre la construcción de una "democracia socialista", Hu solicitó una "integración dinámica del liderazgo político del PCCh, que el pueblo sea empoderado, y que haya u estado de derecho", aunque no tuvo en cuenta la aparente incompatibilidad de estos objetivos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8889,8 +8889,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For the first time, the Party's leadership would have to manage succession to a younger generation without the shadow of Deng Xiaoping and others handing over them.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T182345Z">
-        <seg>Por primera vez, los líderes del Partido tendrían que arreglárselas para ceder el poder a una generación joven sin la presencia de Deng Xiaoping ni de otros que pudieran influir en la decisión.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Por primera vez, los líderes del partido tendrían que arreglárselas para ceder el poder a una generación joven sin la presencia de Deng Xiaoping ni de otros que pudieran influir en la decisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9209,8 +9209,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Given the different interests in the Party, Deng's arrangements stuck, despite Jiang's palpable desire to pass power on to Zeng Qinghong.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T181821Z">
-        <seg>A pesar de la diferencia de intereses en el Partido, los planes de Deng permanecieron vigentes a pesar del deseo evidente de Jiang de cederle el poder a Zeng Qinghong. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>A pesar de la diferencia de intereses en el partido, los planes de Deng permanecieron vigentes a pesar del deseo evidente de Jiang de cederle el poder a Zeng Qinghong. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9458,8 +9458,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He declared the need to build a "resource-saving and environment-friendly society." Such calls are consis- tent with the policies Hu and Wen have been articulating in recent years, but implementing policies based on these goals with be difficult.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T230804Z">
-        <seg>Además, manifestó la necesidad de construir "una sociedad que proteja los recursos y el medioambiente". Las peticiones son consistentes con las políticas que Hu y Wen han planteado en los ultimos años, aunque implementar políticas que se basen en estos objetivos será muy dificil. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145209Z">
+        <seg>Además, manifestó la necesidad de construir "una sociedad que proteja los recursos y el medioambiente".  Las peticiones son consistentes con las políticas que Hu y Wen han planteado en los ultimos años, aunque implementar políticas que se basen en estos objetivos será muy dificil.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -10058,8 +10058,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu's achievements at this Party Congress were reﬂected in both these events.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T211834Z">
-        <seg>Los logros alcanzados por Hu en el Congreso del Partido se vieron reflejados en estos dos hechos.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Los logros alcanzados por Hu en el Congreso del partido se vieron reflejados en estos dos hechos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10867,8 +10867,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition to selecting a new leadership, Party congresses typically revise the Party constitution to reﬂect changed political thinking and listen to the general secretary give a report that lays out the Party's vision for the next five years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T211709Z">
-        <seg>Además de elegir un nuevo líder político, a menudo, los congresistas del Partido modifican la constitución para reflejar cambios en el pensamiento politico y tienen en cuenta el reporte hecho por el secretario general que muestra la visión que tendrá el partido en los próximos cinco años.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Además de elegir un nuevo líder político, a menudo, los congresistas del partido modifican la constitución para reflejar cambios en el pensamiento politico y tienen en cuenta el reporte hecho por el secretario general que muestra la visión que tendrá el partido en los próximos cinco años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10907,8 +10907,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition, Hu was able to secure the appointments of Ling Jihua, Hu's former secretary, and Li Yuanchao, another &lt;f0&gt;prot&lt;/f0&gt;&lt;f1&gt;é&lt;/f1&gt;&lt;f2&gt;g&lt;/f2&gt;&lt;f3&gt;é &lt;/f3&gt;&lt;f4&gt;from&lt;/f4&gt; the CYL, to the Secretariat (see Table 6), enhancing ege &lt;s5/&gt;Hu's control over the day-to-day operation of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T003814Z">
-        <seg>Además, Hu pudo asegurar los nombramientos al Secretarido de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos de la LJC (véase tabla 6), lo que aumentaba el control de &lt;s5/&gt;Hu sobre las operaciones diarias del Partido.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Además, Hu pudo asegurar los nombramientos al Secretarido de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos de la LJC (véase tabla 6), lo que aumentaba el control de &lt;s5/&gt;Hu sobre las operaciones diarias del partido.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11004,8 +11004,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In awell-researched article in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, Yu Jianrong, a rural researcher at CASS, describes the increasing level of organization of peasants in a county in inland Hunan province (the same county where Mao, 80 years earlier, had organized peasants).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160930T145935Z">
-        <seg>En un artículo confiable publicado en la revista &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Estrategia y Administración, Yu Jianrong, un investigador de comunidades rurales de la CASS, describe el aumento en el nivel de organización de los campesinos en una subprefectura del área continental de la provincia de Hunan (la misma subprefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T200804Z">
+        <seg>En un artículo confiable presente en la revista &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Estrategia y Administración), Yu Jianrong, un investigador rural de la Academia China de Ciencias Sociales, describe el aumento en el nivel de organización de los campesinos en una sub-prefectura de la provincia continental de Hunan (la misma sub-prefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11700,8 +11700,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the case of the Seventeenth Party Congress, enforcing a retirement age of 68 was important because Zeng Qinghong was 68.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T193949Z">
-        <seg>En el caso del Décimo Séptimo Congreso del Partido, haber impuesto los 68 años como edad de jubilación fue significativo ya que Zeng Qinghong tenía esa edad.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>En el caso del Décimo Séptimo Congreso del partido, haber impuesto los 68 años como edad de jubilación fue significativo ya que Zeng Qinghong tenía esa edad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12631,8 +12631,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It has long been rumored creditably that Hu would like to pass power on to Li Keqiang, the former head of the CYL who has subsequently served as Party secretary in Henan and Liaoning provinces, two of the most difficult assignments in Chinese politics.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T202101Z">
-        <seg>Desde hacía mucho tiempo, había rumores bastante acertados de que Hu tenía la intención de cederle el poder a Li Keqiang, antiguo líder de la LJC y posterior secretario del Partido en las provincias de Henan and Liaoning, dos de las tareas más difíciles en la política china.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T150143Z">
+        <seg>Desde hacía mucho tiempo, había rumores bastante acertados de que Hu tenía la intención de cederle el poder a Li Keqiang, antiguo líder de la LJC y posterior secretario del partido en las provincias de Henan y Liaoning, dos de las tareas más difíciles en la política china.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15212,8 +15212,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, in 1992, Deng Xiaoping selected Hu Jintao, then only 50 years of age, to the Politburo Standing Committee (PBSC) at the Fourteenth Party Congress, apparently naming him internally as Jiang's successor.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T180231Z">
-        <seg>Sin embargo, en 1992, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, como secretario general del Comité Permanente del Politburó (PBSC) en el Décimo Cuarto Congreso del Partido, lo que parecía significar que Deng había elegido a Hu para ser el sucesor de Jiang.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145527Z">
+        <seg>Sin embargo, en 1992, Deng Xiaoping eligió a Hu Jintao, de tan solo 50 años en ese momento, como secretario general del Comité Permanente del Politburó (PBSC) en el Décimo Cuarto Congreso del partido, lo que parecía significar que Deng había elegido a Hu para ser el sucesor de Jiang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16069,8 +16069,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One deputy Party secretary in Hunan’s Xinning county had an ear cut off as he tried to collect taxes; in Hunan’s Longshan county two cadres were killed in clashes.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T145553Z">
-        <seg>A un vicesecretario del Partido en la subprefectura de Xinning de Hunan le cortaron una oreja cuando intentaba recaudar impuestos, y en la subprefectura de Longshan de Hunan, dos dirigentes murieron en enfrentamientos.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175352Z">
+        <seg>A un vice-secretario del Partido en la sub-prefectura de Xinning de Hunan le cortaron una oreja cuando intentaba recaudar impuestos; y en la subprefectura de Longshan de Hunan, dos dirigentes murieron en enfrentamientos.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16549,8 +16549,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Particu- larly intriguing in this regard was his support for the "practice in which candidates for leading positions in grassroots party organizations are rec- ommended by both Party members and the public in an open manner and by the Party organization at the next highest level" and to "gradually extend direct election [zhijie xuanju] of leading members in grass-roots party orga- nizations to more places."&lt;t0/&gt; Although the text makes clear that Hu's reference to "direct election" was limited to inner-Party elections of grassroots leaders, his use of the term "public" (qunzhong, literally, the masses) in reference to recommending local leaders appears to give the green light to local experiments in which non-Party members of the public have played some role in selecting local Party leaders.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T000001Z">
-        <seg>Lo particularmente intrigante en este aspecto fue su apoyo a la "práctica en la que los candidatos a cargos directivos en organizaciones partidarias de base son recomendados tanto por miembros del Partido como por el público de forma abierta, y luego por la organización del Partido en la siguiente instancia" y su apoyo a "prolongar gradualmente la elección directa (zhijie xuanjiu) de los miembros destacados en organizaciones partidarias de base hacia otros cargos". Aunque el texto deja bien claro que la referencia que hace Hu a la "elección directa" solo se limitaba a las elecciones intrapartidarias de los líderes de base, el uso que hace del término "publico" (qunzhong, literalmente, las masas) que se refiere a la recomendación de los líderes locales parece dar el visto bueno a los experimentos locales, en los cuales los miembros del público no pertenecientes al Partido tuvieron cierta participación en la seleccion de los líderes locales.&lt;t0/&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Lo particularmente intrigante en este aspecto fue su apoyo a la "práctica en la que los candidatos a cargos directivos en organizaciones partidarias de base son recomendados tanto por miembros del partido como por el público de forma abierta, y luego por la organización del partido en la siguiente instancia" y su apoyo a "prolongar gradualmente la elección directa (zhijie xuanjiu) de los miembros destacados en organizaciones partidarias de base hacia otros cargos".  Aunque el texto deja bien claro que la referencia que hace Hu a la "elección directa" solo se limitaba a las elecciones intrapartidarias de los líderes de base, el uso que hace del término "publico" (qunzhong, literalmente, las masas) que se refiere a la recomendación de los líderes locales parece dar el visto bueno a los experimentos locales, en los cuales los miembros del público no pertenecientes al partido tuvieron cierta participación en la seleccion de los líderes locales. &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16565,8 +16565,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160906T234913Z">
-        <seg>Congreso del Partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -16661,8 +16661,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Perhaps the subtext of the Party conclave, however, is that Hu must pursue these goals within the context of recognizing the different interests that exist within the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T003126Z">
-        <seg>Quizás el trasfondo del cónclave del Partido; sin embargo, es que Hu debe alcanzar estos objetivos dentro del contexto del reconocimiento de los diferentes intereses que existen dentro del Partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Quizás el trasfondo del cónclave del partido; sin embargo, es que Hu debe alcanzar estos objetivos dentro del contexto del reconocimiento de los diferentes intereses que existen dentro del partido. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16685,8 +16685,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Personnel changes in the rest of the Politburo followed the same pattern of age-based retirements and bargaining over new appointments.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T203747Z">
-        <seg>Los cambios de personal en el resto del Polítburó continuaron el mismo patrón de jubilaciones en base a la edad y a las negociaciones sobre los nuevos nombramientos.  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T144457Z">
+        <seg>Los cambios de personal en el resto del Polítburó continuaron el mismo patrón de jubilaciones en base a la edad y a las negociaciones sobre los nuevos nombramientos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17318,8 +17318,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, Hu discussed his scientific development concept at length (if not in depth), stressing that it "shares the same lineage as Marxism, Mao Zedong Thought, Deng Xiaoping Theory, and the important thinking of the 'Three Represents'." Hu defined his scientific development concept as being "people centered" and as requiring the development of a "social- ist harmonious society." Hu stressed the need to strengthen sustainable development by moving more quickly from extensive development, which relies on a high rate of investment, to intensive development, which relies on the more efficient use of resources.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T230238Z">
-        <seg>Segundo, Hu analizó en detalle (por no decir en profundidad) su concepto del desarrollo científico, enfatizando que este "comparte el mismo lineamiento que el Marxismo, el pensamiento de Mao Zedong, la teoría de Deng Xiaoping, y el importante concepto de la 'Triple Representatividad' ". Hu define su concepto de desarrollo científico como uno "centrado en la gente" y que requiere de la formación de una "sociedad socialista armoniosa". Hu remarcó la necesidad de fortalecer el desarrollo sustentable que podía lograrse pasando lo antes posible de un modelo de desarrollo de crecimiento extensivo, que depende de una alta taza de inversión, hacia un desarrollo intensivo, que depende un uso más eficiente de los recursos. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145147Z">
+        <seg>Segundo, Hu analizó en detalle (por no decir en profundidad) su concepto del desarrollo científico, enfatizando que este "comparte el mismo lineamiento que el Marxismo, el pensamiento de Mao Zedong, la teoría de Deng Xiaoping, y el importante concepto de la 'Triple Representatividad' ".  Hu define su concepto de desarrollo científico como uno "centrado en la gente" y que requiere de la formación de una "sociedad socialista armoniosa".  Hu remarcó la necesidad de fortalecer el desarrollo sustentable que podía lograrse pasando lo antes posible de un modelo de desarrollo de crecimiento extensivo, que depende de una alta taza de inversión, hacia un desarrollo intensivo, que depende un uso más eficiente de los recursos.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -17350,8 +17350,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, in part because Jiang Zemin was so successful in promoting his prot&lt;f0&gt;égé&lt;/f0&gt; to the Politburo at the Sixteenth Party Congress, the Seventeenth Party Congress could not rely simply on promotion by seniority to choose a new leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T184435Z">
-        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el Décimo Sexto Congreso del Partido, el Décimo Séptimo Congreso del Partido, que debía elegir al nuevo líder, no podía hacerlo teniendo en cuenta solamente el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>En segundo lugar, debido en parte a que Jiang Zemin tuvo tanto éxito al promover a sus protegidos al Politburó en el Décimo Sexto Congreso del partido, el Décimo Séptimo Congreso del partido, que debía elegir al nuevo líder, no podía hacerlo teniendo en cuenta solamente el ascenso por antigüedad. &lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17678,8 +17678,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Seventeenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T201033Z">
-        <seg>Décimo Séptimo Congreso del Partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Décimo Séptimo Congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -17895,8 +17895,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Sixteenth Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T201021Z">
-        <seg>Décimo Sexto Congreso del Partido</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Décimo Sexto Congreso del partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -18379,8 +18379,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Such experiments have been highly con- troversial, and while this statement falls far short of what many outside observers would like, it nevertheless represents an important affirmation of inner-Party reform thinking.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T000909Z">
-        <seg>Tales experimentos han generado bastante controversia, y aunque esta declaración no cumple con las expectativas de muchos observadores ajenos al Partido. Sin embargo, esta significa una importante afirmación del pensamiento reformista intrapartidario.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Tales experimentos han generado bastante controversia, y aunque esta declaración no cumple con las expectativas de muchos observadores ajenos al partido.  Sin embargo, esta significa una importante afirmación del pensamiento reformista intrapartidario. </seg>
       </tuv>
     </tu>
     <tu>
@@ -18844,8 +18844,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>The CCP convened its Seventeenth Party Congress, October 15-20, 2007, followed on October 21 by the First Plenary Session of the newly elected Central Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T175829Z">
-        <seg>El PCCh convocó su Décimo Séptimo Congreso del Partido del 15 al 20 de octubre de 2007, al que le siguió el 21 de octubre la primera sesión plenaria del Comité Central recién electo.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T150927Z">
+        <seg>El PCCh convocó su décimo séptimo Congreso del partido del 15 al 20 de octubre de 2007, al que le siguió el 21 de octubre la primera sesión plenaria del Comité Central recién electo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19038,8 +19038,8 @@ Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en 
       <tuv lang="EN-US">
         <seg>The Seventeenth Party Congress was the fourth Party Congress held since the tragic events of June 1989, and it marked a new stage in the political evolution of the CCP.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T185144Z">
-        <seg>El Décimo Séptimo Congreso del Partido fue el cuarto en celebrarse luego de los trágicos eventos de junio de 1989, y marcó una nueva etapa en la evolución política del PCCh.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145521Z">
+        <seg>El Décimo Séptimo Congreso del partido fue el cuarto en celebrarse luego de los trágicos eventos de junio de 1989, y marcó una nueva etapa en la evolución política del PCCh. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19375,8 +19375,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The bottom line is that as Hu Jintao moves into his second term as general secretary, the Seventeenth Party Congress has given him a substantial, but not unlimited, mandate to pursue his agenda of addressing inequity in society, pursuing growth in ways that are more compatible with sustainable development, and the implementation of Party building efforts that will incorporate a greater degree of inner-Party democracy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T002930Z">
-        <seg>El resultado es que a medida que Hu Jintao avanza hacia su segundo período como secretario general, el Decimo Séptimo Congreso del Partido le ha encomendado, de manera sustancial, pero no ilimitada, que continúe con su agenda que aborda la inequidad en la sociedad, que busca el crecimiento de formas que sean más compatibles con el desarrollo sustentable, y que busca la implementación de iniciativas por parte del Partido que contribuyan a los esfuerzos de construir un mayor grado de democracia intrapartidaria.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>El resultado es que a medida que Hu Jintao avanza hacia su segundo período como secretario general, el Decimo Séptimo Congreso del partido le ha encomendado, de manera sustancial, pero no ilimitada, que continúe con su agenda que aborda la inequidad en la sociedad, que busca el crecimiento de formas que sean más compatibles con el desarrollo sustentable, y que busca la implementación de iniciativas por parte del partido que contribuyan a los esfuerzos de construir un mayor grado de democracia intrapartidaria. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20538,8 +20538,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The ouster of Shanghai Party Secretary Chen Liangyu in September 2006 (see Chapter 8) was the inevitable opening shot in the informal political bargaining that would take place.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T183524Z">
-        <seg>La destitución de Chen Liangyu, secretario general del Partido Comunista chino en Shanghái, en septiembre de 2006 (véase capítulo 8) fue el anticipo inevitable de futuras negociaciones políticas informales.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>La destitución de Chen Liangyu, secretario general del partido Comunista chino en Shanghái, en septiembre de 2006 (véase capítulo 8) fue el anticipo inevitable de futuras negociaciones políticas informales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20818,8 +20818,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The revisions to the Party constitution were the most extensive in the reform era and incorporated Hu's scientific development concept, calling it "a major strategic thought that must be upheld and applied in developing socialism with Chinese characteristics." Given how long it took to incorporate Deng Xiaoping's "theory' into the constitution and Jiang Zemin's "Three Represents," this rapid enshrinement of Hu Jintao's scientific development concept and demand to build a harmonious society marks a major achievement and suggests that Hu will be able to put an even greater stamp on the Chinese political system over the next five years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T213559Z">
-        <seg>Las revisiones a la constitución del Partido en la era de la reforma fueron las más amplias e incluyeron el concepto de desarrollo científico de Hu que se conoce como "un gran pensamiento estratégico que debe ser sostenido y aplicado para el desarrollo del socialismo chino". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping a la constitución y el concepto de la "Triple Representatividad" de Jiang Zemin, el rápido éxito del concepto de desarrollo científico de Hu Jintao y la necesidad de construir una sociedad en armonía, marca un gran logro e implica que Hu podrá seguir influyendo con mayor fuerza sistema político chino durante los próximos cinco años.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Las revisiones a la constitución del partido en la era de la reforma fueron las más amplias e incluyeron el concepto de desarrollo científico de Hu que se conoce como "un gran pensamiento estratégico que debe ser sostenido y aplicado para el desarrollo del socialismo chino". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping a la constitución y el concepto de la "Triple Representatividad" de Jiang Zemin, el rápido éxito del concepto de desarrollo científico de Hu Jintao y la necesidad de construir una sociedad en armonía, marca un gran logro e implica que Hu podrá seguir influyendo con mayor fuerza sistema político chino durante los próximos cinco años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21724,8 +21724,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These uninstitutionalized aspects may yet come back to haunt the Party in the future.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T190915Z">
-        <seg>Los aspectos desinstitucionalizados podrían aún volver a atormentar al Partido en el futuro.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Los aspectos desinstitucionalizados podrían aún volver a atormentar al partido en el futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21740,8 +21740,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These were filled by Li Yuanchao, who will take over the Organization Department and help shape a Party leadership more in Hu's image; Wang Qishan, an experienced banker who is likely to be named a vice-premier at the NPC meeting in March 2008; Liu Yandong, a CYL cadre who has good ties with Zeng Qinghong for historical reasons; Bo Xilai, the son of the late Party elder Bo Yibo; Zhang Gaoli, who replaced Zhang Lichang as Party secretary of Tianjin, one of the three municipalities that are granted seats on the Politburo; and Xu Caihou, a vice-chairman of the CMC who replaces the retiring Cao Gangchuan and maintains the PLA tradition of having two seats on the Politburo.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T210543Z">
-        <seg>Estas vacantes fueron ocupadas por: Li Yuanchao, quien estará a cargo del Departamento de Organización y además contribuirá a dar forma al liderazgo del Partido para que se adecúe a la imagen de Hu; Wang Qishan, un bancario con experiencia quien probablemente sería nombrado vice primer ministro en la reunión de la APN en marzo de 2008; Liu Yandong, un delegado de la LJC, quien mantiene una buena relación con Zeng Qinghong debido a cuestiones históricas; Bo Xilai, hijo del antiguo miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del Partido en Tianjin, uno de los tres municipios a los que se le otorgan bancas en el Politburó; y Xu Caihou, el vicepresidente de la Comisión Militar Central, quien reemplaza al retirado Cao Gangchuan y quien mantiene la tradición del EPL de ocupar dos bancas en el Politburó.  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Estas vacantes fueron ocupadas por: Li Yuanchao, quien estará a cargo del Departamento de Organización y además contribuirá a dar forma al liderazgo del partido para que se adecúe a la imagen de Hu; Wang Qishan, un bancario con experiencia quien probablemente sería nombrado vice primer ministro en la reunión de la APN en marzo de 2008; Liu Yandong, un delegado de la LJC, quien mantiene una buena relación con Zeng Qinghong debido a cuestiones históricas; Bo Xilai, hijo del antiguo miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del partido en Tianjin, uno de los tres municipios a los que se le otorgan bancas en el Politburó; y Xu Caihou, el vicepresidente de la Comisión Militar Central, quien reemplaza al retirado Cao Gangchuan y quien mantiene la tradición del EPL de ocupar dos bancas en el Politburó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21908,8 +21908,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Third, to what extent would the Seventeenth Party Congress ratify Hu Jintao's ideas, such as the scientific development concept?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T184630Z">
-        <seg>En tercer lugar, ¿hasta qué punto ratificaría el Décimo Séptimo Congreso del Partido las ideas de Hu Jintao, tales como el concepto de desarrollo científico? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>En tercer lugar, ¿hasta qué punto ratificaría el Décimo Séptimo Congreso del partido las ideas de Hu Jintao, tales como el concepto de desarrollo científico? </seg>
       </tuv>
     </tu>
     <tu>
@@ -21996,8 +21996,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This context implies a long period of navigating among competing interests.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160924T003207Z">
-        <seg>Este contexto implica atravesar un largo período de intereses competitivos.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145348Z">
+        <seg>Este contexto implica atravesar un largo período de intereses competitivos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22132,8 +22132,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This is a question that necessarily will con- tinue to hang over the Party through at least the next Party Congress in 2012.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T184351Z">
-        <seg>Sin dudas, ese asunto sería un pensamiento recurrente entre los miembros del Partido al menos hasta el siguiente Congreso en el año 2012.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Sin dudas, ese asunto sería un pensamiento recurrente entre los miembros del partido al menos hasta el siguiente Congreso en el año 2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22918,8 +22918,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Thus, there were three interesting questions to be tackled at the Sev- enteenth Party Congress.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T181929Z">
-        <seg>De este modo, había tres temas importantes que se debían resolver en el Décimo Séptimo Congreso del Partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>De este modo, había tres temas importantes que se debían resolver en el Décimo Séptimo Congreso del partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23326,8 +23326,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Until the CCP is willing to commit itself on paper to a rule governing retirement at the highest level, it has to be assumed that the retirement age adopted at any given Party Congress is subject to negotiation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T193854Z">
-        <seg>Hasta que el PCCh esté dispuesto a comprometerse por escrito a imponer la edad de jubilación de los gobernantes de alto rango, se supone que la edad de jubilación que se emplea en cualquier Congreso del Partido es negociable.  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>Hasta que el PCCh esté dispuesto a comprometerse por escrito a imponer la edad de jubilación de los gobernantes de alto rango, se supone que la edad de jubilación que se emplea en cualquier Congreso del partido es negociable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24478,8 +24478,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Would Hu be able to get this and other ideas into an amended Party constitution?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T183823Z">
-        <seg>¿Podría Hu agregar esta y otras ideas a una enmienda de la constitución del Partido? </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
+        <seg>¿Podría Hu agregar esta y otras ideas a una enmienda de la constitución del partido? </seg>
       </tuv>
     </tu>
     <tu>
@@ -24743,8 +24743,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zeng Qinghong's retirement also came at the cost of the promotion of two other people close to the Jiang Zemin group - He Guoqiang and Zhou Yongkang.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T201311Z">
-        <seg>La jubilación de Zeng Qinghong también significó el ascenso de otras dos personas cercanas al grupo de Jiang Zemin: He Guoqiang and Zhou Yongkang. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T150218Z">
+        <seg>La jubilación de Zeng Qinghong también significó el ascenso de otras dos personas cercanas al grupo de Jiang Zemin: He Guoqiang y Zhou Yongkang. </seg>
       </tuv>
     </tu>
     <tu>
