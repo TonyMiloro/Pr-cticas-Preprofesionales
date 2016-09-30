@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -777,8 +777,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;claimed that the failure of the PRC media to cover Deng’s trip was at Deng’s insistence.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193048Z">
-        <seg>El periódico&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que fue por insistencia de Deng que los medios de comunicación de la PRCh no cubrieron el viaje.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T113119Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Wen wei po &lt;/f7&gt;&lt;f8&gt;señaló que fue por insistencia de Deng que los medios de comunicación de la PRCh no cubrieron el viaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,8 +1890,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Initially, the PRC media did not report Deng’s trip and the CCP did not relay his comments internally.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193007Z">
-        <seg>En un principio, los medios de comunicación de la RPCh no informaron sobre el viaje de Deng y el PCCh no difundió los comentarios de Deng en su seno.&lt;f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T112651Z">
+        <seg>En un principio, los medios de comunicación de la RPCh no informaron sobre el viaje de Deng y el PCCh no difundió internamente los comentarios de Deng.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14588,8 +14588,8 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was only after the Hong Kong media began reporting on Deng’s trip that the PRC-owned Hong Kong papers &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;and &lt;/f4&gt;&lt;f5&gt;Ta kung pao &lt;/f5&gt;&lt;f6&gt;began covering it.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T193034Z">
-        <seg>No fue sino hasta después de que los medios de comunicación de Hong Kong comenzaron a informar sobre el viaje de Deng que los periódicos de Hong Kong que eran propiedad de la RPCh, &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;y&lt;/f4&gt;&lt;f5&gt;Ta kung pao, &lt;/f5&gt;&lt;f6&gt;empezaron a cubrir el viaje.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T112727Z">
+        <seg>No fue sino hasta después de que los medios de comunicación de Hong Kong comenzaron a informar sobre el viaje de Deng que los diarios de Hong Kong que eran propiedad de la RPCh, &lt;/f0&gt;&lt;f1&gt;Wen wei&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;po &lt;/f3&gt;&lt;f4&gt;y&lt;/f4&gt;&lt;f5&gt;Ta kung pao, &lt;/f5&gt;&lt;f6&gt;empezaron a cubrir el viaje.</seg>
       </tuv>
     </tu>
     <tu>
