@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2066,8 +2066,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Politburo membership before and after the Seventeenth &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153320Z">
-        <seg>&lt;f0&gt;Table 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del décimo séptimo &lt;/f1&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T183341Z">
+        <seg>&lt;f0&gt;Tabla 5:&lt;/f0&gt;&lt;f1&gt; Miembros del Politburó antes y después del décimo séptimo &lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7958,8 +7958,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Despite reports that Zeng and Hu were working effec- tively together, Zeng remained a formidable political actor, one who could effectively constrain Hu's power and plans.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T181431Z">
-        <seg>A pesar de que los rumores indicaban que Zeng y Hu trabajaban juntos de manera eficaz, Zeng, mantuvo una postura de buen político a través de la cuál podría limitar los planes y el poder de Hu. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T181704Z">
+        <seg>A pesar de que los rumores indicaban que Zeng y Hu trabajaban juntos de manera eficaz, Zeng, mantuvo la postura de buen político a través de la cual podría limitar los planes y el poder de Hu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13272,8 +13272,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It meant that Jia Qinglin, 67, and Li Changchun, 63, would remain on the &lt;t0/&gt;Politburo Standing Committee (PBSC), taking up positions that might otherwise have been used for allies of Hu.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160922T203319Z">
-        <seg>Significaba que Jia Qinglin, de 67, y Li Changchun, de 63, continuarían siendo miembros del Comité Permanente del Politburó (PBSC), ocupando cargos que de otra manera podrían haber sido destinados a los aliados de Hu.&lt;t0/&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T181858Z">
+        <seg>Significaba que Jia Qinglin, de 67, y Li Changchun, de 63, continuarían siendo miembros del Comité Permanente del Politburó (PBSC) y que ocuparían cargos que de otra manera podrían haber sido destinados a los aliados de Hu.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18134,8 +18134,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Secretary</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T153453Z" creationid="Mariela" creationdate="20160930T153453Z">
-        <seg>Secretario del partido en Pekín.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T182609Z" creationid="Mariela" creationdate="20160930T153453Z">
+        <seg>Secretario del partido en Pekín </seg>
       </tuv>
     </tu>
     <tu>
