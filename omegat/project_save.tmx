@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1700,6 +1700,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T134146Z">
         <seg>&lt;f0&gt;Tras el XIV Congreso del Partido, Jiang llegó a un curso que podría considerarse en términos generales neoconservador, aunque sin las apelaciones nacionalistas o populistas explícitas que algunos neoconservadores pedían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Increasingly, the Chinese government has been forced to take this critical public opinion into account – not only because of the mobilizing potential inherent in it but also because there are political leaders and interests that support these views.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131853Z" creationid="Lucia Cipolatti" creationdate="20160930T131853Z">
+        <seg>Cada vez más, el gobierno chino se ha visto obligado a tomar esta crítica opinión pública –no solo por el movilizante potencial ingerente del mismo, sino que también existen líderes políticos que apoyan estos puntos de vista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23407,6 +23415,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
         <seg>Wang Shan’s &lt;t0/&gt;Looking at China through a Third Eye&lt;t1/&gt; smashed that taboo, and now books and journals are filled with critiques of official policy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T165206Z">
+        <seg>&lt;t0/&gt;Looking at China through a Third Eye&lt;t1/&gt; por Wang Shan desterró ese tabú y ahora los libros y revistas estan llenos de críticas de políticas oficiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wang Shan’s Looking at China through a Third Eye smashed that taboo, and now books and journals are filled with critiques of official policy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131826Z" creationid="Lucia Cipolatti" creationdate="20160930T131826Z">
         <seg>&lt;t0/&gt;Looking at China through a Third Eye&lt;t1/&gt; por Wang Shan desterró ese tabú y ahora los libros y revistas estan llenos de críticas de políticas oficiales.</seg>
       </tuv>
     </tu>
