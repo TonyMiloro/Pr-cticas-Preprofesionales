@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16500,8 +16500,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>October 22 Shanghai Party Secretary Huang Ju and Beijing Party Secretary Jia Qinglin are transferred to the center</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T200303Z">
-        <seg>22 de octtubre Se transfiere al centro a los secretarios del partido de Shanghái y Pekín, Huang Ju y Jia Qinglin.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T200638Z">
+        <seg>22 de octubre Se transfiere al centro a los secretarios del partido de Shanghái y Pekín, Huang Ju y Jia Qinglin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27340,8 +27340,8 @@ Durante semanas y meses después de Tiananmén, no existía casi ningún debate 
       <tuv lang="EN-US">
         <seg>xiv Chronology</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160920T032132Z">
-        <seg>xiv Cronología</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T200526Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
