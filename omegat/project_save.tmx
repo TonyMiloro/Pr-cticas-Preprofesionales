@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6309,8 +6309,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chen had long felt that Deng had, like Mao, created his own “one voice chamber” (&lt;t0/&gt;yiyantang&lt;t1/&gt;) and had thereby not abided by the tenets of collective leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Abril" changedate="20160909T133325Z">
-        <seg>Chen había sentido por mucho tiempo que Deng, al igual que Mao, había creado su propia  "cámara de una sola voz" (yiyantang) y entonces no había respetado los principios del liderazgo conjunto.</seg>
+      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T145747Z">
+        <seg>Chen había sentido por mucho tiempo que Deng, al igual que Mao, había creado su propia  ”cámara de una sola voz” (yiyantang) y entonces no había respetado los principios del liderazgo conjunto.</seg>
       </tuv>
     </tu>
     <tu>
