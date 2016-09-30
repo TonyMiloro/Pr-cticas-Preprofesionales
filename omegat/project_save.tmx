@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5581,8 +5581,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Because Deng’s demise was long anticipated and activities surrounding the events occurred with orchestrated smoothness, its impact has been obscured.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T163140Z">
-        <seg>Como la defunción de Deng ya se venía anticipando y las actividades relacionadas a los acontecimientos ocurrieron con una fluidez orquestada, su impacto fue eclipsado/opacado. </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015157Z">
+        <seg>Como la defunción de Deng ya se venía anticipando y las actividades relacionadas a su muerte fueron orquestadas con enorme destreza, no tuvo un impacto muy fuerte. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19826,8 +19826,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Stability and continuity seemed to be the order of the day, but – in his eulogy at Deng’s funeral – Jiang dropped a hint that he had something more than mere continuity in mind.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T172718Z">
-        <seg>La estabilidad y la ontinuidad estaban a la orden del día pero, en su elogio durante el funeral de Deng, Jiang  dio una pista de que no sólo tenía en mente una simple continuidad.  </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T015226Z">
+        <seg>La estabilidad y la continuidad parecían estar a la orden del día pero, en su discurso en el funeral de Deng, Jiang dio una pista de que no tenía en mente únicamente continuar por el camino de Deng. </seg>
       </tuv>
     </tu>
     <tu>
