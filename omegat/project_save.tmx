@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6541,8 +6541,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>CHINA SINCE TIANANMEN: From Deng Xiaoping to Hu Jintao</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Franco" changedate="20160906T003422Z">
-        <seg>China desde Tiananmén: desde Deng Xiaoping hasta Hu Jintao</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T032842Z">
+        <seg>China desde Tiananmén: desde Deng Xiaoping hasta Hu Jinta</seg>
       </tuv>
     </tu>
     <tu>
@@ -11747,8 +11747,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In a passage reminiscent of Sun Yat-sen’s discussion of “thinker- inventors”&lt;s10/&gt;&lt;/f8&gt;&lt;f11&gt;(xianzhizhe,&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;those who were able to comprehend the trends of their time), their disciples&lt;s14/&gt;&lt;/f12&gt;&lt;f15&gt;(houzhizhe),&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;and the unconscious performers&lt;s18/&gt;&lt;/f16&gt;&lt;f19&gt;(buzhizhe),&lt;/f19&gt;&lt;f20&gt;&lt;s21/&gt;Wang noted the elitism inherent in his concept: “Advanced ele- ments in a society first apprehend&lt;s22/&gt;&lt;/f20&gt;&lt;f23&gt;(tiren)&lt;/f23&gt;&lt;f24&gt;&lt;s25/&gt;the aesthetic ideals that represent the direction in which history is developing, and then they energetically propagate these aesthetic ideals so that they spread to every member of society, creating an atmosphere conducive to the realization of these aes- thetic ideals.”&lt;/f24&gt;&lt;f26&gt;&lt;t27/&gt;&lt;/f26&gt;&lt;f28&gt;&lt;s29/&gt;&lt;/f28&gt;&lt;f30&gt;In short, the creation and maintenance of political values and ideals, like the extraction of resources and the development of strong and efficient public authority, were a necessary part of maintaining social order in the course of modernization.&lt;/f30&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T052626Z" creationid="Rocio" creationdate="20160928T050733Z">
-        <seg>En un pasaje reminiscente de la discusión de Sun Yat-sen sobre los "inventores-pensadores"&lt;s10/&gt;&lt;/f8&gt;&lt;f11&gt;(xianzhizhe,&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;aquellos capaces de comprender las tendencias de su tiempo), sus discípulos&lt;s14/&gt;&lt;/f12&gt;&lt;f15&gt;(houzhizhe),&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;y los actores inconscientes&lt;s18/&gt;&lt;/f16&gt;&lt;f19&gt;(buzhizhe),&lt;/f19&gt;&lt;f20&gt;&lt;s21/&gt;Wang se dio cuenta del elitismo inherente en este concepto: “Los elementos avanzados en una sociedad primero aprehenden,&lt;s22/&gt;&lt;/f20&gt;&lt;f23&gt;(tiren)&lt;/f23&gt;&lt;f24&gt;&lt;s25/&gt;los ideales estéticos que representan la dirección en la que se desarrolla la historia, y luego propagan enérgicamente estos ideales estéticos para que lleguen a cada miembro de la sociedad, para crear una atmósfera conducente a la realización de estos ideales estéticos”.&lt;/f24&gt;&lt;f26&gt;&lt;t27/&gt;&lt;/f26&gt;&lt;f28&gt;&lt;s29/&gt;&lt;/f28&gt;&lt;f30&gt;En otras palabras, la creación y el mantenimiento de los valores y los ideales políticos, como la extracción de recursos y el desarrollo de una autoridad pública fuerte y eficiente, eran una parte necesaria para mantener el orden social en el curso de la modernización.public authority, were a necessary part of maintaining social order in the course of modernization.&lt;/f30&gt;</seg>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T032923Z" creationid="Rocio" creationdate="20160928T050733Z">
+        <seg>En un pasaje reminiscente de la discusión de Sun Yat-sen sobre los "inventores-pensadores"&lt;s10/&gt;&lt;/f8&gt;&lt;f11&gt;(xianzhizhe,&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;aquellos capaces de comprender las tendencias de su tiempo), sus discípulos&lt;s14/&gt;&lt;/f12&gt;&lt;f15&gt;(houzhizhe),&lt;/f15&gt;&lt;f16&gt;&lt;s17/&gt;y los actores inconscientes&lt;s18/&gt;&lt;/f16&gt;&lt;f19&gt;(buzhizhe),&lt;/f19&gt;&lt;f20&gt;&lt;s21/&gt;Wang se dio cuenta del elitismo inherente en este concepto: “Los elementos avanzados en una sociedad primero aprehenden,&lt;s22/&gt;&lt;/f20&gt;&lt;f23&gt;(tiren)&lt;/f23&gt;&lt;f24&gt;&lt;s25/&gt;los ideales estéticos que representan la dirección en la que se desarrolla la historia, y luego propagan enérgicamente estos ideales estéticos para que lleguen a cada miembro de la sociedad, para crear una atmósfera conducente a la realización de estos ideales estéticos”.&lt;/f24&gt;&lt;f26&gt;&lt;t27/&gt;&lt;/f26&gt;&lt;f28&gt;&lt;s29/&gt;&lt;/f28&gt;&lt;f30&gt;En otras palabras, la creación y el mantenimiento de los valores y los ideales políticos, como la extracción de recursos y el desarrollo de una autoridad pública fuerte y eficiente, eran una parte necesaria para mantener el orden social en el curso de la modernización.&lt;/f30&gt;</seg>
       </tuv>
     </tu>
     <tu>
