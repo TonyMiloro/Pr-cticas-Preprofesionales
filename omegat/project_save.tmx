@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17213,8 +17213,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Particu- larly intriguing in this regard was his support for the "practice in which candidates for leading positions in grassroots party organizations are rec- ommended by both Party members and the public in an open manner and by the Party organization at the next highest level" and to "gradually extend direct election [zhijie xuanju] of leading members in grass-roots party orga- nizations to more places."&lt;t0/&gt; Although the text makes clear that Hu's reference to "direct election" was limited to inner-Party elections of grassroots leaders, his use of the term "public" (qunzhong, literally, the masses) in reference to recommending local leaders appears to give the green light to local experiments in which non-Party members of the public have played some role in selecting local Party leaders.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Lo particularmente intrigante en este aspecto fue su apoyo a la "práctica en la que los candidatos a cargos directivos en organizaciones partidarias de base son recomendados tanto por miembros del partido como por el público de forma abierta, y luego por la organización del partido en la siguiente instancia" y su apoyo a "prolongar gradualmente la elección directa (zhijie xuanjiu) de los miembros destacados en organizaciones partidarias de base hacia otros cargos".  Aunque el texto deja bien claro que la referencia que hace Hu a la "elección directa" solo se limitaba a las elecciones intrapartidarias de los líderes de base, el uso que hace del término "publico" (qunzhong, literalmente, las masas) que se refiere a la recomendación de los líderes locales parece dar el visto bueno a los experimentos locales, en los cuales los miembros del público no pertenecientes al partido tuvieron cierta participación en la seleccion de los líderes locales. &lt;t0/&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T171554Z">
+        <seg>Lo particularmente intrigante de este aspecto fue su apoyo a la "práctica en la que los candidatos a cargos directivos en organizaciones partidarias de su propia base política son recomendados tanto por miembros del partido como por el público de forma abierta, y luego por la organización del partido en la siguiente instancia" y su apoyo a "la gradual extensión de la elección directa [zhijie xuanjiu] de los miembros destacados en organizaciones partidarias de basecon el fin de ocupar otros cargos". Aunque el texto deja bien claro que la referencia que Hu hace a la "elección directa" solo se limitaba a las elecciones intrapartidarias de los líderes de base, el uso que hace del término "publico" (qunzhong, literalmente, las masas) que se refiere a la recomendación de los líderes locales, parece haber tenido éxito en los experimentos locales, en los cuales los miembros del público no pertenecientes al partido tuvieron cierta participación en la seleccion de los líderes locales. &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19099,8 +19099,8 @@ Struggling for your individual dignity (&lt;t14/&gt;renge&lt;t15/&gt;) is strugg
       <tuv lang="EN-US">
         <seg>Such experiments have been highly con- troversial, and while this statement falls far short of what many outside observers would like, it nevertheless represents an important affirmation of inner-Party reform thinking.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>Tales experimentos han generado bastante controversia, y aunque esta declaración no cumple con las expectativas de muchos observadores ajenos al partido.  Sin embargo, esta significa una importante afirmación del pensamiento reformista intrapartidario. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T172206Z">
+        <seg>Tales experimentos han generado bastante controversia, y aún cuando esta declaración no cumple con las expectativas de muchos observadores ajenos al partido, significa una importante ratificación del pensamiento reformista intrapartidario. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20103,8 +20103,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The bottom line is that as Hu Jintao moves into his second term as general secretary, the Seventeenth Party Congress has given him a substantial, but not unlimited, mandate to pursue his agenda of addressing inequity in society, pursuing growth in ways that are more compatible with sustainable development, and the implementation of Party building efforts that will incorporate a greater degree of inner-Party democracy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
-        <seg>El resultado es que a medida que Hu Jintao avanza hacia su segundo período como secretario general, el Decimo Séptimo congreso del partido le ha encomendado, de manera sustancial, pero no ilimitada, que continúe con su agenda que aborda la inequidad en la sociedad, que busca el crecimiento de formas que sean más compatibles con el desarrollo sustentable, y que busca la implementación de iniciativas por parte del partido que contribuyan a los esfuerzos de construir un mayor grado de democracia intrapartidaria. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T172313Z">
+        <seg>El resultado es que a medida que Hu Jintao avanza hacia su segundo período como secretario general, el decimo séptimo congreso del partido le ha encomendado, de manera sustancial, pero no ilimitada, que continúe con su agenda que aborda la inequidad en la sociedad, que busca el crecimiento de formas que sean más compatibles con el desarrollo sustentable, y que busca la implementación de iniciativas por parte del partido que contribuyan a los esfuerzos de construir un mayor grado de democracia intrapartidaria. </seg>
       </tuv>
     </tu>
     <tu>
