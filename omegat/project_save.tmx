@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13519,8 +13519,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>Intimating that he would continue this process, Jiang called for an “emancipation &lt;t4/&gt;of the mind in the new period.”&lt;t5/&gt; Conservative Premier Li Peng, of all people, made this implication clear when he reiterated to a group of delegates that the present was the third of three pe&lt;t6/&gt;riods of emancipating the mind.&lt;t7/&gt; This theme would be picked up and expanded upon in the months that followed during the limited political opening that became known as the “Beijing spring.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T022345Z" creationid="LENOVO" creationdate="20160930T022345Z">
-        <seg>“emancipación de la mente en este nuevo período”&lt;t4/&gt;of the mind in the new period.”&lt;t5/&gt; Conservative Premier Li Peng, of all people, made this implication clear when he reiterated to a group of delegates that the present was the third of three pe&lt;t6/&gt;riods of emancipating the mind.&lt;t7/&gt; This theme would be picked up and expanded upon in the months that followed during the limited political opening that became known as the “Beijing spring.”</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T022433Z" creationid="LENOVO" creationdate="20160930T022345Z">
+        <seg>Jiang “emancipación de la mente en este nuevo período”&lt;t4/&gt;of the mind in the new period.”&lt;t5/&gt; Conservative Premier Li Peng, of all people, made this implication clear when he reiterated to a group of delegates that the present was the third of three pe&lt;t6/&gt;riods of emancipating the mind.&lt;t7/&gt; This theme would be picked up and expanded upon in the months that followed during the limited political opening that became known as the “Beijing spring.”</seg>
       </tuv>
     </tu>
     <tu>
