@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T235443Z" creationid="Monzon" creationdate="20160930T235443Z">
+        <seg>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.&lt;s12/&gt;&lt;/f10&gt;&lt;f13&gt;we could go from economic&lt;/f13&gt;&lt;f14&gt;&lt;s15/&gt;&lt;/f14&gt;&lt;f16&gt;disintegration to political fragmentation, and, in the end&lt;/f16&gt;&lt;f17&gt;, fall into national disintegration&lt;/f17&gt;&lt;f18&gt;.”&lt;/f18&gt;&lt;f19&gt;9&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160930T165449Z">
@@ -4893,8 +4901,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As he puts it, “for some years we have drawn up this or that policy to bring about the rapid growth of the market economy .</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T235346Z">
-        <seg>Por ello, señala: “durante algunos años hemos planificado diversas políticas para inducir un rápido crecimiento de la economía de mercado [...]</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T235419Z">
+        <seg>Por ello, señala: “durante algunos años hemos planificado diversas políticas para inducir un rápido crecimiento de la economía de mercado [..</seg>
       </tuv>
     </tu>
     <tu>
