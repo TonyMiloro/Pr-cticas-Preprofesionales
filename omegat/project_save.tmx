@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4333,8 +4333,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And the cadre system, which was increasingly linked to education, was also preventing lower-income people, whether in urban or rural areas, from ascending the social ladder.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lu’s &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2004&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;book on social mobility further documents these trends, showing that social mobility rates were slowing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T232838Z">
-        <seg>Además, el sistema de cuadros, cada vez más ligado a la educación, también dificultaba el ascenso de las personas de menores recursos a otros estratos sociales, tanto en áreas urbanas como rurales. El libro de&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lu &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2004&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;El libro sobre la movilidad social de Lu publicado en 2004 profundiza acerca de estas tendencias y demuestra que el índice de movilidad se estaba reduciendo.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T232942Z">
+        <seg>Además, el sistema de cuadros, cada vez más ligado a la educación, también dificultaba el ascenso de las personas de menores recursos a otros estratos sociales, tanto en áreas urbanas como rurales. El libro de&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lu &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;publicado en 2004&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;sobre movilidad social profundiza en estas tendencias y demuestra que el índice de movilidad social estaba disminuyendo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14195,8 +14195,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>It was particularly difficult for those who had reached the middle class to climb further into the highest social strata; middle class status itself was very precarious.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T035211Z">
-        <seg>Para aquellas personas que habían alcanzado ser parte de la clase media era especialmente difícil seguir avanzando hasta llegar al estrato social más alto; el estatus/posición social de clase media de por sí mismo era bastante precario.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T233108Z">
+        <seg>Para aquellas personas que habían logrado pertenecer a la clase media era especialmente difícil seguir avanzando hasta llegar al estrato social más alto ya que, de por sí, el estatus de la clase media era bastante precario.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
