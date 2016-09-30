@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11283,8 +11283,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1982, Jiang was appointed &lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;rst &lt;s5/&gt;vice-minister &lt;s6/&gt;of &lt;s7/&gt;the &lt;s8/&gt;newly &lt;s9/&gt;established &lt;s10/&gt;Ministry &lt;s11/&gt;of &lt;s12/&gt;the &lt;s13/&gt;Electronics Industry &lt;s14/&gt;and &lt;s15/&gt;was &lt;s16/&gt;selected &lt;s17/&gt;as &lt;s18/&gt;a &lt;s19/&gt;member &lt;s20/&gt;of &lt;s21/&gt;the &lt;s22/&gt;CCP &lt;s23/&gt;Central &lt;s24/&gt;Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T200041Z">
-        <seg>&lt;f3&gt;&lt;f4&gt;En 1982, Jiang fue nombrado&lt;/f1&gt;&lt;/f0&gt; primer&lt;f3&gt;&lt;f4&gt; viceministro &lt;s5/&gt; del&lt;s6/&gt; Ministerio &lt;s7/&gt;de&lt;s8/&gt; Industria Electrónica, &lt;s9/&gt;recién&lt;s10/&gt; establecido&lt;s11/&gt;, y fue&lt;s12/&gt; seleccionado&lt;s13/&gt; como&lt;s14/&gt; miembro&lt;s15/&gt; del&lt;s16/&gt; Comité&lt;s17/&gt; Central&lt;s18/&gt; del&lt;s19/&gt; PCCh.&lt;s20/&gt;&lt;s21/&gt;&lt;s22/&gt;&lt;s23/&gt;&lt;s24/&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T213106Z">
+        <seg>En 1982, Jiang fue nombrado&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt; primer&lt;f3&gt;&lt;f4&gt; viceministro &lt;s5/&gt; del&lt;s6/&gt; Ministerio &lt;s7/&gt;de&lt;s8/&gt; Industria Electrónica, &lt;s9/&gt;recién&lt;s10/&gt; establecido&lt;s11/&gt;, y fue&lt;s12/&gt; seleccionado&lt;s13/&gt; como&lt;s14/&gt; miembro&lt;s15/&gt; del&lt;s16/&gt; Comité&lt;s17/&gt; Central&lt;s18/&gt; del&lt;s19/&gt; PCCh.&lt;s20/&gt;&lt;s21/&gt;&lt;s22/&gt;&lt;s23/&gt;&lt;s24/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15111,6 +15111,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160930T205310Z" creationid="joaquin" creationdate="20160930T205310Z">
         <seg>El entendimiento de Li sobre las fortalezas y las debilidades de las tradiciones culturales y sociales de China fundamentó su respuesta a la globalización; Li no fue ingenuo sobre su impacto pero lo recibió de todas formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li, who did not have a good opinion of Jiang, merely laughed.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T213030Z" creationid="USER" creationdate="20160930T213030Z">
+        <seg>Li, quien sentía desagrado por Jiang, simplemente rió..</seg>
       </tuv>
     </tu>
     <tu>
