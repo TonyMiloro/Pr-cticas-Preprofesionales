@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1177,8 +1177,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;s1/&gt;Ibid., p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T044655Z" creationid="Rocio" creationdate="20160928T044644Z">
-        <seg>&lt;f0&gt;&lt;t1/&gt;ibid.,p.</seg>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T050126Z" creationid="Rocio" creationdate="20160928T044644Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;&lt;t1/&gt;ibid.,p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,8 +2242,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wang’s interest in the rise of a multiplicity of demands and interests was the focus of yet another article, one that appears to have been heavily influ- enced by Samuel Huntington’s (&lt;/f0&gt;&lt;f1&gt;1968&lt;/f1&gt;&lt;f2&gt;)&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Political Order in Changing Societies.&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Like Huntington, Wang is concerned with the relationship between social demands and institutions, though he views them in somewhat different terms from Huntington.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Rocio" changedate="20160928T041006Z" creationid="Rocio" creationdate="20160928T035412Z">
-        <seg>&lt;f0&gt; El interés de Wang en el aumento de la multiplicidad de demandas e intereses fue el foco de otro artículo, que parece haber tenido una gran influencia de &lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;El orden político en las sociedades en cambio&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;(&lt;/f0&gt;&lt;f1&gt;1968&lt;/f1&gt;&lt;f2&gt;), de Samuel P. Huntington. Como Huntington, Wang se preocupa por la relación entre las demandas sociales y las instituciones, aunque su perspectiva tiene algunos términos diferentes a Huntington.</seg>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T050126Z" creationid="Rocio" creationdate="20160928T035412Z">
+        <seg> El interés de Wang en el aumento de la multiplicidad de demandas e intereses fue el foco de otro artículo, que parece haber tenido una gran influencia de El orden político en las sociedades en cambio(&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;1968&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;), de Samuel P. Huntington. Como Huntington, Wang se preocupa por la relación entre las demandas sociales y las instituciones, aunque su perspectiva tiene algunos términos diferentes a Huntington.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4660,8 +4660,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Wang wrote: “In China, the construction ofdemocratic politics implies overcoming the feudal political tradition and political consciousness that extended for more than 2,000 years since the Zhou—Qin period; it implies changing the undemocratic political traditions formed under semi-colonialism and semi-feudalism; it implies solving the contradiction between establishing an advanced political system on the basis of backward forces of production; and it implies enriching our thinking through practice.” Such a process must take, as Wang put it, a “rather long time”&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;(jiaochang de shijian&lt;/f14&gt;&lt;f15&gt;).&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;More- over, unless one develops democracy “scientifically,” the results will be the opposite.&lt;/f20&gt;&lt;f21&gt;36&lt;/f21&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160912T000612Z">
-        <seg>Así como Wang lo escribió: "En China, la construcción de políticas democráticas implica superar la tradición política feudal y la conciencia política que se ha extendido durante más de 2000 años desde el período Zhou-Qin; implica cambiar las tradiciónes políticas no democráticas formadas bajo el semi-colonialismo y el semi-feudalismo; implica descubrir la contradicción entre el establecimiento de un sistema político avanzado basado en la fuerza de producción retraída; e implica enriquecer nuestro pensamiento mediante la práctica". Dicho proceso tomará, como Wang lo aclaró, "un tiempo largo"&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;(jiaochang de shijian&lt;/f14&gt;&lt;f15&gt;).&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;Además, a menos que se desarrolle a la democracia "científicamente", los resultados serán los opuestos.&lt;f21&gt;&lt;/f21&gt;36&lt;/f21&gt;(</seg>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T050139Z">
+        <seg>Así como Wang lo escribió: "En China, la construcción de políticas democráticas implica superar la tradición política feudal y la conciencia política que se ha extendido durante más de 2000 años desde el período Zhou-Qin; implica cambiar las tradiciónes políticas no democráticas formadas bajo el semi-colonialismo y el semi-feudalismo; implica descubrir la contradicción entre el establecimiento de un sistema político avanzado basado en la fuerza de producción retraída; e implica enriquecer nuestro pensamiento mediante la práctica". Dicho proceso tomará, como Wang lo aclaró, "un tiempo largo"&lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;(jiaochang de shijian&lt;/f14&gt;&lt;f15&gt;).&lt;/f15&gt;&lt;f16&gt;&lt;t17/&gt;&lt;/f16&gt;&lt;f18&gt;&lt;s19/&gt;&lt;/f18&gt;&lt;f20&gt;&lt;/f20&gt;Además, a menos que se desarrolle a la democracia "científicamente", los resultados serán los opuestos.&lt;f21&gt;&lt;/f21&gt;&lt;/f21&gt;36(</seg>
       </tuv>
     </tu>
     <tu>
@@ -9587,8 +9587,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For instance, Wang called for better policy research and brain trusts, powerful and effective administrative organs, effective propaganda to win the trust of the people, and better feedback.&lt;/f2&gt;&lt;f3&gt;&lt;t4/&gt;&lt;/f3&gt;&lt;f5&gt;&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;Second, and perhaps more important, Wang insisted that political reform is part of a complex process of change and that “[a] given political struc- ture must fit the given historical, social, and cultural conditions.”&lt;/f7&gt;&lt;f8&gt;&lt;t9/&gt;&lt;/f8&gt;&lt;f10&gt;&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;This implied a lengthy period of transition.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160911T235702Z">
-        <seg>Por ejemplo, Wang exigió una mejor política de investigación y mejores consejeros del gobierno, órganos administrativos más poderosos y efectivos, campañas políticas efectivas que ganen la confianza de la gente, y mejor retroalimentación. &lt;/f2&gt;&lt;f3&gt;&lt;t4/&gt;&lt;/f3&gt;&lt;f5&gt;&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;En segundo lugar, y quizás lo más importante, Wang hacía incapié en que la reforma política era parte de un proceso de cambio complejo y que "[una] estructura política determinada debe ajustarse a las condiciones históricas, sociales y culturales dadas". </seg>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T050126Z">
+        <seg>Por ejemplo, Wang exigió una mejor política de investigación y mejores consejeros del gobierno, órganos administrativos más poderosos y efectivos, campañas políticas efectivas que ganen la confianza de la gente, y mejor retroalimentación. &lt;/f2&gt;&lt;f3&gt;&lt;t4/&gt;&lt;/f3&gt;&lt;f5&gt;&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;t9/&gt;&lt;/f8&gt;&lt;f10&gt;&lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;En segundo lugar, y quizás lo más importante, Wang hacía incapié en que la reforma política era parte de un proceso de cambio complejo y que "[una] estructura política determinada debe ajustarse a las condiciones históricas, sociales y culturales dadas". </seg>
       </tuv>
     </tu>
     <tu>
