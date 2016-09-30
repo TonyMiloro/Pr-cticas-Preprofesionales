@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11492,8 +11492,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In fact, far from championing ideals in the world, the United States was an arrogant, narcissistic, hegemonic power that acted as a world policeman; now it was doing everything in its power to keep China from emerging as a powerful and wealthy country.75</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160916T213201Z">
-        <seg>En realidad, más que abogar por los ideales en el mundo, Estados Unidos era una potencia arrogante, narcisista y hegemónica que actuaba como si fuese la policía del mundo. Ahora estaba haciendo todo lo posible para evitar que China se convierta en un país poderoso y rico. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T163204Z">
+        <seg>En realidad, más que abogar por los ideales en el mundo, Estados Unidos era una potencia arrogante, narcisista y hegemónica que actuaba como si fuese la autoridad del mundo. Ahora estaba haciendo todo lo posible para evitar que China se convierta en un país poderoso y rico. </seg>
       </tuv>
     </tu>
     <tu>
