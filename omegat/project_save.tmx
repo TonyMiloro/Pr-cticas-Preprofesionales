@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11807,6 +11807,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Rocio" changedate="20160927T032428Z" creationid="Rocio" creationdate="20160927T031811Z">
         <seg>Según la perspectiva de Wang, la reestructuración de incentivos socavó seriamente la capacidad del gobierno central de definir e implementar una política que tomara en cuenta los intereses a largo plazo de la nación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Xiao’s opinion, the Empress Dowager Ci Xi was not com- pletely opposed to reform, but the reformers (led by Kang) believed that reform had to rapidly make a sharp break with tradition.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T041322Z" creationid="Rocio" creationdate="20160930T041322Z">
+        <seg>Según la opinión de Xiao, la Emperatriz Dowager Ci Xi no se oponía por completo a la reforma, pero los reformistas (al mando de Kang) sostenían que la reforma tenía que rápidamente separarse de la tradición. </seg>
       </tuv>
     </tu>
     <tu>
