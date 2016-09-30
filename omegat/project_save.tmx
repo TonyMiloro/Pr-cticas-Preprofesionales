@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1418,8 +1418,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Despite Chen’s partial concession in Shanghai, Deng Xiaoping obviously&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;remained frustrated at the lack of meaningful response from the leadership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160928T200124Z" creationid="Soledad Mori" creationdate="20160927T173225Z">
-        <seg>A pesar de la concesión parcial de Chen en Shanghái, obviamente&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; la frustración que sentía Den Xiopin no fue apaciguada, ya que la falta de respuesta significativa por parte de la directiva se hizo notar.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145803Z" creationid="Soledad Mori" creationdate="20160927T173225Z">
+        <seg>A pesar de la concesión parcial de Chen en Shanghái, &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;obviamente la frustración que sentía Deng Xiaopin no fue apaciguada, ya que la falta de respuesta significativa por parte de la cúpula política se hizo notar. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4068,8 +4068,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Appearing in Shanghai on the eve of Labor Day, the Party elder encouraged leaders there to “emancipate their minds” and “take bold steps.” According to one report, Chen’s declaration came on the heels of a high-level meeting with Deng, Peng Zhen, Li Xiannian, Bo Yibo, and Yang Shangkun.86 Chen, who in 1978–9 had opposed the establishment of the SEZs and especially opposed the establishment of one in Shanghai, was now quoted as saying, “I very much favor the development and opening of Pudong!”&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145458Z" creationid="Soledad Mori" creationdate="20160927T173047Z">
-        <seg>En una aparición en Shanghái en la víspera del Día del Trabajador, este veterano del Partido alentó a los líderes a que “emancipen sus mentes” y “den pasos con valentía”. De acuerdo con un informe, la declaración de Chen tuvo lugar luego de una reunión de alto nivel con Deng, Peng Zhen, Li Xiannin, Bo Yibo, y Yang Shangkun86. Chen, quien en 1978-9 se opuso al establecimiento de las ZEE y en especial al establecimiento de una en Shanghái, ahora se lo citaba afirmando: “¡Estoy a favor del desarrollo y la apertura de Pudong!”&lt;/f2&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145523Z" creationid="Soledad Mori" creationdate="20160927T173047Z">
+        <seg>En una aparición en Shanghái en la víspera del Día del Trabajador, este veterano del Partido alentó a los líderes a que “emancipen sus mentes” y “den pasos con valentía”. De acuerdo con un informe, la declaración de Chen tuvo lugar luego de una reunión de alto nivel con Deng, Peng Zhen, Li Xiannin, Bo Yibo, y Yang Shangkun. Chen, quien en 1978-9 se opuso al establecimiento de las ZEE y en especial al establecimiento de una en Shanghái, ahora se lo citaba afirmando: “¡Estoy a favor del desarrollo y la apertura de Pudong!”&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7349,8 +7349,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng complained that many leaders were “merely going through the motions” of supporting reform and that they were in danger of losing their jobs.88 Just as important, Deng signaled his strong support for Zhu Rongji, whom he had sponsored to become vice-premier in March 1991.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173356Z" creationid="Soledad Mori" creationdate="20160927T173356Z">
-        <seg>Deng se quejó de que muchos de los líderes “estaban actuando por inercia” en su apoyo a la reforma y que estaban en peligro de perder sus empleos. Igual de importante fue que Deng señaló su fuerte apoyo a Zhu Rongji, a quien había patrocinado para que se convirtiera en vice primer ministro en marzo de 1991. </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145935Z" creationid="Soledad Mori" creationdate="20160927T173356Z">
+        <seg>Deng se quejó de que muchos de los líderes “estaban actuando por inercia” en su apoyo a la reforma y que estaban en peligro de perder sus empleos88. Igual de importante fue que Deng indicó su fuerte apoyo a Zhu Rongji, a quien había patrocinado para que se convirtiera en vice primer ministro en marzo de 1991.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -15933,8 +15933,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On May 22, Deng showed up at Capital Iron and Steel (usually referred to by its Chinese abbreviation, Shougang) and listened to Zhou Guanwu, the long-time leader of the model enterprise, report on the enterprise’s reform experience.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T173323Z" creationid="Soledad Mori" creationdate="20160927T173323Z">
-        <seg>El 22 de mayo, Deng se presentó en Capital Iron and Steel (usualmente nombrada por su abreviación en chino, Shougang) y escuchó a Zhou Guanwu, el líder de muchos años en la empresa modelo, quien informó sobre la reforma que experimentó la empresa.</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T145834Z" creationid="Soledad Mori" creationdate="20160927T173323Z">
+        <seg>El 22 de mayo, Deng se presentó en Capital Iron and Steel (a la que usualmente se hace referencia por su abreviación en chino, Shougang) y escuchó a Zhou Guanwu, el líder de muchos años en la empresa modelo, quien informó sobre la experiencia de reforma que tuvo la empresa. </seg>
       </tuv>
     </tu>
     <tu>
