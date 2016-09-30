@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12774,6 +12774,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160915T174812Z">
         <seg>En los meses previos a la visita del presidente Clinton, China&lt;t20/&gt; &lt;t21/&gt;demostró un interés considerable en unirse a la OMC, pero los negociadores estadounidenses estaban&lt;t22/&gt; &lt;t23/&gt;convencidos de que China todavía esperaba un "pase político" - es decir, un&lt;t24/&gt; &lt;t25/&gt;acuerdo que les permitiría entrar en la OMC sin consideración por las relaciones&lt;t26/&gt; &lt;t27/&gt;entre Estados Unidos y China en vez de requerir compromisos económicos serios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the period of the Seventh Five-Year Plan (1986–90), central government revenues accounted for only 40 percent of all government revenues, and Wang and Hu estimated that this figure would fall to only 34 percent by the year 2000.&lt;/f0&gt;&lt;f1&gt;5&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;In contrast, the comparable figure in France was 88 percent, in Brazil 84 percent, in India 69 percent, and in the United States – the lowest of all industrialized countries – it was still 59 percent.&lt;/f2&gt;&lt;f4&gt;6&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T013528Z" creationid="Sofi" creationdate="20160930T013528Z">
+        <seg>Durante el período del Séptimo Plan Quinquenal (1986-90), los ingresos del gobierno central representaban el 40 % del total de los ingresos del gobierno y Wang y Hu estimaron que para el año 2000 esta cifra caería a solo el 34 %5. Por el contrario, la misma cifra en Francia era del 88 %, en Brasil del 84 %, en India del 69 % y en Estados Unidos todavía era del 59 %, la más baja de todos los países industrializados</seg>
       </tuv>
     </tu>
     <tu>
