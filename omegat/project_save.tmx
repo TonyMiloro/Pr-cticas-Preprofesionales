@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2792,6 +2792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t10/&gt;Perhaps they turned toward China's populist tradition because they suspect &lt;t11/&gt;- with good reason - that privatization, clarification of property rights, and &lt;t12/&gt;even political democracy would institutionalize the privileges of the&lt;t13/&gt; nou- &lt;t14/&gt;veau riche&lt;t15/&gt; who have emerged in recent years.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T211057Z" creationid="joaquin" creationdate="20160930T211057Z">
+        <seg>Quizás dirigieron su atención hacia la tradición populista china porque sospechaba, con razón, que la privatización, la clarificación de los derechos de la propiedad y también la democracia política podrían institucionalizar los privilegios de los“nuevos ricos” que surgieron en los últimos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t105/&gt;They also contrasted wi&lt;t106/&gt;th Jiang &lt;t107/&gt;Zemin’s &lt;t108/&gt;absence from the &lt;t109/&gt; &lt;t110/&gt;media.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160920T203603Z">
@@ -2948,6 +2956,15 @@
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160902T212516Z">
         <seg>Ya no necesitan recibir consejos generales sobre si reformar o no, necesitan consejos altamente específicos, que solo pocos especialistas académicos pueden darles, sobre cómo reformar.24 Cuando los intelectuales expresan su preocupación por el estado de la sociedad china contemporánea, sobre tod sobre temas relacionados a la reforma política, los burócratas del gobierno los suelen considerar irrelevantes, y en este sentido la brecha entre el estado y los intelectuales aumentó.&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;This perspective was natural given the domestic and international situation &lt;t4/&gt;in which China found itself.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210844Z" creationid="joaquin" creationdate="20160930T210844Z">
+        <seg>Esta perspectiva era natural debido a la situación doméstica e internacional en la que se encontraba China.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,6 +4027,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although the intellectual trends just described are understandable given &lt;t0/&gt;China's circumstances, it is not difficult to detect a utopic element, inﬂu- &lt;t1/&gt;enced by nationalism, in the writings of New Left writers.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T211015Z" creationid="joaquin" creationdate="20160930T211015Z">
+        <seg>Aunque las tendencias intelectuales descritas anteriormente son entendibles dadas las circunstancias de China, no es complejo detectar un elemento utópico influenciado por el nacionalismo, en los escritos de la nueva izquierda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the military&lt;t1/&gt; &lt;t2/&gt;had&lt;t3/&gt; &lt;t4/&gt;become&lt;t5/&gt; &lt;t6/&gt;more&lt;t7/&gt; &lt;t8/&gt;professionali&lt;t9/&gt;zed&lt;t10/&gt; &lt;t11/&gt;over&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;years,&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;possibility&lt;t20/&gt; &lt;t21/&gt;of it&lt;t22/&gt; &lt;t23/&gt;influencing&lt;t24/&gt; &lt;t25/&gt;power&lt;t26/&gt; &lt;t27/&gt;arrangements,&lt;t28/&gt; &lt;t29/&gt;or&lt;t30/&gt; &lt;t31/&gt;being&lt;t32/&gt; &lt;t33/&gt;brought&lt;t34/&gt; &lt;t35/&gt;into&lt;t36/&gt; &lt;t37/&gt;politics&lt;t38/&gt; &lt;t39/&gt;to&lt;t40/&gt; &lt;t41/&gt;support one leader or another, could not be discounted &lt;t42/&gt;– &lt;t43/&gt;as the &lt;t44/&gt;PLA’s &lt;t45/&gt;touting&lt;t46/&gt; &lt;t47/&gt;of Jiang &lt;t48/&gt;Zemin’s &lt;t49/&gt;military expertise the year before suggested.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160928T130636Z" creationid="Flor" creationdate="20160928T130130Z">
@@ -4818,6 +4843,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As in Cui &lt;t2/&gt;Zhiyuan's writings, the New Left is suspicious of efforts to prematurely &lt;t3/&gt;define property rights and to implement political democracy in the absence &lt;t4/&gt;of economic democracy (and of cultural democracy, in the view of Wang &lt;t5/&gt;Hui).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T211025Z" creationid="joaquin" creationdate="20160930T211025Z">
+        <seg>Como en los escritos de Cui Zhiyuan, la nueva izquierda desconfía de los esfuerzos para definir prematuramente los derechos de propiedad y para implementar la democracia política en ausencia de una democracia económica ( y de una democracia cultural, en la opinión de Wang Hui).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As intellec-tuals have come to know the United States better, they have acquired the knowledge and the boldness to become more critical.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160922T204647Z">
@@ -5062,6 +5095,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Backup" changedate="20160928T141052Z">
         <seg>Aunque parezca increíble, Wang describe a Mao (la persona que dio rienda suelta al Gran Salto Adelante y causó la muerte de quizás 30 millones de chinos) como el único líder que realmente entendió a los campesinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As we &lt;t0/&gt;have suggested, New Left thinking was highly suspicious of the power rela- &lt;t1/&gt;tionships embedded in capitalism and distrustful that liberal democracy is &lt;t2/&gt;capable of restraining such relations sufficiently to bring about a fair society.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210810Z" creationid="joaquin" creationdate="20160930T210810Z">
+        <seg>Como hemos sugerido, la nueva izquierda desconfiaba de las relaciones de poder que se encontraban en el capitalismo y de que la democracia liberal fuera capaz de impedir esas relaciones para crear una sociedad más justa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6015,6 +6056,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T000144Z">
         <seg>Pero no se sabe con certeza, a cuatro años de que Hu fuera nombrado Secretario General, si esta agenda populista se combinará con una crítica más severa a las ideas liberales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But returning to the theme of China's &lt;t12/&gt;culture, he noted that "[t]he greatest defect in China's cultural tradition &lt;t13/&gt;is that it lacks human rights."&lt;t14/&gt;81&lt;t15/&gt; Implementing "rule of law" would bring &lt;t16/&gt;about fundamental political change, improve human rights in China, and &lt;t17/&gt;let China join the world and earn the respect of other countries.&lt;t18/&gt;82&lt;t19/&gt; Thus, the only way to meet the challenge of globalization was to establish institutions &lt;t20/&gt;that were compatible with it - democracy and rule of law - and not to try</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210436Z" creationid="joaquin" creationdate="20160930T210436Z">
+        <seg> Pero al retomar el tema de la cultura de China, mencionó que “el defecto más grande en la tradición cultural china es que carece de derechos humanos”. 81 Implementar el “Estado de derecho” ocasionaría un cambio político fundamental, mejoraría los derechos humanos en China y permitiría que China se uniera al mundo y se ganara el respeto de otros países. 82 Por consiguiente, la única forma de enfrentar el desafío de la globalización era establecer instituciones que fueran compatibles con ella (la democracia y el Estado de derecho) y no intentar</seg>
       </tuv>
     </tu>
     <tu>
@@ -10352,6 +10401,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, &lt;t5/&gt;Li's essay interpreted Jiang's report as going further than Jiang apparently intended.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210401Z" creationid="joaquin" creationdate="20160930T210401Z">
+        <seg>Sin embargo, en el ensayo de Li se interpretó el informe como uno que iba más allá de lo que Jiang había aparentemente intentado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, Clinton’s domestic advisers – Treasury&lt;t14/&gt; &lt;t15/&gt;Secretary Robert Rubin, National Economic Council head Gene &lt;t16/&gt;Sperling&lt;t17/&gt;,&lt;t18/&gt; &lt;t19/&gt;and domestic political adviser John &lt;t20/&gt;Podesta&lt;t21/&gt; – argued that if there were&lt;t22/&gt; &lt;t23/&gt;no guaranteed protections for labor unions and industries that competed&lt;t24/&gt; &lt;t25/&gt;directly with their Chinese counterparts then Congress would vote to&lt;t26/&gt; &lt;t27/&gt;kill the deal, and that would be worse for US–China relations than no&lt;t28/&gt; &lt;t29/&gt;agreement at all.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160915T175239Z">
@@ -13245,6 +13302,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internationally, there was a dramatic increase &lt;t5/&gt;in foreign investment, stimulating the discussions of postcolonialism noted &lt;t6/&gt;previously, but there was also the dramatic failure of Russia to implement &lt;t7/&gt;successful economic or political reforms after listening - too eagerly, in the &lt;t8/&gt;eyes of many Chinese - to the advice of Westerners.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210859Z" creationid="joaquin" creationdate="20160930T210859Z">
+        <seg>Internacionalmente, hubo un incremento drástico en inversiones extranjeras, lo que estimuló las discusiones sobre poscolonialismo mencionadas anteriormente, pero también hubo un fracaso dramático de  Rusia para implementar reformas económicas y políticas que fueran exitosas luego de escuchar, con demasiado entusiasmo desde el punto de vista de muchos chinos, el consejo de los occidentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160921T024227Z">
@@ -13465,6 +13530,14 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160928T194705Z">
         <seg>Es evidente que Hu Jintao había hecho un gran progreso en los avances de su agenda más populista durante los primeros años de su mandato, pero para lograr consolidar su autoridad tendría que enfrentar a la "banda de Shanghái" de forma más directa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is little wonder, &lt;t9/&gt;then, that the &lt;t10/&gt;New Left drew heavily on Immanuel Wallerstein's world system theory, which emphasizes the hierarchical nature of international &lt;t11/&gt;capitalism.&lt;t12/&gt;84&lt;t13/&gt; The state of Sino-US relations throughout much of the 1990s &lt;t14/&gt;played into this dynamic, exacerbating these tendencies.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210909Z" creationid="joaquin" creationdate="20160930T210909Z">
+        <seg>No es extraño entonces que la nueva izquierda se apoye en gran medida en la Teoría del Sistema-Mundo de Immanuel Wallerstein, la cual enfatiza la naturaleza de jerarquía del capitalismo internacional. El estado de las relaciones sino-estadounidenses a lo largo de la mayor parte de la década de los 90 influyó en esta dinámica, agravando estas tendencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14857,6 +14930,14 @@ Putting Zhao on trial, as Deng had the Gang of Four, would have had profound imp
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Li argued that whereas Party documents normally called for "rule by law" (&lt;t6/&gt;fazhi&lt;t7/&gt;), the Fifteenth Party Congress had introduced the term "rule &lt;t8/&gt;of law."&lt;t9/&gt;80&lt;t10/&gt; Li, no doubt with the hope of pushing the Party further in this &lt;t11/&gt;direction, praised this breakthrough.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210418Z" creationid="joaquin" creationdate="20160930T210418Z">
+        <seg>Li argumentó que mientras que los documentos del Partido generalmente pedían “gobernar bajo la ley” (fazhi), el XV Congreso Nacional del Partido Comunista de China había introducido el término “Estado de derecho”. 80 Li, sin lugar a dudas, con la esperanza de llevar al Partido un poco más allá en esta dirección, elogió el descubrimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Li declared that bourgeois liberalization “spread rampantly” after Zhao became general secretary; Zhao, the premier charged, “accommodated, encouraged, and supported bourgeois liberalization.” Specifically, he alleged that, at a Secretariat meeting in January 1987, Zhao had declared that of the four cardinal principles they should emphasize only Party leadership and not mention the other three – the socialist road, Marxism–Leninism– MaoZedong Thought, and the people’s democratic dictatorship.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160917T001551Z">
@@ -14886,6 +14967,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160930T201019Z" creationid="joaquin" creationdate="20160928T102602Z">
         <seg>Li era un intelectual progresista del Cuatro de Mayo recalcitrante y apologético</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li's essay was pegged to the just-completed Fifteenth Party Congress, the &lt;t0/&gt;most liberal in Party history, which had endorsed the "continued promo- &lt;t1/&gt;tion of political reform." Jiang's report to the Party Congress had called for &lt;t2/&gt;a "country with rule of law" (&lt;t3/&gt;fazhi guojia&lt;t4/&gt;), as Jiang was trying to promote his campaign to strengthen the legal institutions of the country.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210345Z" creationid="joaquin" creationdate="20160930T210345Z">
+        <seg>El ensayo de Li estaba vinculado con el recientemente finalizado XV Congreso Nacional del Partido Comunista de China, el partido más liberal de la historia, que había apoyado la “promoción continua de la reforma política”. El informe de Jiang para el Congreso del Partido había llamado a tener un “país con Estado de derecho” (fazhi guojia), debido a que Jiang intentaba promover su campaña para fortalecer a las instituciones legales del país.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25650,6 +25739,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the New Left wrote of democracy, they tended to cite Rousseau &lt;t6/&gt;and his support of direct democracy.&lt;t7/&gt;85&lt;t8/&gt; In making such arguments, China's &lt;t9/&gt;New Left was clearly drawing on a tradition of populism in modern China.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T211041Z" creationid="joaquin" creationdate="20160930T211041Z">
+        <seg> Cuando la nueva izquierda escribió sobre la democracia, se inclinaron por citar a Rousseau y su apoyo a la democracia directa. Al hacer esos argumentos, la nueva izquierda de China estaba trazando una tradición de populismo en la China moderna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the Sixteenth Party Congress convened in Beijing in early November 2002, there were two major issues on the agenda, both of which would extend at least through the Seventeenth Party Congress in 2007.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160907T234647Z">
@@ -27660,6 +27757,14 @@ Durante semanas y meses después de Tiananmén, no existía casi ningún debate 
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160930T170115Z" creationid="Magui" creationdate="20160930T170115Z">
         <seg>durante la década de los 80.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to rely on market forces alone.&lt;t0/&gt;83</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T210440Z" creationid="joaquin" creationdate="20160930T210440Z">
+        <seg>confiar en las fuerzas del mercado solamente. 83</seg>
       </tuv>
     </tu>
     <tu>
