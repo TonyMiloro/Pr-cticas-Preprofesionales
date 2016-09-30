@@ -1209,8 +1209,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1/&gt;Wang Huning, “Lun minzhu zhengzhi jianshe,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134613Z">
-        <seg>&lt;f0&gt;&lt;t1/&gt;&gt;Wang Huning, “Lun minzhu zhengzhi jianshe”, p.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055132Z">
+        <seg>&lt;f0&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26313,8 +26313,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang Huning, “Zhongguo zhengzhi tizhi gaige de beijing yu qianjing,” p.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Barri" changedate="20160908T134633Z">
-        <seg>Wang Huning, “Zhongguo zhengzhi tizhi gaige de beijing yu qianjing”, p.</seg>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055121Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
