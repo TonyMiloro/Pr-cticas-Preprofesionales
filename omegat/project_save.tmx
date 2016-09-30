@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13214,8 +13214,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In the spring of 1996, Jiang was clearly tacking to the right, endorsing a new round of reform.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T051141Z" creationid="Usuario" creationdate="20160930T051141Z">
-        <seg>En la primavera de 1996, claramente, Jiang se estaba uniendo a la derecha en la que endorsaba una nueva ronda de reforma. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T052102Z" creationid="Usuario" creationdate="20160930T051141Z">
+        <seg>En la primavera de 1996, claramente, Jiang se estaba uniendo a la derecha en la que se endorsaba una nueva ronda de reforma. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20147,8 +20147,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Socioeconomic changes</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160929T022643Z">
-        <seg>CAMBIOS SOCIECONÓMICOS</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T052047Z">
+        <seg>CAMBIOS SOCIECONÓMICOSse</seg>
       </tuv>
     </tu>
     <tu>
