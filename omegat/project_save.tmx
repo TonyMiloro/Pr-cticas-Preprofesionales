@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17878,8 +17878,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, Hu discussed his scientific development concept at length (if not in depth), stressing that it "shares the same lineage as Marxism, Mao Zedong Thought, Deng Xiaoping Theory, and the important thinking of the 'Three Represents'." Hu defined his scientific development concept as being "people centered" and as requiring the development of a "social- ist harmonious society." Hu stressed the need to strengthen sustainable development by moving more quickly from extensive development, which relies on a high rate of investment, to intensive development, which relies on the more efficient use of resources.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T165057Z">
-        <seg>Segundo, Hu analizó en detalle (si no exhaustivamente) su concepto del desarrollo científico, enfatizando el hecho se que este "comparte el mismo lineamiento que el Marxismo, el pensamiento de Mao Zedong, la teoría de Deng Xiaoping, y el importante concepto de la 'Triple Representatividad' ". Hu define su concepto de desarrollo científico como uno "centrado en la gente" y que requiere de la formación de una "sociedad socialista armoniosa". Hu remarcó la necesidad de fortalecer el desarrollo sustentable que podía lograrse pasando lo antes posible de un modelo de desarrollo de crecimiento extensivo, que depende de una alta taza de inversión, hacia un desarrollo intensivo, que depende un uso más eficiente de los recursos.  </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T165227Z">
+        <seg>Segundo, Hu analizó en detalle (si no exhaustivamente) su concepto del desarrollo científico, enfatizando el hecho se que este "comparte el mismo lineamiento que el Marxismo, el pensamiento de Mao Zedong, la teoría de Deng Xiaoping, y el importante concepto de la 'Triple Representatividad' ". Hu define su concepto de desarrollo científico como uno "centrado en la gente" y que requiere de la formación de una "sociedad socialista armoniosa". Hu remarcó la necesidad de fortalecer el desarrollo sustentable que podría lograrse mediante  antes posible de un modelo de desarrollo de crecimiento extensivo, que depende de una alta taza de inversión, hacia un desarrollo intensivo, que depende un uso más eficiente de los recursos.  </seg>
       </tuv>
     </tu>
     <tu>
