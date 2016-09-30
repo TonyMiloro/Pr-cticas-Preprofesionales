@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1628,6 +1628,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T131748Z" creationid="Daniel-Andrea" creationdate="20160928T011400Z">
         <seg>&lt;f0&gt;Jiang Zemin, de un solo golpe, tomó medidas contra los líderes más afianzados del país, apostó por el apoyo popular en la campaña&lt;s1/&gt;&lt;/f0&gt;&lt;t2/&gt;&lt;f3&gt;anticorrupción y atentó contra las personas más poderosas que podrían oponerse a él en el futuro, incluida la familia de Deng y uno de los miembros veteranos del partido, Wan Li (Wan había sido colaborador durante mucho tiempo de Shougang y, como ex vicealcalde de Pekín, tenía una estrecha relación con los líderes de la ciudad).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In late 1993, a new journal called Strategy and Management (Zhanlue¨ yu guanli) started publication and quickly became a forum for new and often critical ideas, including nationalism and populism.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130737Z" creationid="Lucia Cipolatti" creationdate="20160930T130714Z">
+        <seg>A finales del año 1993, una revista conocida como &lt;t0/&gt;Gestión y Estrategia&lt;t1/&gt; (&lt;t2/&gt;Zhanlue¨ yu&lt;t3/&gt; &lt;t4/&gt;guanli&lt;t5/&gt;) comenzó a publicarse y se convirtió rápidamente en un foro de nuevas ideas&lt;t6/&gt; &lt;t7/&gt;y a veces críticas, entre ellas la idea de nacionalismo y populismo.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,8 +8442,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>First, the government continued to back marketizing reforms, a growing role for the private sector,&lt;bs1/&gt;&lt;be2/&gt;&lt;s3/&gt;and increasing integration into the global economic order.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T051417Z">
-        <seg>En primer lugar, el gobierno continuó apoyando las reformas de mercado, una labor creciente para el sector privado y una integración creciente en el orden global económico. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130748Z">
+        <seg>En primer lugar, el gobierno continuó apoyando las reformas de mercado, una labor creciente para el sector privado y una integración creciente en el orden global económico. &lt;bs1/&gt;&lt;be2/&gt;&lt;s3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12575,6 +12583,14 @@ It is not fire proof.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is printed on far better paper th&lt;/f0&gt;&lt;f1&gt;an the average journal, indicat&lt;/f1&gt;&lt;f2&gt;ing its substantial financial backing – reputedly contributed by a wealthy overseas Chinese from Thailand but also suggesting its support from the military.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130813Z" creationid="Lucia Cipolatti" creationdate="20160930T130813Z">
+        <seg>Está impresa en un papel de mejor calidad que el que se usa en&lt;t10/&gt; la mayoría de las revistas,&lt;t11/&gt; lo que pone en evidencia el gran respaldo financiero proveniente de la acaudalada diáspora china que reside en Tailandia pero que también insinuaba un respaldo del sector militar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is printed on far better paper th&lt;t10/&gt;an the average journal, indicat&lt;t11/&gt;ing its substantial financial backing – reputedly contributed by a wealthy overseas Chinese from Thailand but also suggesting its support from the military.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T120350Z">
@@ -16638,8 +16654,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Populism, as we have noted, was inevitably directed against the government elite, and as the critical perspectives of New Left intellectuals blended with the popular nationalism of people like Wang Xiaodong, a powerful critique emerged of a weak and corrupt government selling out&lt;s0/&gt;the Chinese people in the interests of the government and international corporations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160921T183611Z">
-        <seg>El populismo, como ya se mencionó, se dirigía inevitablemente contra la élite gobernante, y debido a que las opiniones críticas de la Nueva Izquierda se combinaron con las del nacionalismo popular de personas como Wang Xiaodong, una ideología poderosa surgió a partir de un gobierno corrupto y débil,  traicionando así a la población china en beneficio del gobierno y las empresas internacionales. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130754Z">
+        <seg>El populismo, como ya se mencionó, se dirigía inevitablemente contra la élite gobernante, y debido a que las opiniones críticas de la Nueva Izquierda se combinaron con las del nacionalismo popular de personas como Wang Xiaodong, una ideología poderosa surgió a partir de un gobierno corrupto y débil,  traicionando así a la población china en beneficio del gobierno y las empresas internacionales. &lt;s0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19930,8 +19946,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The interests of critical intellectuals&lt;s0/&gt;and mainstream government officials, however, diverged on at least two major issues.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160919T051434Z">
-        <seg>Sin embargo, los intereses de los intelectuales críticos y los funcionarios principales del gobierno discreparon en por lo menos dos grandes temas.  </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130743Z">
+        <seg>Sin embargo, los intereses de los intelectuales críticos y los funcionarios principales del gobierno discreparon en por lo menos dos grandes temas.  &lt;s0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
