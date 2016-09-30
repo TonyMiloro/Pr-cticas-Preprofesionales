@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14180,8 +14180,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Local cadres, trying to crush the “burden-relieving and complaint representatives,” seized several leaders, tied them up, hung sign-boards around their necks, and held a criticism and &lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;denunciation meeting.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T201119Z">
-        <seg>Los cuadros de dirigentes locales tomaron por la fuerza a varios líderes, los ataron y colgaron carteles en sus cuellos para doblegar a los "voceros de los reclamos y opositores de la opresión". Luego, realizaron &lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;una reunión para juzgarlos y denunciarlos.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160930T150435Z">
+        <seg>Los cuadros tomaron por la fuerza a varios líderes, los ataron y colgaron carteles en sus cuellos para doblegar a los "voceros de los reclamos y de los opositores de la opresión". Luego, realizaron &lt;/f5&gt;&lt;/f4&gt;&lt;t6/&gt;&lt;f7&gt;&lt;f8&gt;una reunión para juzgarlos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14908,8 +14908,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Most of the peasant leaders were somewhat better educated (middle-school level) and had spent time out of the village as soldiers or workers; some were elderly school teachers who sympathized with the peasants.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160930T150017Z">
-        <seg>La mayoría de los líderes campesinos tenían un nivel educativo más alto que el común de la población (tenían estudios secundarios completos) y habían trabajado fuera de la aldea como soldados o empleados; algunos eran ancianos maestros de escuela que simpatizaban con los campesinos.</seg>
+      <tuv lang="ES-US" changeid="user" changedate="20160930T150342Z">
+        <seg>La mayoría de los líderes campesinos tenían un nivel educativo más alto que el común de la población (tenían estudios secundarios completos) y habían trabajado fuera de la aldea como soldados o empleados; algunos eran antiguos maestros de escuela que simpatizaban con los campesinos.</seg>
       </tuv>
     </tu>
     <tu>
