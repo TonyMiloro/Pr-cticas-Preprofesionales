@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11758,6 +11758,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160930T213109Z" creationid="Usuario" creationdate="20160930T213109Z">
         <seg>En mayo, Jiang se reunió con los dirigentes empresariales y con los líderes políticos de siete provincias y les contó que la reforma había alcanzado un “momento extremadamente crítico”59. Esta fue la afirmación de reforma más fuerte de Jiang en el período, ya que quedó a cargo como Secretario General60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In May, Jiang met with the enterprise heads and political leaders from seven provinces, telling them that reform had reached an “extremely critical moment.”59 This was Jiang’s strongest affirmation of reform in the period since he took over as general secretary.60 Nevertheless, by fall, he was again charting a conservative ideological direction.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="PC" changedate="20160930T222206Z" creationid="PC" creationdate="20160930T222206Z">
+        <seg>En mayo, Jiang se reunió con los dirigentes empresariales y con los líderes políticos de siete provincias y les contó que la reforma había alcanzado un “momento extremadamente crítico”59. Esta fue la afirmación de reforma más fuerte de Jiang en el período, ya que quedó a cargo como Secretario General60. Sin embargo, en otoño, estaba trazando otra vez una dirección ideológica conservadora.</seg>
       </tuv>
     </tu>
     <tu>
