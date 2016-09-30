@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5798,8 +5798,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Because the Yugoslav campaign&lt;t22/&gt; &lt;t23/&gt;was initially seen as a purely local issue of limited duration, there appears&lt;t24/&gt; &lt;t25/&gt;to have been no consideration of the campaign’s effects on other countries,&lt;t26/&gt; &lt;t27/&gt;particularly Russia and China.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160913T135708Z">
-        <seg>Debido a que la campaña Yugoslava&lt;t22/&gt; &lt;t23/&gt;fue al principio considerada como un asunto puramente local de duración limitada, parece que&lt;t24/&gt; &lt;t25/&gt;no se consideraron los efectos de la campaña en otros países,&lt;t26/&gt; &lt;t27/&gt;en particular en Rusia y China.</seg>
+      <tuv lang="ES-US" changeid="User" changedate="20160930T220703Z">
+        <seg>Debido a que la campaña yugoslava&lt;t22/&gt; &lt;t23/&gt;fue al principio considerada como un asunto puramente local de duración limitada, parece que&lt;t24/&gt; &lt;t25/&gt;no se consideraron los efectos de la campaña en otros países,&lt;t26/&gt; &lt;t27/&gt;en particular en Rusia y China.,</seg>
       </tuv>
     </tu>
     <tu>
@@ -9754,8 +9754,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For years, the thrust of US policy vis-&lt;t0/&gt;à&lt;t1/&gt;-&lt;t2/&gt;vis China across a whole range &lt;t3/&gt;of issues – including trade, human rights, and arms control – was to accept&lt;t4/&gt; &lt;t5/&gt;“international norms.” There were, or so the line went, certain universally&lt;t6/&gt; &lt;t7/&gt;accepted norms that were embodied in various conventions and treaties;&lt;t8/&gt; &lt;t9/&gt;China, if it wanted to be accepted as a full member of the international&lt;t10/&gt; &lt;t11/&gt;community, would have to accept those norms and “play by the rules.”&lt;t12/&gt; &lt;t13/&gt;Doing so would assure it equal treatment, a chance to “sit at the table”&lt;t14/&gt; &lt;t15/&gt;and influence the future evolution of rules governing the international&lt;t16/&gt; &lt;t17/&gt;system.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160913T144121Z">
-        <seg>Durante años, el impulso de la política estadounidense en&lt;t0/&gt; relación&lt;t1/&gt;&lt;t2/&gt;con China sobre una gran variedad &lt;t3/&gt;de asuntos – que incluían comercio, derechos humanos y control de armas – era aceptar&lt;t4/&gt; &lt;t5/&gt;“normas internacionales”. Estas eran, o se suponía que eran, ciertas normas&lt;t6/&gt; &lt;t7/&gt;aceptadas mundialmente que se personificaban en muchas convenciones y tratados.&lt;t8/&gt; &lt;t9/&gt;Si China quería ser aceptado como un miembro efectivo de la comunidad&lt;t10/&gt; &lt;t11/&gt;internacional, tenía que aceptar esas normas y "seguir las reglas".&lt;t12/&gt; &lt;t13/&gt;De esta forma se aseguraría un trato equitativo, la oportunidad de "sentarse en la mesa"&lt;t14/&gt; &lt;t15/&gt;e influenciar la evolución futura de reglas que gobiernan el sistema&lt;t16/&gt; &lt;t17/&gt;internacional.</seg>
+      <tuv lang="ES-US" changeid="User" changedate="20160930T220912Z">
+        <seg>Durante años, el impulso de la política estadounidense en&lt;t0/&gt; relación&lt;t1/&gt;&lt;t2/&gt;con China sobre una gran variedad &lt;t3/&gt;de asuntos, que incluían comercio, derechos humanos y control de armas, era aceptar&lt;t4/&gt; &lt;t5/&gt;“normas internacionales”. Existían, o se suponía que existían, ciertas normas&lt;t6/&gt; &lt;t7/&gt;aceptadas mundialmente que se personificaban en muchas convenciones y tratados.&lt;t8/&gt; &lt;t9/&gt;Si China quería ser aceptado como un miembro pleno de la comunidad&lt;t10/&gt; &lt;t11/&gt;internacional, tenía que aceptar esas normas y "seguir las reglas".&lt;t12/&gt; &lt;t13/&gt;De esta forma se aseguraría un trato equitativo, la oportunidad de "sentarse en la mesa"&lt;t14/&gt; &lt;t15/&gt;e influenciar la evolución futura de las reglas que gobiernan el sistema&lt;t16/&gt; &lt;t17/&gt;internacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23826,8 +23826,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Third, and most important, foreign competition was&lt;t32/&gt; &lt;t33/&gt;widely seen as a means to force otherwise reluctant SOEs to carry out&lt;t34/&gt; &lt;t35/&gt;painful restructurings.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="User" changedate="20160910T211743Z">
-        <seg>El tercer y más importante problema era que la competencia exterior&lt;t32/&gt; &lt;t33/&gt; era vista extensamente como un medio para forzar a empresas estatales reacias a realizar&lt;t34/&gt; &lt;t35/&gt;reestructuraciones difíciles.</seg>
+      <tuv lang="ES-US" changeid="User" changedate="20160930T220643Z">
+        <seg>El tercer problema y el más importante era que la competencia exterior&lt;t32/&gt; &lt;t33/&gt; era vista extensamente como un medio para forzar a empresas estatales reacias a realizar&lt;t34/&gt; &lt;t35/&gt;reestructuraciones difíciles.</seg>
       </tuv>
     </tu>
     <tu>
