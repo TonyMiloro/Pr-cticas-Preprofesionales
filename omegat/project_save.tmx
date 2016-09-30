@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -911,6 +911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Aware of the controversies raging within the Party, Jiang Zemin’s close con&lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;dante Chen Zhili, head of the Shanghai Propaganda Department (and appointed in 1998 to head the Ministry of Education and in 2003 to be a State Councilor), was upset when she saw galley proofs of the forthcoming issue of the &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;World Economic Herald&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, fearing that it would give new stimulus to the demonstrations.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T204419Z" creationid="USER" creationdate="20160930T204207Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Consciente de las controversias que continuaban dentro del partido, Chen Zhili, el confidente más cercano&lt;/f1&gt;&lt;/f0&gt; de &lt;f3&gt;&lt;f4&gt;Jiang Zemin y director del Departamento de Propaganda de Shanghái (designado en 1998 como director del Ministerio de Educación y en 2003 como Consejero del Estado) se molestó cuando vio las pruebas de imprenta del problema venidero de parte del  &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;World Economic Herald&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; ya que temía que trajera nuevos estímulos a las manifestaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;In 1947 Jiang Zemin began a career characterized by a gradual climb upward, though mostly in technical &lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;elds.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T194253Z">
@@ -939,6 +947,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T201836Z">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Sin&lt;s3/&gt; duda, la única razón con más importancia para el ascenso de Jiang en ese momento &lt;s4/&gt;crítico&lt;s5/&gt; era&lt;s6/&gt; la &lt;s7/&gt;decisión&lt;s8/&gt; en &lt;s9/&gt;mayo&lt;s10/&gt; de &lt;s11/&gt;cerrar &lt;s12/&gt;el &lt;s13/&gt;semanario &lt;s14/&gt;orientado a la reforma  &lt;/f1&gt;&lt;/f0&gt;&lt;f15&gt;&lt;f16&gt;World Economic Herald (Shijie jingji daobao).&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;World Economic Herald&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; had been one of the icons of liberal reformers in the 1980s and a beacon of expanding press freedom, so the removal of the respected Qin Benli and the paper’s closure prompted an immediate outcry among press circles.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T205004Z" creationid="USER" creationdate="20160930T204946Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;El&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt; World Economic Herald&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;  fue uno de los íconos para los reformistas liberales en los años 80 y un modelo de libertad de prensa en expansión, por eso el despido del respetado Qin Benli y el cierre del diario dieron pie a una protesta inmediata dentro del ámbito de la prensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5443,6 +5459,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the time, Liu was deputy head of the Shanghai Propaganda Department.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T204820Z" creationid="USER" creationdate="20160930T204820Z">
+        <seg>En ese momento, Liu era vicedirector del Departamento de Propaganda de Shanghái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this time, Chen organized a group of people as the Beijing Young Economists Association&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;(Beijing qingnian jingji gongzuozhe xiehui)&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;to study economic theory and formulate Beijing development strategy.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160919T185641Z">
@@ -6285,8 +6309,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By this time, there were deepening debates within the Party &lt;/f47&gt;&lt;/f46&gt;&lt;t48/&gt;&lt;f49&gt;&lt;f50&gt;leadership&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt; about how to respond to the student demonstrations, which had started eight days earlier on April 16; on April 25, Deng would endorse a hardline approach by saying that the demonstrations were aimed at “fundamentally negating the leadership of the Chinese Communist Party and at negating the socialist system.” It was that judgment, written into a &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;People’s Daily&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt; editorial the next day, that in&lt;/f56&gt;&lt;/f55&gt;ﬂ&lt;f57&gt;&lt;f58&gt;amed student opinion and brought the student movement to a new crisis point.&lt;/f58&gt;&lt;/f57&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T203939Z">
-        <seg>Estos discursos fueron publicados en una tirada del World Economic Herald el 24 de abril. Para este momento, habían debates profundos dentro del liderazgo del partido sobre cómo responder a las manifestaciones de estudiantes, que habían comenzado ochos días antes, el 16 de abril. El 25 de abril, Deng respaldaría una estrategia firme al decir que las manifestaciones estaban apuntadas a “negar fundamentalmente el liderazgo del Partido Comunista de China y al negar el sistema socialista”.  Esa fue el discurso que se redactó en el editorial de People’s Daily al día siguiente, lo cual escendió la opinión estudiantil y trajo el movimiento de los estudiantes a un nuevo punto de crisis.&lt;/f58&gt;&lt;/f57&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T204135Z">
+        <seg>Para este momento, habían debates profundos dentro del &lt;/f47&gt;&lt;/f46&gt;&lt;t48/&gt;&lt;f49&gt;&lt;f50&gt;liderazgo&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt; del partido sobre cómo responder a las manifestaciones de estudiantes, que habían comenzado ochos días antes, el 16 de abril. El 25 de abril, Deng respaldaría una estrategia firme al decir que las manifestaciones estaban apuntadas a “negar fundamentalmente el liderazgo del Partido Comunista de China y al negar el sistema socialista”. Esa decisión, publicada el día siguiente en una editorial de  &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;People’s Daily&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt;, fue lo que &lt;/f56&gt;&lt;/f55&gt;enardeció&lt;f57&gt;&lt;f58&gt; la opinión de los estudiantes y condujo el movimiento estudiantil a un nuevo punto de crisis.&lt;/f58&gt;&lt;/f57&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15010,6 +15034,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Liu Ji, another close associate of Jiang Zemin who would play an important role in the 1990s, headed a work team that took over the paper.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T204759Z" creationid="USER" creationdate="20160930T204759Z">
+        <seg>Liu Ji, otro asociado cercano a Jiang Zemin, quien tendría un importante rol en los años 90, encabezó un trabajo en equipo que tomó el control del diario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Liu Qi</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T160005Z" creationid="Mariela" creationdate="20160930T160005Z">
@@ -16682,6 +16714,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oddly enough, he was also on very good terms with Qin Benli; not only was Liu himself a contributor to the paper, but Qin’s wife had taught Liu in middle school.&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T204853Z" creationid="USER" creationdate="20160930T204853Z">
+        <seg>Curiosamente, tenía buena relación con Qin Benli; no solo porque el mismo Liu contribuía en el diario sino que también porque la esposa de Qin había sido su profesora en el secundario.&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oddly, White House&lt;t6/&gt; &lt;t7/&gt;officials did not feel that the US business community had been vocal enough&lt;t8/&gt; &lt;t9/&gt;in supporting China’s accession.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="alumno" changedate="20160910T182002Z">
@@ -16895,6 +16935,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Luisina" changedate="20160930T163701Z" creationid="Luisina" creationdate="20160930T163701Z">
         <seg> Luego de escuchar la sugerencia de Deng, el veterano del partido Wang Zhen aparentemente entró en rabia, declarando que las políticas de Deng estaban llevando al país hacia el camino del capitalismo. 55&lt;t3/&gt;En&lt;t4/&gt;ese momento, tal como el exabrupto de Deng lo demostraba, el partido seguía profundamente dividido por el peligro que representaba la "evolució pacífica". En septiembre, el jefe del Departamento de Propaganda Wang&lt;t5/&gt;Renzhi&lt;t6/&gt; y otras personas habían organizado un grupo de estudio de "evolución anti-pacífica" en la Escuela Central del Partido Comunista Chino que advertía que la evolución pacífica podía ser estimulada por los "pragmáticos" en posición de líderes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On hearing of the situation, Jiang Zemin called the editor of the &lt;s9/&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;&lt;f11&gt;World Economic&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Herald,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Qin Benli, and told him to delete sensitive paragraphs from the offending issue.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T204713Z" creationid="USER" creationdate="20160930T204713Z">
+        <seg>Al enterarse de esta situación, Jiang Zemin llamó al editor del &lt;s9/&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;&lt;f11&gt;World Economic&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Herald,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Qin Benli, y le dijo que eliminara párrafos sensibles al problema ofensivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25557,6 +25605,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="andre" changedate="20160928T235445Z">
         <seg>Cuando el Décimo Sexto Congreso del Partido se reunió en Pekín los primeros días de noviembre de 2002, había dos temas de gran importancia para tratar, que se seguirían debatiendo al menos hasta el Décimo Séptimo Congreso del Partido en 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When, despite Jiang’s order, part of the issue was printed and distributed, Jiang immediately ordered the presses stopped and Qin Benli removed from his post.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T204735Z" creationid="USER" creationdate="20160930T204735Z">
+        <seg>Cuando parte del problema se imprimió y se distribuyó, a pesar de la orden de Jiang, éste de manera inmediata ordenó que las imprentas se detuvieran y Qin Benli fue despedido.</seg>
       </tuv>
     </tu>
     <tu>
