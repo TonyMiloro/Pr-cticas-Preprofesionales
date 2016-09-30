@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2284,6 +2284,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211215Z">
         <seg>&lt;f0&gt;Wu Jinglian,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Jihua jingji haishi shichang jingji&lt;/f2&gt;&lt;f3&gt;, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Xiao’s interest was perhaps not so much in understanding the past as in prescribing for the present.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T034619Z" creationid="Franco" creationdate="20160930T034619Z">
+        <seg>&lt;f0&gt;Los intereses de Xiao a lo mejor no eran entender el pasado como en percibir el presente.</seg>
       </tuv>
     </tu>
     <tu>
