@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1426,8 +1426,9 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Despite this important endorsement, the meeting decided to delete a reference to guarding against leftism from the draft of Li Peng’s &lt;/f0&gt;&lt;f1&gt;Government Work Report &lt;/f1&gt;&lt;f2&gt;to the upcoming session of the NPC on the grounds that it would be inappropriate to include any reference to differences of opinion in a government (as opposed to Party) work report.&lt;/f2&gt;&lt;f3&gt;76 &lt;/f3&gt;&lt;f4&gt;A fusillade of criticism from the floor, clearly abetted by NPC &lt;/f4&gt;&lt;f5&gt;chairman &lt;/f5&gt;&lt;f6&gt;Wan Li, forced the premier to add a warning to his report that the main danger lay on the left – as well as to make 149 other large and small changes.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T175746Z" creationid="Soledad Mori" creationdate="20160927T164655Z">
-        <seg>&lt;f0&gt;Apesar de este gran apoyo, la reunión decidió eliminar la referencia que hace alusión en contra de la izquierda del&lt;/f0&gt;&lt;f1&gt; Reporte Laboral de Gobierno&lt;/f1&gt;&lt;f2&gt; de Li Peng de la próxima sesión de la Legislatura de China; los argumentos sostenían que sería inapropiado incluir referencias respecto a diferencias de opinión en un reporte laboral de gobierno. &lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Una avalancha de críticas incitadas por Wan Li, &lt;/f4&gt;&lt;f5&gt;el presidente&lt;/f5&gt;&lt;f6&gt; de la Legislatura, obligaron al Primer Ministro a agregar una advertencia a su reporte, aclarando que la mayor amenaza proviene de la izquierda, así como también 149 grandes y pequeñas modificaciones.&lt;/f6&gt; </seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133808Z" creationid="Soledad Mori" creationdate="20160927T164655Z">
+        <seg>&lt;f0&gt;A pesar de este gran apoyo, la reunión decidió eliminar la alusión a la defensa en contra
+del izquierdismo en el&lt;/f0&gt;&lt;f1&gt; Reporte Laboral de Gobierno&lt;/f1&gt;&lt;f2&gt; de Li Peng de la próxima sesión de la APN de China; los argumentos sostenían que sería inapropiado incluir referencias a diferencias de opinión en un informe laboral de gobierno (a diferencia de un informe sobre el partido).&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Una avalancha de críticas incitadas por Wan Li, &lt;/f4&gt;&lt;f5&gt;el presidente&lt;/f5&gt;&lt;f6&gt; de la APN, obligaron al primer ministro a agregar una advertencia a su informe, en la que aclarara que la mayor amenaza proviene de la izquierda, así como también otras 149 grandes y pequeñas modificaciones.&lt;/f6&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -15861,8 +15862,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>On March 31, the &lt;/f4&gt;&lt;f5&gt;People’s Daily &lt;/f5&gt;&lt;f6&gt;reprinted a long, flowery but detailed account of Deng’s activities in Shenzhen entitled, “East Wind Brings Spring All Around: On-the-Spot Report on Comrade Deng Xiaoping in Shenzhen.”&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T164242Z" creationid="Soledad Mori" creationdate="20160927T163919Z">
-        <seg>El 31 de marzo,&lt;/f4&gt;&lt;f5&gt;People's Daily&lt;/f5&gt;&lt;f6&gt; publicó otra larga, adornada pero detallada edición acerca de las actividades de Deng en Shenzhen titulada: "El viento del este trae la primavera consigo: reporte inmediato sobre el camarada Deng Xiaoping en Shenzhen."&lt;/f6&gt;</seg>
+      <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160930T133559Z" creationid="Soledad Mori" creationdate="20160927T163919Z">
+        <seg>El 31 de marzo,&lt;/f4&gt;&lt;f5&gt;People's Daily&lt;/f5&gt;&lt;f6&gt;El 31 de marzo, People's Daily volvió a publicar un largo, adornado, pero detallado informe acerca de las actividades de Deng en Shenzhen titulada "El viento del este trae la primavera consigo: informe inmediato sobre el camarada Deng Xiaoping en Shenzhen”.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
