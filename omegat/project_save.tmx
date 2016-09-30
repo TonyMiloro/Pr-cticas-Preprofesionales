@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17862,8 +17862,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Reviewing the results of a survey of reading habits, researchers concluded: “It is worth paying attention to the great influence on readers of the thinly veiled (lugu) discussion of nationalist sentiment (minzu zhuyi qingxu) with regard to international relations in this popular literature”; they also noted that China Can Say No “unexpectedly” (juran) was the most influential book in the post-1993 period.81 It is important to observe another side to China Can Say No that was apparent to Chinese readers but has been largely ignored in the United States: the populism of the book had a distinctly anti-government tone to it as well.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Administrador" changedate="20160917T063948Z">
-        <seg>Al revisar los resultados de las encuestas sobre los hábitos de lectura, los investigadores llegaron a la conclusión de que ''vale la pena prestar atención a la gran influencia que tiene sobre los lectores el recién develado (lugu) debate del sentimiento nacionalista (minzu zhuyi) con respecto a las relaciones internacionales en esta literatura popular''. También se dieron cuenta que China puede decir no ''inesperadamente'' (juran) fue uno de los libros más influyentes durante el período posterior al año 1993. </seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T183813Z">
+        <seg>Al revisar los resultados de las encuestas sobre los hábitos de lectura, los investigadores llegaron a la conclusión de que ''vale la pena prestar atención a la gran influencia que tiene sobre los lectores el recién velado (lugu) debate del sentimiento nacionalista (minzu zhuyi) con respecto a las relaciones internacionales en esta literatura popular''. También se dieron cuenta que China puede decir no ''inesperadamente'' (juran) fue uno de los libros más influyentes durante el período posterior al año 1993. </seg>
       </tuv>
     </tu>
     <tu>
