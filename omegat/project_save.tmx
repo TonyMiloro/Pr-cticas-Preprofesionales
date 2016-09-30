@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3524,8 +3524,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although Jiang had previewed some of his major themes in his speech to the Central Party School, it was not until the Fifteenth Party Congress convened in Beijing on September 12–18 that the full scope of Jiang’s program and his personnel arrangements for carrying it out were unveiled.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T222933Z" creationid="LENOVO" creationdate="20160919T222600Z">
-        <seg>A pesar de que Jiang había previsto algunos de los temas más importantes en su discurso a la Escuela Centra del Partido, no fue hasta el Decimoquinto Congreso del Partido, que se celebró en Pekín del 12 al 18 de septiembre, que el pleno alcance del programa de Jian y sus disposiciones en materia de personal para llevarlo a cabo se dieron a conocer. </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T020525Z" creationid="LENOVO" creationdate="20160919T222600Z">
+        <seg>A pesar de que Jiang había previsto algunos de los temas más importantes en su discurso a la Escuela Centra del Partido, no fue hasta el Decimoquinto Congreso del Partido, que se celebró en Pekín del 12 al 18 de septiembre, que el pleno alcance del programa de Jiang y sus disposiciones en materia de personal para llevarlo a cabo se dieron a conocer.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -9329,8 +9329,8 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
       <tuv lang="EN-US">
         <seg>For a leader often criticized as bland, cautious, and technocratic, Jiang was beginning to reveal a degree of decisiveness previously visible only in his deft maneuvers against political enemies.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T222445Z" creationid="LENOVO" creationdate="20160919T222412Z">
-        <seg>Criticado con frecuencia como un líder tedioso, precavido y tecnocrático, Jian comenzaba a  a mostrar un grado de firmeza que solo había sido evidente en sus hábiles maniobras contra enemigos políticos.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T020446Z" creationid="LENOVO" creationdate="20160919T222412Z">
+        <seg>Criticado con frecuencia como un líder tedioso, precavido y tecnocrático, Jiang comenzaba a mostrar un grado de firmeza que solo había sido evidente en sus hábiles maniobras contra enemigos políticos. </seg>
       </tuv>
     </tu>
     <tu>
