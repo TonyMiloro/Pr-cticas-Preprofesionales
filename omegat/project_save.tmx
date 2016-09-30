@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1153,8 +1153,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Systematically testing the degree of social tensions was the premise behind a large-scale (n = 11,094) nationwide survey carried out in 2002 by Li Peilin and others at CASS.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T190030Z" creationid="Agustín" creationdate="20160928T182941Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Al mismo tiempo, Li Peilin y otros miembros de la CASS evaluaron el grado de tensión social a través de una encuesta nacional de gran escala que se llevó a cabo en el año 2002.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T190252Z" creationid="Agustín" creationdate="20160928T182941Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Al mismo tiempo, Li Peilin y otros miembros de la CASS evaluaron el grado de tensión social a través de una encuesta nacional de gran escala (n = 11 094) que se llevó a cabo en el año 2002.</seg>
       </tuv>
     </tu>
     <tu>
