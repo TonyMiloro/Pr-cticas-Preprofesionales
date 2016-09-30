@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11173,6 +11173,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160928T101714Z" creationid="joaquin" creationdate="20160928T101714Z">
         <seg>Por lo general, estos estudiosos de la antigua generación se limitan a sí mismos  a escribir sobre el pasado en lugar de interesarse por las polémicas con sus colegas posmodernistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In going to Xibaipo, Hu sought to ally himself with the good traditions of the CCP; it was at Xibaipo that Mao Zedong had warned against succumbing to the sugar bullets of the urban bourgeoisie.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T140749Z" creationid="andrea" creationdate="20160930T140449Z">
+        <seg>Al ir a Xibaipo, Hu buscaba aliarse con las tradiciones genuinas del PCCh, ya que fue en allí donde Mao Zedong había advertido que no se rendieran ante las balas dulces de la burguesía urbana.</seg>
       </tuv>
     </tu>
     <tu>
