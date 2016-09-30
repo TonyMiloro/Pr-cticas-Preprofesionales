@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6791,14 +6791,6 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160927T151030Z">
         <seg>El fracaso de Chen fue más que nada un reflejo del resentimiento expandido respecto al rápido crecimiento de poder de los hijos de los líderes políticos de alto nivel&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;(taizi,&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;“príncipes”), una tendencia que continúa hasta el día de hoy.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>China Can Say No</seg>
-      </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160921T014722Z">
-        <seg>China Can Say No (China puede decir No)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16356,8 +16348,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Note: This schematic is arranged horizontally from the center outward, showing those who are far to the left and right of the political center (the Old Left and Liberals respectively) as well as those with left and right tendencies within the political center.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="PC" changedate="20160928T200533Z">
-        <seg>Nota: En esta tabla, el plano horizontal se organizó desde el centro hacia afuera. Muestra aquellos que se alejan de la política central hacia la izquierda y derecha (la vieja izquierda y los liberales respectivamente), así como aquellos con tendencias de izquierda y derecha dentro de la politica central.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T205442Z">
+        <seg>Nota: En esta tabla, el plano horizontal se organizó desde el centro hacia afuera. Muestra aquellos que se alejan de la política central hacia la izquierda y derecha (la vieja izquierda y los liberales respectivamente), así como aquellos con tendencias de izquierda y de derecha dentro de la politica central.</seg>
       </tuv>
     </tu>
     <tu>
