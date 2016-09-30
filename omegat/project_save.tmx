@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>36.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055148Z" creationid="Franco" creationdate="20160930T055148Z">
+        <seg>&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160920T092308Z">
@@ -2644,6 +2652,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Juan Pablo" changedate="20160930T041738Z">
         <seg>Cuando Merle Goldman analizó la “élite democrática” en la década de los 80, inevitablemente recurrió a “la red intelectual de Hu Yaobang”. La razón se debe a que la mayoría de los que se encontraban explorando la democratización del sistema político estaban vinculados a esta red, en cierto modo, para intentar influir en las políticas del PCCh19. De manera similar, cuando  investigué sobre la política económica en la década de los 80, los intelectuales se encontraban conectados a redes. En ese entonces podía ser a la red conservadora que rodeaba a Chen Yun,  líder principal del partido y especialista en economía o a la de Zhao Ziyang, primer ministro y posterior secretario general, quien se esforzó por reformar la economía, lo que causó que entrara cada vez más en conflicto con las preferencias políticas de Chen Yun20. La mayor parte de los intelectuales eran “intelectuales del establishment”21.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;Wang Huning, “Zhongguo bianhua zhong de zhongyang he difang zhengfu de guanxi: Zhengzhi&lt;/f3&gt;&lt;/t0&gt;&lt;t4&gt;&lt;f5&gt;de hanyi,” p.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Franco" changedate="20160930T055206Z" creationid="Franco" creationdate="20160930T055206Z">
+        <seg>&lt;t0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/t0&gt;&lt;t4&gt;&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
