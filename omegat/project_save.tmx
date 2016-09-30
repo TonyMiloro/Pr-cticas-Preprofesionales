@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1650,8 +1650,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hu and Wang argued that the extractive capacity of China’s central government was quite weak.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160928T225525Z">
-        <seg>Hu y Wang sostenían que la capacidad extractiva del gobierno central de China era algo débil.&lt;f0&gt;</seg>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T155206Z">
+        <seg>Hu y Wang sostenían que la capacidad extractiva del gobierno central de China era bastante débil.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2388,6 +2388,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160905T005846Z">
         <seg>&lt;f0&gt;que sin duda iba a desencadenarse de un &lt;/f0&gt;&lt;f1&gt;sistema elitista,&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;a &lt;/f3&gt;&lt;f4&gt;trav&lt;/f4&gt;&lt;f5&gt;és de&lt;/f5&gt;&lt;f6&gt;l&lt;/f6&gt;&lt;f7&gt; desarrollo de una sociedad democrática, no burocrática donde no existe la &lt;/f7&gt;división&lt;f8&gt; de clases &lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;La tragedia de Mao fue que la sociedad China no contaba con las condiciones necesarias para crear esa sociedad democrática; entonces, su esfuerzo fracazó.&lt;/f11&gt;&lt;f12&gt;58&lt;/f12&gt;&lt;f13&gt;Sin embargo, sostiene el autor, Mao no estaba equivocado con respecto a sus motivos iniciales; los errores que resultaron en tragedia ocurrieron mas tarde (debido a Jiang Qing y Lin Biao principalmente).   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;revenues.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T155917Z" creationid="Magui" creationdate="20160930T155917Z">
+        <seg>&lt;f0&gt; importancia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6539,6 +6547,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>China could not simply follow the Western model of allowing some pe&lt;/f8&gt;&lt;f9&gt;ople to become very affluent.&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;Fortunately for Hu, the book was passed to Deng Nan, Deng Xiaoping’s daughter, who then passed it (or a summary) on to her father.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T154827Z" creationid="Magui" creationdate="20160930T154656Z">
+        <seg>El país no podía simplemente seguir el modelo occidental que le permitía a algunas personas volverse acaudaladas. Por suerte para Hu, el libro llegó a las manos de Deng Nan, la hija de Deng Xiaoping, quien luego le hizo llegar una versión probablemente resumida a su padre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>China could not simply follow the Western model of allowing some people to become very affluent.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T163251Z" creationid="Flor" creationdate="20160927T145202Z">
@@ -7407,6 +7423,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160927T145310Z" creationid="Flor" creationdate="20160927T145310Z">
         <seg>Deng Xiaoping elogió el trabajo y, como era de esperarse, los recursos del Estado llegaron en generosas cantidades al Centro de Investigación de las Condiciones Nacionales de la CAS, lugar en el que trabajaba Hu.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deng Xiaoping praised the work, and – not surprisingly – state resources were then lavished on&lt;/f10&gt;&lt;f12&gt;&lt;s13/&gt;the “national conditions research group” at CAS that Hu worked with&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T155556Z" creationid="Magui" creationdate="20160930T154938Z">
+        <seg>Deng Xiaoping elogió el trabajo y, como era de esperarse, los recursos del Estado llegaron en generosas cantidades al Centro de Investigación de las Condiciones Nacionales de la CAS, lugar en el que trabajaba Hu&lt;/f12&gt;3&lt;f14&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11606,6 +11630,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Gime" changedate="20160922T210954Z">
         <seg>En parte, como indicó Suisheng Zhao, la "desmitificación" de Occidente que es central para esta crítica fue el resultado de intercambios más amplios y frecuentes con Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particul&lt;/f5&gt;&lt;f6&gt;ar, China’s large population and consequent low per-capita resource base meant that China would need a strong government that could “coordinate” (&lt;/f6&gt;&lt;f7&gt;xietiao&lt;/f7&gt;&lt;f8&gt;) the various demands on resources.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T154713Z" creationid="Magui" creationdate="20160930T154351Z">
+        <seg>Debido a la población extensa y, en consecuencia, al bajo PBI, China necesitaría un gobierno fuerte que pudiera "coordinar" (&lt;/f6&gt;&lt;f7&gt;xietiao&lt;/f7&gt;&lt;f8&gt;) las diversas demandas de recursos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20253,6 +20285,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first book on which&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;he was a major collaborator was&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Survival and Development&lt;/f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T154236Z" creationid="Magui" creationdate="20160930T154236Z">
+        <seg>El primer libro en el que fue colaborador principal fue&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Supervivencia y Desarrollo&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first clear sign of extra-institutional &lt;t105/&gt;maneuvering&lt;t106/&gt; appeared when the Xinhua News Agency announced that &lt;t107/&gt;Jia&lt;t108/&gt; &lt;t109/&gt;Qinglin&lt;t110/&gt;, the Party secretary of Beijing, and Huang &lt;t111/&gt;Ju&lt;t112/&gt;, the Party secretary of Shanghai, both close to Jiang Zemin, would be “transferred to the center.”33 These two important personnel changes meant that Liu Qi, who was named to succeed &lt;t113/&gt;Jia&lt;t114/&gt; &lt;t115/&gt;Qinglin&lt;t116/&gt; as Beijing Party secretary, and Chen &lt;t117/&gt;Liangyu&lt;t118/&gt;, who took over as Shanghai Party secretary, would join the Politburo since the Party leaders of those two major cities are routinely seated on the Party’s highest policy-making body.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Yani" changedate="20160922T192120Z">
@@ -22130,6 +22170,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They cited statistics to show that central gov-ernment revenues as a percentage of GNP had fallen&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;from 31.2 percent in 1978 to 14.7 percent in 1992, and they projected that such revenues would fall to only 11.3 percent in the year 2000&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;At least as serious, they argued, was the ratio between central government revenues and total government&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T155847Z" creationid="Magui" creationdate="20160930T155534Z">
+        <seg>Se refirieron a estadísticas para demostrar que los ingresos del gobierno central en porcentaje del PNB (producto nacional bruto) habían caído del 31,2 % en 1978 al 14,7 % en 1992; además, proyectaron que tales ingresos caerían a solo el 11,3 % en el año 2000&lt;/f2&gt;4&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;Argumentaron que la relación entre los ingresos del gobierno central y los ingresos totales del gobierno tenía la misma&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They did so for several reasons.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Nadine" changedate="20160928T130236Z">
@@ -23496,6 +23544,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160917T230628Z">
         <seg>Juntos trabajaron en un artículo de investigación llamado "Fortalecer el liderazgo del gobierno central durante la transición hacia una economía de mercado: la capacidad del Estado de China". Al tratar de "operacionalizar" el concepto de capacidad del Estado, Hu y Wang se enfocaron en la capacidad extractiva del Estado, no solo porque es fácil de medir (lo que a su vez facilita la comparación de tendencias tanto en tiempo como en espacio), sino también porque, es su opinión, era el asunto más urgente del momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Together they worked on a research report entitled “Strengthen the Guid-ing Role of the Central Government during&lt;s0/&gt;the Transition to a Market Economy: On China’s State Capacity.” In trying to “operationalize” the concept of state capacity, Hu and Wang focused on the state’s extractive capacity, not only because it is easy to measure – making it easy to compare trends&lt;s1/&gt;across both time and space – but also because, in their opinion, it was the pressing issue of the day.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Magui" changedate="20160930T155103Z" creationid="Magui" creationdate="20160930T155103Z">
+        <seg>Juntos trabajaron en un artículo de investigación llamado "Fortalecer el liderazgo del gobierno central durante la transición hacia una economía de mercado: la capacidad del Estado de China". Al tratar de "operacionalizar" el concepto de capacidad del Estado, Hu y Wang se enfocaron en la capacidad extractiva del Estado, no solo porque es fácil de medir (lo que a su vez facilita la comparación de tendencias tanto en tiempo como en espacio), sino también porque, en su opinión, era el asunto más urgente del momento.</seg>
       </tuv>
     </tu>
     <tu>
