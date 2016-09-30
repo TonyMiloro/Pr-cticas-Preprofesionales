@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -825,8 +825,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;(1115)&lt;/f0&gt;Deng declared the Tiananmen incident to be “the inevitable result of the domestic microclimate &lt;s1/&gt;and &lt;s2/&gt;the &lt;s3/&gt;international &lt;s4/&gt;macroclimate.” This sense that Tiananmen was inﬂuenced (if not instigated) by outside forces raised the issue of readjusting China’s relations with the outside world, particularly the United States.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T152537Z">
-        <seg>&lt;f0&gt;(1115)&lt;/f0&gt;Deng expresó que el incidente de Tiananmén fue "el resultado inevitable del microclima doméstico &lt;s1/&gt;y &lt;s2/&gt;el &lt;s3/&gt;macroclima &lt;s4/&gt;internacional”. Esta sensación de que Tiananmén fue influenciado (o incitado) por fuezas externas planteó inquietudes acerca de un reajuste en las relaciones de China con el resto del mundo, en particular con Estados Unidos.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T185428Z">
+        <seg>&lt;f0&gt;(1115)&lt;/f0&gt;Deng declaró que el incidente de Tiananmén fue "el inevitable resultado del microclima doméstico &lt;s1/&gt;y &lt;s2/&gt;el &lt;s3/&gt;macroclima &lt;s4/&gt;internacional”. El hecho que Tiananmén fue influenciado (o instigado) por fuezas externas desastó la discusión sobre el reajuste en las relaciones de China con el resto del mundo, en particular con Estados Unidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21089,8 +21089,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The issue of China’s relations with the outside world has continued to intrude into Chinese domestic politics throughout the post-Tiananmen period as ﬁrst Eastern Europe and then the Soviet Union rejected communism, as relations with the United States remained generally strained through much of the 1990s, and as closer ties with East Asia have suggested alternative development models.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160912T013553Z">
-        <seg>La discusión sobre las realciones de China con el resto del mundo ha interferido en las políticas internas chinas durante el periodo pos-Tiananmén pues primero Europa Occidental y luego la Union Sovietica rechazaron el comunismo, las realciones con Estados Unidos continuaban siendo limitadas durante casi todos los 90, y mientras los lazos más cercanos con Asia del este sugirieron modelos de desarrollo alternativo.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T185520Z">
+        <seg>La discusión sobre las realciones de China con el resto del mundo ha interferido en las políticas internas chinas durante el periodo posTiananmén pues primero Europa Occidental y luego la Union Sovietica rechazaron el comunismo, las realciones con Estados Unidos continuaban siendo limitadas durante casi todos los 90, y mientras los lazos más cercanos con Asia del este sugirieron modelos de desarrollo alternativo.</seg>
       </tuv>
     </tu>
     <tu>
