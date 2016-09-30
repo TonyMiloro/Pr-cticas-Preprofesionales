@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2848,6 +2848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t9/&gt;Jiang also called for the development of diverse forms of ownership, a formulation that would permit the continued rapid development &lt;t10/&gt;of the private economy.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T225605Z" creationid="LENOVO" creationdate="20160919T225605Z">
+        <seg>&lt;t9/&gt;Jiang también convocó al desarrollo de fiversas formas de propiedad, una fórmula que permitiría el rápido desarrollo continuo&lt;t10/&gt;de la economía privada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t95/&gt;But doing so allowed him to expand on the content of the Three Represents without challenging Jiang Zemin&lt;t96/&gt; &lt;t97/&gt;directly.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T130447Z">
@@ -3478,6 +3486,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160929T190307Z" creationid="Usuario" creationdate="20160929T190154Z">
         <seg>Aunque Jiang había solicitado la reestructuración administrativa en el Decimoquinto Congreso del Partido Comunista el otoño pasado y Luo Gan había presentado el plan a la APN, era claro que el programa era de Zhu. &lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although Jiang had previewed some of his major themes in his speech to the Central Party School, it was not until the Fifteenth Party Congress convened in Beijing on September 12–18 that the full scope of Jiang’s program and his personnel arrangements for carrying it out were unveiled.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T222933Z" creationid="LENOVO" creationdate="20160919T222600Z">
+        <seg>A pesar de que Jiang había previsto algunos de los temas más importantes en su discurso a la Escuela Centra del Partido, no fue hasta el Decimoquinto Congreso del Partido, que se celebró en Pekín del 12 al 18 de septiembre, que el pleno alcance del programa de Jian y sus disposiciones en materia de personal para llevarlo a cabo se dieron a conocer. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9263,6 +9279,14 @@ El trabajo de Deng se volvió incluso más difícil debido a la tensa atmósfera
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a leader often criticized as bland, cautious, and technocratic, Jiang was beginning to reveal a degree of decisiveness previously visible only in his deft maneuvers against political enemies.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T222445Z" creationid="LENOVO" creationdate="20160919T222412Z">
+        <seg>Criticado con frecuencia como un líder tedioso, precavido y tecnocrático, Jian comenzaba a  a mostrar un grado de firmeza que solo había sido evidente en sus hábiles maniobras contra enemigos políticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For all of his expressed sympathy for the Cultural Revolution, Wang declares that he wants China to “improve” (&lt;/f0&gt;&lt;f1&gt;gailiang&lt;/f1&gt;&lt;f2&gt;) rather than “reform” (&lt;/f2&gt;&lt;f3&gt;gaige&lt;/f3&gt;&lt;f4&gt;) for&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T203013Z">
@@ -9852,6 +9876,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T123449Z">
         <seg>&lt;t102/&gt;Debido a las circunstancias verdaderamente aterradoras de la crisis del SARS, estas acciones sumaron adherentes para Hu Jintao, incluso en internet, y fortalecieron la credibilidad del partido.&lt;t103/&gt; &lt;t104/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given the possibilities presented by the changed political landscape, the crisis facing the economy, and Jiang’s own need to put his stamp on the post-Deng era, Jiang went to the Central &lt;t0/&gt;Party School in late May to give the most important political speech of his career.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T221457Z" creationid="LENOVO" creationdate="20160919T221242Z">
+        <seg>Teniendo en cuenta las posibilidades que el nuevo panorama político ofrecía, la crisis que enfrentaba la economía y Jiang y su propia necesidad de ponerle su sello a la era post Deng, Jiang se dirigió a la &lt;t0/&gt;Escuela Central del Partido Comunista chino a finales de mayo para pronunciar el discurso político más importante de su carrera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11313,6 +11345,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 1996, for the first time, subsidies to SOEs actually outweighed their contributions to the state budget.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T220952Z" creationid="LENOVO" creationdate="20160919T220952Z">
+        <seg>En 1996, por primera vez, los subsidios a las empresas estatales superaban las contribuciones que éstas realizaban al presupuesto público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;t151/&gt;2000&lt;t152/&gt;, he moved to the State Economic Reform Commission.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160920T195715Z">
@@ -11605,6 +11645,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Silvina Nuñez" changedate="20160927T174303Z" creationid="Silvina Nuñez" creationdate="20160927T174303Z">
         <seg>Jiang Zemin, de un solo golpe, tomó medidas contra los líderes más afianzados del país, apostó por el apoyo popular en la campaña anticorrupción y atentó contra las personas más poderosas que podrían oponerse a él en el futuro, incluida la familia de Deng y uno de los miembros veteranos del partido, Wan Li (Wan había sido colaborador durante mucho tiempo de Shougang y, como ex vicealcalde de Pekín, tenía una estrecha relación con los líderes de la ciudad).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a thinly veiled jab at the left, Jiang declared that “[t]here is no way out if we study Marxism in isolation and separate and set it against vivid development in real life.” In the unpublicized portion of the speech, Jiang reportedly went further, explicitly criticizing the left and laying out his rationale for ref&lt;t1/&gt;orm of the ownership structure.&lt;t2/&gt; Deng had raised the slogan “guard against the right, but guard primarily against the left” in his 1992 trip to the south, but it had been largely dropped from the official media (except for inclusion in formal Party resolutions) following the Fourteenth Party Congress later that year.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T222221Z" creationid="LENOVO" creationdate="20160919T221800Z">
+        <seg>En un golpe apenas velado a la Izquierda, Jiang anunció que "No hay salida si estudiamos el marxismo de forma aislada y separada y lo contraponemos con el desarrollo vívido en la vida real". En el fragmento que no se publicó del discurso, Jiang incluso llegó a criticar explícitamente a la Izquierda y a exponer sus razones para &lt;t1/&gt;la reforma de la estructura de propiedad.&lt;t2/&gt; Deng había levantado la consigna “Protegerse de la Derecha pero, fundamentalmente, protegerse contra la Izquierda" en su viaje al sur en 1992. Pero los medios de comunicación oficiales ya no le brindaban la debida importancia (solo la incluían en las resoluciones formales del Partido) siguiendo el Decimocuarto Congreso del Partido Comunista a finales de ese año.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14352,6 +14400,14 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jiang had evidently considered a variety of ideological themes in his efforts to consolidate his own authority; it certainly would have been more satisfying to enunciate a doctrine that could reasonably have been considered “Jiang Zemin theory” rather than to tie his fortunes to the “theory” of the deceased Deng.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T223501Z" creationid="LENOVO" creationdate="20160919T223222Z">
+        <seg>En sus esfuerzos para consolidar su propia autoridad, Jiang había considerado, evidentemente, diversos temas ideológicos; no cabe duda de que hubiera sido más satisfactorio anunciar una doctrina que se pudiera considerar la "teoría de Jiang Zemin" en vez de atar su fortuna a la "teoría" del fallecido Deng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jiang had only slowly relaxed his concern with being accused, like his predecessors,&lt;t0/&gt; &lt;t1/&gt;of being “lax on bourgeois liberalization,” and he was quick to&lt;t2/&gt; &lt;t3/&gt;retreat if domestic stability seemed threatened.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Sabri" changedate="20160903T210955Z">
@@ -14420,6 +14476,14 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160905T173726Z">
         <seg>Jiang citó a Deng manifestando (cuando regresó al poder al final de los 70) que hay dos posibles actitudes: “una es actuar como un &lt;t0/&gt;burócrata, la otra es trabajar/funcionar/servir”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang revived the thesis in 1997 to legitimize reforming SOEs through the widespread adoption of the shareholding system, a theme anticipated in Heart-to-Heart Talks with the General Secretary and Liu Ji’s writings&lt;t2/&gt;.&lt;t3/&gt; “The shareholding system,” Jiang declared, “can be used both under capitalism and socialism.” Large and medium-sized state-owned enterprises would be reorganized into “standard corporations” with “clear ownership” that would be genuinely independent of government control.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T225111Z" creationid="LENOVO" creationdate="20160919T224507Z">
+        <seg>Jiang reavivó la hipótesis en 1997 para legitimar la reforma de las empresas estatales a través de la adopción generalizada del sistema de acciones, un tema que se anticipó en Charlas sinceras con el Secretario General y los escritos de Liu Ji&lt;t2/&gt;.&lt;t3/&gt; “El sistema de acciones", explicó Jiang, "puede ser utilizado tanto por el capitalismo como por el socialismo". Las empresas estatales grandes y medianas se reorganizarían en "emoresas convencionales" con "propiedad clara" que serían verdaderamente independientes del control del estado. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14564,6 +14628,14 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160905T011707Z">
         <seg>La relación de Jiang con Li Xiannian parece haber sido particularmente cercana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jiang’s report, then, was a highly authoritative response to the 10,000 character manifestos and other expressions of leftist discontent.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T223728Z" creationid="LENOVO" creationdate="20160919T223728Z">
+        <seg>El reporte de Jiang fue una respuesta muy influyente a los Manifiestos de 10000 caracteres y a otras expresiones de descontento en la Izquierda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14908,6 +14980,14 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="Luisina" changedate="20160918T162036Z">
         <seg>Los izquierdistas del partido querían adoptar la primera opción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leftists, for all their ability to obstruct reform, had never been able to present a viable alternative; Li Peng’s efforts in the wake of Tiananmen had been their last, best hope.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T221140Z" creationid="LENOVO" creationdate="20160919T221140Z">
+        <seg>Los de la Izquierda, debido a su capacidad para obstruir reformas, nunca habían sido capaces de proponer una alternativa viable; los esfuerzos de Li Peng tras el Tiananmen habían sido la mejor esperanza que les quedaba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16834,6 +16914,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now Jiang was reviving it and identifying himself with Deng’s reforms.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T222321Z" creationid="LENOVO" creationdate="20160919T222321Z">
+        <seg>Ahora Jiang reavivaba esa consigna y se identificaba con las reformas de Deng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, in the wake of Zhao’s ouster, conservative writer Chen Daixi (writing under the pseudonym “Yi Ren”) accused Zhao of using “all kinds of dirty tricks with the most malicious motives” to suppress the Zhuozhuo meeting.62 Obviously, Chen, as well as other conservative writers at the time, was aware that Deng had fully supported the stoppage of the 1987 campaign and they hoped to prevent him from doing so again.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Candelaria" changedate="20160921T033549Z">
@@ -18258,6 +18346,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T233308Z">
         <seg>La práctica convencerá a la gente que duda del sistema socialista". 27 Las palabras de Zhao también demuestran que las diferencias de opinión dentro del partido son de larga data. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Praising Deng, however, had two distinct virtues: no one could openly disagree; and, the more Deng was praised, the more the leftists who looked to Mao’s legacy were disparaged.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T223627Z" creationid="LENOVO" creationdate="20160919T223258Z">
+        <seg>Sin embargo, elogiar a Deng tenía dos virtudes diferentes: nadie podía discrepar abiertamente; y, mientras más se elogiaba a Deng, más se menospreciaba a los izquierdistas que recurrían al legado de Mao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19868,6 +19964,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160928T234413Z">
         <seg>Aquellos fracasos manifestaron una competencia por el poder político del tipo "el ganador se lo lleva todo", una en que se concibe al poder como una unidad "monista, unitaria e indivisible". Aquella tradición, arraigada en un pasado imperial, pero reforzada y de hecho exacerbada por las luchas políticas del siglo veinte, ha perjudicado la creación de instituciones políticas y el surgimiento de una forma más pluralista de entender la política. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such generational change did not end opposition to more thoroughgoing reform, as there seemed to be a limitless supply of central officials whose careers and interests are tied to the preservation of the old state-run economy, but it certainly weakened political resistance at the highest reaches of the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T220731Z" creationid="LENOVO" creationdate="20160919T220657Z">
+        <seg>Este cambio generacional no significó el fin de la oposición a una reforma más exhaustiva ya que parecía haber un suministro ilimitado de funcionarios cuyas carreras e intereses dependían de la preservación de una economía controlada por el Estado pero, definitivamente, debilitó la resistencia política de las más altas esferas del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21798,6 +21902,14 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The largest of them (frequently proposed as some 500–1,000 SOEs) would be reorganized into large enterprise groups that were to function like chaebol, while smaller enterprises could be reorganized, merged, leased, contracted out, or sold off – a policy known as “grasp the large and let go of&lt;t4/&gt; the small” (&lt;t5/&gt;zhuada&lt;t6/&gt; &lt;t7/&gt;fangxiao&lt;t8/&gt;).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T225504Z" creationid="LENOVO" creationdate="20160919T225214Z">
+        <seg>La más grandes de ellas (entre 500 y 1000 empresas estatales) se reorganizarían en grupos grandes de emresas que funcionarían como chaebol, mientras que las empresas más pequeñas se podrían reorganizar, fusionar, rentar, contratar y vender–una política conocida como "captar lo grande y soltar &lt;t4/&gt; lo pequeño” (&lt;t5/&gt;zhuada&lt;t6/&gt; &lt;t7/&gt;fangxiao&lt;t8/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The left further derives influence from the age and long-term service of many of its leaders.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Lucrecia" changedate="20160927T120718Z" creationid="Lucrecia" creationdate="20160927T120659Z">
@@ -22684,6 +22796,14 @@ ya que el encuentro anual de la APN se llevó a cabo.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Daniel-Andrea" changedate="20160929T123921Z">
         <seg>El término&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;esencia&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;puede interpretarse mejor como la combinación de la autoridad no oficial con la oficial, que le da a un dirigente el poder de tomar la última decisión sobre asuntos relacionados al partido (la capacidad, como lo definen en China, de “tomar el control” (&lt;/f4&gt;&lt;f5&gt;pai banzi&lt;/f5&gt;&lt;f6&gt;) y tener la última palabra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The theme of the congress, as Jiang’s report declared, was to “hold high the banner of Deng Xiaoping theory,” and Deng Xiaoping theory was subsequently incorporated into both the Party and state constitutions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T223111Z" creationid="LENOVO" creationdate="20160919T223111Z">
+        <seg>El tema del congreso, como lo declaraba el reporte de Jiang, era "Mantener en alto el estandarte de la teoría de Deng Xiaoping" y la teoría de Deng Xiaoping se incorporó posteriormente al Partido y a las constituciones estatales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23737,6 +23857,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This effort to break with leftist interpretations of Marxism–Leninism was also apparent in Jiang’s unexpected decision to feature the thesis that China is in the “primary stage of socialism,” an argument that had been developed by then-General Secretary Zhao &lt;t0/&gt;Ziyang&lt;t1/&gt; at the Thirteenth Party Congress in 1987 in order to justify further reform but then quietly dropped after 1989.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T224419Z" creationid="LENOVO" creationdate="20160919T224419Z">
+        <seg>Dicho esfuerzo para romper con las interpretaciones izquierdistas del marxismo-lenimismo también se hizo aparente en la inesperada decisión de presenta la hipótesis de que China está en la "primera etapa del socialismo", un argumento que había sido desarrollado para entonces-Secretario General &lt;t0/&gt;ZhaoZiyang&lt;t1/&gt; en el Decimotercer Congreso del Partidoen 1987 para justificar nuevas reformas pero abandonó silenciosamente luego de 1989.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This effort to define Jiang’s program in more positive and systematic terms became visible with the October &lt;/f33&gt;&lt;f34&gt;1996 &lt;/f34&gt;&lt;f35&gt;publication of &lt;/f35&gt;&lt;f36&gt;Heart-to-Heart Talks with the General Secretary&lt;/f36&gt;&lt;f37&gt;.&lt;/f37&gt;</seg>
       </tuv>
       <tuv lang="ES-US" changeid="marcelo lavarda" changedate="20160929T202542Z">
@@ -24539,6 +24667,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thus, Jiang declared in his report to the congress that Deng Xiaoping theory “breaks with outmoded conventions on the basis of new practice” and that “[d]&lt;t0/&gt;iscussing&lt;t1/&gt; Marxism without regard to our actual situation and developme&lt;t2/&gt;nt of the times is misleading.”</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T223947Z" creationid="LENOVO" creationdate="20160919T223947Z">
+        <seg>Por consiguiente, Jiang declaró en su reporte al congreso que la teoría de Deng Xiaoping "Rompe con las convenciones obsoletas basándose en una nueva práctica" y que "&lt;t0/&gt;Abordar&lt;t1/&gt; el marxismo sin tener en cuenta nuestra situación y desarrollo actual&lt;t2/&gt;resulta engañoso".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus, Vice-Premier Tian Jiyun, a protégé of Zhao who had pushed Deng’s themes with such devastating effectiveness the previous spring, was denied a Politburo Standing Committee seat.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="constanza" changedate="20160929T153505Z" creationid="constanza" creationdate="20160929T153505Z">
@@ -24887,6 +25023,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Sofia" changedate="20160910T131330Z">
         <seg>En la actualidad, tanto el líder del partido Hu Jintao como el primer ministro Wen Jiabao son egresados de la Universidad de Qinghua.&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Together these reforms would allow room for a massive restructuring of the Chinese economy in the years ahead.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T225702Z" creationid="LENOVO" creationdate="20160919T225702Z">
+        <seg>En conjunto,estas reformas roporcionarían cierto margen para una restructuración masiva de la economía china en los próximos años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25743,6 +25887,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160927T012035Z">
         <seg>Lo que está en discusión no es tanto la reforma en sí, sino lo que se entiende por reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is more, the mounting problems of state-owned enterprises were becoming 1 Wei Ming, “&lt;t6/&gt;Yijiu&lt;t7/&gt; &lt;t8/&gt;jiu’er&lt;t9/&gt; &lt;t10/&gt;nian&lt;t11/&gt; &lt;t12/&gt;yilai&lt;t13/&gt; &lt;t14/&gt;zichan&lt;t15/&gt; &lt;t16/&gt;jieji&lt;t17/&gt; &lt;t18/&gt;ziyouhua&lt;t19/&gt; de &lt;t20/&gt;dongtai&lt;t21/&gt; he &lt;t22/&gt;tedian&lt;t23/&gt;.” &lt;t24/&gt;2 Jiang Zemin, “Memorial Speech at Deng Xiaoping’s Memorial Meeting.”&lt;t25/&gt; P1: SJT 9780521866934c07 CUUK1178/&lt;t26/&gt;Fewsmith&lt;t27/&gt; 9780521866934 June 6, 2008 21:3 Elite politics under globalization and nationalism 199 increasingly difficult to deny.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160919T220846Z" creationid="LENOVO" creationdate="20160919T220846Z">
+        <seg>Además, los crecientes problemas de las empresas estatales se volvían cada vez más difíciles de negar.&lt;t6/&gt;Yijiu&lt;t7/&gt; &lt;t8/&gt;jiu’er&lt;t9/&gt; &lt;t10/&gt;nian&lt;t11/&gt; &lt;t12/&gt;yilai&lt;t13/&gt; &lt;t14/&gt;zichan&lt;t15/&gt; &lt;t16/&gt;jieji&lt;t17/&gt; &lt;t18/&gt;ziyouhua&lt;t19/&gt; de &lt;t20/&gt;dongtai&lt;t21/&gt; he &lt;t22/&gt;tedian&lt;t23/&gt;.” &lt;t24/&gt;2 Jiang Zemin, “Memorial Speech at Deng Xiaoping’s Memorial Meeting.”&lt;t25/&gt; P1: SJT 9780521866934c07 CUUK1178/&lt;t26/&gt;Fewsmith&lt;t27/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27280,8 +27432,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>deng’s strategy</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="multimedia08" changedate="20160926T201703Z">
-        <seg>La estrategia de Deng</seg>
+      <tuv lang="ES-US" changeid="Candelaria" changedate="20160905T025611Z" creationid="Lu" creationdate="20160904T225423Z">
+        <seg>La estrategia de Deng </seg>
       </tuv>
     </tu>
     <tu>
