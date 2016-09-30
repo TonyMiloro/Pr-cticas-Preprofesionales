@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1636,6 +1636,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="Magui" changedate="20160930T014414Z" creationid="Magui" creationdate="20160930T014414Z">
         <seg>&lt;f0&gt;Las críticas de Hu y Wang acerca de la estrategia "transferencia de autoridad y entrega de beneficios" y sobre las desigualdades regionales tenían, sin dudas, la intención de criticar el programa de reforma de Deng Xiaoping. En este sentido, sus opiniones fueron claramente parte de la reflexión intelectual más amplia sobre las "fallas" de la década de los 80 y en particular de los 90.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hu and Wang’s use of this political science literature stood the main-stream Chinese intellectual perspective of the 1980s on its head.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T023727Z" creationid="Sofi" creationdate="20160930T023704Z">
+        <seg>&lt;f0&gt;La utilización de esta ciencia política por parte de Hu y Wang puso de cabeza a la corriente principal de la perspectiva intelectual china de la década de los 80.</seg>
       </tuv>
     </tu>
     <tu>
