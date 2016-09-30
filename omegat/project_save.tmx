@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2842,8 +2842,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t4/&gt;Qiao&lt;t5/&gt; Shi was angered by his dismissal (though apparently able to secure the appointment of some of his followers as a price), and Zhu &lt;t6/&gt;Rongji&lt;t7/&gt; was similarly upset by not being named as the second-ranking member of the Politburo Standing Committee (the usual ranking of the premier, which Zhu was slated to become the following spring).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T025307Z" creationid="Cami" creationdate="20160929T223100Z">
-        <seg>&lt;t4/&gt;Qiao&lt;t5/&gt; Shi  estaba enfadado porque había sido destituido de su cargo (aunque, al parecer, se le permitía garantizar el nombramiento de algunos de sus seguidores como una forma de recompensa) y Zhu &lt;t6/&gt;Rongji&lt;t7/&gt; también estaba molesto porque no lo nombraron miembro de segundo rango del Comité Permanente de Politburó (rango que normalmente ocupa el primer ministro y que Zhu ya había arreglado ocupar la primavera siguiente).</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T025509Z" creationid="Cami" creationdate="20160929T223100Z">
+        <seg>&lt;t4/&gt;Qiao&lt;t5/&gt; Shi  estaba enfadado porque había sido destituido de su cargo (aunque, al parecer, se le permitía garantizar el nombramiento de algunos de sus seguidores como una forma de recompensa) y Zhu &lt;t6/&gt;Rongji&lt;t7/&gt; también estaba molesto porque no lo nombraron miembro de segundo rango del Comité Permanente de Politburó (rango que normalmente ocupa el primer ministro y que Zhu ocuparía tras un arreglo la primavera siguiente).</seg>
       </tuv>
     </tu>
     <tu>
