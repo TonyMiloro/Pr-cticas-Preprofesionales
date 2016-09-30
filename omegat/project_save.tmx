@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18768,8 +18768,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Still, glimpses &lt;t0/&gt;can be gained&lt;t1/&gt; by looking at specific issues and events.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160928T014350Z">
-        <seg>Aún así, esta interacción &lt;t0/&gt; se puede percibir&lt;t1/&gt;si se observan determinadas situaciones y eventos.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160930T163501Z">
+        <seg>Aún así, esta interacción &lt;t0/&gt; se puede percibir&lt;t1/&gt;si se observan determinados eventos y situaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20745,8 +20745,8 @@ Although the Fourth Plenum accused Zhao of supporting the turmoil and splitting 
       <tuv lang="EN-US">
         <seg>The interaction between the state and public opinion is complex, subtle, and often obscure to the outside observer; nonetheless, it is an important part of the political process.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Sofia" changedate="20160928T002157Z">
-        <seg>La interacción entre el estado y la opinión pública es compleja, sutil y a veces desconocida para los que la ven desde afuera; sin embargo, es un aspecto importante del proceso político.</seg>
+      <tuv lang="ES-US" changeid="Sofia" changedate="20160930T163339Z">
+        <seg>La interacción entre el Estado y la opinión pública es compleja, sutil y a veces desconocida para los que la ven desde afuera; sin embargo, es un aspecto importante del proceso político.</seg>
       </tuv>
     </tu>
     <tu>
