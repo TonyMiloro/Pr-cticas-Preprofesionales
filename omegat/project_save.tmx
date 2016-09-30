@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5781,8 +5781,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But beyond their personal dislike of Zhao was a broader concern about the content of reform as a whole, and that concern centered on the ﬁgure of Zhao’s patron, senior leader Deng Xiaoping.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T141448Z">
-        <seg>Pero más allá del desagrado personal por Zhao, había una preocupación mayor acerca del contenido de la reforma en su totalidad, y esa preocupación se centraba en la figura del PROTECTOR de Zhao, el mayor líder Deng Xiaoping.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184546Z">
+        <seg>Pero más allá del desagrado personal por Zhao, había una preocupación mayor acerca del contenido de la reforma en su totalidad, y esa preocupación se centraba en la figura del patrocinador de Zhao, el mayor líder Deng Xiaoping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13183,8 +13183,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It is apparent from the tone of many of the denunciations of Zhao appearing in the weeks and months following Tiananmen that such conservatives resented Zhao personally; they believed that he had ignored and insulted them, treating their concerns contemptuously.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T024541Z">
-        <seg>Por el tono de varias de las acusaciones de Zhao que surgieron en las semanas y meses después de Tiananmén pareciera que esos conservadores estaban molestos Zhao personalmente; ellos creían que los había ignorado e insultado al tratar sus preocupaciones con desprecio.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184507Z">
+        <seg>Por el tono de varias de las acusaciones contra Zhao que surgieron en las semanas y meses después de Tiananmén parecía que esos conservadores estaban molestos Zhao personalmente; ellos creían que los había ignorado e insultado al tratar sus preocupaciones con desprecio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21530,8 +21530,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The question thrown open by Tiananmen, then, was the nature of Deng’s leadership and thus whether or not the Party should continue reform as it had been deﬁned by Deng.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T142540Z">
-        <seg>La pregunta sobre Tiananmén que permanecia abierta fue luego la naturaleza del liderazgo de Deng y, por consiguiente, en si el partido debería continuar la reforma como venía siendo definida por Deng.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T184748Z">
+        <seg>Entonces durante Tiananmén surgieron cuestionamientos acerca de la naturaleza del liderazgo de Deng y, en consecuencia, si el partido debía o no continuar la reforma como venía siendo definida por Deng.</seg>
       </tuv>
     </tu>
     <tu>
