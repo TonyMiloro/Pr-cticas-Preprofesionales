@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2953,6 +2953,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A&lt;/f7&gt;&lt;f9&gt;s noted in Chapter&lt;s10/&gt;&lt;/f9&gt;&lt;a11&gt;&lt;f12&gt;3,&lt;s13/&gt;&lt;/f12&gt;&lt;/a11&gt;&lt;f14&gt;Yang Ping was the chief drafter of “Realistic Responses” in 1991 and had served as an editor of China Youth Daily, one of the most popular papers in the country.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130938Z" creationid="Lucia Cipolatti" creationdate="20160930T130901Z">
+        <seg>Como&lt;t22/&gt; se señaló en el Capítulo &lt;t23/&gt;3&lt;t24/&gt;, &lt;t25/&gt;Yang Ping fue jefe de redacción de Realistic Responses ("Respuestas Realistas") en el año 1991 y trabajó como editor del &lt;t26/&gt;China Youth Daily&lt;t27/&gt;, uno de los más populares del país.&lt;/f7&gt;&lt;f9&gt;&lt;s10/&gt;&lt;/f9&gt;&lt;a11&gt;&lt;f12&gt;&lt;s13/&gt;&lt;/f12&gt;&lt;/a11&gt;&lt;f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A&lt;t12/&gt; &lt;t13/&gt;pair of critical “observer” articles published in the People’s Daily on May&lt;t14/&gt; &lt;t15/&gt;16 and May 27 suggested deep anti-US sentiment.44 &lt;t16/&gt;These&lt;t17/&gt; articles were&lt;t18/&gt; &lt;t19/&gt;followed by a particularly strident observer article on June 22, which pushed&lt;t20/&gt; &lt;t21/&gt;rhetoric well beyond the bounds of diplomatic discourse by comparing –&lt;t22/&gt; &lt;t23/&gt;at length – the United States to Nazi Germany.45</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Jesica" changedate="20160926T203827Z">
@@ -3338,6 +3346,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although by 1993 there were many articles that expressed nationalistic sentiments, few journals took on the topic of nationalism directly and openly.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131038Z" creationid="Lucia Cipolatti" creationdate="20160930T131038Z">
+        <seg>Aunque en 1993 había muchos artículos&lt;t0/&gt; en los que se expresaban sentimientos&lt;t1/&gt; nacionalistas, solo algunos hacían referencia a la idea del nacionalismo de manera abierta y directa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although circulated internally, the document was soon leaked to the outside world, quickly becoming the subject of much commentary and sharp criticism.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235808Z">
@@ -3485,6 +3501,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
         <seg>Although many outside observers label them “neoconservatives,” they reject that label and instead see themselves as “true liberals” or as part of the New Left (&lt;t38/&gt;xin zuopai&lt;t39/&gt;).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160908T142527Z">
+        <seg>A pesar de que los ajenos al tema los catalogaban de "neoconservadores", ellos rechazaban esa etiqueta y en cambio se veían como "verdaderos liberales" o como parte de la Nueva Izquierda (&lt;t38/&gt;xin zuopai&lt;t39/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although many outside observers label them “neoconservatives,” they reject that label and instead see themselves as “true liberals” or as part of the New Left (xin zuopai).&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131022Z" creationid="Lucia Cipolatti" creationdate="20160930T131022Z">
         <seg>A pesar de que los ajenos al tema los catalogaban de "neoconservadores", ellos rechazaban esa etiqueta y en cambio se veían como "verdaderos liberales" o como parte de la Nueva Izquierda (&lt;t38/&gt;xin zuopai&lt;t39/&gt;).</seg>
       </tuv>
     </tu>
@@ -4758,6 +4782,14 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T123750Z">
         <seg>Como sugirió Realistic Responses y el consejo editorial de &lt;t30/&gt;Gestión&lt;t31/&gt; &lt;t32/&gt;y Estrategia&lt;t33/&gt;, este era un grupo &lt;t34/&gt;de jóvenes que estaba en contacto con personas muy influyentes dentro del partido, pero que a su vez se sintieron decepcionados por la falta de nuevas ideas y el liderazgo pujante del partido&lt;t35/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As “Realistic Responses” and the editorial board of Strategy and Management suggested, this was a g&lt;/f16&gt;&lt;f17&gt;roup of youth who were well con&lt;/f17&gt;&lt;f18&gt;nected with higher-ups in the Party but who were also frustrated by what they regarded as the lack of new ideas and forceful leadership of the Party.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130949Z" creationid="Lucia Cipolatti" creationdate="20160930T130938Z">
+        <seg>Como sugirió Realistic Responses y el consejo editorial de &lt;t30/&gt;Gestión&lt;t31/&gt; &lt;t32/&gt;y Estrategia&lt;t33/&gt;, este era un grupo &lt;t34/&gt;de jóvenes que estaba en contacto con personas muy influyentes dentro del partido, pero que a su vez se sintieron decepcionados por la falta de nuevas ideas y el liderazgo pujante del partido&lt;t35/&gt;.&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12584,8 +12616,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It is printed on far better paper th&lt;/f0&gt;&lt;f1&gt;an the average journal, indicat&lt;/f1&gt;&lt;f2&gt;ing its substantial financial backing – reputedly contributed by a wealthy overseas Chinese from Thailand but also suggesting its support from the military.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130813Z" creationid="Lucia Cipolatti" creationdate="20160930T130813Z">
-        <seg>Está impresa en un papel de mejor calidad que el que se usa en&lt;t10/&gt; la mayoría de las revistas,&lt;t11/&gt; lo que pone en evidencia el gran respaldo financiero proveniente de la acaudalada diáspora china que reside en Tailandia pero que también insinuaba un respaldo del sector militar.</seg>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130819Z" creationid="Lucia Cipolatti" creationdate="20160930T130813Z">
+        <seg>Está impresa en un papel de mejor calidad que el que se usa en&lt;t10/&gt; la mayoría de las revistas,&lt;t11/&gt; lo que pone en evidencia el gran respaldo financiero proveniente de la acaudalada diáspora china que reside en Tailandia pero que también insinuaba un respaldo del sector militar.&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19461,6 +19493,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The different perspective of this group stemmed in part from generational differences and in part from their self-ide&lt;/f18&gt;&lt;f19&gt;ntification with the common peo&lt;/f19&gt;&lt;f20&gt;ple.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T131022Z" creationid="Lucia Cipolatti" creationdate="20160930T131007Z">
+        <seg>La perspectiva de este grupo surgía por un lado de las diferencias generacionales y por otro de su propia identificación  &lt;t36/&gt;con la gente&lt;t37/&gt; común.&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The different perspective of this group stemmed in part from generational differences and in part from their self-ide&lt;t36/&gt;ntification with the common peo&lt;t37/&gt;ple.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T114715Z">
@@ -20950,6 +20990,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T130536Z">
         <seg>El ex "director honorario" Xiao Ke fue jefe de estado del EPL (Ejército Popular de Liberación), el director Gu Mu fue miembro de la secretaría y los "asesores en jefe", entre ellos personalidades reconocidas tales como el general retirado Zhang Aiping, el ex jefe de edición del &lt;t12/&gt;People's Daily &lt;t13/&gt;Qin Chuan, el ex líder de la Comisión Económica del Estado Yuan Baohua y el ex miembro de la secretaría Yan Mingfu.&lt;t14/&gt;68&lt;t15/&gt; El editor de  &lt;t16/&gt;Gestión y Estrategia&lt;t17/&gt; fue Qin Chaoying, hijo del&lt;t18/&gt; ex jefe de edición del &lt;t19/&gt;People's Daily&lt;t20/&gt;, Qin Chuan, aunque la dirección editorial fue principalmente de&lt;t21/&gt; Yang Ping y Wang Xiaodong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “honorary director” was former PLA Chief of Staff Xiao Ke, the director was former Secretariat member Gu Mu, and the “senior advisers” included such luminaries as retired general Zhang Aiping, former People’s Daily editor-in-chief Qin Chuan, former State Economic Com-mission head Yuan Baohua, and former Secretariat member Yan Mingfu.68 The editor of Strategy and Management was Qin Chaoying, son of the&lt;/f2&gt;&lt;bs3/&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;former editor-in-chief of the People’s Daily, Qin Chuan, but the editorial direction came primarily from&lt;/f5&gt;&lt;f7&gt;&lt;s8/&gt;Yang Ping and Wang Xiaodong.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130901Z" creationid="Lucia Cipolatti" creationdate="20160930T130843Z">
+        <seg>El ex "director honorario" Xiao Ke fue jefe de estado del EPL (Ejército Popular de Liberación), el director Gu Mu fue miembro de la secretaría y los "asesores en jefe", entre ellos personalidades reconocidas tales como el general retirado Zhang Aiping, el ex jefe de edición del &lt;t12/&gt;People's Daily &lt;t13/&gt;Qin Chuan, el ex líder de la Comisión Económica del Estado Yuan Baohua y el ex miembro de la secretaría Yan Mingfu.&lt;t14/&gt;68&lt;t15/&gt; El editor de  &lt;t16/&gt;Gestión y Estrategia&lt;t17/&gt; fue Qin Chaoying, hijo del&lt;t18/&gt; ex jefe de edición del &lt;t19/&gt;People's Daily&lt;t20/&gt;, Qin Chuan, aunque la dirección editorial fue principalmente de&lt;t21/&gt; Yang Ping y Wang Xiaodong.&lt;/f2&gt;&lt;bs3/&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;s8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24312,6 +24360,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="daiana" changedate="20160927T003127Z">
         <seg>Yang Ping y Wang Xiaodong quizás podrían ser considerados empresarios intelectuales que trabajaban, con un éxito considerable, para introducir ideas previamente marginales a la corriente principal, aunque no deberían subestimarse sus conexiones con partes del sistema político.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yang Ping w&lt;/f14&gt;&lt;f15&gt;as interested in exploring vari&lt;/f15&gt;&lt;f16&gt;ous nationalist and neoconservative ideas as a way for China to overcome what he and many others saw as the problems generated by the reforms of the 1980s.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Lucia Cipolatti" changedate="20160930T130943Z" creationid="Lucia Cipolatti" creationdate="20160930T130925Z">
+        <seg>Yang Ping estaba&lt;t28/&gt; interesado en explorar diferentes&lt;t29/&gt; ideas nacionalistas y neoconservadoras para que China logre enfrentar lo que él y muchos otros veían como problemas generados por las reformas de la década de los 80.&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
