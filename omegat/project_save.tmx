@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3090,8 +3090,8 @@
       <tuv lang="EN-US">
         <seg>A deci- sion not to name any alternates to the Politburo allowed Wang Gang to be elevated to full membership.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>La decisión de no nombrar a ningún suplente al Politburó permitió que Wang Gang ascendiera y tuviera plena adhesión en el partido.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T205101Z">
+        <seg>La decisión de no nombrar a ningún suplente al Politburó permitió que Wang Gang ascendiera y tuviera plena adhesión al partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9048,8 +9048,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>First, it reaffirmed "reform and opening up." This reaffirmation may not seem strange until one recalls the very heated debates about reform pol- icy discussed in Chapter 8.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T163927Z">
-        <seg>Primero, reafirmó "la reformas políticas y la apertura al mundo". Esta ratificación parece excepcional hasta que se recuerdan los intensos debates sobre las políticas de reforma discutidas en el capítulo 8. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T205526Z">
+        <seg>Primero, reafirmó "la reformas políticas y la apertura al mundo". Esta ratificación parece excepcional hasta se hace referencia a los intensos debates sobre las políticas de reforma discutidas en el capítulo 8. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11619,8 +11619,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In addition, Hu was able to secure the appointments of Ling Jihua, Hu's former secretary, and Li Yuanchao, another &lt;f0&gt;prot&lt;/f0&gt;&lt;f1&gt;é&lt;/f1&gt;&lt;f2&gt;g&lt;/f2&gt;&lt;f3&gt;é &lt;/f3&gt;&lt;f4&gt;from&lt;/f4&gt; the CYL, to the Secretariat (see Table 6), enhancing ege &lt;s5/&gt;Hu's control over the day-to-day operation of the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T173853Z">
-        <seg>Además, Hu pudo asegurar los nombramientos al Secretarido de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos de la LJC (véase tabla 6), lo que aumentaba el control de Hu sobre las operaciones diarias del partido. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;s5/&gt;</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T204654Z">
+        <seg>Además, Hu pudo asegurar los nombramientos de Ling Jihua, antiguo secretario de Hu, al Secretariado, y de Ling Jihua, antiguo secretario de Hu, y Li Yuanchao, otro de sus protegidos de la LJC (véase tabla 6), lo que aumentaba el control de Hu sobre las operaciones diarias del partido. &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;s5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18462,8 +18462,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second, Hu discussed his scientific development concept at length (if not in depth), stressing that it "shares the same lineage as Marxism, Mao Zedong Thought, Deng Xiaoping Theory, and the important thinking of the 'Three Represents'." Hu defined his scientific development concept as being "people centered" and as requiring the development of a "social- ist harmonious society." Hu stressed the need to strengthen sustainable development by moving more quickly from extensive development, which relies on a high rate of investment, to intensive development, which relies on the more efficient use of resources.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T165412Z">
-        <seg>Segundo, Hu analizó en detalle (si no exhaustivamente) su concepto del desarrollo científico, enfatizando el hecho se que este "comparte el mismo lineamiento que el Marxismo, el pensamiento de Mao Zedong, la teoría de Deng Xiaoping, y el importante concepto de la 'Triple Representatividad' ". Hu define su concepto de desarrollo científico como uno "centrado en la gente" y que requiere de la formación de una "sociedad socialista armoniosa". Hu remarcó la necesidad de fortalecer el desarrollo sustentable que podría lograrse mediante el cambio rápido de un modelo de desarrollo de crecimiento extensivo, que depende de una alta taza de inversión, a un modelo de desarrollo intensivo, que depende de un uso más eficiente de los recursos. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T210118Z">
+        <seg>Segundo, Hu analizó en detalle (si no exhaustivamente) su concepto del desarrollo científico, enfatizando el hecho de que este "comparte el mismo lineamiento que el Marxismo, el pensamiento de Mao Zedong, la teoría de Deng Xiaoping, y el importante concepto de la 'Triple Representatividad' ". Hu define su concepto de desarrollo científico como uno "centrado en la gente" y que requiere de la formación de una "sociedad socialista armoniosa". Hu remarcó la necesidad de fortalecer el desarrollo sustentable que podría lograrse mediante el rápido cambio de un modelo de desarrollo de crecimiento extensivo, que depende de una alta taza de inversión, a un modelo de desarrollo intensivo, que depende de un uso más eficiente de los recursos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22095,8 +22095,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The revisions to the Party constitution were the most extensive in the reform era and incorporated Hu's scientific development concept, calling it "a major strategic thought that must be upheld and applied in developing socialism with Chinese characteristics." Given how long it took to incorporate Deng Xiaoping's "theory' into the constitution and Jiang Zemin's "Three Represents," this rapid enshrinement of Hu Jintao's scientific development concept and demand to build a harmonious society marks a major achievement and suggests that Hu will be able to put an even greater stamp on the Chinese political system over the next five years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T163453Z">
-        <seg>Las revisiones a la constitución del partido en la era de la reforma fueron las más amplias e incluyeron el concepto de desarrollo científico de Hu que se conoce como "un gran pensamiento estratégico que debe ser sostenido y aplicado para el desarrollo del socialismo chino". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping a la constitución y el concepto de la "Triple Representatividad" de Jiang Zemin, el rápido éxito que tuvo del concepto de desarrollo científico de Hu Jintao y la necesidad de construir una sociedad en armonía, se considera un gran logro que implica que Hu podrá seguir influyendo con mayor fuerza en el sistema político chino durante los próximos cinco años. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T205351Z">
+        <seg>Las revisiones a la constitución del partido en la era de la reforma fueron las más amplias e incluyeron el concepto de desarrollo científico de Hu que se conoce como "un gran pensamiento estratégico que debe ser sostenido y aplicado para el desarrollo del socialismo chino". Debido al largo tiempo que llevó incorporar "la teoría" de Deng Xiaoping a la constitución y el concepto de la "Triple Representatividad" de Jiang Zemin, el rápido éxito que tuvo el concepto de desarrollo científico de Hu Jintao y la necesidad de construir una sociedad en armonía, se considera un gran logro que implica que Hu podría seguir influyendo con mayor fuerza en el sistema político chino durante los próximos cinco años. </seg>
       </tuv>
     </tu>
     <tu>
@@ -23065,8 +23065,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These were filled by Li Yuanchao, who will take over the Organization Department and help shape a Party leadership more in Hu's image; Wang Qishan, an experienced banker who is likely to be named a vice-premier at the NPC meeting in March 2008; Liu Yandong, a CYL cadre who has good ties with Zeng Qinghong for historical reasons; Bo Xilai, the son of the late Party elder Bo Yibo; Zhang Gaoli, who replaced Zhang Lichang as Party secretary of Tianjin, one of the three municipalities that are granted seats on the Politburo; and Xu Caihou, a vice-chairman of the CMC who replaces the retiring Cao Gangchuan and maintains the PLA tradition of having two seats on the Politburo.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T162635Z">
-        <seg>Estas vacantes fueron ocupadas por: Li Yuanchao, quien estará a cargo del Departamento de Organización y además contribuirá a dar forma al liderazgo del partido para que se adecue a la imagen de Hu; Wang Qishan, un bancario con experiencia quien probablemente sería nombrado vice primer ministro en la reunión de la APN en marzo de 2008; Liu Yandong, un delegado de la LJC, quien mantiene una buena relación con Zeng Qinghong debido a cuestiones históricas; Bo Xilai, hijo del antiguo miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del partido en Tianjin, uno de los tres municipios a los que se le otorgan bancas en el Politburó; y Xu Caihou, el vicepresidente de la Comisión Militar Central, quien reemplaza al retirado Cao Gangchuan y quien mantiene la tradición del EPL de ocupar dos bancas en el Politburó.</seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T204938Z">
+        <seg>Estas vacantes fueron ocupadas por: Li Yuanchao, quien estará a cargo del Departamento de Organización y además contribuirá a dar forma al liderazgo del partido para que se adecue a la imagen de Hu; Wang Qishan, un bancario con experiencia quien probablemente sea nombrado vice primer ministro en la reunión de la APN en marzo de 2008; Liu Yandong, un delegado de la LJC, quien mantiene una buena relación con Zeng Qinghong debido a cuestiones históricas; Bo Xilai, hijo del antiguo miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del partido en Tianjin, uno de los tres municipios a los que se le otorgan bancas en el Politburó; y Xu Caihou, el vicepresidente de la Comisión Militar Central, quien reemplaza al retirado Cao Gangchuan y quien mantiene la tradición del EPL de ocupar dos bancas en el Politburó.</seg>
       </tuv>
     </tu>
     <tu>
