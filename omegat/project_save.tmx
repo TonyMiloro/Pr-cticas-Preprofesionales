@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -929,8 +929,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;In 1947 Jiang Zemin began a career characterized by a gradual climb upward, though mostly in technical &lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;elds.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011010Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;En 1947 Jiang Zemin comenzó su carrera que se caracterizaba por una subida gradual a pesar que en su mayor parte era en áreas técnicas.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T191101Z">
+        <seg>En 1947 Jiang Zemin comenzó su carrera que se caracterizó por un crecimiento gradual aunque, en mayor parte, en el campo técnico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10978,16 +10978,16 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1953 he was recruited into Shanghai’s No. 2 &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Design Bureau&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; by his &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;political mentor&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, Wang Daohan (later mayor of Shanghai).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011050Z">
-        <seg>En 1953, se lo contrató en la segunda Agencia de Diseño de Shanghái por el mentor político, Wang Daohan (luego, intendente de esa ciudad). .</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T191133Z">
+        <seg>En 1953, fue contratado en la segunda Agencia de Diseño de Shanghái por su mentor político, Wang Daohan (luego, intendente de esa ciudad).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In 1955 he was selected to study automotive engineering &lt;s13/&gt;at &lt;s14/&gt;the &lt;s15/&gt;Stalin &lt;s16/&gt;Autoworks &lt;s17/&gt;in &lt;s18/&gt;Moscow.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011110Z">
-        <seg>En 1955, se lo seleccionó para estudiar ingeniería automotriz en la Fábrica Automotriz Stalin en Moscú. </seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T191202Z">
+        <seg>En 1955, fue seleccionado para estudiar ingeniería automotriz en la Fábrica Automotriz Stalin en Moscú. </seg>
       </tuv>
     </tu>
     <tu>
