@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25588,8 +25588,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>When he asked if there would be a “comprehensive social crisis” in China,45.9 percent said “there was some possibility” and another 11 percent thought it was “very likely.”</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T210130Z" creationid="Agustín" creationdate="20160929T021331Z">
-        <seg>Cuando Lu preguntó si iba a haber una "crisis social general" en China, el 45,9 porciento respondió que "había alguna posibilidad" y el 11 porciento restante contestó que era "muy probable".</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T210215Z" creationid="Agustín" creationdate="20160929T021331Z">
+        <seg>Cuando Lu preguntó si había probalidad de una "crisis social general" en China, el 45,9 % respondió que "había alguna posibilidad" y el 11 porciento restante contestó que era "muy probable".</seg>
       </tuv>
     </tu>
     <tu>
