@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2690,8 +2690,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s6/&gt;It &lt;s7/&gt;was &lt;s8/&gt;at &lt;s9/&gt;this &lt;s10/&gt;time &lt;s11/&gt;that &lt;s12/&gt;Jiang &lt;s13/&gt;became &lt;s14/&gt;actively involved in the Shanghai underground, and in June 1946 he joined the &lt;/f4&gt;&lt;/f3&gt;&lt;f15&gt;&lt;f16&gt;CCP.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T191727Z">
-        <seg>&lt;s6/&gt;Fue &lt;s7/&gt;en&lt;s8/&gt;ese momento cuando Jiang se involucró de forma activa en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T192054Z">
+        <seg>&lt;s6/&gt;Fue&lt;s7/&gt;en&lt;s8/&gt;ese&lt;s9/&gt;momento&lt;s10/&gt;cuando&lt;s11/&gt; Jiang &lt;s12/&gt;se involucró &lt;s13/&gt; de forma activa &lt;s14/&gt;en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh.</seg>
       </tuv>
     </tu>
     <tu>
