@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26361,6 +26361,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160924T015533Z">
         <seg>en los dos milenios desde el primer emperador de la dinastía Qin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What Yan advocated was combining the old and the new, neither clinging stubbornly to an ossified understanding of the national essence (guocui), and therefore not modernizing, nor discarding the national essence and turning the culture into an empty shell incapable of digesting the Western</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T040515Z" creationid="Rocio" creationdate="20160930T040515Z">
+        <seg>Lo que Yan abogaba era la combinación de lo antiguo con lo nuevo, sin aferrarse de manera terca a un entendimiento osificado de la esencia nacional (guocui), y por lo tanto sin modernizar, ni desechar la esencia nacional y convertir la cultura en un caparazón vacío incapaz de digerir los elementos occidentales </seg>
       </tuv>
     </tu>
     <tu>
