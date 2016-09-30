@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9345,8 +9345,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>For the summer, central and provincial leaders stopped voicing concerns about emancipating the mind or not worrying about whether a given reform was socialist or capitalist.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160917T223119Z">
-        <seg>Durante el verano, los líderes centrales y provinciales dejaron de plantear sus preocupaciones por la emancipación la mente o  por si una reforma era socialista o capitalista.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T183618Z">
+        <seg>Para ese verano, los líderes centrales y provinciales dejaron de expresar sus preocupaciones por la emancipación la mente o por si una reforma era socialista o capitalista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14162,8 +14162,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Jiang’s speech reflected the sharply conflicting opinions within the Party, affirming reformist themes but stressing conservative concerns.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T191213Z">
-        <seg>El discurso de Jiang reflejaba las opiniones conflictivas dentro del partido, afirmando los temas reformistas pero enfatizando las preocupaciones de los conservadores.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T185545Z">
+        <seg>El discurso de Jiang reflejaba las opiniones conflictivas dentro del partido, mencionando los temas reformistas pero enfatizando las preocupaciones de los conservadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18134,8 +18134,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second and more plausibly, one can assume that Deng, faced with opposition and uncertainty, yielded once again, as he had apparently done several times over the preceding two years – biding his time until a more opportune moment arose to renew his assault.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160917T223614Z">
-        <seg>En una segunda explicación, un poco más verosímil, uno puede  suponer que Deng, enfrentado a la oposición y a la incertidumbre, cedió una vez más, como aparentemente ya lo había hecho varias veces durante los dos años anteriores- asegurando su tiempo hasta que llegara el momento oportuno para reestablecer su ataque.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T184349Z">
+        <seg>En una segunda explicación, un poco más verosímil, uno puede  suponer que Deng, enfrentado a la oposición y a la incertidumbre, cedió una vez más, como aparentemente ya lo había hecho varias veces durante los dos años anteriores; asegurando su tiempo hasta que llegara el momento oportuno para reestablecer su ataque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23036,8 +23036,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This explanation assumes that Deng possessed the power necessary to prevail (which he would demonstrate a year later), but that he believed the cost in terms of Party unity outweighed the importance of prevailing at that time.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160905T235343Z">
-        <seg>Esta explicación supone que Deng contaba con el poder necesario para prevalecer (lo que demostraría un año más tarde), pero pensaba que el costo en términos de la unión del Partido era más importante que prevalecer en ese momento.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T184518Z">
+        <seg>Esta explicación supone que Deng contaba con el poder necesario para prevalecer (lo que demostraría un año más tarde), pero pensaba que en ese momento era más importante el costo en términos de la unión del Partido que prevalecer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25454,8 +25454,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the publication of the People’s Daily’s excerpt of the article from Contemporary Trends and other attacks on the themes raised by the &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping commentaries, reformers fell quiet.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T151636Z">
-        <seg>Debido a  la publicación del periódico People Daily del fragmento del artículo perteneciente a la revista Contemporary Trends, y a otros ataques a los temas generados por los comentarios de  &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping, los reformistas se tranquilizaron</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T183008Z">
+        <seg>Debido a  la publicación del periódico People Daily del fragmento del artículo perteneciente a la revista Contemporary Trends, y a otras críticas a los temas generados por los comentarios de  &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping, los reformistas permanecieron tranquilos.</seg>
       </tuv>
     </tu>
     <tu>
