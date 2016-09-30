@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3796,8 +3796,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Among Party conservatives there was a deep sense of “we told you so.” Their warnings, they believed, had not been listened to, and Tiananmen was the fulfillment of their predictions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160921T014507Z">
-        <seg>Entre los miembros del partido conservador, habia una gran sensación de "te lo habiamos dicho". Los conservadores creían que sus advertencias no habian sido escuchadas y Tiananmén fue la realización de estas predicciones.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135240Z">
+        <seg>Entre los miembros del partido conservador, había una gran impresión de “Te lo habíamos advertido”. Los conservadores creían que sus advertencias no habían sido escuchadas, y Tiananmén fue la materialización de estas predicciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6213,8 +6213,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Chen Yun summed up the feelings of many conservatives when he accused Deng of being rightist in his economic policies and leftist in his use of the military.44</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="multimedia08" changedate="20160926T202317Z">
-        <seg>Chen Yun resumió los sentimientos de mucho de los conservadores cuando acusó a Deng de ser derechista en sus políticas económicas e izquierdista en el uso de la micilia.4p</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135355Z">
+        <seg>Chen Yun resumió los sentimientos de mucho de los conservadores cuando acusó a Deng de ser derechista en sus políticas económicas e izquierdista en el uso de la milicia44. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7277,8 +7277,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng Xiaoping’s prestige within the Party was correspondingly diminished by Tiananmen and the disgrace of Zhao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T020533Z">
-        <seg>En la misma medida, el prestigio de Deng Xiaoping dentro del partido se fue desacreditando por Tiananmén y la deshonra de Zhao. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135311Z">
+        <seg>En la misma medida, el prestigio de Deng Xiaoping dentro del partido se fue decreciendo debido a Tiananmén y la deshonra de Zhao.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -10523,8 +10523,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1989, however, Tiananmen opened divisions within the Party that far exceeded those existing two years before.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lu" changedate="20160909T015926Z">
-        <seg>Sin embargo, en 1989, Tiananmén inició la división interna del partido que excedió aquellas ya presentes desde hacía dos años. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135128Z">
+        <seg> Sin embargo, en 1989, Tiananmén inició la división interna del partido que excedió aquellas ya presentes desde hacía dos años.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -24054,8 +24054,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Whereas previously they had held strong reservations about the direction of economic and cultural change in China, in 1989 they were convinced that reform was on the wrong track.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160825T145953Z">
-        <seg>Mientras que anteriormente tenian dudas sobre el rumbo de los cambios económicos y culturales en China, en 1989 se terminaron de convencer de que la reforma iba por mal camino.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T135256Z">
+        <seg>Mientras que anteriormente tenían dudas sobre el rumbo de los cambios económicos y culturales en China, en 1989 se terminaron de convencer de que la reforma iba por mal camino.</seg>
       </tuv>
     </tu>
     <tu>
