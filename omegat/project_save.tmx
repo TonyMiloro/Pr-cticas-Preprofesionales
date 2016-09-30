@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6293,8 +6293,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>By this time, there were deepening debates within the Party &lt;/f47&gt;&lt;/f46&gt;&lt;t48/&gt;&lt;f49&gt;&lt;f50&gt;leadership&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt; about how to respond to the student demonstrations, which had started eight days earlier on April 16; on April 25, Deng would endorse a hardline approach by saying that the demonstrations were aimed at “fundamentally negating the leadership of the Chinese Communist Party and at negating the socialist system.” It was that judgment, written into a &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;People’s Daily&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt; editorial the next day, that in&lt;/f56&gt;&lt;/f55&gt;ﬂ&lt;f57&gt;&lt;f58&gt;amed student opinion and brought the student movement to a new crisis point.&lt;/f58&gt;&lt;/f57&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011923Z">
-        <seg>Para este momento, había debates profundos dentro del partido del liderazgo  sobre cómo responder a las manifestaciones de estudiantes, las cuales ya habían comenzado ochos días antes, el 16 de abril; el 25 de abril, Deng respaldaría una estrategia firme al decir que las manifestaciones estaban apuntadas a “negar fundamentalmente el liderazgo del Partido Comunista de China y al negar el sistema socialista”. Esa fue el discurso que se redactó en el editorial de People’s Daily al día siguiente, lo cual escendió la opinión estudiantil y trajo el movimiento de los estudiantes a un nuevo punto de crisis.&lt;/f58&gt;&lt;/f57&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T203939Z">
+        <seg>Estos discursos fueron publicados en una tirada del World Economic Herald el 24 de abril. Para este momento, habían debates profundos dentro del liderazgo del partido sobre cómo responder a las manifestaciones de estudiantes, que habían comenzado ochos días antes, el 16 de abril. El 25 de abril, Deng respaldaría una estrategia firme al decir que las manifestaciones estaban apuntadas a “negar fundamentalmente el liderazgo del Partido Comunista de China y al negar el sistema socialista”.  Esa fue el discurso que se redactó en el editorial de People’s Daily al día siguiente, lo cual escendió la opinión estudiantil y trajo el movimiento de los estudiantes a un nuevo punto de crisis.&lt;/f58&gt;&lt;/f57&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12228,8 +12228,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In speeches, Su Shaozhi, Yan Jiaqi, Chen Ziming, and others called for “reversing the verdict” on Hu Yaobang as well as negating the 1983 campaign against “spiritual pollution” and the 1987 campaign against “&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;bourgeois&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; liberalization.” These speeches were printed in an issue of the &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;World Economic Herald&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt; that was to go to press on April 24.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011858Z">
-        <seg>En discursos, Su Shaozhi, Yan Jiaqi, Chen Ziming, y otros mencionados por “revertir el veredicto” hacia Hu Yaobang como también por negar la campaña de 1983 contra la “contaminación espiritual” y la campaña de 1987 contra la “liberación burguesa”. Estos discursos se los publicaron en una tirada de World Economic Herald que iba a publicarse el 24 de abril.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T203841Z">
+        <seg>En discursos, Su Shaozhi, Yan Jiaqi, Chen Ziming, y otros demandaron “revertir el veredicto” de Hu Yaobang como también rechazaron la campaña de 1983 contra la “contaminación espiritual” y la campaña de 1987 contra la “liberación &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;burguesa&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;”. Estos discursos fueron publicados en una tirada del &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt; World Economic Herald&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;  el 24 de abril.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18190,8 +18190,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Run by the veteran revolutionary Ge Yang, the &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;New Observer&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; had been one of the principal outlets for &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;liberal &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;thinking in the 1980s and was at least as controversial as the &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;World Economic Herald&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T202148Z">
-        <seg>Dirigido por el revolucionario veterano Ge Yang, el  &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;New Observer&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;  ha sido uno de los principales medios para el pensamiento  &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;liberal en la década de los 80 y era al menos controvertido como el &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;World Economic Herald. &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T203708Z">
+        <seg>Dirigido por el revolucionario veterano Ge Yang, el  &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;New Observer&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;  ha sido uno de los principales medios para el pensamiento  &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;liberal &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;en la década de los 80 y era al menos tan controvertido como el &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;World Economic Herald. &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;.</seg>
       </tuv>
     </tu>
     <tu>
