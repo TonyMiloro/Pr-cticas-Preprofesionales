@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15114,8 +15114,8 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Leadership of the Chinese Communist Party following the 16th Party Congress</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T180834Z" creationid="andrea" creationdate="20160928T180834Z">
-        <seg>Hu jintao asume                                                                                                                                                                                                         Tabla 3: el Liderazgo del Partido Comunista Chino después del Décimosexto Congreso del Partido</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T025546Z" creationid="andrea" creationdate="20160928T180834Z">
+        <seg>Hu jintao asume                                                                                                                                                                                                         Tabla 3: el Liderazgo del Partido Comunista Chino después del Décimo Sexto Congreso del Partido</seg>
       </tuv>
     </tu>
     <tu>
@@ -18455,8 +18455,8 @@ Un informe adjunto sobre las joint ventures en la industria cervecera en China  
       <tuv lang="EN-US">
         <seg>Politburo Standing Committee (ages in 2002 in parentheses)</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160928T180851Z" creationid="andrea" creationdate="20160928T180851Z">
-        <seg>El Comité Permanente del Politburó (años de 2002 entre paréntesis)</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T025633Z" creationid="andrea" creationdate="20160928T180851Z">
+        <seg>El Comité Permanente del Politburó (llos años de 2002 entre paréntesis)</seg>
       </tuv>
     </tu>
     <tu>
