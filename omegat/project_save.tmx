@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15284,8 +15284,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Most such incidents – some 70– 80 percent, according to one county in Shandong province, and 90 percent according to a survey in Sichuan – were caused by tensions between cadres and masses, and most of the violence was initiated by cadres.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;The Organization Department attributed these disturbances largely to growing income inequalities, saying that “if income inequalities cannot be controlled within certain limits, the broad masses of the people will inevitably lose faith in socialism and their faith in the Party will be shaken.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160930T145239Z">
-        <seg>La mayoría de estos incidentes, aproximadamente un 70 u 80 %, según la subprefectura de la provincia de Shandong y un 90 %, según una encuesta llevada a cabo en Sichuan, se ocasionaron por tensiones entre los cuadros y las masas, y fueron los cuadros quienes iniciaron la mayoría de los incidentes.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;En gran medida, el Departamento de Organización atribuyó estos disturbios al aumento en la desigualdad de los ingresos, argumentando que: "si no es posible mantener esta desigualdad dentro de ciertos límites, será inevitable que las grandes masas pierdan la fe en el socialismo y que se derrumbe su fe en el Partido.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T160903Z">
+        <seg>La mayoría de estos incidentes, aproximadamente un 70 u 80 %, según la subprefectura de la provincia de Shandong y un 90 %, según una encuesta llevada a cabo en Sichuan, fueron ocasionados por tensiones entre los cuadros y las masas, y fueron los cuadros quienes iniciaron la mayoría de los incidentes.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;En gran medida, el Departamento de Organización atribuyó estos disturbios al aumento en la desigualdad de los ingresos, argumentando que: "si no es posible mantener esta desigualdad dentro de ciertos límites, será inevitable que las grandes masas pierdan la fe en el socialismo y que se derrumbe su fe en el Partido.</seg>
       </tuv>
     </tu>
     <tu>
