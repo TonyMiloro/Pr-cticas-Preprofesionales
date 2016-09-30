@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4333,8 +4333,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And the cadre system, which was increasingly linked to education, was also preventing lower-income people, whether in urban or rural areas, from ascending the social ladder.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lu’s &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2004&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;book on social mobility further documents these trends, showing that social mobility rates were slowing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T034822Z">
-        <seg>Además, el sistema de cuadro dirigente, el cual estaba cada vez más relacionado con la educación, también dificultaba que las personas de ingresos más bajos, tanto en áreas urbanas como rurales, accedieran a la movilidad social.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lu’s &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2004&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;El libro sobre la movilidad social de Lu publicado en 2004 profundiza acerca de estas tendencias y demuestra que el índice de movilidad se estaba reduciendo.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T232737Z">
+        <seg>Además, el sistema de cuadros, cada vez más ligado a la educación, también dificultaba el ascenso de las personas de menores recursos a otros estratos sociales, tanto en áreas urbanas como rurales.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Lu’s &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;2004&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;El libro sobre la movilidad social de Lu publicado en 2004 profundiza acerca de estas tendencias y demuestra que el índice de movilidad se estaba reduciendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21549,8 +21549,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The educational system, which concentrated investment in urban areas and in tertiary education, worked to the disadvantage of the rural population.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160929T034440Z">
-        <seg>El sistema educativo, el cual invertía principalmente en áreas urbanas y en educación superior, funcionaba en desventaja para la población rural.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T232614Z">
+        <seg>El sistema educativo perjudicaba a la población rural porque se invertía principalmente en áreas urbanas y en educación superior.</seg>
       </tuv>
     </tu>
     <tu>
