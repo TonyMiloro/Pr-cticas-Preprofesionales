@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -785,8 +785,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;In 1943, Jiang began to study electrical engineering at Nanjing’s Central University, which was subsequently merged with Shanghai’s Jiaotong &lt;s5/&gt;University.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T190924Z">
-        <seg>En 1943, Jiang comenzó a estudiar ingeniería eléctrica en la Universidad Central de Nanjing, la cual se fusionó posteriormente con la Universidad Jiaotong de Shanghái.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T191616Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;En 1943, Jiang comenzó a estudiar ingeniería eléctrica en la Universidad Central de Nanjing, la cual se fusionó posteriormente con la &lt;s5/&gt;Universidad Jiaotong de Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2650,8 +2650,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s19/&gt;When &lt;s20/&gt;he &lt;s21/&gt;returned &lt;s22/&gt;to China the following year, he was sent to the Changchun No. 1 Automobile Factory, where he spent the next six years.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011136Z">
-        <seg>Al año siguiente, cuando volvió a China, se lo envió a la Fábrica Automotriz número 1 Changchun donde pasó los siguientes seis años.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T191516Z">
+        <seg>Al año siguiente, cuando volvió a China, lo enviaron a la primera Fábrica Automotriz de Changchun donde pasó los siguientes seis años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,8 +2690,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s6/&gt;It &lt;s7/&gt;was &lt;s8/&gt;at &lt;s9/&gt;this &lt;s10/&gt;time &lt;s11/&gt;that &lt;s12/&gt;Jiang &lt;s13/&gt;became &lt;s14/&gt;actively involved in the Shanghai underground, and in June 1946 he joined the &lt;/f4&gt;&lt;/f3&gt;&lt;f15&gt;&lt;f16&gt;CCP.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T191004Z">
-        <seg>Fue en ese momento cuando Jiang se involucró de forma activa en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20160930T191727Z">
+        <seg>&lt;s6/&gt;Fue &lt;s7/&gt;en&lt;s8/&gt;ese momento cuando Jiang se involucró de forma activa en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh.</seg>
       </tuv>
     </tu>
     <tu>
