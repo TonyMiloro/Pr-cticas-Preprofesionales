@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18586,6 +18586,14 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T132404Z">
         <seg>Las autoridades provinciales se esforzaron por promover (y ocultar) esos fondos, y no cederían de manera voluntaria sus intereses económicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provincial governments were supposed to pass up part of the revenues they collected, but the localities had an interest in retaining as much revenue as possible, so there was much “slippage” between what was collected and what was remitted.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Sofi" changedate="20160930T020244Z" creationid="Sofi" creationdate="20160930T020244Z">
+        <seg> Se suponía que los gobiernos provinciales renunciarían a una parte de los ingresos que obtuviesen, pero las localidades estaban interesadas en retener cuanto más puediesen de esos ingresos, por lo tanto había un "desfase" entre lo que se obtenía y lo que se enviaba.</seg>
       </tuv>
     </tu>
     <tu>
