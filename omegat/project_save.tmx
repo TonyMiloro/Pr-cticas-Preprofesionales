@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17643,6 +17643,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perhaps this precisely reﬂects China's progress, but &lt;t3/&gt;it lacks the attitude of "knowing shame approaches courage" (&lt;t4/&gt;zhichi jinhu yong&lt;t5/&gt;) &lt;t6/&gt;possessed by the generation of Sun Yat-sen, Kang Youwei, Wang Guowei, Chen</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T204558Z" creationid="joaquin" creationdate="20160930T204558Z">
+        <seg>Quizás esto refleja precisamente el progreso de China, pero carece de la actitud de “saber que la vergüenza es cercana al coraje” (zhichi jinhu yong) que tiene la generación de Sun Yat-sen, Kang Youwei, Wang Guowei, Chen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perhaps, if Jiang’s efforts to reverse his “decisive” handling of the &lt;s29/&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;f30&gt;&lt;f31&gt;World Economic Herald&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt; case had succeeded, he would not have been chosen as general secretary.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T185832Z" creationid="USER" creationdate="20160930T185832Z">
@@ -22983,6 +22991,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They cannot see the good points &lt;t0/&gt;in others and frequently develop a mood of what I call, "an attitude of pompous arrogance" (&lt;t1/&gt;xuqiao zhi qi&lt;t2/&gt; ).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T204623Z" creationid="joaquin" creationdate="20160930T204536Z">
+        <seg>No pueden distinguir los aspectos positivos de los demás y con frecuencia desarrollan un humor al que yo llamo “una actitud de arrogancia pretenciosa” (xuqiao zhi qi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They cited US efforts to block China’s bid to host the 2000 Olympics, the Yin He incident, opposition to China’s GATT/WTO bid, the Taiwan issue (especially Lee Teng-hui’s visit to the US), American support for Tibet, and alleged CIA activity in China to account for their &lt;t0/&gt;changed attitudes.74 They had come to realize, they claimed, that the United States was not the bastion of idealism that it claimed to be; “human rights” was merely a fac¸ade behind which America pursued its national interests.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Administrador" changedate="20160930T192331Z">
@@ -26202,6 +26218,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yinke, and Hu Shi.&lt;t0/&gt;73</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T204607Z" creationid="joaquin" creationdate="20160930T204607Z">
+        <seg>Yinke y Hu Shi.&lt;t0/&gt;73</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yitahutu chatroom is closed down</seg>
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160904T043610Z">
@@ -27214,8 +27238,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>overseas who are quite different from their elders.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T204510Z" creationid="joaquin" creationdate="20160930T204510Z">
-        <seg> en el extranjero y que son bastante diferentes a los de la generación anterior.73</seg>
+      <tuv lang="ES-US" changeid="joaquin" changedate="20160930T204616Z" creationid="joaquin" creationdate="20160930T204510Z">
+        <seg>en el extranjero y que son bastante diferentes a los de la generación anterior.73</seg>
       </tuv>
     </tu>
     <tu>
