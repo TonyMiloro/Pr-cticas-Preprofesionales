@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8688,8 +8688,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Finally, and potentially most interesting, in a section on building "social- ist democracy," Hu called for an "organic integration of CCP leadership, the position of the people as masters of the country, and the rule of law," though he did not note the seeming incompatibility of these goals.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T165620Z">
-        <seg>Finalmente, y quizá o más interesante, es que en un apartado sobre la construcción de una "democracia socialista", Hu solicitó una "integración dinámica del liderazgo político del PCCh, que el pueblo sea empoderado, y que haya u estado de derecho", aunque no tuvo en cuenta la aparente incompatibilidad de estos objetivos. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T165940Z">
+        <seg>Finalmente, y quizá lo más importante es que en un apartado sobre la construcción de una "democracia socialista", Hu solicitó una "integración dinámica del liderazgo político del PCCh, que el pueblo sea empoderado, y que exista un estado de derecho", aunque no tuvo en cuenta la aparente incompatibilidad de estos objetivos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15748,8 +15748,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Nevertheless, his call for improving "restraint and supervision" over power, especially his invocation of "sunlight" provisions give hope that more efforts will be made to finds ways to make the exercise of power less arbitrary.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160923T232910Z">
-        <seg>Sin embargo, su solicitud para mejorar la "restricción y el control" del poder, en especial provisiones del "la luz solar" ofrecen esperanzas de que se realizarán mayores esfuerzos para lograr que el ejercicio del poder sea menos arbitrario. </seg>
+      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T170201Z">
+        <seg>Sin embargo, su solicitud para mejorar la "restricción y el control" del poder, en especial el suministro de "la luz solar" ofrecen esperanzas de que se realizarán mayores esfuerzos para lograr que el ejercicio del poder sea menos arbitrario. </seg>
       </tuv>
     </tu>
     <tu>
