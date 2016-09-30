@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2284,6 +2284,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="usuario" changedate="20160903T211215Z">
         <seg>&lt;f0&gt;Wu Jinglian,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Jihua jingji haishi shichang jingji&lt;/f2&gt;&lt;f3&gt;, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Xiao Gongqin is a more historically minded thinker than Wang Huning.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T034804Z" creationid="Barri" creationdate="20160930T034804Z">
+        <seg>&lt;f0&gt;Xiao Gongqin es un pensador que se inclina más hacia lo histórico que Wang Huning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5863,6 +5871,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="joaquin" changedate="20160928T102121Z" creationid="joaquin" creationdate="20160928T101835Z">
         <seg>Li nació en 1923 y se graduó en el campus Sichuan de Yanjing College durante la guerra contra Japón, él fue uno de varios jóvenes talentosos reclutados por Zhou Enlai para ser secretarios o redactores de discursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Born in Hunan in 1946, Xiao spent the Cultural Revolution as a worker in Shanghai’s suburbs.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T034838Z" creationid="Barri" creationdate="20160930T034838Z">
+        <seg>Nacido en Hunan en 1946, Xiao pasó la Revolución Cultural como trabajador en los suburbios de Shanghai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11349,6 +11365,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="Franco" changedate="20160907T125308Z">
         <seg>En 1973 regresó a Pekín para trabajar como técnico en el Ministerio Aeronáutico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1978, he tested into the history department at Nan- jing University as a graduate student, receiving his master’s degree in 1981.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T034859Z" creationid="Barri" creationdate="20160930T034859Z">
+        <seg>En 1978, realizó exámenes como graduado en el departamento de historia de la Universidad de Nanjin, y recibió el título de máster en 1981.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21888,6 +21912,14 @@ abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="andrea" changedate="20160907T234710Z">
         <seg>El primero se refería al grado en que la política de China cambiaría para reflejar los desafíos sociales, mencionados con anterioridad y el segundo al grado de fluidez con la que el poder podría transferirse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following year, he was assigned to Shanghai Normal University and was promoted to associate professor in 1987 — highly unusual for someone without a Ph.D.&lt;/f0&gt;&lt;f1&gt;45&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Although originally interested in the Yuan Dynasty, in the mid-i980s Xiao turned his attention to the late Qing—early Republican period and has concentrated on the problems of modernization and polit&lt;/f4&gt;&lt;f5&gt;­ical transformation ever since.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Barri" changedate="20160930T035004Z" creationid="Barri" creationdate="20160930T035004Z">
+        <seg>Al año siguiente, fue designado a la Universidad Normal de Shangai y ascendido a profesor adjunto en 1987— algo muy inusual para alguien sin un doctorado.&lt;/f0&gt;&lt;f1&gt;45&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Aunque originalmente se interesaba por la dinastía Yuan, a mediados de 1980 le llamó la atención al último Qing—principio del periodo Republicano y se ha concentrado en los problemas de modernización y transformación polít&lt;/f4&gt;&lt;f5&gt;ica desde ese momento.</seg>
       </tuv>
     </tu>
     <tu>
