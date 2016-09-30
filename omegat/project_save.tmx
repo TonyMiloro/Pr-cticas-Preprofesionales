@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26357,6 +26357,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What defined Yan as a neoconservative, in Xiao’s opinion, was that he was not opposed to modernization — indeed, he harshly criticized the old autocratic system — but at the same time he was not a radical modern- izer.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T035757Z" creationid="Rocio" creationdate="20160930T035757Z">
+        <seg>Lo que definió a Yan como un neoconservador, desde el punto de vista de Xiao, fue que no se oponía a la modernización — de hecho, criticó con severidad el antiguo sistema autocrático — pero al mismo tiempo no era un modernizador radical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What differentiated Wang’s critique from that of the Old Left (as &lt;t4/&gt;reﬂected&lt;t5/&gt; in Wang Zhen’s article) and foreshadowed trends in the 1990s was the combination of populism, nationalism, and disregard of communist values.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Melanie" changedate="20160924T235719Z">
@@ -27145,6 +27153,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160923T200816Z">
         <seg>Secretariado del PCCh en Xinjiang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yan believed that radicals viewed the problems of modernization too simply and naively and ended up making matters worse; this explained Yan’s disappointment with China’s situation following the i9ii revolution.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Rocio" changedate="20160930T035907Z" creationid="Rocio" creationdate="20160930T035907Z">
+        <seg>Yan creía en que los radicales veían los problemas de modernización de forma demasiado simple e ingenua, lo que terminó por empeorar las cosas; esto explicó la decepción de Yancon la situación de China después de la revolución de 1911.</seg>
       </tuv>
     </tu>
     <tu>
