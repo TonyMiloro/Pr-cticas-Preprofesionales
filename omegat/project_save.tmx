@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3884,8 +3884,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the critics charge that the economic reforms have fostered inequality and corruption, it is not clear that they have clear-cut alternatives that would not lead to worse outcomes.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T012411Z">
-        <seg>Aunque los críticos afirman que las reformas económicas han fomentado la disparidad y la corrupción, no hay evidencia de que contaran con alternativas claras que llevaran a mejores resultados.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T183250Z">
+        <seg>Aunque los críticos afirman que las reformas económicas han fomentado la desigualdad y la corrupción, no hay evidencia de que contaran con alternativas claras que llevaran a mejores resultados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4164,8 +4164,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>And the nationalist edge evident in so much of this rhetoric could lead to new frictions in implementing WTO regulations, protecting intellectual property rights, understandings of “economic security,” and perhaps national security (which goes beyond the scope of this book).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20160926T024634Z">
-        <seg>Y el frente nacionalista, evidente en gran parte de esta retórica, podría conducir a nuevos roces en la implementación de regulaciones de la OMC, la protección de derechos de propiedad intelectual, el entendimiento de "seguridad económica", y tal vez el de seguridad nacional (lo que excede al alcance de este libro). </seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T183605Z">
+        <seg>Y el frente nacionalista, evidente en gran parte de esta retórica, podría conducir a nuevos roces en la implementación de regulaciones de la OMC (Organización Mundial del Comercio), la protección de derechos de propiedad intelectual, el entendimiento de "seguridad económica", y tal vez el de seguridad nacional (lo que excede al alcance de este libro). </seg>
       </tuv>
     </tu>
     <tu>
@@ -22308,8 +22308,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>There were major debates over reform policy in the 1980s and especially in the wake of Tiananmen when more conservative leaders gained the upper hand.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160910T011006Z">
-        <seg>Hubieron grandes debates sobre la política de la reforma en los 80 y, en particular, tras los hechos en Tiananmén cuando más líderes conservadores sacaron ventaja.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20160930T183131Z">
+        <seg>Hubo grandes debates sobre la política de la reforma en los 80 y, en particular, tras los hechos en Tiananmén cuando más líderes conservadores sacaron ventaja.</seg>
       </tuv>
     </tu>
     <tu>
