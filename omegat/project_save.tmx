@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11004,8 +11004,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In awell-researched article in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, Yu Jianrong, a rural researcher at CASS, describes the increasing level of organization of peasants in a county in inland Hunan province (the same county where Mao, 80 years earlier, had organized peasants).</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20160908T200804Z">
-        <seg>En un artículo confiable presente en la revista &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strategy and Management &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Estrategia y Administración), Yu Jianrong, un investigador rural de la Academia China de Ciencias Sociales, describe el aumento en el nivel de organización de los campesinos en una sub-prefectura de la provincia continental de Hunan (la misma sub-prefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T145627Z">
+        <seg>En un artículo confiable publicado en la revista &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Estrategia y Administración, Yu Jianrong, un investigador rural de la Academia China de Ciencias Sociales, describe el aumento en el nivel de organización de los campesinos en una sub-prefectura de la provincia continental de Hunan (la misma sub-prefectura en la que Mao, 80 años antes, había organizado a los campesinos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16069,8 +16069,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>One deputy Party secretary in Hunan’s Xinning county had an ear cut off as he tried to collect taxes; in Hunan’s Longshan county two cadres were killed in clashes.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160908T175352Z">
-        <seg>A un vice-secretario del Partido en la sub-prefectura de Xinning de Hunan le cortaron una oreja cuando intentaba recaudar impuestos; y en la subprefectura de Longshan de Hunan, dos dirigentes murieron en enfrentamientos.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20160930T145553Z">
+        <seg>A un vicesecretario del Partido en la subprefectura de Xinning de Hunan le cortaron una oreja cuando intentaba recaudar impuestos, y en la subprefectura de Longshan de Hunan, dos dirigentes murieron en enfrentamientos.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
