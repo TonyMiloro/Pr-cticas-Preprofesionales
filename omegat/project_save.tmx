@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11787,8 +11787,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In a thinly veiled jab at the left, Jiang declared that “[t]here is no way out if we study Marxism in isolation and separate and set it against vivid development in real life.” In the unpublicized portion of the speech, Jiang reportedly went further, explicitly criticizing the left and laying out his rationale for ref&lt;t1/&gt;orm of the ownership structure.&lt;t2/&gt; Deng had raised the slogan “guard against the right, but guard primarily against the left” in his 1992 trip to the south, but it had been largely dropped from the official media (except for inclusion in formal Party resolutions) following the Fourteenth Party Congress later that year.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T020358Z" creationid="LENOVO" creationdate="20160919T221800Z">
-        <seg>En un golpe apenas velado a la izquierda, Jiang anunció que "No hay salida si estudiamos el marxismo de forma aislada y separada y lo contraponemos con el desarrollo vívido en la vida real". En el fragmento que no se publicó del discurso, Jiang incluso llegó a criticar explícitamente a la Izquierda y a exponer sus razones para la reforma de la estructura de propiedad. &lt;t2/&gt;Deng había levantado la consigna “Protegerse de la derecha pero, fundamentalmente, protegerse de la izquierda" en su viaje al sur en 1992. Pero los medios de comunicación oficiales ya no le brindaban la debida importancia (solo la incluían en las resoluciones formales del Partido) siguiendo el Decimocuarto Congreso del Partido Comunista a finales de ese año.  </seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T025829Z" creationid="LENOVO" creationdate="20160919T221800Z">
+        <seg>En un golpe apenas velado a la izquierda, Jiang anunció que "No hay salida si estudiamos el marxismo de forma aislada y separada y lo contraponemos con el desarrollo vívido en la vida real". En el fragmento que no se publicó del discurso, Jiang incluso llegó a criticar explícitamente a la izquierda y a exponer sus razones para la &lt;t1/&gt;reforma de la estructura de propiedad.&lt;t2/&gt;Deng había levantado la consigna “Protegerse de la derecha pero, fundamentalmente, protegerse de la izquierda" en su viaje al sur en 1992. Pero los medios de comunicación oficiales ya no le brindaban la debida importancia (solo la incluían en las resoluciones formales del Partido) siguiendo el Decimocuarto Congreso del Partido Comunista a finales de ese año.  </seg>
       </tuv>
     </tu>
     <tu>
