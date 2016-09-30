@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14956,8 +14956,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Like nationalism, populism was not something that was widely discussed in the open press in the early 1990s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="José Ignacio" changedate="20160922T134047Z">
-        <seg>Al igual que el nationalismo, el populismo no fue algo que se discutió ampliamente en los medios a comienzos de la década de los 90.</seg>
+      <tuv lang="ES-US" changeid="Administrador" changedate="20160930T205611Z">
+        <seg>Al igual que el nacionalismo, el populismo no fue algo que se discutió ampliamente en los medios a comienzos de la década de los 90.</seg>
       </tuv>
     </tu>
     <tu>
