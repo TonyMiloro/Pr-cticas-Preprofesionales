@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18367,8 +18367,8 @@ Un informe adjunto sobre las joint ventures en la industria cervecera en China  
       <tuv lang="EN-US">
         <seg>Personnel arrangements made at the congress (see Table 2) supported the fresh image Jiang was cultivating, while the removal of many older personnel enhanced Jiang’s ability to control the Party.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Cami" changedate="20160929T221051Z" creationid="Cami" creationdate="20160929T221025Z">
-        <seg>Los arreglos personales que se hicieron en el congreso (véase tabla 2) respaldaron la imagen renovada que Jiang estaba cultivando, al mismo tiempo que la destitución de muchos miembros antiguos le permitió tener un mejor control sobre el partido.</seg>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T024305Z" creationid="Cami" creationdate="20160929T221025Z">
+        <seg>Los arreglos personales que se hicieron en el congreso (véase tabla 2) respaldaron la imagen renovada que Jiang estaba cultivando, al mismo tiempo que la destitución de muchos miembros antiguos le permitió tener un mejor control sobre el Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20356,6 +20356,14 @@ criminal prosecution.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Cami" changedate="20160929T222000Z" creationid="Cami" creationdate="20160929T221928Z">
         <seg>Tabla 2: liderazgo del Partido Comunista Chino luego del Decimoquinto Congreso del Partido Comité Permanente del Politburó Jiang Zemin (age 71) Hu Jintao (55) Li &lt;t0/&gt;Peng&lt;t1/&gt; (69) Wei &lt;t2/&gt;Jianxing&lt;t3/&gt; (66) Zhu &lt;t4/&gt;Rongji&lt;t5/&gt; (69) Li &lt;t6/&gt;Lanqing&lt;t7/&gt; (65) Li &lt;t8/&gt;Ruihuan&lt;t9/&gt; (64) Politburó – otros miembros de pleno derecho Ding &lt;t10/&gt;Guan’gen&lt;t11/&gt; (64) &lt;t12/&gt;Qian&lt;t13/&gt; &lt;t14/&gt;Qiqian&lt;t15/&gt; (69) Huang &lt;t16/&gt;Ju&lt;t17/&gt; (59) Chi &lt;t18/&gt;Haotian&lt;t19/&gt; (68) &lt;t20/&gt;Jia&lt;t21/&gt; &lt;t22/&gt;Qinglin&lt;t23/&gt; (57) &lt;t24/&gt;Wen&lt;t25/&gt; &lt;t26/&gt;Jiabao&lt;t27/&gt; (55) Jiang &lt;t28/&gt;Chunyun&lt;t29/&gt; (67) &lt;t30/&gt;Wu &lt;t31/&gt;Bangguo&lt;t32/&gt; (56) Li Changchun (53) Wu &lt;t33/&gt;Guanzheng&lt;t34/&gt; (59) Li &lt;t35/&gt;Tieying&lt;t36/&gt; (61) &lt;t37/&gt;Xie&lt;t38/&gt; &lt;t39/&gt;Fei&lt;t40/&gt; (64) &lt;t41/&gt;∗&lt;t42/&gt; &lt;t43/&gt;Luo&lt;t44/&gt; &lt;t45/&gt;Gan&lt;t46/&gt; (62) Zhang &lt;t47/&gt;Wannian&lt;t48/&gt; (69) &lt;t49/&gt;Tian&lt;t50/&gt; &lt;t51/&gt;Jiyun&lt;t52/&gt; (68) Secretaría &lt;t53/&gt;Hu&lt;t54/&gt; &lt;t55/&gt;Jintao&lt;t56/&gt; (55) &lt;t57/&gt;Wen&lt;t58/&gt; &lt;t59/&gt;Jiabao&lt;t60/&gt; (55) Ding &lt;t61/&gt;Guan’gen&lt;t62/&gt; (64) Zhang &lt;t63/&gt;Wannian&lt;t64/&gt; (69) &lt;t65/&gt;Luo&lt;t66/&gt; &lt;t67/&gt;Gan&lt;t68/&gt; (62) &lt;t69/&gt;Zeng&lt;t70/&gt; &lt;t71/&gt;Qinghong&lt;t72/&gt; (58) Wei &lt;t73/&gt;Jianxing&lt;t74/&gt; (66) &lt;t75/&gt;∗&lt;t76/&gt;Murió en octubre de 1999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 2: Leadership of the Chinese Communist Party Following the 15th Party Congress Politburo Standing Committee Jiang Zemin (age 71) Hu Jintao (55) Li Peng (69) Wei &lt;t0/&gt;Jianxing&lt;t1/&gt; (66) Zhu &lt;t2/&gt;Rongji&lt;t3/&gt; (69) Li &lt;t4/&gt;Lanqing&lt;t5/&gt; (65) Li &lt;t6/&gt;Ruihuan&lt;t7/&gt; (64) Politburo – Other Full Members Ding &lt;t8/&gt;Guan’gen&lt;t9/&gt; (64) Qian &lt;t10/&gt;Qiqian&lt;t11/&gt; (69) Huang &lt;t12/&gt;Ju&lt;t13/&gt; (59) Chi &lt;t14/&gt;Haotian&lt;t15/&gt; (68) &lt;t16/&gt;Jia&lt;t17/&gt; Qinglin (57) Wen &lt;t18/&gt;Jiabao&lt;t19/&gt; (55) Jiang &lt;t20/&gt;Chunyun&lt;t21/&gt; (67) Wu &lt;t22/&gt;Bangguo&lt;t23/&gt; (56) Li Changchun (53) Wu &lt;t24/&gt;Guanzheng&lt;t25/&gt; (59) Li &lt;t26/&gt;Tieying&lt;t27/&gt; (61) &lt;t28/&gt;Xie&lt;t29/&gt; &lt;t30/&gt;Fei&lt;t31/&gt; (64) &lt;t32/&gt;∗&lt;t33/&gt; Luo &lt;t34/&gt;Gan&lt;t35/&gt; (62) Zhang &lt;t36/&gt;Wannian&lt;t37/&gt; (69) Tian &lt;t38/&gt;Jiyun&lt;t39/&gt; (68) Secretariat Hu Jintao (55) Wen &lt;t40/&gt;Jiabao&lt;t41/&gt; (55) Ding &lt;t42/&gt;Guan’gen&lt;t43/&gt; (64) Zhang &lt;t44/&gt;Wannian&lt;t45/&gt; (69) Luo &lt;t46/&gt;Gan&lt;t47/&gt; (62) Zeng &lt;t48/&gt;Qinghong&lt;t49/&gt; (58) Wei &lt;t50/&gt;Jianxing&lt;t51/&gt; (66) &lt;t52/&gt;∗&lt;t53/&gt;Died October 1999.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="LENOVO" changedate="20160930T024211Z" creationid="LENOVO" creationdate="20160930T024120Z">
+        <seg>Tabla 2: liderazgo del Partido Comunista Chino luego del Decimoquinto Congreso del Partido Comité Permanente del Politburó Jiang Zemin (71 años) Hu Jintao (55) Li Peng (69) Wei &lt;t0/&gt;Jianxing&lt;t1/&gt; (66) Zhu &lt;t2/&gt;Rongji&lt;t3/&gt; (69) Li &lt;t4/&gt;Lanqing&lt;t5/&gt; (65) Li &lt;t6/&gt;Ruihuan&lt;t7/&gt; (64) Politburo – Other Full Members Ding &lt;t8/&gt;Guan’gen&lt;t9/&gt; (64) Qian &lt;t10/&gt;Qiqian&lt;t11/&gt; (69) Huang &lt;t12/&gt;Ju&lt;t13/&gt; (59) Chi &lt;t14/&gt;Haotian&lt;t15/&gt; (68) &lt;t16/&gt;Jia&lt;t17/&gt; Qinglin (57) Wen &lt;t18/&gt;Jiabao&lt;t19/&gt; (55) Jiang &lt;t20/&gt;Chunyun&lt;t21/&gt; (67) Wu &lt;t22/&gt;Bangguo&lt;t23/&gt; (56) Li Changchun (53) Wu &lt;t24/&gt;Guanzheng&lt;t25/&gt; (59) Li &lt;t26/&gt;Tieying&lt;t27/&gt; (61) &lt;t28/&gt;Xie&lt;t29/&gt; &lt;t30/&gt;Fei&lt;t31/&gt; (64) &lt;t32/&gt;∗&lt;t33/&gt; Luo &lt;t34/&gt;Gan&lt;t35/&gt; (62) Zhang &lt;t36/&gt;Wannian&lt;t37/&gt; (69) Tian &lt;t38/&gt;Jiyun&lt;t39/&gt; (68) Secretariat Hu Jintao (55) Wen &lt;t40/&gt;Jiabao&lt;t41/&gt; (55) Ding &lt;t42/&gt;Guan’gen&lt;t43/&gt; (64) Zhang &lt;t44/&gt;Wannian&lt;t45/&gt; (69) Luo &lt;t46/&gt;Gan&lt;t47/&gt; (62) Zeng &lt;t48/&gt;Qinghong&lt;t49/&gt; (58) Wei &lt;t50/&gt;Jianxing&lt;t51/&gt; (66) &lt;t52/&gt;∗&lt;t53/&gt;Fallecieron en octubre de 1999.</seg>
       </tuv>
     </tu>
     <tu>
