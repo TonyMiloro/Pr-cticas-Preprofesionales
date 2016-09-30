@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3220,8 +3220,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>All these charges were part of the conservative critique of reform that had been ongoing at least since 1984.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T011411Z">
-        <seg>Todos estos cargos fueron parte de la crítica conservadora de la reforma que había estado desarollando al menos desde el año 1984.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T143502Z">
+        <seg>Todas estas acusaciones fueron parte de la crítica conservadora de la reforma que se había realizado al menos desde el año 1984.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10674,8 +10674,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In Jiang Zemin’s speech to the plenum, he declared that the “greatest lesson” to be derived from the PRC’s economic past was that the country must not “depart from its national conditions, exceed its national strength, be anxious for success, or have great ups and downs.”59 These, like the charges listed in the preceding paragraph, were all well-known theses of Chen Yun, so Jiang’s endorsement of Chen Yun’s thought over Deng’s line of reform and opening up was apparent.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T015102Z" creationid="Usuario" creationdate="20160929T011657Z">
-        <seg>En el discurso de Jiang Zemin al Pleno declaró que la "gran lección" que se puede aprender del pasado económico del PCCh era que el país no debe "desviarse de sus condiciones nacionales, superar su potencial nacional, estar ansioso por el exito o tener altibajos". Estos, como los cambios mecionados en el párrafo anterior, eran todas tesis reconocidas de Chen Yun, por lo tanto, el apoyo de Jiang a las ideas de Chen Yun sobre la linea de reforma y expansion de Deng era evidente. </seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T143526Z" creationid="Usuario" creationdate="20160929T011657Z">
+        <seg>En el discurso de Jiang Zemin al Pleno declaró que la “gran lección” que les dejó el pasado económico del PCCh era que el país no debe “desviarse de sus condiciones nacionales, exceder la resistencia nacional, preocuparse por el éxito o tener grandes altibajos”59. Estos, como los cambios mencionados en el párrafo anterior, eran todas hipótesis reconocidas de Chen Yun, por lo tanto, el apoyo de Jiang a las ideas de Chen Yun sobre la linea de reforma y expansión de Deng era evidente. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13673,8 +13673,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Just as Party conservatives rejected Deng’s economic line, they spurned efforts to lessen ideological tensions.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T015735Z">
-        <seg>Así como El Partido Conservatdor rechazó la línea económica de Deng, también desdeñaron los efuerzos para disminuír las tensiones ideológicas.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T143545Z">
+        <seg> Así como conservadores del partido rechazaron la línea económica de Deng, también repudiaron los esfuerzos para disminuir las tensiones ideológicas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17838,8 +17838,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Since that time, the Fifth Plenum decision declared, economic policy had ignored China’s “national strength,” allowed aggregate demand to “far, far” exceed aggregate supply, permitted the balance between industry and agriculture to be thrown off, ignored basic industries, and overly dispersed financial resources, thus eroding the state’s ability to exercise macroeconomic control.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Usuario" changedate="20160929T010237Z">
-        <seg>Desde ese momento, la decisión del Quinto Pleno declaró que la política económica había ignorado el "potencial nacional" de China, permitió una demanda agregada que exedía "exageradamente" la oferta agregada, lo que permitió que el balance entre la industria y la agricultura sea dejado de lado, ignoró las industrias básicas y dispersó los recursos financieros abiertamente y como consecuencia provocó el un deterioro en la habilidad del estado para ejercer un control macroeconómico.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T143235Z">
+        <seg>Desde ese momento, la decisión del Quinto Pleno declaró que la política económica había ignorado el "potencial nacional" de China,lo que permitió una demanda agregada que exedía "exageradamente" la oferta agregada,y a su vez  permitió que el balance entre la industria y la agricultura sea dejado de lado, también ignoró las industrias básicas y dispersó los recursos financieros abiertamente y como consecuencia provocó el un deterioro en la habilidad del estado para ejercer un control macroeconómico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21659,8 +21659,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These problems, the decision declared, constituted a “mortal wound” (zhimingshang) to the economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Candelaria" changedate="20160927T232623Z">
-        <seg>Estos problemas, según declaró la desición, constituyeron una "herida mortal" (zhimingshang) para la economía.</seg>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20160930T143440Z">
+        <seg>Estos problemas, de acuerdo con la resolución del Pleno, constituyeron una “herida mortal” (zhimingshang) para la economía58.</seg>
       </tuv>
     </tu>
     <tu>
