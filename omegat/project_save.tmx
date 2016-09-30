@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10016,6 +10016,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hu reminded the Party–especially leading cadres–to bear in mind Mao’s“two musts,” namely, that they “must remain modest, prudent, and without arrogance or rashness” and they “must uphold the spirit of plain living and hard struggle.” Giving deference to Jiang Zemin’s Three Represents, which had just been endorsed by the Sixteenth Party Congress, Hu nevertheless emphasized the third of those three tenets, namely the “fundamental interests of the vast majority of the people” – whereas Jiang had given greater prominence to the ﬁrst tenet, the advanced forces of &lt;t1/&gt;production.38 Given Hu’sexperience in the interior of China, it had long been expected that he would pay greater attention to the needs of China’s hinterland and those left behind in the country’s headlong rush to develop.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T141805Z" creationid="andrea" creationdate="20160930T141805Z">
+        <seg>Hu recordó al partido, especialmente a los principales cuadros, las “dos obligaciones” que Mao expresó: “deben ser modestos, prudentes y no arrogantes o precipitados” y “deben defender el espíritu de una vida sencilla y lucha ardua”. Si bien Hu mostró deferencia a la Triple Representatividad de Jiang Zemin, la cual había sido respaldada por el Décimo Sexto Congreso del Partido, enfatizó el tercero de los tres principios, a saber, los “intereses básicos de la gran mayoría de la población”, mientras que Jiang había dado mayor relevancia al primer principio, las fuerzas avanzadas de &lt;t1/&gt;producción. Dada la experiencia de Hu en el interior de China, se había esperado que le prestara mayor atención a las necesidades de la periferia de China y a aquellas áreas olvidadas en el afán del país a desarrollarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hu stepped up his campaign against corruption in June 2006 by suddenly dismissing Liu Zhihua, the vice-mayor of Beijing in charge of construction for the Olympic Games.&lt;t0/&gt;112&lt;t1/&gt; Not long thereafter, Wang Yeshou was removed as deputy commander of the Navy, and He Minxu, a vice-governor in Anhui province, and Li Baojin, the president of Tianjin’s Procuratorate, were detained for corruption.&lt;t2/&gt;113&lt;t3/&gt; In at least three of these four cases, “bad morals” were included in the reports by the Xinhua News Agency.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Pablo" changedate="20160929T045747Z">
@@ -11179,8 +11187,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In going to Xibaipo, Hu sought to ally himself with the good traditions of the CCP; it was at Xibaipo that Mao Zedong had warned against succumbing to the sugar bullets of the urban bourgeoisie.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160930T141104Z" creationid="andrea" creationdate="20160930T140449Z">
-        <seg>Al ir a Xibaipo, Hu buscaba aliarse con las tradiciones genuinas del PCCh, ya que fue en allí donde Mao Zedong había advertido que no se rendieran ante los ataques  de la burguesía urbana.</seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T141458Z" creationid="andrea" creationdate="20160930T140449Z">
+        <seg>Al ir a Xibaipo, Hu buscaba aliarse con las tradiciones genuinas del PCCh, ya que fue en allí donde Mao Zedong había advertido que no se rendieran ante los ataques tentadores de la burguesía urbana.</seg>
       </tuv>
     </tu>
     <tu>
