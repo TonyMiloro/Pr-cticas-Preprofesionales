@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5287,6 +5287,16 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="ES-US" changeid="Ana Maria" changedate="20160929T014625Z" creationid="Ana Maria" creationdate="20160929T014625Z">
         <seg>En año nuevo, Hu Jintao se dirigió a Inner Mongolia para reunirse con los campesinos en una yurta;
 el año anterior, la foto de Jiang había aparecido en la página frontal de People’s Daily vistiendo un traje occidental y dando un discurso formal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At New Year’s, Hu Jintao went to Inner Mongolia to join peasants in a yurt; the previous year, Jiang was pictured on the front page of the People’s Daily wearing a Western suit and giving a formal address.40 The tensions evident at the Sixteenth Party Congress continued the following spring as the annual meeting of the NPC convened.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T035326Z" creationid="andrea" creationdate="20160930T035326Z">
+        <seg>En año nuevo, Hu Jintao se dirigió a Inner Mongolia para reunirse con los campesinos en una yurta;
+el año anterior, la foto de Jiang había aparecido en la página frontal de People’s Daily vistiendo un traje occidental y dando un discurso formal.Las tensiones evidentes en el Décimosexto Congreso del Partido continuaron la siguiente primavera  
+ya que el encuentro anual de la APN se llevó a cabo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11019,8 +11029,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>Hu’s ﬁrst public appearance after being named general secretary was to deliver a speech on the twentieth anniversary of the promulgation of China’s 1982 constitution (which had been drawn up in the wake of the CulturalRevolution).&lt;f0&gt;Stressing the need to&lt;/f0&gt;“rule the country through law” (the theme of the Fifteenth Party Congress in 1997), Hu declared that “no organization or individual can be permitted the special privilege of going outside the constitution and the law” and that “all Party organizations at various levels and all Party members must act as models in upholding the constitution, strictly manage affairs in accordance with the constitution, and conscientiously operate within the scope of the constitution and law.” Hu’s emphasis on law not only continued a policy enunciated by Jiang Zemin (and, before him, Deng Xiaoping), but also marked good strategy for someone still in a precarious position politically.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="andrea" changedate="20160929T224816Z" creationid="andrea" creationdate="20160928T183701Z">
-        <seg>La primera aparición en público de Hu después de ser nombrado secretario general fue para dar un discurso sobre el vigésimo aniversario de la promulgación de la constitución de China en 1982 (la que fue elaborada a raíz de la Revolución Cultural). Hu, al &lt;f0&gt;recalcar la necesidad&lt;/f0&gt; de “ gobernar el país a través de la ley” ( tema del Décimo Sexto Congreso del Partido en 1997), manifestó que “ a ninguna organización o individuo se le permite el privilegio especial de actuar en contra de lo establecido por la constitución o la ley” y que “ todas las organizaciones del partido en los diferentes niveles y todos los miembros deben funcionar como modelos en defensa de la constitución, dirigir estrictamente los asuntos de acuerdo con la constitución y operar de manera concienzuda dentro del marco de la constitución y la ley”.El énfasis que Hu otorgó a la ley continuó como una política enunciada por Jiang Zemin (y, antes de él, Deng Xiaoping) y también marcó una estrategia eficaz para alguno aun en una posición política precaria. </seg>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T035151Z" creationid="andrea" creationdate="20160928T183701Z">
+        <seg>La primera aparición en público de Hu después de ser nombrado secretario general fue para dar un discurso sobre el vigésimo aniversario de la promulgación de la constitución de China en 1982 (que fue elaborada a raíz de la Revolución Cultural). Hu, al &lt;f0&gt;recalcar la necesidad&lt;/f0&gt; de “ gobernar el país a través de la ley” ( tema del Décimo Sexto Congreso del Partido en 1997), manifestó que “ a ninguna organización o individuo se le permite el privilegio especial de actuar en contra de lo establecido por la constitución o la ley” y que “ todas las organizaciones del partido en los diferentes niveles y todos los miembros deben funcionar como modelos en defensa de la constitución, dirigir estrictamente los asuntos de acuerdo con la constitución y operar de manera concienzuda dentro del marco de la constitución y la ley”.El énfasis que Hu otorgó a la ley continuó como una política enunciada por Jiang Zemin (y, antes de él, Deng Xiaoping) y también marcó una estrategia eficaz para alguno aun en una posición política precaria. </seg>
       </tuv>
     </tu>
     <tu>
@@ -21115,6 +21125,14 @@ Luego de la destitución de Zhao Ziyang y la posterior represión en Pekín y en
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The arbitrary requisitioning of agricultural land, he noted, a major cause of social tensions in the countryside, should be ended.39 Unfortunately, this problem would only become more severe in the coming years.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T035429Z" creationid="andrea" creationdate="20160930T035429Z">
+        <seg>Además, destacó que la requisición arbitraria de terrenos agrícolas es una causa principal de tensiones sociales en el campo que debería terminar. Infortunadamente, este problema solo empeoraría en los próximos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The article</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Soledad Mori" changedate="20160927T170957Z" creationid="Soledad Mori" creationdate="20160927T170957Z">
@@ -21143,6 +21161,14 @@ Luego de la destitución de Zhao Ziyang y la posterior represión en Pekín y en
       </tuv>
       <tuv lang="ES-US" changeid="José Ignacio" changedate="20160909T131010Z">
         <seg>Los artículos no eran en si provocativos, sin duda mucho menos que el libro &lt;t4/&gt;Looking at China through a Third Eye&lt;t5/&gt; ("Viendo a China a través de un tercer ojo") de Wang Shan,&lt;t6/&gt; publicado posteriormente ese mismo año, pero se plantearon problemas importantes.&lt;t7/&gt;69&lt;t8/&gt; Por ejemplo, Pi Mingyong (de la Academia de Ciencias Militares) sostenía que el nacionalismo &lt;t9/&gt;había sido un problema en el siglo XX en China porque estaba inevitablemente en riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attention that Hu Jintao and Wen Jiabao paid (and would continue to pay) to rural issues reﬂected China’s development needs–the increasing gap between the wealthy east coast and the poorer inland areas (and more speciﬁcally between the rural areas and the cities) was a constant theme in social commentary–but it also set up an implicit contrast with Jiang Zemin, whose personal style seemed increasingly detached from the concerns of ordinary citizens and who&lt;f2&gt;se &lt;/f2&gt;economic development efforts had sparked the phenomenal growth of Shanghai and other east coast metropolises but had opened up the tremendous gap with the agricultural interior.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T035407Z" creationid="andrea" creationdate="20160930T035407Z">
+        <seg>La atención que Hu Jintao and Wen Jiabao le prestaron, y continuarían prestando, a las cuestiones rurales reflejaron las necesidades de desarrollo de China, tales como la creciente brecha entre la próspera costa oriental y las regiones del interior más pobres (en particular entre las zonas rurales y las ciudades) que constituyó un eje constante en el comentario social. Pero este eje también estableció un contraste implícito con Jiang Zemin, cuyo estilo personal parecía cada vez más distanciado de las inquietudes de los ciudadanos y cuyos esfuerzos de desarrollo económico habían provocado el crecimiento admirable de Shanghai y otras costas orientales metropolitanas, pero había abierto una enorme brecha con el interior agrícola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23373,6 +23399,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="Flor" changedate="20160926T124234Z">
         <seg>&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt; &lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt; &lt;t32/&gt;&lt;t33/&gt; &lt;t34/&gt;&lt;t35/&gt; &lt;t36/&gt;&lt;t37/&gt; &lt;t38/&gt;&lt;t39/&gt; &lt;t40/&gt;&lt;t41/&gt; &lt;t42/&gt;&lt;t43/&gt; &lt;t44/&gt;&lt;t45/&gt;La nueva campaña hizo aumentar la especulación de que Jiang Zemin buscaba “reafirmarse” después de haber sido eclipsado por la crisis del SARS. No cabía duda de que existían tensiones entre ambos líderes pero definir su relación como una “lucha de poderes” sería simplificarla demasiado. A pesar de cualquier opinión que el nuevo Secretario General pudiera tener con respecto a Jiang y el hecho de que hubiera colmado el Politburó con sus copartidarios, Hu siempre fue cuidadoso en mostrar deferencia con su predecesor. &lt;t46/&gt;&lt;t47/&gt; &lt;t48/&gt;&lt;t49/&gt;&lt;t50/&gt;&lt;t51/&gt; &lt;t52/&gt;&lt;t53/&gt; &lt;t54/&gt; &lt;t55/&gt;&lt;t56/&gt;&lt;t57/&gt; &lt;t58/&gt;&lt;t59/&gt;&lt;t60/&gt; &lt;t61/&gt;&lt;t62/&gt; &lt;t63/&gt;&lt;t64/&gt; &lt;t65/&gt;&lt;t66/&gt;&lt;t67/&gt;&lt;t68/&gt;&lt;t69/&gt;&lt;t70/&gt; &lt;t71/&gt;&lt;t72/&gt;&lt;t73/&gt;&lt;t74/&gt; &lt;t75/&gt;&lt;t76/&gt;&lt;t77/&gt;&lt;t78/&gt; &lt;t79/&gt;&lt;t80/&gt; &lt;t81/&gt;&lt;t82/&gt;&lt;t83/&gt;&lt;t84/&gt; &lt;t85/&gt;&lt;t86/&gt; &lt;t87/&gt;&lt;t88/&gt;&lt;t89/&gt; &lt;t90/&gt;&lt;t91/&gt; &lt;t92/&gt;&lt;t93/&gt; &lt;t94/&gt;&lt;t95/&gt; &lt;t96/&gt;&lt;t97/&gt; &lt;t98/&gt;&lt;t99/&gt; &lt;t100/&gt;&lt;t101/&gt; &lt;t102/&gt;&lt;t103/&gt; &lt;t104/&gt;&lt;t105/&gt; &lt;t106/&gt;&lt;t107/&gt; &lt;t108/&gt;&lt;t109/&gt; &lt;t110/&gt;&lt;t111/&gt; &lt;t112/&gt;&lt;t113/&gt; &lt;t114/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ThePeople’s Daily pictured Jiang leading the Politburo into the NPC session.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="andrea" changedate="20160930T035346Z" creationid="andrea" creationdate="20160930T035346Z">
+        <seg>People’s Daily fotografió a Jiang dirigiendo el politburó en sesión de la APN. </seg>
       </tuv>
     </tu>
     <tu>
