@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20787,9 +20787,9 @@ criminal prosecution.</seg>
         <seg>The Question of Zhao
 Following the ouster of Zhao Ziyang and the subsequent crackdown in Beijing and elsewhere, the question of how to deal with Zhao became central.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T125428Z">
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T012403Z">
         <seg>La cuestión de Zhao
-Luego de la destitución de Zhao Ziyang y las posteriores medidas represivas en Pekín y en otras partes, la cuestión acerca de cómo tratar con Zhao se tornó primordial.</seg>
+Luego de la destitución de Zhao Ziyang y las posteriores represiones en Pekín y en otras partes, la cuestión acerca de cómo tratar con Zhao se tornó primordial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22360,8 +22360,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The new Politburo Standing Committee was more conservative than before, but it was more balanced than might have been expected.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T143607Z">
-        <seg>El nuevo Buró Permanente del Comité Central era más conservador que antes, pero era mucho más representativo de lo que se podía haber esperado.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T012355Z">
+        <seg>El nuevo Comité Permanente del Politburó era más conservador que antes, pero era mucho más representativo de lo que se podía haber esperado.</seg>
       </tuv>
     </tu>
     <tu>
