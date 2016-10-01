@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18591,8 +18591,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Prior to the meeting, Zhao had canvassed the opinions of his colleagues and found that four of them – Hu Qili, Qiao Shi, Yang Shangkun, and himself – all opposed declaring martial law.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T013911Z">
-        <seg>Antes del encuentro, Zhao había averiguado las opiniones de sus colegas  y descubrió que cuatro de ellos (Hu Qili, Qiao Shi, Yang Shangkun y él mismo) se oponían a declarar ley marcial.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T022147Z">
+        <seg>Antes del encuentro, Zhao había averiguado las opiniones de sus colegas y descubrió que cuatro de ellos (Hu Qili, Qiao Shi, Yang Shangkun y él mismo) se oponían a declarar ley marcial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21421,8 +21421,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The decision to declare martial law had effectively been made in a meeting at Deng’s house on the morning of May 17.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T211253Z">
-        <seg>La efectiva decisión de declarar ley marcial había sido tomada en una reunión en la casa de Deng la mañana del 17 de mayo.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T022054Z">
+        <seg>La efectiva decisión de declarar la ley marcial había sido tomada en una reunión en la casa de Deng la mañana del 17 de mayo.</seg>
       </tuv>
     </tu>
     <tu>
