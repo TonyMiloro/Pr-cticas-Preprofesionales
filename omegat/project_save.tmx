@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6576,6 +6576,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T204135Z">
         <seg>Para este momento, habían debates profundos dentro del &lt;/f47&gt;&lt;/f46&gt;&lt;t48/&gt;&lt;f49&gt;&lt;f50&gt;liderazgo&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt; del partido sobre cómo responder a las manifestaciones de estudiantes, que habían comenzado ochos días antes, el 16 de abril. El 25 de abril, Deng respaldaría una estrategia firme al decir que las manifestaciones estaban apuntadas a “negar fundamentalmente el liderazgo del Partido Comunista de China y al negar el sistema socialista”. Esa decisión, publicada el día siguiente en una editorial de  &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;People’s Daily&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt;, fue lo que &lt;/f56&gt;&lt;/f55&gt;enardeció&lt;f57&gt;&lt;f58&gt; la opinión de los estudiantes y condujo el movimiento estudiantil a un nuevo punto de crisis.&lt;/f58&gt;&lt;/f57&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By this time, there were deepening debates within the Party leadership about how to respond to the student demonstrations, which had started eight days earlier on April 16; on April 25, Deng would endorse a hardline approach by saying that the demonstrations were aimed at “fundamentally negating the leadership of the Chinese Communist Party and at negating the socialist system.” It was that judgment, written into a &lt;f20&gt;People’s Daily&lt;/f20&gt; editorial the next day, that inﬂamed student opinion and brought the student movement to a new crisis point.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T032859Z" creationid="rona" creationdate="20161001T032859Z">
+        <seg>. Para este momento, había debates profundos dentro del liderazgo del partido sobre cómo responder a las manifestaciones de estudiantes, que ya habían comenzado ocho días atrás, el 16 de abril. El 25 de abril, Deng respaldaría una estrategia firme al decir que las manifestaciones estaban apuntadas a “negar fundamentalmente el liderazgo del Partido Comunista de China y a negar el sistema socialista”. Esa decisión, publicada el día siguiente en una editorial de  &lt;f20&gt;People’s Daily&lt;/f20&gt; fue lo que enardeció la opinión de los estudiantes y condujo el movimiento estudiantil a un nuevo punto de crisis..</seg>
       </tuv>
     </tu>
     <tu>
