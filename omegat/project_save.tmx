@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11171,8 +11171,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If Deng was initially despondent over events in the Soviet Union, he did not stay that way for long.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160918T162723Z">
-        <seg>Si Deng estaba desanimado por los eventos en la Unión Soviética al principio, no siguió así por mucho tiempo. </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T012425Z">
+        <seg>Aunque Deng estaba desanimado por lo que ocurría en la Unión Soviética al principio, no continuó así por mucho tiempo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -28868,8 +28868,8 @@ Durante semanas y meses después de Tiananmén, no existía casi ningún debate 
       <tuv lang="EN-US">
         <seg>“Then what shall we do&lt;t0/&gt;?,&lt;t1/&gt;” he reportedly asked.40 The abortive coup in the Soviet Union posed, in the starkest possible terms, the fundamental question of the period: Should the CCP try to preserve</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T152047Z">
-        <seg>”¿Qué tenemos que hacer entonces&lt;t0/&gt;?&lt;t1/&gt;”se dice que preguntó. 40 El fallido golpe de estado en la Unión soviética planteba, en los términos más duros, la pregunta fundamental del período: ¿Debería el CCP tratar de preservar</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T011657Z">
+        <seg>”¿Qué tenemos que hacer entonces&lt;t0/&gt;?&lt;t1/&gt;”se dice que preguntó. 40 El fallido golpe de estado en la Unión Soviética planteba, en los términos más duros, la pregunta fundamental del período: ¿Debería el CCP tratar de preservar</seg>
       </tuv>
     </tu>
     <tu>
