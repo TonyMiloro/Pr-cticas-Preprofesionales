@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -921,16 +921,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;At the same time, Zhao Ziyang, who had journeyed to North Korea April 23–30 &lt;s3/&gt;in &lt;s4/&gt;one &lt;s5/&gt;of &lt;s6/&gt;the &lt;s7/&gt;worst-timed &lt;s8/&gt;diplomatic &lt;s9/&gt;trips &lt;s10/&gt;imaginable, &lt;s11/&gt;returned and &lt;s12/&gt;convened &lt;s13/&gt;a &lt;s14/&gt;meeting &lt;s15/&gt;of &lt;s16/&gt;the &lt;s17/&gt;Politburo &lt;s18/&gt;on &lt;s19/&gt;May &lt;s20/&gt;10.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T210118Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Al mismo tiempo, Zhao Ziyang, quien viajó a Corea del Norte entre el 23 y 30 de abril &lt;s3/&gt;en uno de los peores viajes diplomáticos imaginables de todos los tiempos, regresó y pactó una reunión con el Politburó el 10 de mayo. &lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt;&lt;s11/&gt;&lt;s12/&gt;&lt;s13/&gt;&lt;s14/&gt;&lt;s15/&gt;&lt;s16/&gt;&lt;s17/&gt;&lt;s18/&gt;&lt;s19/&gt;&lt;s20/&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T030601Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Al mismo tiempo, Zhao Ziyang, quien estuvo de viaje en Corea del Norte desde el 23 hasta el 30 de abril en uno de los peores viajes diplomáticos imaginables de todos los tiempos &lt;s3/&gt;, regresó y pactó una reunión con el Politburó el 10 de mayo. &lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt;&lt;s11/&gt;&lt;s12/&gt;&lt;s13/&gt;&lt;s14/&gt;&lt;s15/&gt;&lt;s16/&gt;&lt;s17/&gt;&lt;s18/&gt;&lt;s19/&gt;&lt;s20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Aware of the controversies raging within the Party, Jiang Zemin’s close con&lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;dante Chen Zhili, head of the Shanghai Propaganda Department (and appointed in 1998 to head the Ministry of Education and in 2003 to be a State Councilor), was upset when she saw galley proofs of the forthcoming issue of the &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;World Economic Herald&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, fearing that it would give new stimulus to the demonstrations.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T204419Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Consciente de las controversias que continuaban dentro del partido, Chen Zhili, el confidente más cercano&lt;/f1&gt;&lt;/f0&gt; de &lt;f3&gt;&lt;f4&gt;Jiang Zemin y director del Departamento de Propaganda de Shanghái (designado en 1998 como director del Ministerio de Educación y en 2003 como Consejero del Estado) se molestó cuando vio las pruebas de imprenta del problema venidero de parte del  &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;World Economic Herald&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; ya que temía que trajera nuevos estímulos a las manifestaciones.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T030233Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Consciente de las controversias que continuaban dentro del partido, Chen Zhili, el confidente más cercano&lt;/f1&gt;&lt;/f0&gt; de &lt;f3&gt;&lt;f4&gt;Jiang Zemin y director del Departamento de Propaganda de Shanghái (designado en 1998 como director del Ministerio de Educación y en 2003 como Consejero del Estado) se molestó cuando vio el bosquejo de la nota sobre los acontecimientos del  &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;World Economic Herald&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; ya que temía que provocara nuevos estímulos a las manifestaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8359,8 +8359,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Despite interventions by Liu Ji and Su Shaozhi, Qin Benli refused to reconsider his actions, and Jiang seemed to be left hanging.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T211239Z">
-        <seg>A pesar de las intervenciones de Liu Ji y Su Shaozhi, Qin Benli se negó a reconsiderar sus acciones, y parecía que se lo había dejado de lado a Jiang.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T030746Z">
+        <seg>A pesar de las intervenciones de Liu Ji y Su Shaozhi, Qin Benli se negó a reconsiderar sus acciones, y Jiang parecía no haber tenido éxito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10699,8 +10699,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, Jiang emerged looking both decisive in opposing “&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;bourgeois&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;liberalization&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;” and capable in handling the local situation; unlike Beijing, Shanghai was under control.&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T213531Z">
-        <seg>De todas formas, Jiang apareció decidido al oponerse a la “liberación &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;burguesa&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;&lt;/f41&gt;&lt;/f40&gt;” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T030908Z">
+        <seg>De todas formas, Jiang apareció decidido al oponerse a la “liberación &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;burguesa&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;&lt;/f41&gt;&lt;/f40&gt;” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.De todas formas, Jiang resurgió mostrandose decidido a oponerse a la</seg>
       </tuv>
     </tu>
     <tu>
@@ -12733,8 +12733,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In speeches, Su Shaozhi, Yan Jiaqi, Chen Ziming, and others called for “reversing the verdict” on Hu Yaobang as well as negating the 1983 campaign against “spiritual pollution” and the 1987 campaign against “&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;bourgeois&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; liberalization.” These speeches were printed in an issue of the &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;World Economic Herald&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt; that was to go to press on April 24.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T203841Z">
-        <seg>En discursos, Su Shaozhi, Yan Jiaqi, Chen Ziming, y otros demandaron “revertir el veredicto” de Hu Yaobang como también rechazaron la campaña de 1983 contra la “contaminación espiritual” y la campaña de 1987 contra la “liberación &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;burguesa&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;”. Estos discursos fueron publicados en una tirada del &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt; World Economic Herald&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;  el 24 de abril.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T030026Z">
+        <seg>En sus discursos, Su Shaozhi, Yan Jiaqi, Chen Ziming, y otros demandaron “revertir el veredicto” de Hu Yaobang y as´también rechazar la campaña de 1983 contra la “contaminación espiritual” y la campaña de 1987 contra la “liberación &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;burguesa&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;”.Estos discursos se estaban por publicar en una tirada del&lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt; World Economic Herald&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;  el 24 de abril.</seg>
       </tuv>
     </tu>
     <tu>
