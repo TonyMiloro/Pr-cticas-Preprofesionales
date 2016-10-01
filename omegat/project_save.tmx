@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3204,8 +3204,8 @@
         <seg>A meeting of conservative writers and artists in July, for instance, declared that Zhao was the “biggest umbrella for bourgeois liberalization in literature and art circles” and accused him of “rudely critic[izing] comrades who adhered to the four cardinal principles” and who, as a result, were “vilified, suppressed, and attacked by others.”38[21]
 Other articles criticized Zhao for putting forth the idea of “transforming the ideological and political work” and thus weakening the Party’s ideological work.39[22] For instance, one author complained that “[i]n recent years the viewpoint that class struggle in society will certainly find expression within the Party has been criticized as being a ‘leftist’ viewpoint.”40[23] The weakening of ideological and political work was held, among other things, to undermine the sense of class struggle, of which Deng was certainly every bit as guilty as Zhao.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T011755Z">
-        <seg>Una junta de escritores y artistas conservadores llevada a cabo en julio, por ejemplo, declaró que Zhao era "la protección mas grande para la liberalización burguesa en los círculos de la literatura y del arte" y lo acusó de "criticar con rudeza a sus colegas que se adhirieron a los cuatro principios cardinales" y que, como resultado, fueron "denigrados, reprimidos y atacados por otros". Otros artículos criticaron a Zhao por proponer la idea de "transformar el trabajo ideológico y político" y así debilitar el trabajo ideológico del partido. Por ejemplo, un autor se quejó de que "en los proximos años el punto de vista  que la clase social en la sociedad definitivamente encontrara una expresion dentro del Partido ha sido criticada como un punto de vista "izquierdista". El debilitamiento del trabajo ideológico y político fue apoyado, entre otras cosas, para socavar la escena de la lucha de clases, de la cual Deng definitivamente era tan culpable como Zhao. </seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T031730Z">
+        <seg>Una junta de escritores y artistas conservadores llevada a cabo en julio, por ejemplo, expresó que Zhao era "la protección más grande para la liberalización burguesa en los círculos de la literatura y del arte" y lo acusó de "criticar con rudeza a sus colegas que se adhirieron a los cuatro principios cardinales" y que, como resultado, fueron "denigrados, reprimidos y atacados por otros". Otros artículos criticaron a Zhao por proponer la idea de "transformar el trabajo ideológico y político" y así debilitar el trabajo ideológico del partido. Por ejemplo, un autor se quejó de que "en los proximos años el punto de vista  que la clase social en la sociedad definitivamente encontrara una expresion dentro del Partido ha sido criticada como un punto de vista "izquierdista". El debilitamiento del trabajo ideológico y político fue apoyado, entre otras cosas, para socavar la escena de la lucha de clases, de la cual Deng definitivamente era tan culpable como Zhao. </seg>
       </tuv>
     </tu>
     <tu>
