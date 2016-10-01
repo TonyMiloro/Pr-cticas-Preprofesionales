@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11521,10 +11521,26 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 1980, Wang Daohan was appointed mayor of Shanghai and recommended that Jiang take his place on the State Import–Export Management Commission and the State Foreign Investment Management Commission, organs that were responsible for the newly established Special Economic Zones in Guangdong and Fujian provinces.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030832Z" creationid="rona" creationdate="20161001T030832Z">
+        <seg>En 1980, Wang Daohan fue nombrado alcalde de Shanghái y sugirió que Jiang tomara su posición en la Comisión Directiva Estatal de Importaciones y Exportaciones, y en la Comisión Estatal Directiva de Inversiones Extranjeras, órganos que eran responsables de Zonas Económicas Especiales en las provincias recién establecidas de Guangdong y Fujian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1982, Jiang was appointed &lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;rst &lt;s5/&gt;vice-minister &lt;s6/&gt;of &lt;s7/&gt;the &lt;s8/&gt;newly &lt;s9/&gt;established &lt;s10/&gt;Ministry &lt;s11/&gt;of &lt;s12/&gt;the &lt;s13/&gt;Electronics Industry &lt;s14/&gt;and &lt;s15/&gt;was &lt;s16/&gt;selected &lt;s17/&gt;as &lt;s18/&gt;a &lt;s19/&gt;member &lt;s20/&gt;of &lt;s21/&gt;the &lt;s22/&gt;CCP &lt;s23/&gt;Central &lt;s24/&gt;Committee.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T213712Z">
         <seg>En 1982, Jiang fue nombrado&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt; primer&lt;f3&gt;&lt;f4&gt; viceministro &lt;s5/&gt; del&lt;s6/&gt; Ministerio &lt;s7/&gt;de&lt;s8/&gt; Industria Electrónica, &lt;s9/&gt;recién&lt;s10/&gt; establecido&lt;s11/&gt;, y fue&lt;s12/&gt; seleccionado&lt;s13/&gt; como&lt;s14/&gt; miembro&lt;s15/&gt; del&lt;s16/&gt; Comité&lt;s17/&gt; Central&lt;s18/&gt; del&lt;s19/&gt; PCCh.&lt;s20/&gt;&lt;s21/&gt;&lt;s22/&gt;&lt;s23/&gt;&lt;s24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1982, Jiang was appointed ﬁrst &lt;s0/&gt;vice-minister &lt;s1/&gt;of &lt;s2/&gt;the &lt;s3/&gt;newly &lt;s4/&gt;established &lt;s5/&gt;Ministry &lt;s6/&gt;of &lt;s7/&gt;the &lt;s8/&gt;Electronics Industry &lt;s9/&gt;and &lt;s10/&gt;was &lt;s11/&gt;selected &lt;s12/&gt;as &lt;s13/&gt;a &lt;s14/&gt;member &lt;s15/&gt;of &lt;s16/&gt;the &lt;s17/&gt;CCP &lt;s18/&gt;Central &lt;s19/&gt;Committee.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T031106Z" creationid="rona" creationdate="20161001T031106Z">
+        <seg>En 1982, Jiang fue nombrado primer &lt;s0/&gt;viceministro &lt;s1/&gt;del &lt;s2/&gt;Ministerio &lt;s3/&gt;de &lt;s4/&gt;Industria &lt;s5/&gt;Electrónica &lt;s6/&gt;of &lt;s7/&gt;the &lt;s8/&gt;Electronics Industry &lt;s9/&gt;and &lt;s10/&gt;was &lt;s11/&gt;selected &lt;s12/&gt;as &lt;s13/&gt;a &lt;s14/&gt;member &lt;s15/&gt;of &lt;s16/&gt;the &lt;s17/&gt;CCP &lt;s18/&gt;Central &lt;s19/&gt;Committee.</seg>
       </tuv>
     </tu>
     <tu>
