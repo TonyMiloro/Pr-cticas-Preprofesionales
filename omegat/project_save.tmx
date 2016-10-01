@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2788,6 +2788,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20161001T030708Z" creationid="rona" creationdate="20161001T030708Z">
         <seg>&lt;s6/&gt;Al &lt;s7/&gt;año &lt;s8/&gt;siguiente, &lt;s9/&gt;cuando volvió a China, lo enviaron a la primera Fábrica Automotriz de Changchun donde pasó los siguientes seis años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s8/&gt;His &lt;s9/&gt;ability &lt;s10/&gt;to resume &lt;s11/&gt;his &lt;s12/&gt;career &lt;s13/&gt;in &lt;s14/&gt;1971 &lt;s15/&gt;reﬂects &lt;s16/&gt;both &lt;s17/&gt;his &lt;s18/&gt;junior &lt;s19/&gt;status &lt;s20/&gt;and &lt;s21/&gt;his &lt;s22/&gt;techni- cal credentials.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T033925Z" creationid="rona" creationdate="20161001T033925Z">
+        <seg>&lt;s8/&gt;Demuestra &lt;s9/&gt;su &lt;s10/&gt;habilidad &lt;s11/&gt;al &lt;s12/&gt;retomar &lt;s13/&gt;su &lt;s14/&gt;carrera &lt;s15/&gt;en &lt;s16/&gt;1971 &lt;s17/&gt;siendo &lt;s18/&gt; &lt;s19/&gt; &lt;s20/&gt;&lt;s21/&gt; &lt;s22/&gt;un aprendiz y con credenciales técnicas.</seg>
       </tuv>
     </tu>
     <tu>
