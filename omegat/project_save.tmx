@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2696,6 +2696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s15/&gt;Two &lt;s16/&gt;of &lt;s17/&gt;these, &lt;s18/&gt;Zhao &lt;s19/&gt;Ziyang &lt;s20/&gt;and Hu Qili, were disqualiﬁed because they had been too tolerant toward the Tiananmen &lt;s21/&gt;demonstrations.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T024645Z" creationid="rona" creationdate="20161001T024524Z">
+        <seg>&lt;s15/&gt;Dos &lt;s16/&gt;de &lt;s17/&gt;estos, &lt;s18/&gt;Zhao &lt;s19/&gt;Ziyang &lt;s20/&gt;y Hu Qili, fueron descalificados porque habían sido muy tolerantes durante las manifestaciones en Tiananmén.  &lt;s21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s19/&gt;When &lt;s20/&gt;he &lt;s21/&gt;returned &lt;s22/&gt;to China the following year, he was sent to the Changchun No. 1 Automobile Factory, where he spent the next six years.</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T192754Z">
@@ -2724,6 +2732,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T210239Z">
         <seg>&lt;s21/&gt;Refiriéndose al &lt;s22/&gt;incidente &lt;s23/&gt;del &lt;s24/&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f25&gt;&lt;f26&gt;World Economic Herald&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, Zhao declaró que el Comité del Partido de Shanghái había “hecho un gran lio”. Antes de que terminara la reunión, un ansioso Jiang siguió a Li Ruihuan hasta baño de hombres para que lo aconsejara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s22/&gt;Li &lt;s23/&gt;Peng &lt;s24/&gt;and &lt;s25/&gt;Yao &lt;s26/&gt;Yilin, &lt;s27/&gt;as &lt;s28/&gt;Deng &lt;s29/&gt;scornfully noted, were too conservative to satisfy him.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T024834Z" creationid="rona" creationdate="20161001T024834Z">
+        <seg>&lt;s22/&gt;Li &lt;s23/&gt;Peng &lt;s24/&gt;y &lt;s25/&gt;Yao &lt;s26/&gt;Yilin, &lt;s27/&gt;como &lt;s28/&gt;Deng &lt;s29/&gt;como Deng notó con desdén, eran muy conservadores para su satisfacción.</seg>
       </tuv>
     </tu>
     <tu>
