@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9465,8 +9465,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>For Zhao – and for Deng – economic development was primary, and the only way to develop the economy was to marketize and join the international economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T125706Z">
-        <seg>Para Zhao y Deng, el desarrollo económico era primordial, y la única forma de fomentarlo era mercantilizarse y unirse a la economía internacional.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T012942Z">
+        <seg>Para Zhao y también para Deng, el desarrollo económico era primordial, y la única forma de fomentarlo era mercantilizarse y sumarse a la economía internacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12565,8 +12565,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In practice, this meant undermining and going around much of the old planned economy, allowing a market economy to grow outside the scope of the planned economy, and thus continuously reducing the relative importance of the planned economy.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T133138Z">
-        <seg>En la práctica, esto significaba debilitar y manipular mucho la antigua economía planificada y permitir que una economía de mercado crezca fuera de los límites de la economía planificada y, por lo tanto, reducir continuamente la importancia relativa de la economía planificada.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T013145Z">
+        <seg>En la práctica, esto significaba debilitar y darle un giro a lo bueno de la antigua economía planificada y permitir que una economía de mercado crezca fuera de los límites de la economía planificada y, por lo tanto, reducir continuamente la importancia relativa de esta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13736,8 +13736,8 @@ Sorting out leadership issues was the task of the Fourth Plenary Session of the 
       <tuv lang="EN-US">
         <seg>It also meant, to a greater or lesser extent, playing down much of socialist ideology.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T133208Z">
-        <seg>A su vez significaba, en mayor o menor medida, restarle importancia a la ideología socialista.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T013202Z">
+        <seg>A su vez, significaba, en mayor o menor medida, restarle importancia a la ideología socialista.</seg>
       </tuv>
     </tu>
     <tu>
