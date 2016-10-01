@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8022,8 +8022,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng angrily declared that the “People’s Daily wants to comprehensively criticize Deng Xiaoping.”46</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T160436Z">
-        <seg>Deng declaró enojado que el "People´s Daily quiere citicar comprensivamente a Deng Xiaoping". 46 </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T015148Z">
+        <seg>Deng declaró enojado que el "People´s Daily quiere criticar comprensivamente a Deng Xiaoping". 46 </seg>
       </tuv>
     </tu>
     <tu>
@@ -24066,8 +24066,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This change was spotted, and at Deng’s behest Li &lt;t0/&gt;Ruihuan&lt;t1/&gt; ordered that the offending sentence be removed.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T192358Z">
-        <seg>Este cambio fue evidente, y bajo la órden de Deng, Li   &lt;t0/&gt;Ruihuan&lt;t1/&gt;ordenó que la oración ofensiva se elimine.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T015143Z">
+        <seg>Este cambio fue evidente, y bajo la orden de Deng, Li   &lt;t0/&gt;Ruihuan&lt;t1/&gt;ordenó que la oración ofensiva se elimine.</seg>
       </tuv>
     </tu>
     <tu>
