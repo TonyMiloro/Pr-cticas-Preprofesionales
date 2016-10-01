@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2682,8 +2682,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s11/&gt;His &lt;s12/&gt;ability &lt;s13/&gt;to resume &lt;s14/&gt;his &lt;s15/&gt;career &lt;s16/&gt;in &lt;s17/&gt;1971 &lt;s18/&gt;re&lt;/f1&gt;&lt;/f0&gt;ﬂ&lt;f19&gt;&lt;f20&gt;ects &lt;s21/&gt;both &lt;s22/&gt;his &lt;s23/&gt;junior &lt;s24/&gt;status &lt;s25/&gt;and &lt;s26/&gt;his &lt;s27/&gt;technical credentials.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T213654Z">
-        <seg>La habilidad de continuar con su carrera en 1971 refleja tanto su estado juvenil como sus credenciales técnicas. &lt;s11/&gt;&lt;s12/&gt;&lt;s13/&gt;&lt;s14/&gt;&lt;s15/&gt;&lt;s16/&gt;&lt;s17/&gt;&lt;s18/&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f19&gt;&lt;f20&gt;&lt;s21/&gt;&lt;s22/&gt;&lt;s23/&gt;&lt;s24/&gt;&lt;s25/&gt;&lt;s26/&gt;&lt;s27/&gt;</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T001117Z">
+        <seg>Demuestra su habilidad al retomar su carrera en 1971 siendo un aprendiz y con credenciales técnicas.&lt;s11/&gt;&lt;s12/&gt;&lt;s13/&gt;&lt;s14/&gt;&lt;s15/&gt;&lt;s16/&gt;&lt;s17/&gt;&lt;s18/&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f19&gt;&lt;f20&gt;&lt;s21/&gt;&lt;s22/&gt;&lt;s23/&gt;&lt;s24/&gt;&lt;s25/&gt;&lt;s26/&gt;&lt;s27/&gt;</seg>
       </tuv>
     </tu>
     <tu>
