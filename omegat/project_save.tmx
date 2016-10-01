@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21661,8 +21661,8 @@ abierto una enorme brecha con el interior agrícola.</seg>
       <tuv lang="EN-US">
         <seg>The evidence coming out of the Congress suggests that Hu Jintao was quite successful, if not as successful as he perhaps would have wanted to be. Compromises were made. But the Seventeenth Party Congress left open questions about the institutionalization of the Chinese political system; there was the sort of bargaining necessary to achieve compromise but which thereby suggested the uninstitutionalized aspects of elite politics. These uninstitutionalized aspects may yet come back to haunt the Party in the future.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bangho" changedate="20160909T204419Z">
-        <seg>La evidencia que surgió del Congreso indica que Hu Jintao tuvo bastante éxito, quizás tanto como él hubiera querido. Compromises were made. But the Seventeenth Party Congress left open questions about the institutionalization of the Chinese political system; there was the sort of bargaining necessary to achieve compromise but which thereby suggested the uninstitutionalized aspects of elite politics. These uninstitutionalized aspects may yet come back to haunt the Party in the future.</seg>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20161001T005526Z">
+        <seg>La evidencia que surgió del congreso indica que Hu Jintao tuvo bastante éxito, quizás tanto como él hubiera querido. Y así se llegó a un acuerdo. Aunque el décimo séptimo congreso del partido abrió un interrogante sobre la institucionalización del sistema político chino, hubo algunas negociaciones necesarias con el fin de llegar a un acuerdo, pero hacerlo significó desinstitucionalizar algunos aspectos de la elite política. Los aspectos desinstitucionalizados podrían aún volver a atormentar al partido en el futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26854,8 +26854,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Would Hu be able to get this and other ideas into an amended Party constitution?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Mariela" changedate="20160930T145553Z">
-        <seg>¿Podría Hu agregar esta y otras ideas a una enmienda de la constitución del partido? </seg>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20161001T005455Z">
+        <seg>¿Podría Hu agregar esta y otras ideas a una enmienda de la constitución del partido?</seg>
       </tuv>
     </tu>
     <tu>
