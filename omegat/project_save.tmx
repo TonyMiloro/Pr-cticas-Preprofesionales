@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -529,8 +529,8 @@
       <tuv lang="EN-US">
         <seg>43 Jiang Yihua, “Lun dongya xiandaihua jinchengzhong de xinlixing zhuyi wenhua.” P1: SJT 9780521866934c05 CUUK1178/Fewsmith 9780521866934 June 6, 2008 16:12 Neostatism and popular nationalism 153 class (xialiu); elsewhere he comments that he represents the lower ranks of officialdom.44 Born in 1952, Wang was the youngest of those known as laosanjie, the three classes (which “graduated” from high school in 1966, 1967, and 1968) who made up the Red Guard generation and were sent to the country- side when Mao had seen enough of the chaos they had generated.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160928T135259Z">
-        <seg>en cualquier otro lado el siempre menciona que es el representante de los rangos bajos del funcionariado44. Nacido en 1952, Wang era el más joven de los llamados laosanjie. Estos eran los integrantes de las tres clases (que se “graduaron” de la escuela secundaria en 1966, 1967 y 1968) que conformaron la generación de la Guardia Roja y que fueron enviados al campo cuando Mao vio el caos que habían generado.</seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20161001T013219Z">
+        <seg>en cualquier otro lado el siempre menciona que él es el representante de los rangos bajos del funcionariado44. Nacido en 1952, Wang era el más joven de los llamados laosanjie. Estos eran los integrantes de las tres clases (que se “graduaron” de la escuela secundaria en 1966, 1967 y 1968) que conformaron la generación de la Guardia Roja y que fueron enviados al campo cuando Mao vio el caos que habían generado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15421,8 +15421,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Like Wang Shuo, Wang Shan had already written a first novel, Tian Shang (Heaven’s Elegy), that depicted a world of hooliganism, incorporating traditional notions that there was a code of honor among that underclass that contrasted favorably with values of their social betters.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160928T134947Z">
-        <seg>Al igual que Wang Shuo, Wang Shan ya habÍa escrito su primer novela, Tian Shang (Elegía del cielo), en la que se describía un mundo de vandalismo, y se incorporaban nociones tradicionales en las que el código de honor entre las clases bajas se contrastaba favorablemente con los valores de las clases más altas. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20161001T013053Z">
+        <seg>Al igual que Wang Shuo, Wang Shan ya habÍa escrito su primer novela, Tian Shang (Elegía del cielo), en la que se describía un mundo de vandalismo y se incorporaban nociones tradicionales en las que el código de honor entre las clases bajas se contrastaba favorablemente con los valores de las clases más altas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25997,8 +25997,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Wang seems to be an unsatisfied and intemperate person; his literary agent noted that Wang switched jobs frequently, and “always inexplicably ended by being fired.”45 Wang declared that the greatest influences on his thinking were a “sense of responsibility” bequeathed by his father’s generation to carry on the task of the revolution and the “heroic thought” (yingxiong zhuyi sichao) of tempering oneself through struggle, something he apparently cultivated during the Cultural Revolution.46 Unlike most of those older than himself, Wang obviously retained a romantic attachment to the Cultural Revolution and to the figure of Mao Zedong, a passion that flared up with Deng’s trip to the south in 1992 and the resulting wave of speculation.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Backup" changedate="20160929T125754Z">
-        <seg>Wang parecía ser una persona insatisfecha y desmedida; su agente literario notó que cambiaba frecuentemente de trabajo, y que “siempre lo despedían sin explicación”.45 Wang declaró que la influencia más grande sobre su pensamiento fue el “sentido de responsabilidad" que le transmitió la generación de su padre de continuar con la tarea de la revolución, y “el pensamiento heroico” de templarse a uno mismo a través de la lucha, algo que al parecer cultivó durante la revolución cultural.46 A diferencia de aquellos mayores que él, Wang obviamente conservó un apego a la revolución cultural y a la figura de Mao Zedong, una pasión que se encendió con el viaje de Deng al sur en 1992 y la consecuente ola de especulación. </seg>
+      <tuv lang="ES-US" changeid="Backup" changedate="20161001T013840Z">
+        <seg>Wang parecía ser una persona insatisfecha y desmedida; su agente literario notó que cambiaba frecuentemente de trabajo, y que “siempre lo despedían sin explicación”.45 Wang declaró que la influencia más grande sobre su pensamiento fue el “sentido de responsabilidad"  de continuar con la tarea de la revoluciónque le transmitió la generación de su padre y “el pensamiento heroico” de templarse a uno mismo a través de la lucha, algo que al parecer cultivó durante la revolución cultural.46 A diferencia de aquellos mayores que él, Wang obviamente conservó un apego a la revolución cultural y a la figura de Mao Zedong, una pasión que se encendió con el viaje de Deng al sur en 1992 y la consecuente ola de especulación. </seg>
       </tuv>
     </tu>
     <tu>
