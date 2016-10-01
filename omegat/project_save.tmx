@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11539,8 +11539,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1982, Jiang was appointed ﬁrst &lt;s0/&gt;vice-minister &lt;s1/&gt;of &lt;s2/&gt;the &lt;s3/&gt;newly &lt;s4/&gt;established &lt;s5/&gt;Ministry &lt;s6/&gt;of &lt;s7/&gt;the &lt;s8/&gt;Electronics Industry &lt;s9/&gt;and &lt;s10/&gt;was &lt;s11/&gt;selected &lt;s12/&gt;as &lt;s13/&gt;a &lt;s14/&gt;member &lt;s15/&gt;of &lt;s16/&gt;the &lt;s17/&gt;CCP &lt;s18/&gt;Central &lt;s19/&gt;Committee.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20161001T031106Z" creationid="rona" creationdate="20161001T031106Z">
-        <seg>En 1982, Jiang fue nombrado primer &lt;s0/&gt;viceministro &lt;s1/&gt;del &lt;s2/&gt;Ministerio &lt;s3/&gt;de &lt;s4/&gt;Industria &lt;s5/&gt;Electrónica &lt;s6/&gt;of &lt;s7/&gt;the &lt;s8/&gt;Electronics Industry &lt;s9/&gt;and &lt;s10/&gt;was &lt;s11/&gt;selected &lt;s12/&gt;as &lt;s13/&gt;a &lt;s14/&gt;member &lt;s15/&gt;of &lt;s16/&gt;the &lt;s17/&gt;CCP &lt;s18/&gt;Central &lt;s19/&gt;Committee.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T031436Z" creationid="rona" creationdate="20161001T031106Z">
+        <seg>En 1982, Jiang fue nombrado primer &lt;s0/&gt;viceministro &lt;s1/&gt;del &lt;s2/&gt;Ministerio &lt;s3/&gt;de &lt;s4/&gt;Industria &lt;s5/&gt;Electrónica &lt;s6/&gt;recién &lt;s7/&gt;establecido &lt;s8/&gt;y fue seleccionado como miembro&lt;s9/&gt;del &lt;s10/&gt;Comité &lt;s11/&gt;Central &lt;s12/&gt;del &lt;s13/&gt;&lt;s14/&gt;&lt;s15/&gt; &lt;s16/&gt; &lt;s17/&gt;PCCh &lt;s18/&gt;&lt;s19/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11669,6 +11669,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160907T011359Z">
         <seg>En 1992, se invirtieron en bienes raíces alrededor de 73 000 millones de yuanes, un 117 % más que en el año anterior. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;s0/&gt;short, &lt;s1/&gt;Jiang’s &lt;s2/&gt;career &lt;s3/&gt;was &lt;s4/&gt;one &lt;s5/&gt;of &lt;s6/&gt;steady &lt;s7/&gt;promotions.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T031637Z" creationid="rona" creationdate="20161001T031637Z">
+        <seg>En &lt;s0/&gt;resumen, &lt;s1/&gt;la carrera &lt;s2/&gt;de &lt;s3/&gt;Jiang &lt;s4/&gt;fue &lt;s5/&gt;un &lt;s6/&gt;constante &lt;s7/&gt;ascenso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25527,6 +25535,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T200343Z">
         <seg>Dos años después, en el Decimotercer Congreso del PCCh, Jiang Zemin fue nombrado el secretario del PCCh de Shanghái y, posteriormente, miembro del  &lt;/f4&gt;&lt;/f3&gt;&lt;f25&gt;&lt;f26&gt;Politburó.&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two years later, at the CCP’s Thirteenth Congress, Jiang Zemin was named as Shanghai CCP secretary and concurrently a member of the Politburo.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T031506Z" creationid="rona" creationdate="20161001T031506Z">
+        <seg>Dos años después, en el Decimotercer Congreso del PCCh, Jiang Zemin fue nombrado secretario del PCCh de Shanghái y, posteriormente,miembro del Politburó.</seg>
       </tuv>
     </tu>
     <tu>
