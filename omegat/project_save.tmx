@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13993,8 +13993,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It read: “While carrying out reform and opening up to the outside world, we must ask ourselves whether we are practicing socialism or capitalism, and we must uphold the socialist orientation.” Seven hours after this version of the editorial was transmitted, Xinhua released a new version in which the first sentence was changed dramatically to read, “While carrying out reform and opening up to the outside world, we must firmly adhere to the socialist course and uphold the dominant role of public ownership.”44 The critical question of whether a reform was “socialist” or “capitalist” had been cut.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T152712Z">
-        <seg>Esta decía: "Mientras llevamos a cabo la reforma y nos abrimos al mundo exterior, debemos preguntarnos si estamos practicando el socialismo o el capitalismo, y debemos mantener una oientación socialista". Siete horas después de que se transmitiera esta versión del editorial, Xinhua emitió una nueva versión en la que la primera oración se había modificado drásticamente y decía: " Mientras llevamos a cabo la reforma y nos abrimos al mundo exterior, debemos adherir al socialismo y mantener el rol dominante de la propiedad pública". 44 La pregunta esencial de si la reforma era "socialista" o "capitalista" había sido eliminada.   </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T013146Z">
+        <seg>Esta decía: "Mientras llevamos a cabo la reforma y nos abramos al mundo exterior, debemos preguntarnos si estamos practicando el socialismo o el capitalismo, y debemos mantener una oientación socialista". Siete horas después de que se transmitiera esta versión del editorial, Xinhua emitió una nueva versión en la que la primera oración se había modificado drásticamente y decía: " Mientras llevamos a cabo la reforma y nos abrimos al mundo exterior, debemos adherir al socialismo y mantener el rol dominante de la propiedad pública". 44 La pregunta esencial de si la reforma era "socialista" o "capitalista" había sido eliminada.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -14065,8 +14065,8 @@ It is not fire proof.</seg>
       <tuv lang="EN-US">
         <seg>It turned out that the second version was actually the editorial as originally approved, but prior to transmission the director of the People’s Daily, 45 Gao Di, rewrote the first sentence to insert the conservative’s pet thesis.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160930T154706Z">
-        <seg>La reforma era, él decía, una parte del esfuerzo histórico por revivir y desarollar a China que había empezado con Sun Yat-sen. 49</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T014727Z">
+        <seg>Resultó que la segunda versión era en realidad el editorial tal como habia sido aprobado inicialmente. Pero antes de la emisión, el director de People’s Daily, 45 Gao Di, reescribió la primera oración para incluir la tesis favorita conservadora.</seg>
       </tuv>
     </tu>
     <tu>
