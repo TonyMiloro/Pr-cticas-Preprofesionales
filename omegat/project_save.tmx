@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11395,8 +11395,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In 1937 he tested into the prestigious Yangzhou Middle School, where he pursued his interests in literature and music.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002949Z">
-        <seg>En 1937 tomó los exámenes para la prestigiosa escuela secundaria de Yangzhou, donde siguió el trayecto literario y musical.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030149Z">
+        <seg>En 1937 aprobó el ingreso en la prestigiosa escuela secundaria de Yangzhou, donde se dedicó a la literatura y la música, áreas de su interés.</seg>
       </tuv>
     </tu>
     <tu>
