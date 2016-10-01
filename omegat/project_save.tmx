@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8536,8 +8536,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>During the campaign against “bourgeois liberalization” that was unleashed following Tiananmen, it was impossible to separate criticism of Zhao Ziyang from issues of ideology and Party line, and there is every indication that hardliners within the Party wished to press such issues with an eye to curtailing Deng’s authority and returning the Party to the more limited notion of reform that had prevailed in the late 1970s and early 1980s.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160919T132213Z">
-        <seg>Durante la campaña contra "la liberalizacion burguesa"  que se desató siguiedo a Tiananmen, fue imposible separar la critica de Zhao Ziyang de los asuntos ideológicos y la linea del Partido, y hay indicaciones de que intransigentes dentro del partido desearon.... y llevar al Partido a una nocion de reforma mas limitada que prevaleció a finales de la decada del setenta y principios de la decada de los ochenta.  </seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T025456Z">
+        <seg>Durante la campaña contra la “liberalización burguesa” que se desató luego de Tiananmén, fue imposible separar la crítica hacia Zhao Ziyang de los asuntos ideológicos y la línea del partido, y hay indicaciones de que intransigentes dentro del partido querían presionar sobre estos temas con el objetivo de debilitar la autoridad de Deng y llevar al partido a una noción de reforma más limitada que había prevalecido a finales de la década del setenta y a principios de los ochenta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19488,8 +19488,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
         <seg>Shortly after such speculation appeared, the PRC-owned Hong Kong paper Ta kung pao reported that Deng Xiaoping had set a two-year period for “reflection” and declared that it is “highly unlikely” that Zhao would be put on public trial.32[15]
 Although Deng’s “prediction” that Zhao would not face trial ultimately proved correct, his call for a period of reflection was largely ignored.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160930T191627Z">
-        <seg>Poco despues de que aparezca semejante especulacion, el..... informó que Deng Xiaoping había fijado un periodo de dos años para "reflexión" y declaró que era "muy poco probable" que Zhao pueda ser puesto en juicio público. Aunque la "predicción" de Deng de que Zhao no enfrentaria un juicio fue correcta, su pedido por un periodo de reflexion fue ampliamente ignorado.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T025325Z">
+        <seg>Poco después de que aparezca semejante especulación, el periódico Ta kung pao de Hong Kong, en manos del PRCh, informó que Deng Xiaoping había fijado un período de dos años para “reflexión” y declaró que era “muy poco probable” que Zhao pueda ser llevado a juicio público32. Aunque la “predicción” de Deng de que Zhao no enfrentaría un juicio fue correcta, su pedido por un período de reflexión fue ampliamente ignorado.</seg>
       </tuv>
     </tu>
     <tu>
