@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7214,8 +7214,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>China’s ambassador congratulated the perpetrators of the coup, and conservative elder Wang Zhen, then in Xinjiang, called on China’s Party leaders “never to deviate” from Marxism– Leninism–Mao Zedong Thought and to “fight to the death” for communism.38 During his trip in the province, Wang gave a number of “fiery speeches,”39 while back in Beijing, leftists called a number of meetings to consider their response.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T152018Z">
-        <seg>El embajador de China felicitó a los perpetradores del golpe de estado, y el veterano conservativo Wang Zhen, en ese momento en Xinjiang, instó a los líderes del partido de China a "nunca desviarse" del pensamiento -Marxista-Leninista- Mao Zedong y a ”pelear a muerte” por el comunismo. 38 Durante su viaje por la provincia, Wang dió varios ”discursos intensos”, 39 mientras en Beijing, los izquierdistas llamaron a varias reuniones para considerar su respuesta. </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T011421Z">
+        <seg>El embajador de China felicitó a los perpetradores del golpe de estado, y el veterano conservativo Wang Zhen, en ese momento en Xinjiang, instó a los líderes del partido de China a "nunca desviarse" del pensamiento marxista-leninista Mao Zedong y a ”pelear a muerte” por el comunismo. 38 Durante su viaje por la provincia, Wang dió varios ”discursos intensos”, 39 mientras en Pekín, los izquierdistas llamaron a varias reuniones para considerar su respuesta. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,8 +8736,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Even Deng worried that if Yeltsin banished the CPSU, China would be the only major state practicing socialism.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160918T161311Z">
-        <seg>Incluso Deng se preocupada porque si Yeltsin eliminaba el CPSU, China sería el único estado importante que practica el socialismo. </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T011510Z">
+        <seg>Incluso Deng se preocupó porque si Yeltsin eliminaba el CPSU, China sería el único estado importante que practica el socialismo. </seg>
       </tuv>
     </tu>
     <tu>
