@@ -6892,6 +6892,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chen Xitong might have been a logical choice; he had long served in the Beijing Municipal Party apparatus and had cultivated ties with Deng and other Party &lt;s0/&gt;elders.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T025843Z" creationid="rona" creationdate="20161001T025843Z">
+        <seg>Chen Xitong podría haber sido una elección lógica ya que había servido por un tiempo en el aparato del Partido Municipal de Pekín y había creado lazos con Deng y otros exintegrantes del partido &lt;s0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chen Xitong removed as Beijing Party</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160903T000820Z">
@@ -10715,8 +10723,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, his well-known hardline response to the student demonstrations undoubtedly disqualiﬁed him – as was the case with Li Peng and Yao Yilin.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160926T010927Z">
-        <seg>Sin embargo, su conocida reacción intransigente hacia la manifestación de los estudiantes indudablemente lo descalificó - como ocurrió en el caso de Li Peng y Yao Yilin.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T025900Z">
+        <seg>Sin embargo, su conocida reacción intransigente hacia la manifestación de los estudiantes indudablemente lo descalificó como ocurrió en el caso de Li Peng y Yao Yilin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18695,8 +18703,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Qiao seems not to have been the power player that his background in intelligence led many to believe he was, and in any case he was too close to Zhao Ziyang to satisfy conservatives.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T001908Z">
-        <seg>Qiao no parecia ser el jugador estratégico que por su formación muchos creía que era, y de todos modos él era muy cercano a Zhao Ziyang para complacer a los conservadores.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T025802Z">
+        <seg>Parece que Qiao no era el jugador estratégico que por su formación muchos creían que era, y de todos modos él era muy cercano a Zhao Ziyang para complacer a los conservadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19864,8 +19872,8 @@ Although Deng’s “prediction” that Zhao would not face trial ultimately pro
       <tuv lang="EN-US">
         <seg>Some reports maintain that Deng asked Qiao to be general secretary, but that seems unlikely.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002007Z">
-        <seg>En algunos informes se sostiene que Deng ofreció a Qiao ser secretario general, pero parece ser algo dudoso.</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T025727Z">
+        <seg>En algunos informes se sostiene que Deng le ofreció a Qiao ser secretario general, pero parece ser algo dudoso.</seg>
       </tuv>
     </tu>
     <tu>
