@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12783,6 +12783,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="rona" changedate="20160921T182655Z">
         <seg>De cierta manera, esta crítica viene de discusiones anteriores acerca de la reforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In speeches, Su Shaozhi, Yan Jiaqi, Chen Ziming, and others called for “reversing the verdict” on Hu Yaobang as well as negating the 1983 campaign against “spiritual pollution” and the 1987 campaign against &lt;t18/&gt;“bourgeois liberalization.” These speeches were printed in an issue of the &lt;f19&gt;World Economic Herald&lt;/f19&gt; that was to go to press on April 24.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T033140Z" creationid="rona" creationdate="20161001T033140Z">
+        <seg>En sus discursos, Su Shaozhi, Yan Jiaqi, Chen Ziming entre otros demandaron “revertir el veredicto” de Hu Yaobang así también rechazar la campaña de 1983 contra la&lt;t18/&gt;“liberación burguesa”. Estos discursos se estaban por publicar en una tirada del World Economic Herald el 24 de abril&lt;/f19&gt; .</seg>
       </tuv>
     </tu>
     <tu>
