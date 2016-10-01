@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10251,8 +10251,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>He also linked domestic class struggle to international class struggle and emphasized that “the ideological arena is an important arena for the struggle between peaceful evolution and anti-peaceful evolution.” Moreover, with regard to economic policy, Jiang emphasized that “large- and medium-sized &lt;t3/&gt;stateowned&lt;t4/&gt; enterprises are the backbone strength of the socialist economy” and that “shaking public ownership of the means of production would shake the economic foundation of socialism and harm the fundamental interests of the whole people, to say nothing of socialism.”34 In short, it was a speech that, despite its bows in a reformist direction, clearly reflected conservative dominance over the overall ideological and policy agenda.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T190223Z">
-        <seg>También relacionó la lucha nacional de clases con la lucha internacional de clases y subrayó que “el ámbito ideológico es importante para la lucha entre la evolución pacífica y la evolución no pacífica”. Además, en relación con políticas económicas, Jiang remarcó que “grandes y medianas empresas &lt;t3/&gt;públicas&lt;t4/&gt;son el soporte principal de la economia socialista” y que “quitar la propiedad pública de los medios de producción afectaría la base económica del socialismo y dañaría los intereses básicos de todas las pesonas, sin mencionar los del socialismo”.34 En síntesis, fue un discurso que, a pesar de hacer ciertas menciones en una dirección reformista, claramente reflejaba la preponderancia conservadora sobre la agenda política e ideológica.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T004141Z">
+        <seg>También relacionó la lucha nacional de clases con la lucha internacional de clases y subrayó que “el ámbito ideológico es importante para la lucha entre la evolución pacífica y la evolución no pacífica”. Además, en relación con políticas económicas, Jiang remarcó que “grandes y medianas empresas &lt;t3/&gt;públicas&lt;t4/&gt;son el soporte principal de la economía socialista” y que “quitar la propiedad pública de los medios de producción afectaría la base económica del socialismo y dañaría los intereses básicos de todas las pesonas, sin mencionar los del socialismo”.34 En síntesis, fue un discurso que, a pesar de hacer ciertas menciones en una dirección reformista, claramente reflejaba la preponderancia conservadora sobre la agenda política e ideológica.</seg>
       </tuv>
     </tu>
     <tu>
