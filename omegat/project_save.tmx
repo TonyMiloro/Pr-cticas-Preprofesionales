@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9569,8 +9569,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>For instance, in 1999, per capita consumption expenditure of agricultural workers was only 85 yuan, 73.9 percent of their monthly income.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;With such small demand, it was difficult for an entrepreneurial class to develop.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20160930T234035Z">
-        <seg>Por ejemplo, en el año 1999, el consumo per cápita de los trabajadores agrícolas era solo de 85 yuanes, lo que significaba un 73,9 % de sus ingresos mensuales.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Esta escasa demanda dificultaba el desarrollo de una clase empresarial.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20161001T011607Z">
+        <seg>Por ejemplo, en el año 1999, el consumo per cápita de los trabajadores agrícolas era de solo 85 yuanes, lo que significaba un 73,9 % de sus ingresos mensuales.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Esta escasa demanda dificultaba el desarrollo de una clase empresarial.</seg>
       </tuv>
     </tu>
     <tu>
