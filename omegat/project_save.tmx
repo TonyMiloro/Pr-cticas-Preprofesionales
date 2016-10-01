@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2682,8 +2682,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s1/&gt;It &lt;s2/&gt;was &lt;s3/&gt;at &lt;s4/&gt;this &lt;s5/&gt;time &lt;s6/&gt;that &lt;s7/&gt;Jiang &lt;s8/&gt;became &lt;s9/&gt;actively involved in the Shanghai underground, and in June 1946 he joined the CCP.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="rona" changedate="20161001T030423Z" creationid="rona" creationdate="20161001T030423Z">
-        <seg>&lt;s1/&gt;&lt;s2/&gt;&lt;s3/&gt;&lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;Fue en ese momento cuando Jiang se involucró de forma activa en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh..</seg>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030431Z" creationid="rona" creationdate="20161001T030423Z">
+        <seg>&lt;s1/&gt;&lt;s2/&gt;&lt;s3/&gt;&lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;Fue en ese momento cuando Jiang se involucró de forma activa en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2772,6 +2772,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="LENOVO" changedate="20160928T023714Z">
         <seg>&lt;s6/&gt;Estas tendencias también estaban incluídas en el término "feudalismo", un término de oprobio que nada tenía que ver con su significado en la historia económica y política del Occidente o si quiera con su significado tradicional de &lt;s7/&gt; gobierno local en China. En su lugar, el feudalismo adoptó todas las connotaciones negativas que se habían atribuido a la sociedad tradicional china durante el largo período de la Revolución China: patriarcado, autoritarismo, burocratismo, antintelectualismo y fanatismo, para nombrar algunos ejemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s6/&gt;When &lt;s7/&gt;he &lt;s8/&gt;returned &lt;s9/&gt;to China the following year, he was sent to the Changchun No. 1 Automobile Factory, where he spent the next six years.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030708Z" creationid="rona" creationdate="20161001T030708Z">
+        <seg>&lt;s6/&gt;Al &lt;s7/&gt;año &lt;s8/&gt;siguiente, &lt;s9/&gt;cuando volvió a China, lo enviaron a la primera Fábrica Automotriz de Changchun donde pasó los siguientes seis años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11433,10 +11441,34 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 1947 Jiang Zemin began a career characterized by a gradual climb upward, though mostly in technical ﬁelds.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030451Z" creationid="rona" creationdate="20161001T030451Z">
+        <seg>En 1947 Jiang Zemin comenzó una carrera que se caracterizó por un crecimiento gradual principalmente en el campo técnico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1953 he was recruited into Shanghai’s No. 2 &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Design Bureau&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; by his &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;political mentor&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, Wang Daohan (later mayor of Shanghai).</seg>
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T192436Z">
         <seg>En 1953, fue contratado en la segunda&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Agencia de Diseño de Shanghái &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;por su  &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;mentor político &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, Wang Daohan (luego, intendente de esa ciudad).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1953 he was recruited into Shanghai’s No. 2 Design Bureau by his political mentor, Wang Daohan (later mayor of Shanghai).</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030517Z" creationid="rona" creationdate="20161001T030517Z">
+        <seg>. En 1953, fue contratado en la segunda Agencia de Diseño de Shanghái por su mentor político, Wang Daohan (luego, alcalde de esa ciudad).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1955 he was selected to study automotive engineering &lt;s0/&gt;at &lt;s1/&gt;the &lt;s2/&gt;Stalin &lt;s3/&gt;Autoworks &lt;s4/&gt;in &lt;s5/&gt;Moscow.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030618Z" creationid="rona" creationdate="20161001T030618Z">
+        <seg>En 1955, fue seleccionado para estudiar ingeniería automotriz en la Fábrica Automotriz Stalin en Moscú&lt;s0/&gt; &lt;s1/&gt;&lt;s2/&gt;&lt;s3/&gt;&lt;s4/&gt;&lt;s5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26480,6 +26512,14 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20161001T023253Z">
         <seg>Cuando la Revolución Cultural comenzó, de manera inevitable, Jiang fue criticado por ser una “persona con autoridad que toma el camino  &lt;/f12&gt;&lt;/f11&gt;&lt;f23&gt;&lt;f24&gt;capitalista&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;”, pero rápidamente continuó con su carrera cuando se lo eligió en 1971 para liderar una delegación técnica a Rumania.&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Cultural Revolution broke out, Jiang inevitably came under attack as a “person in authority taking the capitalist road,” but he quickly resumed his career when he was selected in 1971 to lead a technical delegation to Romania.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030735Z" creationid="rona" creationdate="20161001T030735Z">
+        <seg>Cuando la Revolución Cultural comenzó, de forma inevitable, Jiang fue criticado por ser una “persona en autoridad que toma el camino capitalista”, pero rápidamente continuó con su carrera cuando en 1971 fue electo para liderar una delegación técnica a Rumania.</seg>
       </tuv>
     </tu>
     <tu>
