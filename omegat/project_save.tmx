@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18166,8 +18166,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       <tuv lang="EN-US">
         <seg>Particularly worrisome was the merging of “evil forces” and local administration.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160930T152112Z">
-        <seg>Sobretodo, lo que resultaba preocupante era la existencia de  "fuerzas malvadas" en la administración local.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20161001T004235Z">
+        <seg>Sobre todo, lo que resultaba preocupante era la existencia de  "fuerzas malvadas" en la administración local.</seg>
       </tuv>
     </tu>
     <tu>
