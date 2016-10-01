@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18991,8 +18991,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Second and more plausibly, one can assume that Deng, faced with opposition and uncertainty, yielded once again, as he had apparently done several times over the preceding two years – biding his time until a more opportune moment arose to renew his assault.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T002008Z">
-        <seg>En una segunda explicación, un poco más verosímil, uno puede  suponer que Deng, enfrentado a la oposición y a la incertidumbre, cedió una vez más, como aparentemente ya lo había hecho varias veces durante los dos años anteriores; asegurando su tiempo hasta que llegara el momento oportuno para restablecer su ataque.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T002230Z">
+        <seg>En una segunda explicación, un poco más verosímil, uno puede  suponer que Deng, enfrentado a la oposición y a la incertidumbre, cedió una vez más, como aparentemente ya lo había hecho varias veces durante los dos años anteriores, asegurando su tiempo hasta que llegara el momento oportuno para restablecer su ataque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24154,8 +24154,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This explanation assumes that Deng possessed the power necessary to prevail (which he would demonstrate a year later), but that he believed the cost in terms of Party unity outweighed the importance of prevailing at that time.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T184518Z">
-        <seg>Esta explicación supone que Deng contaba con el poder necesario para prevalecer (lo que demostraría un año más tarde), pero pensaba que en ese momento era más importante el costo en términos de la unión del Partido que prevalecer.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T002309Z">
+        <seg>Esta explicación supone que Deng contaba con el poder necesario para prevalecer (lo que demostraría un año más tarde), pero pensaba que en ese momento era más importante el costo en términos de la unión del partido que prevalecer.</seg>
       </tuv>
     </tu>
     <tu>
