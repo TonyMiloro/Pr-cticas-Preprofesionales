@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11291,8 +11291,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>If such hostile forces won, the commentator article warned, it would be a “retrogression of history and a catastrophe for the people.”35 The tone of other, less authoritative articles likewise suggests a major conservative push in reaction to events in the Soviet Union.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T190918Z">
-        <seg>El autor del artículo advirtió que si tales fuerzas hostiles ganaban, sería un “retroceso en la historia y una catástrofe para la gente”. 35 De la misma manera, el tono de otros artículos menos fidedignos insinúan un gran impulso conservador como reacción a lo sucedido en la Unión Soviética.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T010722Z">
+        <seg>El autor del artículo advirtió que si tales fuerzas hostiles ganaban, sería un “retroceso en la historia y una catástrofe para la gente”. 35 De la misma manera, el tono de otros artículos menos fidedignos insinúa un gran impulso conservador como reacción a lo sucedido en la Unión Soviética.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12533,8 +12533,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In particular, an August 16 commentator article in the People’s Daily put an even more</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T221846Z">
-        <seg>En particular, un artículo de opinión del periódico People Daily publicado 16 de agosto le dió un tono aún más   </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T010310Z">
+        <seg>En particular, un artículo de opinión del periódico People’s Daily publicado 16 de agosto le dio un tono aún más   </seg>
       </tuv>
     </tu>
     <tu>
@@ -26742,8 +26742,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>With the publication of the People’s Daily’s excerpt of the article from Contemporary Trends and other attacks on the themes raised by the &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping commentaries, reformers fell quiet.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T183008Z">
-        <seg>Debido a  la publicación del periódico People Daily del fragmento del artículo perteneciente a la revista Contemporary Trends, y a otras críticas a los temas generados por los comentarios de  &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping, los reformistas permanecieron tranquilos.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T010253Z">
+        <seg>Debido a  la publicación del periódico People’s Daily del fragmento del artículo perteneciente a la revista Contemporary Trends, y a otras críticas a los temas generados por los comentarios de  &lt;t0/&gt;Huangfu&lt;t1/&gt; Ping, los reformistas permanecieron tranquilos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27768,8 +27768,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>conservative&lt;t0/&gt; spin on Jiang’s CCP anniversary speech, calling for building a “great wall of steel against peaceful evolution” in order to protect the country from “hostile forces” at home and abroad.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160925T221913Z">
-        <seg> conservador&lt;t0/&gt;en el discurso de Jiang por el aniversario del CCP, en el que llamó a construir “un gran muro de acero en contra de la evolución pacífica” para protejer al país de las “fuerzas hostiles” nacionales y en el exterior.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T010643Z">
+        <seg> conservador&lt;t0/&gt;en el discurso de Jiang por el aniversario del PCCh, en el que llamó a construir “un gran muro de acero en contra de la evolución pacífica” para protejer al país de las “fuerzas hostiles” nacionales y en el exterior.</seg>
       </tuv>
     </tu>
     <tu>
