@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20787,9 +20787,9 @@ criminal prosecution.</seg>
         <seg>The Question of Zhao
 Following the ouster of Zhao Ziyang and the subsequent crackdown in Beijing and elsewhere, the question of how to deal with Zhao became central.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T012403Z">
-        <seg>La cuestión de Zhao
-Luego de la destitución de Zhao Ziyang y las posteriores represiones en Pekín y en otras partes, la cuestión acerca de cómo tratar con Zhao se tornó primordial.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T015539Z">
+        <seg>LA CUESTIÓN DE ZAHO
+Luego de la destitución de Zhao Ziyang y las posterior represión en Pekín y en otras partes, la cuestión acerca de cómo tratar con Zhao se tornó primordial.</seg>
       </tuv>
     </tu>
     <tu>
