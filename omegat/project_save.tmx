@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6294,8 +6294,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>But, as Zhao commented in a 1995 interview, “I had been the one to ask for an audience, but he [Deng] had notified so many people, he obviously did not want to hear my opinion.” Each expressed his opinion – Qiao Shi and Yang Shangkun changing their minds in the course of the meeting – but it was Deng’s views that mattered.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T132027Z">
-        <seg>Pero, como  Zhao expresó en una entrevita en 1995: "Fui el único que pidió una audiencia, pero [Deng] le avisó a tanta gente que era obvio que no quería escuchar mi opinión". Cada uno expresó su opinión, Qiao Shi y Yang Shangkun cambiaron de parecer durante la reunión, pero era la opinión de Deng la que importaba.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20161001T020547Z">
+        <seg>Pero, como  Zhao expresó en una entrevista en 1995: "Fui el único que pidió una audiencia, pero [Deng] le avisó a tanta gente que era obvio que no quería escuchar mi opinión". Cada uno expresó su opinión, Qiao Shi y Yang Shangkun cambiaron de parecer durante la reunión, pero era la opinión de Deng la que importaba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8872,8 +8872,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Even though much of this hostility was directed at Zhao Ziyang, it was clear that the criticism of Zhao was also intended to curb Deng’s authority.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T210517Z">
-        <seg>Aunque la mayor parte de esta hostilidad estaba dirigida a  Zhao Ziyang, era claro que las críticas hacia  Zhao también tenían como objetivo debilitar la autoridad de Deng.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20161001T021027Z">
+        <seg>Aunque la mayor parte de esta hostilidad estaba dirigida a  Zhao Ziyang, estaba claro que las críticas hacia Zhao también tenían como objetivo debilitar la autoridad de Deng.</seg>
       </tuv>
     </tu>
     <tu>
