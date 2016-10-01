@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -937,8 +937,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;In 1947 Jiang Zemin began a career characterized by a gradual climb upward, though mostly in technical &lt;/f1&gt;&lt;/f0&gt;ﬁ&lt;f3&gt;&lt;f4&gt;elds.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160930T194253Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;En 1947 Jiang Zemin comenzó su carrera que se caracterizó por un crecimiento principalmente en el  &lt;/f1&gt;&lt;/f0&gt;campo técnico&lt;f3&gt;&lt;f4&gt;.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T001821Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;En 1947 Jiang Zemin comenzó una carrera que se caracterizó por un crecimiento gradual principalmente en el  &lt;/f1&gt;&lt;/f0&gt;campo técnico&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
