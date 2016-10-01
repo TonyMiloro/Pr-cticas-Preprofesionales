@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15301,8 +15301,8 @@ Putting Zhao on trial, as Deng had the Gang of Four, would have had profound imp
         <seg>Li declared that in the future the Party should “carry out the struggle against bourgeois liberalization for a long time to come rather than do it perfunctorily or give it up halfway as in the past.”26[9]
 Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s report.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20160916T221142Z">
-        <seg>Li anunció que, en el futuro, el partido debería  "llevar a cabo una lucha contra la liberalización burgueza por un largo tiempo para conseguirla antes que hacerlo superficialmente o abandonar a mitad de camino como en el pasado".</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20161001T004754Z">
+        <seg>Li anunció que, en el futuro, el partido debería  "llevar a cabo una lucha contra la liberalización burguesa por un largo tiempo para conseguirla antes que hacerlo superficialmente o abandonar a mitad de camino como en el pasado".</seg>
       </tuv>
     </tu>
     <tu>
