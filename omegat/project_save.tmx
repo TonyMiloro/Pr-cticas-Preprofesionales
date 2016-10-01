@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -955,6 +955,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T200508Z">
         <seg>En resumen, la carrera de Jiang fue un constante ascenso.&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;&lt;s3/&gt; &lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;&lt;s10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Just as Chen and Li were Party secretaries of Beijing and Tianjin, respec- tively, Jiang Zemin was secretary of China’s largest city, Shanghai.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T031047Z" creationid="USER" creationdate="20161001T031047Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Así como Chen y Li eran secretarios del Partido de Pekín y Tianjin, respectivamente, Jiang Zemin era el secretario de la ciudad más grande de China, Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10699,8 +10707,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>However, Jiang emerged looking both decisive in opposing “&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;bourgeois&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt; &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;liberalization&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;” and capable in handling the local situation; unlike Beijing, Shanghai was under control.&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20161001T030908Z">
-        <seg>De todas formas, Jiang apareció decidido al oponerse a la “liberación &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;burguesa&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;&lt;/f41&gt;&lt;/f40&gt;” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.De todas formas, Jiang resurgió mostrandose decidido a oponerse a la</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T031017Z">
+        <seg>De todas formas, Jiang resurgió mostrandose decidido a oponerse a la “liberación &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;burguesa&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;&lt;/f41&gt;&lt;/f40&gt;” y capaz de manejar la situación local; a diferencia de Pekín, Shanghái estaba bajo control.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15309,6 +15317,14 @@ Según la tradición del partido, se esperaba que Zhao apoyara la opinión de la
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160913T002600Z">
         <seg>Li Ruihuan era otra opción, pero su formación limitada sin duda lo descalificó como un aspirante serio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li Ruihuan was another possibility, but his weak educational background no doubt eliminated him as a serious contender.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T031105Z" creationid="USER" creationdate="20161001T031105Z">
+        <seg>Li Ruihuan era otra opción, pero su formación limitada sin duda lo descalificó como un aspirante serio.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
