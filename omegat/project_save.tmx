@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4037,8 +4037,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the Party, in the interest of putting ideological battles behind it at the beginning of the reform era, had ceased to describe intra-Party conflicts as “line struggles,” the notion of political line and hence of line struggle remained very much a part of Party life at the elite level.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T030241Z">
-        <seg>Aunque el Partido, en el interés de poner batallas ideológicas detrás de este a principios de la era de la reforma, habia cesado para describir los conflictos intrapartidarios como "luchas de linea", la noción de linea politica y, por consiguiente, la lucha de linea permaneció como parte de la vida del Partido en un nivel elite.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T030324Z">
+        <seg>Aunque el Partido, en el interés de poner batallas ideológicas detrás de este a principios de la era de la reforma, había cesado para describir los conflictos intrapartidarios como "luchas de línea", la noción de línea política y, por consiguiente, la lucha de linea permaneció como parte de la vida del Partido en un nivel elite.</seg>
       </tuv>
     </tu>
     <tu>
