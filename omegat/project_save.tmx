@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22712,8 +22712,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The result of an investigation by provincial and city leaders basically affirmed the views of the peasants; the local Party secretary was removed and others were dealt with administratively.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160930T151146Z">
-        <seg>Los resultados de una investigación llevada a cabo por los líderes provinciales y citadinos ratificaron, en esencia, las opiniones de los campesinos; el Secretario local del Partido fue expulsado de su cargo y se impuso sanciones administrativas a los demás dirigentes.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20161001T010023Z">
+        <seg>Los resultados de una investigación llevada a cabo por los líderes provinciales y citadinos ratificaron, en esencia, las opiniones de los campesinos. El Secretario local del Partido fue expulsado de su cargo y se impuso sanciones administrativas a los demás dirigentes.</seg>
       </tuv>
     </tu>
     <tu>
