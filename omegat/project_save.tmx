@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11405,6 +11405,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="bluebird" changedate="20160913T003039Z">
         <seg>En 1939, cuando tenía 13 años, Jiang fue adoptado por la familia de su tío, Jiang Shangqing, quien había sido martirizado como consecuencia de sus actividades revolucionarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1943, Jiang began to study electrical engineering at Nanjing’s Central University, which was subsequently merged with Shanghai’s Jiaotong &lt;s0/&gt;University.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030304Z" creationid="rona" creationdate="20161001T030304Z">
+        <seg>En 1943, Jiang comenzó a estudiar ingeniería eléctrica en la Universidad Central de Nanjing, la cual se fusionó posteriormente con la Universidad Jiaotong de Shanghái.  &lt;s0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
