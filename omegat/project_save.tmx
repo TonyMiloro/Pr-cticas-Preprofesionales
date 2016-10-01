@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18312,6 +18312,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T162124Z">
         <seg>Los cambios de personal en el resto del Polítburó continuaron con el mismo patrón de jubilaciones sobre la base de la edad y las negociaciones sobre los nuevos nombramientos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personnel changes in the rest of the Politburo followed the same pattern of age-based retirements and bargaining over new appointments. The four people born before 1940 retired. With the decision to promote He Guo- qiang and Zhou Yongkang to the PBSC, there were seven slots (including that opened by Chen Liangyu's arrest). These were filled by Li Yuanchao, who will take over the Organization Department and help shape a Party leadership more in Hu's image; Wang Qishan, an experienced banker who is likely to be named a vice-premier at the NPC meeting in March 2008; Liu Yandong, a CYL cadre who has good ties with Zeng Qinghong for historical reasons; Bo Xilai, the son of the late Party elder Bo Yibo; Zhang Gaoli, who replaced Zhang Lichang as Party secretary of Tianjin, one of the three municipalities that are granted seats on the Politburo; and Xu Caihou, a vice-chairman of the CMC who replaces the retiring Cao Gangchuan and maintains the PLA tradition of having two seats on the Politburo. A deci- sion not to name any alternates to the Politburo allowed Wang Gang to be elevated to full membership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20161001T010818Z" creationid="Bangho" creationdate="20161001T010818Z">
+        <seg>Los cambios de personal en el resto del Politburó continuaron con el mismo patrón de jubilaciones sobre la base de la edad y las negociaciones sobre los nuevos nombramientos. Las cuatro personas nacidas antes de 1940 se jubilaron. Luego de la decisión de ascender a He Guoqiang y Zhou Yongkang al PBSC, había siete puestos vacantes (entre los que se incluye el que quedó luego del arresto de Chen Lyangyu). Estas vacantes fueron ocupadas por: Li Yuanchao, quien estará a cargo del Departamento de Organización y además contribuirá a dar forma al liderazgo del partido para que se adecue a la imagen de Hu; Wang Qishan, un bancario con experiencia quien probablemente sea nombrado vice primer ministro en la reunión de la APN en marzo de 2008; Liu Yandong, un delegado de la LJC, quien mantiene una buena relación con Zeng Qinghong debido a cuestiones históricas; Bo Xilai, hijo del antiguo miembro del partido Bo Yibo; Zhang Gaoli, quien reemplazó a Zhang Lichang como secretario del partido en Tianjin, uno de los tres municipios a los que se le otorgan bancas en el Politburó; y Xu Caihou, el vicepresidente de la Comisión Militar Central, quien reemplaza al retirado Cao Gangchuan y quien mantiene la tradición del EPL de ocupar dos bancas en el Politburó. La decisión de no nombrar a ningún suplente al Politburó permitió que Wang Gang ascendiera y tuviera plena adhesión al partido.</seg>
       </tuv>
     </tu>
     <tu>
