@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5784,6 +5784,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       </tuv>
       <tuv lang="ES-US" changeid="Usuario" changedate="20160928T201424Z">
         <seg>3 de agosto La Marina de los EE. UU. detiene al buque chino “Yin He”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aware of the controversies raging within the Party, Jiang Zemin’s close conﬁdante Chen Zhili, head of the Shanghai Propaganda Department (and appointed in 1998 to head the Ministry of Education and in 2003 to be a State Councilor), was upset when she saw galley proofs of the forthcoming issue of the &lt;f0&gt;World Economic Herald&lt;/f0&gt;, fearing that it would give new stimulus to the demonstrations.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T032733Z" creationid="rona" creationdate="20161001T032656Z">
+        <seg>Consciente de las controversias que continuaban dentro del partido, Chen Zhili, el confidente más cercano de Jiang Zemin y director del Departamento de Propaganda de Shanghái (designado en 1998 como director del Ministerio de Educación y en 2003 como Consejero del Estado) se molestó cuando vio el bosquejo de la nota sobre los acontecimientos del  &lt;f0&gt;World Economic Herald&lt;/f0&gt;, ya que temía que provocara nuevos estímulos a las manifestaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17640,6 +17648,14 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
       </tuv>
       <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T020803Z">
         <seg> Luego de escuchar la sugerencia de Deng, el veterano del partido Wang Zhen aparentemente  se enfureció, declarando que las políticas de Deng estaban llevando al país hacia el camino del capitalismo. 55&lt;t3/&gt;En&lt;t4/&gt;ese momento, tal como el exabrupto de Deng lo demostraba, el partido seguía demasiado dividido por el peligro que representaba la "evolución pacífica". En septiembre, el jefe del Departamento de Propaganda Wang&lt;t5/&gt;Renzhi&lt;t6/&gt; y otras personas habían organizado un grupo de estudio de "evolución anti-pacífica" en la Escuela Central del Partido Comunista Chino que advertía que la evolución pacífica podía ser estimulada por los "pragmáticos" en posición de líderes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On hearing of the situation, Jiang Zemin called the editor of the &lt;s1/&gt;&lt;f2&gt;World Economic&lt;/f2&gt; &lt;f3&gt;Herald,&lt;/f3&gt; Qin Benli, and told him to delete sensitive paragraphs from the offending issue.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T032559Z" creationid="rona" creationdate="20161001T032559Z">
+        <seg>Al enterarse de esta situación, Jiang Zemin llamó al editor del  &lt;s1/&gt;&lt;f2&gt;World Economic&lt;/f2&gt; &lt;f3&gt;Herald,&lt;/f3&gt; Qin Benli, y le dijo que eliminara párrafos sensibles al problema ofensivo. </seg>
       </tuv>
     </tu>
     <tu>
