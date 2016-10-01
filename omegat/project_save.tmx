@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12333,8 +12333,8 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       <tuv lang="EN-US">
         <seg>In his 1989 National Day (October 1) address, Jiang Zemin asserted that there were two types of reform: one that upholds the four cardinal principles and one that is based on “bourgeois liberalization.” The question, Jiang said, was whether the socialist orientation would be upheld.33[16] Deng had opened the way for this line of analysis in his May 31 talk with Li Peng and Yao Yilin.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160930T191938Z">
-        <seg>En su discurso del Dia Nacional de 1989 (1 de octubre), Jiang Zemin afirmó que habia dos tipos de reformas: una que apoyaba los cuatro principios cardinales y otra basada en la "liberalizacion burguesa". La pregunta, dijo Jiang, era si la orientacion socialista sería apoyada. Deng había abierto el camino para esta línea de analisis en su clarla del 31 de mayo con Li Peng y Yao Yilin.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T025603Z">
+        <seg>En su discurso del Dia Nacional de 1989 (1 de octubre), Jiang Zemin afirmó que habia dos tipos de reformas: una que apoyaba los cuatro principios cardinales y otra basada en la "liberalizacion burguesa". La pregunta, dijo Jiang, era si la orientacion socialista sería apoyada33. Deng había abierto el camino para esta línea de analisis en su clarla del 31 de mayo con Li Peng y Yao Yilin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22752,8 +22752,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The reform I talk about is different.” 34[17] In picking up Deng’s thought and posing the question the way he did, Jiang raised the issue that would dominate Chinese politics for much of the next two years: What was socialist and what was capitalist?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160928T175406Z">
-        <seg>La reforma de la que hablo es diferente". Recogiendo el pensamiento de Deng y  formulando la pregunta como lo hizo él, Jiang plantea la cuestión que dominaría a los politicos chinos por mas de dos años: ¿Qué era socialista y que era capitalista?</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T025938Z">
+        <seg>La reforma de la que hablo es diferente"34. Recogiendo el pensamiento de Deng y  formulando la pregunta como lo hizo él, Jiang plantea la cuestión que dominaría a los politicos chinos por mas de dos años: ¿Qué era socialista y que era capitalista?</seg>
       </tuv>
     </tu>
     <tu>
