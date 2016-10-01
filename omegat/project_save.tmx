@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8295,8 +8295,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Despite declaring that Tiananmen had been brewing and had been “premeditated” for a long time, Chen’s report focused narrowly on the alleged actions of Zhao and some of his supporters only in the months immediately preceding the crisis and during the demonstration itself.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T023334Z">
-        <seg>A pesar de declarar que Tiananmén había sido gestado y "premeditado" durante mucho tiempo, el informe de Chen se focalizaba estrictamente en las supuestas acciones de Zhao y de algunos de sus seguidores solo en los meses que inmediatamente precedieron a la crisis y durante la manifestación en sí.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T023401Z">
+        <seg>A pesar de declarar que Tiananmén había sido gestado y "premeditado" durante mucho tiempo, el informe de Chen se focalizaba estrictamente en las supuestas acciones de Zhao y de algunos de sus seguidores solo en los meses que precedieron inmediatamente a la crisis y durante la manifestación en sí.</seg>
       </tuv>
     </tu>
     <tu>
