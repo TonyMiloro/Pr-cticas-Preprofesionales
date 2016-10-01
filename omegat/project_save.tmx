@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20177,8 +20177,8 @@ criminal prosecution.</seg>
       <tuv lang="EN-US">
         <seg>Such pressures rewarded rough behavior on the part of cadres and even became a criterion for cadre selection.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="user" changedate="20160930T160617Z">
-        <seg>Estas presiones premiaban la severidad de los cuadros y dicha cualidad se convirtió en un requisito para la selección de estos puestos.</seg>
+      <tuv lang="ES-US" changeid="Monzon" changedate="20161001T003051Z">
+        <seg>Estas presiones premiaban la severidad de los cuadros y esta cualidad se convirtió en un requisito para la selección de estos puestos.</seg>
       </tuv>
     </tu>
     <tu>
