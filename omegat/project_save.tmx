@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4765,8 +4765,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As Zhao put it, “Actually, the attitudes of these persons mattered little, as Deng might have imposed military control even if all five had disapproved.”20[3] A meeting of the Politburo Standing Committee later that evening formally endorsed Deng’s view.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T132122Z">
-        <seg>Según Zhao, "En realidad, las actitudes de estas personas importaban poco, porque Deng podría haber impuesto control militar incluso si los cinco se oponían".20[3]  Una reunión del Comité Permanente del Politburó esa tarde respaldó formalmente las intenciones de Deng.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T014050Z">
+        <seg>Según Zhao, "En realidad, las actitudes de estas personas importaban poco, porque Deng podría haber impuesto control militar incluso si los cinco se oponían".20 Luego, una reunión del Comité Permanente del Politburó esa tarde respaldó formalmente las intenciones de Deng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18591,8 +18591,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Prior to the meeting, Zhao had canvassed the opinions of his colleagues and found that four of them – Hu Qili, Qiao Shi, Yang Shangkun, and himself – all opposed declaring martial law.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T013840Z">
-        <seg>Antes del encuentro, Zhao había averiguado las opiniones de sus colegas  y descubrió que cuatro de ellos - Hu Qili, Qiao Shi, Yang Shangkun y él mismo- se oponían a declarar ley marcial.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T013911Z">
+        <seg>Antes del encuentro, Zhao había averiguado las opiniones de sus colegas  y descubrió que cuatro de ellos (Hu Qili, Qiao Shi, Yang Shangkun y él mismo) se oponían a declarar ley marcial.</seg>
       </tuv>
     </tu>
     <tu>
