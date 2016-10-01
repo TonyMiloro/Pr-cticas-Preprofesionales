@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8222,8 +8222,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng’s sharp defense of the Thirteenth Party Congress resolution – “not one character should be changed” – was no doubt intended to staunch this anti-reform tide.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160913T211016Z">
-        <seg>La fuerte defensa de Deng contra la resolución del Decimotercer Congreso del Partido – “ningún caracter deberá cambiarse" – sin duda alguna estaba orientada a contener esta ola de anit-reformas.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T013810Z">
+        <seg>La fuerte defensa de Deng contra la resolución del Decimotercer Congreso del Partido (“ningún caracter deberá cambiarse") sin duda alguna estaba orientada a contener esta ola de antirreformas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18591,8 +18591,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Prior to the meeting, Zhao had canvassed the opinions of his colleagues and found that four of them – Hu Qili, Qiao Shi, Yang Shangkun, and himself – all opposed declaring martial law.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T133733Z">
-        <seg>Antes del encuentro, Zhao había averiguado las opiniones de sus colegas  y halló que cuatro de ellos - Hu Qili, Qiao Shi, Yang Shangkun y él mismo- se oponían a declarar ley marcial.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T013840Z">
+        <seg>Antes del encuentro, Zhao había averiguado las opiniones de sus colegas  y descubrió que cuatro de ellos - Hu Qili, Qiao Shi, Yang Shangkun y él mismo- se oponían a declarar ley marcial.</seg>
       </tuv>
     </tu>
     <tu>
