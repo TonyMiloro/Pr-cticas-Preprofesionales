@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4045,8 +4045,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>Although the Party, in the interest of putting ideological battles behind it at the beginning of the reform era, had ceased to describe intra-Party conflicts as “line struggles,” the notion of political line and hence of line struggle remained very much a part of Party life at the elite level.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T030504Z">
-        <seg>Aunque el Partido, en el interés de poner batallas ideológicas detrás de este a principios de la era de la reforma, había cesado para describir los conflictos intrapartidarios como "luchas de línea", la noción de línea política y, por consiguiente, la lucha de línea permanecieron como parte de la vida del Partido en un nivel elite.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T030528Z">
+        <seg>Aunque el Partido, en el interés de poner batallas ideológicas detrás de este a principios de la era de la reforma, había cesado para describir los conflictos intrapartidarios como "luchas de línea", la noción de línea política y, por consiguiente, la lucha de línea permanecieron como parte de la vida del Partido en un nivel de la elite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24066,8 +24066,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This assumption about inner-Party struggles comes through clearly in a talk Song Ping gave to a national meeting of organization department heads, where he implicitly criticized Zhao for making line errors.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20160930T193237Z">
-        <seg>Esta suposición sobre las luchas intrapartidarias se esclarecieron en una charla que Song Ping dio a una reunion nacional de las cabezas del departamento de organizacion, donde implicitamente critico a Zhao por comenter errores de linea. </seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T030612Z">
+        <seg>Esta suposición sobre las luchas intrapartidarias se esclarecieron en una charla que Song Ping dio en una reunión nacional de las cabezas del departamento de organización, donde implicitamente critico a Zhao por comenter errores de linea. </seg>
       </tuv>
     </tu>
     <tu>
