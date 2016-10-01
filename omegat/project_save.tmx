@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10501,6 +10501,14 @@ Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC 
       </tuv>
       <tuv lang="ES-US" changeid="USER" changedate="20160930T201407Z">
         <seg>Por lo tanto, él era considerado una persona aceptable por los &lt;/f33&gt;&lt;/f32&gt;dirigentes destacados &lt;f34&gt;&lt;f35&gt;del Partido&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;, y eso &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; se consideraba &lt;/f39&gt;&lt;/f38&gt;como una característica importante para el&lt;f40&gt;&lt;f41&gt; liderazgo.&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He was thus acceptable to the leading ﬁgures in the Party, and that in itself was an important qualiﬁcation for leadership.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T032206Z" creationid="rona" creationdate="20161001T032206Z">
+        <seg>Por lo tanto, él era considerado una persona aceptable por los miembros destacadas del partido, y eso se consideraba como una característica importante para el liderazgo.</seg>
       </tuv>
     </tu>
     <tu>
