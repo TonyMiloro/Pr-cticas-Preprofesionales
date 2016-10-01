@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24354,8 +24354,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>This move caused obvious anxieties in China and prompted conservatives to take an even harder line.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="carolaamiel" changedate="20160930T190440Z">
-        <seg>Este cambio generó preocupaciones en China y le dió pie a los conservadores para adoptar una postura más firme.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T010112Z">
+        <seg>Este cambio generó preocupaciones en China y le dio pie a los conservadores para adoptar una postura más firme.</seg>
       </tuv>
     </tu>
     <tu>
