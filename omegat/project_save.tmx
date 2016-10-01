@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7926,8 +7926,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>Deng Xiaoping often spent part of the winter there, as did Chen Yun, who was born just outside the city and had spent his early revolutionary career in the city.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011651Z">
-        <seg>Deng Xiaoping a menudo pasa parte del invierno allí, como también lo hizo Chen Yun, quien naciera justo en las afueras de la ciudad y quien hubiera pasado su temprana carrera revolucionaria  allí.</seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T003311Z">
+        <seg>Deng Xiaoping a menudo pasa parte del invierno allí, como también lo hizo Chen Yun, quien naciera justo en las afueras de la ciudad y quien hubiera pasado su temprana carrera revolucionaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15075,8 +15075,8 @@ Según la tradición del Partido, se esperaba que Zaho apoyara la opinión de la
       <tuv lang="EN-US">
         <seg>Later, as mayor and then Party secretary of Shanghai, Jiang had many opportunities to host the top leadership when they visited Shanghai.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="USER" changedate="20160905T011535Z">
-        <seg>Luego, como intendente y como, más tarde, secretario del partido de Shanghái, Jiang tuvo muchas oportunidades para tener el liderazgo más alto cuando visitaron Shanghái. </seg>
+      <tuv lang="ES-US" changeid="USER" changedate="20161001T003224Z">
+        <seg>Luego, como intendente y, más tarde, como secretario del partido de Shanghái, Jiang tuvo muchas oportunidades de recibir a los miembros más importantes del liderazgo cuando visitaban Shanghái.</seg>
       </tuv>
     </tu>
     <tu>
