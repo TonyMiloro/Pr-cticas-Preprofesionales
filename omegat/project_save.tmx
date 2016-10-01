@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27696,8 +27696,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>but we have not focused on appropriate social policies to cultivate a modern structure of social strata.”&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Expressing similar concerns, Li Peilin states that for years China thought it could grow its way out of problems, but “a new round of economic growth would, on the contrary, exacerbate things, even to the extent of severely threatening the sustainability and stability of continued growth.” Has the time come, he asks, when China should adjust its development strategy from “taking economic development as the center” to “taking the coordinated development of the economy &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;and &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;society as the center” (emphasis added)?</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Monzon" changedate="20161001T000327Z">
-        <seg>pero no nos hemos enfocado en políticas sociales adecuadas para promover una estructura social moderna”.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Li Peilin manifiesta preocupaciones similares e indica que durante años China creyó que podría encontrar una solución a sus problemas, pero “un nuevo ciclo de crecimiento económico empeoraría la situación, incluso hasta el punto de amenazar seriamente la sustentabilidad y estabilidad del crecimiento continuo". Además, Peilin se pregunta: ¿habrá llegado el momento en que China debería reemplazar su estrategia actual de crecimiento que hace hincapié "en el desarrollo económico" por la táctica que "prioriza el desarrollo coordinado de la economía&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;y &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;la sociedad?.</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20161001T002153Z">
+        <seg>pero no nos hemos enfocado en políticas sociales adecuadas para promover una estructura social moderna”.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Li Peilin manifiesta preocupaciones similares e indica que durante años China creyó que podría encontrar una solución a sus problemas, pero “un nuevo ciclo de crecimiento económico empeoraría la situación, incluso hasta el punto de amenazar seriamente la sustentabilidad y estabilidad del crecimiento continuo". Además, Peilin se pregunta: ¿habrá llegado el momento en que China debería reemplazar su estrategia actual de crecimiento que hace hincapié "en el desarrollo económico" por la táctica que "prioriza el desarrollo coordinado de la economía &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;y &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;la sociedad?</seg>
       </tuv>
     </tu>
     <tu>
