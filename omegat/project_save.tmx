@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23794,8 +23794,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>These very different orientations underlay the mounting tensions in the Party in the late 1980s, and the anger and frustration of the left wing of the Party came pouring out in the aftermath of Tiananmen.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T021116Z">
-        <seg>Tras las tensiones que se acumulaban en el partido hacia fines de los ochenta, y el enojo y la frustración del ala izquierda del partido comenzaron a surgir luego de Tiananmén.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T021217Z">
+        <seg>Tras las tensiones que se acumulaban en el partido hacia fines de los ochenta se encontraban estas orientaciones muy diferentes, y el enojo y la frustración del ala izquierda del partido comenzaron a brotar luego de Tiananmén.</seg>
       </tuv>
     </tu>
     <tu>
