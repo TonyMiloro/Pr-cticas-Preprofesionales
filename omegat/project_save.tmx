@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9593,8 +9593,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
       <tuv lang="EN-US">
         <seg>For instance, in Hanchuan, reflective of much of central China, over 65 percent of the population had incomes &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;below &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;the average monthly family income of 141 yuan.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Agustín" changedate="20161001T013235Z">
-        <seg>Por ejemplo, Hanchuan reflejaba gran parte de la situación de China central ya que más del 65 % de su población tenía ingresos&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;por debajo &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;del promedio de un ingreso familiar mensual de 141 yuanes.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ES-US" changeid="Agustín" changedate="20161001T013632Z">
+        <seg>Por ejemplo, Hanchuan reflejaba gran parte de la situación de China central ya que más del 65 % de su población tenía ingresos &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;por debajo &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;del promedio de un ingreso familiar mensual de 141 yuanes.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
