@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9650,8 +9650,8 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
         <seg>For instance, referring to a widely publicized conversation between senior intellectuals Yan Jiaqi and Wen Yuankai intimating that Zhao might be removed as Liu Shaoqi had been, Chen declared that this dialogue was intended to “whip up public opinion for covering up Zhao Ziyang’s mistakes, keeping his position and power, and pushing bourgeois liberalization even more unbridledly.”25[8]
 Li Peng’s report to the Fourth Plenum, which unlike Chen’s report tothe NPC was not publicized in PRC media, makes it even clearer that the dispute between the two wings of the Party had existed for a long time.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T021725Z">
-        <seg>Por ejemplo, al referirse a la conversación entre los importantes intelectuales Yan Jiaqi y Wen Yuankai que fue ampliamente divulgada y daba a entender que Zhao podía ser removido tal como lo había sido Liu Shaoqi, Chen manifestó que este diálogo tenía la intención de "suscitar a la opinión pública para encubrir los errores de Zhao Ziyang, mantener su posición y poder, e impulsar la liberalización burguesa de manera desenfrenada25. A diferencia del reporte de Chen a NPC no fue publicado en los medios PRC, el reporte de Li Peng al cuarto pleno, aclara aún mas que la disputa entre las dos partes del partido había existido durante mucho tiempo.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T024016Z">
+        <seg>Por ejemplo, al referirse a la conversación entre los importantes intelectuales Yan Jiaqi y Wen Yuankai que fue ampliamente divulgada y daba a entender que Zhao podía ser removido tal como lo había sido Liu Shaoqi, Chen manifestó que este diálogo tenía la intención de "suscitar a la opinión pública para encubrir los errores de Zhao Ziyang, mantener su posición y poder, e impulsar la liberalización burguesa de manera desenfrenada25. A diferencia del reporte de Chen a APN no fue publicado en los medios PRC, el reporte de Li Peng al cuarto pleno, aclara aún mas que la disputa entre las dos partes del partido había existido durante mucho tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18495,8 +18495,8 @@ Zhao Ziyang was allowed to attend the Fourth Plenum and respond to Li Peng’s r
         <seg>Practice will convince people who doubt the socialist system.”27[10]
 Zhao’s speech also reveals that differences of opinion within the Party were long-standing.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T023622Z">
-        <seg>La práctica convencerá a la gente que duda del sistema socialista". 27 Las palabras de Zhao también demuestran que las diferencias de opinión dentro del partido son de larga data.</seg>
+      <tuv lang="ES-US" changeid="Carmen" changedate="20161001T024111Z">
+        <seg>La práctica convencerá a la gente que duda del sistema socialista"27. Las palabras de Zhao también demuestran que las diferencias de opinión dentro del partido son de larga data.</seg>
       </tuv>
     </tu>
     <tu>
