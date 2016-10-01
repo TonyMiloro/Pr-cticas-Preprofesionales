@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22496,8 +22496,8 @@ a long and detailed report to the Standing Committee of the National People’s 
       <tuv lang="EN-US">
         <seg>The plenum approved the removal of three Zhao associates: Hu Qili from the Politburo Standing Committee and Rui Xingwen and Yan Mingfu from the Secretariat.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T022704Z">
-        <seg>El pleno aprobó la destitución de tres asociados de Zhao: Hu Qili del Comité Permanente del Politburó y Rui Xingwen y Yan Mingfu del Secretariado.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T022711Z">
+        <seg>El pleno aprobó la destitución de tres asociados de Zhao: Hu Qili del Comité Permanente del Politburó, y Rui Xingwen y Yan Mingfu del Secretariado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25653,8 +25653,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Veteran economic planner Song Ping and Tianjin mayor Li Ruihuan were added to the Politburo Standing Committee along with JiangZemin, while LiRuihuan and DingGuan’gen (Deng’s bridge partner) were added to the Secretariat.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T014300Z">
-        <seg>El veterano planificador económico Song Ping y el alcalde de Tianjin se incorporaron al Comité Permanente del Politburó junto con JiangZemin, mientras que LiRuihuan y DingGuan’gen (compañero de Deng) se incorporaron al Secretariadoecretariado.</seg>
+      <tuv lang="ES-US" changeid="Nadine" changedate="20161001T022754Z">
+        <seg>El veterano planificador económico Song Ping y el alcalde de Tianjin se incorporaron al Comité Permanente del Politburó junto con JiangZemin, mientras que LiRuihuan y DingGuan’gen (compañero de Deng) se incorporaron al Secretariado.</seg>
       </tuv>
     </tu>
     <tu>
