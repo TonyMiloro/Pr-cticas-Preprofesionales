@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4789,8 +4789,8 @@ Other articles criticized Zhao for putting forth the idea of “transforming the
       <tuv lang="EN-US">
         <seg>As a PRC-affiliated Hong Kong magazine later put it, “Deng played a crucial role in preventing China from incorrectly summing up the experiences of the Soviet coup and in rendering the ‘leftist’ forces in the Party unable to use the opportunity to expand their influence.”42 Internationally, Deng reiterated his call for caution, saying that China should “tackle calmly, observe coolly, and pay good attention to our own national affairs.”43 Domestically, he inaugurated a determined campaign to reassert his own leadership and to put his understanding of reform back in the center.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Bruno Cesar" changedate="20160930T152158Z">
-        <seg>Tal como una revista de Hong Kong afiliada con la República Popular de China lo expresó, ”Deng tuvo un rol crucial para prevenir que China repita las experiencias del golpe de estado soviético y logrando que las fuerzas ”izquierdistas” del partido no puedan utilizar esta oportunidad para expandir su influencia”. 42 A nivel internacional, Deng reiteró su llamado a la precaución, expresando que China debería ”atacar calmada, observar tranquila, y prestar atención a sus propios asuntos internos”. 43 A nivel nacional, inauguró una campaña deteminada para asegurar su liderazgo y para poner su pensamiento sobre la reforma en el centro nuevamente.</seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T012621Z">
+        <seg>Tal como una revista de Hong Kong afiliada con la República Popular de China lo expresó, ”Deng tuvo un rol crucial para prevenir que China repita las experiencias del golpe de estado soviético y logrando que las fuerzas ”izquierdistas” del partido no puedan utilizar esta oportunidad para expandir su influencia”. 42 A nivel internacional, Deng reiteró su llamado a la precaución, expresando que China debería ”atacar calmada, observar tranquila, y prestar atención a sus propios asuntos internos”. 43 A nivel nacional, inauguró una campaña deteminada para asegurar su liderazgo y para poner su pensamiento sobre la reforma en el centro de nuevo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18743,8 +18743,8 @@ Zhao’s speech also reveals that differences of opinion within the Party were l
       <tuv lang="EN-US">
         <seg>Reacting quickly to conservatives’ efforts to assert themselves following the Soviet coup, Deng intervened to insist on accelerating reform and opening up.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Luisina" changedate="20160918T163022Z">
-        <seg>Reaccionando a los esfuerzos de los conservativos de inmediato para reafirmarse luego del golpe de estado soviético, Deng intervino para insistir en la aceleración de la reforma y el sinceramiento. </seg>
+      <tuv lang="ES-US" changeid="carolaamiel" changedate="20161001T012456Z">
+        <seg>Al reaccionar a los esfuerzos de los conservativos de inmediato para reafirmarse luego del golpe de estado soviético, Deng intervino para insistir en la aceleración de la reforma y el sinceramiento. </seg>
       </tuv>
     </tu>
     <tu>
