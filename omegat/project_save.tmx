@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22506,6 +22506,14 @@ a long and detailed report to the Standing Committee of the National People’s 
       </tuv>
       <tuv lang="ES-US" changeid="Mariela" changedate="20160930T151645Z">
         <seg>El informe político que Hu entregó al congreso tuvo al menos tres consecuencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The political report that Hu delivered to the Congress did at least three things. First, it reaffirmed "reform and opening up." This reaffirmation may not seem strange until one recalls the very heated debates about reform pol- icy discussed in Chapter 8. The discussion grew so heated that both Hu Jintao and Wen Jiabao were forced to make strong statements reaffirming reform and opening up at the NPC meeting in March 2006. These state- ments, however, did not quell discussion. Over the summer of 2007, tens of retired cadres wrote a strongly worded letter to the Central Committee, "Have we lost our correct orientation?" The letter goes on and says that "The reforms now being carried out in China are reforms for turning the public ownership system into the private ownership system and for turning socialism into capitalism."</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Bangho" changedate="20161001T011032Z" creationid="Bangho" creationdate="20161001T011032Z">
+        <seg>El informe político que Hu entregó al congreso tuvo al menos tres consecuencias. Primero, reafirmó “la reformas políticas y la apertura al mundo”. Esta ratificación parece excepcional hasta que se hace referencia a los intensos debates sobre las políticas de reforma discutidas en el capítulo 8. El debate se volvió tan intenso que Hu Jintao y Wen Jiabao fueron obligados a hacer fuertes declaraciones reafirmando la reforma y la apertura durante la reunión de la APN en marzo de 2006. Estas declaraciones; sin embargo, no terminaron con las discusiones. En el verano de 2007, un grupo de expertos retirados redactaron una carta clara y concisa dirigida al Comité Central que señalaba: “¿Hemos perdido nuestro eje?” Se prosigue y se agrega: “Las reformas que se están llevando a cabo en este momento en China tienen como objetivo transformar el sistema de propiedad pública en un sistema de propiedad privada y convertir el socialismo en capitalismo”.</seg>
       </tuv>
     </tu>
     <tu>
