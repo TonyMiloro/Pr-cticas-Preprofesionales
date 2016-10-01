@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27415,8 +27415,8 @@ Both personal animosity toward Zhao and broader criticism of the “line” that
       <tuv lang="EN-US">
         <seg>Zhao had asked for a meeting with Deng to explain his views, but instead of meeting individually Deng notified Li Peng, Yao Yilin, Hu Qili, Qiao Shi – the other members of the Politburo Standing Committee – and Yang Shangkun.</seg>
       </tuv>
-      <tuv lang="ES-US" changeid="Nadine" changedate="20160928T131924Z">
-        <seg>Zhao había solicitado una reunión con Deng para explicarle sus puntos de vista, pero en lugar de un encuentro individual Deng le avisó a Li Peng, Yao Yilin, Hu Qili, Qiao Shi, los otros miembros del Comité Permanente del Politburó, y a Yang Shangkun.</seg>
+      <tuv lang="ES-US" changeid="Lorena Baretto" changedate="20161001T021148Z">
+        <seg>Zhao había solicitado una reunión con Deng para explicarle sus puntos de vista, pero en lugar de un encuentro individual, Deng le avisó a Li Peng, Yao Yilin, Hu Qili, Qiao Shi, los otros miembros del Comité Permanente del Politburó, y a Yang Shangkun.</seg>
       </tuv>
     </tu>
     <tu>
