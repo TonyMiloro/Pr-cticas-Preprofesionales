@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9092:9109" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2676,6 +2676,14 @@
       </tuv>
       <tuv lang="ES-US" changeid="PC" changedate="20160924T174440Z">
         <seg>He Qinglian denominó a la venta de tierra (la mayoría de las cuales habían sido previamente un activo desvalorado) como “el movimiento de cercamiento” de China, en referencia al movimiento inglés del siglo XVII del mismo nombre.   &lt;s1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;It &lt;s2/&gt;was &lt;s3/&gt;at &lt;s4/&gt;this &lt;s5/&gt;time &lt;s6/&gt;that &lt;s7/&gt;Jiang &lt;s8/&gt;became &lt;s9/&gt;actively involved in the Shanghai underground, and in June 1946 he joined the CCP.</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="rona" changedate="20161001T030423Z" creationid="rona" creationdate="20161001T030423Z">
+        <seg>&lt;s1/&gt;&lt;s2/&gt;&lt;s3/&gt;&lt;s4/&gt;&lt;s5/&gt;&lt;s6/&gt;&lt;s7/&gt;&lt;s8/&gt;&lt;s9/&gt;Fue en ese momento cuando Jiang se involucró de forma activa en el grupo opositor de Shanghái, y en junio de 1946 se unió al PCCh..</seg>
       </tuv>
     </tu>
     <tu>
