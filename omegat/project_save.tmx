@@ -6772,6 +6772,14 @@ el año anterior, la foto de Jiang había aparecido en la página frontal de Peo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Call us today at 1-800-666-1234</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="Usuario" changedate="20161017T142351Z" creationid="Usuario" creationdate="20161017T142351Z">
+        <seg>Llámenos al 1-800-666-1234</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cambridge Modern China Series</seg>
       </tuv>
       <tuv lang="ES-US" changeid="Usuario-Pc" changedate="20160919T145221Z">
